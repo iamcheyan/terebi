@@ -560,7 +560,6 @@
     });
     </script>
 
-    <!-- 在body结束标签前添加移动端折叠脚本 -->
-    <script src="scripts/mobile-accordion.js"></script>
+    
 </body>
 </html> 

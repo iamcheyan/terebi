@@ -70,15 +70,17 @@ html.mobile-device .channel-list-title {
 html.mobile-device .channel-section h3 {
     position: relative;
     cursor: pointer;
-    padding: 10px 15px;
-    background: rgba(0, 0, 0, 0.2);
-    border-radius: 6px;
-    margin-bottom: 10px;
-    display: flex;
+    padding: 0 10px;
+    border-bottom: none;
+    /* background: rgba(0, 0, 0, 0.2); */
+    /* border-radius: 6px; */
+    /* margin-bottom: 10px; */
+    /* display: flex;
     justify-content: space-between;
     align-items: center;
     transition: background-color 0.2s ease;
-}
+    */
+} 
 
 html.mobile-device .channel-section h3:hover {
     background: rgba(0, 0, 0, 0.3);
@@ -126,23 +128,16 @@ html.mobile-device .channel-list {
 }
 
 html.mobile-device .channel-list {
-    display: flex;
+    display: block;
+    /* display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 12px; */
     width: 100%;
 }
 
 html.mobile-device .channel-button {
-    width: 100%;
-    padding: 12px 0;
-    font-size: 14px;
-    text-align: center;
-    background: linear-gradient(to bottom, #2c2c2c, #222);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 8px;
-    transition: all 0.2s ease;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    margin: 0;
+    display: inline-block;
+    color: #999;
 }
 
 html.mobile-device .channel-button:active {
@@ -152,8 +147,9 @@ html.mobile-device .channel-button:active {
 
 html.mobile-device .channel-button.active {
     background: linear-gradient(to bottom, #2a6ac1, #1e5aa3);
-    border-color: rgba(255, 255, 255, 0.2);
-    box-shadow: 0 0 8px rgba(30, 144, 255, 0.4);
+    /* border-color: rgba(255, 255, 255, 0.2); */
+    /* box-shadow: 0 0 8px rgba(30, 144, 255, 0.4); */
+    color: #fff;
 }
 
 html.mobile-device .video-grid {
@@ -178,7 +174,7 @@ html.mobile-device .load-button {
 
 html.mobile-device .channel-section {
     width: 100%;
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 
 html.mobile-device #channelSelector,
