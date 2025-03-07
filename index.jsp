@@ -74,9 +74,7 @@
                     チャンネルリスト
                 </div>
                 
-                <button id="loadChannels" class="load-button">チャンネルリストを読み込む</button>
-                
-                <div id="channelSelector" style="display: none;">
+                <div id="channelSelector">
                     <div id="channelCategories">
                         <!-- 频道分类将在这里显示 -->
                     </div>
@@ -90,7 +88,6 @@
         const statusElement = document.getElementById('status');
         const videoContainer = document.getElementById('videoContainer');
         const playlistInfoElement = document.getElementById('playlistInfo');
-        const loadChannelsButton = document.getElementById('loadChannels');
         const channelSelector = document.getElementById('channelSelector');
         const channelCategories = document.getElementById('channelCategories');
         const playerContainer = document.getElementById('playerContainer');
@@ -99,12 +96,6 @@
         document.addEventListener('DOMContentLoaded', function() {
             console.log('页面已加载，自动获取频道列表');
             fetchChannelList(true); // 传递参数表示加载后随机选择一个频道
-        });
-        
-        // 加载频道按钮事件监听
-        loadChannelsButton.addEventListener('click', function() {
-            console.log('加载频道按钮被点击');
-            fetchChannelList(false); // 手动点击不需要随机选择
         });
         
         // 获取频道列表
@@ -148,7 +139,6 @@
                 }
                 
                 statusElement.textContent = 'チャンネルリストの読み込みが完了しました。チャンネルを選択してください';
-                loadChannelsButton.style.display = 'none';
                 channelSelector.style.display = 'block';
                 
                 // 如果需要自动选择随机频道
@@ -396,25 +386,6 @@
             playVideo(randomVideo.videoId);
         }
 
-        // 播放器状态变化
-        function onPlayerStateChange(event) {
-            // 当视频结束时
-            if (event.data == YT.PlayerState.ENDED) {
-                // 检查是否有播放列表
-                if (window.videoPlaylist && window.videoPlaylist.length > 0) {
-                    // 随机选择下一个视频
-                    const randomIndex = Math.floor(Math.random() * window.videoPlaylist.length);
-                    const nextVideo = window.videoPlaylist[randomIndex];
-                    
-                    // 更新状态 - 显示频道URL
-                    statusElement.textContent = '再生中: ' + nextVideo.url;
-                    
-                    // 播放随机选择的视频
-                    playVideo(nextVideo.videoId);
-                }
-            }
-        }
-
         // 播放视频
         function playVideo(videoId) {
             if (!videoId) {
@@ -425,24 +396,44 @@
             // 隐藏加载动画
             document.querySelector('.player-loading').style.display = 'none';
             
+            const playerConfig = {
+                videoId: videoId,
+                playerVars: {
+                    'autoplay': 1,
+                    'controls': 1,
+                    'rel': 0,
+                    'fs': 1,
+                    'cc_load_policy': 1,
+                    'cc_lang_pref': 'ja',
+                    'hl': 'ja',
+                    'enablejsapi': 1
+                }
+            };
+            
             if (player) {
                 // 如果播放器已存在，加载新视频
-                player.loadVideoById(videoId);
+                player.loadVideoById(playerConfig);
             } else {
                 // 初始化播放器
                 player = new YT.Player('player', {
                     height: '100%',
                     width: '100%',
-                    videoId: videoId,
-                    playerVars: {
-                        'autoplay': 1,
-                        'controls': 1,
-                        'rel': 0,
-                        'fs': 1
-                    },
+                    ...playerConfig,
                     events: {
                         'onReady': onPlayerReady,
-                        'onStateChange': onPlayerStateChange
+                        'onStateChange': onPlayerStateChange,
+                        'onApiChange': function(event) {
+                            // 当字幕API准备就绪时
+                            if (player.getOptions().indexOf('captions') !== -1) {
+                                // 获取可用的字幕轨道
+                                const tracks = player.getOption('captions', 'tracklist');
+                                // 启用字幕
+                                player.loadModule('captions');
+                                player.setOption('captions', 'track', {'languageCode': 'ja'});
+                                player.setOption('captions', 'reload', true);
+                                player.setOption('captions', 'fontSize', 2);
+                            }
+                        }
                     }
                 });
             }
@@ -451,6 +442,36 @@
         // 播放器准备就绪
         function onPlayerReady(event) {
             event.target.playVideo();
+            // 尝试启用字幕
+            if (player.getOptions().indexOf('captions') !== -1) {
+                player.loadModule('captions');
+                player.setOption('captions', 'track', {'languageCode': 'ja'});
+                player.setOption('captions', 'reload', true);
+                player.setOption('captions', 'fontSize', 2);
+            }
+        }
+        
+        // 播放器状态变化
+        function onPlayerStateChange(event) {
+            // 当视频开始播放时
+            if (event.data == YT.PlayerState.PLAYING) {
+                // 再次尝试启用字幕
+                if (player.getOptions().indexOf('captions') !== -1) {
+                    player.loadModule('captions');
+                    player.setOption('captions', 'track', {'languageCode': 'ja'});
+                    player.setOption('captions', 'reload', true);
+                    player.setOption('captions', 'fontSize', 2);
+                }
+            }
+            // 当视频结束时的原有逻辑
+            else if (event.data == YT.PlayerState.ENDED) {
+                if (window.videoPlaylist && window.videoPlaylist.length > 0) {
+                    const randomIndex = Math.floor(Math.random() * window.videoPlaylist.length);
+                    const nextVideo = window.videoPlaylist[randomIndex];
+                    statusElement.textContent = '再生中: ' + nextVideo.url;
+                    playVideo(nextVideo.videoId);
+                }
+            }
         }
         
         // 格式化日期函数
