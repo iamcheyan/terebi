@@ -1,0 +1,204 @@
+/* 移动端样式 - 不需要媒体查询包装 */
+html.mobile-device body {
+    font-size: 16px;
+}
+
+html.mobile-device .container {
+    padding: 0 15px;
+}
+
+html.mobile-device .page-header {
+    padding: 10px 0;
+}
+
+html.mobile-device .page-header .logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+html.mobile-device .page-header h1 {
+    font-size: 22px;
+}
+
+html.mobile-device .page-header .tagline {
+    display: none;
+}
+
+html.mobile-device .main-content {
+    display: block !important;
+    margin-top: 0;
+}
+
+html.mobile-device .left-column {
+    width: 100%;
+}
+
+html.mobile-device .right-column {
+    width: auto;
+    height: auto;
+    max-height: none;
+    margin-top: 20px;
+    padding: 12px;
+    position: static;
+}
+
+html.mobile-device #playerContainer {
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+html.mobile-device #status {
+    font-size: 13px;
+    padding: 10px;
+    margin: 12px 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 6px;
+    border-left: 3px solid #e74c3c;
+}
+
+html.mobile-device .channel-list-title {
+    font-size: 18px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #f0f0f0;
+    font-weight: 600;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 10px;
+}
+
+html.mobile-device .channel-section h3 {
+    position: relative;
+    cursor: pointer;
+    padding: 10px 15px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.2s ease;
+}
+
+html.mobile-device .channel-section h3:hover {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+html.mobile-device .accordion-indicator {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    position: relative;
+}
+
+html.mobile-device .accordion-indicator:before,
+html.mobile-device .accordion-indicator:after {
+    content: '';
+    position: absolute;
+    background-color: #fff;
+    transition: transform 0.3s ease;
+}
+
+html.mobile-device .accordion-indicator:before {
+    top: 5px;
+    left: 0;
+    width: 12px;
+    height: 2px;
+}
+
+html.mobile-device .accordion-indicator:after {
+    top: 0;
+    left: 5px;
+    width: 2px;
+    height: 12px;
+}
+
+html.mobile-device .channel-section.expanded .accordion-indicator:after {
+    transform: rotate(90deg);
+}
+
+html.mobile-device .channel-section.collapsed .accordion-indicator:after {
+    transform: rotate(0);
+}
+
+html.mobile-device .channel-list {
+    transition: all 0.3s ease-out;
+}
+
+html.mobile-device .channel-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+}
+
+html.mobile-device .channel-button {
+    width: 100%;
+    padding: 12px 0;
+    font-size: 14px;
+    text-align: center;
+    background: linear-gradient(to bottom, #2c2c2c, #222);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 0;
+}
+
+html.mobile-device .channel-button:active {
+    background: linear-gradient(to bottom, #3a3a3a, #2a2a2a);
+    transform: translateY(1px);
+}
+
+html.mobile-device .channel-button.active {
+    background: linear-gradient(to bottom, #2a6ac1, #1e5aa3);
+    border-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 8px rgba(30, 144, 255, 0.4);
+}
+
+html.mobile-device .video-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 10px;
+}
+
+html.mobile-device .video-info {
+    padding: 8px;
+}
+
+html.mobile-device .video-title {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+
+html.mobile-device .load-button {
+    width: 100%;
+    padding: 12px;
+    margin: 15px 0;
+}
+
+html.mobile-device .channel-section {
+    width: 100%;
+    margin-bottom: 0;
+}
+
+html.mobile-device #channelSelector,
+html.mobile-device #channelCategories {
+    width: 100%;
+}
+
+/* 小屏幕手机额外优化 */
+@media screen and (max-width: 480px) {
+    html.mobile-device .channel-list {
+        grid-template-columns: 1fr;
+        padding-bottom: 20px;
+    }
+    
+    html.mobile-device .channel-button {
+        padding: 14px;
+        font-size: 15px;
+    }
+    
+    html.mobile-device .video-grid {
+        grid-template-columns: 1fr;
+    }
+} 

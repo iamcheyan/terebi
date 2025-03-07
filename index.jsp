@@ -8,11 +8,44 @@
 <head>
     <meta charset="UTF-8">
     <title>Terebi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <!-- 添加 favicon -->
     <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB4PSIxMCIgeT0iMTAiIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCIgcng9IjgiIHJ5PSI4IiBmaWxsPSIjMzMzMzMzIiBzdHJva2U9IiM0NDQ0NDQiIHN0cm9rZS13aWR0aD0iMSIvPjxyZWN0IHg9IjEyIiB5PSIxMiIgd2lkdGg9Ijc2IiBoZWlnaHQ9Ijc2IiByeD0iNiIgcnk9IjYiIGZpbGw9IiMyYTJhMmEiLz48cmVjdCB4PSIxNSIgeT0iMTUiIHdpZHRoPSI3MCIgaGVpZ2h0PSI1MCIgcng9IjIiIHJ5PSIyIiBmaWxsPSIjMDAwMDAwIiBzdHJva2U9IiMyMjIyMjIiIHN0cm9rZS13aWR0aD0iMC41Ii8+PHJlY3QgeD0iMTUiIHk9IjE1IiB3aWR0aD0iMTQiIGhlaWdodD0iNTAiIGZpbGw9IiNmZmZmMDAiLz48cmVjdCB4PSIyOSIgeT0iMTUiIHdpZHRoPSIxNCIgaGVpZ2h0PSI1MCIgZmlsbD0iIzAwZmYwMCIvPjxyZWN0IHg9IjQzIiB5PSIxNSIgd2lkdGg9IjE0IiBoZWlnaHQ9IjUwIiBmaWxsPSIjZmY2OWI0Ii8+PHJlY3QgeD0iNTciIHk9IjE1IiB3aWR0aD0iMTQiIGhlaWdodD0iNTAiIGZpbGw9IiNmZjAwMDAiLz48cmVjdCB4PSI3MSIgeT0iMTUiIHdpZHRoPSIxNCIgaGVpZ2h0PSI1MCIgZmlsbD0iIzQxNjlMMSIvPjxyZWN0IHg9IjE1IiB5PSI3MCIgd2lkdGg9IjcwIiBoZWlnaHQ9IjE1IiByeD0iMiIgcnk9IjIiIGZpbGw9IiMyMjIyMjIiLz48Y2lyY2xlIGN4PSIyNSIgY3k9Ijc3LjUiIHI9IjMiIGZpbGw9IiM0NDQ0NDQiIHN0cm9rZT0iIzU1NTU1NSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48Y2lyY2xlIGN4PSI0MCIgY3k9Ijc3LjUiIHI9IjMiIGZpbGw9IiM0NDQ0NDQiIHN0cm9rZT0iIzU1NTU1NSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48Y2lyY2xlIGN4PSI1NSIgY3k9Ijc3LjUiIHI9IjMiIGZpbGw9IiM0NDQ0NDQiIHN0cm9rZT0iIzU1NTU1NSIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48Y2lyY2xlIGN4PSI3NSIgY3k9Ijc3LjUiIHI9IjQiIGZpbGw9IiM2NjY2NjYiIHN0cm9rZT0iIzc3Nzc3NyIgc3Ryb2tlLXdpZHRoPSIwLjUiLz48Y2lyY2xlIGN4PSI3NSIgY3k9Ijc3LjUiIHI9IjIiIGZpbGw9IiM1NTU1NTUiLz48bGluZSB4MT0iMzAiIHkxPSIxMCIgeDI9IjQwIiB5Mj0iMCIgc3Ryb2tlPSIjNjY2NjY2IiBzdHJva2Utd2lkdGg9IjEuNSIvPjxsaW5lIHgxPSI3MCIgeTE9IjEwIiB4Mj0iNjAiIHkyPSIwIiBzdHJva2U9IiM2NjY2NjYiIHN0cm9rZS13aWR0aD0iMS41Ii8+PC9zdmc+" type="image/svg+xml">
     
+    <!-- 基础样式 - 所有设备都加载 -->
     <link rel="stylesheet" href="styles/main.css">
+    
+    <!-- 使用JavaScript动态加载移动端样式 -->
+    <script>
+        // 检测是否为移动设备
+        function isMobileDevice() {
+            return (window.innerWidth <= 768) || 
+                   (navigator.userAgent.match(/Android/i)) || 
+                   (navigator.userAgent.match(/webOS/i)) || 
+                   (navigator.userAgent.match(/iPhone/i)) || 
+                   (navigator.userAgent.match(/iPad/i)) || 
+                   (navigator.userAgent.match(/iPod/i)) || 
+                   (navigator.userAgent.match(/BlackBerry/i)) || 
+                   (navigator.userAgent.match(/Windows Phone/i));
+        }
+        
+        // 动态加载移动端样式
+        if (isMobileDevice()) {
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = 'styles/mobile.css';
+            document.head.appendChild(link);
+            
+            // 添加移动端标记类
+            document.documentElement.classList.add('mobile-device');
+            
+            console.log('移动端样式已加载');
+        } else {
+            console.log('PC端样式已加载');
+        }
+    </script>
 </head>
 <body>
     <div class="container">
@@ -50,22 +83,24 @@
         
         <div class="main-content">
             <div class="left-column">
-                <!-- 播放器容器 -->
-                <div id="playerContainer">
-                    <div class="player-loading">
-                        <svg class="loading-icon" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <circle cx="12" cy="12" r="10" stroke="#3d7cf4" stroke-width="2" fill="none" stroke-dasharray="30 15"/>
-                        </svg>
-                        <span>動画を読み込んでいます。しばらくお待ちください...</span>
+                <div class="box-container">
+                   <!-- 播放器容器 -->
+                    <div id="playerContainer">
+                        <div class="player-loading">
+                            <svg class="loading-icon" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="12" cy="12" r="10" stroke="#3d7cf4" stroke-width="2" fill="none" stroke-dasharray="30 15"/>
+                            </svg>
+                            <span>動画を読み込んでいます。しばらくお待ちください...</span>
+                        </div>
+                        <div id="player"></div>
                     </div>
-                    <div id="player"></div>
-                </div>
-                
-                <!-- 状态信息移到播放器下方 -->
-                <div id="status">準備完了、チャンネルを読み込んでいます...</div>
-                
-                <div id="videoContainer" class="video-grid" style="display: none;">
-                    <!-- 视频卡片将在这里显示 -->
+                    
+                    <!-- 状态信息移到播放器下方 -->
+                    <div id="status">準備完了、チャンネルを読み込んでいます...</div>
+                    
+                    <div id="videoContainer" class="video-grid" style="display: none;">
+                        <!-- 视频卡片将在这里显示 -->
+                    </div>
                 </div>
             </div>
             
@@ -525,6 +560,7 @@
     });
     </script>
 
-
+    <!-- 在body结束标签前添加移动端折叠脚本 -->
+    <script src="scripts/mobile-accordion.js"></script>
 </body>
 </html> 

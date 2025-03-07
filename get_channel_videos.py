@@ -168,8 +168,18 @@ def main(only_uncached=False):
             # 检查data目录中是否已存在该频道的json文件
             data_filename = f'data/{info["name"]}.json'
             if os.path.exists(data_filename):
-                print(f'频道 {info["name"]} 的数据已存在于 {data_filename}, 跳过处理')
-                continue
+                # 获取文件的最后修改时间
+                file_mtime = os.path.getmtime(data_filename)
+                current_time = datetime.now().timestamp()
+                time_diff = current_time - file_mtime
+                
+                # 如果文件是24小时内创建的,跳过处理
+                if time_diff < 24 * 3600:
+                    print(f'频道 {info["name"]} 的数据在24小时内已更新,跳过处理')
+                    continue
+                else:
+                    print(f'频道 {info["name"]} 的数据已过期,准备更新')
+            
             response = requests.get(info["url"])
             if response.status_code == 200:
                 data = response.json()
