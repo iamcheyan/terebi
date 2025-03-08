@@ -32,14 +32,14 @@ def process_channel_json(input_file, output_dir):
             "videos": []
         }
         
-        # 打印原始数据的结构，帮助调试
-        print(f"原始数据键: {list(data.keys())}")
-        if "items" in data and len(data["items"]) > 0:
-            print(f"第一个item的键: {list(data['items'][0].keys())}")
-            if "snippet" in data["items"][0]:
-                print(f"第一个item的snippet键: {list(data['items'][0]['snippet'].keys())}")
-        elif "videos" in data and len(data["videos"]) > 0:
-            print(f"第一个video的键: {list(data['videos'][0].keys())}")
+        # # 打印原始数据的结构，帮助调试
+        # print(f"原始数据键: {list(data.keys())}")
+        # if "items" in data and len(data["items"]) > 0:
+        #     print(f"第一个item的键: {list(data['items'][0].keys())}")
+        #     if "snippet" in data["items"][0]:
+        #         print(f"第一个item的snippet键: {list(data['items'][0]['snippet'].keys())}")
+        # elif "videos" in data and len(data["videos"]) > 0:
+        #     print(f"第一个video的键: {list(data['videos'][0].keys())}")
         
         # 处理视频数据
         if "items" in data and isinstance(data["items"], list):
@@ -128,12 +128,42 @@ def process_channel_json(input_file, output_dir):
                         print(f"警告: 视频 {video_id} 缺少标题或缩略图")
                         print(f"video数据: {json.dumps(video, ensure_ascii=False)[:200]}...")
         
-        # 保存为新文件
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(new_data, f, ensure_ascii=False, indent=2)
-        
-        print(f"处理完成！已保存到 {output_file}")
-        print(f"共处理了 {len(new_data['videos'])} 个视频")
+        # 检查目标文件是否已存在
+        if os.path.exists(output_file):
+            # 如果文件已存在，读取现有数据
+            with open(output_file, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+            
+            # 获取现有视频ID列表
+            existing_video_ids = {video['id'] for video in existing_data.get('videos', [])}
+            
+            # 只添加不存在的视频
+            new_videos = []
+            for video in new_data['videos']:
+                if video['id'] not in existing_video_ids:
+                    new_videos.append(video)
+                    existing_video_ids.add(video['id'])
+            
+            # 将新视频添加到现有数据中
+            existing_data['videos'].extend(new_videos)
+            
+            # 保存合并后的数据
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(existing_data, f, ensure_ascii=False, indent=2)
+            
+            # 只有在有新增视频时才打印详细信息
+            if len(new_videos) > 0:
+                print(f"处理完成！已更新 {output_file}")
+                print(f"新增了 {len(new_videos)} 个视频，总共 {len(existing_data['videos'])} 个视频")
+            else:
+                print(f"{output_file} 没有新增视频，总共 {len(existing_data['videos'])} 个视频")
+        else:
+            # 如果文件不存在，直接保存新数据
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(new_data, f, ensure_ascii=False, indent=2)
+            
+            print(f"处理完成！已创建 {output_file}")
+            print(f"共处理了 {len(new_data['videos'])} 个视频")
         # print(f"其中有标题的视频: {sum(1 for v in new_data['videos'] if v['title'])}")
         # print(f"其中有缩略图的视频: {sum(1 for v in new_data['videos'] if v['thumbnail'])}")
         
@@ -161,7 +191,7 @@ if __name__ == "__main__":
         print(f"正在处理: {input_file}")
         process_channel_json(input_file, output_dir)
         
-    # 处理完后更新japan_tv_youtube_channels.json中的cached状态
+    # 处理完后更新japan_tv_youtube_channels.json中的状态
     try:
         # 读取japan_tv_youtube_channels.json
         with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as f:
@@ -169,29 +199,37 @@ if __name__ == "__main__":
         
         # 获取data目录下所有json文件名(不含扩展名)
         data_files = [os.path.splitext(os.path.basename(f))[0] for f in glob.glob(os.path.join(output_dir, "*.json"))]
+        # # 打印data_files内容
+        # print("已处理的频道列表:")
+        # for i, channel_name in enumerate(data_files, 1):
+        #     print(f"{i}. {channel_name}")
+        
+        # # 暂停程序执行
+        # input("按回车键继续...")
         
         # 创建一个集合，存储所有已知频道的名称
         existing_channels = set()
         
-        # 更新所有频道的缓存状态
+        # 更新所有频道的状态
         # 遍历所有分类（如全国放送局、地方放送局等）
         for category_name, category_data in channels_data.items():
             # 处理直接是频道列表的分类（如全国放送局）
             if isinstance(category_data, list):
                 for channel in category_data:
-                    channel["cached"] = channel["name"] in data_files
                     existing_channels.add(channel["name"])
+                    if "bakname" in channel and channel["bakname"].strip():
+                        existing_channels.add(channel["bakname"].strip())
             # 处理有区域子分类的情况（如地方放送局）
             elif isinstance(category_data, dict):
                 for region_data in category_data.values():
                     if isinstance(region_data, list):
                         for channel in region_data:
-                            channel["cached"] = channel["name"] in data_files
                             existing_channels.add(channel["name"])
+                            if "bakname" in channel and channel["bakname"].strip():
+                                existing_channels.add(channel["bakname"].strip())
         
         # 查找data_files中有但channels_data中没有的频道
         new_channels = [name for name in data_files if name not in existing_channels]
-        
         # 如果有新频道，添加到"その他"分类下的"その他チャンネル"列表中
         if new_channels:
             if "その他" not in channels_data:
@@ -200,10 +238,21 @@ if __name__ == "__main__":
                 channels_data["その他"]["その他チャンネル"] = []
                 
             for new_channel in new_channels:
+                # 读取对应的JSON文件获取channel_url
+                channel_file_path = os.path.join(output_dir, f"{new_channel}.json")
+                channel_url = ""
+                if os.path.exists(channel_file_path):
+                    with open(channel_file_path, 'r', encoding='utf-8') as channel_file:
+                        channel_data = json.load(channel_file)
+                        if "channel_url" in channel_data:
+                            channel_url = channel_data["channel_url"]
+                            print(f"成功提取 {new_channel} 的 channel_url: {channel_url}")  # 添加调试信息
+                        else:
+                            print(f"警告: {new_channel}.json 中没有找到 channel_url")  # 添加调试信息
+                
                 channels_data["その他"]["その他チャンネル"].append({
                     "name": new_channel,
-                    "url": "",
-                    "cached": True
+                    "url": channel_url
                 })
             print(f"已添加 {len(new_channels)} 个新频道到「その他チャンネル」分类")
                             
@@ -211,8 +260,8 @@ if __name__ == "__main__":
         with open('../japan_tv_youtube_channels.json', 'w', encoding='utf-8') as f:
             json.dump(channels_data, f, ensure_ascii=False, indent=4)
             
-        print("已更新japan_tv_youtube_channels.json中的cached状态")
+        print("已更新japan_tv_youtube_channels.json中的状态")
         
     except Exception as e:
-        print(f"更新cached状态时出错: {e}")
+        print(f"更新状态时出错: {e}")
         traceback.print_exc()

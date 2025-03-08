@@ -214,11 +214,6 @@
                 "name": "KFB福島放送",
                 "url": "https://www.youtube.com/@TV-qm8xe",
                 "bakname": " "
-            },
-            {
-                "name": "FTV福島テレビ",
-                "url": "https://www.youtube.com/@ftv-news",
-                "bakname": " "
             }
         ],
         "関東地方": [
@@ -759,6 +754,16 @@
         ]
     },
     "その他": {
+        "日本語学習": [
+            {
+                "name": "日語聽力淋浴",
+                "url": "https://www.youtube.com/@(142) 日語聽力淋浴 - YouTube (1)"
+            },
+            {
+                "name": "あかね的日本語教室",
+                "url": "https://www.youtube.com/@(142) あかね的日本語教室 - YouTube (2)"
+            }
+        ],
         "その他チャンネル": [
             {
                 "name": "めざましテレビチャンネル",
@@ -767,23 +772,23 @@
             },
             {
                 "name": "TMSアニメ公式チャンネル【アニメ制作60周年】",
-                "url": "",
-                "bakname": " "
-            },
-            {
-                "name": "コボちゃん-テレビシリーズ",
-                "url": "",
-                "bakname": " "
-            },
-            {
-                "name": "ドラえもん _ 藤子・F・不二雄チャンネル【公式】",
-                "url": "",
-                "bakname": " "
+                "url": ""
             },
             {
                 "name": "文部科学省",
-                "url": "",
-                "bakname": " "
+                "url": ""
+            },
+            {
+                "name": "クレヨンしんちゃん公式チャンネル",
+                "url": "https://www.youtube.com/@(142) 【アニメ】クレヨンしんちゃん公式チャンネル - YouTube (1)"
+            },
+            {
+                "name": "あたしンち公式チャンネル",
+                "url": "https://www.youtube.com/@Atashinchi"
+            },
+            {
+                "name": "ドラえもん __ 藤子・F・不二雄チャンネル",
+                "url": "https://www.youtube.com/@Doraemon_F_Channel"
             }
         ]
     }
