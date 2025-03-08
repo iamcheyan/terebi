@@ -15,7 +15,7 @@ import argparse
 """
 
 # 读取JSON文件
-with open('../WEB-INF/japan_tv_youtube_channels.json', 'r', encoding='utf-8') as file:
+with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 初始化URL列表
