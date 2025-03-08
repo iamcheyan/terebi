@@ -392,7 +392,7 @@ html:not(.mobile-device) .channel-list {
 }
 .link-box .git {
     display: inline-block; 
-    margin-right: 10px; 
+    /* margin-right: 10px;  */
     position: relative;
 }
 .link-box .git svg {

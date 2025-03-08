@@ -133,8 +133,8 @@ def process_channel_json(input_file, output_dir):
 
 if __name__ == "__main__":
     # 输入目录和输出目录
-    input_dir = "source"
-    output_dir = "data"
+    input_dir = "../source"
+    output_dir = "../data"
     
     # 确保输出目录存在
     os.makedirs(output_dir, exist_ok=True)
@@ -153,7 +153,7 @@ if __name__ == "__main__":
         # 处理完后更新japan_tv_youtube_channels.json中的cached状态
         try:
             # 读取japan_tv_youtube_channels.json
-            with open('japan_tv_youtube_channels.json', 'r', encoding='utf-8') as f:
+            with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as f:
                 channels_data = json.load(f)
             
             # 获取data目录下所有json文件名(不含扩展名)

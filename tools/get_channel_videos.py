@@ -15,7 +15,7 @@ import argparse
 """
 
 # 读取JSON文件
-with open('japan_tv_youtube_channels.json', 'r', encoding='utf-8') as file:
+with open('../WEB-INF/japan_tv_youtube_channels.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 初始化URL列表
@@ -24,7 +24,7 @@ channel_search_urls = []
 # 从配置文件读取API密钥
 import configparser
 config = configparser.ConfigParser()
-config.read('WEB-INF/config.properties')
+config.read('../WEB-INF/config.properties')
 api_keys = []
 
 # 读取并显示所有可用的API密钥
@@ -122,11 +122,11 @@ def save_videos_to_json(channel_id, original_name):
     videos = get_channel_videos(channel_id)
     
     # 创建source目录（如果不存在）并清空
-    if os.path.exists('source'):
-        for file in os.listdir('source'):
-            os.remove(os.path.join('source', file))
+    if os.path.exists('../source'):
+        for file in os.listdir('../source'):
+            os.remove(os.path.join('../source', file))
     else:
-        os.makedirs('source')
+        os.makedirs('../source')
     
     # 准备要保存的数据
     data = {
@@ -139,7 +139,7 @@ def save_videos_to_json(channel_id, original_name):
     
     # 使用原始名称作为文件名
     safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in original_name)
-    filename = f'source/{safe_name}.json'
+    filename = f'../source/{safe_name}.json'
     
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
@@ -166,7 +166,7 @@ def main(only_uncached=False):
             print(f'URL: {info["url"]}')
             
             # 检查data目录中是否已存在该频道的json文件
-            data_filename = f'data/{info["name"]}.json'
+            data_filename = f'../data/{info["name"]}.json'
             if os.path.exists(data_filename):
                 # 获取文件的最后修改时间
                 file_mtime = os.path.getmtime(data_filename)
