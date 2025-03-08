@@ -3,6 +3,16 @@ html.mobile-device body {
     font-size: 16px;
 }
 
+html.mobile-device .fixed-box {
+    position: fixed;
+    top: 0;
+    width: calc(100% - 30px);
+    max-width: 100%;
+    margin: 0 auto;
+    z-index: 1000;
+    background-color: #303030;
+}
+
 html.mobile-device .container {
     padding: 0 15px;
 }
@@ -26,26 +36,32 @@ html.mobile-device .page-header .tagline {
 }
 
 html.mobile-device .main-content {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
     display: block !important;
     margin-top: 0;
 }
 
 html.mobile-device .left-column {
     width: 100%;
+    border-radius: 0;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
 }
 
 html.mobile-device .right-column {
     width: auto;
     height: auto;
     max-height: none;
-    margin-top: 20px;
     padding: 12px;
     position: static;
 }
 
+
 html.mobile-device #playerContainer {
     height: 0;
     padding-bottom: 56.25%;
+    /* margin-top: 70px; */
 }
 
 html.mobile-device #status {
@@ -63,13 +79,13 @@ html.mobile-device .channel-list-title {
     text-align: center;
     color: #f0f0f0;
     font-weight: 600;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    /* border-bottom: 1px solid rgba(255, 255, 255, 0.1); */
     padding-bottom: 10px;
 }
 
 html.mobile-device .channel-section h3 {
     position: relative;
-    cursor: pointer;
+    /* cursor: pointer; */
     padding: 0 10px;
     border-bottom: none;
     /* background: rgba(0, 0, 0, 0.2); */
@@ -82,9 +98,7 @@ html.mobile-device .channel-section h3 {
     */
 } 
 
-html.mobile-device .channel-section h3:hover {
-    background: rgba(0, 0, 0, 0.3);
-}
+
 
 html.mobile-device .accordion-indicator {
     display: inline-block;
@@ -191,7 +205,7 @@ html.mobile-device #channelCategories {
     
     html.mobile-device .channel-button {
         padding: 14px;
-        font-size: 15px;
+        padding: 10px 15px;
     }
     
     html.mobile-device .video-grid {

@@ -16,8 +16,17 @@ body {
 
 .page-header {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    padding: 15px 0;
+    padding: 10px 15px;
+    /* min-height: 60px; */
+}
+
+.cheyan img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
 }
 
 .page-header .logo {
@@ -328,4 +337,43 @@ html:not(.mobile-device) .channel-list {
     flex: 1;
     overflow-y: auto;
     max-height: calc(100vh - 350px);
+}
+
+/* Footer 样式 */
+.footer {
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 30px;
+    color: #888;
+    font-size: 14px;
+    border-top: 1px solid #444;
+}
+
+.footer a {
+    color: #aaa;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer a:hover {
+    color: #fff;
+}
+
+.footer svg {
+    fill: #aaa;
+    transition: fill 0.3s ease;
+}
+
+.footer a:hover svg {
+    fill: #fff;
+}
+
+.logo-box {
+    display: flex;
+    align-items: center;
+}
+
+.link-box {
+    display: flex;
+    align-items: center;
 } 
