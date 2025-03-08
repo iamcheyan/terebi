@@ -11,7 +11,9 @@ body {
     background: transparent;
 }
 
-
+html.mobile-device .network-title {
+    display: none;
+}
 /* 移动端样式 - 不需要媒体查询包装 */
 html.mobile-device body {
     font-size: 16px;
@@ -109,7 +111,7 @@ html.mobile-device .channel-list-title {
 html.mobile-device .channel-section h3 {
     position: relative;
     /* cursor: pointer; */
-    padding: 0 10px;
+    /* padding: 0 10px; */
     border-bottom: none;
     /* background: rgba(0, 0, 0, 0.2); */
     /* border-radius: 6px; */
@@ -161,29 +163,37 @@ html.mobile-device .channel-section.collapsed .accordion-indicator:after {
 }
 
 html.mobile-device .channel-list {
-    transition: all 0.3s ease-out;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px 15px;
+    width: 100%;
+    padding: 10px 0;
 }
 
-html.mobile-device .channel-list {
-    display: block;
-    /* display: flex;
-    flex-direction: column;
-    gap: 12px; */
-    width: 100%;
+html.mobile-device .channel-item {
+    display: flex;
+    margin-right: 0;
+    align-items: center;
+    transition: padding-left 0.3s ease;
+    min-height: 55px;
+}
+
+html.mobile-device .channel-item.active {
+    padding-left: 10px;
 }
 
 html.mobile-device .channel-button {
-    display: inline-block;
-    color: #999;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
 }
 
-html.mobile-device .channel-button:active {
-    background: linear-gradient(to bottom, #3a3a3a, #2a2a2a);
-    transform: translateY(1px);
-}
+
 
 html.mobile-device .channel-button.active {
-    background: linear-gradient(to bottom, #2a6ac1, #1e5aa3);
+    /* background: linear-gradient(to bottom, #2a6ac1, #1e5aa3); */
     /* border-color: rgba(255, 255, 255, 0.2); */
     /* box-shadow: 0 0 8px rgba(30, 144, 255, 0.4); */
     color: #fff;
@@ -222,19 +232,4 @@ html.mobile-device #channelCategories {
 html.mobile-device .fullscreen-button {
     display: none;
 }
-/* 小屏幕手机额外优化 */
-@media screen and (max-width: 480px) {
-    html.mobile-device .channel-list {
-        grid-template-columns: 1fr;
-        padding-bottom: 20px;
-    }
-    
-    html.mobile-device .channel-button {
-        padding: 14px;
-        padding: 10px 15px;
-    }
-    
-    html.mobile-device .video-grid {
-        grid-template-columns: 1fr;
-    }
-} 
+

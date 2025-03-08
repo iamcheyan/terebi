@@ -14,6 +14,9 @@ import argparse
 只处理未缓存频道：python get_channel_videos.py --only-uncached
 """
 
+# 最大结果数
+MAX_RESULTS = 100
+
 # 读取JSON文件
 with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
@@ -44,36 +47,47 @@ print(f"\n当前选择使用的API密钥: {API_KEY[:15]}...{API_KEY[-5:]}")
 # 初始化URL和名称的字典
 channel_search_info = []
 
-# 处理全国放送局
-for channel in data["全国放送局"]:
-    if channel["url"]:
-        # 提取URL中最后一个/后面的关键字
-        match = re.search(r'(?:youtube\.com/(?:@|c/|channel/|user/)?)([^/]+)(?:/.*)?$', channel["url"])
-        if match:
-            keyword = match.group(1)
-            # 构建API URL
-            api_url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={urllib.parse.quote(keyword)}&type=channel&key={API_KEY}&maxResults=10"
-            channel_search_info.append({
-                "name": channel["name"],
-                "url": api_url,
-                "cached": channel["cached"]
-            })
+# 处理所有分类的频道
+def process_channels(channels_data, is_nested=True):
+    """
+    处理频道数据，提取URL并构建API搜索URL
+    
+    参数:
+    channels_data - 频道数据，可以是列表或字典
+    is_nested - 是否是嵌套结构（如地方放送局）
+    """
+    result = []
+    
+    if isinstance(channels_data, dict):
+        # 处理嵌套结构（如地方放送局）
+        for category, items in channels_data.items():
+            if isinstance(items, list):
+                # 直接处理频道列表
+                result.extend(process_channels(items, False))
+            elif isinstance(items, dict):
+                # 递归处理更深层次的嵌套
+                result.extend(process_channels(items, True))
+    elif isinstance(channels_data, list):
+        # 处理频道列表
+        for channel in channels_data:
+            if channel.get("url"):
+                # 提取URL中的关键字
+                match = re.search(r'(?:youtube\.com/(?:@|c/|channel/|user/)?)([^/]+)(?:/.*)?$', channel["url"])
+                if match:
+                    keyword = match.group(1)
+                    # 构建API URL
+                    api_url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={urllib.parse.quote(keyword)}&type=channel&key={API_KEY}&maxResults=10"
+                    result.append({
+                        "name": channel["name"],
+                        "url": api_url,
+                        "cached": channel.get("cached", False)
+                    })
+    
+    return result
 
-# 处理地方放送局
-for region, channels in data["地方放送局"].items():
-    for channel in channels:
-        if channel["url"]:
-            # 提取URL中最后一个/后面的关键字
-            match = re.search(r'(?:youtube\.com/(?:@|c/|channel/|user/)?)([^/]+)(?:/.*)?$', channel["url"])
-            if match:
-                keyword = match.group(1)
-                # 构建API URL
-                api_url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={urllib.parse.quote(keyword)}&type=channel&key={API_KEY}&maxResults=10"
-                channel_search_info.append({
-                    "name": channel["name"],
-                    "url": api_url,
-                    "cached": channel["cached"]
-                })
+# 处理所有分类
+for category, channels in data.items():
+    channel_search_info.extend(process_channels(channels))
 
 # 打印结果数量
 print(f"总共生成了 {len(channel_search_info)} 个搜索URL")
@@ -102,31 +116,28 @@ def get_channel_videos(channel_id):
     playlist_id = f'UU{channel_id[2:]}'
     
     url = f'https://www.googleapis.com/youtube/v3/playlistItems'
+    
     params = {
         'part': 'snippet',
         'playlistId': playlist_id,
-        'maxResults': 50,
+        'maxResults': MAX_RESULTS,
         'key': API_KEY
     }
-    
     response = requests.get(url, params=params)
     if response.status_code == 200:
         return response.json()['items']
     return []
 
 def save_videos_to_json(channel_id, original_name):
+    # 确保source目录存在
+    if not os.path.exists('../source'):
+        os.makedirs('../source')
+    
     # 获取频道名称
     channel_name = get_channel_info(channel_id)
     
     # 获取视频列表
     videos = get_channel_videos(channel_id)
-    
-    # 创建source目录（如果不存在）并清空
-    if os.path.exists('../source'):
-        for file in os.listdir('../source'):
-            os.remove(os.path.join('../source', file))
-    else:
-        os.makedirs('../source')
     
     # 准备要保存的数据
     data = {
@@ -151,7 +162,7 @@ shuffled_info = channel_search_info.copy()
 random.shuffle(shuffled_info)
 
 # 主执行逻辑
-def main(only_uncached=False):
+def main(only_uncached=False, force_update=False):
     # 将频道按cached状态分组
     uncached_channels = [info for info in shuffled_info if not info.get("cached", True)]
     cached_channels = [info for info in shuffled_info if info.get("cached", True)]
@@ -167,7 +178,7 @@ def main(only_uncached=False):
             
             # 检查data目录中是否已存在该频道的json文件
             data_filename = f'../data/{info["name"]}.json'
-            if os.path.exists(data_filename):
+            if not force_update and os.path.exists(data_filename):
                 # 获取文件的最后修改时间
                 file_mtime = os.path.getmtime(data_filename)
                 current_time = datetime.now().timestamp()
@@ -202,8 +213,14 @@ def main(only_uncached=False):
                             data = response.json()
                             if 'items' in data and len(data['items']) > 0:
                                 channel_id = data['items'][0]['id']['channelId']
-                                filename = save_videos_to_json(channel_id, info["name"])
-                                print(f'使用新密钥成功,视频数据已保存到: {filename}')
+                                # 获取视频数据
+                                videos_data = get_videos_for_channel(channel_id, info["name"])
+                                # 检查视频列表是否为空
+                                if videos_data and 'videos' in videos_data and len(videos_data['videos']) > 0:
+                                    filename = save_videos_to_json(channel_id, info["name"])
+                                    print(f'使用新密钥成功,视频数据已保存到: {filename}')
+                                else:
+                                    print(f'频道 {info["name"]} 的视频列表为空，跳过保存')
                                 break
                     except Exception as e:
                         print(f'使用新密钥尝试失败: {str(e)}')
@@ -229,7 +246,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='处理YouTube频道视频数据')
     parser.add_argument('--only-uncached', action='store_true', 
                       help='只处理未缓存的频道')
+    parser.add_argument('--force', '-f', action='store_true',
+                      help='强制更新所有频道，忽略时间检查')
     args = parser.parse_args()
     
-    main(args.only_uncached)
+    main(args.only_uncached, args.force)
     process_source_files()

@@ -1,8 +1,14 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "TSCテレビせとうち",
-  "updated_at": "2025-03-07T23:18:08.434488",
+  "updated_at": "2025-03-08T21:09:03.754192",
   "videos": [
+    {
+      "id": "fpy5t7aJWnU",
+      "title": "ファジ挑戦の1年　見たくても見られない　どうする？スタジアム",
+      "thumbnail": "https://i.ytimg.com/vi/fpy5t7aJWnU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fpy5t7aJWnU"
+    },
     {
       "id": "jMeeWGu4U0c",
       "title": "【特別番組】希望の種よ、つながれ～野球を世界へ 高校監督の挑戦～",
@@ -296,12 +302,6 @@
       "title": "”挑戦”の1年　ファジアーノ岡山　木山隆之監督",
       "thumbnail": "https://i.ytimg.com/vi/iTZloo9CPKM/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=iTZloo9CPKM"
-    },
-    {
-      "id": "S9bXhBLExlM",
-      "title": "1月19日のプライドは日本貿易産業　喜峯",
-      "thumbnail": "https://i.ytimg.com/vi/S9bXhBLExlM/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=S9bXhBLExlM"
     }
   ]
 }

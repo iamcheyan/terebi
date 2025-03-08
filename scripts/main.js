@@ -32,14 +32,17 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
     }
     
-    // 初始化频道列表折叠/展开按钮
-    initToggleChannelList();
+    // // 初始化频道列表折叠/展开按钮
+    // initToggleChannelList();
     
     // 加载YouTube API
     loadYouTubeAPI();
     
-    // 自动获取频道列表
-    fetchChannelList(true);
+    // 获取上次观看的频道信息
+    const lastWatchedChannel = localStorage.getItem('lastWatchedChannel');
+    
+    // 自动获取频道列表，并根据是否有上次观看记录决定是否随机选择
+    fetchChannelList(!lastWatchedChannel);
     
     // 动态加载移动端样式
     if (isMobileDevice()) {
@@ -48,44 +51,44 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log('PC端样式已加载');
     }
     
-    // 设置自动搜索计时器
-    setupAutoSearchTimer();
+    // // 设置自动搜索计时器
+    // setupAutoSearchTimer();
 });
 
-// 初始化频道列表折叠/展开按钮
-function initToggleChannelList() {
-    const toggleButton = document.getElementById('toggleChannelList');
-    const rightColumn = document.querySelector('.right-column');
-    const fixedBox = document.querySelector('.fixed-box');
-    const mainContent = document.querySelector('.main-content');
+// // 初始化频道列表折叠/展开按钮
+// function initToggleChannelList() {
+//     const toggleButton = document.getElementById('toggleChannelList');
+//     const rightColumn = document.querySelector('.right-column');
+//     const fixedBox = document.querySelector('.fixed-box');
+//     const mainContent = document.querySelector('.main-content');
     
-    if (toggleButton && rightColumn && fixedBox && mainContent) {
-        toggleButton.addEventListener('click', function() {
-            // 切换折叠状态
-            rightColumn.classList.toggle('collapsed');
-            fixedBox.classList.toggle('expanded');
-            mainContent.classList.toggle('expanded');
-            toggleButton.classList.toggle('collapsed');
+//     if (toggleButton && rightColumn && fixedBox && mainContent) {
+//         toggleButton.addEventListener('click', function() {
+//             // 切换折叠状态
+//             rightColumn.classList.toggle('collapsed');
+//             fixedBox.classList.toggle('expanded');
+//             mainContent.classList.toggle('expanded');
+//             toggleButton.classList.toggle('collapsed');
             
-            // 保存状态到本地存储
-            const isCollapsed = rightColumn.classList.contains('collapsed');
-            localStorage.setItem('channelListCollapsed', isCollapsed);
+//             // 保存状态到本地存储
+//             const isCollapsed = rightColumn.classList.contains('collapsed');
+//             localStorage.setItem('channelListCollapsed', isCollapsed);
             
-            console.log('频道列表折叠状态:', isCollapsed ? '已折叠' : '已展开');
-        });
+//             console.log('频道列表折叠状态:', isCollapsed ? '已折叠' : '已展开');
+//         });
         
-        // 从本地存储恢复状态
-        const savedState = localStorage.getItem('channelListCollapsed');
-        if (savedState === 'true') {
-            // rightColumn.classList.add('collapsed');
-            // fixedBox.classList.add('expanded');
-            // mainContent.classList.add('expanded');
-            // toggleButton.classList.add('collapsed');
-        }
-    } else {
-        console.error('无法找到频道列表折叠/展开按钮或相关元素');
-    }
-}
+//         // 从本地存储恢复状态
+//         const savedState = localStorage.getItem('channelListCollapsed');
+//         if (savedState === 'true') {
+//             // rightColumn.classList.add('collapsed');
+//             // fixedBox.classList.add('expanded');
+//             // mainContent.classList.add('expanded');
+//             // toggleButton.classList.add('collapsed');
+//         }
+//     } else {
+//         console.error('无法找到频道列表折叠/展开按钮或相关元素');
+//     }
+// }
 
 // 加载YouTube API
 function loadYouTubeAPI() {
@@ -158,7 +161,7 @@ async function fetchChannelList(autoSelectRandom = false) {
         }
         
         const channelData = await response.json();
-        console.log('频道数据:', channelData);
+        console.log('原始JSON数据:', channelData);
         
         // 显示频道选择器
         displayChannelSelector(channelData);
@@ -166,52 +169,67 @@ async function fetchChannelList(autoSelectRandom = false) {
         // 收集所有有效且已缓存的频道
         let allChannels = [];
         
-        // 处理全国放送局
-        if (channelData['全国放送局']) {
-            channelData['全国放送局'].forEach(channel => {
-                if (channel.name && channel.url && channel.url.trim() !== '' && channel.cached === true) {
-                    allChannels.push(channel);
-                }
-            });
-        }
-        
-        // 处理地方放送局
-        if (channelData['地方放送局']) {
-            const regions = Object.keys(channelData['地方放送局']);
-            regions.forEach(region => {
-                channelData['地方放送局'][region].forEach(channel => {
-                    if (channel.name && channel.url && channel.url.trim() !== '' && channel.cached === true) {
+        // 遍历所有分类
+        Object.entries(channelData).forEach(([category, content]) => {
+            Object.values(content).forEach(channels => {
+                channels.forEach(channel => {
+                    if (channel.name && channel.url && channel.url.trim() !== '') {
                         allChannels.push(channel);
                     }
                 });
             });
-        }
+        });
         
         statusElement.textContent = 'チャンネルリストの読み込みが完了しました。チャンネルを選択してください';
         channelSelector.style.display = 'block';
         
-        // 如果需要自动选择随机频道
-        if (autoSelectRandom && allChannels.length > 0) {
+        // 获取上次观看的频道信息
+        const lastWatchedChannel = localStorage.getItem('lastWatchedChannel');
+        
+        if (lastWatchedChannel) {
+            // 如果有上次观看记录，优先使用该频道
+            const channelInfo = JSON.parse(lastWatchedChannel);
+            console.log('前回視聴したチャンネル:', channelInfo.name);
+            statusElement.textContent = '前回視聴したチャンネル: ' + channelInfo.name;
+            
+            let channelId = extractChannelId(channelInfo.url);
+            if (channelId) {
+                setTimeout(() => {
+                    const channelButtons = document.querySelectorAll('.channel-item');
+                    channelButtons.forEach(btn => {
+                        if (btn.querySelector('.channel-name').textContent === channelInfo.name) {
+                            btn.classList.add('active');
+                            btn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                            
+                            // 30毫秒后自动触发点击事件
+                            setTimeout(() => {
+                                btn.click();
+                                console.log('自动触发上次观看频道的点击事件:', channelInfo.name);
+                            }, 30);
+                        }
+                    });
+                }, 100);
+                
+                getChannelUploads(channelId, channelInfo.name);
+            }
+        } else if (autoSelectRandom && allChannels.length > 0) {
+            // 如果没有上次观看记录且需要随机选择
             const randomChannel = allChannels[Math.floor(Math.random() * allChannels.length)];
             console.log('ランダムに選択されたチャンネル:', randomChannel.name);
             statusElement.textContent = 'ランダムに選択されたチャンネル: ' + randomChannel.name;
             
-            // 提取频道ID并加载视频
             let channelId = extractChannelId(randomChannel.url);
             if (channelId) {
-                // 查找并高亮显示对应的频道按钮
                 setTimeout(() => {
-                    const channelButtons = document.querySelectorAll('.channel-button');
+                    const channelButtons = document.querySelectorAll('.channel-item');
                     channelButtons.forEach(btn => {
                         if (btn.textContent === randomChannel.name) {
                             btn.classList.add('active');
-                            // 滚动到该按钮位置
                             btn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
                         }
                     });
                 }, 100);
                 
-                // 直接使用频道名称加载视频
                 getChannelUploads(channelId, randomChannel.name);
             }
         }
@@ -226,70 +244,72 @@ async function fetchChannelList(autoSelectRandom = false) {
 function displayChannelSelector(channelData) {
     channelCategories.innerHTML = '';
     
-    // 处理全国放送局
-    if (channelData['全国放送局']) {
-        const nationalSection = document.createElement('div');
-        nationalSection.className = 'channel-section';
+    // 遍历所有顶级分类
+    Object.entries(channelData).forEach(([category, content]) => {
+        const section = document.createElement('div');
+        section.className = 'channel-section';
         
-        const nationalTitle = document.createElement('h3');
-        nationalTitle.textContent = '全国放送局';
-        nationalSection.appendChild(nationalTitle);
+        const title = document.createElement('h3');
+        title.textContent = category;
+        section.appendChild(title);
         
-        const nationalChannels = document.createElement('div');
-        nationalChannels.className = 'channel-list';
+        const channelList = document.createElement('div');
+        channelList.className = 'channel-list';
         
-        // 只显示 cached 为 true 的频道
-        channelData['全国放送局'].forEach(channel => {
-            if (channel.name && channel.url && channel.cached === true) {
-                const channelButton = createChannelButton(channel);
-                nationalChannels.appendChild(channelButton);
-            }
+        // 处理所有分类
+        Object.entries(content).forEach(([subCategory, channels]) => {
+            const subCategoryTitle = document.createElement('h4');
+            subCategoryTitle.textContent = subCategory;
+            subCategoryTitle.className = 'network-title';
+            channelList.appendChild(subCategoryTitle);
+            
+            channels.forEach(channel => {
+                if (channel.name && channel.url) {
+                    const channelButton = createChannelButton(channel);
+                    channelList.appendChild(channelButton);
+                }
+            });
         });
         
         // 只有当有频道时才添加该区域
-        if (nationalChannels.children.length > 0) {
-            nationalSection.appendChild(nationalChannels);
-            channelCategories.appendChild(nationalSection);
+        if (channelList.children.length > 0) {
+            section.appendChild(channelList);
+            channelCategories.appendChild(section);
         }
-    }
-    
-    // 处理地方放送局
-    if (channelData['地方放送局']) {
-        const regions = Object.keys(channelData['地方放送局']);
-        
-        regions.forEach(region => {
-            const regionSection = document.createElement('div');
-            regionSection.className = 'channel-section';
-            
-            const regionTitle = document.createElement('h3');
-            regionTitle.textContent = region;
-            regionSection.appendChild(regionTitle);
-            
-            const regionChannels = document.createElement('div');
-            regionChannels.className = 'channel-list';
-            
-            // 只显示 cached 为 true 的频道
-            channelData['地方放送局'][region].forEach(channel => {
-                if (channel.name && channel.url && channel.cached === true) {
-                    const channelButton = createChannelButton(channel);
-                    regionChannels.appendChild(channelButton);
-                }
-            });
-            
-            // 只有当该地区有频道时才添加该区域
-            if (regionChannels.children.length > 0) {
-                regionSection.appendChild(regionChannels);
-                channelCategories.appendChild(regionSection);
-            }
-        });
-    }
+    });
 }
 
 // 创建频道按钮
 function createChannelButton(channel) {
-    const channelButton = document.createElement('button');
-    channelButton.className = 'channel-button';
-    channelButton.textContent = channel.name;
+    const channelButton = document.createElement('div');
+    channelButton.className = 'channel-item';
+    
+    // 创建头像容器
+    const avatarContainer = document.createElement('div');
+    avatarContainer.className = 'channel-avatar';
+    
+    // 创建头像图片
+    const avatarImg = document.createElement('img');
+    avatarImg.src = `img/${encodeURIComponent(channel.name)}.jpg`;
+    avatarImg.onerror = function() {
+        this.src = 'img/placeholder.jpg';
+    };
+    avatarImg.alt = channel.name;
+    
+    // 创建频道信息容器
+    const channelInfo = document.createElement('div');
+    channelInfo.className = 'channel-info';
+    
+    // 创建频道名称元素
+    const channelName = document.createElement('span');
+    channelName.className = 'channel-name';
+    channelName.textContent = channel.name;
+    
+    // 组装DOM结构
+    avatarContainer.appendChild(avatarImg);
+    channelInfo.appendChild(channelName);
+    channelButton.appendChild(avatarContainer);
+    channelButton.appendChild(channelInfo);
     
     // 从URL中提取频道ID或播放列表ID
     const channelUrl = channel.url;
@@ -299,8 +319,14 @@ function createChannelButton(channel) {
         channelButton.addEventListener('click', function() {
             console.log('選択されたチャンネル:', channel.name, channelUrl);
             
+            // 保存当前选择的频道信息到本地存储
+            localStorage.setItem('lastWatchedChannel', JSON.stringify({
+                name: channel.name,
+                url: channelUrl
+            }));
+            
             // 移除所有频道按钮的活跃状态
-            document.querySelectorAll('.channel-button').forEach(btn => {
+            document.querySelectorAll('.channel-item').forEach(btn => {
                 btn.classList.remove('active');
             });
             
@@ -324,7 +350,7 @@ function createChannelButton(channel) {
             }
         });
     } else {
-        channelButton.disabled = true;
+        channelButton.classList.add('disabled');
         channelButton.title = 'このチャンネルには有効なURLがありません';
     }
     
@@ -366,43 +392,86 @@ async function getChannelUploads(channelId, channelName) {
         
         let jsonUrl;
         
-        // 如果有频道名称，优先使用频道名称查找JSON文件
+        // console.log('调试信息 - 开始获取频道上传列表');
+        // console.log('调试信息 - 频道ID:', channelId);
+        // console.log('调试信息 - 频道名称:', channelName);
+
+        // 首先尝试使用频道名称构建URL
         if (channelName) {
             jsonUrl = new URL('data/' + encodeURIComponent(channelName) + '.json', window.location.href).pathname;
-        } 
+            // console.log('调试信息 - 使用频道名称构建JSON URL:', jsonUrl);
+            
+            // 尝试获取JSON文件
+            try {
+                let testResponse = await fetch(jsonUrl);
+                if (testResponse.ok) {
+                    // console.log('调试信息 - 使用频道名称成功获取到JSON文件');
+                } else {
+                    throw new Error('使用频道名称无法获取JSON文件');
+                }
+            } catch (error) {
+                // console.log('调试信息 - 使用频道名称获取失败，尝试使用bakname');
+                
+                // 如果使用频道名称失败，尝试获取bakname
+                const response = await fetch('japan_tv_youtube_channels.json');
+                const channelsData = await response.json();
+                
+                // 查找对应的频道信息
+                let foundChannel = null;
+                // 遍历所有地区
+                for (const region in channelsData) {
+                    // 遍历每个地区下的分类
+                    for (const category in channelsData[region]) {
+                        // 遍历分类下的频道列表
+                        const channels = channelsData[region][category];
+                        const found = channels.find(channel => 
+                            channel.url.includes(channelId) || 
+                            channel.name === channelName
+                        );
+                        if (found) {
+                            foundChannel = found;
+                            break;
+                        }
+                    }
+                    if (foundChannel) break;
+                }
 
-        // 尝试获取JSON文件
-        let response = await fetch(jsonUrl);
-        
-        // 如果使用频道名称的JSON不存在，尝试使用频道ID
-        if (!response.ok && channelName) {
-            const encodedChannelId = encodeURIComponent(channelId.trim());
-            jsonUrl = new URL('data/' + encodedChannelId + '.json', window.location.href).pathname;
-            response = await fetch(jsonUrl);
+                // console.log('调试信息 - 找到的频道信息:', foundChannel);
+
+                // 使用bakname构建新的URL
+                if (foundChannel && foundChannel.bakname && foundChannel.bakname.trim() !== "") {
+                    jsonUrl = new URL('data/' + encodeURIComponent(foundChannel.bakname) + '.json', window.location.href).pathname;
+                    // console.log('调试信息 - 使用bakname构建JSON URL:', jsonUrl);
+                } else {
+                    throw new Error('無効なチャンネル情報です');
+                }
+            }
+        } else {
+            throw new Error('チャンネル名が見つかりません');
         }
 
-        if (!response.ok) {
-            throw new Error('動画リストの取得に失敗しました: ' + response.status);
+        // 获取JSON文件
+        // console.log('调试信息 - 开始获取JSON文件:', jsonUrl);
+        let videoResponse = await fetch(jsonUrl);
+        // console.log('调试信息 - 获取JSON响应状态:', videoResponse.status, videoResponse.statusText);
+        
+        if (!videoResponse.ok) {
+            throw new Error('動画リストの取得に失敗しました: ' + videoResponse.status);
         }
         
-        const channelData = await response.json();
+        const videoListData = await videoResponse.json();
+        // console.log('调试信息 - 获取到的视频数据:', videoListData);
         
         // 检查是否有视频数据
-        if (channelData && channelData.videos && channelData.videos.length > 0) {
-            // 处理视频数据
-            const videoItems = channelData.videos.map(video => ({
+        if (videoListData && videoListData.videos && videoListData.videos.length > 0) {
+            const videoItems = videoListData.videos.map(video => ({
                 videoId: video.id,
                 title: video.title,
                 thumbnail: video.thumbnail,
                 url: video.url
             }));
             
-
-            
-            // 隐藏视频容器
             videoContainer.style.display = 'none';
-            
-            // 开始随机播放
             startRandomPlayback(videoItems);
             return;
         }
@@ -410,6 +479,7 @@ async function getChannelUploads(channelId, channelName) {
         statusElement.textContent = 'このチャンネルには再生可能な動画がありません';
         
     } catch (error) {
+        console.error('错误:', error);
         statusElement.textContent = '動画リストの取得に失敗しました: ' + error.message;
     }
 }
@@ -587,45 +657,6 @@ document.addEventListener('DOMContentLoaded', function() {
         console.warn('未找到全屏按钮元素');
     }
 });
-
-// 设置自动收缩频道列表计时器
-// function setupAutoSearchTimer() {
-//     // 检查是否为移动端
-//     if (window.matchMedia("(max-width: 768px)").matches) {
-//         // console.log('移动端，不执行自动收缩频道列表计时器');
-//         return; // 如果是移动端则不执行
-//     }
-
-//     let inactivityTimer;
-//     const inactivityTimeout = 10000; // 30秒
-    
-//     // 重置计时器函数
-//     function resetTimer() {
-//         clearTimeout(inactivityTimer);
-//         inactivityTimer = setTimeout(performAutoSearch, inactivityTimeout);
-//     }
-    
-//     // 自动收缩频道列表函数
-//     function performAutoSearch() {
-//         console.log('用户操作，自动收缩频道列表...');
-//         // 点击 #toggleChannelList 来收缩频道列表
-//         const toggleButton = document.getElementById('toggleChannelList');
-//         if (toggleButton && !toggleButton.classList.contains('collapsed')) { // 检查是否已经收缩
-//             toggleButton.click();
-//         }
-//     }
-    
-//     // 监听用户交互事件
-//     const userEvents = ['mousedown', 'mousemove', 'keypress', 'scroll', 'touchstart'];
-//     userEvents.forEach(event => {
-//         document.addEventListener(event, resetTimer, false);
-//     });
-    
-//     // 初始化计时器
-//     resetTimer();
-    
-//     console.log('自动收缩频道列表计时器已设置，30秒无操作将自动收缩频道列表');
-// }
 
 // 添加调试信息
 console.log('DOMContentLoaded イベントリスナーが追加されました');

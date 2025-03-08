@@ -9,6 +9,17 @@ def process_channel_json(input_file, output_dir):
         with open(input_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
+        # 检查是否有视频数据
+        has_videos = False
+        if "items" in data and isinstance(data["items"], list):
+            has_videos = len(data["items"]) > 0
+        elif "videos" in data and isinstance(data["videos"], list):
+            has_videos = len(data["videos"]) > 0
+            
+        if not has_videos:
+            print(f"警告: {input_file} 中没有视频数据，删除该文件")
+            os.remove(input_file)
+            return
         # 直接使用输入文件名作为输出文件名
         input_filename = os.path.basename(input_file)
         output_file = os.path.join(output_dir, input_filename)
@@ -150,30 +161,58 @@ if __name__ == "__main__":
         print(f"正在处理: {input_file}")
         process_channel_json(input_file, output_dir)
         
-        # 处理完后更新japan_tv_youtube_channels.json中的cached状态
-        try:
-            # 读取japan_tv_youtube_channels.json
-            with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as f:
-                channels_data = json.load(f)
-            
-            # 获取data目录下所有json文件名(不含扩展名)
-            data_files = [os.path.splitext(os.path.basename(f))[0] for f in glob.glob(os.path.join(output_dir, "*.json"))]
-            
-            # 更新全国放送局
-            for channel in channels_data["全国放送局"]:
-                channel["cached"] = channel["name"] in data_files
-            
-            # 更新地方放送局
-            for region in channels_data["地方放送局"].values():
-                for channel in region:
+    # 处理完后更新japan_tv_youtube_channels.json中的cached状态
+    try:
+        # 读取japan_tv_youtube_channels.json
+        with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as f:
+            channels_data = json.load(f)
+        
+        # 获取data目录下所有json文件名(不含扩展名)
+        data_files = [os.path.splitext(os.path.basename(f))[0] for f in glob.glob(os.path.join(output_dir, "*.json"))]
+        
+        # 创建一个集合，存储所有已知频道的名称
+        existing_channels = set()
+        
+        # 更新所有频道的缓存状态
+        # 遍历所有分类（如全国放送局、地方放送局等）
+        for category_name, category_data in channels_data.items():
+            # 处理直接是频道列表的分类（如全国放送局）
+            if isinstance(category_data, list):
+                for channel in category_data:
                     channel["cached"] = channel["name"] in data_files
-            
-            # 保存更新后的文件
-            with open('japan_tv_youtube_channels.json', 'w', encoding='utf-8') as f:
-                json.dump(channels_data, f, ensure_ascii=False, indent=4)
+                    existing_channels.add(channel["name"])
+            # 处理有区域子分类的情况（如地方放送局）
+            elif isinstance(category_data, dict):
+                for region_data in category_data.values():
+                    if isinstance(region_data, list):
+                        for channel in region_data:
+                            channel["cached"] = channel["name"] in data_files
+                            existing_channels.add(channel["name"])
+        
+        # 查找data_files中有但channels_data中没有的频道
+        new_channels = [name for name in data_files if name not in existing_channels]
+        
+        # 如果有新频道，添加到"その他"分类下的"その他チャンネル"列表中
+        if new_channels:
+            if "その他" not in channels_data:
+                channels_data["その他"] = {"その他チャンネル": []}
+            elif "その他チャンネル" not in channels_data["その他"]:
+                channels_data["その他"]["その他チャンネル"] = []
                 
-            print("已更新japan_tv_youtube_channels.json中的cached状态")
+            for new_channel in new_channels:
+                channels_data["その他"]["その他チャンネル"].append({
+                    "name": new_channel,
+                    "url": "",
+                    "cached": True
+                })
+            print(f"已添加 {len(new_channels)} 个新频道到「その他チャンネル」分类")
+                            
+        # 保存更新后的文件
+        with open('../japan_tv_youtube_channels.json', 'w', encoding='utf-8') as f:
+            json.dump(channels_data, f, ensure_ascii=False, indent=4)
             
-        except Exception as e:
-            print(f"更新cached状态时出错: {e}")
-            traceback.print_exc()
+        print("已更新japan_tv_youtube_channels.json中的cached状态")
+        
+    except Exception as e:
+        print(f"更新cached状态时出错: {e}")
+        traceback.print_exc()
