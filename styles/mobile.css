@@ -1,3 +1,17 @@
+/* PC端基础样式 */
+body {
+    overflow: visible;
+    /* 去掉滚动条 */
+}
+
+/* 隐藏滚动条但保留滚动功能 */
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    background: transparent;
+}
+
+
 /* 移动端样式 - 不需要媒体查询包装 */
 html.mobile-device body {
     font-size: 16px;
@@ -11,6 +25,11 @@ html.mobile-device .fixed-box {
     margin: 0 auto;
     z-index: 1000;
     background-color: #303030;
+    padding-bottom: 0;
+}
+
+html.mobile-device .fixed-box .footer {
+    display: none;
 }
 
 html.mobile-device .container {
@@ -46,7 +65,8 @@ html.mobile-device .main-content {
 html.mobile-device .left-column {
     width: 100%;
     border-radius: 0;
-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    height: auto;
 }
 
 html.mobile-device .right-column {
@@ -57,6 +77,9 @@ html.mobile-device .right-column {
     position: static;
 }
 
+html.mobile-device .right-column .footer {
+    display: block !important;
+}
 
 html.mobile-device #playerContainer {
     height: 0;
@@ -196,6 +219,9 @@ html.mobile-device #channelCategories {
     width: 100%;
 }
 
+html.mobile-device .fullscreen-button {
+    display: none;
+}
 /* 小屏幕手机额外优化 */
 @media screen and (max-width: 480px) {
     html.mobile-device .channel-list {
