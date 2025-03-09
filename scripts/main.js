@@ -183,54 +183,100 @@ async function fetchChannelList(autoSelectRandom = false) {
         statusElement.textContent = 'チャンネルリストの読み込みが完了しました。チャンネルを選択してください';
         channelSelector.style.display = 'block';
         
-        // 获取上次观看的频道信息
-        const lastWatchedChannel = localStorage.getItem('lastWatchedChannel');
+        // 检查URL参数中是否有channelId
+        const urlParams = new URLSearchParams(window.location.search);
+        const channelIdParam = urlParams.get('channelId');
         
-        if (lastWatchedChannel) {
-            // 如果有上次观看记录，优先使用该频道
-            const channelInfo = JSON.parse(lastWatchedChannel);
-            console.log('前回視聴したチャンネル:', channelInfo.name);
-            statusElement.textContent = '前回視聴したチャンネル: ' + channelInfo.name;
+        if (channelIdParam) {
+            // 如果URL中有channelId参数，优先使用该频道
+            console.log('从URL参数获取频道ID:', channelIdParam);
+            statusElement.textContent = 'URLパラメータからチャンネルを読み込んでいます...';
             
-            let channelId = extractChannelId(channelInfo.url);
-            if (channelId) {
+            // 查找匹配的频道名称
+            let foundChannel = null;
+            for (const channel of allChannels) {
+                if (channel.url.includes(channelIdParam)) {
+                    foundChannel = channel;
+                    break;
+                }
+            }
+            
+            if (foundChannel) {
+                console.log('找到匹配的频道:', foundChannel.name);
+                statusElement.textContent = 'チャンネルを読み込んでいます: ' + foundChannel.name;
+                
                 setTimeout(() => {
                     const channelButtons = document.querySelectorAll('.channel-item');
                     channelButtons.forEach(btn => {
-                        if (btn.querySelector('.channel-name').textContent === channelInfo.name) {
+                        if (btn.querySelector('.channel-name').textContent === foundChannel.name) {
                             btn.classList.add('active');
                             btn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
                             
-                            // 30毫秒后自动触发点击事件
                             setTimeout(() => {
                                 btn.click();
-                                console.log('自动触发上次观看频道的点击事件:', channelInfo.name);
+                                console.log('自动触发URL参数指定频道的点击事件:', foundChannel.name);
                             }, 30);
                         }
                     });
                 }, 100);
                 
-                getChannelUploads(channelId, channelInfo.name);
+                getChannelUploads(channelIdParam, foundChannel.name);
+            } else {
+                // 如果找不到匹配的频道名称，直接使用参数中的ID
+                console.log('未找到匹配频道名称，直接使用ID:', channelIdParam);
+                statusElement.textContent = 'チャンネルIDを直接使用しています: ' + channelIdParam;
+                getChannelUploads(channelIdParam, 'チャンネル');
             }
-        } else if (autoSelectRandom && allChannels.length > 0) {
-            // 如果没有上次观看记录且需要随机选择
-            const randomChannel = allChannels[Math.floor(Math.random() * allChannels.length)];
-            console.log('ランダムに選択されたチャンネル:', randomChannel.name);
-            statusElement.textContent = 'ランダムに選択されたチャンネル: ' + randomChannel.name;
+        } else {
+            // 获取上次观看的频道信息
+            const lastWatchedChannel = localStorage.getItem('lastWatchedChannel');
             
-            let channelId = extractChannelId(randomChannel.url);
-            if (channelId) {
-                setTimeout(() => {
-                    const channelButtons = document.querySelectorAll('.channel-item');
-                    channelButtons.forEach(btn => {
-                        if (btn.textContent === randomChannel.name) {
-                            btn.classList.add('active');
-                            btn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-                        }
-                    });
-                }, 100);
+            if (lastWatchedChannel) {
+                // 如果有上次观看记录，优先使用该频道
+                const channelInfo = JSON.parse(lastWatchedChannel);
+                console.log('前回視聴したチャンネル:', channelInfo.name);
+                statusElement.textContent = '前回視聴したチャンネル: ' + channelInfo.name;
                 
-                getChannelUploads(channelId, randomChannel.name);
+                let channelId = extractChannelId(channelInfo.url);
+                if (channelId) {
+                    setTimeout(() => {
+                        const channelButtons = document.querySelectorAll('.channel-item');
+                        channelButtons.forEach(btn => {
+                            if (btn.querySelector('.channel-name').textContent === channelInfo.name) {
+                                btn.classList.add('active');
+                                btn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                                
+                                // 30毫秒后自动触发点击事件
+                                setTimeout(() => {
+                                    btn.click();
+                                    console.log('自动触发上次观看频道的点击事件:', channelInfo.name);
+                                }, 30);
+                            }
+                        });
+                    }, 100);
+                    
+                    getChannelUploads(channelId, channelInfo.name);
+                }
+            } else if (autoSelectRandom && allChannels.length > 0) {
+                // 如果没有上次观看记录且需要随机选择
+                const randomChannel = allChannels[Math.floor(Math.random() * allChannels.length)];
+                console.log('ランダムに選択されたチャンネル:', randomChannel.name);
+                statusElement.textContent = 'ランダムに選択されたチャンネル: ' + randomChannel.name;
+                
+                let channelId = extractChannelId(randomChannel.url);
+                if (channelId) {
+                    setTimeout(() => {
+                        const channelButtons = document.querySelectorAll('.channel-item');
+                        channelButtons.forEach(btn => {
+                            if (btn.textContent === randomChannel.name) {
+                                btn.classList.add('active');
+                                btn.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+                            }
+                        });
+                    }, 100);
+                    
+                    getChannelUploads(channelId, randomChannel.name);
+                }
             }
         }
         
@@ -405,12 +451,12 @@ async function getChannelUploads(channelId, channelName) {
             try {
                 let testResponse = await fetch(jsonUrl);
                 if (testResponse.ok) {
-                    // console.log('调试信息 - 使用频道名称成功获取到JSON文件');
+                    console.log('调试信息 - 使用频道名称成功获取到JSON文件:', jsonUrl);
                 } else {
                     throw new Error('使用频道名称无法获取JSON文件');
                 }
             } catch (error) {
-                // console.log('调试信息 - 使用频道名称获取失败，尝试使用bakname');
+                console.log('调试信息 - 使用频道名称获取失败，尝试使用bakname');
                 
                 // 如果使用频道名称失败，尝试获取bakname
                 const response = await fetch('japan_tv_youtube_channels.json');

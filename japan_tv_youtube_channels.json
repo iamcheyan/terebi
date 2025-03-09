@@ -214,6 +214,11 @@
                 "name": "KFB福島放送",
                 "url": "https://www.youtube.com/@TV-qm8xe",
                 "bakname": " "
+            },
+            {
+                "name": "FTV福島テレビ",
+                "url": "https://www.youtube.com/@ftv-news",
+                "bakname": "福テレ公式チャンネル"
             }
         ],
         "関東地方": [
@@ -397,7 +402,7 @@
             {
                 "name": "CBCテレビ",
                 "url": "https://www.youtube.com/@cbctv_news",
-                "bakname": " "
+                "bakname": "CBC公式チャンネル"
             },
             {
                 "name": "東海テレビ",
