@@ -101,7 +101,12 @@ function loadYouTubeAPI() {
 // YouTube API准备就绪时的回调函数
 function onYouTubeIframeAPIReady() {
     console.log('YouTube API已加载完成');
-    // 此时可以初始化播放器，但我们会在选择频道后再创建播放器
+    // 检查是否有待播放的视频
+    if (window.pendingVideoId) {
+        console.log('播放待播放的视频:', window.pendingVideoId);
+        playVideo(window.pendingVideoId);
+        window.pendingVideoId = null;
+    }
 }
 
 // 加载移动端样式
@@ -716,9 +721,17 @@ function playVideo(videoId) {
         }
     };
     
+    // 检查 YT 对象是否已定义
+    if (typeof YT === 'undefined' || !YT.Player) {
+        console.log('YouTube API 尚未加载完成，等待加载...');
+        // 保存当前视频信息，等待 API 加载完成后播放
+        window.pendingVideoId = videoId;
+        return;
+    }
+    
     if (player) {
         // 如果播放器已存在，加载新视频
-        player.loadVideoById(playerConfig);
+        player.loadVideoById({videoId: videoId});
     } else {
         // 初始化播放器
         player = new YT.Player('player', {
