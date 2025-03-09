@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log('PC端样式已加载');
     }
     
+   
 });
 
 // // 初始化频道列表折叠/展开按钮
@@ -146,6 +147,25 @@ function loadMobileStyles() {
             console.error('Fixed Box or Right Column not found');
         }
     }, 500);
+
+    // 在移动端将footer-info元素移动到right-column末尾
+    const footerInfo = document.querySelector('.footer-info');
+    const rightColumn = document.querySelector('.right-column');
+    
+    if (footerInfo && rightColumn) {
+        // 克隆footer-info元素
+        const footerInfoClone = footerInfo.cloneNode(true);
+        
+        // 在right-column末尾添加克隆的footer-info
+        rightColumn.appendChild(footerInfoClone);
+        
+        // 隐藏原来的footer-info
+        footerInfo.style.display = 'none';
+        
+        console.log('已将footer-info移动到right-column末尾');
+    } else {
+        console.error('未找到footer-info或right-column元素');
+    }
 }
 
 // 获取频道列表
@@ -288,7 +308,6 @@ async function fetchChannelList(autoSelectRandom = false) {
 function displayChannelSelector(channelData) {
     channelCategories.innerHTML = '';
     
-    // 使用已有的搜索框，不再创建新的搜索框
     // 确保已有的搜索框可见
     const existingSearchInput = document.getElementById('channelSearch');
     if (existingSearchInput) {
@@ -359,6 +378,7 @@ function createChannelButton(channel) {
     // 创建头像容器
     const avatarContainer = document.createElement('div');
     avatarContainer.className = 'channel-avatar';
+    avatarContainer.style.display = 'flex'; // 确保初始状态为显示
     
     // 创建头像图片
     const avatarImg = document.createElement('img');
@@ -400,6 +420,8 @@ function createChannelButton(channel) {
         }
     };
     avatarImg.alt = channel.name;
+    avatarContainer.appendChild(avatarImg);
+    
     // 创建频道信息容器
     const channelInfo = document.createElement('div');
     channelInfo.className = 'channel-info';
@@ -408,9 +430,10 @@ function createChannelButton(channel) {
     const channelName = document.createElement('span');
     channelName.className = 'channel-name';
     channelName.textContent = channel.name;
+    // 保存原始文本，用于搜索高亮后恢复
+    channelName.setAttribute('data-original-text', channel.name);
     
     // 组装DOM结构
-    avatarContainer.appendChild(avatarImg);
     channelInfo.appendChild(channelName);
     channelButton.appendChild(avatarContainer);
     channelButton.appendChild(channelInfo);
@@ -420,12 +443,20 @@ function createChannelButton(channel) {
     
     // 只处理有效的URL
     if (channelUrl && channelUrl.trim() !== '') {
+        // 存储原始频道名称，用于点击事件
+        channelButton.setAttribute('data-channel-name', channel.name);
+        channelButton.setAttribute('data-channel-url', channelUrl);
+        
         channelButton.addEventListener('click', function() {
-            console.log('選択されたチャンネル:', channel.name, channelUrl);
+            // 获取原始频道名称和URL
+            const channelName = this.getAttribute('data-channel-name');
+            const channelUrl = this.getAttribute('data-channel-url');
+            
+            console.log('選択されたチャンネル:', channelName, channelUrl);
             
             // 保存当前选择的频道信息到本地存储
             localStorage.setItem('lastWatchedChannel', JSON.stringify({
-                name: channel.name,
+                name: channelName,
                 url: channelUrl
             }));
             
@@ -442,13 +473,13 @@ function createChannelButton(channel) {
             
             if (channelId) {
                 // 设置状态
-                statusElement.textContent = 'チャンネルの動画を読み込んでいます: ' + channel.name + '...';
+                statusElement.textContent = 'チャンネルの動画を読み込んでいます: ' + channelName + '...';
                 
                 // 更新URL，不刷新页面
                 updateUrlParameter('channelId', channelId);
                 
                 // 获取频道的上传播放列表ID，传递频道名称
-                getChannelUploads(channelId, channel.name);
+                getChannelUploads(channelId, channelName);
             } else {
                 statusElement.textContent = 'このチャンネルには有効なURLがありません: ' + channelUrl;
             }
@@ -565,6 +596,19 @@ async function getChannelUploads(channelId, channelName) {
         
         const videoListData = await videoResponse.json();
         // console.log('调试信息 - 获取到的视频数据:', videoListData);
+        // 打印视频的详细信息
+        console.log('频道信息:', videoListData.channel_name);
+        console.log('更新时间:', videoListData.updated_at);
+        console.log('视频数量:', videoListData.videos ? videoListData.videos.length : 0);
+        
+        // // 如果有视频，打印第一个视频的详细信息作为示例
+        // if (videoListData.videos && videoListData.videos.length > 0) {
+        //     console.log('第一个视频详情:');
+        //     console.log('- ID:', videoListData.videos[0].id);
+        //     console.log('- 标题:', videoListData.videos[0].title);
+        //     console.log('- 缩略图:', videoListData.videos[0].thumbnail);
+        //     console.log('- URL:', videoListData.videos[0].url);
+        // }
         
         // 检查是否有视频数据
         if (videoListData && videoListData.videos && videoListData.videos.length > 0) {
@@ -617,7 +661,46 @@ function playVideo(videoId) {
     }
     
     // 隐藏加载动画
-    document.querySelector('.player-loading').style.display = 'none';
+    const loadingElement = document.querySelector('.player-loading');
+    if (loadingElement) {
+        loadingElement.style.display = 'none';
+    }
+    
+    // 记录当前播放视频信息
+    const currentVideo = window.videoPlaylist.find(video => video.videoId === videoId);
+    if (currentVideo) {
+        console.log('当前播放视频:', {
+            id: currentVideo.videoId,
+            title: currentVideo.title,
+            thumbnail: currentVideo.thumbnail,
+            url: currentVideo.url
+        });
+        
+        // 更新页脚中的视频信息 - 添加元素存在性检查
+        const logoElement = document.getElementById('currentChannelLogo');
+        const titleElement = document.getElementById('currentVideoTitle');
+        const titleLinkElement = document.getElementById('currentVideoTitleLink');
+        const urlElement = document.getElementById('currentChannelUrl');
+        const nameElement = document.getElementById('currentChannelName');
+        
+        if (logoElement) logoElement.src = currentVideo.thumbnail;
+        if (titleElement) titleElement.textContent = currentVideo.title;
+        if (titleLinkElement) titleLinkElement.href = currentVideo.url;
+        if (urlElement) urlElement.textContent = currentVideo.url;
+        
+        // 尝试从localStorage获取当前频道名称
+        if (nameElement) {
+            const lastWatchedChannel = localStorage.getItem('lastWatchedChannel');
+            if (lastWatchedChannel) {
+                try {
+                    const channelInfo = JSON.parse(lastWatchedChannel);
+                    nameElement.textContent = channelInfo.name;
+                } catch (e) {
+                    console.error('解析频道信息失败:', e);
+                }
+            }
+        }
+    }
     
     const playerConfig = {
         videoId: videoId,
@@ -725,13 +808,13 @@ function toggleFullscreen() {
         // 恢复正常宽度
         container.style.maxWidth = '1200px';
         // 显示页脚
-        if (footer) footer.style.display = '';
+        // if (footer) footer.style.display = '';
         console.log('已退出全屏模式');
     } else {
         // 进入全屏模式
         container.style.maxWidth = 'none';
         // 隐藏页脚
-        if (footer) footer.style.display = 'none';
+        // if (footer) footer.style.display = 'none';
         console.log('已进入全屏模式');
     }
 }
@@ -788,7 +871,7 @@ function searchChannels(keyword) {
     
     channelItems.forEach(item => {
         const channelName = item.querySelector('.channel-name');
-        const channelNameText = channelName.textContent.toLowerCase();
+        const channelNameText = channelName.getAttribute('data-original-text').toLowerCase();
         
         if (channelNameText.includes(keyword)) {
             // 显示匹配的频道
@@ -796,7 +879,7 @@ function searchChannels(keyword) {
             
             // 高亮关键词
             const regex = new RegExp(`(${keyword})`, 'gi');
-            const highlightedText = channelName.textContent.replace(regex, '<span class="highlight">$1</span>');
+            const highlightedText = channelName.getAttribute('data-original-text').replace(regex, '<span class="highlight">$1</span>');
             channelName.innerHTML = highlightedText;
             
             // 确保父容器可见
@@ -849,7 +932,12 @@ function searchChannels(keyword) {
 function clearHighlights() {
     const highlightedElements = document.querySelectorAll('.channel-name');
     highlightedElements.forEach(element => {
-        element.innerHTML = element.textContent;
+        // 如果有保存原始文本，则恢复原始文本
+        if (element.hasAttribute('data-original-text')) {
+            element.textContent = element.getAttribute('data-original-text');
+        } else {
+            element.innerHTML = element.textContent;
+        }
     });
 }
 

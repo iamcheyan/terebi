@@ -64,15 +64,17 @@ body {
     flex-direction: column;
     transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1); /* 添加平滑过渡效果 */
     transform: translateX(0); /* 初始位置 */
-    /* padding-bottom: 30px; */
 }
 
 .left-column {
     background-color: #000;
-    border-radius: 8px;
+    border-radius: 8px 8px 0 0;
     overflow: hidden;
     padding: 0;
-    height: calc(100vh - 80px);
+    height: calc(100vh - 150px); /* 调整高度，为footer留出空间 */
+    display: flex;
+    flex-direction: column;
+    /* margin-top: 5px; */
 }
 
 .right-column {
@@ -91,22 +93,18 @@ body {
 .box-container {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     width: 100%;
     height: 100%;
-    /* padding: 15px; */
+    overflow: hidden;
 }
 
 #playerContainer {
     position: relative;
     width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
+    flex: 1; /* 使用flex:1让播放器容器自适应剩余空间 */
     background-color: #000;
-    /* border-radius: 8px; */
     overflow: hidden;
-    margin-bottom: 15px;
+    margin-bottom: 0;
 }
 
 #player {
@@ -115,6 +113,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
+    object-fit: contain; /* 保持视频比例，可能会有黑边 */
 }
 
 .player-loading {
@@ -351,21 +350,128 @@ html:not(.mobile-device) .channel-list {
     max-height: calc(100vh - 350px);
 }
 
-/* Footer 样式 */
+/* Footer 样式修改 */
 .footer {
-    text-align: center;
-    padding: 15px 0;
-    text-align: left;
-    /* margin-top: 30px; */
-    color: #888;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 2px 0 3px 0;
+    border-top: 1px solid #232323;
+    width: calc(100%);
+    z-index: 100;
+    box-sizing: border-box;
+    background-color: #000;
+    margin-bottom: 10px;
+    border-radius: 0 0 8px 8px;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: row; /* 改为横向排列 */
+    align-items: center; /* 垂直居中对齐 */
+    justify-content: flex-start;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+/* 频道标志样式 */
+.channel-logo {
+    margin-right: 15px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    display: none;
+}
+
+.channel-logo img {
+    width: 60px; /* 设置固定宽度 */
+    height: 40px; /* 设置固定高度 */
+    object-fit: cover; /* 保持图片比例 */
+    border-radius: 4px; /* 添加圆角 */
+    border: 1px solid #333;
+}
+
+/* 节目信息样式 */
+.program-info {
+    flex: 1; /* 占据剩余空间 */
+    min-width: 0; /* 允许内容收缩 */
+}
+
+#currentVideoTitle {
     font-size: 14px;
-    /* border-top: 1px solid #444; */
+    color: #999;
+    font-weight: 500;
+    margin-bottom: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.channel-url {
+    font-size: 12px;
+    color: #666;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* 版权信息样式 */
+.footer-info {
+    margin-left: auto; /* 推到最右侧 */
+    flex-shrink: 0; /* 防止缩小 */
+}
+
+.copyright {
+    display: flex;
+    flex-direction: column; /* 改为纵向排列 */
+    align-items: flex-end; /* 右对齐 */
+    gap: 5px;
+    font-size: 11px;
+    color: #888;
+}
+
+/* 第一行：YouTube标志和文字并排 */
+.copyright .first-line {
+    display: flex;
+    flex-direction: row; /* 横向排列 */
+    align-items: center;
+    justify-content: flex-end; /* 右对齐 */
+    gap: 10px;
+}
+
+.copyright img {
+    height: 20px;
+    order: 2; /* 将图片放在右边 */
+}
+
+.copyright span {
+    text-align: right; /* 文本右对齐 */
+    max-width: 300px; /* 限制最大宽度 */
+}
+
+.footer-logo {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-bottom: 5px;
+}
+
+.footer-logo img {
+    height: 24px;
+    margin-right: 8px;
+}
+
+.footer-disclaimer {
+    font-size: 11px;
+    line-height: 1.4;
+    color: #777;
 }
 
 .footer a {
     color: #aaa;
     text-decoration: none;
     transition: color 0.3s ease;
+    display: flex;
 }
 
 .footer a:hover {
@@ -477,9 +583,9 @@ html:not(.mobile-device) .channel-list {
     transition: background-color 0.2s, padding-left 0.3s ease; /* 添加padding-left过渡效果 */
 }
 
-.channel-item:hover {
+/* .channel-item:hover {
     background-color: rgba(255, 255, 255, 0.1);
-}
+} */
 
 .channel-item.active {
     background-color: rgba(255, 255, 255, 0.15);
@@ -591,4 +697,17 @@ html:not(.mobile-device) .channel-list {
     font-weight: bold;
     padding: 0 2px;
     border-radius: 2px;
+}
+
+/* 节目标题链接样式 */
+.program-title-link {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    display: block;
+}
+
+.program-title-link:hover .program-title {
+    color: #3d7cf4; /* 鼠标悬停时变色 */
+    text-decoration: underline;
 }

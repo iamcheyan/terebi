@@ -12,7 +12,7 @@ body {
 }
 
 html.mobile-device .network-title {
-    display: none;
+    margin: 5px 0 ;
 }
 /* 移动端样式 - 不需要媒体查询包装 */
 html.mobile-device body {
@@ -22,7 +22,7 @@ html.mobile-device body {
 html.mobile-device .fixed-box {
     position: fixed;
     top: 0;
-    width: calc(100% - 30px);
+    width: calc(100%);
     max-width: 100%;
     margin: 0 auto;
     z-index: 1000;
@@ -30,16 +30,52 @@ html.mobile-device .fixed-box {
     padding-bottom: 0;
 }
 
-html.mobile-device .fixed-box .footer {
-    display: none;
+html.mobile-device #currentVideoTitle {
+    width: auto;
+    max-width: 100%;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+html.mobile-device .channel-logo {
+    margin-right: 10px;
 }
 
+html.mobile-device .channel-logo img {
+    border-radius: 0;
+    width: 100%;
+    height: 30px;
+}
+
+
+html.mobile-device .footer {
+    position: relative;
+    /* width: calc(100% - 40px); */
+    padding: 10px ;
+    background-color: black;
+    border-radius: 0;
+}
+html.mobile-device .footer-content {
+    padding: 0;
+}
+html.mobile-device .footer a {
+    display: inline;
+}
+
+html.mobile-device .footer-info {
+    max-width: 100%;
+    padding:  0 0 20px 0;
+}
+
+
+
 html.mobile-device .container {
-    padding: 0 15px;
+    padding: 0;
 }
 
 html.mobile-device .page-header {
-    padding: 10px 0;
+    padding: 10px;
 }
 
 html.mobile-device .page-header .logo {
@@ -69,13 +105,18 @@ html.mobile-device .left-column {
     border-radius: 0;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
     height: auto;
+    padding: 0;
+    margin: 0;
+}
+#channelSearch {
+    width: calc(100%);
 }
 
 html.mobile-device .right-column {
     width: auto;
     height: auto;
     max-height: none;
-    padding: 12px;
+    padding: 0 20px;
     position: static;
 }
 
@@ -86,7 +127,8 @@ html.mobile-device .right-column .footer {
 html.mobile-device #playerContainer {
     height: 0;
     padding-bottom: 56.25%;
-    /* margin-top: 70px; */
+    width: 100%;
+    margin: 0;
 }
 
 html.mobile-device #status {
@@ -99,12 +141,7 @@ html.mobile-device #status {
 }
 
 html.mobile-device .channel-list-title {
-    font-size: 18px;
-    margin-bottom: 15px;
-    text-align: center;
-    color: #f0f0f0;
-    font-weight: 600;
-    /* border-bottom: 1px solid rgba(255, 255, 255, 0.1); */
+    margin-bottom: 0;
     padding-bottom: 10px;
 }
 
@@ -113,6 +150,7 @@ html.mobile-device .channel-section h3 {
     /* cursor: pointer; */
     /* padding: 0 10px; */
     border-bottom: none;
+    margin-bottom: 0;
     /* background: rgba(0, 0, 0, 0.2); */
     /* border-radius: 6px; */
     /* margin-bottom: 10px; */
@@ -162,35 +200,59 @@ html.mobile-device .channel-section.collapsed .accordion-indicator:after {
     transform: rotate(0);
 }
 
-html.mobile-device .channel-list {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 5px 15px;
-    width: 100%;
-    padding: 10px 0;
-}
 
+
+
+/* 频道项目样式 */
 html.mobile-device .channel-item {
-    display: flex;
-    margin-right: 0;
+    display: inline-flex;
     align-items: center;
-    transition: padding-left 0.3s ease;
-    min-height: 55px;
+    justify-content: center;
+    margin-right: 8px;
+    transition: transform 0.2s ease;
+    min-height: auto; /* 移除最小高度限制 */
+    width: calc(50% - 8px); /* 设置固定宽度为50%减去间距 */
+    margin-bottom: 10px; /* 增加底部间距 */
+    box-sizing: border-box;
 }
 
-html.mobile-device .channel-item.active {
-    padding-left: 10px;
+html.mobile-device .channel-item:last-child {
+    margin-bottom: 0; /* 最后一个项目不需要底部间距 */
 }
 
+html.mobile-device .channels-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* 均匀分布 */
+    gap: 0; /* 移除gap，使用margin控制间距 */
+}
+
+/* 频道按钮样式 */
 html.mobile-device .channel-button {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    width: 100%;
-    padding: 10px;
+    justify-content: center;
+    width: 100%; /* 按钮占满整个item */
+    padding: 8px 5px; /* 调整内边距 */
     border-radius: 6px;
+    text-align: center;
 }
 
+html.mobile-device .channel-button img {
+    width: 35px; /* 稍微减小图标尺寸 */
+    height: 35px;
+    margin-bottom: 5px; /* 减小底部间距 */
+    border-radius: 50%;
+}
 
+html.mobile-device .channel-button .channel-name {
+    font-size: 12px;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
 
 html.mobile-device .channel-button.active {
     /* background: linear-gradient(to bottom, #2a6ac1, #1e5aa3); */
@@ -233,3 +295,18 @@ html.mobile-device .fullscreen-button {
     display: none;
 }
 
+html.mobile-device .program-title {
+    font-size: 14px;
+    line-height: 1.3;
+    max-height: 2.6em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+}
+
+html.mobile-device .copyright {
+    align-items: baseline;
+}
