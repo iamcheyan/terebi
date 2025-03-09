@@ -526,7 +526,7 @@ html:not(.mobile-device) .channel-list {
 #channelSearch {
     position: sticky;
     top: 0;
-    width: 100%;
+    width: calc(100% - 20px); /* 减去左右padding的宽度 */
     padding: 10px;
     margin-bottom: 15px;
     background-color: #222;
@@ -536,14 +536,25 @@ html:not(.mobile-device) .channel-list {
     font-size: 14px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     z-index: 10;
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, border 0.3s ease;
+    box-sizing: border-box; /* 确保padding不会增加元素的总宽度 */
 }
 
 #channelSearch:focus {
     background-color: #333;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 2px 8px rgba(61, 124, 244, 0.5);
     outline: none;
-} 
+    border: 2px solid #3d7cf4;
+    /* animation: searchFocusAnimation 0.5s ease; */
+}
+
+/* 搜索框获得焦点时的动画效果 */
+@keyframes searchFocusAnimation {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.03); }
+    100% { transform: scale(1); }
+}
+
 /* 搜索框样式 */
 .search-container {
     margin-bottom: 15px;

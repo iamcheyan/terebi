@@ -362,11 +362,11 @@ function createChannelButton(channel) {
     
     // 创建头像图片
     const avatarImg = document.createElement('img');
-    avatarImg.src = `img/${encodeURIComponent(channel.name)}.jpg`;
+    avatarImg.src = `img/resized/${encodeURIComponent(channel.name)}.jpg`;
     avatarImg.onerror = async function() {
         // 当使用name加载失败时，尝试使用bakname
         if (channel.bakname && channel.bakname.trim() !== "") {
-            this.src = `img/${encodeURIComponent(channel.bakname)}.jpg`;
+            this.src = `img/resized/${encodeURIComponent(channel.bakname)}.jpg`;
         } else {
             // 如果没有bakname或bakname也加载失败，尝试从频道列表中查找bakname
             try {
@@ -386,7 +386,7 @@ function createChannelButton(channel) {
                             ch.name === channel.name
                         );
                         if (found && found.bakname && found.bakname.trim() !== "") {
-                            this.src = `img/${encodeURIComponent(found.bakname)}.jpg`;
+                            this.src = `img/resized/${encodeURIComponent(found.bakname)}.jpg`;
                             return;
                         }
                     }
@@ -396,11 +396,10 @@ function createChannelButton(channel) {
             }
             
             // 如果所有尝试都失败，使用默认图片
-            this.src = 'img/placeholder.jpg';
+            this.src = 'img/resized/placeholder.jpg';
         }
     };
     avatarImg.alt = channel.name;
-    
     // 创建频道信息容器
     const channelInfo = document.createElement('div');
     channelInfo.className = 'channel-info';
@@ -873,4 +872,110 @@ function showAllChannels() {
     
     statusElement.textContent = '';
     statusElement.style.display = 'none';
+}
+
+// 添加键盘快捷键监听
+document.addEventListener('keydown', function(event) {
+    // 检查是否按下 Ctrl+F (Windows/Linux) 或 Command+F (Mac)
+    if ((event.ctrlKey || event.metaKey) && event.key === 'f') {
+        // 阻止默认的浏览器搜索行为
+        event.preventDefault();
+        
+        // 获取搜索框元素
+        const searchInput = document.getElementById('channelSearch');
+        
+        // 如果搜索框存在，则将焦点设置到搜索框上
+        if (searchInput) {
+            searchInput.focus();
+            console.log('搜索快捷键触发，焦点已设置到搜索框');
+        }
+    }
+    
+    // 检查是否按下 ESC 键且焦点在搜索框中
+    if (event.key === 'Escape' && document.activeElement.id === 'channelSearch') {
+        // 清除搜索框内容
+        document.getElementById('channelSearch').value = '';
+        // 触发 input 事件以更新搜索结果
+        document.getElementById('channelSearch').dispatchEvent(new Event('input'));
+        // 移除焦点
+        document.getElementById('channelSearch').blur();
+        console.log('ESC键按下，已清除搜索框内容并移除焦点');
+    }
+    
+    // 检查是否在输入框中
+    const activeElement = document.activeElement;
+    const isInInput = activeElement.tagName === 'INPUT' || 
+                      activeElement.tagName === 'TEXTAREA' || 
+                      activeElement.isContentEditable;
+    
+    // 如果不在输入框中，才响应快捷键
+    if (!isInInput) {
+        // j 键 - 选择下一个频道
+        if (event.key === 'j') {
+            navigateChannels('next');
+        }
+        // k 键 - 选择上一个频道
+        else if (event.key === 'k') {
+            navigateChannels('prev');
+        }
+        // r 键 - 随机选择一个频道
+        else if (event.key === 'r') {
+            selectRandomChannel();
+        }
+    }
+});
+
+// 频道导航函数
+function navigateChannels(direction) {
+    // 获取所有可点击的频道元素
+    const channels = Array.from(document.querySelectorAll('.channel-item:not(.disabled)'));
+    if (channels.length === 0) return;
+    
+    // 找到当前激活的频道
+    const activeChannel = document.querySelector('.channel-item.active');
+    let nextIndex = 0;
+    
+    if (activeChannel) {
+        // 获取当前激活频道的索引
+        const currentIndex = channels.indexOf(activeChannel);
+        
+        // 根据方向计算下一个索引
+        if (direction === 'next') {
+            nextIndex = (currentIndex + 1) % channels.length;
+        } else {
+            nextIndex = (currentIndex - 1 + channels.length) % channels.length;
+        }
+    }
+    
+    // 模拟点击下一个频道
+    channels[nextIndex].click();
+    
+    // 确保新选中的频道在视图中可见
+    channels[nextIndex].scrollIntoView({
+        behavior: 'smooth',
+        block: 'nearest'
+    });
+    
+    console.log(`通过快捷键 ${direction === 'next' ? 'j' : 'k'} 选择了频道: ${channels[nextIndex].textContent.trim()}`);
+}
+
+// 随机选择频道函数
+function selectRandomChannel() {
+    // 获取所有可点击的频道元素
+    const channels = Array.from(document.querySelectorAll('.channel-item:not(.disabled)'));
+    if (channels.length === 0) return;
+    
+    // 随机选择一个索引
+    const randomIndex = Math.floor(Math.random() * channels.length);
+    
+    // 模拟点击随机选择的频道
+    channels[randomIndex].click();
+    
+    // 确保随机选中的频道在视图中可见
+    channels[randomIndex].scrollIntoView({
+        behavior: 'smooth',
+        block: 'nearest'
+    });
+    
+    console.log(`通过快捷键 r 随机选择了频道: ${channels[randomIndex].textContent.trim()}`);
 }
