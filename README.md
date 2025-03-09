@@ -1,4 +1,4 @@
-# ![image-20250309142523556](/home/tetsuya/Applications/tomcat/webapps/terebi/assets/image-20250309142523556.png)
+# ![image-20250309142523556](assets/image-20250309142523556.png)
 
 # Terebi プロジェクト
 
