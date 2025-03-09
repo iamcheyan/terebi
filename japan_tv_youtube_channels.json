@@ -311,8 +311,9 @@
                 "url": "https://www.youtube.com/@NBS8ch"
             },
             {
-                "name": "SUT静岡朝日テレビ",
-                "url": "https://www.youtube.com/@satv_official"
+                "name": "静岡朝日テレビニュース",
+                "url": "https://www.youtube.com/@satv_official",
+                "skip": true
             },
             {
                 "name": "SDT静岡第一テレビ",
@@ -655,17 +656,33 @@
         "日本語学習": [
             {
                 "name": "日語聽力淋浴",
-                "url": "https://www.youtube.com/@(142) 日語聽力淋浴 - YouTube (1)"
+                "url": "https://www.youtube.com/@Japanese-Listening-Shower/playlists"
             },
             {
                 "name": "あかね的日本語教室",
-                "url": "https://www.youtube.com/@(142) あかね的日本語教室 - YouTube (2)"
+                "url": "https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw"
             }
         ],
         "その他チャンネル": [
             {
                 "name": "めざましテレビチャンネル",
-                "url": "https://www.youtube.com/@mezamashitvchannel"
+                "url": "https://www.youtube.com/@mezamashitvchannel",
+                "skip": true
+            },
+            {
+                "name": "クレヨンしんちゃん公式チャンネル",
+                "url": "https://www.youtube.com/@kureshin_official",
+                "skip": true
+            },
+            {
+                "name": "あたしンち公式チャンネル",
+                "url": "https://www.youtube.com/@Atashinchi",
+                "skip": true
+            },
+            {
+                "name": "ドラえもん __ 藤子・F・不二雄チャンネル",
+                "url": "https://www.youtube.com/@Doraemon_F_Channel",
+                "skip": true
             },
             {
                 "name": "TMSアニメ公式チャンネル【アニメ制作60周年】",
@@ -676,16 +693,12 @@
                 "url": ""
             },
             {
-                "name": "クレヨンしんちゃん公式チャンネル",
-                "url": "https://www.youtube.com/@(142) 【アニメ】クレヨンしんちゃん公式チャンネル - YouTube (1)"
+                "name": "山口放送_KRY_",
+                "url": ""
             },
             {
-                "name": "あたしンち公式チャンネル",
-                "url": "https://www.youtube.com/@Atashinchi"
-            },
-            {
-                "name": "ドラえもん __ 藤子・F・不二雄チャンネル",
-                "url": "https://www.youtube.com/@Doraemon_F_Channel"
+                "name": "ドラえもん __ 藤子_F_不二雄チャンネル",
+                "url": ""
             }
         ]
     }

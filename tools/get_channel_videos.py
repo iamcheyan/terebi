@@ -118,6 +118,8 @@ print(f"总共生成了 {len(channel_search_info)} 个搜索URL")
 #     print("-" * 50)
 
 def get_channel_info(channel_id):
+    global API_KEY  # 确保可以修改全局API_KEY
+    
     url = f'https://www.googleapis.com/youtube/v3/channels'
     params = {
         'part': 'snippet',
@@ -126,6 +128,12 @@ def get_channel_info(channel_id):
     }
     
     response = requests.get(url, params=params)
+    # 如果API请求失败，尝试切换API密钥
+    if response.status_code != 200:
+        API_KEY = try_switch_api_key(API_KEY)
+        params['key'] = API_KEY
+        response = requests.get(url, params=params)
+    
     if response.status_code == 200:
         data = response.json()
         if data['items']:
@@ -215,19 +223,23 @@ def process_channels_in_groups():
 
 # 处理单个频道的函数
 def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=False):
+    global API_KEY  # 确保可以修改全局API_KEY
+    
     print(f'\n准备处理频道: {info["name"]}')
     
     # 检查缓存
-    data_filename = f'../data/{info["name"]}.json'
+    safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in info["name"])
+    data_filename = f'../data/{safe_name}.json'
+    
     if os.path.exists(data_filename):
         # 获取文件的最后修改时间
         file_mtime = os.path.getmtime(data_filename)
         current_time = datetime.now().timestamp()
         time_diff = current_time - file_mtime
         
-        # 如果文件是48小时内创建的,跳过处理
-        if time_diff < 48 * 3600:
-            print(f'频道 {info["name"]} 的数据在48小时内已更新,跳过处理')
+        # 如果文件是23小时内创建的,跳过处理
+        if time_diff < 23 * 3600:
+            print(f'频道 {info["name"]} 的数据在23小时内已更新,跳过处理')
             return
         
         # 检查频道是否有新视频
@@ -251,6 +263,12 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                 }
                 
                 response = requests.get(url, params=params)
+                # 如果API请求失败，尝试切换API密钥
+                if response.status_code != 200:
+                    API_KEY = try_switch_api_key(API_KEY)
+                    params['key'] = API_KEY
+                    response = requests.get(url, params=params)
+                
                 if response.status_code == 200:
                     latest_data = response.json()
                     if 'items' in latest_data and len(latest_data['items']) > 0:
@@ -258,8 +276,7 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                         latest_video_id = latest_video['snippet']['resourceId']['videoId']
                         
                         # 检查最新视频是否已在缓存中
-                        cached_video_ids = [video['snippet']['resourceId']['videoId'] 
-                                          for video in cached_data.get('videos', [])]
+                        cached_video_ids = [video['id'] for video in cached_data.get('videos', []) if 'id' in video]
                         
                         if latest_video_id in cached_video_ids:
                             # 最新视频已在缓存中，且缓存文件不太旧，可以跳过
@@ -287,13 +304,24 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
     
     # 获取频道ID
     response = requests.get(info["url"])
+    # 如果API请求失败，尝试切换API密钥
+    if response.status_code != 200:
+        print(f"请求失败 ({response.status_code}): {info['url']}")
+        # 从URL中提取当前API密钥
+        current_key = re.search(r'key=([^&]+)', info["url"]).group(1)
+        new_key = try_switch_api_key(current_key)
+        # 更新URL中的API密钥
+        info["url"] = info["url"].replace(f"key={current_key}", f"key={new_key}")
+        print(f"切换API密钥并重试...")
+        response = requests.get(info["url"])
+    
     if response.status_code == 200:
         data = response.json()
         if 'items' in data and len(data['items']) > 0:
             channel_id = data['items'][0]['id']['channelId']
             
             # 获取视频数据
-            all_videos = get_channel_videos_with_limit(channel_id, videos_per_channel)
+            all_videos, has_new_videos = get_channel_videos_with_limit(channel_id, videos_per_channel)
             
             if all_videos:
                 # 准备要保存的数据
@@ -307,7 +335,6 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                 }
                 
                 # 保存数据
-                safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in info["name"])
                 filename = f'../source/{safe_name}.json'
                 
                 with open(filename, 'w', encoding='utf-8') as f:
@@ -318,17 +345,24 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                 # 处理文件
                 try:
                     abs_path = os.path.abspath(filename)
-                    subprocess.run(['python', 'source_processing.py', abs_path], check=True)
+                    result = subprocess.run(['python', 'source_processing.py', abs_path], check=True, capture_output=True, text=True)
                     print(f"文件 {abs_path} 处理完成")
                     
-                    # 如果启用了上传功能，执行上传操作
+                    # 检查处理结果是否有新增视频
+                    processing_output = result.stdout
+                    processing_has_new_videos = "没有新增视频" not in processing_output
+                    
+                    # 如果启用了上传功能且有新增视频，执行上传操作
                     if upload:
-                        data_file_path = f'/var/home/tetsuya/Applications/tomcat/webapps/terebi/data/{safe_name}.json'
-                        try:
-                            subprocess.run(['python', 'update2ftp.py', data_file_path], check=True)
-                            print(f"文件 {data_file_path} 已上传")
-                        except Exception as e:
-                            print(f"上传文件时出错: {str(e)}")
+                        if has_new_videos and processing_has_new_videos:
+                            data_file_path = f'/var/home/tetsuya/Applications/tomcat/webapps/terebi/data/{safe_name}.json'
+                            try:
+                                subprocess.run(['python', 'update2ftp.py', data_file_path], check=True)
+                                print(f"文件 {data_file_path} 已上传")
+                            except Exception as e:
+                                print(f"上传文件时出错: {str(e)}")
+                        else:
+                            print("没有真正的新增视频，跳过上传")
                 except Exception as e:
                     print(f"处理文件时出错: {str(e)}")
             else:
@@ -338,9 +372,44 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
     else:
         print(f'请求失败 ({response.status_code}): {info["url"]}')
 
+# 添加一个函数来切换API密钥
+def try_switch_api_key(current_key):
+    """
+    当API请求失败时，尝试切换到下一个可用的API密钥
+    
+    参数:
+    current_key - 当前使用的API密钥
+    
+    返回:
+    新的API密钥
+    """
+    global api_keys
+    
+    # 如果只有一个API密钥，无法切换
+    if len(api_keys) <= 1:
+        print("警告: 没有其他API密钥可用")
+        return current_key
+    
+    # 找到当前密钥的索引
+    try:
+        current_index = api_keys.index(current_key)
+    except ValueError:
+        # 如果当前密钥不在列表中，使用第一个密钥
+        print("当前API密钥不在可用列表中，使用第一个密钥")
+        return api_keys[0]
+    
+    # 选择下一个密钥
+    next_index = (current_index + 1) % len(api_keys)
+    new_key = api_keys[next_index]
+    
+    print(f"API密钥已切换: {current_key[:5]}...{current_key[-3:]} -> {new_key[:5]}...{new_key[-3:]}")
+    return new_key
+
 # 获取指定数量的视频
 def get_channel_videos_with_limit(channel_id, max_videos=500):
     """获取指定数量的视频，使用增量更新策略"""
+    global API_KEY  # 确保可以修改全局API_KEY
+    
     # 获取上传播放列表ID
     playlist_id = f'UU{channel_id[2:]}'
     url = f'https://www.googleapis.com/youtube/v3/playlistItems'
@@ -359,11 +428,14 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
                     if data.get('channel_id') == channel_id:
                         cache_file = f'../data/{filename}'
                         cached_videos = data.get('videos', [])
-                        cached_video_ids = {v['snippet']['resourceId']['videoId'] for v in cached_videos if 'snippet' in v and 'resourceId' in v['snippet']}
+                        cached_video_ids = {v['id'] for v in cached_videos if 'id' in v}
                         break
             except Exception as e:
                 print(f"读取缓存文件时出错: {str(e)}")
                 continue
+    
+    # 标记是否有新视频
+    has_new_videos = False
     
     # 增量更新策略
     if cached_videos:
@@ -379,14 +451,23 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
         }
         
         # 最多获取3页新视频
+        total_api_videos = 0
         for _ in range(3):
             try:
                 response = requests.get(url, params=params)
+                # 如果API请求失败，尝试切换API密钥
+                if response.status_code != 200:
+                    API_KEY = try_switch_api_key(API_KEY)
+                    params['key'] = API_KEY
+                    response = requests.get(url, params=params)
+                
                 if response.status_code == 200:
                     data = response.json()
                     videos = data.get('items', [])
                     if not videos:
                         break
+                    
+                    total_api_videos += len(videos)
                     
                     # 检查是否有新视频
                     all_existing = True
@@ -399,6 +480,7 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
                         if video_id not in cached_video_ids:
                             new_videos.append(video)
                             all_existing = False
+                            has_new_videos = True  # 标记有新视频
                     
                     # 如果这一页全是已有视频，就不用继续了
                     if all_existing or 'nextPageToken' not in data:
@@ -413,31 +495,45 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
                 traceback.print_exc()  # 打印详细错误信息
                 break
         
-        print(f"发现 {len(new_videos)} 个新视频")
+        print(f"从API获取了 {total_api_videos} 个视频，其中 {len(new_videos)} 个是真正的新视频")
+        
+        # 如果没有新视频，直接返回缓存的视频
+        if len(new_videos) == 0:
+            print("没有新视频，直接使用缓存数据")
+            return cached_videos[:max_videos], False
         
         # 合并新旧视频，保持总数不超过max_videos
-        all_videos = new_videos + cached_videos
-        # 去重
-        unique_videos = []
-        seen_ids = set()
-        for video in all_videos:
-            # 添加错误处理
-            if 'snippet' not in video or 'resourceId' not in video.get('snippet', {}):
-                continue
-                
-            video_id = video['snippet']['resourceId']['videoId']
-            if video_id not in seen_ids:
-                unique_videos.append(video)
-                seen_ids.add(video_id)
+        # 确保新视频优先保留
+        all_videos = new_videos.copy()  # 先添加所有新视频
         
-        # 随机打乱并返回
-        if unique_videos:
-            random.shuffle(unique_videos)
-            return unique_videos[:max_videos]
+        # 然后添加旧视频，直到达到最大数量
+        remaining_slots = max_videos - len(all_videos)
+        if remaining_slots > 0:
+            # 随机选择旧视频填充剩余空间
+            old_videos_to_keep = cached_videos.copy()
+            random.shuffle(old_videos_to_keep)
+            
+            # 添加旧视频，但避免重复
+            for video in old_videos_to_keep:
+                if 'snippet' not in video or 'resourceId' not in video.get('snippet', {}):
+                    continue
+                    
+                video_id = video['snippet']['resourceId']['videoId']
+                # 检查是否已经在新视频列表中
+                if not any(v.get('snippet', {}).get('resourceId', {}).get('videoId') == video_id for v in new_videos):
+                    all_videos.append(video)
+                    remaining_slots -= 1
+                    if remaining_slots <= 0:
+                        break
+        
+        # 返回合并后的视频
+        if all_videos:
+            return all_videos[:max_videos], has_new_videos
         else:
-            print("警告: 合并后没有有效视频，将尝试重新获取")
+            print("警告: 合并后没有有效视频，跳过后续步骤")
+            return [], False
     
-    # 如果没有缓存或合并后没有有效视频，使用原来的方法获取视频
+    # 如果没有缓存，使用原来的方法获取视频
     all_videos = []
     params = {
         'part': 'snippet',
@@ -449,14 +545,23 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
     # 计算需要获取的页数（限制最大页数为20，约1000个视频）
     pages_needed = min(20, (max_videos + 49) // 50)  # 向上取整，但最多20页
     
+    total_api_videos = 0
     for _ in range(pages_needed):
         try:
             response = requests.get(url, params=params)
+            # 如果API请求失败，尝试切换API密钥
+            if response.status_code != 200:
+                API_KEY = try_switch_api_key(API_KEY)
+                params['key'] = API_KEY
+                response = requests.get(url, params=params)
+            
             if response.status_code == 200:
                 data = response.json()
                 videos = data.get('items', [])
                 if not videos:
                     break
+                
+                total_api_videos += len(videos)
                     
                 # 过滤掉无效的视频
                 valid_videos = [v for v in videos if 'snippet' in v and 'resourceId' in v.get('snippet', {})]
@@ -474,13 +579,15 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
             traceback.print_exc()  # 打印详细错误信息
             break
     
+    print(f"从API获取了 {total_api_videos} 个视频")
+    
     # 随机打乱并返回
     if all_videos:
         random.shuffle(all_videos)
-        return all_videos[:max_videos]
+        return all_videos[:max_videos], True  # 首次获取视频，认为都是新的
     else:
         print(f"警告: 未能获取到任何有效视频")
-        return []
+        return [], False
 
 # 执行source_processing.py
 def process_source_files():
