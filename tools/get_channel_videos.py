@@ -214,7 +214,7 @@ def process_channels_in_groups():
                 continue
 
 # 处理单个频道的函数
-def process_channel(info, videos_per_channel=500, auto_confirm=False):
+def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=False):
     print(f'\n准备处理频道: {info["name"]}')
     
     # 检查缓存
@@ -320,6 +320,15 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False):
                     abs_path = os.path.abspath(filename)
                     subprocess.run(['python', 'source_processing.py', abs_path], check=True)
                     print(f"文件 {abs_path} 处理完成")
+                    
+                    # 如果启用了上传功能，执行上传操作
+                    if upload:
+                        data_file_path = f'/var/home/tetsuya/Applications/tomcat/webapps/terebi/data/{safe_name}.json'
+                        try:
+                            subprocess.run(['python', 'update2ftp.py', data_file_path], check=True)
+                            print(f"文件 {data_file_path} 已上传")
+                        except Exception as e:
+                            print(f"上传文件时出错: {str(e)}")
                 except Exception as e:
                     print(f"处理文件时出错: {str(e)}")
             else:
@@ -486,7 +495,7 @@ def process_source_files():
         traceback.print_exc()
         
 # 修改main函数，移除only_uncached参数
-def main(force_update=False, auto_task=False, videos_per_channel=500):
+def main(force_update=False, auto_task=False, videos_per_channel=500, upload=False):
     # 获取所有频道
     channels_to_process = shuffled_info.copy()
     
@@ -559,7 +568,7 @@ def main(force_update=False, auto_task=False, videos_per_channel=500):
         for info in group_channels:
             try:
                 # 在自动任务模式下自动确认
-                process_channel(info, videos_per_channel, auto_confirm=auto_task)
+                process_channel(info, videos_per_channel, auto_confirm=auto_task, upload=upload)
                 channels_processed += 1
             except Exception as e:
                 print(f"处理频道 {info['name']} 时出错: {str(e)}")
@@ -581,6 +590,8 @@ if __name__ == "__main__":
                       help='自动确认所有提示，不询问用户')
     parser.add_argument('--auto-task', action='store_true',
                       help='自动任务模式，优先处理未缓存频道，自动管理API配额')
+    parser.add_argument('--upload', '-u', action='store_true',
+                      help='处理完文件后自动上传')
     args = parser.parse_args()
     
     # 当请求大量视频时提示用户确认（除非是自动任务模式）
@@ -603,15 +614,15 @@ if __name__ == "__main__":
     
     # 自动任务模式
     if args.auto_task:
-        main(args.force, True, args.videos_per_channel)
+        main(args.force, True, args.videos_per_channel, args.upload)
     # 使用自定义视频数量
     elif args.videos_per_channel:
         for info in shuffled_info:
             try:
-                process_channel(info, args.videos_per_channel, args.yes)
+                process_channel(info, args.videos_per_channel, args.yes, args.upload)
             except Exception as e:
                 print(f"处理频道 {info['name']} 时出错: {str(e)}")
         process_source_files()
     # 使用原有逻辑
     else:
-        main(args.force)
+        main(args.force, False, 500, args.upload)

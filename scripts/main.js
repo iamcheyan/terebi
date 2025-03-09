@@ -363,8 +363,41 @@ function createChannelButton(channel) {
     // 创建头像图片
     const avatarImg = document.createElement('img');
     avatarImg.src = `img/${encodeURIComponent(channel.name)}.jpg`;
-    avatarImg.onerror = function() {
-        this.src = 'img/placeholder.jpg';
+    avatarImg.onerror = async function() {
+        // 当使用name加载失败时，尝试使用bakname
+        if (channel.bakname && channel.bakname.trim() !== "") {
+            this.src = `img/${encodeURIComponent(channel.bakname)}.jpg`;
+        } else {
+            // 如果没有bakname或bakname也加载失败，尝试从频道列表中查找bakname
+            try {
+                const response = await fetch('japan_tv_youtube_channels.json');
+                const channelsData = await response.json();
+                
+                // 查找对应的频道信息
+                let foundChannel = null;
+                // 遍历所有地区
+                for (const region in channelsData) {
+                    // 遍历每个地区下的分类
+                    for (const category in channelsData[region]) {
+                        // 遍历分类下的频道列表
+                        const channels = channelsData[region][category];
+                        const found = channels.find(ch => 
+                            ch.url === channel.url || 
+                            ch.name === channel.name
+                        );
+                        if (found && found.bakname && found.bakname.trim() !== "") {
+                            this.src = `img/${encodeURIComponent(found.bakname)}.jpg`;
+                            return;
+                        }
+                    }
+                }
+            } catch (error) {
+                console.error('获取频道列表失败:', error);
+            }
+            
+            // 如果所有尝试都失败，使用默认图片
+            this.src = 'img/placeholder.jpg';
+        }
     };
     avatarImg.alt = channel.name;
     

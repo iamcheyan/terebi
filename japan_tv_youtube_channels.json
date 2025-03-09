@@ -180,7 +180,8 @@
             {
                 "name": "FTV福島テレビ",
                 "url": "https://www.youtube.com/@ftv-news",
-                "bakname": "福テレ公式チャンネル"
+                "bakname": "福テレ公式チャンネル",
+                "skip": true
             }
         ],
         "関東地方": [
@@ -452,7 +453,7 @@
             {
                 "name": "山口放送（KRY）",
                 "url": "https://www.youtube.com/@KRYChannel",
-                "bakname": "山口放送_KRY_"
+                "bakname": "KRY山口放送公式チャンネル"
             },
             {
                 "name": "テレビ山口（tys）",
@@ -471,7 +472,8 @@
             {
                 "name": "山陰放送（BSS）",
                 "url": "https://www.youtube.com/@BSS6",
-                "bakname": "山陰放送_BSS_"
+                "bakname": "BSS山陰放送ラッテチャンネル",
+                "skip": true
             },
             {
                 "name": "日本海テレビ（NKT）",

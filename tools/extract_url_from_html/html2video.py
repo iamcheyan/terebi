@@ -222,7 +222,17 @@ def process_html_files():
             with open(json_file, 'w', encoding='utf-8') as f:
                 json.dump(youtube_data, f, ensure_ascii=False, indent=2)
             
-            print(f"已处理: {html_file.name} -> {json_file.name}")
+            # 复制文件到data目录
+            data_dir = Path("../../data")
+            data_dir.mkdir(exist_ok=True)
+            data_json_file = data_dir / json_file.name
+            
+            # 复制文件（如果已存在则替换）
+            import shutil
+            shutil.copy2(json_file, data_json_file)
+            
+            print(f"已处理: {html_file.name} -> {json_file.absolute()}")
+            print(f"已复制到: {data_json_file.absolute()}")
             print(f"共提取出 {video_count} 个视频\n")
             
             # 提取频道logo

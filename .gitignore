@@ -1,2 +1,4 @@
 # 忽略 WEB-INF 目录及其所有内容
 WEB-INF/*
+tools/ftp_upload.log
+tools/sftp_upload.log
