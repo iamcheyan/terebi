@@ -51,8 +51,6 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log('PC端样式已加载');
     }
     
-    // // 设置自动搜索计时器
-    // setupAutoSearchTimer();
 });
 
 // // 初始化频道列表折叠/展开按钮
@@ -290,6 +288,18 @@ async function fetchChannelList(autoSelectRandom = false) {
 function displayChannelSelector(channelData) {
     channelCategories.innerHTML = '';
     
+    // 使用已有的搜索框，不再创建新的搜索框
+    // 确保已有的搜索框可见
+    const existingSearchInput = document.getElementById('channelSearch');
+    if (existingSearchInput) {
+        existingSearchInput.style.display = 'block';
+        
+        // 添加搜索功能到已有的搜索框
+        existingSearchInput.addEventListener('input', function() {
+            searchChannels(this.value);
+        });
+    }
+    
     // 遍历所有顶级分类
     Object.entries(channelData).forEach(([category, content]) => {
         const section = document.createElement('div');
@@ -304,17 +314,33 @@ function displayChannelSelector(channelData) {
         
         // 处理所有分类
         Object.entries(content).forEach(([subCategory, channels]) => {
+            // 创建子分类容器
+            const subCategoryContainer = document.createElement('div');
+            subCategoryContainer.className = 'subcategory-container';
+            
             const subCategoryTitle = document.createElement('h4');
             subCategoryTitle.textContent = subCategory;
             subCategoryTitle.className = 'network-title';
-            channelList.appendChild(subCategoryTitle);
+            subCategoryContainer.appendChild(subCategoryTitle);
+            
+            // 创建频道组容器
+            const channelsGroup = document.createElement('div');
+            channelsGroup.className = 'channels-group';
             
             channels.forEach(channel => {
                 if (channel.name && channel.url) {
                     const channelButton = createChannelButton(channel);
-                    channelList.appendChild(channelButton);
+                    channelsGroup.appendChild(channelButton);
                 }
             });
+            
+            // 将频道组添加到子分类容器
+            subCategoryContainer.appendChild(channelsGroup);
+            
+            // 只有当有频道时才添加该子分类
+            if (channelsGroup.children.length > 0) {
+                channelList.appendChild(subCategoryContainer);
+            }
         });
         
         // 只有当有频道时才添加该区域
@@ -706,3 +732,112 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // 添加调试信息
 console.log('DOMContentLoaded イベントリスナーが追加されました');
+
+// 修改原有的filterChannels函数，添加高亮功能
+function filterChannels() {
+    const keyword = document.getElementById('channelSearch').value.toLowerCase();
+    searchChannels(keyword);
+}
+
+// 添加搜索频道功能
+function searchChannels(keyword) {
+    if (!keyword) {
+        // 如果关键词为空，清除所有高亮
+        clearHighlights();
+        showAllChannels();
+        return;
+    }
+    
+    keyword = keyword.toLowerCase();
+    let found = false;
+    
+    // 获取所有频道项
+    const channelItems = document.querySelectorAll('.channel-item');
+    
+    channelItems.forEach(item => {
+        const channelName = item.querySelector('.channel-name');
+        const channelNameText = channelName.textContent.toLowerCase();
+        
+        if (channelNameText.includes(keyword)) {
+            // 显示匹配的频道
+            item.style.display = 'flex';
+            
+            // 高亮关键词
+            const regex = new RegExp(`(${keyword})`, 'gi');
+            const highlightedText = channelName.textContent.replace(regex, '<span class="highlight">$1</span>');
+            channelName.innerHTML = highlightedText;
+            
+            // 确保父容器可见
+            let parent = item.parentElement;
+            while (parent && !parent.classList.contains('channel-section')) {
+                parent.style.display = 'block';
+                parent = parent.parentElement;
+            }
+            if (parent) parent.style.display = 'block';
+            
+            found = true;
+        } else {
+            // 隐藏不匹配的频道
+            item.style.display = 'none';
+        }
+    });
+    
+    // 隐藏空的子分类和分类
+    const subCategories = document.querySelectorAll('.subcategory-container');
+    subCategories.forEach(subCategory => {
+        const visibleChannels = subCategory.querySelectorAll('.channel-item[style="display: flex;"]');
+        if (visibleChannels.length === 0) {
+            subCategory.style.display = 'none';
+        } else {
+            subCategory.style.display = 'block';
+        }
+    });
+    
+    const sections = document.querySelectorAll('.channel-section');
+    sections.forEach(section => {
+        const visibleSubCategories = section.querySelectorAll('.subcategory-container[style="display: block;"]');
+        if (visibleSubCategories.length === 0) {
+            section.style.display = 'none';
+        } else {
+            section.style.display = 'block';
+        }
+    });
+    
+    // 更新状态
+    if (!found) {
+        statusElement.textContent = `"${keyword}" に一致するチャンネルが見つかりませんでした`;
+        statusElement.style.display = 'block';
+    } else {
+        statusElement.textContent = '';
+        statusElement.style.display = 'none';
+    }
+}
+
+// 清除所有高亮
+function clearHighlights() {
+    const highlightedElements = document.querySelectorAll('.channel-name');
+    highlightedElements.forEach(element => {
+        element.innerHTML = element.textContent;
+    });
+}
+
+// 显示所有频道
+function showAllChannels() {
+    const channelItems = document.querySelectorAll('.channel-item');
+    channelItems.forEach(item => {
+        item.style.display = 'flex';
+    });
+    
+    const subCategories = document.querySelectorAll('.subcategory-container');
+    subCategories.forEach(subCategory => {
+        subCategory.style.display = 'block';
+    });
+    
+    const sections = document.querySelectorAll('.channel-section');
+    sections.forEach(section => {
+        section.style.display = 'block';
+    });
+    
+    statusElement.textContent = '';
+    statusElement.style.display = 'none';
+}

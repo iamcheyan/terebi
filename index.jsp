@@ -16,7 +16,6 @@
     <!-- 基础样式 - 所有设备都加载 -->
     <link rel="stylesheet" href="styles/main.css">
     
-    
 </head>
 <body>
     <div class="container">
@@ -60,6 +59,9 @@
                     チャンネルリスト
                 </div>
                 
+                <!-- 添加搜索输入框 -->
+                <input type="text" id="channelSearch" placeholder="チャンネルを検索..." onkeyup="filterChannels()">
+                
                 <div id="channelSelector">
                     <div id="channelCategories">
                         <!-- 频道分类将在这里显示 -->
@@ -94,6 +96,25 @@
    
     
     <script src="scripts/main.js"></script>
+    
+    <script>
+    function filterChannels() {
+        var input, filter, channelCategories, channels, i, txtValue;
+        input = document.getElementById('channelSearch');
+        filter = input.value.toUpperCase();
+        channelCategories = document.getElementById('channelCategories');
+        channels = channelCategories.getElementsByTagName('div'); // 假设每个频道是一个 div
+
+        for (i = 0; i < channels.length; i++) {
+            txtValue = channels[i].textContent || channels[i].innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                channels[i].style.display = "";
+            } else {
+                channels[i].style.display = "none";
+            }
+        }
+    }
+    </script>
     
 </body>
 </html> 

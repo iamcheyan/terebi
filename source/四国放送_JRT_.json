@@ -2,11 +2,58 @@
   "channel_id": "UCuhA-fogYs0MwglwZbnL_8A",
   "channel_name": "JRT四国放送公式チャンネル",
   "original_name": "四国放送（JRT）",
-  "updated_at": "2025-03-08T18:43:38.223087",
+  "updated_at": "2025-03-09T12:33:30.409395",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "fUSYy1QSiU85ROp8D6okF8mwg9Y",
+      "etag": "_Y6UdhqvHEbO5l5DBFHpokNl4Sw",
+      "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkFDOEY0V0RHOGRV",
+      "snippet": {
+        "publishedAt": "2025-03-08T10:00:10Z",
+        "channelId": "UCuhA-fogYs0MwglwZbnL_8A",
+        "title": "【ラジオ】STU48のすだちでキュン～世界一カワイイ‼うちの子自慢～",
+        "description": "#STU48 #谷口茉妃菜 #渡辺菜月 #野口七海\n四国放送ラジオ「STU48のすだちでキュン」は、毎週月曜日23:00〜23:40に放送中。\n\n谷口茉妃菜（STU48）、野口七海（四国放送アナウンサー）が、すだちのように爽やかで、ゆったりとしたアットホームなトークをお送りしています。\n\nメール：kyun@jrt.jp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AC8F4WDG8dU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AC8F4WDG8dU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AC8F4WDG8dU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AC8F4WDG8dU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AC8F4WDG8dU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JRT四国放送公式チャンネル",
+        "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AC8F4WDG8dU"
+        },
+        "videoOwnerChannelTitle": "JRT四国放送公式チャンネル",
+        "videoOwnerChannelId": "UCuhA-fogYs0MwglwZbnL_8A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eBhJsW95a3QCpCEeU_hMOrupqBc",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLm52eS10VHB6ZUM4",
       "snippet": {
         "publishedAt": "2025-03-07T23:00:44Z",
@@ -42,7 +89,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 0,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nvy-tTpzeC8"
@@ -53,7 +100,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "cnbsRIpd23ZouMEkruWl54Mk8Ck",
+      "etag": "q3SaNYFbkl4J2YJZQotHHPwlfiE",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLm9DNXU5di0zZldn",
       "snippet": {
         "publishedAt": "2025-03-07T10:55:22Z",
@@ -89,7 +136,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 1,
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "oC5u9v-3fWg"
@@ -100,7 +147,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "EiHvOOxPbkOjk8zzJcQYq-3CE9g",
+      "etag": "hSKMHPNVIFc46slPXOxINw9WTFE",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmNnaHhFalV6Sy1j",
       "snippet": {
         "publishedAt": "2025-03-07T10:00:53Z",
@@ -136,7 +183,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 2,
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "cghxEjUzK-c"
@@ -147,7 +194,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8-dj66dy2sQHmgGvS-vBI8NZDJo",
+      "etag": "ppspgiSJ3WaHdowz7lpOtVKYllc",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkphYjBaay1DWTBJ",
       "snippet": {
         "publishedAt": "2025-03-07T09:23:03Z",
@@ -183,7 +230,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 3,
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Jab0Zk-CY0I"
@@ -194,7 +241,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2BIXgvUt_3GNX3wGerMvKpEqzQc",
+      "etag": "W9ReOAn2ny55Zonl_R87zKEYhoo",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkFjOXRkQUJ6VHpB",
       "snippet": {
         "publishedAt": "2025-03-07T08:30:08Z",
@@ -230,7 +277,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 4,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Ac9tdABzTzA"
@@ -241,7 +288,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "h1C27uChHkbjDVRny-NBRdMPkYc",
+      "etag": "2QuknyZ8fr1b78Zwhhb9B84y3as",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLnhUS0tjNGJMcGtv",
       "snippet": {
         "publishedAt": "2025-03-05T10:05:00Z",
@@ -277,7 +324,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 5,
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "xTKKc4bLpko"
@@ -288,7 +335,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "AhwVVwjERQ9aXIfA9n-Wbf2ozAg",
+      "etag": "f1lak3e1TlmSNiX6F1mEZyANLu4",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmlORURrUXoyYkhz",
       "snippet": {
         "publishedAt": "2025-03-05T09:30:30Z",
@@ -324,7 +371,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 6,
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "iNEDkQz2bHs"
@@ -335,7 +382,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JxuPElNwWdncxlTWuVAGxkGx4C4",
+      "etag": "veZyVpfQ-07bHJcTXSiOwtZGaak",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjY0WXM5Ums3X2Y0",
       "snippet": {
         "publishedAt": "2025-03-03T09:00:06Z",
@@ -371,7 +418,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 7,
+        "position": 8,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "64Ys9Rk7_f4"
@@ -382,7 +429,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WvN19aCbWg1Xu-rA-yvLJNKNe_k",
+      "etag": "d1lOXaXGTPHBI8wlb66DPYinAXw",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkItZF9TSW5sYlRB",
       "snippet": {
         "publishedAt": "2025-02-28T08:47:38Z",
@@ -418,7 +465,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 8,
+        "position": 9,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "B-d_SInlbTA"
@@ -429,7 +476,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2sExwbxBItDgeRmWmIBap2GKGDg",
+      "etag": "m00Ig32KpZPgvTc7ia4LdSUcUcU",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLi1TakdvRnVqYVBj",
       "snippet": {
         "publishedAt": "2025-02-27T10:31:16Z",
@@ -465,7 +512,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 9,
+        "position": 10,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "-SjGoFujaPc"
@@ -476,7 +523,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZrI47ck0Mq3iPEM03-JH9tDM-Jw",
+      "etag": "ORpqJH-pRuSN6HJc5oimh-dBrcY",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmNFX2ZJY2dwSzIw",
       "snippet": {
         "publishedAt": "2025-02-27T10:28:55Z",
@@ -512,7 +559,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 10,
+        "position": 11,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "cE_fIcgpK20"
@@ -523,7 +570,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WZeW5RHci4ODpEawIp-8ILE1Zgo",
+      "etag": "Zwow8zgnt-10TyE4WLgrQiAe4cA",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkxMNU1ZN2FwQUI4",
       "snippet": {
         "publishedAt": "2025-02-27T10:12:44Z",
@@ -559,7 +606,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 11,
+        "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "LL5MY7apAB8"
@@ -570,7 +617,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "s0DAFrLw-w5U2jEVcVw0Q6TKqhs",
+      "etag": "Kz_cnBA9Agd8c0LBYRFe6GRF7wg",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLlpxTk9yOHVxeEJF",
       "snippet": {
         "publishedAt": "2025-02-26T09:45:03Z",
@@ -606,7 +653,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 12,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ZqNOr8uqxBE"
@@ -617,7 +664,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FHVyyihPvZ1EB1yyVfTL4mWsdgc",
+      "etag": "Dy5qzBJfbDi7NRAy_1FDyF885Zs",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkthTXZFOXZaUGhV",
       "snippet": {
         "publishedAt": "2025-02-22T10:30:08Z",
@@ -653,7 +700,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 13,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KaMvE9vZPhU"
@@ -664,7 +711,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MXCLutC0KxiWn0Td5mG7iZXEfMU",
+      "etag": "dT3E1sqvtj2Ft0W3dZr7GfAg3p0",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLnFOcXdXTUt2cTJj",
       "snippet": {
         "publishedAt": "2025-02-22T10:00:57Z",
@@ -700,7 +747,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 14,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "qNqwWMKvq2c"
@@ -711,7 +758,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kH1zJisyDY8QJBKgO7An95-IDuo",
+      "etag": "YZczx65hYV3u_ampf7L6Z6nti-0",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLnN0MmdxejFCYzFV",
       "snippet": {
         "publishedAt": "2025-02-21T23:00:49Z",
@@ -747,7 +794,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 15,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "st2gqz1Bc1U"
@@ -758,7 +805,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xyaVhObuJIFSxsPs-SbFu4A3Uuo",
+      "etag": "88XICGhz_Rk9Oyi1isfJ2z3HmH0",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmJobzZzaFpJZktJ",
       "snippet": {
         "publishedAt": "2025-02-21T10:30:17Z",
@@ -794,7 +841,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 16,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "bho6shZIfKI"
@@ -805,7 +852,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "kda4CNPkuezPcl9dPTIK69plFsw",
+      "etag": "LhY7B5i_ZTIjwSKI1kvStz1WSWQ",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLm5tQzZxRVF4NGJz",
       "snippet": {
         "publishedAt": "2025-02-21T09:04:48Z",
@@ -841,7 +888,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 17,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "nmC6qEQx4bs"
@@ -852,7 +899,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "t74UgkuKzJv80ebsQSA9FTm-Y74",
+      "etag": "B9gYAeDMmM4yc0mUEdlwADrXUTM",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjJBRXlqSXVHRUNv",
       "snippet": {
         "publishedAt": "2025-02-20T10:11:46Z",
@@ -888,7 +935,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 18,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "2AEyjIuGECo"
@@ -899,7 +946,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6haaXe7HY0aBSETuvMYbUYqZZUc",
+      "etag": "yIoKt5eVs8LDCXMdHEi7NkcUnHY",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkpZcmdyVFQwQmJF",
       "snippet": {
         "publishedAt": "2025-02-20T10:11:28Z",
@@ -935,7 +982,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 19,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "JYrgrTT0BbE"
@@ -946,7 +993,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UAXHgXc0bRvbwWIynBIq4M3dSfU",
+      "etag": "tfyJuo2m1_mrQYA3c3QkRq2YkS0",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmlBM3JVYXQ2aDRF",
       "snippet": {
         "publishedAt": "2025-02-19T09:30:16Z",
@@ -982,7 +1029,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 20,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "iA3rUat6h4E"
@@ -993,7 +1040,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ntO5YW1FlgIXHCR9ofXba7c4lBg",
+      "etag": "wUNzSmkWQFxefVsKznQM4Q4paOw",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjlfVVd0aXZNSV9n",
       "snippet": {
         "publishedAt": "2025-02-18T10:15:00Z",
@@ -1029,7 +1076,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 21,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9_UWtivMI_g"
@@ -1040,7 +1087,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zAWYYXXa9j52WZkpmGHd4gWnvjY",
+      "etag": "dnUbY3juvaJh8d6VHI9DkGXckZA",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmRLN2N5aDU3aFVZ",
       "snippet": {
         "publishedAt": "2025-02-14T09:47:02Z",
@@ -1076,7 +1123,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 22,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dK7cyh57hUY"
@@ -1087,7 +1134,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "D4jswqYakmKFkeifcSPsIwo7mzo",
+      "etag": "ZvoBfMsBz1z9LyFqWeLXUyiBU18",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkd1SmRSSXFOSmc0",
       "snippet": {
         "publishedAt": "2025-02-14T08:30:08Z",
@@ -1123,7 +1170,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 23,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "GuJdRIqNJg4"
@@ -1134,7 +1181,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HEtk3NJCiUiFEbt1rL_eyizLW4Y",
+      "etag": "ZjmSFjEeyPI1K71-WN9axMP5Hnc",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjhPb0FtU3lubzVz",
       "snippet": {
         "publishedAt": "2025-02-13T10:34:51Z",
@@ -1170,7 +1217,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 24,
+        "position": 25,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "8OoAmSyno5s"
@@ -1181,7 +1228,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aZOope5qWHti1MU6iYLKJyoM24w",
+      "etag": "t24Ue_HmNIRqEnHB73Td3cYx1ec",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmlLcXhmMk40dUpB",
       "snippet": {
         "publishedAt": "2025-02-13T10:31:03Z",
@@ -1217,7 +1264,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 25,
+        "position": 26,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "iKqxf2N4uJA"
@@ -1228,7 +1275,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6pMnpUidUYf5PozdqER42BNnTCE",
+      "etag": "1OD4dUpUCb1bK_teemNj6BnGEjw",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkd3U0NLVU1DcThJ",
       "snippet": {
         "publishedAt": "2025-02-13T03:00:08Z",
@@ -1264,7 +1311,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 26,
+        "position": 27,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "GwSCKUMCq8I"
@@ -1275,7 +1322,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2WDupXx9sHlCzVbzGTIumqQjC8U",
+      "etag": "TZlN9o3TwsPAOcKo_qGadRzA7R4",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLlNPSUJMUmphcURF",
       "snippet": {
         "publishedAt": "2025-02-13T03:00:01Z",
@@ -1311,7 +1358,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 27,
+        "position": 28,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "SOIBLRjaqDE"
@@ -1322,7 +1369,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HxK6ReerwlCILCZ2Noiu60O2It8",
+      "etag": "Oxgv6b0UiEMEpaRwxZ1-7ewDs9k",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkdWbHJOTDNvVXEw",
       "snippet": {
         "publishedAt": "2025-02-12T10:15:00Z",
@@ -1358,7 +1405,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 28,
+        "position": 29,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "GVlrNL3oUq0"
@@ -1369,7 +1416,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "s71xNhdkdCIGRACOPLXyK53ov78",
+      "etag": "1PRE6eq9SIV9bJSIpWcBFagMJt0",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjR4V01SM0VRR0lB",
       "snippet": {
         "publishedAt": "2025-02-12T09:05:00Z",
@@ -1405,7 +1452,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 29,
+        "position": 30,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4xWMR3EQGIA"
@@ -1416,7 +1463,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qSdrOF5RtL1w53ysBosm-3utdJY",
+      "etag": "X2CmbfRHMvM-_bm3UqtmLOoMgtc",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkh6VlJZMlBxaEVR",
       "snippet": {
         "publishedAt": "2025-02-08T10:00:17Z",
@@ -1452,7 +1499,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 30,
+        "position": 31,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HzVRY2PqhEQ"
@@ -1463,7 +1510,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5V-3kJ-iUpvohE0eyqki37U589g",
+      "etag": "SKYYlsedNuJbDm4eq7Zk4gDV2Fg",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLl91bDQ3MHRlZ2Fr",
       "snippet": {
         "publishedAt": "2025-02-07T23:00:35Z",
@@ -1499,7 +1546,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 31,
+        "position": 32,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_ul470tegak"
@@ -1510,7 +1557,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aSUagQh01RhZnF7b3W7NEUBtVig",
+      "etag": "yNuvGg1uuEspzyxnYkvRlXgQs28",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmRua2w3cmVaQU9v",
       "snippet": {
         "publishedAt": "2025-02-07T10:00:44Z",
@@ -1546,7 +1593,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 32,
+        "position": 33,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "dnkl7reZAOo"
@@ -1557,7 +1604,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lK75KL9FvkIfq8IlTTaMn1rw2kk",
+      "etag": "1_8C326TYlygc4Vlnq0FVcVZs3Y",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjRSTncxNDNDSnJR",
       "snippet": {
         "publishedAt": "2025-02-06T10:20:00Z",
@@ -1593,7 +1640,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 33,
+        "position": 34,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "4RNw143CJrQ"
@@ -1604,7 +1651,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PenuKP6w5Ov6HumDgJBlxfczda0",
+      "etag": "0DcAF26TA8mxT8Ja82d4t_ph5fo",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmFoTEhYcF9xczln",
       "snippet": {
         "publishedAt": "2025-02-06T10:13:45Z",
@@ -1640,7 +1687,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 34,
+        "position": 35,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ahLHXp_qs9g"
@@ -1651,7 +1698,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Yfb-YvoPc5JNz7j3LIutfU7BI9Q",
+      "etag": "XsgjYGLM6nfz_-NNbhJS2TK8aEc",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjIyRUhNeGk5MkJN",
       "snippet": {
         "publishedAt": "2025-02-05T09:00:02Z",
@@ -1687,7 +1734,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 35,
+        "position": 36,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "22EHMxi92BM"
@@ -1698,7 +1745,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LUwbAMQbGGPDZSbdkb9D7me5tGQ",
+      "etag": "xlaauOIPrEwVfRfrWbBo2H1Mhfk",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLk5MQ3NOMS0tTXhv",
       "snippet": {
         "publishedAt": "2025-02-04T10:30:18Z",
@@ -1734,7 +1781,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 36,
+        "position": 37,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "NLCsN1--Mxo"
@@ -1745,7 +1792,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "n1Nz8qOP_sW9PpRkyYwSm5VSgmk",
+      "etag": "z3xKE1OGslw_wsai2z6TVvLNVfY",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmxvNFEyREp1WHRJ",
       "snippet": {
         "publishedAt": "2025-02-03T10:15:07Z",
@@ -1781,7 +1828,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 37,
+        "position": 38,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "lo4Q2DJuXtI"
@@ -1792,7 +1839,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "o95dk2nc-Ui1961uUZSrKiUckd0",
+      "etag": "KBkbEXPWmHfQi3xh7lSztgRBGF0",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjlDSmJqLXlxbGpv",
       "snippet": {
         "publishedAt": "2025-02-01T10:00:13Z",
@@ -1828,7 +1875,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 38,
+        "position": 39,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9CJbj-yqljo"
@@ -1839,7 +1886,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Id6Ptp0zTSlGnk11vv04Ws8OhZg",
+      "etag": "eR1GQ1IdJw8s7Fj_MOMUENKOmjQ",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjlLS3VVcGxiUnFn",
       "snippet": {
         "publishedAt": "2025-01-31T10:10:07Z",
@@ -1875,7 +1922,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 39,
+        "position": 40,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9KKuUplbRqg"
@@ -1886,7 +1933,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "aABplAyR2yPGNbQEjaW7gL5yL5w",
+      "etag": "JoWjlw5HNOUpNh6JqtPz_7w4Qas",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkZDNEFya3BLOWRz",
       "snippet": {
         "publishedAt": "2025-01-31T10:00:22Z",
@@ -1922,7 +1969,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 40,
+        "position": 41,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "FC4ArkpK9ds"
@@ -1933,7 +1980,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4rmVztb7VJ5Y1Rz2S52puKqIYbA",
+      "etag": "wLW-68tptlZZ991h3EhpjzrKOuA",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLlF2LXctb3J6S1Rj",
       "snippet": {
         "publishedAt": "2025-01-30T11:04:00Z",
@@ -1969,7 +2016,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 41,
+        "position": 42,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Qv-w-orzKTc"
@@ -1980,7 +2027,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "x69rmy2sv6WuSQ2M0NCVCGPGEj8",
+      "etag": "calMTlfEMNjXms96AJwJ0DZvu7E",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLnVxbDZvVkRkVS0w",
       "snippet": {
         "publishedAt": "2025-01-30T11:03:34Z",
@@ -2016,7 +2063,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 42,
+        "position": 43,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "uql6oVDdU-0"
@@ -2027,7 +2074,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "WobeNFFRsqq8OGWnJm7-Pzna6UM",
+      "etag": "kmqoOmuFttp0Z5VNDaGPs7dr-yM",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLl9xelYtNnZGMkdn",
       "snippet": {
         "publishedAt": "2025-01-29T09:35:03Z",
@@ -2063,7 +2110,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 43,
+        "position": 44,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "_qzV-6vF2Gg"
@@ -2074,7 +2121,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YBClqo5g-3rt3I-N11NbA3H_db0",
+      "etag": "hrODHDWcBXQADM9QRRtB7_nYziE",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLjlZQkZTWHRSeXpJ",
       "snippet": {
         "publishedAt": "2025-01-28T10:15:01Z",
@@ -2110,7 +2157,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 44,
+        "position": 45,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "9YBFSXtRyzI"
@@ -2121,7 +2168,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "QeEd569cQnHm9q2BzIIw4BzCSq0",
+      "etag": "BcoweJM_zFIt1uu7Cc_W6583n94",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLm9EZndKM0NIaWhn",
       "snippet": {
         "publishedAt": "2025-01-27T10:00:56Z",
@@ -2157,7 +2204,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 45,
+        "position": 46,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "oDfwJ3CHihg"
@@ -2168,7 +2215,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3ikLr59HwU8nmjlNdHD_73vaabQ",
+      "etag": "h7mNeKAmy_f29uYcT-b0DA5fVxc",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLkhEU3lNNkFwaHVv",
       "snippet": {
         "publishedAt": "2025-01-25T10:00:16Z",
@@ -2204,7 +2251,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 46,
+        "position": 47,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HDSyM6Aphuo"
@@ -2215,7 +2262,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ytxTkm3t2sNVnAM2IZVDNkdx3Qg",
+      "etag": "MxBjasUOmtzbsCXI27SLd4ynlPs",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLmtZM2NXM2ZHWDFB",
       "snippet": {
         "publishedAt": "2025-01-24T23:00:48Z",
@@ -2251,7 +2298,7 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 47,
+        "position": 48,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kY3cW3fGX1A"
@@ -2262,7 +2309,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5fPoUnIDNmt6IRJNjIz0RY_fVGs",
+      "etag": "LC4Z-lzSR1EJrAxgYlFO-gCcZwo",
       "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLm54TExEZXhXREVB",
       "snippet": {
         "publishedAt": "2025-01-24T10:01:02Z",
@@ -2298,57 +2345,10 @@
         },
         "channelTitle": "JRT四国放送公式チャンネル",
         "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
-        "position": 48,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "nxLLDexWDEA"
-        },
-        "videoOwnerChannelTitle": "JRT四国放送公式チャンネル",
-        "videoOwnerChannelId": "UCuhA-fogYs0MwglwZbnL_8A"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "svdtoMg2zfCU2CvIhJdz9-ZTg1A",
-      "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLm5rWnZHbGlhQ3dR",
-      "snippet": {
-        "publishedAt": "2025-01-23T10:43:39Z",
-        "channelId": "UCuhA-fogYs0MwglwZbnL_8A",
-        "title": "【ゴジカル！】陽水の夢の中へ・サンリバー大歩危（三好市山城町）",
-        "description": "徳島県のテレビ局・四国放送の情報番組「ゴジカル！」で放送中！\n\nゴジカル！\nhttps://www.jrt.co.jp/tv/gojical/\n月曜日～金曜日\n午後4時45分～午後5時53分\n\n #ゴジカル #四国放送 #徳島 #おすすめ #ホテル #井ノ上陽水 #大歩危 #小歩危 #サンリバー大歩危 #ムーンライト大歩危 #三好市 #若返りの湯 #ふろふき大根 #租谷そば #鉄道マニア",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nkZvGliaCwQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nkZvGliaCwQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nkZvGliaCwQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nkZvGliaCwQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nkZvGliaCwQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "JRT四国放送公式チャンネル",
-        "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
         "position": 49,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "nkZvGliaCwQ"
+          "videoId": "nxLLDexWDEA"
         },
         "videoOwnerChannelTitle": "JRT四国放送公式チャンネル",
         "videoOwnerChannelId": "UCuhA-fogYs0MwglwZbnL_8A"

@@ -444,6 +444,7 @@ html:not(.mobile-device) .channel-list {
     margin: 5px 0 0 0;
     /* padding-bottom: 10px; */
     border-bottom: 1px solid #333;
+    color: #666;
 }
 /* 频道列表折叠状态 - 移除滑动效果 */
 .right-column.collapsed {
@@ -519,4 +520,64 @@ html:not(.mobile-device) .channel-list {
     display: block;
     font-size: 14px;
     color: #ffffff;
+}
+
+/* 搜索框样式 */
+#channelSearch {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #222;
+    border: none;
+    border-radius: 5px;
+    color: #f0f0f0;
+    font-size: 14px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 10;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#channelSearch:focus {
+    background-color: #333;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    outline: none;
 } 
+/* 搜索框样式 */
+.search-container {
+    margin-bottom: 15px;
+    display: flex;
+    gap: 10px;
+}
+
+.channel-search-input {
+    flex: 1;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.search-button {
+    padding: 8px 15px;
+    background-color: #4285f4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.search-button:hover {
+    background-color: #3367d6;
+}
+
+/* 高亮样式 */
+.highlight {
+    background-color: #ffeb3b;
+    color: #000;
+    font-weight: bold;
+    padding: 0 2px;
+    border-radius: 2px;
+}

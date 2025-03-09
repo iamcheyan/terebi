@@ -2,6 +2,7 @@ import json
 import os
 from datetime import datetime
 import glob
+import sys
 
 def process_channel_json(input_file, output_dir):
     try:
@@ -153,10 +154,10 @@ def process_channel_json(input_file, output_dir):
             
             # 只有在有新增视频时才打印详细信息
             if len(new_videos) > 0:
-                print(f"处理完成！已更新 {output_file}")
+                print(f"处理完成！已更新 {os.path.abspath(output_file)}")
                 print(f"新增了 {len(new_videos)} 个视频，总共 {len(existing_data['videos'])} 个视频")
             else:
-                print(f"{output_file} 没有新增视频，总共 {len(existing_data['videos'])} 个视频")
+                print(f"{os.path.abspath(output_file)} 没有新增视频，总共 {len(existing_data['videos'])} 个视频")
         else:
             # 如果文件不存在，直接保存新数据
             with open(output_file, 'w', encoding='utf-8') as f:
@@ -180,17 +181,28 @@ if __name__ == "__main__":
     # 确保输出目录存在
     os.makedirs(output_dir, exist_ok=True)
     
-    # 获取source目录下的所有json文件
-    input_files = glob.glob(os.path.join(input_dir, "*.json"))
-    
-    if not input_files:
-        print(f"警告: 在 {input_dir} 目录中没有找到JSON文件")
-    
-    # 处理每个文件
-    for input_file in input_files:
-        print(f"正在处理: {input_file}")
-        process_channel_json(input_file, output_dir)
+    # 检查是否提供了文件路径参数
+    if len(sys.argv) > 1:
+        # 使用提供的文件路径
+        input_file = sys.argv[1]
+        if os.path.exists(input_file):
+            print(f"正在处理指定文件: {input_file}")
+            process_channel_json(input_file, output_dir)
+        else:
+            print(f"错误: 指定的文件 {input_file} 不存在")
+            sys.exit(1)
+    else:
+        # 获取source目录下的所有json文件
+        input_files = glob.glob(os.path.join(input_dir, "*.json"))
         
+        if not input_files:
+            print(f"警告: 在 {input_dir} 目录中没有找到JSON文件")
+        
+        # 处理每个文件
+        for input_file in input_files:
+            print(f"正在处理: {input_file}")
+            process_channel_json(input_file, output_dir)
+    
     # 处理完后更新japan_tv_youtube_channels.json中的状态
     try:
         # 读取japan_tv_youtube_channels.json
@@ -260,7 +272,7 @@ if __name__ == "__main__":
         with open('../japan_tv_youtube_channels.json', 'w', encoding='utf-8') as f:
             json.dump(channels_data, f, ensure_ascii=False, indent=4)
             
-        print("已更新japan_tv_youtube_channels.json中的状态")
+        # print("已更新japan_tv_youtube_channels.json中的状态")
         
     except Exception as e:
         print(f"更新状态时出错: {e}")
