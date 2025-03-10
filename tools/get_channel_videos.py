@@ -8,6 +8,9 @@ from datetime import datetime
 import subprocess
 import traceback
 import argparse
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+import time
 
 """
 # 基本使用，每个频道获取500个视频
@@ -117,8 +120,55 @@ print(f"总共生成了 {len(channel_search_info)} 个搜索URL")
 #     print(f"搜索URL: {info['url']}")
 #     print("-" * 50)
 
+# 配置requests会话，添加重试功能
+def get_requests_session():
+    session = requests.Session()
+    retry_strategy = Retry(
+        total=5,  # 总共尝试次数(包括首次请求)
+        backoff_factor=1,  # 重试间隔 = {backoff factor} * (2 ** ({重试次数} - 1))
+        status_forcelist=[429, 500, 502, 503, 504],  # 遇到这些状态码时重试
+        allowed_methods=["GET", "POST"]  # 允许重试的HTTP方法
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+# 使用带重试的请求函数
+def make_api_request(url, params=None, max_attempts=3, initial_delay=2):
+    """
+    发送带有重试机制的API请求
+    
+    参数:
+    url - 请求URL
+    params - 请求参数
+    max_attempts - 最大尝试次数
+    initial_delay - 初始延迟时间(秒)
+    
+    返回:
+    请求响应或None
+    """
+    session = get_requests_session()
+    attempt = 0
+    last_exception = None
+    
+    while attempt < max_attempts:
+        try:
+            response = session.get(url, params=params, timeout=(10, 30))  # 连接超时10秒，读取超时30秒
+            return response
+        except (requests.ConnectionError, requests.Timeout) as e:
+            attempt += 1
+            last_exception = e
+            delay = initial_delay * (2 ** (attempt - 1))  # 指数退避
+            print(f"连接失败，{delay}秒后重试 ({attempt}/{max_attempts})...")
+            time.sleep(delay)
+    
+    print(f"达到最大重试次数，请求失败: {str(last_exception)}")
+    return None
+
+# 修改各处API请求代码
 def get_channel_info(channel_id):
-    global API_KEY  # 确保可以修改全局API_KEY
+    global API_KEY
     
     url = f'https://www.googleapis.com/youtube/v3/channels'
     params = {
@@ -127,14 +177,14 @@ def get_channel_info(channel_id):
         'key': API_KEY
     }
     
-    response = requests.get(url, params=params)
+    response = make_api_request(url, params)
     # 如果API请求失败，尝试切换API密钥
-    if response.status_code != 200:
+    if response is None or response.status_code != 200:
         API_KEY = try_switch_api_key(API_KEY)
         params['key'] = API_KEY
-        response = requests.get(url, params=params)
+        response = make_api_request(url, params)
     
-    if response.status_code == 200:
+    if response is not None and response.status_code == 200:
         data = response.json()
         if data['items']:
             return data['items'][0]['snippet']['title']
@@ -223,7 +273,7 @@ def process_channels_in_groups():
 
 # 处理单个频道的函数
 def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=False):
-    global API_KEY  # 确保可以修改全局API_KEY
+    global API_KEY
     
     print(f'\n准备处理频道: {info["name"]}')
     
@@ -262,14 +312,14 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                     'key': API_KEY
                 }
                 
-                response = requests.get(url, params=params)
+                response = make_api_request(url, params)
                 # 如果API请求失败，尝试切换API密钥
-                if response.status_code != 200:
+                if response is None or response.status_code != 200:
                     API_KEY = try_switch_api_key(API_KEY)
                     params['key'] = API_KEY
-                    response = requests.get(url, params=params)
+                    response = make_api_request(url, params)
                 
-                if response.status_code == 200:
+                if response is not None and response.status_code == 200:
                     latest_data = response.json()
                     if 'items' in latest_data and len(latest_data['items']) > 0:
                         latest_video = latest_data['items'][0]
@@ -303,19 +353,19 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
             return
     
     # 获取频道ID
-    response = requests.get(info["url"])
+    response = make_api_request(info["url"])
     # 如果API请求失败，尝试切换API密钥
-    if response.status_code != 200:
-        print(f"请求失败 ({response.status_code}): {info['url']}")
+    if response is None or response.status_code != 200:
+        print(f"请求失败: {info['url']}")
         # 从URL中提取当前API密钥
         current_key = re.search(r'key=([^&]+)', info["url"]).group(1)
         new_key = try_switch_api_key(current_key)
         # 更新URL中的API密钥
         info["url"] = info["url"].replace(f"key={current_key}", f"key={new_key}")
         print(f"切换API密钥并重试...")
-        response = requests.get(info["url"])
+        response = make_api_request(info["url"])
     
-    if response.status_code == 200:
+    if response is not None and response.status_code == 200:
         data = response.json()
         if 'items' in data and len(data['items']) > 0:
             channel_id = data['items'][0]['id']['channelId']
@@ -370,7 +420,7 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
         else:
             print(f'未找到频道信息: {info["name"]}')
     else:
-        print(f'请求失败 ({response.status_code}): {info["url"]}')
+        print(f'请求失败' + (f"，状态码: {response.status_code}" if response else "") + f": {info["url"]}')
 
 # 添加一个函数来切换API密钥
 def try_switch_api_key(current_key):
@@ -408,7 +458,7 @@ def try_switch_api_key(current_key):
 # 获取指定数量的视频
 def get_channel_videos_with_limit(channel_id, max_videos=500):
     """获取指定数量的视频，使用增量更新策略"""
-    global API_KEY  # 确保可以修改全局API_KEY
+    global API_KEY
     
     # 获取上传播放列表ID
     playlist_id = f'UU{channel_id[2:]}'
@@ -454,14 +504,14 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
         total_api_videos = 0
         for _ in range(3):
             try:
-                response = requests.get(url, params=params)
+                response = make_api_request(url, params)
                 # 如果API请求失败，尝试切换API密钥
-                if response.status_code != 200:
+                if response is None or response.status_code != 200:
                     API_KEY = try_switch_api_key(API_KEY)
                     params['key'] = API_KEY
-                    response = requests.get(url, params=params)
+                    response = make_api_request(url, params)
                 
-                if response.status_code == 200:
+                if response is not None and response.status_code == 200:
                     data = response.json()
                     videos = data.get('items', [])
                     if not videos:
@@ -488,7 +538,7 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
                     
                     params['pageToken'] = data['nextPageToken']
                 else:
-                    print(f"API请求失败，状态码: {response.status_code}")
+                    print(f"API请求失败" + (f"，状态码: {response.status_code}" if response else ""))
                     break
             except Exception as e:
                 print(f"获取频道视频时出错: {str(e)}")
@@ -548,14 +598,14 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
     total_api_videos = 0
     for _ in range(pages_needed):
         try:
-            response = requests.get(url, params=params)
+            response = make_api_request(url, params)
             # 如果API请求失败，尝试切换API密钥
-            if response.status_code != 200:
+            if response is None or response.status_code != 200:
                 API_KEY = try_switch_api_key(API_KEY)
                 params['key'] = API_KEY
-                response = requests.get(url, params=params)
+                response = make_api_request(url, params)
             
-            if response.status_code == 200:
+            if response is not None and response.status_code == 200:
                 data = response.json()
                 videos = data.get('items', [])
                 if not videos:
@@ -572,7 +622,7 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
                     
                 params['pageToken'] = data['nextPageToken']
             else:
-                print(f"API请求失败，状态码: {response.status_code}")
+                print(f"API请求失败" + (f"，状态码: {response.status_code}" if response else ""))
                 break
         except Exception as e:
             print(f"获取频道视频时出错: {str(e)}")

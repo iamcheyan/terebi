@@ -11,9 +11,7 @@ body {
     background: transparent;
 }
 
-html.mobile-device .network-title {
-    margin: 5px 0 ;
-}
+
 /* 移动端样式 - 不需要媒体查询包装 */
 html.mobile-device body {
     font-size: 16px;
@@ -37,6 +35,10 @@ html.mobile-device #currentVideoTitle {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    font-size: 12px;
+}
+html.mobile-device .channel-url {
+    font-size: 10px;
 }
 html.mobile-device .channel-logo {
     margin-right: 10px;
@@ -55,6 +57,8 @@ html.mobile-device .footer {
     padding: 10px ;
     background-color: black;
     border-radius: 0;
+    margin-bottom: 0;
+    border:none;
 }
 html.mobile-device .footer-content {
     padding: 0;
@@ -75,12 +79,10 @@ html.mobile-device .container {
 }
 
 html.mobile-device .page-header {
-    padding: 10px;
+    
 }
 
 html.mobile-device .page-header .logo {
-    width: 40px;
-    height: 40px;
     margin-right: 10px;
 }
 
@@ -150,7 +152,6 @@ html.mobile-device .channel-section h3 {
     /* cursor: pointer; */
     /* padding: 0 10px; */
     border-bottom: none;
-    margin-bottom: 0;
     /* background: rgba(0, 0, 0, 0.2); */
     /* border-radius: 6px; */
     /* margin-bottom: 10px; */
