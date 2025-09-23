@@ -2,3 +2,4 @@
 WEB-INF/*
 tools/ftp_upload.log
 tools/sftp_upload.log
+.DS_Store
