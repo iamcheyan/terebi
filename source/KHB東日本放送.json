@@ -1,0 +1,50 @@
+{
+  "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
+  "channel_name": "khb東日本放送",
+  "original_name": "KHB東日本放送",
+  "updated_at": "2025-09-23T19:23:58.344101",
+  "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5jnJexxT0ETBcSxQGKdHPF9WWYc",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLjRfWVFnZWVxVTdz",
+      "snippet": {
+        "publishedAt": "2025-09-23T10:14:05Z",
+        "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
+        "title": "１５万本のヒガンバナ　宮城・大崎市の羽黒山公園で見ごろ迎える",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4_YQgeeqU7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4_YQgeeqU7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4_YQgeeqU7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4_YQgeeqU7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "khb東日本放送",
+        "playlistId": "UUkW_baVbq6aGPWeYY4hOPCA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4_YQgeeqU7s"
+        },
+        "videoOwnerChannelTitle": "khb東日本放送",
+        "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
+      }
+    }
+  ]
+}

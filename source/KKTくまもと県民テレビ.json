@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCHVgNZeav4snXQs93TyNp8g",
+  "channel_name": "熊本県民テレビ KKT公式チャンネル",
+  "original_name": "KKTくまもと県民テレビ",
+  "updated_at": "2025-09-23T19:23:37.713304",
+  "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l1OjfIlLvT8s1Ee6RRQOIEL4iRM",
+      "id": "VVVIVmdOWmVhdjRzblhRczkzVHlOcDhnLjZ1b183MEFBeDFF",
+      "snippet": {
+        "publishedAt": "2025-09-23T10:19:09Z",
+        "channelId": "UCHVgNZeav4snXQs93TyNp8g",
+        "title": "【最大6車線化】セミコンテクノパーク周辺の渋滞解消に向けて道路整備の着工式",
+        "description": "熊本の渋滞問題について考える「抜け出せ！渋滞都市」です。\n深刻化するセミコンテクノパーク周辺の渋滞を解消するため、熊本県が行う道路整備の着工式が行われました。\n\n2025年9月23日　KKT「news every.くまもと」で放送\n最新ニュースはこちらから▼\nhttps://news.ntv.co.jp/n/kkt/new/all\n\n#熊本 #ニュース #道路 #鉄道 #半導体 #tsmc \n#日テレ #日テレニュース",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6uo_70AAx1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6uo_70AAx1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6uo_70AAx1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6uo_70AAx1E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6uo_70AAx1E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "熊本県民テレビ KKT公式チャンネル",
+        "playlistId": "UUHVgNZeav4snXQs93TyNp8g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6uo_70AAx1E"
+        },
+        "videoOwnerChannelTitle": "熊本県民テレビ KKT公式チャンネル",
+        "videoOwnerChannelId": "UCHVgNZeav4snXQs93TyNp8g"
+      }
+    }
+  ]
+}

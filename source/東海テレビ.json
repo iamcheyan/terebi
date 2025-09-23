@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCUQ0AtI3k10_CyLYcu4WRVA",
+  "channel_name": "東海テレビ NEWS ONE",
+  "original_name": "東海テレビ",
+  "updated_at": "2025-09-23T19:22:29.411637",
+  "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4gQVePGAtmmnvaYADjP8IZ2Fymk",
+      "id": "VVVVUTBBdEkzazEwX0N5TFljdTRXUlZBLl9DZWZpLUJJNVdB",
+      "snippet": {
+        "publishedAt": "2025-09-23T10:14:29Z",
+        "channelId": "UCUQ0AtI3k10_CyLYcu4WRVA",
+        "title": "やまむらちゃん&もみじちゃんの2頭のみ…絶滅の危機に瀕する名古屋城の『シカ』京都で殺処分待つ野生個体の受け入れプラン浮上",
+        "description": "名古屋市の広沢市長は、京都市で殺処分が予定されている野生のシカの受け入れを検討することを明らかにしました。名古屋城のお堀では2頭のシカが暮らしていますが、“絶滅の危機”に瀕しています。\n\n2025年9月23日放送\n\n▼チャンネル登録お願いします　https://www.youtube.com/channel/UCUQ0AtI3k10_CyLYcu4WRVA\n\n▼公式HP　https://www.tokai-tv.com/tokainews/\n\n▼公式X　https://twitter.com/tokai_newsone\n\n▼公式LINE　https://line.me/R/ti/p/@oa-tokaitv-news?from=page\n\n▼公式TikTok　https://www.tiktok.com/@tokaitvnewsone\n\n▼yum-yumグルメ　https://www.instagram.com/yumyum__gourmet/\n\n#ニュースONE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Cefi-BI5WA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Cefi-BI5WA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Cefi-BI5WA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Cefi-BI5WA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_Cefi-BI5WA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "東海テレビ NEWS ONE",
+        "playlistId": "UUUQ0AtI3k10_CyLYcu4WRVA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_Cefi-BI5WA"
+        },
+        "videoOwnerChannelTitle": "東海テレビ NEWS ONE",
+        "videoOwnerChannelId": "UCUQ0AtI3k10_CyLYcu4WRVA"
+      }
+    }
+  ]
+}

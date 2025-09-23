@@ -1,0 +1,50 @@
+{
+  "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
+  "channel_name": "yab山口ニュース",
+  "original_name": "yab山口ニュース",
+  "updated_at": "2025-09-23T19:22:26.244966",
+  "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "48ACShOIDWBtaNEMvoEhHf6PyMg",
+      "id": "VVVLSWdsSUg5X3hJSzBmZWFodUtoSkVRLnJFNkF4TXFGVmVJ",
+      "snippet": {
+        "publishedAt": "2025-09-23T10:14:24Z",
+        "channelId": "UCKIglIH9_xIK0feahuKhJEQ",
+        "title": "Jチャンやまぐち　９月２３日（火）浦天",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rE6AxMqFVeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rE6AxMqFVeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rE6AxMqFVeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rE6AxMqFVeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "yab山口ニュース",
+        "playlistId": "UUKIglIH9_xIK0feahuKhJEQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rE6AxMqFVeI"
+        },
+        "videoOwnerChannelTitle": "yab山口ニュース",
+        "videoOwnerChannelId": "UCKIglIH9_xIK0feahuKhJEQ"
+      }
+    }
+  ]
+}

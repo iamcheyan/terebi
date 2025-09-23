@@ -282,17 +282,8 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
     data_filename = f'../data/{safe_name}.json'
     
     if os.path.exists(data_filename):
-        # 获取文件的最后修改时间
-        file_mtime = os.path.getmtime(data_filename)
-        current_time = datetime.now().timestamp()
-        time_diff = current_time - file_mtime
-        
-        # 如果文件是23小时内创建的,跳过处理
-        if time_diff < 23 * 3600:
-            print(f'频道 {info["name"]} 的数据在23小时内已更新,跳过处理')
-            return
-        
-        # 检查频道是否有新视频
+        print(f'发现现有缓存文件，准备检查是否有新视频: {data_filename}')
+        # 检查频道是否有新视频（不再按文件系统时间跳过）
         try:
             # 读取缓存的数据
             with open(data_filename, 'r', encoding='utf-8') as f:
@@ -329,12 +320,9 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                         cached_video_ids = [video['id'] for video in cached_data.get('videos', []) if 'id' in video]
                         
                         if latest_video_id in cached_video_ids:
-                            # 最新视频已在缓存中，且缓存文件不太旧，可以跳过
-                            if time_diff < 7 * 24 * 3600:  # 7天
-                                print(f'频道 {info["name"]} 没有新视频且缓存不超过7天，跳过处理')
-                                return
-                            else:
-                                print(f'频道 {info["name"]} 没有新视频，但缓存已超过7天，将更新')
+                            # 最新视频已在缓存中，根据业务策略可选择跳过或定期刷新
+                            print(f'频道 {info["name"]} 暂无新视频，跳过处理')
+                            return
         except Exception as e:
             print(f"检查频道新视频时出错: {str(e)}")
             # 出错时继续处理，以确保数据更新
@@ -420,7 +408,8 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
         else:
             print(f'未找到频道信息: {info["name"]}')
     else:
-        print(f'请求失败' + (f"，状态码: {response.status_code}" if response else "") + f": {info["url"]}')
+        status_part = f'，状态码: {response.status_code}' if response else ''
+        print(f'请求失败{status_part}: {info["url"]}')
 
 # 添加一个函数来切换API密钥
 def try_switch_api_key(current_key):

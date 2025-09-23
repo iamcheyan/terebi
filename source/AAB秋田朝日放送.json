@@ -1,0 +1,50 @@
+{
+  "channel_id": "UCEobbi8fWt_DibQzOImnKqQ",
+  "channel_name": "AAB秋田朝日放送",
+  "original_name": "AAB秋田朝日放送",
+  "updated_at": "2025-09-23T19:23:33.031335",
+  "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_MLb0fHtxI9yHSw5qjMVuBuFw6c",
+      "id": "VVVFb2JiaThmV3RfRGliUXpPSW1uS3FRLlFnWWRQSTJwRkw0",
+      "snippet": {
+        "publishedAt": "2025-09-23T10:16:41Z",
+        "channelId": "UCEobbi8fWt_DibQzOImnKqQ",
+        "title": "秋田市雄和の国際ダリア園が見頃　色とりどりの大輪の花楽しむ (2025/09/23 19:15)",
+        "description": "秋田市のダリア園では色鮮やかな花が見頃を迎えています。\r\n\r\n秋田市雄和の国際ダリア園には１.２ヘクタールに約７００種類７千株のダリアが植えられています。\r\n\r\n【秋田国際ダリア園・鷲澤康二さん】\r\n「ここ数年は暑い年が続いてダリアは夏場苦しんでいるが、（暑さもピークを過ぎ）日中や夜間の気温が下がってきて今は順調に育っている。」\r\n\r\n園ではオリジナル品種のＮＡＭＡＨＡＧＥ（なまはげ）ダリアなど毎年新たな品種を開発しています。１０月に東京で新品種の選考が行われ、今年のＮＡＭＡＨＡＧＥダリアが決まるということです。園内のダリアは色や形、大きさが良い状態に揃ってきていて、１０月いっぱい見頃が続くということです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QgYdPI2pFL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QgYdPI2pFL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QgYdPI2pFL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QgYdPI2pFL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "AAB秋田朝日放送",
+        "playlistId": "UUEobbi8fWt_DibQzOImnKqQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QgYdPI2pFL4"
+        },
+        "videoOwnerChannelTitle": "AAB秋田朝日放送",
+        "videoOwnerChannelId": "UCEobbi8fWt_DibQzOImnKqQ"
+      }
+    }
+  ]
+}

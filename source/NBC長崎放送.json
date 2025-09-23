@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCh0-nAqSYSYed_A4Qdz-0ww",
+  "channel_name": "NBC長崎放送",
+  "original_name": "NBC長崎放送",
+  "updated_at": "2025-09-23T19:23:45.346216",
+  "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PNVl-uNm5uWCWnixQIpwFBoVDo0",
+      "id": "VVVoMC1uQXFTWVNZZWRfQTRRZHotMHd3LlF4aGswTnBjajQw",
+      "snippet": {
+        "publishedAt": "2025-09-23T10:22:43Z",
+        "channelId": "UCh0-nAqSYSYed_A4Qdz-0ww",
+        "title": "西九州新幹線 開業から3年　同じ誕生日（2022年9月23日）の３歳 渡部咲茉ちゃん「１日駅長」に　JR長崎駅",
+        "description": "西九州新幹線は9月23日で開業3周年です。JR長崎駅など沿線の駅では、西九州新幹線と同じ9月23日が3歳の誕生日という子どもたちが「1日駅長」を務めました。JR長崎駅長「きょうはよろしくお願いします」（拍手）JR長崎駅で「1日駅長」を務めたのは、西九州新幹線と同じ2022年9月23日が誕生日の渡部咲茉ちゃんです。西九州新幹線3周年を記念したこの企画は停車駅である5つの駅の駅長らが考案。縁のある子どもたちとかもめの3周年を祝いました。「かもめ22号、出発！」「1日駅長」は、かもめの出発式を行ったほか、駅長室で記念撮影も行いました。渡部咲茉ちゃん「楽しかったです」父・渡部徹さん\n「一生に残る思い出のできる誕生日を迎えられたことがとても嬉しく思いました」「（西九州新幹線と）縁があって、これから先もイベント事があれば参加していきたいと思います」3歳の誕生日プレゼントに、かもめグッズが贈られた咲茉ちゃん。かもめにとっても、咲茉ちゃんにとっても思い出の誕生日となりました。\n\n詳細は NEWS DIG でも！↓\nhttps://newsdig.tbs.co.jp/articles/nbc/2185750",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qxhk0Npcj40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qxhk0Npcj40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qxhk0Npcj40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qxhk0Npcj40/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qxhk0Npcj40/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBC長崎放送",
+        "playlistId": "UUh0-nAqSYSYed_A4Qdz-0ww",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qxhk0Npcj40"
+        },
+        "videoOwnerChannelTitle": "NBC長崎放送",
+        "videoOwnerChannelId": "UCh0-nAqSYSYed_A4Qdz-0ww"
+      }
+    }
+  ]
+}

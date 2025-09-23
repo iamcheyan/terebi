@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
+  "channel_name": "KUTVテレビ高知",
+  "original_name": "KUTVテレビ高知",
+  "updated_at": "2025-09-23T19:23:47.682790",
+  "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X603EE7i_9tuCdRf6r1A7uMzzYM",
+      "id": "VVVvYzRnWDRaaEk4VE1CcHY4RUpNblhRLjVsYXlzNU1lZXc4",
+      "snippet": {
+        "publishedAt": "2025-09-23T10:10:50Z",
+        "channelId": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
+        "title": "Ｊ３・高知ユナイテッドＳＣの新監督に白石尚久氏が就任　今回の監督就任でＪリーグ初采配 「必要なのは残留」",
+        "description": "サッカーJ3高知ユナイテッドSCの新監督に白石尚久（しらいし・たかひさ）氏が就任しました。23日は早速、練習を指揮した後、会見で今後の意気込みを語りました。\n\n23日からチーム練習の指揮を始めた白石尚久（しらいし・たかひさ）新監督。香川県出身の49歳で、欧州サッカー連盟のプロライセンスを取得しています。\n\nこれまでに、スペインの名門FCバルセロナのスクールコーチをはじめ、スペインやオランダなどのクラブでコーチや監督を歴任。さらに2017年から2018年まで、サッカー元日本代表・本田圭佑氏の個人分析官を務めました。\n\n直近まではイングランドの2部相当のチームでテクニカルアシスタントを務めていて、今回の監督就任でJリーグ初采配となります。就任会見で白石新監督は高知を選んだ決め手として「選手がハードワークをするところ」と話したうえで、選手とコミュニケーションを取りながら、求められる「残留」という結果を残すと意気込みました。\n\n◆高知ユナイテッドSC　白石尚久　監督\n「高知ユナイテッドの選手はハートのある選手だと思っています。なので戦えるチームというベースはあると思います。今シーズン必要なのは残留するということで、そこを直近の目標にしています。なのでスタッフ及び選手には目標にまい進するためにサッカーのみに集中してもらいたいと伝えています」\n\n◆高知ユナイテッドSC　山本志穂美　社長\n「モチベーションを思い切り上げてくれる、そこに持って行ってくれる監督が欲しかったので、白石監督が適任だと判断しました。痛みや喜びを共に分かち合おうとするところは白石監督のとてもすばらしいところだと思っています」\n\n白石新監督は27日、アウェイの「ギラヴァンツ北九州」戦で早速指揮を執る予定です。\n\n一方、パワハラ問題などを受け先週辞任を発表した秋田豊前監督については22日、退任したということです。\n\n高知ユナイテッドSCは今年6月、秋田豊前監督の指導に関して、選手・スタッフから「パワーハラスメントの申し立てがあった」として、秋田前監督の休養を発表。以降およそ3カ月、暫定の指揮体制が続いていました。そんななか、9月19日、秋田前監督が記者会見を開き、辞意を表明。さらに翌20日にはクラブの山本志穂美社長も、辞任を表明しました。クラブとして厳しい状況が続くなか、チームは23日、新監督に白石尚久氏が就任すると発表しました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5lays5Meew8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5lays5Meew8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5lays5Meew8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5lays5Meew8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5lays5Meew8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KUTVテレビ高知",
+        "playlistId": "UUoc4gX4ZhI8TMBpv8EJMnXQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5lays5Meew8"
+        },
+        "videoOwnerChannelTitle": "KUTVテレビ高知",
+        "videoOwnerChannelId": "UCoc4gX4ZhI8TMBpv8EJMnXQ"
+      }
+    }
+  ]
+}

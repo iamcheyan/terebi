@@ -1,6 +1,8 @@
 // 全局变量定义
 let statusElement, videoContainer, playlistInfoElement, channelSelector, channelCategories, playerContainer;
 let player;
+let playerReady = false;
+let pendingVideoId = null;
 
 // 检测是否为移动设备
 function isMobileDevice() {
@@ -102,10 +104,11 @@ function loadYouTubeAPI() {
 function onYouTubeIframeAPIReady() {
     console.log('YouTube API已加载完成');
     // 检查是否有待播放的视频
-    if (window.pendingVideoId) {
-        console.log('播放待播放的视频:', window.pendingVideoId);
-        playVideo(window.pendingVideoId);
-        window.pendingVideoId = null;
+    if (pendingVideoId) {
+        console.log('播放待播放的视频:', pendingVideoId);
+        const queuedVideo = pendingVideoId;
+        pendingVideoId = null;
+        playVideo(queuedVideo);
     }
 }
 
@@ -658,6 +661,22 @@ function startRandomPlayback(videos) {
     playVideo(randomVideo.videoId);
 }
 
+function getActivePlayer() {
+    if (player && typeof player.loadVideoById === 'function') {
+        return player;
+    }
+
+    if (typeof YT !== 'undefined' && typeof YT.get === 'function') {
+        const existingPlayer = YT.get('player');
+        if (existingPlayer && typeof existingPlayer.loadVideoById === 'function') {
+            player = existingPlayer;
+            return existingPlayer;
+        }
+    }
+
+    return null;
+}
+
 // 播放视频
 function playVideo(videoId) {
     if (!videoId) {
@@ -755,43 +774,73 @@ function playVideo(videoId) {
     // 检查 YT 对象是否已定义
     if (typeof YT === 'undefined' || !YT.Player) {
         console.log('YouTube API 尚未加载完成，等待加载...');
-        // 保存当前视频信息，等待 API 加载完成后播放
-        window.pendingVideoId = videoId;
+        pendingVideoId = videoId;
         return;
     }
-    
-    if (player && typeof player.loadVideoById === 'function') {
-        // 如果播放器已存在且方法可用，加载新视频
-        player.loadVideoById({ videoId: videoId });
-    } else {
-        // 初始化播放器
-        player = new YT.Player('player', {
-            height: '100%',
-            width: '100%',
-            ...playerConfig,
-            events: {
-                'onReady': onPlayerReady,
-                'onStateChange': onPlayerStateChange,
-                'onApiChange': function(event) {
-                    // 当字幕API准备就绪时
-                    if (player.getOptions().indexOf('captions') !== -1) {
-                        // 获取可用的字幕轨道
-                        const tracks = player.getOption('captions', 'tracklist');
-                        // 启用字幕
-                        player.loadModule('captions');
-                        player.setOption('captions', 'track', {'languageCode': 'ja'});
-                        player.setOption('captions', 'reload', true);
-                        player.setOption('captions', 'fontSize', 2);
-                    }
+
+    let activePlayer = getActivePlayer();
+
+    if (activePlayer) {
+        if (!playerReady) {
+            console.log('播放器尚未就绪，记录待播放视频');
+            pendingVideoId = videoId;
+            return;
+        }
+
+        try {
+            activePlayer.loadVideoById({ videoId });
+            pendingVideoId = null;
+            return;
+        } catch (loadError) {
+            console.warn('现有播放器加载视频失败，尝试重新初始化', loadError);
+            if (typeof activePlayer.destroy === 'function') {
+                try {
+                    activePlayer.destroy();
+                } catch (destroyError) {
+                    console.warn('销毁旧播放器时发生问题', destroyError);
                 }
             }
-        });
+            player = null;
+            playerReady = false;
+        }
     }
+
+    playerReady = false;
+    pendingVideoId = null;
+
+    // 初始化播放器
+    player = new YT.Player('player', {
+        height: '100%',
+        width: '100%',
+        ...playerConfig,
+        events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange,
+            'onApiChange': function(event) {
+                // 当字幕API准备就绪时
+                if (player.getOptions().indexOf('captions') !== -1) {
+                    // 启用字幕
+                    player.loadModule('captions');
+                    player.setOption('captions', 'track', {'languageCode': 'ja'});
+                    player.setOption('captions', 'reload', true);
+                    player.setOption('captions', 'fontSize', 2);
+                }
+            }
+        }
+    });
 }
 
 // 播放器准备就绪
 function onPlayerReady(event) {
-    event.target.playVideo();
+    player = event.target;
+    playerReady = true;
+
+    if (pendingVideoId) {
+        event.target.loadVideoById({ videoId: pendingVideoId });
+        pendingVideoId = null;
+    } else {
+        event.target.playVideo();
+    }
     // 尝试启用字幕
     if (player.getOptions().indexOf('captions') !== -1) {
         player.loadModule('captions');
@@ -805,6 +854,7 @@ function onPlayerReady(event) {
 function onPlayerStateChange(event) {
     // 当视频开始播放时
     if (event.data == YT.PlayerState.PLAYING) {
+        playerReady = true;
         // 再次尝试启用字幕
         if (player.getOptions().indexOf('captions') !== -1) {
             player.loadModule('captions');
