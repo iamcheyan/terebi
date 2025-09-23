@@ -17,7 +17,9 @@ import sys
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 LOG_DIR = os.path.join(PROJECT_ROOT, 'log')
-LOG_FILE = os.path.join(LOG_DIR, 'get_channel_videos.log')
+# 时间戳日志文件，避免覆盖
+_LOG_TS = datetime.now().strftime('%Y%m%d_%H%M%S')
+LOG_FILE = os.path.join(LOG_DIR, f'get_channel_videos_{_LOG_TS}.log')
 
 # 将标准输出/错误同时写入文件与控制台
 class _Tee:
