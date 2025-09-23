@@ -21,15 +21,25 @@ def ensure_log_dir(project_root: str) -> str:
     return log_dir
 
 
-def rotate_logs(log_dir: str, keep: int = 90) -> None:
+def rotate_logs(log_dir: str, keep: int = 99) -> None:
+    """
+    统一轮转 log 目录下的所有日志文件（包含 scheduler 和 get_channel_videos 等）。
+    仅保留最新的 keep 个文件，其余按修改时间最早优先删除。
+    """
     try:
-        files: List[str] = [f for f in os.listdir(log_dir) if f.startswith('scheduler_') and f.endswith('.log')]
-        files.sort()  # 依文件名时间顺序
-        if len(files) > keep:
-            to_delete = files[0:len(files) - keep]
-            for name in to_delete:
+        # 收集目录内所有普通文件
+        paths: List[str] = []
+        for name in os.listdir(log_dir):
+            full = os.path.join(log_dir, name)
+            if os.path.isfile(full):
+                paths.append(full)
+        # 按修改时间从旧到新排序
+        paths.sort(key=lambda p: os.path.getmtime(p))
+        if len(paths) > keep:
+            to_delete = paths[0:len(paths) - keep]
+            for p in to_delete:
                 try:
-                    os.remove(os.path.join(log_dir, name))
+                    os.remove(p)
                 except Exception:
                     pass
     except Exception:
@@ -38,7 +48,7 @@ def rotate_logs(log_dir: str, keep: int = 90) -> None:
 
 def new_log_file(project_root: str) -> str:
     log_dir = ensure_log_dir(project_root)
-    rotate_logs(log_dir, keep=90)
+    rotate_logs(log_dir, keep=99)
     ts = datetime.now().strftime('%Y%m%d_%H%M%S')
     return os.path.join(log_dir, f'scheduler_{ts}.log')
 
