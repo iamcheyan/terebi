@@ -11,10 +11,66 @@ import argparse
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 import time
+import sys
 
 # 统一路径，支持从项目根或 tools 目录执行
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+LOG_DIR = os.path.join(PROJECT_ROOT, 'log')
+LOG_FILE = os.path.join(LOG_DIR, 'get_channel_videos.log')
+
+# 将标准输出/错误同时写入文件与控制台
+class _Tee:
+    def __init__(self, stream, file_path):
+        self._stream = stream
+        # 确保日志目录存在
+        try:
+            os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        except Exception:
+            pass
+        # 按追加方式写入，保证utf-8
+        self._file = open(file_path, 'a', encoding='utf-8', buffering=1)
+
+    def write(self, data):
+        try:
+            self._stream.write(data)
+        except Exception:
+            pass
+        try:
+            # 为每一行添加时间前缀，提升可读性
+            if data:
+                lines = data.splitlines(True)
+                for line in lines:
+                    if line.endswith('\n'):
+                        self._file.write(f"[{datetime.now().isoformat()}] {line}")
+                    else:
+                        self._file.write(f"[{datetime.now().isoformat()}] {line}\n")
+        except Exception:
+            pass
+
+    def flush(self):
+        try:
+            self._stream.flush()
+        except Exception:
+            pass
+        try:
+            self._file.flush()
+        except Exception:
+            pass
+
+    def close(self):
+        try:
+            self._file.close()
+        except Exception:
+            pass
+
+# 安装 Tee，仅在作为脚本运行时生效
+if __name__ == '__main__':
+    try:
+        sys.stdout = _Tee(sys.stdout, LOG_FILE)
+        sys.stderr = _Tee(sys.stderr, LOG_FILE)
+    except Exception:
+        pass
 
 """
 # 基本使用，每个频道获取500个视频
