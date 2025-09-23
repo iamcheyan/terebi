@@ -12,6 +12,10 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 import time
 
+# 统一路径，支持从项目根或 tools 目录执行
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+
 """
 # 基本使用，每个频道获取500个视频
 python get_channel_videos.py
@@ -37,8 +41,8 @@ python get_channel_videos.py --force
 # 最大结果数
 MAX_RESULTS = 50
 
-# 读取JSON文件
-with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as file:
+# 读取JSON文件（项目根）
+with open(os.path.join(PROJECT_ROOT, 'japan_tv_youtube_channels.json'), 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 初始化URL列表
@@ -47,7 +51,7 @@ channel_search_urls = []
 # 从配置文件读取API密钥
 import configparser
 config = configparser.ConfigParser()
-config.read('../WEB-INF/config.properties')
+config.read(os.path.join(PROJECT_ROOT, 'WEB-INF', 'config.properties'))
 api_keys = []
 
 # 读取并显示所有可用的API密钥
@@ -208,9 +212,10 @@ def get_channel_videos(channel_id):
     return []
 
 def save_videos_to_json(channel_id, original_name):
-    # 确保source目录存在
-    if not os.path.exists('../source'):
-        os.makedirs('../source')
+    # 确保source目录存在（项目根）
+    source_dir = os.path.join(PROJECT_ROOT, 'source')
+    if not os.path.exists(source_dir):
+        os.makedirs(source_dir)
     
     # 获取频道名称
     channel_name = get_channel_info(channel_id)
@@ -229,7 +234,7 @@ def save_videos_to_json(channel_id, original_name):
     
     # 使用原始名称作为文件名
     safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in original_name)
-    filename = f'../source/{safe_name}.json'
+    filename = os.path.join(source_dir, f'{safe_name}.json')
     
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
@@ -279,7 +284,7 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
     
     # 检查缓存
     safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in info["name"])
-    data_filename = f'../data/{safe_name}.json'
+    data_filename = os.path.join(PROJECT_ROOT, 'data', f'{safe_name}.json')
     
     if os.path.exists(data_filename):
         print(f'发现现有缓存文件，准备检查是否有新视频: {data_filename}')
@@ -373,7 +378,7 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                 }
                 
                 # 保存数据
-                filename = f'../source/{safe_name}.json'
+                filename = os.path.join(PROJECT_ROOT, 'source', f'{safe_name}.json')
                 
                 with open(filename, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)
@@ -383,7 +388,7 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                 # 处理文件
                 try:
                     abs_path = os.path.abspath(filename)
-                    result = subprocess.run(['python', 'source_processing.py', abs_path], check=True, capture_output=True, text=True)
+                    result = subprocess.run([sys.executable, os.path.join(SCRIPT_DIR, 'source_processing.py'), abs_path], check=True, capture_output=True, text=True)
                     print(f"文件 {abs_path} 处理完成")
                     
                     # 检查处理结果是否有新增视频
@@ -393,9 +398,9 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                     # 如果启用了上传功能且有新增视频，执行上传操作
                     if upload:
                         if has_new_videos and processing_has_new_videos:
-                            data_file_path = f'/var/home/tetsuya/Applications/tomcat/webapps/terebi/data/{safe_name}.json'
+                            data_file_path = os.path.join(PROJECT_ROOT, 'data', f'{safe_name}.json')
                             try:
-                                subprocess.run(['python', 'update2ftp.py', data_file_path], check=True)
+                                subprocess.run([sys.executable, os.path.join(SCRIPT_DIR, 'update2ftp.py'), data_file_path], check=True)
                                 print(f"文件 {data_file_path} 已上传")
                             except Exception as e:
                                 print(f"上传文件时出错: {str(e)}")
@@ -459,13 +464,14 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
     cached_video_ids = set()
     
     # 查找该频道的缓存文件
-    for filename in os.listdir('../data/'):
+    data_dir = os.path.join(PROJECT_ROOT, 'data')
+    for filename in os.listdir(data_dir):
         if filename.endswith('.json'):
             try:
-                with open(f'../data/{filename}', 'r', encoding='utf-8') as f:
+                with open(os.path.join(data_dir, filename), 'r', encoding='utf-8') as f:
                     data = json.load(f)
                     if data.get('channel_id') == channel_id:
-                        cache_file = f'../data/{filename}'
+                        cache_file = os.path.join(data_dir, filename)
                         cached_videos = data.get('videos', [])
                         cached_video_ids = {v['id'] for v in cached_videos if 'id' in v}
                         break
