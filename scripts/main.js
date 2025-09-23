@@ -688,7 +688,38 @@ function playVideo(videoId) {
         const urlElement = document.getElementById('currentChannelUrl');
         const nameElement = document.getElementById('currentChannelName');
         
-        if (logoElement) logoElement.src = currentVideo.thumbnail;
+        if (logoElement) {
+            // 设置缩略图并添加多级回退
+            const fallbacks = [
+                (src) => src.replace(/maxresdefault/,'sddefault'),
+                (src) => src.replace(/sddefault/,'hqdefault'),
+                () => 'img/resized/placeholder.jpg'
+            ];
+            let attempt = 0;
+            logoElement.onerror = function() {
+                if (attempt < fallbacks.length) {
+                    try {
+                        const next = fallbacks[attempt++](currentVideo.thumbnail);
+                        this.onerror = null;
+                        this.src = next;
+                        const self = this;
+                        setTimeout(() => {
+                            self.onerror = function() {
+                                if (attempt < fallbacks.length) {
+                                    const n = fallbacks[attempt++](currentVideo.thumbnail);
+                                    self.onerror = null;
+                                    self.src = n;
+                                }
+                            };
+                        });
+                    } catch (_) {
+                        this.onerror = null;
+                        this.src = 'img/resized/placeholder.jpg';
+                    }
+                }
+            };
+            logoElement.src = currentVideo.thumbnail;
+        }
         if (titleElement) titleElement.textContent = currentVideo.title;
         if (titleLinkElement) titleLinkElement.href = currentVideo.url;
         if (urlElement) urlElement.textContent = currentVideo.url;
@@ -729,9 +760,9 @@ function playVideo(videoId) {
         return;
     }
     
-    if (player) {
-        // 如果播放器已存在，加载新视频
-        player.loadVideoById({videoId: videoId});
+    if (player && typeof player.loadVideoById === 'function') {
+        // 如果播放器已存在且方法可用，加载新视频
+        player.loadVideoById({ videoId: videoId });
     } else {
         // 初始化播放器
         player = new YT.Player('player', {
