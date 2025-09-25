@@ -696,7 +696,7 @@ def get_channel_videos_with_limit(channel_id, max_videos=500):
 def process_source_files():
     try:
         print("开始执行source_processing.py...")
-        subprocess.run(['python', 'source_processing.py'], check=True)
+        subprocess.run([sys.executable, os.path.join(SCRIPT_DIR, 'source_processing.py')], check=True)
         print("source_processing.py执行完成")
     except subprocess.CalledProcessError as e:
         print(f"执行source_processing.py时出错: {e}")
