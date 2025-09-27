@@ -26,7 +26,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 10px 0 10px;
+    padding: 10px;
     /* min-height: 60px; */
 }
 
@@ -519,10 +519,10 @@ html:not(.mobile-device) .channel-list {
     /* margin-right: 10px;  */
     position: relative;
 }
-.link-box .git svg {
+.link-box .git img {
     width: 32px;
     height: 32px;
-    vertical-align: middle; /* 添加垂直对齐 */
+    display: block;
 }
 .link-box .cheyan img {
     width: 32px;
@@ -539,6 +539,8 @@ html:not(.mobile-device) .channel-list {
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 32px;
+    line-height: 32px;
 }
 
 /* 设置按钮样式 */
@@ -582,7 +584,6 @@ html:not(.mobile-device) .channel-list {
     background: linear-gradient(155deg, rgba(46, 91, 190, 0.92), rgba(22, 33, 60, 0.92));
     color: #f5f8ff;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 14px 28px rgba(21, 38, 78, 0.55);
-    transform: translateY(-2px);
 }
 
 #settingsButton:hover::before {
@@ -819,100 +820,173 @@ html:not(.mobile-device) .channel-list {
     text-decoration: underline;
 }
 
-/* 设置浮动层样式 */
-.settings-modal {
+/* 设置面板样式 */
+.settings {
+    position: relative;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.settings-panel {
     display: none;
     position: fixed;
-    z-index: 9999;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
-    backdrop-filter: blur(8px);
-}
-
-.settings-content {
-    background-color: #1a1a1a;
-    margin: 8% auto;
-    padding: 0;
-    border-radius: 16px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10000;
     width: 90%;
-    max-width: 420px;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
+    max-width: 600px;
+    max-height: 80vh;
+    background: linear-gradient(135deg, #1a1a1a 0%, #222 100%);
+    border-radius: 20px;
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.8);
     border: 1px solid #333;
-    animation: modalSlideIn 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+    overflow: hidden;
+    backdrop-filter: blur(20px);
+    animation: panelSlideIn 0.4s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
-@keyframes modalSlideIn {
+.settings-panel.show {
+    display: block;
+}
+
+@keyframes panelSlideIn {
     from {
         opacity: 0;
-        transform: translateY(-50px);
+        transform: translate(-50%, -50%) scale(0.9);
     }
     to {
         opacity: 1;
-        transform: translateY(0);
+        transform: translate(-50%, -50%) scale(1);
     }
 }
 
+.settings-panel::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(61, 124, 244, 0.5), transparent);
+}
+
+/* 设置面板背景遮罩 */
+.settings-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(5px);
+    z-index: 9999;
+}
+
+.settings-overlay.show {
+    display: block;
+    animation: overlayFadeIn 0.3s ease-out;
+}
+
+@keyframes overlayFadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* 设置面板头部 */
 .settings-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 24px 28px;
-    border-bottom: 1px solid #2a2a2a;
-    background: linear-gradient(135deg, #1a1a1a 0%, #222 100%);
-    border-radius: 16px 16px 0 0;
+    background: linear-gradient(135deg, #222 0%, #2a2a2a 100%);
+    border-bottom: 1px solid #333;
 }
 
 .settings-header h3 {
     margin: 0;
     color: #f0f0f0;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 600;
     font-family: 'Noto Serif JP', 'Hiragino Mincho ProN', 'Yu Mincho', serif;
 }
 
-.close-button {
+.close-btn {
     background: none;
     border: none;
     color: #888;
-    font-size: 20px;
     cursor: pointer;
-    padding: 0;
-    width: 32px;
-    height: 32px;
+    padding: 8px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 50%;
-    transition: all 0.3s ease;
-    font-weight: 300;
 }
 
-.close-button:hover {
+.close-btn:hover {
     background-color: #333;
     color: #f0f0f0;
     transform: scale(1.1);
 }
 
-.settings-body {
-    padding: 28px;
-    background-color: #1a1a1a;
-    border-radius: 0 0 16px 16px;
+/* 设置面板内容 */
+.settings-content {
+    padding: 24px 28px;
+    max-height: 50vh;
+    overflow-y: auto;
 }
 
+.settings-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+.settings-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.settings-content::-webkit-scrollbar-thumb {
+    background-color: #333;
+    border-radius: 3px;
+}
+
+.settings-content::-webkit-scrollbar-thumb:hover {
+    background-color: #444;
+}
+
+/* 设置分组 */
+.settings-section {
+    margin-bottom: 32px;
+}
+
+.settings-section:last-child {
+    margin-bottom: 0;
+}
+
+.settings-section h4 {
+    margin: 0 0 16px 0;
+    color: #3d7cf4;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #333;
+}
+
+/* 设置项 */
 .setting-item {
-    margin-bottom: 4px;
-    padding: 12px 16px;
-    background-color: transparent;
-    border-radius: 8px;
-    border: none;
-    transition: all 0.2s ease;
+    margin-bottom: 12px;
+    padding: 16px;
+    background-color: rgba(255, 255, 255, 0.02);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    transition: all 0.3s ease;
 }
 
 .setting-item:hover {
-    background-color: #2a2a2a;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-color: rgba(61, 124, 244, 0.3);
+    transform: translateY(-1px);
 }
 
 .setting-item:last-child {
@@ -921,13 +995,11 @@ html:not(.mobile-device) .channel-list {
 
 .setting-item label {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     cursor: pointer;
     color: #f0f0f0;
-    font-size: 14px;
-    font-weight: 400;
     user-select: none;
-    line-height: 1.4;
+    gap: 16px;
 }
 
 .setting-item input[type="checkbox"] {
@@ -936,14 +1008,14 @@ html:not(.mobile-device) .channel-list {
 
 .checkmark {
     position: relative;
-    width: 18px;
-    height: 18px;
+    width: 20px;
+    height: 20px;
     background-color: #333;
     border: 2px solid #555;
-    border-radius: 4px;
-    margin-right: 12px;
-    transition: all 0.2s ease;
+    border-radius: 6px;
+    transition: all 0.3s cubic-bezier(0.25, 1, 0.5, 1);
     flex-shrink: 0;
+    margin-top: 2px;
 }
 
 .setting-item input[type="checkbox"]:checked + .checkmark {
@@ -956,10 +1028,10 @@ html:not(.mobile-device) .channel-list {
     content: "";
     position: absolute;
     display: none;
-    left: 7px;
+    left: 6px;
     top: 3px;
-    width: 6px;
-    height: 10px;
+    width: 5px;
+    height: 9px;
     border: solid white;
     border-width: 0 2px 2px 0;
     transform: rotate(45deg);
@@ -977,6 +1049,103 @@ html:not(.mobile-device) .channel-list {
 .setting-item input[type="checkbox"]:checked + .checkmark:hover {
     background-color: #4d8cf4;
     border-color: #4d8cf4;
+}
+
+/* 设置信息 */
+.setting-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.setting-title {
+    font-size: 15px;
+    font-weight: 500;
+    color: #f0f0f0;
+    line-height: 1.4;
+}
+
+.setting-desc {
+    font-size: 13px;
+    color: #aaa;
+    line-height: 1.4;
+}
+
+/* 设置面板底部 */
+.settings-footer {
+    padding: 20px 28px;
+    background: linear-gradient(135deg, #222 0%, #2a2a2a 100%);
+    border-top: 1px solid #333;
+    display: flex;
+    gap: 12px;
+    justify-content: flex-end;
+}
+
+.reset-btn, .export-btn, .import-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-width: 80px;
+}
+
+.reset-btn {
+    background-color: #dc3545;
+    color: white;
+}
+
+.reset-btn:hover {
+    background-color: #c82333;
+    transform: translateY(-1px);
+}
+
+.export-btn {
+    background-color: #28a745;
+    color: white;
+}
+
+.export-btn:hover {
+    background-color: #218838;
+    transform: translateY(-1px);
+}
+
+.import-btn {
+    background-color: #3d7cf4;
+    color: white;
+}
+
+.import-btn:hover {
+    background-color: #2a6de5;
+    transform: translateY(-1px);
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+    .settings-panel {
+        width: 95%;
+        max-height: 85vh;
+    }
+    
+    .settings-header {
+        padding: 20px 20px;
+    }
+    
+    .settings-content {
+        padding: 20px;
+    }
+    
+    .settings-footer {
+        padding: 16px 20px;
+        flex-direction: column;
+    }
+    
+    .reset-btn, .export-btn, .import-btn {
+        width: 100%;
+    }
 }
 
 /* 移动端设置浮动层适配 */

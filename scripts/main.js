@@ -956,22 +956,18 @@ function initSettings() {
     console.log('开始初始化设置功能...');
     
     const settingsButton = document.getElementById('settingsButton');
-    const settingsModal = document.getElementById('settingsModal');
-    const closeSettings = document.getElementById('closeSettings');
     const footerVisibility = document.getElementById('footerVisibility');
     const defaultFullscreen = document.getElementById('defaultFullscreen');
     const footer = document.querySelector('.footer');
     
     console.log('设置元素检查:', {
         settingsButton: !!settingsButton,
-        settingsModal: !!settingsModal,
-        closeSettings: !!closeSettings,
         footerVisibility: !!footerVisibility,
         defaultFullscreen: !!defaultFullscreen,
         footer: !!footer
     });
     
-    if (!settingsButton || !settingsModal || !closeSettings || !footerVisibility || !defaultFullscreen || !footer) {
+    if (!settingsButton || !footerVisibility || !defaultFullscreen || !footer) {
         console.error('设置相关元素未找到，将在500ms后重试');
         setTimeout(initSettings, 500);
         return;
@@ -980,47 +976,68 @@ function initSettings() {
     // 从本地存储加载设置
     loadSettings();
     
-    // 设置按钮点击事件
+    // 设置按钮点击事件 - 显示/隐藏设置面板
     settingsButton.addEventListener('click', function(e) {
         e.preventDefault();
         e.stopPropagation();
         console.log('设置按钮被点击');
-        settingsModal.style.display = 'block';
-        document.body.style.overflow = 'hidden'; // 防止背景滚动
-    });
-    
-    // 添加额外的测试事件监听
-    settingsButton.addEventListener('mousedown', function() {
-        console.log('设置按钮鼠标按下');
-    });
-    
-    settingsButton.addEventListener('mouseup', function() {
-        console.log('设置按钮鼠标释放');
-    });
-    
-    // 关闭按钮点击事件
-    closeSettings.addEventListener('click', function(e) {
-        e.preventDefault();
-        console.log('关闭按钮被点击');
-        settingsModal.style.display = 'none';
-        document.body.style.overflow = ''; // 恢复背景滚动
-    });
-    
-    // 点击模态框背景关闭
-    settingsModal.addEventListener('click', function(e) {
-        if (e.target === settingsModal) {
-            console.log('点击背景关闭设置');
-            settingsModal.style.display = 'none';
-            document.body.style.overflow = '';
+        
+        const panel = document.getElementById('settingsPanel');
+        const overlay = document.getElementById('settingsOverlay');
+        
+        if (panel && overlay) {
+            const isVisible = panel.classList.contains('show');
+            if (isVisible) {
+                closeSettingsPanel();
+            } else {
+                openSettingsPanel();
+            }
         }
     });
     
-    // ESC键关闭设置
-    document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape' && settingsModal.style.display === 'block') {
-            console.log('ESC键关闭设置');
-            settingsModal.style.display = 'none';
+    // 关闭设置面板
+    function closeSettingsPanel() {
+        const panel = document.getElementById('settingsPanel');
+        const overlay = document.getElementById('settingsOverlay');
+        
+        if (panel && overlay) {
+            panel.classList.remove('show');
+            overlay.classList.remove('show');
             document.body.style.overflow = '';
+        }
+    }
+    
+    // 打开设置面板
+    function openSettingsPanel() {
+        const panel = document.getElementById('settingsPanel');
+        const overlay = document.getElementById('settingsOverlay');
+        
+        if (panel && overlay) {
+            panel.classList.add('show');
+            overlay.classList.add('show');
+            document.body.style.overflow = 'hidden';
+        }
+    }
+    
+    // 关闭按钮事件
+    const closeBtn = document.getElementById('closeSettings');
+    if (closeBtn) {
+        closeBtn.addEventListener('click', closeSettingsPanel);
+    }
+    
+    // 点击遮罩关闭设置面板
+    const overlay = document.getElementById('settingsOverlay');
+    if (overlay) {
+        overlay.addEventListener('click', closeSettingsPanel);
+    }
+    
+    // ESC键关闭设置面板
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            const panel = document.getElementById('settingsPanel');
+            if (panel && panel.classList.contains('show')) {
+                closeSettingsPanel();
+            }
         }
     });
     
@@ -1048,16 +1065,6 @@ function initSettings() {
     });
     
     console.log('设置功能初始化完成');
-    
-    // 测试按钮是否可点击
-    setTimeout(() => {
-        console.log('测试设置按钮点击...');
-        settingsButton.click();
-        setTimeout(() => {
-            settingsModal.style.display = 'none';
-            document.body.style.overflow = '';
-        }, 1000);
-    }, 2000);
 }
 
 // 加载设置
