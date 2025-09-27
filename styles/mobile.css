@@ -80,20 +80,23 @@ html.mobile-device .container {
 
 html.mobile-device .settings-panel {
     position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    max-width: none;
-    max-height: none;
-    border-radius: 0;
-    border: none;
-    transform: none;
+    top: 50%;
+    left: 50%;
+    /* width: 85%; */
+    max-width: 400px;
+    height: auto;
+    max-height: 70vh;
+    border-radius: 16px;
+    border: 1px solid var(--color-panel-border);
+    transform: translate(-50%, -50%);
     z-index: 10001;
     padding: 0;
     display: none;
     opacity: 0;
     pointer-events: none;
+    background: linear-gradient(135deg, var(--color-gradient-soft-start) 0%, var(--color-gradient-soft-end) 100%);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(20px);
 }
 
 html.mobile-device .settings-panel.show {
@@ -109,8 +112,6 @@ html.mobile-device .settings-footer {
 }
 
 html.mobile-device .settings-content {
-    padding: 16px 20px 24px 20px;
-    max-height: none;
     flex: 1;
     overflow-y: auto;
     margin: 0;
@@ -156,6 +157,8 @@ html.mobile-device .settings-overlay {
     z-index: 10000;
     opacity: 0;
     pointer-events: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(5px);
 }
 
 html.mobile-device .settings-overlay.show {
@@ -397,4 +400,11 @@ html.mobile-device .program-title {
 
 html.mobile-device .copyright {
     align-items: baseline;
+}
+
+html.mobile-device .right-column {
+    backdrop-filter: none;
+    animation: none;
+    mask-image: none;
+    -webkit-mask-image: none;
 }

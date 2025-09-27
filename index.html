@@ -49,7 +49,7 @@
                <img src="img/svg/cheyan.jpg" alt="cheyan" width="32" height="32">
             </a>
         </div>
-        <div class="git">
+        <div class="git" style="display: none;">
             <a href="https://github.com/iamcheyan/terebi" target="_blank" title="GitHubでソースコードを見る">
                 <img src="img/svg/github.svg" alt="github" width="32" height="32">
             </a>
@@ -61,145 +61,10 @@
                     <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1 1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
                 </svg>
             </button>
-            <div id="settingsPanel" class="settings-panel">
-                <div class="settings-header">
-                    <h3 data-i18n="settings">设置</h3>
-                    <button id="closeSettings" class="close-btn">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <line x1="18" y1="6" x2="6" y2="18"></line>
-                            <line x1="6" y1="6" x2="18" y2="18"></line>
-                        </svg>
-                    </button>
-                </div>
-                
-                <div class="settings-content">
-                    <div class="settings-section">
-                        <h4 data-i18n="theme_settings">主题设置</h4>
-                        <div class="setting-item">
-                            <label for="darkMode">
-                                <input type="checkbox" id="darkMode" checked>
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="dark_mode">深色模式</span>
-                                    <span class="setting-desc" data-i18n="dark_mode_desc">使用深色主题界面</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-                    
-                    <div class="settings-section">
-                        <h4 data-i18n="interface_settings">界面设置</h4>
-                        <div class="setting-item">
-                            <label for="languageSelect" class="language-setting">
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="language">语言</span>
-                                    <span class="setting-desc" data-i18n="language_desc">选择界面显示语言</span>
-                                </div>
-                                <select id="languageSelect" class="language-select">
-                                    <option value="ja" data-i18n="japanese">日本語</option>
-                                    <option value="en" data-i18n="english">English</option>
-                                    <option value="zh" data-i18n="chinese">中文</option>
-                                </select>
-                            </label>
-                        </div>
-                        <div class="setting-item">
-                            <label for="footerVisibility">
-                                <input type="checkbox" id="footerVisibility">
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="show_footer">显示底部信息栏</span>
-                                    <span class="setting-desc" data-i18n="show_footer_desc">控制页面底部视频信息的显示</span>
-                                </div>
-                            </label>
-                        </div>
-                        <div class="setting-item">
-                            <label for="defaultFullscreen">
-                                <input type="checkbox" id="defaultFullscreen">
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="default_fullscreen">默认进入全屏模式</span>
-                                    <span class="setting-desc" data-i18n="default_fullscreen_desc">页面加载时自动进入全屏播放</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-                    
-                    <div class="settings-section">
-                        <h4 data-i18n="playback_settings">播放设置</h4>
-                        <div class="setting-item">
-                            <label for="autoPlay">
-                                <input type="checkbox" id="autoPlay" checked>
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="auto_play">自动播放</span>
-                                    <span class="setting-desc" data-i18n="auto_play_desc">选择频道后自动开始播放视频</span>
-                                </div>
-                            </label>
-                        </div>
-                        <div class="setting-item">
-                            <label for="autoNext">
-                                <input type="checkbox" id="autoNext">
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="auto_next">自动切换下一个</span>
-                                    <span class="setting-desc" data-i18n="auto_next_desc">当前视频结束后自动播放下一个</span>
-                                </div>
-                            </label>
-                        </div>
-                        <div class="setting-item">
-                            <label for="loopPlayback">
-                                <input type="checkbox" id="loopPlayback">
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="loop_playback">循环播放</span>
-                                    <span class="setting-desc" data-i18n="loop_playback_desc">播放列表结束后重新开始</span>
-                                </div>
-                            </label>
-                        </div>
-                        <div class="setting-item">
-                            <label for="compactMode">
-                                <input type="checkbox" id="compactMode">
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="compact_mode">紧凑模式</span>
-                                    <span class="setting-desc" data-i18n="compact_mode_desc">减少界面间距，显示更多内容</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-                    
-                    <div class="settings-section">
-                        <h4 data-i18n="advanced_settings">高级设置</h4>
-                        <div class="setting-item">
-                            <label for="debugMode">
-                                <input type="checkbox" id="debugMode">
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="debug_mode">调试模式</span>
-                                    <span class="setting-desc" data-i18n="debug_mode_desc">显示详细的调试信息</span>
-                                </div>
-                            </label>
-                        </div>
-                        <div class="setting-item">
-                            <label for="cacheVideos">
-                                <input type="checkbox" id="cacheVideos" checked>
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="cache_videos">缓存视频信息</span>
-                                    <span class="setting-desc" data-i18n="cache_videos_desc">缓存频道视频列表以提高加载速度</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
         </div>
     </div>
 </div>
 
-<!-- 设置面板遮罩层 -->
-<div id="settingsOverlay" class="settings-overlay"></div>
                 <div class="left-column">
                     <div class="box-container">
                     <!-- 播放器容器 -->
@@ -276,30 +141,6 @@
     </button>
 
     <!-- 设置浮动层 -->
-    <div id="settingsModal" class="settings-modal">
-        <div class="settings-content">
-            <div class="settings-header">
-                <h3>设置</h3>
-                <button id="closeSettings" class="close-button">&times;</button>
-            </div>
-            <div class="settings-body">
-                <div class="setting-item">
-                    <label for="footerVisibility">
-                        <input type="checkbox" id="footerVisibility" checked>
-                        <span class="checkmark"></span>
-                        显示底部信息栏
-                    </label>
-                </div>
-                <div class="setting-item">
-                    <label for="defaultFullscreen">
-                        <input type="checkbox" id="defaultFullscreen">
-                        <span class="checkmark"></span>
-                        默认进入全屏模式
-                    </label>
-                </div>
-            </div>
-        </div>
-    </div>
     
     <!-- 频道列表折叠/展开按钮（保留为注释，后续如需启用可改为 HTML 注释） -->
     <!--
@@ -313,6 +154,139 @@
     
     <script src="scripts/main.js"></script>
     
+    <!-- 设置面板 - 移动到 body 层级 -->
+    <div id="settingsPanel" class="settings-panel" aria-hidden="true">
+        <button id="closeSettings" class="close-btn" aria-label="关闭设置">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+        </button>
+        
+        <div class="settings-content">
+            <div class="settings-section">
+                <h4 data-i18n="theme_settings">主题设置</h4>
+                <div class="setting-item">
+                    <label for="darkMode">
+                        <input type="checkbox" id="darkMode" checked>
+                        <span class="checkmark"></span>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="dark_mode">深色模式</span>
+                            <span class="setting-desc" data-i18n="dark_mode_desc">使用深色主题界面</span>
+                        </div>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="settings-section">
+                <h4 data-i18n="interface_settings">界面设置</h4>
+                <div class="setting-item">
+                    <label for="languageSelect" class="language-setting">
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="language">语言</span>
+                            <span class="setting-desc" data-i18n="language_desc">选择界面显示语言</span>
+                        </div>
+                        <select id="languageSelect" class="language-select">
+                            <option value="ja" data-i18n="japanese">日本語</option>
+                            <option value="en" data-i18n="english">English</option>
+                            <option value="zh" data-i18n="chinese">中文</option>
+                        </select>
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label for="footerVisibility">
+                        <input type="checkbox" id="footerVisibility">
+                        <span class="checkmark"></span>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="show_footer">显示底部信息栏</span>
+                            <span class="setting-desc" data-i18n="show_footer_desc">控制页面底部视频信息的显示</span>
+                        </div>
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label for="defaultFullscreen">
+                        <input type="checkbox" id="defaultFullscreen">
+                        <span class="checkmark"></span>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="default_fullscreen">默认进入全屏模式</span>
+                            <span class="setting-desc" data-i18n="default_fullscreen_desc">页面加载时自动进入全屏播放</span>
+                        </div>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="settings-section">
+                <h4 data-i18n="playback_settings">播放设置</h4>
+                <div class="setting-item">
+                    <label for="autoPlay">
+                        <input type="checkbox" id="autoPlay" checked>
+                        <span class="checkmark"></span>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="auto_play">自动播放</span>
+                            <span class="setting-desc" data-i18n="auto_play_desc">选择频道后自动开始播放视频</span>
+                        </div>
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label for="autoNext">
+                        <input type="checkbox" id="autoNext">
+                        <span class="checkmark"></span>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="auto_next">自动切换下一个</span>
+                            <span class="setting-desc" data-i18n="auto_next_desc">当前视频结束后自动播放下一个</span>
+                        </div>
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label for="loopPlayback">
+                        <input type="checkbox" id="loopPlayback">
+                        <span class="checkmark"></span>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="loop_playback">循环播放</span>
+                            <span class="setting-desc" data-i18n="loop_playback_desc">播放列表结束后重新开始</span>
+                        </div>
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label for="compactMode">
+                        <input type="checkbox" id="compactMode">
+                        <span class="checkmark"></span>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="compact_mode">紧凑模式</span>
+                            <span class="setting-desc" data-i18n="compact_mode_desc">减少界面间距，显示更多内容</span>
+                        </div>
+                    </label>
+                </div>
+            </div>
+            
+            <div class="settings-section">
+                <h4 data-i18n="advanced_settings">高级设置</h4>
+                <div class="setting-item">
+                    <label for="debugMode">
+                        <input type="checkbox" id="debugMode">
+                        <span class="checkmark"></span>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="debug_mode">调试模式</span>
+                            <span class="setting-desc" data-i18n="debug_mode_desc">显示详细的调试信息</span>
+                        </div>
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label for="cacheVideos">
+                        <input type="checkbox" id="cacheVideos" checked>
+                        <span class="checkmark"></span>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="cache_videos">缓存视频信息</span>
+                            <span class="setting-desc" data-i18n="cache_videos_desc">缓存频道视频列表以提高加载速度</span>
+                        </div>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- 设置面板遮罩层 -->
+<div id="settingsOverlay" class="settings-overlay"></div>
 
 </body>
 </html>

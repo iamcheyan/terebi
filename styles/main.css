@@ -217,6 +217,13 @@ body {
     /* margin-top: 68px; */
     transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1); /* 添加平滑过渡效果 */
     transform: translateX(0); /* 初始位置 */
+    background: rgba(255, 255, 255, 0.03);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04), inset 0 -1px 0 rgba(255, 255, 255, 0.04);
+    /* border: 1px solid var(--color-panel-border); */
+    backdrop-filter: blur(6px);
+    animation: overlayFadeIn 0.3s ease-out;
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,1) 12%, rgba(0,0,0,1) 88%, rgba(0,0,0,0));
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,1) 12%, rgba(0,0,0,1) 88%, rgba(0,0,0,0));
 }
 
 .box-container {
@@ -308,7 +315,7 @@ body {
     font-weight: 500;
     /* margin-bottom: 15px; */
     padding-bottom: 10px;
-    border-bottom: 1px solid var(--color-panel-border);
+    /* border-bottom: 1px solid var(--color-panel-border); */
 }
 
 .channel-section {
@@ -322,7 +329,7 @@ body {
     margin-top: 0;
     margin-bottom: 0;
     padding-bottom: 5px;
-    border-bottom: 1px solid var(--color-panel-border);
+    /* border-bottom: 1px solid var(--color-panel-border); */
     background: none;
     cursor: default;
 }
@@ -659,7 +666,7 @@ html:not(.mobile-device) .channel-list {
 .link-box .cheyan img {
     width: 32px;
     height: 32px;
-    margin-right: 10px;
+    /* margin-right: 10px; */
     border-radius: 50%;
     vertical-align: middle; /* 添加垂直对齐 */
 }
@@ -785,16 +792,12 @@ body.theme-dark .link-box .git img {
 }
 
 /* 全屏按钮图标主题适配 */
-.fullscreen-button img {
-    transition: filter 0.3s ease;
-}
-
 body.theme-light .fullscreen-button img {
-    filter: brightness(0) saturate(100%) invert(20%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(20%) contrast(100%);
+    filter: drop-shadow(0 2px 4px rgba(40, 62, 110, 0.35)) brightness(0) saturate(100%) invert(20%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(20%) contrast(100%);
 }
 
 body.theme-dark .fullscreen-button img {
-    filter: brightness(0) saturate(100%) invert(100%);
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4)) brightness(0) saturate(100%) invert(100%);
 }
 
 /* 浮动操作按钮 */
@@ -819,37 +822,74 @@ body.theme-dark .fullscreen-button img {
 
 .fullscreen-button {
     right: 20px;
+    border: 1px solid rgba(90, 110, 140, 0.35);
+    background: linear-gradient(160deg, rgba(32, 36, 48, 0.95), rgba(19, 22, 30, 0.95));
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04), 0 8px 18px rgba(0, 0, 0, 0.45);
+    position: fixed;
+    bottom: 20px;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    z-index: 120;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, background 0.25s ease, color 0.25s ease;
+}
+
+.fullscreen-button::after {
+    content: "";
+    position: absolute;
+    inset: 3px;
+    border-radius: 10px;
+    background: radial-gradient(circle at 30% 20%, rgba(255, 255, 255, 0.12), transparent 65%);
+    opacity: 0.4;
+    pointer-events: none;
 }
 
 .toggle-channel-list {
     right: 20px;
 }
 
-.fullscreen-button:hover,
+.fullscreen-button:hover {
+    border-color: rgba(123, 162, 255, 0.7);
+    background: linear-gradient(155deg, rgba(46, 91, 190, 0.92), rgba(22, 33, 60, 0.92));
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 14px 28px rgba(21, 38, 78, 0.55);
+}
+
 .toggle-channel-list:hover {
     transform: translateY(-2px) scale(1.05);
     box-shadow: 0 16px 32px rgba(0, 0, 0, 0.45);
     background: var(--color-accent-hover);
 }
 
-.fullscreen-button:active,
+.fullscreen-button:active {
+    transform: translateY(0);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.02), 0 6px 14px rgba(0, 0, 0, 0.45);
+}
+
 .toggle-channel-list:active {
     transform: translateY(0) scale(0.97);
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.38);
 }
 
-.fullscreen-button:focus-visible,
+.fullscreen-button:focus-visible {
+    outline: 2px solid rgba(120, 155, 255, 0.9);
+    outline-offset: 2px;
+}
+
 .toggle-channel-list:focus-visible {
     outline: 3px solid rgba(255, 255, 255, 0.3);
     outline-offset: 3px;
 }
 
 .fullscreen-button img {
-    width: 24px;
-    height: 24px;
-    transition: transform 0.3s ease, opacity 0.3s ease;
-    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4));
+    width: 18px;
+    height: 18px;
+    transition: transform 0.25s ease, filter 0.25s ease;
     pointer-events: none;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4));
 }
 
 .fullscreen-button.is-active {
@@ -857,28 +897,39 @@ body.theme-dark .fullscreen-button img {
     box-shadow: 0 18px 36px rgba(0, 0, 0, 0.5);
 }
 
+.fullscreen-button:hover img {
+    transform: scale(1.1);
+    filter: drop-shadow(0 4px 10px rgba(12, 28, 64, 0.65));
+}
+
 .fullscreen-button.is-active img {
     transform: scale(1.05);
 }
 
 body.theme-light .fullscreen-button {
-    background: linear-gradient(155deg, rgba(103, 141, 242, 0.95), rgba(77, 115, 230, 0.95));
-    box-shadow: 0 12px 26px rgba(66, 98, 182, 0.35);
+    border: 1px solid rgba(128, 148, 190, 0.45);
+    background: linear-gradient(160deg, rgba(255, 255, 255, 0.95), rgba(227, 234, 255, 0.95));
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 8px 18px rgba(14, 24, 44, 0.16);
 }
 
 body.theme-light .fullscreen-button:hover {
-    background: linear-gradient(155deg, rgba(122, 158, 255, 0.98), rgba(94, 133, 244, 0.98));
-    box-shadow: 0 20px 36px rgba(60, 92, 176, 0.32);
+    border-color: rgba(104, 142, 255, 0.55);
+    background: linear-gradient(155deg, rgba(134, 168, 255, 0.92), rgba(90, 126, 238, 0.9));
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.55), 0 16px 30px rgba(80, 110, 190, 0.28);
+}
+
+body.theme-light .fullscreen-button:active {
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 6px 14px rgba(20, 32, 60, 0.2);
 }
 
 body.theme-light .fullscreen-button.is-active {
-    background: linear-gradient(150deg, rgba(90, 126, 238, 0.98), rgba(66, 105, 225, 0.98));
     box-shadow: 0 22px 40px rgba(56, 86, 190, 0.35);
 }
 
 body.theme-light .fullscreen-button:focus-visible {
-    outline: 3px solid rgba(120, 150, 255, 0.55);
+    outline: 2px solid rgba(86, 118, 214, 0.55);
 }
+
 
 .toggle-channel-list svg {
     transition: transform 0.3s ease;
@@ -893,7 +944,7 @@ body.theme-light .fullscreen-button:focus-visible {
     font-weight: 500;
     margin: 0;
     /* padding-bottom: 10px; */
-    border-bottom: 1px solid var(--color-panel-border);
+    /* border-bottom: 1px solid var(--color-panel-border); */
     color: var(--color-text-muted);
     font-family: 'Noto Serif JP', 'Hiragino Mincho ProN', 'Yu Mincho', serif;
 }
@@ -1135,41 +1186,53 @@ body.theme-light .fullscreen-button:focus-visible {
     to { opacity: 1; }
 }
 
-/* 设置面板头部 */
-.settings-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 16px 20px;
-    background: linear-gradient(135deg, var(--color-gradient-strong-start) 0%, var(--color-gradient-strong-end) 100%);
-    border-bottom: 1px solid var(--color-panel-border);
-}
-
-.settings-header h3 {
-    margin: 0;
-    color: var(--color-text-primary);
-    font-size: 22px;
-    font-weight: 600;
-    font-family: 'Noto Serif JP', 'Hiragino Mincho ProN', 'Yu Mincho', serif;
-}
-
+/* 关闭按钮直接定位在设置面板右上角 */
 .close-btn {
-    background: none;
-    border: none;
-    color: var(--color-text-placeholder);
+    position: absolute;
+    top: 4px;
+    right: 4px;
     cursor: pointer;
-    padding: 8px;
-    border-radius: 8px;
+    height: 32px;
+    width: 32px;
+    border-radius: 32px;
     transition: all 0.3s ease;
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 10001;
 }
 
 .close-btn:hover {
-    background-color: var(--color-input-bg);
-    color: var(--color-text-primary);
     transform: scale(1.1);
+}
+
+/* 关闭按钮主题适配 */
+body.theme-light .close-btn {
+    border: 1px solid rgba(128, 148, 190, 0.45);
+    background: linear-gradient(160deg, rgba(255, 255, 255, 0.95), rgba(227, 234, 255, 0.95));
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 8px 18px rgba(14, 24, 44, 0.16);
+    color: rgba(60, 80, 120, 0.8);
+}
+
+body.theme-light .close-btn:hover {
+    background: linear-gradient(160deg, rgba(255, 255, 255, 1), rgba(235, 242, 255, 1));
+    border-color: rgba(100, 130, 180, 0.6);
+    color: rgba(40, 60, 100, 1);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8), 0 12px 24px rgba(14, 24, 44, 0.2);
+}
+
+body.theme-dark .close-btn {
+    border: 1px solid rgba(120, 140, 180, 0.3);
+    background: linear-gradient(160deg, rgba(40, 50, 70, 0.95), rgba(30, 40, 60, 0.95));
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 8px 18px rgba(0, 0, 0, 0.4);
+    color: rgba(180, 200, 220, 0.8);
+}
+
+body.theme-dark .close-btn:hover {
+    background: linear-gradient(160deg, rgba(50, 60, 80, 1), rgba(40, 50, 70, 1));
+    border-color: rgba(140, 160, 200, 0.5);
+    color: rgba(200, 220, 240, 1);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 12px 24px rgba(0, 0, 0, 0.5);
 }
 
 /* 设置面板内容 */
@@ -1217,10 +1280,10 @@ body.theme-light .fullscreen-button:focus-visible {
 /* 设置项 */
 .setting-item {
     margin-bottom: 8px;
-    padding: 12px;
-    background-color: rgba(255, 255, 255, 0.02);
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.05);
+    /* padding: 12px; */
+    /* background-color: rgba(255, 255, 255, 0.02); */
+    /* border-radius: 8px; */
+    /* border: 1px solid rgba(255, 255, 255, 0.05); */
     transition: all 0.3s ease;
 }
 
@@ -1374,8 +1437,10 @@ body.theme-light .fullscreen-button:focus-visible {
         max-height: 80vh;
     }
     
-    .settings-header {
-        padding: 12px 16px;
+    .close-btn {
+        top: 8px;
+        right: 8px;
+        padding: 6px;
     }
     
     .settings-content {
@@ -1385,10 +1450,7 @@ body.theme-light .fullscreen-button:focus-visible {
 
 /* 移动端设置浮动层适配 */
 @media (max-width: 768px) {
-    .settings-content {
-        margin: 20% auto;
-        width: 95%;
-    }
+
     
     .settings-header {
         padding: 15px 20px;
@@ -1397,4 +1459,8 @@ body.theme-light .fullscreen-button:focus-visible {
     .settings-body {
         padding: 20px;
     }
+}
+@keyframes overlayFadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
 }

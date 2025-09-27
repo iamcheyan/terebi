@@ -3,9 +3,14 @@ const i18n = {
     ja: {
         // 设置面板
         settings: '設定',
+        theme_settings: 'テーマ設定',
         interface_settings: 'インターフェース設定',
         playback_settings: '再生設定',
         advanced_settings: '詳細設定',
+        
+        // 主题设置
+        dark_mode: 'ダークモード',
+        dark_mode_desc: 'ダークテーマのインターフェースを使用',
         
         // 语言设置
         language: '言語',
@@ -39,9 +44,14 @@ const i18n = {
     en: {
         // 设置面板
         settings: 'Settings',
+        theme_settings: 'Theme Settings',
         interface_settings: 'Interface Settings',
         playback_settings: 'Playback Settings',
         advanced_settings: 'Advanced Settings',
+        
+        // 主题设置
+        dark_mode: 'Dark Mode',
+        dark_mode_desc: 'Use dark theme interface',
         
         // 语言设置
         language: 'Language',
@@ -75,9 +85,14 @@ const i18n = {
     zh: {
         // 设置面板
         settings: '设置',
+        theme_settings: '主题设置',
         interface_settings: '界面设置',
         playback_settings: '播放设置',
         advanced_settings: '高级设置',
+        
+        // 主题设置
+        dark_mode: '深色模式',
+        dark_mode_desc: '使用深色主题界面',
         
         // 语言设置
         language: '语言',
@@ -1332,9 +1347,16 @@ function initSettings() {
     
     // 关闭设置面板
     function closeSettingsPanel() {
+        console.log('开始关闭设置面板');
         const panel = document.getElementById('settingsPanel');
         const overlay = document.getElementById('settingsOverlay');
         const playerContainer = document.getElementById('playerContainer');
+        
+        console.log('面板元素检查:', {
+            panel: !!panel,
+            overlay: !!overlay,
+            playerContainer: !!playerContainer
+        });
         
         if (panel && overlay) {
             panel.classList.remove('show');
@@ -1348,6 +1370,9 @@ function initSettings() {
             if (playerContainer) {
                 playerContainer.classList.remove('settings-open');
             }
+            console.log('设置面板已关闭');
+        } else {
+            console.error('无法找到面板或遮罩元素');
         }
     }
     
@@ -1375,7 +1400,10 @@ function initSettings() {
     // 关闭按钮事件
     const closeBtn = document.getElementById('closeSettings');
     if (closeBtn) {
+        console.log('找到关闭按钮，添加事件监听器');
         closeBtn.addEventListener('click', closeSettingsPanel);
+    } else {
+        console.error('未找到关闭按钮元素');
     }
     
     // 点击遮罩关闭设置面板
