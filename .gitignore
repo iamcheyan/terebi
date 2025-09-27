@@ -3,6 +3,5 @@ WEB-INF/*
 tools/ftp_upload.log
 tools/sftp_upload.log
 .DS_Store
-__pycache__/scheduler.cpython-313.pyc
 log/**/*
-
+**/__pycache__/**

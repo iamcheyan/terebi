@@ -39,7 +39,15 @@ const i18n = {
         debug_mode: 'デバッグモード',
         debug_mode_desc: '詳細なデバッグ情報を表示',
         cache_videos: '動画をキャッシュ',
-        cache_videos_desc: 'チャンネル動画リストをキャッシュして読み込み速度を向上'
+        cache_videos_desc: 'チャンネル動画リストをキャッシュして読み込み速度を向上',
+        
+        // 频道统计
+        channel_statistics: 'チャンネル統計',
+        total_channels: '総チャンネル数',
+        total_videos: '総番組数',
+        by_region: '地域別',
+        channel_details: 'チャンネル詳細',
+        search_channels: 'チャンネルを検索...'
     },
     en: {
         // 设置面板
@@ -80,7 +88,15 @@ const i18n = {
         debug_mode: 'Debug Mode',
         debug_mode_desc: 'Display detailed debugging information',
         cache_videos: 'Cache Videos',
-        cache_videos_desc: 'Cache channel video lists to improve loading speed'
+        cache_videos_desc: 'Cache channel video lists to improve loading speed',
+        
+        // 频道统计
+        channel_statistics: 'Channel Statistics',
+        total_channels: 'Total Channels',
+        total_videos: 'Total Programs',
+        by_region: 'By Region',
+        channel_details: 'Channel Details',
+        search_channels: 'Search channels...'
     },
     zh: {
         // 设置面板
@@ -121,7 +137,15 @@ const i18n = {
         debug_mode: '调试模式',
         debug_mode_desc: '显示详细的调试信息',
         cache_videos: '缓存视频',
-        cache_videos_desc: '缓存频道视频列表以提高加载速度'
+        cache_videos_desc: '缓存频道视频列表以提高加载速度',
+        
+        // 频道统计
+        channel_statistics: '频道统计',
+        total_channels: '总频道数',
+        total_videos: '总节目数',
+        by_region: '按地区分类',
+        channel_details: '频道详情',
+        search_channels: '搜索频道...'
     }
 };
 
@@ -137,6 +161,14 @@ function updatePageText() {
             element.textContent = i18n[currentLanguage][key];
         }
     });
+
+    const placeholderElements = document.querySelectorAll('[data-i18n-placeholder]');
+    placeholderElements.forEach(element => {
+        const key = element.getAttribute('data-i18n-placeholder');
+        if (i18n[currentLanguage] && i18n[currentLanguage][key]) {
+            element.placeholder = i18n[currentLanguage][key];
+        }
+    });
 }
 
 // 设置语言
@@ -145,6 +177,9 @@ function setLanguage(lang) {
         currentLanguage = lang;
         localStorage.setItem('language', lang);
         updatePageText();
+        if (channelStatsData) {
+            displayChannelStats();
+        }
         
         // 更新语言选择器的值
         const languageSelect = document.getElementById('languageSelect');
@@ -1228,6 +1263,8 @@ function setTheme(theme, persist = false) {
             console.warn('无法保存主题设置到本地存储:', error);
         }
     }
+
+    updateRegionChartTheme();
 }
 
 function bindSystemThemeListener() {
@@ -1335,13 +1372,23 @@ function initSettings() {
         const panel = document.getElementById('settingsPanel');
         const overlay = document.getElementById('settingsOverlay');
         
+        console.log('面板元素检查:', {
+            panel: !!panel,
+            overlay: !!overlay,
+            panelClasses: panel ? panel.className : 'N/A',
+            overlayClasses: overlay ? overlay.className : 'N/A'
+        });
+        
         if (panel && overlay) {
             const isVisible = panel.classList.contains('show');
+            console.log('面板当前状态:', isVisible ? '显示' : '隐藏');
             if (isVisible) {
                 closeSettingsPanel();
             } else {
                 openSettingsPanel();
             }
+        } else {
+            console.error('无法找到设置面板或遮罩元素');
         }
     });
     
@@ -1378,9 +1425,16 @@ function initSettings() {
     
     // 打开设置面板
     function openSettingsPanel() {
+        console.log('开始打开设置面板');
         const panel = document.getElementById('settingsPanel');
         const overlay = document.getElementById('settingsOverlay');
         const playerContainer = document.getElementById('playerContainer');
+        
+        console.log('打开面板元素检查:', {
+            panel: !!panel,
+            overlay: !!overlay,
+            playerContainer: !!playerContainer
+        });
         
         if (panel && overlay) {
             panel.classList.add('show');
@@ -1390,10 +1444,14 @@ function initSettings() {
             document.body.style.overflow = 'hidden';
             document.body.setAttribute('data-modal-open', 'true');
             
+            console.log('设置面板已打开，当前类名:', panel.className);
+            
             // 添加播放器容器的设置面板打开状态class
             if (playerContainer) {
                 playerContainer.classList.add('settings-open');
             }
+        } else {
+            console.error('无法找到设置面板或遮罩元素');
         }
     }
     
@@ -1722,3 +1780,543 @@ function selectRandomChannel() {
     
     console.log(`通过快捷键 r 随机选择了频道: ${channels[randomIndex].textContent.trim()}`);
 }
+
+// 频道统计弹出框功能
+let channelStatsData = null;
+let regionChartInstance = null;
+const REGION_CHART_COLOR_SETS = {
+    dark: ['#4F8AF7', '#7C6BFF', '#4ADDB5', '#F3C567', '#FF8A7A', '#6BCBFF', '#B68BFF', '#5ED39D', '#FF9ED1', '#FFA95E'],
+    light: ['#3454D1', '#8A5CFF', '#2BB2A2', '#F39C12', '#E76F51', '#4FA3F7', '#9D6BDE', '#5BC489', '#F37FB2', '#F2B266']
+};
+
+// 初始化频道统计功能
+function initChannelStats() {
+    const statsButton = document.getElementById('channelStatsButton');
+    const statsPanel = document.getElementById('channelStatsPanel');
+    const statsOverlay = document.getElementById('channelStatsOverlay');
+    const closeStatsBtn = document.getElementById('closeChannelStats');
+    
+    if (statsButton) {
+        statsButton.addEventListener('click', function() {
+            loadChannelStats();
+        });
+    }
+    
+    if (closeStatsBtn) {
+        closeStatsBtn.addEventListener('click', function() {
+            closeChannelStatsPanel();
+        });
+    }
+    
+    if (statsOverlay) {
+        statsOverlay.addEventListener('click', function() {
+            closeChannelStatsPanel();
+        });
+    }
+    
+    // ESC键关闭面板
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            const panel = document.getElementById('channelStatsPanel');
+            if (panel && panel.classList.contains('show')) {
+                closeChannelStatsPanel();
+            }
+        }
+    });
+}
+
+// 加载频道统计数据
+async function loadChannelStats() {
+    try {
+        console.log('开始加载频道统计数据...');
+        
+        // 显示加载状态
+        openChannelStatsPanel();
+        updateStatsContent('正在加载频道数据...');
+        
+        // 获取频道列表数据
+        const response = await fetch('japan_tv_youtube_channels.json');
+        if (!response.ok) {
+            throw new Error('无法获取频道列表: ' + response.status);
+        }
+        
+        const channelData = await response.json();
+        console.log('频道列表数据:', channelData);
+        
+        // 收集所有频道信息
+        const allChannels = [];
+        Object.entries(channelData).forEach(([groupName, groupContent]) => {
+            Object.entries(groupContent).forEach(([categoryName, channels]) => {
+                channels.forEach(channel => {
+                    if (channel.name && channel.url && channel.url.trim() !== '') {
+                        allChannels.push({
+                            name: channel.name,
+                            url: channel.url,
+                            group: groupName,
+                            category: categoryName,
+                            bakname: channel.bakname
+                        });
+                    }
+                });
+            });
+        });
+        
+        console.log(`找到 ${allChannels.length} 个频道`);
+        
+        // 为每个频道尝试加载视频数据
+        const channelPromises = allChannels.map(async (channel) => {
+            try {
+                // 尝试加载频道的视频数据
+                const primaryName = channel.name;
+                const channelResponse = await fetch(`data/${encodeURIComponent(primaryName)}.json`);
+                if (channelResponse.ok) {
+                    const channelData = await channelResponse.json();
+                    return {
+                        channelName: channel.name,
+                        videoCount: channelData.videos ? channelData.videos.length : 0,
+                        updatedAt: channelData.updated_at,
+                        region: channel.group,
+                        category: channel.category
+                    };
+                } else {
+                    const fallbackName = channel.bakname;
+                    if (fallbackName) {
+                        const bakResponse = await fetch(`data/${encodeURIComponent(fallbackName)}.json`);
+                        if (bakResponse.ok) {
+                            const channelData = await bakResponse.json();
+                            return {
+                                channelName: channel.name,
+                                videoCount: channelData.videos ? channelData.videos.length : 0,
+                                updatedAt: channelData.updated_at,
+                                region: channel.group,
+                                category: channel.category
+                            };
+                        }
+                    }
+                    
+                    return {
+                        channelName: channel.name,
+                        videoCount: 0,
+                        updatedAt: null,
+                        region: channel.group,
+                        category: channel.category
+                    };
+                }
+            } catch (error) {
+                console.error(`加载频道 ${channel.name} 数据失败:`, error);
+                return {
+                    channelName: channel.name,
+                    videoCount: 0,
+                    updatedAt: null,
+                    region: channel.group,
+                    category: channel.category
+                };
+            }
+        });
+        
+        const channels = await Promise.all(channelPromises);
+        
+        // 按地区分类频道
+        const regionStats = categorizeChannelsByRegion(channels);
+        
+        channelStatsData = {
+            channels: channels,
+            regions: regionStats,
+            totalChannels: channels.length,
+            totalVideos: channels.reduce((sum, channel) => sum + channel.videoCount, 0)
+        };
+        
+        // 更新显示
+        displayChannelStats();
+        
+    } catch (error) {
+        console.error('加载频道统计数据失败:', error);
+        updateStatsContent('加载数据失败，请稍后重试。');
+    }
+}
+
+// 按地区分类频道
+function categorizeChannelsByRegion(channels) {
+    const regions = {};
+    
+    channels.forEach(channel => {
+        const region = channel.category || channel.region || getChannelRegion(channel.channelName);
+        
+        if (!regions[region]) {
+            regions[region] = {
+                name: region,
+                channels: [],
+                totalVideos: 0
+            };
+        }
+        
+        regions[region].channels.push(channel);
+        regions[region].totalVideos += channel.videoCount;
+    });
+    
+    return regions;
+}
+
+// 根据频道名称判断地区
+function getChannelRegion(channelName) {
+    // 北海道
+    if (channelName.includes('北海道') || channelName.includes('札幌') || channelName.includes('HBC') || channelName.includes('STV')) {
+        return '北海道';
+    }
+    
+    // 东北地区
+    if (channelName.includes('青森') || channelName.includes('岩手') || channelName.includes('宮城') || 
+        channelName.includes('秋田') || channelName.includes('山形') || channelName.includes('福島') ||
+        channelName.includes('仙台') || channelName.includes('ABA') || channelName.includes('IBC') ||
+        channelName.includes('TBC') || channelName.includes('ABS') || channelName.includes('YBC') ||
+        channelName.includes('FCT') || channelName.includes('KFB')) {
+        return '東北';
+    }
+    
+    // 关东地区
+    if (channelName.includes('東京') || channelName.includes('神奈川') || channelName.includes('埼玉') ||
+        channelName.includes('千葉') || channelName.includes('茨城') || channelName.includes('栃木') ||
+        channelName.includes('群馬') || channelName.includes('フジテレビ') || channelName.includes('日本テレビ') ||
+        channelName.includes('TBS') || channelName.includes('テレビ朝日') || channelName.includes('テレビ東京') ||
+        channelName.includes('NHK') || channelName.includes('tvk') || channelName.includes('MX')) {
+        return '関東';
+    }
+    
+    // 中部地区
+    if (channelName.includes('新潟') || channelName.includes('富山') || channelName.includes('石川') ||
+        channelName.includes('福井') || channelName.includes('山梨') || channelName.includes('長野') ||
+        channelName.includes('岐阜') || channelName.includes('静岡') || channelName.includes('愛知') ||
+        channelName.includes('名古屋') || channelName.includes('中京') || channelName.includes('CBC') ||
+        channelName.includes('東海テレビ') || channelName.includes('メ～テレ')) {
+        return '中部';
+    }
+    
+    // 关西地区
+    if (channelName.includes('三重') || channelName.includes('滋賀') || channelName.includes('京都') ||
+        channelName.includes('大阪') || channelName.includes('兵庫') || channelName.includes('奈良') ||
+        channelName.includes('和歌山') || channelName.includes('関西') || channelName.includes('MBS') ||
+        channelName.includes('ABC') || channelName.includes('読売') || channelName.includes('KTV')) {
+        return '関西';
+    }
+    
+    // 中国地区
+    if (channelName.includes('鳥取') || channelName.includes('島根') || channelName.includes('岡山') ||
+        channelName.includes('広島') || channelName.includes('山口') || channelName.includes('RSK') ||
+        channelName.includes('RCC') || channelName.includes('TSS')) {
+        return '中国';
+    }
+    
+    // 四国地区
+    if (channelName.includes('徳島') || channelName.includes('香川') || channelName.includes('愛媛') ||
+        channelName.includes('高知') || channelName.includes('JRT') || channelName.includes('RNC') ||
+        channelName.includes('EBC') || channelName.includes('RKC')) {
+        return '四国';
+    }
+    
+    // 九州・冲绳地区
+    if (channelName.includes('福岡') || channelName.includes('佐賀') || channelName.includes('長崎') ||
+        channelName.includes('熊本') || channelName.includes('大分') || channelName.includes('宮崎') ||
+        channelName.includes('鹿児島') || channelName.includes('沖縄') || channelName.includes('RKB') ||
+        channelName.includes('KBC') || channelName.includes('TNC') || channelName.includes('TVQ') ||
+        channelName.includes('OTV')) {
+        return '九州・沖縄';
+    }
+    
+    // 默认分类
+    return 'その他';
+}
+
+// 显示频道统计数据
+function displayChannelStats() {
+    if (!channelStatsData) return;
+    
+    const { channels, regions, totalChannels, totalVideos } = channelStatsData;
+    
+    // 更新总体统计
+    const totalChannelsElement = document.getElementById('totalChannels');
+    const totalVideosElement = document.getElementById('totalVideos');
+    
+    if (totalChannelsElement) totalChannelsElement.textContent = totalChannels;
+    if (totalVideosElement) totalVideosElement.textContent = totalVideos;
+    
+    const regionEntries = Object.values(regions).sort((a, b) => b.channels.length - a.channels.length);
+
+    // 显示地区分布饼图
+    renderRegionPieChart(regionEntries);
+
+    // 显示地区统计
+    displayRegionalStats(regionEntries);
+}
+
+// 显示地区统计
+function formatRegionChannelCount(count) {
+    switch (currentLanguage) {
+        case 'en':
+            return count + ' channels';
+        case 'zh':
+            return count + '频道';
+        default:
+            return count + 'チャンネル';
+    }
+}
+
+function formatRegionProgramCount(count) {
+    switch (currentLanguage) {
+        case 'en':
+            return count + ' videos';
+        case 'zh':
+            return count + '节目';
+        default:
+            return count + '番組';
+    }
+}
+
+function getSearchPlaceholderText() {
+    switch (currentLanguage) {
+        case 'en':
+            return 'Search channels...';
+        case 'ja':
+            return 'チャンネルを検索...';
+        default:
+            return '搜索频道...';
+    }
+}
+
+function displayRegionalStats(regions) {
+    const container = document.getElementById('regionStats');
+    if (!container) return;
+    
+    container.innerHTML = '';
+    
+    const regionList = Array.isArray(regions)
+        ? regions
+        : Object.values(regions).sort((a, b) => b.channels.length - a.channels.length);
+    
+    regionList.forEach(region => {
+        const regionElement = document.createElement('div');
+        regionElement.className = 'region-stat';
+        regionElement.innerHTML = `
+            <div class="region-name">${region.name}</div>
+            <div class="region-counts">
+                <span class="channel-count">${formatRegionChannelCount(region.channels.length)}</span>
+                <span class="video-count">${formatRegionProgramCount(region.totalVideos)}</span>
+            </div>
+        `;
+        
+        regionElement.addEventListener('click', () => {
+            // 地区点击功能已移除
+        });
+        
+        container.appendChild(regionElement);
+    });
+}
+
+function getActiveThemeVariant() {
+    const body = document.body;
+    if (!body) {
+        return 'dark';
+    }
+    return body.classList.contains('theme-light') ? 'light' : 'dark';
+}
+
+function getCssVariableValue(variableName, fallback) {
+    const styles = window.getComputedStyle(document.documentElement);
+    const value = styles.getPropertyValue(variableName);
+    return value ? value.trim() : fallback;
+}
+
+function getRegionChartPalette() {
+    const theme = getActiveThemeVariant();
+    const palette = REGION_CHART_COLOR_SETS[theme] || REGION_CHART_COLOR_SETS.dark;
+    return palette.slice();
+}
+
+function getRegionChartUnitLabel() {
+    switch (currentLanguage) {
+        case 'en':
+            return ' channels';
+        case 'zh':
+            return '频道';
+        default:
+            return 'チャンネル';
+    }
+}
+
+function renderRegionPieChart(regions) {
+    const canvas = document.getElementById('regionPieChart');
+
+    if (!canvas || typeof Chart === 'undefined') {
+        return;
+    }
+
+    const hasData = Array.isArray(regions) && regions.length > 0;
+    if (regionChartInstance) {
+        regionChartInstance.destroy();
+        regionChartInstance = null;
+    }
+
+    if (!hasData) {
+        const context = canvas.getContext('2d');
+        if (context) {
+            context.clearRect(0, 0, canvas.width || canvas.clientWidth, canvas.height || canvas.clientHeight);
+        }
+        return;
+    }
+
+    const palette = getRegionChartPalette();
+    const labels = regions.map(region => region.name);
+    const data = regions.map(region => region.channels.length);
+    const backgroundColors = palette.slice(0, data.length);
+    const textColor = getCssVariableValue('--color-text-primary', '#f0f0f0');
+    const borderColor = getCssVariableValue('--color-panel-border', 'rgba(255, 255, 255, 0.12)');
+    const tooltipBackground = getCssVariableValue('--color-surface-primary', '#111827');
+    const totalChannels = data.reduce((sum, value) => sum + value, 0);
+    const context = canvas.getContext('2d');
+
+    if (!context) {
+        return;
+    }
+
+    regionChartInstance = new Chart(context, {
+        type: 'doughnut',
+        data: {
+            labels: labels,
+            datasets: [{
+                data: data,
+                backgroundColor: backgroundColors,
+                borderColor: borderColor,
+                borderWidth: 1.5,
+                hoverOffset: 8
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            cutout: '52%',
+            layout: {
+                padding: 8
+            },
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    align: 'center',
+                    labels: {
+                        color: textColor,
+                        usePointStyle: true,
+                        font: {
+                            size: 12
+                        },
+                        padding: 10,
+                        boxWidth: 10,
+                        generateLabels: function(chart) {
+                            const defaultLabels = Chart.defaults.plugins.legend.labels.generateLabels(chart);
+                            return defaultLabels.map(function(label, index) {
+                                return Object.assign({}, label, {
+                                    text: labels[index] + ' (' + data[index] + ')'
+                                });
+                            });
+                        }
+                    }
+                },
+                tooltip: {
+                    backgroundColor: tooltipBackground,
+                    titleColor: textColor,
+                    bodyColor: textColor,
+                    borderColor: borderColor,
+                    borderWidth: 1,
+                    callbacks: {
+                        label: function(context) {
+                            const value = context.parsed;
+                            const percentage = totalChannels ? ((value / totalChannels) * 100).toFixed(1) : 0;
+                            const unit = getRegionChartUnitLabel();
+                            const name = labels[context.dataIndex] || '';
+                            return name + ': ' + value + unit + ' (' + percentage + '%)';
+                        }
+                    }
+                }
+            }
+        }
+    });
+}
+
+function updateRegionChartTheme() {
+    if (!regionChartInstance) {
+        return;
+    }
+
+    const palette = getRegionChartPalette();
+    const dataset = regionChartInstance.data && regionChartInstance.data.datasets
+        ? regionChartInstance.data.datasets[0]
+        : null;
+
+    if (dataset) {
+        dataset.backgroundColor = palette.slice(0, dataset.data.length);
+        dataset.borderColor = getCssVariableValue('--color-panel-border', 'rgba(255, 255, 255, 0.12)');
+    }
+
+    const textColor = getCssVariableValue('--color-text-primary', '#f0f0f0');
+    const tooltipBackground = getCssVariableValue('--color-surface-primary', '#111827');
+    const borderColor = getCssVariableValue('--color-panel-border', 'rgba(255, 255, 255, 0.12)');
+
+    if (regionChartInstance.options && regionChartInstance.options.plugins) {
+        if (regionChartInstance.options.plugins.legend && regionChartInstance.options.plugins.legend.labels) {
+            regionChartInstance.options.plugins.legend.labels.color = textColor;
+        }
+        if (regionChartInstance.options.plugins.tooltip) {
+            const tooltip = regionChartInstance.options.plugins.tooltip;
+            tooltip.backgroundColor = tooltipBackground;
+            tooltip.titleColor = textColor;
+            tooltip.bodyColor = textColor;
+            tooltip.borderColor = borderColor;
+        }
+    }
+
+    regionChartInstance.update();
+}
+
+
+
+
+// 打开频道统计面板
+function openChannelStatsPanel() {
+    const panel = document.getElementById('channelStatsPanel');
+    const overlay = document.getElementById('channelStatsOverlay');
+    
+    if (panel && overlay) {
+        panel.classList.add('show');
+        overlay.classList.add('show');
+        panel.setAttribute('aria-hidden', 'false');
+        overlay.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+        document.body.setAttribute('data-modal-open', 'true');
+    }
+}
+
+// 关闭频道统计面板
+function closeChannelStatsPanel() {
+    const panel = document.getElementById('channelStatsPanel');
+    const overlay = document.getElementById('channelStatsOverlay');
+    
+    if (panel && overlay) {
+        panel.classList.remove('show');
+        overlay.classList.remove('show');
+        panel.setAttribute('aria-hidden', 'true');
+        overlay.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
+        document.body.removeAttribute('data-modal-open');
+    }
+}
+
+
+// 更新统计内容（用于加载状态）
+function updateStatsContent(message) {
+    const container = document.getElementById('channelDetailsList');
+    if (container) {
+        container.innerHTML = `<div class="loading-message">${message}</div>`;
+    }
+}
+
+// 在DOMContentLoaded事件中初始化频道统计功能
+document.addEventListener('DOMContentLoaded', function() {
+    initChannelStats();
+});

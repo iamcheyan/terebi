@@ -45,17 +45,30 @@
     </div>
         <div class="link-box">
         <div class="cheyan">
-            <a href="https://iamcheyan.com" target="_blank">
+            <a href="about.html" target="_blank">
                <img src="img/svg/cheyan.jpg" alt="cheyan" width="32" height="32">
             </a>
         </div>
-        <div class="git" style="display: none;">
-            <a href="https://github.com/iamcheyan/terebi" target="_blank" title="GitHubでソースコードを見る">
-                <img src="img/svg/github.svg" alt="github" width="32" height="32">
+        <div class="git">
+            <a class="icon-button" href="https://gitlab.com/tetsuya.ueno/tv" target="_blank" title="GitLabでソースコードを見る" aria-label="GitLabでソースコードを見る">
+                <svg aria-hidden="true" role="img" class="tanuki-logo" width="32" height="32" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path class="tanuki-shape tanuki" d="m24.507 9.5-.034-.09L21.082.562a.896.896 0 0 0-1.694.091l-2.29 7.01H7.825L5.535.653a.898.898 0 0 0-1.694-.09L.451 9.411.416 9.5a6.297 6.297 0 0 0 2.09 7.278l.012.01.03.022 5.16 3.867 2.56 1.935 1.554 1.176a1.051 1.051 0 0 0 1.268 0l1.555-1.176 2.56-1.935 5.197-3.89.014-.01A6.297 6.297 0 0 0 24.507 9.5Z" fill="#E24329"></path>
+                    <path class="tanuki-shape right-cheek" d="m24.507 9.5-.034-.09a11.44 11.44 0 0 0-4.56 2.051l-7.447 5.632 4.742 3.584 5.197-3.89.014-.01A6.297 6.297 0 0 0 24.507 9.5Z" fill="#FC6D26"></path>
+                    <path class="tanuki-shape chin" d="m7.707 20.677 2.56 1.935 1.555 1.176a1.051 1.051 0 0 0 1.268 0l1.555-1.176 2.56-1.935-4.743-3.584-4.755 3.584Z" fill="#FCA326"></path>
+                    <path class="tanuki-shape left-cheek" d="M5.01 11.461a11.43 11.43 0 0 0-4.56-2.05L.416 9.5a6.297 6.297 0 0 0 2.09 7.278l.012.01.03.022 5.16 3.867 4.745-3.584-7.444-5.632Z" fill="#FC6D26"></path>
+                </svg>
             </a>
         </div>
+        <div class="channel-stats">
+            <button id="channelStatsButton" class="icon-button" title="频道统计" aria-label="频道统计">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M3 3v18h18"></path>
+                    <path d="M18.7 8l-5.1 5.2-2.8-2.7L7 14.3"></path>
+                </svg>
+            </button>
+        </div>
         <div class="settings">
-            <button id="settingsButton" title="设置">
+            <button id="settingsButton" class="icon-button" title="设置" aria-label="设置">
                 <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <circle cx="12" cy="12" r="3"></circle>
                     <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1 1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
@@ -152,6 +165,7 @@
     -->
    
     
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
     <script src="scripts/main.js"></script>
     
     <!-- 设置面板 - 移动到 body 层级 -->
@@ -287,6 +301,44 @@
 
 <!-- 设置面板遮罩层 -->
 <div id="settingsOverlay" class="settings-overlay"></div>
+
+<!-- 频道统计面板 -->
+<div id="channelStatsPanel" class="channel-stats-panel" aria-hidden="true">
+    <button id="closeChannelStats" class="close-btn" aria-label="关闭频道统计">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+    </button>
+    <div class="channel-stats-content">
+        <div class="stats-header">
+            <h3 data-i18n="channel_statistics">频道统计</h3>
+            <div class="stats-summary">
+                <div class="stat-item">
+                    <span class="stat-number" id="totalChannels">0</span>
+                    <span class="stat-label" data-i18n="total_channels">总频道数</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="totalVideos">0</span>
+                    <span class="stat-label" data-i18n="total_videos">总节目数</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="stats-regions">
+            <h4 data-i18n="by_region">按地区分类</h4>
+            <div class="region-chart-wrapper">
+                <canvas id="regionPieChart" aria-label="地域別チャンネル比率" role="img"></canvas>
+            </div>
+            <div id="regionStats" class="region-list">
+                <!-- 地区统计将在这里显示 -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 频道统计面板遮罩层 -->
+<div id="channelStatsOverlay" class="channel-stats-overlay"></div>
 
 </body>
 </html>

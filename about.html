@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>About - Terebi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <!-- 添加 favicon -->
+    <link rel="icon" href="img/svg/logo.svg" type="image/svg+xml">
+    <script>
+        (function() {
+            var storageKey = 'preferredTheme';
+            var theme = 'dark';
+            try {
+                var storedTheme = localStorage.getItem(storageKey);
+                if (storedTheme === 'light' || storedTheme === 'dark') {
+                    theme = storedTheme;
+                } else if (window.matchMedia) {
+                    theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+                }
+            } catch (error) {
+                console.warn('无法从本地存储读取主题偏好:', error);
+            }
+
+            var root = document.documentElement;
+            root.dataset.theme = theme;
+            root.classList.add('theme-' + theme);
+            root.style.colorScheme = theme;
+        })();
+    </script>
+
+    <!-- 基础样式 - 所有设备都加载 -->
+    <link rel="stylesheet" href="styles/main.css">
+    
+    <style>
+        .about-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .about-header {
+            text-align: center;
+        }
+
+        .about-logo {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 1rem;
+        }
+
+        .about-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--color-text-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .about-subtitle {
+            font-size: 1.2rem;
+            color: var(--color-text-secondary);
+            margin-bottom: 2rem;
+        }
+
+        .scan-reminder {
+            text-align: center;
+            margin-bottom: 2rem;
+            padding: 1rem 2rem;
+            background: var(--color-surface-secondary);
+            border: 1px solid var(--color-accent);
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(61, 124, 244, 0.1);
+        }
+
+        .scan-reminder p {
+            font-size: 1.1rem;
+            color: var(--color-text-primary);
+            margin: 0;
+            font-weight: 500;
+        }
+
+        .qr-section {
+            display: flex;
+            gap: 2rem;
+            width: 100%;
+            max-width: 1000px;
+        }
+
+        .qr-card {
+            flex: 1;
+            width: 33.33%;
+            background: var(--color-surface-secondary);
+            border: 1px solid var(--color-panel-border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            text-align: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 12px var(--color-card-shadow);
+        }
+
+        .qr-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px var(--color-card-shadow);
+            border-color: var(--color-accent);
+        }
+
+        .qr-image {
+            width: 150px;
+            height: 150px;
+            object-fit: contain;
+            border-radius: 12px;
+            margin-bottom: 1rem;
+            background: white;
+            padding: 0.8rem;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .qr-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--color-text-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .qr-description {
+            font-size: 0.9rem;
+            color: var(--color-text-secondary);
+            line-height: 1.4;
+        }
+
+        .back-link {
+            margin-top: 3rem;
+        }
+
+        .back-button {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            background: var(--color-accent);
+            color: var(--color-accent-contrast);
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .back-button:hover {
+            background: var(--color-accent-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(61, 124, 244, 0.3);
+        }
+
+        .back-button svg {
+            width: 16px;
+            height: 16px;
+        }
+
+        @media (max-width: 768px) {
+            .about-container {
+                padding: 1rem;
+            }
+
+            .about-title {
+                font-size: 2rem;
+            }
+
+            .scan-reminder {
+                padding: 0.8rem 1rem;
+                margin-bottom: 1.5rem;
+            }
+
+            .scan-reminder p {
+                font-size: 1rem;
+            }
+
+            .qr-section {
+                flex-direction: column;
+                gap: 1.5rem;
+            }
+
+            .qr-card {
+                width: 100%;
+                padding: 1.2rem;
+            }
+
+            .qr-image {
+                width: 120px;
+                height: 120px;
+            }
+
+            .qr-title {
+                font-size: 1rem;
+            }
+
+            .qr-description {
+                font-size: 0.85rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="about-container">
+        <div class="about-header">
+            <img class="about-logo" src="img/svg/logo.svg" alt="Terebi Logo">
+            <h1 class="about-title">私の連絡先</h1>
+        </div>
+
+        <div class="scan-reminder">
+            <p>📱 下記のQRコードをスキャンして、私のアプリをご利用ください</p>
+        </div>
+
+        <div class="qr-section">
+            <div class="qr-card">
+                <img class="qr-image" src="about/terebi.png" alt="アプリQRコード">
+                <h2 class="qr-title">私のアプリ</h2>
+                <p class="qr-description">私のアプリのQRコードです。<br>スキャンしてご利用ください。</p>
+            </div>
+
+            <div class="qr-card">
+                <img class="qr-image" src="about/homepage.png" alt="個人ホームページQRコード">
+                <h2 class="qr-title">個人ホームページ</h2>
+                <p class="qr-description">私の個人ホームページのQRコードです。<br>プロフィールや作品集をご覧いただけます。</p>
+            </div>
+
+            <div class="qr-card">
+                <img class="qr-image" src="about/x.png" alt="XアカウントQRコード">
+                <h2 class="qr-title">X（旧Twitter）</h2>
+                <p class="qr-description">私のXアカウントのQRコードです。<br>最新情報や日常の投稿をお楽しみください。</p>
+            </div>
+        </div>
+
+        <div class="back-link">
+            <a href="index.html" class="back-button">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M19 12H5"></path>
+                    <path d="M12 19l-7-7 7-7"></path>
+                </svg>
+                テレビに戻る
+            </a>
+        </div>
+    </div>
+</body>
+</html>

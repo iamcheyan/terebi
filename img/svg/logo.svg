@@ -1,19 +1,70 @@
-<svg class="logo" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <rect x="10" y="10" width="80" height="80" rx="8" ry="8" fill="#333333" stroke="#444444" stroke-width="1"/>
-  <rect x="12" y="12" width="76" height="76" rx="6" ry="6" fill="#2a2a2a"/>
-  <rect x="15" y="15" width="70" height="50" rx="2" ry="2" fill="#000000" stroke="#222222" stroke-width="0.5"/>
-  <rect x="15" y="15" width="14" height="50" fill="#ffff00"/>
-  <rect x="29" y="15" width="14" height="50" fill="#00ff00"/>
-  <rect x="43" y="15" width="14" height="50" fill="#ff69b4"/>
-  <rect x="57" y="15" width="14" height="50" fill="#ff0000"/>
-  <rect x="71" y="15" width="14" height="50" fill="#4169e1"/>
-  <rect x="15" y="70" width="70" height="15" rx="2" ry="2" fill="#222222"/>
-  <circle cx="25" cy="77.5" r="3" fill="#444444" stroke="#555555" stroke-width="0.5"/>
-  <circle cx="40" cy="77.5" r="3" fill="#444444" stroke="#555555" stroke-width="0.5"/>
-  <circle cx="55" cy="77.5" r="3" fill="#444444" stroke="#555555" stroke-width="0.5"/>
-  <circle cx="75" cy="77.5" r="4" fill="#666666" stroke="#777777" stroke-width="0.5"/>
-  <circle cx="75" cy="77.5" r="2" fill="#555555"/>
-  <line x1="30" y1="10" x2="40" y2="0" stroke="#666666" stroke-width="1.5"/>
-  <line x1="70" y1="10" x2="60" y2="0" stroke="#666666" stroke-width="1.5"/>
-</svg>
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Terebi Glass TV Logo</title>
+  <desc id="logoDesc">A stylised glass television with a glowing play symbol</desc>
+  <defs>
+    <linearGradient id="tvBody" x1="15%" y1="0%" x2="80%" y2="100%">
+      <stop offset="0%" stop-color="#f3f6ff" stop-opacity="0.9"/>
+      <stop offset="45%" stop-color="#c2d1ff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#1f2d5f" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="screenGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f1c3f"/>
+      <stop offset="55%" stop-color="#1a356b"/>
+      <stop offset="100%" stop-color="#1c4e9a"/>
+    </linearGradient>
+    <linearGradient id="screenHighlight" x1="20%" y1="15%" x2="80%" y2="85%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="35%" stop-color="#b7cafc" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="antennaGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#9eb6ff" stop-opacity="0.1"/>
+    </radialGradient>
+    <filter id="dropShadow" x="-20%" y="-20%" width="150%" height="150%" filterUnits="objectBoundingBox">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#050a1c" flood-opacity="0.45"/>
+    </filter>
+    <linearGradient id="standGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8ea3ff" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#1f2a55" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="playGlow" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#a6c8ff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#2443a0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
+  <g filter="url(#dropShadow)">
+    <!-- TV body -->
+    <path d="M20 32c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v46c0 6.6-5.4 12-12 12H32c-6.6 0-12-5.4-12-12V32z" fill="url(#tvBody)" stroke="#f4f8ff" stroke-opacity="0.55" stroke-width="1.8"/>
+
+    <!-- Screen -->
+    <rect x="30" y="36" width="60" height="40" rx="6.5" ry="6.5" fill="url(#screenGlow)" stroke="#7b97ff" stroke-opacity="0.35" stroke-width="1.4"/>
+    <rect x="30" y="36" width="60" height="40" rx="6.5" ry="6.5" fill="url(#screenHighlight)"/>
+
+    <!-- Play button -->
+    <g transform="translate(50 48)">
+      <circle cx="10" cy="10" r="12" fill="url(#playGlow)"/>
+      <path d="M8 4.5L17 10l-9 5.5c-1.4 0.85-3 -0.17-3 -1.75V6.25c0-1.58 1.6-2.6 3-1.75z" fill="#f6fbff" fill-opacity="0.92"/>
+    </g>
+
+    <!-- Bottom shelf -->
+    <rect x="38" y="78" width="44" height="6" rx="3" fill="#172041" fill-opacity="0.6"/>
+
+    <!-- Stand -->
+    <path d="M45 84h30l7 12H38z" fill="url(#standGradient)" opacity="0.9"/>
+    <rect x="34" y="94" width="52" height="6" rx="3" fill="#0a132b" opacity="0.65"/>
+
+    <!-- Antennas -->
+    <g transform="translate(60 30)">
+      <line x1="0" y1="0" x2="18" y2="-18" stroke="#cdd9ff" stroke-width="2" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="-18" y2="-20" stroke="#cdd9ff" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="18" cy="-18" r="4" fill="url(#antennaGlow)" stroke="#dfe7ff" stroke-opacity="0.65" stroke-width="1"/>
+      <circle cx="-18" cy="-20" r="4" fill="url(#antennaGlow)" stroke="#dfe7ff" stroke-opacity="0.65" stroke-width="1"/>
+    </g>
+
+    <!-- Face highlights -->
+    <path d="M32 28c0-3.3 2.7-6 6-6h44c3.3 0 6 2.7 6 6v3H32z" fill="#ffffff" fill-opacity="0.38"/>
+    <path d="M26 70h68c-0.8 5.5-5.5 9.5-11.1 9.5H37.1C31.5 79.5 26.8 75.5 26 70z" fill="#101b3c" fill-opacity="0.4"/>
+  </g>
+</svg>
