@@ -42,7 +42,7 @@
             </button>
             <div id="settingsPanel" class="settings-panel">
                 <div class="settings-header">
-                    <h3>设置</h3>
+                    <h3 data-i18n="settings">设置</h3>
                     <button id="closeSettings" class="close-btn">
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                             <line x1="18" y1="6" x2="6" y2="18"></line>
@@ -53,14 +53,27 @@
                 
                 <div class="settings-content">
                     <div class="settings-section">
-                        <h4>界面设置</h4>
+                        <h4 data-i18n="interface_settings">界面设置</h4>
+                        <div class="setting-item">
+                            <label for="languageSelect" class="language-setting">
+                                <div class="setting-info">
+                                    <span class="setting-title" data-i18n="language">语言</span>
+                                    <span class="setting-desc" data-i18n="language_desc">选择界面显示语言</span>
+                                </div>
+                                <select id="languageSelect" class="language-select">
+                                    <option value="ja" data-i18n="japanese">日本語</option>
+                                    <option value="en" data-i18n="english">English</option>
+                                    <option value="zh" data-i18n="chinese">中文</option>
+                                </select>
+                            </label>
+                        </div>
                         <div class="setting-item">
                             <label for="footerVisibility">
                                 <input type="checkbox" id="footerVisibility" checked>
                                 <span class="checkmark"></span>
                                 <div class="setting-info">
-                                    <span class="setting-title">显示底部信息栏</span>
-                                    <span class="setting-desc">控制页面底部视频信息的显示</span>
+                                    <span class="setting-title" data-i18n="show_footer">显示底部信息栏</span>
+                                    <span class="setting-desc" data-i18n="show_footer_desc">控制页面底部视频信息的显示</span>
                                 </div>
                             </label>
                         </div>
@@ -69,46 +82,42 @@
                                 <input type="checkbox" id="defaultFullscreen">
                                 <span class="checkmark"></span>
                                 <div class="setting-info">
-                                    <span class="setting-title">默认进入全屏模式</span>
-                                    <span class="setting-desc">页面加载时自动进入全屏播放</span>
+                                    <span class="setting-title" data-i18n="default_fullscreen">默认进入全屏模式</span>
+                                    <span class="setting-desc" data-i18n="default_fullscreen_desc">页面加载时自动进入全屏播放</span>
                                 </div>
                             </label>
                         </div>
                     </div>
                     
                     <div class="settings-section">
-                        <h4>播放设置</h4>
+                        <h4 data-i18n="playback_settings">播放设置</h4>
                         <div class="setting-item">
                             <label for="autoPlay">
                                 <input type="checkbox" id="autoPlay" checked>
                                 <span class="checkmark"></span>
                                 <div class="setting-info">
-                                    <span class="setting-title">自动播放</span>
-                                    <span class="setting-desc">选择频道后自动开始播放视频</span>
+                                    <span class="setting-title" data-i18n="auto_play">自动播放</span>
+                                    <span class="setting-desc" data-i18n="auto_play_desc">选择频道后自动开始播放视频</span>
                                 </div>
                             </label>
                         </div>
                         <div class="setting-item">
-                            <label for="randomPlay">
-                                <input type="checkbox" id="randomPlay">
+                            <label for="autoNext">
+                                <input type="checkbox" id="autoNext">
                                 <span class="checkmark"></span>
                                 <div class="setting-info">
-                                    <span class="setting-title">随机播放</span>
-                                    <span class="setting-desc">随机播放频道内的视频</span>
+                                    <span class="setting-title" data-i18n="auto_next">自动切换下一个</span>
+                                    <span class="setting-desc" data-i18n="auto_next_desc">当前视频结束后自动播放下一个</span>
                                 </div>
                             </label>
                         </div>
-                    </div>
-                    
-                    <div class="settings-section">
-                        <h4>主题设置</h4>
                         <div class="setting-item">
-                            <label for="darkMode">
-                                <input type="checkbox" id="darkMode" checked>
+                            <label for="loopPlayback">
+                                <input type="checkbox" id="loopPlayback">
                                 <span class="checkmark"></span>
                                 <div class="setting-info">
-                                    <span class="setting-title">深色模式</span>
-                                    <span class="setting-desc">使用深色主题界面</span>
+                                    <span class="setting-title" data-i18n="loop_playback">循环播放</span>
+                                    <span class="setting-desc" data-i18n="loop_playback_desc">播放列表结束后重新开始</span>
                                 </div>
                             </label>
                         </div>
@@ -117,22 +126,36 @@
                                 <input type="checkbox" id="compactMode">
                                 <span class="checkmark"></span>
                                 <div class="setting-info">
-                                    <span class="setting-title">紧凑模式</span>
-                                    <span class="setting-desc">减少界面间距，显示更多内容</span>
+                                    <span class="setting-title" data-i18n="compact_mode">紧凑模式</span>
+                                    <span class="setting-desc" data-i18n="compact_mode_desc">减少界面间距，显示更多内容</span>
                                 </div>
                             </label>
                         </div>
                     </div>
                     
                     <div class="settings-section">
-                        <h4>高级设置</h4>
+                        <h4 data-i18n="theme_settings">主题设置</h4>
+                        <div class="setting-item">
+                            <label for="darkMode">
+                                <input type="checkbox" id="darkMode" checked>
+                                <span class="checkmark"></span>
+                                <div class="setting-info">
+                                    <span class="setting-title" data-i18n="dark_mode">深色模式</span>
+                                    <span class="setting-desc" data-i18n="dark_mode_desc">使用深色主题界面</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="settings-section">
+                        <h4 data-i18n="advanced_settings">高级设置</h4>
                         <div class="setting-item">
                             <label for="debugMode">
                                 <input type="checkbox" id="debugMode">
                                 <span class="checkmark"></span>
                                 <div class="setting-info">
-                                    <span class="setting-title">调试模式</span>
-                                    <span class="setting-desc">显示详细的调试信息</span>
+                                    <span class="setting-title" data-i18n="debug_mode">调试模式</span>
+                                    <span class="setting-desc" data-i18n="debug_mode_desc">显示详细的调试信息</span>
                                 </div>
                             </label>
                         </div>
@@ -141,8 +164,8 @@
                                 <input type="checkbox" id="cacheVideos" checked>
                                 <span class="checkmark"></span>
                                 <div class="setting-info">
-                                    <span class="setting-title">缓存视频信息</span>
-                                    <span class="setting-desc">缓存频道视频列表以提高加载速度</span>
+                                    <span class="setting-title" data-i18n="cache_videos">缓存视频信息</span>
+                                    <span class="setting-desc" data-i18n="cache_videos_desc">缓存频道视频列表以提高加载速度</span>
                                 </div>
                             </label>
                         </div>

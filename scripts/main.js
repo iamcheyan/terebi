@@ -1,8 +1,184 @@
+// 多语言配置
+const i18n = {
+    ja: {
+        // 设置面板
+        settings: '設定',
+        interface_settings: 'インターフェース設定',
+        playback_settings: '再生設定',
+        advanced_settings: '詳細設定',
+        
+        // 语言设置
+        language: '言語',
+        language_desc: 'インターフェースの表示言語を選択',
+        japanese: '日本語',
+        english: 'English',
+        chinese: '中文',
+        
+        // 界面设置
+        show_footer: '下部情報バーを表示',
+        show_footer_desc: 'ページ下部の動画情報の表示を制御',
+        default_fullscreen: 'デフォルトでフルスクリーンモード',
+        default_fullscreen_desc: 'ページ読み込み時に自動的にフルスクリーン再生',
+        
+        // 播放设置
+        auto_play: '自動再生',
+        auto_play_desc: 'チャンネル選択後に自動的に動画再生を開始',
+        auto_next: '自動的に次へ',
+        auto_next_desc: '現在の動画終了後に自動的に次を再生',
+        loop_playback: 'ループ再生',
+        loop_playback_desc: 'プレイリスト終了後に最初から再開',
+        compact_mode: 'コンパクトモード',
+        compact_mode_desc: 'インターフェースの間隔を減らし、より多くのコンテンツを表示',
+        
+        // 高级设置
+        debug_mode: 'デバッグモード',
+        debug_mode_desc: '詳細なデバッグ情報を表示',
+        cache_videos: '動画をキャッシュ',
+        cache_videos_desc: 'チャンネル動画リストをキャッシュして読み込み速度を向上'
+    },
+    en: {
+        // 设置面板
+        settings: 'Settings',
+        interface_settings: 'Interface Settings',
+        playback_settings: 'Playback Settings',
+        advanced_settings: 'Advanced Settings',
+        
+        // 语言设置
+        language: 'Language',
+        language_desc: 'Select interface display language',
+        japanese: '日本語',
+        english: 'English',
+        chinese: '中文',
+        
+        // 界面设置
+        show_footer: 'Show Bottom Info Bar',
+        show_footer_desc: 'Control the display of video information at the bottom of the page',
+        default_fullscreen: 'Default Fullscreen Mode',
+        default_fullscreen_desc: 'Automatically enter fullscreen playback when page loads',
+        
+        // 播放设置
+        auto_play: 'Auto Play',
+        auto_play_desc: 'Automatically start video playback after selecting a channel',
+        auto_next: 'Auto Next',
+        auto_next_desc: 'Automatically play the next video after current one ends',
+        loop_playback: 'Loop Playback',
+        loop_playback_desc: 'Restart from the beginning after playlist ends',
+        compact_mode: 'Compact Mode',
+        compact_mode_desc: 'Reduce interface spacing to display more content',
+        
+        // 高级设置
+        debug_mode: 'Debug Mode',
+        debug_mode_desc: 'Display detailed debugging information',
+        cache_videos: 'Cache Videos',
+        cache_videos_desc: 'Cache channel video lists to improve loading speed'
+    },
+    zh: {
+        // 设置面板
+        settings: '设置',
+        interface_settings: '界面设置',
+        playback_settings: '播放设置',
+        advanced_settings: '高级设置',
+        
+        // 语言设置
+        language: '语言',
+        language_desc: '选择界面显示语言',
+        japanese: '日本語',
+        english: 'English',
+        chinese: '中文',
+        
+        // 界面设置
+        show_footer: '显示底部信息栏',
+        show_footer_desc: '控制页面底部视频信息的显示',
+        default_fullscreen: '默认进入全屏模式',
+        default_fullscreen_desc: '页面加载时自动进入全屏播放',
+        
+        // 播放设置
+        auto_play: '自动播放',
+        auto_play_desc: '选择频道后自动开始播放视频',
+        auto_next: '自动切换下一个',
+        auto_next_desc: '当前视频结束后自动播放下一个',
+        loop_playback: '循环播放',
+        loop_playback_desc: '播放列表结束后重新开始',
+        compact_mode: '紧凑模式',
+        compact_mode_desc: '减少界面间距，显示更多内容',
+        
+        // 高级设置
+        debug_mode: '调试模式',
+        debug_mode_desc: '显示详细的调试信息',
+        cache_videos: '缓存视频',
+        cache_videos_desc: '缓存频道视频列表以提高加载速度'
+    }
+};
+
+// 当前语言
+let currentLanguage = 'ja'; // 默认日语
+
+// 更新页面文本
+function updatePageText() {
+    const elements = document.querySelectorAll('[data-i18n]');
+    elements.forEach(element => {
+        const key = element.getAttribute('data-i18n');
+        if (i18n[currentLanguage] && i18n[currentLanguage][key]) {
+            element.textContent = i18n[currentLanguage][key];
+        }
+    });
+}
+
+// 设置语言
+function setLanguage(lang) {
+    if (i18n[lang]) {
+        currentLanguage = lang;
+        localStorage.setItem('language', lang);
+        updatePageText();
+        
+        // 更新语言选择器的值
+        const languageSelect = document.getElementById('languageSelect');
+        if (languageSelect) {
+            languageSelect.value = lang;
+        }
+        
+        console.log('语言已切换到:', lang);
+    }
+}
+
+// 初始化语言
+function initLanguage() {
+    // 从本地存储加载语言设置
+    const savedLanguage = localStorage.getItem('language');
+    if (savedLanguage && i18n[savedLanguage]) {
+        currentLanguage = savedLanguage;
+    }
+    
+    // 设置语言选择器的初始值
+    const languageSelect = document.getElementById('languageSelect');
+    if (languageSelect) {
+        languageSelect.value = currentLanguage;
+        
+        // 添加语言切换事件监听器
+        languageSelect.addEventListener('change', function() {
+            setLanguage(this.value);
+        });
+    }
+    
+    // 更新页面文本
+    updatePageText();
+    
+    console.log('语言初始化完成，当前语言:', currentLanguage);
+}
+
 // 全局变量定义
 let statusElement, videoContainer, playlistInfoElement, channelSelector, channelCategories, playerContainer;
 let player;
 let playerReady = false;
 let pendingVideoId = null;
+
+const THEME_STORAGE_KEY = 'preferredTheme';
+const THEMES = { DARK: 'dark', LIGHT: 'light' };
+let darkModeToggle = null;
+let hasStoredThemePreference = false;
+let systemThemeMediaQuery = null;
+let themeInitialized = false;
+let activeTheme = THEMES.DARK;
 
 // 检测是否为移动设备
 function isMobileDevice() {
@@ -36,6 +212,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // 初始化设置功能
     initSettings();
+    
+    // 初始化语言设置
+    initLanguage();
     
     // // 初始化频道列表折叠/展开按钮
     // initToggleChannelList();
@@ -951,6 +1130,98 @@ document.addEventListener('DOMContentLoaded', function() {
 // 添加调试信息
 console.log('DOMContentLoaded イベントリスナーが追加されました');
 
+function prefersDarkMode() {
+    if (typeof window === 'undefined' || !window.matchMedia) {
+        return true;
+    }
+    if (!systemThemeMediaQuery) {
+        systemThemeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    }
+    return systemThemeMediaQuery.matches;
+}
+
+function setTheme(theme, persist = false) {
+    const body = document.body;
+    if (!body) {
+        return;
+    }
+
+    const resolvedTheme = theme === THEMES.LIGHT ? THEMES.LIGHT : THEMES.DARK;
+    const isDark = resolvedTheme === THEMES.DARK;
+    activeTheme = resolvedTheme;
+
+    body.classList.remove('theme-dark', 'theme-light');
+    body.classList.add(isDark ? 'theme-dark' : 'theme-light');
+
+    const root = document.documentElement;
+    if (root) {
+        root.dataset.theme = resolvedTheme;
+        root.style.colorScheme = isDark ? 'dark' : 'light';
+    }
+
+    if (darkModeToggle) {
+        darkModeToggle.checked = isDark;
+    }
+
+    if (persist) {
+        try {
+            localStorage.setItem(THEME_STORAGE_KEY, resolvedTheme);
+            hasStoredThemePreference = true;
+        } catch (error) {
+            console.warn('无法保存主题设置到本地存储:', error);
+        }
+    }
+}
+
+function bindSystemThemeListener() {
+    if (typeof window === 'undefined' || !window.matchMedia) {
+        return;
+    }
+
+    if (!systemThemeMediaQuery) {
+        systemThemeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    }
+
+    const handler = (event) => {
+        if (!hasStoredThemePreference) {
+            setTheme(event.matches ? THEMES.DARK : THEMES.LIGHT);
+        }
+    };
+
+    try {
+        systemThemeMediaQuery.addEventListener('change', handler);
+    } catch (error) {
+        if (typeof systemThemeMediaQuery.addListener === 'function') {
+            systemThemeMediaQuery.addListener(handler);
+        }
+    }
+}
+
+function initializeTheme() {
+    if (themeInitialized) {
+        setTheme(activeTheme);
+        return;
+    }
+
+    let storedTheme = null;
+    try {
+        storedTheme = localStorage.getItem(THEME_STORAGE_KEY);
+    } catch (error) {
+        console.warn('无法从本地存储读取主题设置:', error);
+    }
+
+    if (storedTheme === THEMES.DARK || storedTheme === THEMES.LIGHT) {
+        hasStoredThemePreference = true;
+        setTheme(storedTheme);
+    } else {
+        hasStoredThemePreference = false;
+        setTheme(prefersDarkMode() ? THEMES.DARK : THEMES.LIGHT);
+    }
+
+    bindSystemThemeListener();
+    themeInitialized = true;
+}
+
 // 初始化设置功能
 function initSettings() {
     console.log('开始初始化设置功能...');
@@ -958,16 +1229,20 @@ function initSettings() {
     const settingsButton = document.getElementById('settingsButton');
     const footerVisibility = document.getElementById('footerVisibility');
     const defaultFullscreen = document.getElementById('defaultFullscreen');
+    const languageSelect = document.getElementById('languageSelect');
+    darkModeToggle = document.getElementById('darkMode');
     const footer = document.querySelector('.footer');
     
     console.log('设置元素检查:', {
         settingsButton: !!settingsButton,
         footerVisibility: !!footerVisibility,
         defaultFullscreen: !!defaultFullscreen,
+        languageSelect: !!languageSelect,
+        darkModeToggle: !!darkModeToggle,
         footer: !!footer
     });
     
-    if (!settingsButton || !footerVisibility || !defaultFullscreen || !footer) {
+    if (!settingsButton || !footerVisibility || !defaultFullscreen || !languageSelect || !footer || !darkModeToggle) {
         console.error('设置相关元素未找到，将在500ms后重试');
         setTimeout(initSettings, 500);
         return;
@@ -975,6 +1250,14 @@ function initSettings() {
     
     // 从本地存储加载设置
     loadSettings();
+
+    if (darkModeToggle && !darkModeToggle.dataset.themeListenerBound) {
+        darkModeToggle.addEventListener('change', function() {
+            const theme = this.checked ? THEMES.DARK : THEMES.LIGHT;
+            setTheme(theme, true);
+        });
+        darkModeToggle.dataset.themeListenerBound = 'true';
+    }
     
     // 设置按钮点击事件 - 显示/隐藏设置面板
     settingsButton.addEventListener('click', function(e) {
@@ -999,11 +1282,17 @@ function initSettings() {
     function closeSettingsPanel() {
         const panel = document.getElementById('settingsPanel');
         const overlay = document.getElementById('settingsOverlay');
+        const playerContainer = document.getElementById('playerContainer');
         
         if (panel && overlay) {
             panel.classList.remove('show');
             overlay.classList.remove('show');
             document.body.style.overflow = '';
+            
+            // 移除播放器容器的设置面板打开状态class
+            if (playerContainer) {
+                playerContainer.classList.remove('settings-open');
+            }
         }
     }
     
@@ -1011,11 +1300,17 @@ function initSettings() {
     function openSettingsPanel() {
         const panel = document.getElementById('settingsPanel');
         const overlay = document.getElementById('settingsOverlay');
+        const playerContainer = document.getElementById('playerContainer');
         
         if (panel && overlay) {
             panel.classList.add('show');
             overlay.classList.add('show');
             document.body.style.overflow = 'hidden';
+            
+            // 添加播放器容器的设置面板打开状态class
+            if (playerContainer) {
+                playerContainer.classList.add('settings-open');
+            }
         }
     }
     
@@ -1064,14 +1359,24 @@ function initSettings() {
         console.log('默认全屏状态已更新:', isDefaultFullscreen ? '启用' : '禁用');
     });
     
+    // 语言切换设置
+    languageSelect.addEventListener('change', function() {
+        const selectedLanguage = this.value;
+        setLanguage(selectedLanguage);
+        console.log('语言已切换到:', selectedLanguage);
+    });
+    
     console.log('设置功能初始化完成');
 }
 
 // 加载设置
 function loadSettings() {
+    initializeTheme();
+
     const footer = document.querySelector('.footer');
     const footerVisibility = document.getElementById('footerVisibility');
     const defaultFullscreen = document.getElementById('defaultFullscreen');
+    const languageSelect = document.getElementById('languageSelect');
     
     // 加载Footer显示设置
     const footerVisible = localStorage.getItem('footerVisibility');
@@ -1096,6 +1401,13 @@ function loadSettings() {
         const isDefaultFullscreen = defaultFullscreenSetting === 'true';
         defaultFullscreen.checked = isDefaultFullscreen;
         console.log('已恢复默认全屏设置:', isDefaultFullscreen ? '启用' : '禁用');
+    }
+    
+    // 加载语言设置
+    const savedLanguage = localStorage.getItem('language');
+    if (savedLanguage && languageSelect) {
+        languageSelect.value = savedLanguage;
+        console.log('已恢复语言设置:', savedLanguage);
     }
 }
 
