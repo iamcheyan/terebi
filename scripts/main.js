@@ -34,6 +34,9 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
     }
     
+    // 初始化设置功能
+    initSettings();
+    
     // // 初始化频道列表折叠/展开按钮
     // initToggleChannelList();
     
@@ -917,11 +920,17 @@ function toggleFullscreen() {
 document.addEventListener('DOMContentLoaded', function() {
     const fullscreenButton = document.getElementById('fullscreenButton');
     if (fullscreenButton) {
-        // 检查本地存储中的全屏状态
+        // 检查默认全屏设置
+        const defaultFullscreenSetting = localStorage.getItem('defaultFullscreen') === 'true';
         const isFullscreen = localStorage.getItem('isFullscreen') === 'true';
         
+        // 如果设置了默认全屏，则进入全屏模式
+        if (defaultFullscreenSetting && !isFullscreen) {
+            toggleFullscreen();
+            localStorage.setItem('isFullscreen', 'true');
+        }
         // 如果上次是全屏模式，则恢复全屏状态
-        if (isFullscreen) {
+        else if (isFullscreen) {
             toggleFullscreen();
         }
         
@@ -941,6 +950,147 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // 添加调试信息
 console.log('DOMContentLoaded イベントリスナーが追加されました');
+
+// 初始化设置功能
+function initSettings() {
+    console.log('开始初始化设置功能...');
+    
+    const settingsButton = document.getElementById('settingsButton');
+    const settingsModal = document.getElementById('settingsModal');
+    const closeSettings = document.getElementById('closeSettings');
+    const footerVisibility = document.getElementById('footerVisibility');
+    const defaultFullscreen = document.getElementById('defaultFullscreen');
+    const footer = document.querySelector('.footer');
+    
+    console.log('设置元素检查:', {
+        settingsButton: !!settingsButton,
+        settingsModal: !!settingsModal,
+        closeSettings: !!closeSettings,
+        footerVisibility: !!footerVisibility,
+        defaultFullscreen: !!defaultFullscreen,
+        footer: !!footer
+    });
+    
+    if (!settingsButton || !settingsModal || !closeSettings || !footerVisibility || !defaultFullscreen || !footer) {
+        console.error('设置相关元素未找到，将在500ms后重试');
+        setTimeout(initSettings, 500);
+        return;
+    }
+    
+    // 从本地存储加载设置
+    loadSettings();
+    
+    // 设置按钮点击事件
+    settingsButton.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        console.log('设置按钮被点击');
+        settingsModal.style.display = 'block';
+        document.body.style.overflow = 'hidden'; // 防止背景滚动
+    });
+    
+    // 添加额外的测试事件监听
+    settingsButton.addEventListener('mousedown', function() {
+        console.log('设置按钮鼠标按下');
+    });
+    
+    settingsButton.addEventListener('mouseup', function() {
+        console.log('设置按钮鼠标释放');
+    });
+    
+    // 关闭按钮点击事件
+    closeSettings.addEventListener('click', function(e) {
+        e.preventDefault();
+        console.log('关闭按钮被点击');
+        settingsModal.style.display = 'none';
+        document.body.style.overflow = ''; // 恢复背景滚动
+    });
+    
+    // 点击模态框背景关闭
+    settingsModal.addEventListener('click', function(e) {
+        if (e.target === settingsModal) {
+            console.log('点击背景关闭设置');
+            settingsModal.style.display = 'none';
+            document.body.style.overflow = '';
+        }
+    });
+    
+    // ESC键关闭设置
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && settingsModal.style.display === 'block') {
+            console.log('ESC键关闭设置');
+            settingsModal.style.display = 'none';
+            document.body.style.overflow = '';
+        }
+    });
+    
+    // Footer显示/隐藏设置
+    footerVisibility.addEventListener('change', function() {
+        const isVisible = this.checked;
+        footer.style.display = isVisible ? 'block' : 'none';
+        
+        // 添加或移除body的CSS类来控制播放器样式
+        if (isVisible) {
+            document.body.classList.remove('footer-hidden');
+        } else {
+            document.body.classList.add('footer-hidden');
+        }
+        
+        localStorage.setItem('footerVisibility', isVisible.toString());
+        console.log('Footer显示状态已更新:', isVisible ? '显示' : '隐藏');
+    });
+    
+    // 默认全屏设置
+    defaultFullscreen.addEventListener('change', function() {
+        const isDefaultFullscreen = this.checked;
+        localStorage.setItem('defaultFullscreen', isDefaultFullscreen.toString());
+        console.log('默认全屏状态已更新:', isDefaultFullscreen ? '启用' : '禁用');
+    });
+    
+    console.log('设置功能初始化完成');
+    
+    // 测试按钮是否可点击
+    setTimeout(() => {
+        console.log('测试设置按钮点击...');
+        settingsButton.click();
+        setTimeout(() => {
+            settingsModal.style.display = 'none';
+            document.body.style.overflow = '';
+        }, 1000);
+    }, 2000);
+}
+
+// 加载设置
+function loadSettings() {
+    const footer = document.querySelector('.footer');
+    const footerVisibility = document.getElementById('footerVisibility');
+    const defaultFullscreen = document.getElementById('defaultFullscreen');
+    
+    // 加载Footer显示设置
+    const footerVisible = localStorage.getItem('footerVisibility');
+    if (footerVisible !== null) {
+        const isVisible = footerVisible === 'true';
+        footer.style.display = isVisible ? 'block' : 'none';
+        footerVisibility.checked = isVisible;
+        
+        // 根据设置添加或移除CSS类
+        if (isVisible) {
+            document.body.classList.remove('footer-hidden');
+        } else {
+            document.body.classList.add('footer-hidden');
+        }
+        
+        console.log('已恢复Footer显示状态:', isVisible ? '显示' : '隐藏');
+    }
+    
+    // 加载默认全屏设置
+    const defaultFullscreenSetting = localStorage.getItem('defaultFullscreen');
+    if (defaultFullscreenSetting !== null) {
+        const isDefaultFullscreen = defaultFullscreenSetting === 'true';
+        defaultFullscreen.checked = isDefaultFullscreen;
+        console.log('已恢复默认全屏设置:', isDefaultFullscreen ? '启用' : '禁用');
+    }
+}
 
 // 修改原有的filterChannels函数，添加高亮功能
 function filterChannels() {

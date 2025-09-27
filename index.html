@@ -33,6 +33,14 @@
                 <img src="img/svg/github.svg" alt="github" width="32" height="32">
             </a>
         </div>
+        <div class="settings">
+            <button id="settingsButton" title="设置">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="3"></circle>
+                    <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1 1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+                </svg>
+            </button>
+        </div>
     </div>
 </div>
                 <div class="left-column">
@@ -101,6 +109,31 @@
         <img width="24" height="24" src="img/svg/fullscreen.svg" alt="fullscreen">
     </div>
 
+    <!-- 设置浮动层 -->
+    <div id="settingsModal" class="settings-modal">
+        <div class="settings-content">
+            <div class="settings-header">
+                <h3>设置</h3>
+                <button id="closeSettings" class="close-button">&times;</button>
+            </div>
+            <div class="settings-body">
+                <div class="setting-item">
+                    <label for="footerVisibility">
+                        <input type="checkbox" id="footerVisibility" checked>
+                        <span class="checkmark"></span>
+                        显示底部信息栏
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label for="defaultFullscreen">
+                        <input type="checkbox" id="defaultFullscreen">
+                        <span class="checkmark"></span>
+                        默认进入全屏模式
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
     
     <!-- 频道列表折叠/展开按钮（保留为注释，后续如需启用可改为 HTML 注释） -->
     <!--
