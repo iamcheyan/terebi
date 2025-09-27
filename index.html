@@ -7,7 +7,28 @@
 
     <!-- 添加 favicon -->
     <link rel="icon" href="img/svg/logo.svg" type="image/svg+xml">
-    
+    <script>
+        (function() {
+            var storageKey = 'preferredTheme';
+            var theme = 'dark';
+            try {
+                var storedTheme = localStorage.getItem(storageKey);
+                if (storedTheme === 'light' || storedTheme === 'dark') {
+                    theme = storedTheme;
+                } else if (window.matchMedia) {
+                    theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+                }
+            } catch (error) {
+                console.warn('无法从本地存储读取主题偏好:', error);
+            }
+
+            var root = document.documentElement;
+            root.dataset.theme = theme;
+            root.classList.add('theme-' + theme);
+            root.style.colorScheme = theme;
+        })();
+    </script>
+
     <!-- 基础样式 - 所有设备都加载 -->
     <link rel="stylesheet" href="styles/main.css">
     
@@ -24,7 +45,7 @@
     </div>
         <div class="link-box">
         <div class="cheyan">
-            <a href="https://x.com/iamcheyan" target="_blank">
+            <a href="https://iamcheyan.com" target="_blank">
                <img src="img/svg/cheyan.jpg" alt="cheyan" width="32" height="32">
             </a>
         </div>
@@ -53,6 +74,20 @@
                 
                 <div class="settings-content">
                     <div class="settings-section">
+                        <h4 data-i18n="theme_settings">主题设置</h4>
+                        <div class="setting-item">
+                            <label for="darkMode">
+                                <input type="checkbox" id="darkMode" checked>
+                                <span class="checkmark"></span>
+                                <div class="setting-info">
+                                    <span class="setting-title" data-i18n="dark_mode">深色模式</span>
+                                    <span class="setting-desc" data-i18n="dark_mode_desc">使用深色主题界面</span>
+                                </div>
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <div class="settings-section">
                         <h4 data-i18n="interface_settings">界面设置</h4>
                         <div class="setting-item">
                             <label for="languageSelect" class="language-setting">
@@ -69,7 +104,7 @@
                         </div>
                         <div class="setting-item">
                             <label for="footerVisibility">
-                                <input type="checkbox" id="footerVisibility" checked>
+                                <input type="checkbox" id="footerVisibility">
                                 <span class="checkmark"></span>
                                 <div class="setting-info">
                                     <span class="setting-title" data-i18n="show_footer">显示底部信息栏</span>
@@ -134,20 +169,6 @@
                     </div>
                     
                     <div class="settings-section">
-                        <h4 data-i18n="theme_settings">主题设置</h4>
-                        <div class="setting-item">
-                            <label for="darkMode">
-                                <input type="checkbox" id="darkMode" checked>
-                                <span class="checkmark"></span>
-                                <div class="setting-info">
-                                    <span class="setting-title" data-i18n="dark_mode">深色模式</span>
-                                    <span class="setting-desc" data-i18n="dark_mode_desc">使用深色主题界面</span>
-                                </div>
-                            </label>
-                        </div>
-                    </div>
-                    
-                    <div class="settings-section">
                         <h4 data-i18n="advanced_settings">高级设置</h4>
                         <div class="setting-item">
                             <label for="debugMode">
@@ -172,11 +193,6 @@
                     </div>
                 </div>
                 
-                <div class="settings-footer">
-                    <button id="resetSettings" class="reset-btn">重置设置</button>
-                    <button id="exportSettings" class="export-btn">导出设置</button>
-                    <button id="importSettings" class="import-btn">导入设置</button>
-                </div>
             </div>
         </div>
     </div>
@@ -246,9 +262,18 @@
         </div>
     </div>
     
-    <div id="fullscreenButton" class="fullscreen-button">
-        <img width="24" height="24" src="img/svg/fullscreen.svg" alt="fullscreen">
-    </div>
+    <button
+        id="fullscreenButton"
+        class="fullscreen-button"
+        type="button"
+        aria-label="进入全屏"
+        aria-pressed="false"
+        data-icon-full="img/svg/fullscreen.svg"
+        data-icon-compact="img/svg/fullscreen-exit.svg"
+        data-label-enter="进入全屏"
+        data-label-exit="退出全屏">
+        <img width="24" height="24" src="img/svg/fullscreen.svg" alt="" aria-hidden="true">
+    </button>
 
     <!-- 设置浮动层 -->
     <div id="settingsModal" class="settings-modal">

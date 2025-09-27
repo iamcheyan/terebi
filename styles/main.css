@@ -37,6 +37,7 @@
     --color-button-hover-bg: #444;
 }
 
+:root[data-theme='light'],
 body.theme-light {
     --color-body-bg: #f4f6fb;
     --color-text-primary: #1b2133;
@@ -75,6 +76,7 @@ body.theme-light {
     --color-button-hover-bg: rgba(61, 124, 244, 0.12);
 }
 
+:root[data-theme='dark'],
 body.theme-dark {
     --color-body-bg: #303030;
     --color-text-primary: #f0f0f0;
@@ -137,6 +139,16 @@ body {
     padding: 0 10px;
 }
 
+.container.is-fullscreen {
+    max-width: none;
+    width: 100%;
+    padding: 0;
+}
+
+/* body.fullscreen-active .main-content {
+    gap: 28px;
+} */
+
 .page-header {
     display: flex;
     justify-content: space-between;
@@ -187,9 +199,10 @@ body {
     border-radius: 8px 8px 0 0;
     overflow: hidden;
     padding: 0;
-    height: calc(100vh - 150px); /* 调整高度，为footer留出空间 */
+    height: calc(100vh - 138px); /* 调整高度，为footer留出空间 */
     display: flex;
     flex-direction: column;
+    margin-left: 10px;
     /* margin-top: 5px; */
 }
 
@@ -236,7 +249,6 @@ body {
 /* 当footer隐藏时，调整播放器样式以添加上下黑边 */
 .footer-hidden #player {
     object-fit: cover; /* 改为cover模式，填满容器 */
-    transform: scale(0.8); /* 缩小视频，创造黑边效果 */
 }
 
 /* 当footer隐藏时，调整播放器容器 */
@@ -245,6 +257,11 @@ body {
     align-items: center;
     justify-content: center;
     background-color: var(--color-surface-primary); /* 确保背景是黑色 */
+}
+
+.footer-hidden .left-column {
+    height: calc(100vh - 60px);
+    border-radius: 8px;
 }
 
 .player-loading {
@@ -754,28 +771,113 @@ body.theme-light #settingsButton svg {
     filter: drop-shadow(0 2px 4px rgba(40, 62, 110, 0.35));
 }
 
-/* 按钮 */
+/* GitHub图标主题适配 */
+.link-box .git img {
+    transition: filter 0.3s ease;
+}
+
+body.theme-light .link-box .git img {
+    filter: brightness(0) saturate(100%) invert(20%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(20%) contrast(100%);
+}
+
+body.theme-dark .link-box .git img {
+    filter: brightness(0) saturate(100%) invert(100%);
+}
+
+/* 全屏按钮图标主题适配 */
+.fullscreen-button img {
+    transition: filter 0.3s ease;
+}
+
+body.theme-light .fullscreen-button img {
+    filter: brightness(0) saturate(100%) invert(20%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(20%) contrast(100%);
+}
+
+body.theme-dark .fullscreen-button img {
+    filter: brightness(0) saturate(100%) invert(100%);
+}
+
+/* 浮动操作按钮 */
 .fullscreen-button,
 .toggle-channel-list {
     position: fixed;
     bottom: 20px;
-    right: 20px;
-    width: 40px;
-    height: 40px;
-    background-color: var(--color-accent);
+    width: 44px;
+    height: 44px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-    z-index: 100;
-    transition: all 0.3s ease;
+    border: none;
+    background: var(--color-accent);
+    color: var(--color-accent-contrast);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.4);
+    z-index: 120;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, background 0.25s ease, color 0.25s ease;
 }
 
+.fullscreen-button {
+    right: 20px;
+}
+
+.toggle-channel-list {
+    right: 20px;
+}
+
+.fullscreen-button:hover,
 .toggle-channel-list:hover {
-    background-color: var(--color-accent-hover);
+    transform: translateY(-2px) scale(1.05);
+    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.45);
+    background: var(--color-accent-hover);
+}
+
+.fullscreen-button:active,
+.toggle-channel-list:active {
+    transform: translateY(0) scale(0.97);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.38);
+}
+
+.fullscreen-button:focus-visible,
+.toggle-channel-list:focus-visible {
+    outline: 3px solid rgba(255, 255, 255, 0.3);
+    outline-offset: 3px;
+}
+
+.fullscreen-button img {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4));
+    pointer-events: none;
+}
+
+.fullscreen-button.is-active {
+    background: linear-gradient(140deg, var(--color-accent-hover), var(--color-accent));
+    box-shadow: 0 18px 36px rgba(0, 0, 0, 0.5);
+}
+
+.fullscreen-button.is-active img {
     transform: scale(1.05);
+}
+
+body.theme-light .fullscreen-button {
+    background: linear-gradient(155deg, rgba(103, 141, 242, 0.95), rgba(77, 115, 230, 0.95));
+    box-shadow: 0 12px 26px rgba(66, 98, 182, 0.35);
+}
+
+body.theme-light .fullscreen-button:hover {
+    background: linear-gradient(155deg, rgba(122, 158, 255, 0.98), rgba(94, 133, 244, 0.98));
+    box-shadow: 0 20px 36px rgba(60, 92, 176, 0.32);
+}
+
+body.theme-light .fullscreen-button.is-active {
+    background: linear-gradient(150deg, rgba(90, 126, 238, 0.98), rgba(66, 105, 225, 0.98));
+    box-shadow: 0 22px 40px rgba(56, 86, 190, 0.35);
+}
+
+body.theme-light .fullscreen-button:focus-visible {
+    outline: 3px solid rgba(120, 150, 255, 0.55);
 }
 
 .toggle-channel-list svg {
@@ -974,11 +1076,11 @@ body.theme-light #settingsButton svg {
     transform: translate(-50%, -50%);
     z-index: 10000;
     width: 90%;
-    max-width: 600px;
-    max-height: 80vh;
+    max-width: 480px;
+    max-height: 70vh;
     background: linear-gradient(135deg, var(--color-gradient-soft-start) 0%, var(--color-gradient-soft-end) 100%);
-    border-radius: 20px;
-    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.8);
+    border-radius: 16px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
     border: 1px solid var(--color-panel-border);
     overflow: hidden;
     backdrop-filter: blur(20px);
@@ -1038,7 +1140,7 @@ body.theme-light #settingsButton svg {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 24px 28px;
+    padding: 16px 20px;
     background: linear-gradient(135deg, var(--color-gradient-strong-start) 0%, var(--color-gradient-strong-end) 100%);
     border-bottom: 1px solid var(--color-panel-border);
 }
@@ -1072,8 +1174,8 @@ body.theme-light #settingsButton svg {
 
 /* 设置面板内容 */
 .settings-content {
-    padding: 24px 28px;
-    max-height: 50vh;
+    padding: 16px 20px;
+    max-height: 55vh;
     overflow-y: auto;
 }
 
@@ -1096,7 +1198,7 @@ body.theme-light #settingsButton svg {
 
 /* 设置分组 */
 .settings-section {
-    margin-bottom: 32px;
+    margin-bottom: 20px;
 }
 
 .settings-section:last-child {
@@ -1114,10 +1216,10 @@ body.theme-light #settingsButton svg {
 
 /* 设置项 */
 .setting-item {
-    margin-bottom: 12px;
-    padding: 16px;
+    margin-bottom: 8px;
+    padding: 12px;
     background-color: rgba(255, 255, 255, 0.02);
-    border-radius: 12px;
+    border-radius: 8px;
     border: 1px solid rgba(255, 255, 255, 0.05);
     transition: all 0.3s ease;
 }
@@ -1254,56 +1356,6 @@ body.theme-light #settingsButton svg {
     margin-right: 16px;
 }
 
-/* 设置面板底部 */
-.settings-footer {
-    padding: 20px 28px;
-    background: linear-gradient(135deg, var(--color-gradient-strong-start) 0%, var(--color-gradient-strong-end) 100%);
-    border-top: 1px solid var(--color-panel-border);
-    display: flex;
-    gap: 12px;
-    justify-content: flex-end;
-}
-
-.reset-btn, .export-btn, .import-btn {
-    padding: 10px 20px;
-    border: none;
-    border-radius: 8px;
-    font-size: 14px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    min-width: 80px;
-}
-
-.reset-btn {
-    background-color: var(--color-danger);
-    color: var(--color-button-text);
-}
-
-.reset-btn:hover {
-    background-color: var(--color-danger-hover);
-    transform: translateY(-1px);
-}
-
-.export-btn {
-    background-color: var(--color-success);
-    color: var(--color-button-text);
-}
-
-.export-btn:hover {
-    background-color: var(--color-success-hover);
-    transform: translateY(-1px);
-}
-
-.import-btn {
-    background-color: var(--color-accent);
-    color: var(--color-accent-contrast);
-}
-
-.import-btn:hover {
-    background-color: var(--color-accent-hover);
-    transform: translateY(-1px);
-}
 
 /* 设置面板打开时的播放器样式 */
 #playerContainer.settings-open {
@@ -1319,24 +1371,15 @@ body.theme-light #settingsButton svg {
 @media (max-width: 768px) {
     .settings-panel {
         width: 95%;
-        max-height: 85vh;
+        max-height: 80vh;
     }
     
     .settings-header {
-        padding: 20px 20px;
+        padding: 12px 16px;
     }
     
     .settings-content {
-        padding: 20px;
-    }
-    
-    .settings-footer {
-        padding: 16px 20px;
-        flex-direction: column;
-    }
-    
-    .reset-btn, .export-btn, .import-btn {
-        width: 100%;
+        padding: 12px 16px;
     }
 }
 

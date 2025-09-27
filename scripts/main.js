@@ -1075,53 +1075,93 @@ function shuffleArray(array) {
     }
     return shuffled;
 }
-// 全屏切换功能
-function toggleFullscreen() {
-    const container = document.querySelector('.container');
-    const footer = document.querySelector('.footer');
-    
-    if (container.style.maxWidth === 'none') {
-        // 恢复正常宽度
-        container.style.maxWidth = '1200px';
-        // 显示页脚
-        // if (footer) footer.style.display = '';
-        console.log('已退出全屏模式');
-    } else {
-        // 进入全屏模式
-        container.style.maxWidth = 'none';
-        // 隐藏页脚
-        // if (footer) footer.style.display = 'none';
-        console.log('已进入全屏模式');
+function updateFullscreenButtonVisual(button, isActive) {
+    if (!button) {
+        return;
     }
+
+    const iconElement = button.querySelector('img');
+    const iconFull = button.dataset.iconFull;
+    const iconCompact = button.dataset.iconCompact || iconFull;
+    const enterLabel = button.dataset.labelEnter || '进入全屏';
+    const exitLabel = button.dataset.labelExit || '退出全屏';
+
+    button.classList.toggle('is-active', isActive);
+    button.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+    button.setAttribute('aria-label', isActive ? exitLabel : enterLabel);
+    button.title = isActive ? exitLabel : enterLabel;
+
+    if (iconElement && iconFull) {
+        const targetSrc = isActive ? iconCompact : iconFull;
+        if (targetSrc && iconElement.getAttribute('src') !== targetSrc) {
+            iconElement.setAttribute('src', targetSrc);
+        }
+    }
+}
+
+function setFullscreenMode(isActive, options = {}) {
+    const container = document.querySelector('.container');
+    if (!container) {
+        console.warn('未找到容器元素，无法切换全屏布局');
+        return;
+    }
+
+    const { button = document.getElementById('fullscreenButton'), persist = true } = options;
+
+    container.classList.toggle('is-fullscreen', isActive);
+    container.style.maxWidth = isActive ? 'none' : '';
+    document.body.classList.toggle('fullscreen-active', isActive);
+
+    updateFullscreenButtonVisual(button, isActive);
+
+    if (persist) {
+        try {
+            localStorage.setItem('isFullscreen', isActive.toString());
+        } catch (error) {
+            console.warn('无法保存全屏偏好设置:', error);
+        }
+    }
+
+    console.log(isActive ? '已进入全屏模式' : '已退出全屏模式');
+}
+
+function toggleFullscreen(button, options = {}) {
+    const shouldActivate = !document.body.classList.contains('fullscreen-active');
+    setFullscreenMode(shouldActivate, { button: button || document.getElementById('fullscreenButton'), ...options });
 }
 
 // 添加全屏按钮点击事件监听
 document.addEventListener('DOMContentLoaded', function() {
     const fullscreenButton = document.getElementById('fullscreenButton');
     if (fullscreenButton) {
-        // 检查默认全屏设置
         const defaultFullscreenSetting = localStorage.getItem('defaultFullscreen') === 'true';
-        const isFullscreen = localStorage.getItem('isFullscreen') === 'true';
-        
-        // 如果设置了默认全屏，则进入全屏模式
-        if (defaultFullscreenSetting && !isFullscreen) {
-            toggleFullscreen();
-            localStorage.setItem('isFullscreen', 'true');
+        let storedPreference = null;
+
+        try {
+            storedPreference = localStorage.getItem('isFullscreen');
+        } catch (error) {
+            console.warn('无法读取全屏偏好设置:', error);
         }
-        // 如果上次是全屏模式，则恢复全屏状态
-        else if (isFullscreen) {
-            toggleFullscreen();
+
+        let initialState;
+        if (storedPreference === 'true') {
+            initialState = true;
+        } else if (storedPreference === 'false') {
+            initialState = false;
+        } else {
+            initialState = defaultFullscreenSetting;
         }
-        
-        // 添加点击事件，并在点击时保存状态到本地存储
-        fullscreenButton.addEventListener('click', function() {
-            toggleFullscreen();
-            // 切换并保存当前状态到本地存储
-            const currentState = localStorage.getItem('isFullscreen') === 'true';
-            localStorage.setItem('isFullscreen', (!currentState).toString());
+
+        setFullscreenMode(initialState, {
+            button: fullscreenButton,
+            persist: storedPreference !== null || defaultFullscreenSetting
         });
-        
-        console.log('全屏按钮事件监听已添加，并从本地缓存恢复状态');
+
+        fullscreenButton.addEventListener('click', function() {
+            toggleFullscreen(fullscreenButton, { persist: true });
+        });
+
+        console.log('全屏按钮事件监听已添加，并根据偏好初始化状态');
     } else {
         console.warn('未找到全屏按钮元素');
     }
@@ -1157,6 +1197,8 @@ function setTheme(theme, persist = false) {
     if (root) {
         root.dataset.theme = resolvedTheme;
         root.style.colorScheme = isDark ? 'dark' : 'light';
+        root.classList.remove('theme-dark', 'theme-light');
+        root.classList.add(isDark ? 'theme-dark' : 'theme-light');
     }
 
     if (darkModeToggle) {
@@ -1248,6 +1290,16 @@ function initSettings() {
         return;
     }
     
+    // 确保设置面板初始处于关闭状态
+    const initialPanel = document.getElementById('settingsPanel');
+    const initialOverlay = document.getElementById('settingsOverlay');
+    if (initialPanel && initialOverlay) {
+        initialPanel.classList.remove('show');
+        initialOverlay.classList.remove('show');
+        initialPanel.setAttribute('aria-hidden', 'true');
+        initialOverlay.setAttribute('aria-hidden', 'true');
+    }
+
     // 从本地存储加载设置
     loadSettings();
 
@@ -1287,7 +1339,10 @@ function initSettings() {
         if (panel && overlay) {
             panel.classList.remove('show');
             overlay.classList.remove('show');
+            panel.setAttribute('aria-hidden', 'true');
+            overlay.setAttribute('aria-hidden', 'true');
             document.body.style.overflow = '';
+            document.body.removeAttribute('data-modal-open');
             
             // 移除播放器容器的设置面板打开状态class
             if (playerContainer) {
@@ -1305,7 +1360,10 @@ function initSettings() {
         if (panel && overlay) {
             panel.classList.add('show');
             overlay.classList.add('show');
+            panel.setAttribute('aria-hidden', 'false');
+            overlay.setAttribute('aria-hidden', 'false');
             document.body.style.overflow = 'hidden';
+            document.body.setAttribute('data-modal-open', 'true');
             
             // 添加播放器容器的设置面板打开状态class
             if (playerContainer) {
@@ -1393,6 +1451,12 @@ function loadSettings() {
         }
         
         console.log('已恢复Footer显示状态:', isVisible ? '显示' : '隐藏');
+    } else {
+        // 如果没有保存的设置，默认隐藏底部信息栏
+        footer.style.display = 'none';
+        footerVisibility.checked = false;
+        document.body.classList.add('footer-hidden');
+        console.log('使用默认设置: Footer隐藏');
     }
     
     // 加载默认全屏设置
