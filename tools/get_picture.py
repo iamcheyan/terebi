@@ -8,13 +8,18 @@ import re
 
 # 从配置文件读取API密钥
 config = configparser.ConfigParser()
-config.read('../WEB-INF/config.properties')
+config_path = '../WEB-INF/config.properties'
+if not os.path.exists(config_path):
+    config_path = '../../WEB-INF/config.properties'
+config.read(config_path)
 api_keys = []
 
 # 读取并显示所有可用的API密钥
 for key, value in config['DEFAULT'].items():
     if key.startswith('youtube.apikey'):
         api_keys.append(value)
+
+print(f"找到 {len(api_keys)} 个API密钥")
 
 if not api_keys:
     raise ValueError("未能从配置文件中读取到任何API密钥，请检查配置文件路径和内容是否正确")
