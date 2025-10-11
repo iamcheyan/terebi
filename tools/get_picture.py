@@ -123,7 +123,7 @@ def process_channel(channel):
                     continue  # 发生错误时尝试下一个API密钥
             
             else:  # 所有API密钥都尝试失败
-                print(f"所有API密钥都尝试失败，无法处理频道: {channel['name']}")
+                print(f"⚠️ 所有API密钥都尝试失败，跳过频道: {channel['name']}")
                 process_channel.failed_count += 1
         
         print(f"进度统计: 总计{process_channel.total_count}个频道，已处理{process_channel.processed_count}个，跳过{process_channel.skipped_count}个，失败{process_channel.failed_count}个，剩余{process_channel.total_count - process_channel.processed_count - process_channel.failed_count}个")
@@ -141,3 +141,15 @@ for category, subcategories in data.items():
                 for channel in channels:
                     if isinstance(channel, dict) and 'name' in channel:
                         process_channel(channel)
+
+# 显示最终统计
+print(f"\n=== 头像下载完成 ===")
+print(f"总计: {process_channel.total_count} 个频道")
+print(f"已处理: {process_channel.processed_count} 个")
+print(f"跳过: {process_channel.skipped_count} 个（头像已存在）")
+print(f"失败: {process_channel.failed_count} 个（API配额不足等）")
+
+if process_channel.failed_count > 0:
+    print(f"\n⚠️ 注意: {process_channel.failed_count} 个频道因API配额不足等原因未能下载头像")
+    print("这是正常现象，不影响系统正常运行")
+    print("头像下载失败不会影响频道数据的抓取和处理")

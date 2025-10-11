@@ -68,7 +68,14 @@ def update_channels(args):
     # 4. 下载头像
     print("\n4. 下载频道头像...")
     avatars_cmd = [str(BACKEND_RUNNER), "avatars"]
-    run_with_venv(avatars_cmd, cwd=PROJECT_ROOT)
+    try:
+        run_with_venv(avatars_cmd, cwd=PROJECT_ROOT)
+    except SystemExit as e:
+        if e.code != 0:
+            print(f"⚠️ 头像下载过程中出现错误（退出码: {e.code}），但继续执行后续步骤")
+            print("头像下载失败不会影响频道数据的抓取和处理")
+        else:
+            raise
     
     # 5. 调整图片大小
     print("\n5. 调整图片大小...")
