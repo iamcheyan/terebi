@@ -290,7 +290,8 @@
             {
                 "name": "NST新潟総合テレビ",
                 "url": "https://www.youtube.com/@nst-tv",
-                "cached": true
+                "cached": true,
+                "hide": true
             },
             {
                 "name": "I LOVE NIIGATA!!",
@@ -311,7 +312,8 @@
             {
                 "name": "KNB北日本放送",
                 "url": "https://www.youtube.com/@knb_official",
-                "cached": true
+                "cached": true,
+                "hide": true
             },
             {
                 "name": "チューリップテレビ（TUT）",

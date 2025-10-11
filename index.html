@@ -128,6 +128,20 @@
                     チャンネルリスト
                 </div>
                 
+                <!-- 切换按钮：全部频道/只看收藏 -->
+                <div class="channel-filter-toggle">
+                    <button id="showAllChannels" class="filter-btn active" onclick="showAllChannels()" title="全部频道">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 12h18M3 6h18M3 18h18"></path>
+                        </svg>
+                    </button>
+                    <button id="showFavorites" class="filter-btn" onclick="showFavoritesOnly()" title="只看收藏">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
+                        </svg>
+                    </button>
+                </div>
+                
                 <!-- 添加搜索输入框 -->
                 <input type="text" id="channelSearch" placeholder="チャンネルを検索..." onkeyup="filterChannels()">
                 
@@ -339,6 +353,138 @@
 
 <!-- 频道统计面板遮罩层 -->
 <div id="channelStatsOverlay" class="channel-stats-overlay"></div>
+
+<!-- 收藏功能脚本 -->
+<script>
+    // 收藏功能相关变量
+    let favoriteChannels = [];
+    let showingFavoritesOnly = false;
+    
+    // 从 localStorage 加载收藏列表
+    function loadFavorites() {
+        try {
+            const saved = localStorage.getItem('favoriteChannels');
+            if (saved) {
+                favoriteChannels = JSON.parse(saved);
+            }
+        } catch (e) {
+            console.error('加载收藏列表失败:', e);
+            favoriteChannels = [];
+        }
+    }
+    
+    // 保存收藏列表到 localStorage
+    function saveFavorites() {
+        try {
+            localStorage.setItem('favoriteChannels', JSON.stringify(favoriteChannels));
+        } catch (e) {
+            console.error('保存收藏列表失败:', e);
+        }
+    }
+    
+    // 检查频道是否已收藏
+    function isFavorite(channelUrl) {
+        return favoriteChannels.includes(channelUrl);
+    }
+    
+    // 切换收藏状态
+    function toggleFavorite(channelUrl, button) {
+        const index = favoriteChannels.indexOf(channelUrl);
+        if (index > -1) {
+            // 取消收藏
+            favoriteChannels.splice(index, 1);
+            button.classList.remove('favorited');
+            button.innerHTML = `
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
+                </svg>
+            `;
+        } else {
+            // 添加收藏
+            favoriteChannels.push(channelUrl);
+            button.classList.add('favorited');
+            button.innerHTML = `
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
+                </svg>
+            `;
+        }
+        saveFavorites();
+        
+        // 如果当前是"只看收藏"模式，需要刷新显示
+        if (showingFavoritesOnly) {
+            showFavoritesOnly();
+        }
+    }
+    
+    // 显示全部频道
+    function showAllChannels() {
+        showingFavoritesOnly = false;
+        document.getElementById('showAllChannels').classList.add('active');
+        document.getElementById('showFavorites').classList.remove('active');
+        
+        // 显示所有频道项
+        const allChannelItems = document.querySelectorAll('.channel-item');
+        allChannelItems.forEach(item => {
+            item.style.display = 'flex';
+        });
+        
+        // 显示所有分类和子分类
+        const sections = document.querySelectorAll('.section');
+        sections.forEach(section => {
+            section.style.display = 'block';
+        });
+        
+        const subCategoryContainers = document.querySelectorAll('.sub-category-container');
+        subCategoryContainers.forEach(container => {
+            container.style.display = 'block';
+        });
+    }
+    
+    // 只显示收藏的频道
+    function showFavoritesOnly() {
+        showingFavoritesOnly = true;
+        document.getElementById('showAllChannels').classList.remove('active');
+        document.getElementById('showFavorites').classList.add('active');
+        
+        // 遍历所有频道项
+        const allChannelItems = document.querySelectorAll('.channel-item');
+        allChannelItems.forEach(item => {
+            const channelUrl = item.getAttribute('data-channel-url');
+            if (isFavorite(channelUrl)) {
+                item.style.display = 'flex';
+            } else {
+                item.style.display = 'none';
+            }
+        });
+        
+        // 隐藏空的分类和子分类
+        const sections = document.querySelectorAll('.section');
+        sections.forEach(section => {
+            const visibleChannels = section.querySelectorAll('.channel-item[style="display: flex;"]');
+            if (visibleChannels.length === 0) {
+                section.style.display = 'none';
+            } else {
+                section.style.display = 'block';
+            }
+        });
+        
+        const subCategoryContainers = document.querySelectorAll('.sub-category-container');
+        subCategoryContainers.forEach(container => {
+            const visibleChannels = container.querySelectorAll('.channel-item[style="display: flex;"]');
+            if (visibleChannels.length === 0) {
+                container.style.display = 'none';
+            } else {
+                container.style.display = 'block';
+            }
+        });
+    }
+    
+    // 页面加载时初始化收藏功能
+    document.addEventListener('DOMContentLoaded', function() {
+        loadFavorites();
+    });
+</script>
 
 </body>
 </html>

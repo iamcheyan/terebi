@@ -979,6 +979,7 @@ body.theme-light .fullscreen-button:focus-visible {
     cursor: pointer;
     border-radius: 8px;
     transition: background-color 0.2s, padding-left 0.3s ease; /* 添加padding-left过渡效果 */
+    position: relative;
 }
 
 .channel-item:hover {
@@ -1034,6 +1035,89 @@ body:not(.theme-light) .channel-item.active .channel-name {
     flex: 1;
     min-width: 0; /* 允许内容收缩 */
     overflow: hidden; /* 防止内容溢出 */
+}
+
+/* 收藏按钮样式 */
+.favorite-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    opacity: 0;
+    transform: scale(0.8);
+    pointer-events: none;
+}
+
+/* 鼠标悬停在频道项上时，显示收藏按钮（带动画） */
+.channel-item:hover .favorite-btn {
+    opacity: 1;
+    transform: scale(1);
+    pointer-events: auto;
+}
+
+/* 已收藏的频道，星标始终显示 */
+.favorite-btn.favorited {
+    opacity: 1;
+    transform: scale(1);
+    pointer-events: auto;
+    color: #ffd700;
+}
+
+/* 悬停在收藏按钮上的效果 */
+.favorite-btn:hover {
+    background-color: var(--color-channel-hover);
+    transform: scale(1.15);
+}
+
+.favorite-btn svg {
+    width: 16px;
+    height: 16px;
+}
+
+/* 切换按钮容器样式 - 做成一个整体的切换开关 */
+.channel-filter-toggle {
+    display: flex;
+    gap: 0;
+    padding: 4px;
+    margin: 0 12px 12px 12px;
+    background: var(--color-bg-secondary);
+    border-radius: 8px;
+    border: 1px solid var(--color-border);
+}
+
+.filter-btn {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 36px;
+    padding: 0;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+    color: var(--color-text-secondary);
+}
+
+.filter-btn:hover:not(.active) {
+    color: var(--color-text-primary);
+}
+
+.filter-btn.active {
+    background: var(--color-bg-primary);
+    color: var(--color-accent);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.filter-btn svg {
+    width: 20px;
+    height: 20px;
 }
 
 .channel-name {

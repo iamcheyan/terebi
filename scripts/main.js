@@ -587,6 +587,10 @@ function displayChannelSelector(channelData) {
             channelsGroup.className = 'channels-group';
             
             channels.forEach(channel => {
+                // 跳过标记为隐藏的频道
+                if (channel.hide === true) {
+                    return;
+                }
                 if (channel.name && channel.url) {
                     const channelButton = createChannelButton(channel);
                     channelsGroup.appendChild(channelButton);
@@ -666,6 +670,9 @@ function createChannelButton(channel) {
     const channelInfo = document.createElement('div');
     channelInfo.className = 'channel-info';
     
+    // 从URL中提取频道ID或播放列表ID（需要先定义，因为收藏按钮会用到）
+    const channelUrl = channel.url;
+    
     // 创建频道名称元素
     const channelName = document.createElement('span');
     channelName.className = 'channel-name';
@@ -673,13 +680,36 @@ function createChannelButton(channel) {
     // 保存原始文本，用于搜索高亮后恢复
     channelName.setAttribute('data-original-text', channel.name);
     
+    // 创建收藏按钮
+    const favoriteButton = document.createElement('button');
+    favoriteButton.className = 'favorite-btn';
+    favoriteButton.title = '收藏/取消收藏';
+    favoriteButton.onclick = function(e) {
+        e.stopPropagation(); // 防止触发频道点击事件
+        toggleFavorite(channelUrl, favoriteButton);
+    };
+    
+    // 检查是否已收藏并设置图标
+    if (isFavorite(channelUrl)) {
+        favoriteButton.classList.add('favorited');
+        favoriteButton.innerHTML = `
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
+            </svg>
+        `;
+    } else {
+        favoriteButton.innerHTML = `
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
+            </svg>
+        `;
+    }
+    
     // 组装DOM结构
     channelInfo.appendChild(channelName);
     channelButton.appendChild(avatarContainer);
     channelButton.appendChild(channelInfo);
-    
-    // 从URL中提取频道ID或播放列表ID
-    const channelUrl = channel.url;
+    channelButton.appendChild(favoriteButton);
     
     // 只处理有效的URL
     if (channelUrl && channelUrl.trim() !== '') {
