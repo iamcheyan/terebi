@@ -1,50 +1,1214 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
-  "channel_name": "yab山口ニュース",
+  "channel_name": "UCKIglIH9_xIK0feahuKhJEQ",
   "original_name": "yab山口ニュース",
-  "updated_at": "2025-09-23T19:22:26.244966",
+  "updated_at": "2025-10-11T12:04:30.299125",
   "videos": [
     {
-      "kind": "youtube#playlistItem",
-      "etag": "48ACShOIDWBtaNEMvoEhHf6PyMg",
-      "id": "VVVLSWdsSUg5X3hJSzBmZWFodUtoSkVRLnJFNkF4TXFGVmVJ",
-      "snippet": {
-        "publishedAt": "2025-09-23T10:14:24Z",
-        "channelId": "UCKIglIH9_xIK0feahuKhJEQ",
-        "title": "Jチャンやまぐち　９月２３日（火）浦天",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rE6AxMqFVeI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rE6AxMqFVeI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rE6AxMqFVeI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rE6AxMqFVeI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "yab山口ニュース",
-        "playlistId": "UUKIglIH9_xIK0feahuKhJEQ",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "rE6AxMqFVeI"
-        },
-        "videoOwnerChannelTitle": "yab山口ニュース",
-        "videoOwnerChannelId": "UCKIglIH9_xIK0feahuKhJEQ"
-      }
+      "id": "FtlO57J5wWc",
+      "title": "【山口】周南市の映画館　２０年ぶりに復活！",
+      "thumbnail": "https://i.ytimg.com/vi/FtlO57J5wWc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FtlO57J5wWc"
+    },
+    {
+      "id": "22jHSN69LlU",
+      "title": "【山口】懲戒免職処分 周南市職員が約３２０万円着服",
+      "thumbnail": "https://i.ytimg.com/vi/22jHSN69LlU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=22jHSN69LlU"
+    },
+    {
+      "id": "MtMu3TyCiPk",
+      "title": "【山口】みんな最高！中学校で笑顔と涙の卒業式",
+      "thumbnail": "https://i.ytimg.com/vi/MtMu3TyCiPk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MtMu3TyCiPk"
+    },
+    {
+      "id": "HX2SwiAtDIk",
+      "title": "【山口】若者たちが夢の実現に向けて…山口市で専門学校の卒業式",
+      "thumbnail": "https://i.ytimg.com/vi/HX2SwiAtDIk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HX2SwiAtDIk"
+    },
+    {
+      "id": "0dgejjzTSts",
+      "title": "さかな大好き！萩のマフグ ”桜フグのまぶし丼”",
+      "thumbnail": "https://i.ytimg.com/vi/0dgejjzTSts/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0dgejjzTSts"
+    },
+    {
+      "id": "4Y3uWAAPtco",
+      "title": "【山口】島地郵便局　詐欺被害の未然防止で２回目の",
+      "thumbnail": "https://i.ytimg.com/vi/4Y3uWAAPtco/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4Y3uWAAPtco"
+    },
+    {
+      "id": "OW3ZsksUmfc",
+      "title": "【山口】ＳＮＳ型投資詐欺　３３６万円被害",
+      "thumbnail": "https://i.ytimg.com/vi/OW3ZsksUmfc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OW3ZsksUmfc"
+    },
+    {
+      "id": "uJGNnKNwcj8",
+      "title": "介護の現場最前線～超高齢化社会で需要増、迫りくる2025年問題、難題乗り越えようと工夫重ねる周南市の施設",
+      "thumbnail": "https://i.ytimg.com/vi/uJGNnKNwcj8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uJGNnKNwcj8"
+    },
+    {
+      "id": "TixGWZ28GjY",
+      "title": "【山口】下関の小学校 卒業生から在校生へマーチングバンド移杖式",
+      "thumbnail": "https://i.ytimg.com/vi/TixGWZ28GjY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TixGWZ28GjY"
+    },
+    {
+      "id": "gU2D3u0hmak",
+      "title": "【山口】光市強盗予備事件 逃走用の車を盗んだとされるの男の初公判",
+      "thumbnail": "https://i.ytimg.com/vi/gU2D3u0hmak/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gU2D3u0hmak"
+    },
+    {
+      "id": "k0Prexddyys",
+      "title": "【山口】周南市に映画館が復活！有志が準備進め７日に",
+      "thumbnail": "https://i.ytimg.com/vi/k0Prexddyys/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=k0Prexddyys"
+    },
+    {
+      "id": "VcnxGsH6yAc",
+      "title": "【山口】「コープ女性いきいき大賞」社会貢献につながる活動を表彰",
+      "thumbnail": "https://i.ytimg.com/vi/VcnxGsH6yAc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VcnxGsH6yAc"
+    },
+    {
+      "id": "fPGWzu2flJE",
+      "title": "【山口】萩市長選挙　立候補予定者が公開討論会",
+      "thumbnail": "https://i.ytimg.com/vi/fPGWzu2flJE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fPGWzu2flJE"
+    },
+    {
+      "id": "CnRv_L5zHWg",
+      "title": "【山口】美祢市の中学校に侵入　制服など盗んだ男逮捕",
+      "thumbnail": "https://i.ytimg.com/vi/CnRv_L5zHWg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CnRv_L5zHWg"
+    },
+    {
+      "id": "-md0P3i-imw",
+      "title": "【山口】まちぐる～岩国市役所周辺・後編",
+      "thumbnail": "https://i.ytimg.com/vi/-md0P3i-imw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-md0P3i-imw"
+    },
+    {
+      "id": "mkXKNMF5Xak",
+      "title": "【山口】公立高校入試　実質倍率０．９７倍",
+      "thumbnail": "https://i.ytimg.com/vi/mkXKNMF5Xak/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mkXKNMF5Xak"
+    },
+    {
+      "id": "QDlp4ugcik4",
+      "title": "【山口】小学校新入生に防犯ブザーとクマ鈴贈呈",
+      "thumbnail": "https://i.ytimg.com/vi/QDlp4ugcik4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QDlp4ugcik4"
+    },
+    {
+      "id": "jFTXwjLzZqw",
+      "title": "山口大学で面接入試ミス「山口県で先生に」",
+      "thumbnail": "https://i.ytimg.com/vi/jFTXwjLzZqw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jFTXwjLzZqw"
+    },
+    {
+      "id": "YWNS9USvbkE",
+      "title": "【山口】公立高校入試　始まる",
+      "thumbnail": "https://i.ytimg.com/vi/YWNS9USvbkE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YWNS9USvbkE"
+    },
+    {
+      "id": "NbR7QuiVt8A",
+      "title": "震災を伝える　支えられつながる命",
+      "thumbnail": "https://i.ytimg.com/vi/NbR7QuiVt8A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NbR7QuiVt8A"
+    },
+    {
+      "id": "yFlREZKjBqc",
+      "title": "【山口】車いすひき逃げ死亡事件　飲食店経営の男（４５）に懲役４年６カ月を求刑",
+      "thumbnail": "https://i.ytimg.com/vi/yFlREZKjBqc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yFlREZKjBqc"
+    },
+    {
+      "id": "7OVKIPvqCbc",
+      "title": "【山口】消防士長（４２）　「うっかり失効」で約１年間無免許運転",
+      "thumbnail": "https://i.ytimg.com/vi/7OVKIPvqCbc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7OVKIPvqCbc"
+    },
+    {
+      "id": "RjgWteGDBQs",
+      "title": "【山口】岩国基地の米兵　車の窃盗容疑で再逮捕",
+      "thumbnail": "https://i.ytimg.com/vi/RjgWteGDBQs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RjgWteGDBQs"
+    },
+    {
+      "id": "M6GnShDiwMQ",
+      "title": "山口県で７年ぶりに「はしか」感染",
+      "thumbnail": "https://i.ytimg.com/vi/M6GnShDiwMQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=M6GnShDiwMQ"
+    },
+    {
+      "id": "UZfccAjUElY",
+      "title": "あちこちグルメ　防府・あつあつらーめん だんちゃん",
+      "thumbnail": "https://i.ytimg.com/vi/UZfccAjUElY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UZfccAjUElY"
+    },
+    {
+      "id": "99UkI4jfK-A",
+      "title": "【山口】県無形文化財保持者　山口鷺流狂言 米本太郎さん",
+      "thumbnail": "https://i.ytimg.com/vi/99UkI4jfK-A/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=99UkI4jfK-A"
+    },
+    {
+      "id": "hPkl6G_H4FI",
+      "title": "【山口】３日朝 下関市で歩行者がはねられ死亡",
+      "thumbnail": "https://i.ytimg.com/vi/hPkl6G_H4FI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hPkl6G_H4FI"
+    },
+    {
+      "id": "WU0kp_1vahQ",
+      "title": "【山口】２日午後 下関市で住宅が全焼　焼け跡から２人の遺体 住人の高齢夫婦か",
+      "thumbnail": "https://i.ytimg.com/vi/WU0kp_1vahQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WU0kp_1vahQ"
+    },
+    {
+      "id": "ZURITyWNLAk",
+      "title": "【山口】柳井市長選挙５回目の当選　井原さん初登庁",
+      "thumbnail": "https://i.ytimg.com/vi/ZURITyWNLAk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZURITyWNLAk"
+    },
+    {
+      "id": "d9i6x8ysZf4",
+      "title": "フタを開けると… 湯気に包まれホカホカ野菜",
+      "thumbnail": "https://i.ytimg.com/vi/d9i6x8ysZf4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=d9i6x8ysZf4"
+    },
+    {
+      "id": "DqN9iDqEDxQ",
+      "title": "【山口】柳井市長選挙　井原氏が５選",
+      "thumbnail": "https://i.ytimg.com/vi/DqN9iDqEDxQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DqN9iDqEDxQ"
+    },
+    {
+      "id": "On0-vn7l2NA",
+      "title": "【山口】車いすバドミントン パラリンピックのメダリストたちが県内の観光地を訪問",
+      "thumbnail": "https://i.ytimg.com/vi/On0-vn7l2NA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=On0-vn7l2NA"
+    },
+    {
+      "id": "B8t7t7Qlm3U",
+      "title": "連合山口「２０２５春季生活闘争勝利決起集会」",
+      "thumbnail": "https://i.ytimg.com/vi/B8t7t7Qlm3U/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=B8t7t7Qlm3U"
+    },
+    {
+      "id": "Fr1ZUWUSWB4",
+      "title": "山口市にミラノがあった！？メイドインジャパンの匠山泊",
+      "thumbnail": "https://i.ytimg.com/vi/Fr1ZUWUSWB4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fr1ZUWUSWB4"
+    },
+    {
+      "id": "TCp01e2LcSw",
+      "title": "ぼくのゆめわたしのゆめ　山口天使幼稚園⓾",
+      "thumbnail": "https://i.ytimg.com/vi/TCp01e2LcSw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TCp01e2LcSw"
+    },
+    {
+      "id": "mq8bG01oBL0",
+      "title": "【山口】田布施町議が中間貯蔵施設反対決議を求める",
+      "thumbnail": "https://i.ytimg.com/vi/mq8bG01oBL0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mq8bG01oBL0"
+    },
+    {
+      "id": "7LYXauz0k_4",
+      "title": "【山口】夫婦漫才で広報　県警本部長の感謝状",
+      "thumbnail": "https://i.ytimg.com/vi/7LYXauz0k_4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7LYXauz0k_4"
+    },
+    {
+      "id": "jYLirVDwmFs",
+      "title": "【山口】萩市の私立高校で卒業式",
+      "thumbnail": "https://i.ytimg.com/vi/jYLirVDwmFs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jYLirVDwmFs"
+    },
+    {
+      "id": "6Q5WRqCW9nw",
+      "title": "【山口】宇部市の松月堂製パンが破産手続き開始",
+      "thumbnail": "https://i.ytimg.com/vi/6Q5WRqCW9nw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6Q5WRqCW9nw"
+    },
+    {
+      "id": "V8R6V3gkH6c",
+      "title": "【山口】県美術展覧会　大賞作品は独特の技法　泡×写真",
+      "thumbnail": "https://i.ytimg.com/vi/V8R6V3gkH6c/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=V8R6V3gkH6c"
+    },
+    {
+      "id": "XatsoLgeZFk",
+      "title": "【山口】上関町新年度予算案発表",
+      "thumbnail": "https://i.ytimg.com/vi/XatsoLgeZFk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XatsoLgeZFk"
+    },
+    {
+      "id": "BX92NeZbgCI",
+      "title": "【山口】柳井市長選挙　各候補の訴えは？ 選挙戦リポート",
+      "thumbnail": "https://i.ytimg.com/vi/BX92NeZbgCI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BX92NeZbgCI"
+    },
+    {
+      "id": "Ox9LMdgskb4",
+      "title": "【山口】わかさぎウィーク",
+      "thumbnail": "https://i.ytimg.com/vi/Ox9LMdgskb4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ox9LMdgskb4"
+    },
+    {
+      "id": "xylSJ_LYpII",
+      "title": "【山口】ＰＦＡＳ汚染状況調査で県に申し入れ",
+      "thumbnail": "https://i.ytimg.com/vi/xylSJ_LYpII/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xylSJ_LYpII"
+    },
+    {
+      "id": "3PQOyKOxeIc",
+      "title": "【山口】徳山下松港で水際対策訓練",
+      "thumbnail": "https://i.ytimg.com/vi/3PQOyKOxeIc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3PQOyKOxeIc"
+    },
+    {
+      "id": "0P5LmVN6Sd0",
+      "title": "ぼくのゆめわたしのゆめ　山口天使幼稚園⑨",
+      "thumbnail": "https://i.ytimg.com/vi/0P5LmVN6Sd0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0P5LmVN6Sd0"
+    },
+    {
+      "id": "R7yUyvkJUoc",
+      "title": "番組告知「ふるさとの歌～仙崎が生んだ作詞家･大津あきら」2月28日（金）午前10時30分からyabで放送",
+      "thumbnail": "https://i.ytimg.com/vi/R7yUyvkJUoc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=R7yUyvkJUoc"
+    },
+    {
+      "id": "_c7oeoGwUCw",
+      "title": "【山口】下関市の県道交差点　重傷交通事故",
+      "thumbnail": "https://i.ytimg.com/vi/_c7oeoGwUCw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_c7oeoGwUCw"
+    },
+    {
+      "id": "h5x7qnDOFe8",
+      "title": "ぼくのゆめわたしのゆめ⑧",
+      "thumbnail": "https://i.ytimg.com/vi/h5x7qnDOFe8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=h5x7qnDOFe8"
+    },
+    {
+      "id": "GDoOo6nhi60",
+      "title": "ぼくのゆめわたしのゆめ　山口天使幼稚園⑦",
+      "thumbnail": "https://i.ytimg.com/vi/GDoOo6nhi60/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GDoOo6nhi60"
+    },
+    {
+      "id": "jFVGMT-zNr0",
+      "title": "【山口】芸術の秋　バックステージツアー",
+      "thumbnail": "https://i.ytimg.com/vi/jFVGMT-zNr0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jFVGMT-zNr0"
+    },
+    {
+      "id": "RzUdtxxbf-M",
+      "title": "【山口】赤ちゃん激走！？ハイハイレース",
+      "thumbnail": "https://i.ytimg.com/vi/RzUdtxxbf-M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RzUdtxxbf-M"
+    },
+    {
+      "id": "ww_k8hWm-n0",
+      "title": "【山口】ご当地キーホルダー　第６弾は防府",
+      "thumbnail": "https://i.ytimg.com/vi/ww_k8hWm-n0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ww_k8hWm-n0"
+    },
+    {
+      "id": "U2woOMdkzik",
+      "title": "【山口】岩国基地ＦＣＬＰ　先週３日間で約５００件の苦情",
+      "thumbnail": "https://i.ytimg.com/vi/U2woOMdkzik/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=U2woOMdkzik"
+    },
+    {
+      "id": "wmPOKLMY9Bw",
+      "title": "【山口】県警察官採用試験 １１年ぶりに志願者数は増加",
+      "thumbnail": "https://i.ytimg.com/vi/wmPOKLMY9Bw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wmPOKLMY9Bw"
+    },
+    {
+      "id": "8GFv05bFnGA",
+      "title": "【山口】目指せ全国大会！アマチュア女子テニスの大会始まる",
+      "thumbnail": "https://i.ytimg.com/vi/8GFv05bFnGA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8GFv05bFnGA"
+    },
+    {
+      "id": "ndjYCLgOgjc",
+      "title": "【戦後80年】「掃海⑫ペルシャ湾燃ゆ」（2018年9月27日放送）湾岸戦争後の1991年、自衛隊が初めて海外に派遣された。機雷の海で一体何があったのか。元海上自衛官がペルシャ湾掃海艇派遣の真実を語る。",
+      "thumbnail": "https://i.ytimg.com/vi/ndjYCLgOgjc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ndjYCLgOgjc"
+    },
+    {
+      "id": "WKey_1wADAQ",
+      "title": "【戦後80年】「掃海⑪朝鮮戦争で死んだ友」（2018年9月26日放送）朝鮮戦争に派遣された日本特別掃海隊。その中で唯一の殉職者、中谷坂太郎の友人が思い出を語る。",
+      "thumbnail": "https://i.ytimg.com/vi/WKey_1wADAQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WKey_1wADAQ"
+    },
+    {
+      "id": "qVMLaJuYchg",
+      "title": "【戦後80年】「掃海⑨だまされた朝鮮派遣」（2018年9月20日放送）朝鮮戦争時、米軍から日本政府に掃海艇の派遣要請があった。日本は極秘の掃海艇派遣を決める。しかし、隊員はだまされて出航していた。",
+      "thumbnail": "https://i.ytimg.com/vi/qVMLaJuYchg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qVMLaJuYchg"
+    },
+    {
+      "id": "Ot5-uFkccyQ",
+      "title": "【戦後80年】「掃海⑥傷だらけの関門海峡」（2018年8月30日放送）太平洋戦争末期、米軍による機雷投下で、関門海峡は死の海となった。航行する船舶の触雷が続出し、海峡は「船の墓場」と呼ばれた。",
+      "thumbnail": "https://i.ytimg.com/vi/Ot5-uFkccyQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ot5-uFkccyQ"
+    },
+    {
+      "id": "HSb2PycU0s0",
+      "title": "【戦後80年】戦後掃海の真実⑤全貌見えぬ機雷被害（2018年8月29日放送）戦時中、米軍は日本周辺に大量の機雷を投下。戦争が終わっても機雷は息を生き続け、多くの民間船を沈没させた。その実相を探る。",
+      "thumbnail": "https://i.ytimg.com/vi/HSb2PycU0s0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HSb2PycU0s0"
+    },
+    {
+      "id": "k8VbucLnxnA",
+      "title": "山口ＤＣプレイベント・大阪で山口の魅力発信！",
+      "thumbnail": "https://i.ytimg.com/vi/k8VbucLnxnA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=k8VbucLnxnA"
+    },
+    {
+      "id": "co_b0ElteOk",
+      "title": "山口市とホノルル市が友好都市提携",
+      "thumbnail": "https://i.ytimg.com/vi/co_b0ElteOk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=co_b0ElteOk"
+    },
+    {
+      "id": "fEjIOytOU8M",
+      "title": "ＳＯＳを出せる環境を~不登校の生徒たち 新たな居場所~",
+      "thumbnail": "https://i.ytimg.com/vi/fEjIOytOU8M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fEjIOytOU8M"
+    },
+    {
+      "id": "kHpwRLDrrs4",
+      "title": "動物に癒やされて　マイペースなカピバラの一大事！",
+      "thumbnail": "https://i.ytimg.com/vi/kHpwRLDrrs4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kHpwRLDrrs4"
+    },
+    {
+      "id": "6JJOTM9Kfn0",
+      "title": "スゴ技！コウジョー魂「ヤナギヤ」世界シェア1位！カニカマ製造機",
+      "thumbnail": "https://i.ytimg.com/vi/6JJOTM9Kfn0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6JJOTM9Kfn0"
+    },
+    {
+      "id": "71R5s6zKkIc",
+      "title": "浦天　９月１９日（金）お天気情報",
+      "thumbnail": "https://i.ytimg.com/vi/71R5s6zKkIc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=71R5s6zKkIc"
+    },
+    {
+      "id": "sPCJYbRAwAE",
+      "title": "【山口】岩国基地ＦＣＬＰ　村岡知事が現地視察",
+      "thumbnail": "https://i.ytimg.com/vi/sPCJYbRAwAE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sPCJYbRAwAE"
+    },
+    {
+      "id": "MvOCXS_AmAI",
+      "title": "【山口】ＳＬやまぐち号は９月２０日からも予定通り運行へ",
+      "thumbnail": "https://i.ytimg.com/vi/MvOCXS_AmAI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MvOCXS_AmAI"
+    },
+    {
+      "id": "70Bi_XnGYtY",
+      "title": "【山口】岩国基地ＦＣＬＰ　　１８６件の苦情",
+      "thumbnail": "https://i.ytimg.com/vi/70Bi_XnGYtY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=70Bi_XnGYtY"
+    },
+    {
+      "id": "Gr9XzihdXo0",
+      "title": "いつもありがとう　世代を超えて楽しむ”田舎”",
+      "thumbnail": "https://i.ytimg.com/vi/Gr9XzihdXo0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Gr9XzihdXo0"
+    },
+    {
+      "id": "Vu0T-n68y1I",
+      "title": "氏神さまとウィーン菓子！？　山陽小野田市有帆（後編）",
+      "thumbnail": "https://i.ytimg.com/vi/Vu0T-n68y1I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Vu0T-n68y1I"
+    },
+    {
+      "id": "wcSjD2TlEgg",
+      "title": "豊かな心育んで　保育園に絵本などを寄贈",
+      "thumbnail": "https://i.ytimg.com/vi/wcSjD2TlEgg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wcSjD2TlEgg"
+    },
+    {
+      "id": "bf2SEu0K7S4",
+      "title": "コシが命！菊川そうめん　冷・温・焼き！万能そうめん　道の駅きくがわ御食事処よもやま　あちこちグルメ",
+      "thumbnail": "https://i.ytimg.com/vi/bf2SEu0K7S4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bf2SEu0K7S4"
+    },
+    {
+      "id": "RuxBL998O5U",
+      "title": "【山口】総裁選林氏は政策発表　地元からは期待",
+      "thumbnail": "https://i.ytimg.com/vi/RuxBL998O5U/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RuxBL998O5U"
+    },
+    {
+      "id": "dxkwVXhqRWQ",
+      "title": "【山口】郵便局でオンライン診療　実証実験開始",
+      "thumbnail": "https://i.ytimg.com/vi/dxkwVXhqRWQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dxkwVXhqRWQ"
+    },
+    {
+      "id": "5uChYD3hKKc",
+      "title": "【山口】ＦＣＬＰ実施　岩国市は「遺憾」",
+      "thumbnail": "https://i.ytimg.com/vi/5uChYD3hKKc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5uChYD3hKKc"
+    },
+    {
+      "id": "q1vFdnTeFrI",
+      "title": "【山口】クマ出現に備え…緊急銃猟対応研修会",
+      "thumbnail": "https://i.ytimg.com/vi/q1vFdnTeFrI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q1vFdnTeFrI"
+    },
+    {
+      "id": "3WAxAFdsfTc",
+      "title": "【山口】岩国基地で間もなくＦＣＬＰの開始時間",
+      "thumbnail": "https://i.ytimg.com/vi/3WAxAFdsfTc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3WAxAFdsfTc"
+    },
+    {
+      "id": "e4X-j0XpIdE",
+      "title": "【報道特番PR】「遺骨はある 海底炭鉱で待つ183人」yab山口朝日放送・9月23日（火･祝）午前10時25分から放送。山口県宇部市の長生炭鉱で遺骨が発見された。遺骨が83年ぶりに見た日本とは…。",
+      "thumbnail": "https://i.ytimg.com/vi/e4X-j0XpIdE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=e4X-j0XpIdE"
+    },
+    {
+      "id": "oRo_ngCoiCk",
+      "title": "苦しみや悩みを語り合う 犯罪被害者遺族の交流会",
+      "thumbnail": "https://i.ytimg.com/vi/oRo_ngCoiCk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oRo_ngCoiCk"
+    },
+    {
+      "id": "Go7iI7zv_Wg",
+      "title": "【山口】お手柄！うそ電話詐欺 被害を防いだ留学生に感謝状",
+      "thumbnail": "https://i.ytimg.com/vi/Go7iI7zv_Wg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Go7iI7zv_Wg"
+    },
+    {
+      "id": "HNmo77S0TI8",
+      "title": "【山口】空手の世界大会 チャンピオンは保育士さん 県庁で喜びの報告",
+      "thumbnail": "https://i.ytimg.com/vi/HNmo77S0TI8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HNmo77S0TI8"
+    },
+    {
+      "id": "J8OABdXZyB8",
+      "title": "【山口】アメリカ軍岩国基地 模擬着艦訓練「ＦＣＬＰ」　岩国市長が国に中止を要請",
+      "thumbnail": "https://i.ytimg.com/vi/J8OABdXZyB8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=J8OABdXZyB8"
+    },
+    {
+      "id": "r-oSFwsfSVQ",
+      "title": "【山口】林芳正官房長官が自民党総裁選に出馬を表明",
+      "thumbnail": "https://i.ytimg.com/vi/r-oSFwsfSVQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=r-oSFwsfSVQ"
+    },
+    {
+      "id": "gY--voTTcrM",
+      "title": "スゴ技！コウジョー魂「ひびき精機」最先端技術支える緻密な世界",
+      "thumbnail": "https://i.ytimg.com/vi/gY--voTTcrM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gY--voTTcrM"
+    },
+    {
+      "id": "uAp7XT1JpYw",
+      "title": "【山口】吉川 広家の没後４００年の記念行事",
+      "thumbnail": "https://i.ytimg.com/vi/uAp7XT1JpYw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uAp7XT1JpYw"
+    },
+    {
+      "id": "vg4AwPOlQZY",
+      "title": "【山口】イェイ！ 家族そろって笑顔で敬老の日撮影会",
+      "thumbnail": "https://i.ytimg.com/vi/vg4AwPOlQZY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vg4AwPOlQZY"
+    },
+    {
+      "id": "XZWQfaFO-7w",
+      "title": "【山口】国内初展開 米軍の新型ミサイルシステム「タイフォン」 岩国基地で公開",
+      "thumbnail": "https://i.ytimg.com/vi/XZWQfaFO-7w/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XZWQfaFO-7w"
+    },
+    {
+      "id": "oLLsVxyHr9M",
+      "title": "【山口】岩国基地でアメリカ軍の「ＦＣＬＰ」 容認できない 地元の議員らが国に要請",
+      "thumbnail": "https://i.ytimg.com/vi/oLLsVxyHr9M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oLLsVxyHr9M"
+    },
+    {
+      "id": "InPaWxjVRmo",
+      "title": "ＳＬやまぐち号　車両の不具合で立往生",
+      "thumbnail": "https://i.ytimg.com/vi/InPaWxjVRmo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=InPaWxjVRmo"
+    },
+    {
+      "id": "FKQ4ih6cPAs",
+      "title": "【山口】カレーで商店街を盛り上げよう！カレーフェスティバル",
+      "thumbnail": "https://i.ytimg.com/vi/FKQ4ih6cPAs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FKQ4ih6cPAs"
+    },
+    {
+      "id": "fsEK7Qtpncs",
+      "title": "山口県内初開催　犯罪被害者遺族の交流会",
+      "thumbnail": "https://i.ytimg.com/vi/fsEK7Qtpncs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fsEK7Qtpncs"
+    },
+    {
+      "id": "PTxSHJiKrmI",
+      "title": "【山口】長門・西日本やきとり祭り",
+      "thumbnail": "https://i.ytimg.com/vi/PTxSHJiKrmI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PTxSHJiKrmI"
+    },
+    {
+      "id": "IMMTK0cXEdI",
+      "title": "【山口】岩国での模擬着艦訓練（ＦＣＬＰ）を国が通告",
+      "thumbnail": "https://i.ytimg.com/vi/IMMTK0cXEdI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IMMTK0cXEdI"
+    },
+    {
+      "id": "3SQcsmV-tm0",
+      "title": "【山口】島の音でラップ♪周防大島の小学生が音楽収録",
+      "thumbnail": "https://i.ytimg.com/vi/3SQcsmV-tm0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3SQcsmV-tm0"
+    },
+    {
+      "id": "thmU3eON3W0",
+      "title": "【戦後80年】「仙崎~引き揚げ者の羽織」終戦後の引き揚げ港となった山口県長門市仙崎。命からがら引き揚げてきた人たちは住民の温かい対応に感激したといおう。仙崎の民家で大切に守れられてきた羽織の秘話とは。",
+      "thumbnail": "https://i.ytimg.com/vi/thmU3eON3W0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=thmU3eON3W0"
+    },
+    {
+      "id": "vWBiTdPcD9s",
+      "title": "スゴ技！コウジョー魂「山下工業所」絞って？伸ばす！金属の三次元曲面",
+      "thumbnail": "https://i.ytimg.com/vi/vWBiTdPcD9s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vWBiTdPcD9s"
+    },
+    {
+      "id": "9u7mpqmnph0",
+      "title": "旬をもぎとる　山陽小野田市有帆（前編）",
+      "thumbnail": "https://i.ytimg.com/vi/9u7mpqmnph0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9u7mpqmnph0"
+    },
+    {
+      "id": "B0_-eMpdup4",
+      "title": "【山口】子牛が小学校で出前授業",
+      "thumbnail": "https://i.ytimg.com/vi/B0_-eMpdup4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=B0_-eMpdup4"
+    },
+    {
+      "id": "07I-UAaf8UQ",
+      "title": "【山口】中間貯蔵施設　中国電力が上関町議会に調査結果を説明",
+      "thumbnail": "https://i.ytimg.com/vi/07I-UAaf8UQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=07I-UAaf8UQ"
+    },
+    {
+      "id": "UYW3euIycoA",
+      "title": "山口・幼稚園バスとトラックの事故　園児５人ら搬送",
+      "thumbnail": "https://i.ytimg.com/vi/UYW3euIycoA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UYW3euIycoA"
+    },
+    {
+      "id": "HNUEQzElf5M",
+      "title": "【山口】カンロと光市が共同プロジェクト",
+      "thumbnail": "https://i.ytimg.com/vi/HNUEQzElf5M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HNUEQzElf5M"
+    },
+    {
+      "id": "B3I4I_v0JNo",
+      "title": "造るのは”船の前と後ろだけ”！　大田造船",
+      "thumbnail": "https://i.ytimg.com/vi/B3I4I_v0JNo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=B3I4I_v0JNo"
+    },
+    {
+      "id": "OEAl6DDEv1Y",
+      "title": "【山口】村岡嗣政知事 ４選出馬へ 来年２月に山口県知事選挙",
+      "thumbnail": "https://i.ytimg.com/vi/OEAl6DDEv1Y/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OEAl6DDEv1Y"
+    },
+    {
+      "id": "v0Cf8t5rSdE",
+      "title": "【山口】観光で地域を豊かに！「魅力を再編集」トークイベント",
+      "thumbnail": "https://i.ytimg.com/vi/v0Cf8t5rSdE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=v0Cf8t5rSdE"
+    },
+    {
+      "id": "OI1lZvoDf80",
+      "title": "【山口】落語家は元中学校長！高校で人権をテーマにしたオリジナル落語を披露",
+      "thumbnail": "https://i.ytimg.com/vi/OI1lZvoDf80/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OI1lZvoDf80"
+    },
+    {
+      "id": "6jTJkK769Sc",
+      "title": "【山口】長門市の老人ホームに地元名産のお菓子を贈呈",
+      "thumbnail": "https://i.ytimg.com/vi/6jTJkK769Sc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6jTJkK769Sc"
+    },
+    {
+      "id": "PogaZG612TE",
+      "title": "【山口】上関町の中学生　「車えび祭り」開催を提案",
+      "thumbnail": "https://i.ytimg.com/vi/PogaZG612TE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PogaZG612TE"
+    },
+    {
+      "id": "NydrJkcB80g",
+      "title": "やまぐち未来人　９月9日　萩のゲストハウス　大谷敦彦さん",
+      "thumbnail": "https://i.ytimg.com/vi/NydrJkcB80g/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NydrJkcB80g"
+    },
+    {
+      "id": "7E2ptCnpXpE",
+      "title": "長生炭鉱　市民団体が政府に協力を要請",
+      "thumbnail": "https://i.ytimg.com/vi/7E2ptCnpXpE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7E2ptCnpXpE"
+    },
+    {
+      "id": "sXU2ZiVQ-CI",
+      "title": "山口県下松市　児童が学校で稲刈り",
+      "thumbnail": "https://i.ytimg.com/vi/sXU2ZiVQ-CI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sXU2ZiVQ-CI"
+    },
+    {
+      "id": "6DiX2gJIcHY",
+      "title": "山口県美祢市　世界ジオパークに承認勧告受ける",
+      "thumbnail": "https://i.ytimg.com/vi/6DiX2gJIcHY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6DiX2gJIcHY"
+    },
+    {
+      "id": "fRRwuK4vySk",
+      "title": "ふわふわハンバーグが３段！？“飲める”ハンバーグ？　あちこちグルメ　防府　ニューロンドン・パリ３区",
+      "thumbnail": "https://i.ytimg.com/vi/fRRwuK4vySk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fRRwuK4vySk"
+    },
+    {
+      "id": "yVQFVT3-kY4",
+      "title": "【山口】美祢市が「ユネスコ世界ジオパーク」に承認勧告",
+      "thumbnail": "https://i.ytimg.com/vi/yVQFVT3-kY4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yVQFVT3-kY4"
+    },
+    {
+      "id": "BHOqbP9edEQ",
+      "title": "【山口】赤ちゃん泣き相撲大会",
+      "thumbnail": "https://i.ytimg.com/vi/BHOqbP9edEQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BHOqbP9edEQ"
+    },
+    {
+      "id": "4HLarmTxU9k",
+      "title": "【山口】ウィンドサーフィン林つぐみが連覇",
+      "thumbnail": "https://i.ytimg.com/vi/4HLarmTxU9k/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4HLarmTxU9k"
+    },
+    {
+      "id": "kCbIzWU-X38",
+      "title": "【山口】みずほ銀行で昼休業開始",
+      "thumbnail": "https://i.ytimg.com/vi/kCbIzWU-X38/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kCbIzWU-X38"
+    },
+    {
+      "id": "eCW9aOy5rLc",
+      "title": "【山口】県議の有近眞知子氏　知事選出馬へ",
+      "thumbnail": "https://i.ytimg.com/vi/eCW9aOy5rLc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eCW9aOy5rLc"
+    },
+    {
+      "id": "jLCSPQggfUg",
+      "title": "【山口】有近眞知子県議　知事選出馬へ",
+      "thumbnail": "https://i.ytimg.com/vi/jLCSPQggfUg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jLCSPQggfUg"
+    },
+    {
+      "id": "5OYmfwt1FGg",
+      "title": "【山口】えび狩り世界選手権",
+      "thumbnail": "https://i.ytimg.com/vi/5OYmfwt1FGg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5OYmfwt1FGg"
+    },
+    {
+      "id": "OYxLHPC6jyg",
+      "title": "【山口】県内の原爆犠牲者の冥福を祈る",
+      "thumbnail": "https://i.ytimg.com/vi/OYxLHPC6jyg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OYxLHPC6jyg"
+    },
+    {
+      "id": "kboDKq1EeZg",
+      "title": "更年期障害とその治療法 〜健康寿命を延ばすホルモン補充療法〜",
+      "thumbnail": "https://i.ytimg.com/vi/kboDKq1EeZg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kboDKq1EeZg"
+    },
+    {
+      "id": "sTQDn605ZpQ",
+      "title": "【山口】ＪＲ山陰線　運転再開の様子を公開",
+      "thumbnail": "https://i.ytimg.com/vi/sTQDn605ZpQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sTQDn605ZpQ"
+    },
+    {
+      "id": "2NNanXxSI6k",
+      "title": "【山口】長門で生まれた赤ちゃんに長門湯本温泉の入浴液のプレゼント開始",
+      "thumbnail": "https://i.ytimg.com/vi/2NNanXxSI6k/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2NNanXxSI6k"
+    },
+    {
+      "id": "lpN_Me1wTS8",
+      "title": "【山口】学校基本調査　小中学生過去最少",
+      "thumbnail": "https://i.ytimg.com/vi/lpN_Me1wTS8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lpN_Me1wTS8"
+    },
+    {
+      "id": "rXSY_ZfnY9g",
+      "title": "【山口】輝き放つ青春！宇部高校の体育大会",
+      "thumbnail": "https://i.ytimg.com/vi/rXSY_ZfnY9g/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rXSY_ZfnY9g"
+    },
+    {
+      "id": "7nLGJCkF58Q",
+      "title": "【山口】「歴史に刻む大きな一歩」マツダが岩国市に新工場建設 調印式",
+      "thumbnail": "https://i.ytimg.com/vi/7nLGJCkF58Q/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7nLGJCkF58Q"
+    },
+    {
+      "id": "NQC5NJhps-M",
+      "title": "【山口】「県民に元気を届けられるように」国民スポーツ大会 県選手団 結団式",
+      "thumbnail": "https://i.ytimg.com/vi/NQC5NJhps-M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NQC5NJhps-M"
+    },
+    {
+      "id": "CGgMpfXeWhg",
+      "title": "「大阪・関西万博で展示！世界一大きな絵を描いたポジティブな子どもたち」山口県田布施町の小学校で行われているポジティブ行動支援とは？教育だけでなく、悩める大人も必見です！",
+      "thumbnail": "https://i.ytimg.com/vi/CGgMpfXeWhg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CGgMpfXeWhg"
+    },
+    {
+      "id": "0SbY2oJpe1E",
+      "title": "【山口】台風１５号　雨や風に注意",
+      "thumbnail": "https://i.ytimg.com/vi/0SbY2oJpe1E/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0SbY2oJpe1E"
+    },
+    {
+      "id": "0IMNcxf5qmE",
+      "title": "【山口】工学部の大学生などが半導体生産技術を見学！山口ファクトリーツアー",
+      "thumbnail": "https://i.ytimg.com/vi/0IMNcxf5qmE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0IMNcxf5qmE"
+    },
+    {
+      "id": "lq_YBtF-yaE",
+      "title": "【山口】中学生が故郷の銘菓をアレンジ！地元食材も使ってオリジナル饅頭を試作",
+      "thumbnail": "https://i.ytimg.com/vi/lq_YBtF-yaE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lq_YBtF-yaE"
+    },
+    {
+      "id": "ChbFTLDbLrQ",
+      "title": "【山口】新型コロナ感染拡大　今後ピークを迎える可能性も",
+      "thumbnail": "https://i.ytimg.com/vi/ChbFTLDbLrQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ChbFTLDbLrQ"
+    },
+    {
+      "id": "vZxhfWnhFU8",
+      "title": "美味しい幸せ時間　美祢市中心部（後編）",
+      "thumbnail": "https://i.ytimg.com/vi/vZxhfWnhFU8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vZxhfWnhFU8"
+    },
+    {
+      "id": "4TaiNMsp0b4",
+      "title": "美味しい挑戦　美祢市中心部（前編）",
+      "thumbnail": "https://i.ytimg.com/vi/4TaiNMsp0b4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4TaiNMsp0b4"
+    },
+    {
+      "id": "UM_M4k6JRdw",
+      "title": "残暑をのりきる　ローズの香りでリラックス",
+      "thumbnail": "https://i.ytimg.com/vi/UM_M4k6JRdw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UM_M4k6JRdw"
+    },
+    {
+      "id": "jz-Wsn4L4YM",
+      "title": "山口・午羊軒　超絶やわらか！ハンバーグ＆火加減絶妙！ビフカツ　あちこちグルメ　9月2日放送",
+      "thumbnail": "https://i.ytimg.com/vi/jz-Wsn4L4YM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jz-Wsn4L4YM"
+    },
+    {
+      "id": "71nZHY0_ggQ",
+      "title": "【山口】仙崎引き揚げ写真展",
+      "thumbnail": "https://i.ytimg.com/vi/71nZHY0_ggQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=71nZHY0_ggQ"
+    },
+    {
+      "id": "0GjirCMQjF0",
+      "title": "【山口】岩国基地ミサイル訓練で申し入れ相次ぐ",
+      "thumbnail": "https://i.ytimg.com/vi/0GjirCMQjF0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0GjirCMQjF0"
+    },
+    {
+      "id": "jeMTAMc44MY",
+      "title": "【山口】山口市で通帳だまし取られ７００万円被害",
+      "thumbnail": "https://i.ytimg.com/vi/jeMTAMc44MY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jeMTAMc44MY"
+    },
+    {
+      "id": "-ODdVkHphf4",
+      "title": "山口市　伊藤和貴市長が出馬表明",
+      "thumbnail": "https://i.ytimg.com/vi/-ODdVkHphf4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-ODdVkHphf4"
+    },
+    {
+      "id": "WrkvQ3D1X4E",
+      "title": "【山口】田布施・平生が給食の共同調理スタート",
+      "thumbnail": "https://i.ytimg.com/vi/WrkvQ3D1X4E/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WrkvQ3D1X4E"
+    },
+    {
+      "id": "eu8k4N9OSdg",
+      "title": "【山口】柳井商工女子バド部が優勝報告会",
+      "thumbnail": "https://i.ytimg.com/vi/eu8k4N9OSdg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eu8k4N9OSdg"
+    },
+    {
+      "id": "3Df4-OwUVl0",
+      "title": "【山口】収容者の移送で警察署と拘置支所が協定",
+      "thumbnail": "https://i.ytimg.com/vi/3Df4-OwUVl0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3Df4-OwUVl0"
+    },
+    {
+      "id": "ofWJtCuSm0c",
+      "title": "スゴ技！コウジョー魂「あさひ製菓」真心×努力のスイーツ",
+      "thumbnail": "https://i.ytimg.com/vi/ofWJtCuSm0c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ofWJtCuSm0c"
+    },
+    {
+      "id": "aviSYRmSFOY",
+      "title": "スゴ技！コウジョー魂「永岡鋼業」ワイパーの背骨",
+      "thumbnail": "https://i.ytimg.com/vi/aviSYRmSFOY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aviSYRmSFOY"
+    },
+    {
+      "id": "72dibTbC15g",
+      "title": "【山口】きょうから９月　２学期スタート",
+      "thumbnail": "https://i.ytimg.com/vi/72dibTbC15g/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=72dibTbC15g"
+    },
+    {
+      "id": "W_Ya05CKmus",
+      "title": "８月最終日も暑かった　秋吉台にぎわう",
+      "thumbnail": "https://i.ytimg.com/vi/W_Ya05CKmus/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=W_Ya05CKmus"
+    },
+    {
+      "id": "tCGaMoLsKUI",
+      "title": "【山口】山口産業がケニアから新たに３人　社員で受け入れ",
+      "thumbnail": "https://i.ytimg.com/vi/tCGaMoLsKUI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tCGaMoLsKUI"
+    },
+    {
+      "id": "XlGv_UoSX0g",
+      "title": "こどもシゴト博２０２５ｉｎ山口",
+      "thumbnail": "https://i.ytimg.com/vi/XlGv_UoSX0g/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XlGv_UoSX0g"
+    },
+    {
+      "id": "ZtC4Ldgny4I",
+      "title": "チェーンソーアートで5度目の世界一！",
+      "thumbnail": "https://i.ytimg.com/vi/ZtC4Ldgny4I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZtC4Ldgny4I"
+    },
+    {
+      "id": "elg8hhZUnvI",
+      "title": "【山口】中間貯蔵施設「立地は可能」中電が報告",
+      "thumbnail": "https://i.ytimg.com/vi/elg8hhZUnvI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=elg8hhZUnvI"
+    },
+    {
+      "id": "24VvvpVVCdQ",
+      "title": "【山口】中間貯蔵施設　中国電力が上関町に調査結果を報告",
+      "thumbnail": "https://i.ytimg.com/vi/24VvvpVVCdQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=24VvvpVVCdQ"
+    },
+    {
+      "id": "g7CxIQfQkYY",
+      "title": "【山口】山陰道など早期開通求め決起大会",
+      "thumbnail": "https://i.ytimg.com/vi/g7CxIQfQkYY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=g7CxIQfQkYY"
+    },
+    {
+      "id": "l8ELkM_Znrg",
+      "title": "「光海軍工廠・極秘地下兵器工場～証言・終戦前日の空襲」山口県光市に海軍の地下工場が現存。終戦前日の空襲で地下工場に避難した女性が80年ぶりに現地を訪れた。当時14歳の少女の記憶が鮮明によみがえる。",
+      "thumbnail": "https://i.ytimg.com/vi/l8ELkM_Znrg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=l8ELkM_Znrg"
+    },
+    {
+      "id": "KgL7i_e8GOo",
+      "title": "【山口】長生炭鉱「人骨と判明」",
+      "thumbnail": "https://i.ytimg.com/vi/KgL7i_e8GOo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KgL7i_e8GOo"
+    },
+    {
+      "id": "3mP5kvQbFxk",
+      "title": "長生炭鉱で回収されたものは「人骨」　担当記者の解説",
+      "thumbnail": "https://i.ytimg.com/vi/3mP5kvQbFxk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3mP5kvQbFxk"
+    },
+    {
+      "id": "U6Lz0iCePAI",
+      "title": "【山口】ＧＸ戦略地域の選定に向け動き加速",
+      "thumbnail": "https://i.ytimg.com/vi/U6Lz0iCePAI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=U6Lz0iCePAI"
+    },
+    {
+      "id": "GryhEA5FSmk",
+      "title": "【山口】長生炭鉱　回収したものは人骨と判明",
+      "thumbnail": "https://i.ytimg.com/vi/GryhEA5FSmk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GryhEA5FSmk"
+    },
+    {
+      "id": "XSd0hKZBVck",
+      "title": "やまぐちエコの声「多機能フィルター」で緑を再生",
+      "thumbnail": "https://i.ytimg.com/vi/XSd0hKZBVck/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XSd0hKZBVck"
+    },
+    {
+      "id": "JKjKpDt44Ys",
+      "title": "テイクアウトの魅力　道の駅ソレーネ周南　8月26日放送　あちこちグルメ",
+      "thumbnail": "https://i.ytimg.com/vi/JKjKpDt44Ys/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JKjKpDt44Ys"
+    },
+    {
+      "id": "aB_33uc5j-Q",
+      "title": "【山口】来年開校　岩国高付属中で児童向け説明会",
+      "thumbnail": "https://i.ytimg.com/vi/aB_33uc5j-Q/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aB_33uc5j-Q"
+    },
+    {
+      "id": "pZ4O7w5NEBE",
+      "title": "【山口】長生炭鉱　頭蓋骨らしきもののを回収",
+      "thumbnail": "https://i.ytimg.com/vi/pZ4O7w5NEBE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pZ4O7w5NEBE"
+    },
+    {
+      "id": "ClCrNqnxzjA",
+      "title": "【山口】赤ちゃんライオンすくすく",
+      "thumbnail": "https://i.ytimg.com/vi/ClCrNqnxzjA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ClCrNqnxzjA"
+    },
+    {
+      "id": "EDEuV8f4_qs",
+      "title": "【山口】長生炭鉱　骨の鑑定が進む中 潜水調査続く",
+      "thumbnail": "https://i.ytimg.com/vi/EDEuV8f4_qs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EDEuV8f4_qs"
+    },
+    {
+      "id": "Fyx9DyoTlbI",
+      "title": "絶景の滝と岩に挟まる！？やまぐち頂きマス　宇部市最高峰「荒滝山」＃２",
+      "thumbnail": "https://i.ytimg.com/vi/Fyx9DyoTlbI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fyx9DyoTlbI"
+    },
+    {
+      "id": "9xcEPxObx3k",
+      "title": "【山口】秋芳梨の初荷出発式",
+      "thumbnail": "https://i.ytimg.com/vi/9xcEPxObx3k/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9xcEPxObx3k"
+    },
+    {
+      "id": "71kPTrG6gMs",
+      "title": "【山口】一部の学校で２学期がスタート",
+      "thumbnail": "https://i.ytimg.com/vi/71kPTrG6gMs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=71kPTrG6gMs"
+    },
+    {
+      "id": "eXLEYnBAyz0",
+      "title": "和木町長選挙 新人の坂本氏が当選",
+      "thumbnail": "https://i.ytimg.com/vi/eXLEYnBAyz0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eXLEYnBAyz0"
+    },
+    {
+      "id": "ck5qr9g8YdQ",
+      "title": "萩市でカヌー大会　岡崎選手が優勝",
+      "thumbnail": "https://i.ytimg.com/vi/ck5qr9g8YdQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ck5qr9g8YdQ"
+    },
+    {
+      "id": "Ngu6c5EpCyQ",
+      "title": "山口・平和のための戦争展",
+      "thumbnail": "https://i.ytimg.com/vi/Ngu6c5EpCyQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ngu6c5EpCyQ"
+    },
+    {
+      "id": "rN7bJUuv9X4",
+      "title": "【山口】ＪＴが馬関まつりで清掃活動",
+      "thumbnail": "https://i.ytimg.com/vi/rN7bJUuv9X4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rN7bJUuv9X4"
+    },
+    {
+      "id": "c5KWnC6rs-k",
+      "title": "するするいけます　ヒラメのうま味味わう一杯",
+      "thumbnail": "https://i.ytimg.com/vi/c5KWnC6rs-k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=c5KWnC6rs-k"
+    },
+    {
+      "id": "8NlcNAIXURw",
+      "title": "【山口】フェンシング・加納虹輝杯　始まる",
+      "thumbnail": "https://i.ytimg.com/vi/8NlcNAIXURw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8NlcNAIXURw"
+    },
+    {
+      "id": "69v3dg0RR7w",
+      "title": "【山口】稲刈り　今年の出来栄えは",
+      "thumbnail": "https://i.ytimg.com/vi/69v3dg0RR7w/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=69v3dg0RR7w"
+    },
+    {
+      "id": "wsqOJVDFK9Q",
+      "title": "へえそうなんじゃあ委員会　麺文化を支える　山口・宇部　木嶋製麺所",
+      "thumbnail": "https://i.ytimg.com/vi/wsqOJVDFK9Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wsqOJVDFK9Q"
+    },
+    {
+      "id": "Ftr2U3W7GKA",
+      "title": "上関町中間貯蔵施設　周南市　住民説明会想定しない",
+      "thumbnail": "https://i.ytimg.com/vi/Ftr2U3W7GKA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ftr2U3W7GKA"
+    },
+    {
+      "id": "ReIFT70jQCU",
+      "title": "愛を込めて贈りたい！　周南市文化会館周辺（後編）",
+      "thumbnail": "https://i.ytimg.com/vi/ReIFT70jQCU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ReIFT70jQCU"
+    },
+    {
+      "id": "IAB4Lne6Nhc",
+      "title": "家族でおでかけ　新エリアにアシカとフグ！",
+      "thumbnail": "https://i.ytimg.com/vi/IAB4Lne6Nhc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IAB4Lne6Nhc"
+    },
+    {
+      "id": "JE3bVISq5bo",
+      "title": "【山口】ＪＲ西日本　山陰線９月２７日運転再開",
+      "thumbnail": "https://i.ytimg.com/vi/JE3bVISq5bo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JE3bVISq5bo"
+    },
+    {
+      "id": "8Bq0x3sb1zU",
+      "title": "【山口】ロボット作りにかけた高校生の青春！",
+      "thumbnail": "https://i.ytimg.com/vi/8Bq0x3sb1zU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8Bq0x3sb1zU"
+    },
+    {
+      "id": "JPGE7k0ZRN4",
+      "title": "【山口】加納虹輝選手・中本選手が凱旋",
+      "thumbnail": "https://i.ytimg.com/vi/JPGE7k0ZRN4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JPGE7k0ZRN4"
+    },
+    {
+      "id": "vF3a5PzkaN8",
+      "title": "山口大学などが共同研究 世界初がん治療法を発表",
+      "thumbnail": "https://i.ytimg.com/vi/vF3a5PzkaN8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vF3a5PzkaN8"
+    },
+    {
+      "id": "hmmOHFF1Ohw",
+      "title": "【山口】普段は見られないウラ側！関門トンネルの管理施設を公開",
+      "thumbnail": "https://i.ytimg.com/vi/hmmOHFF1Ohw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hmmOHFF1Ohw"
+    },
+    {
+      "id": "ISL8_g8R9Ag",
+      "title": "【山口】県内のスーパーの店頭にも新米 現状と見通しは？",
+      "thumbnail": "https://i.ytimg.com/vi/ISL8_g8R9Ag/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ISL8_g8R9Ag"
+    },
+    {
+      "id": "-Q_Z0NC3jqg",
+      "title": "【山口】山口デスティネーションキャンペーン 事前イベントの概要を発表",
+      "thumbnail": "https://i.ytimg.com/vi/-Q_Z0NC3jqg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-Q_Z0NC3jqg"
+    },
+    {
+      "id": "axtqdeFzqUM",
+      "title": "「2023年のほびっと～声が這い出るとき・戦後80年版」（2023年5月26日初回放送）かつて米軍岩国基地の近くに反戦喫茶があった。あれから半世紀、喫茶店の元スタッフたちに今の岩国基地はどう映るのか。",
+      "thumbnail": "https://i.ytimg.com/vi/axtqdeFzqUM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=axtqdeFzqUM"
+    },
+    {
+      "id": "wWB-Ur9kGbM",
+      "title": "「流転の丘・戦後80年版」（2020年11月27日初回放送）2018年、山口県北部にある陸上自衛隊演習場に迎撃ミサイルシステム「イージス・アショア」の配備計画が浮上。国策に揺れる山里の人々を追った。",
+      "thumbnail": "https://i.ytimg.com/vi/wWB-Ur9kGbM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wWB-Ur9kGbM"
+    },
+    {
+      "id": "twp33eFu-L4",
+      "title": "「ほほえみの彼方に 90歳ヒバクシャ大内塗を描く・戦後80年版」（2017年8月5日初回放送）広島市の原爆投下の翌日、旧陸軍被服支廠で救護活動のあたった男性が見た被爆の実相とは。",
+      "thumbnail": "https://i.ytimg.com/vi/twp33eFu-L4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=twp33eFu-L4"
+    },
+    {
+      "id": "oB80YskcWts",
+      "title": "【山口】長生炭鉱　市民団体が国に支援要望",
+      "thumbnail": "https://i.ytimg.com/vi/oB80YskcWts/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oB80YskcWts"
+    },
+    {
+      "id": "6YzKUJqgWrA",
+      "title": "全席オーシャンビューで楽しむ　スパイシーチキンカレー&夏ドリンク　下関・バンクシアカフェ",
+      "thumbnail": "https://i.ytimg.com/vi/6YzKUJqgWrA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6YzKUJqgWrA"
+    },
+    {
+      "id": "kEnxJ1Cirt4",
+      "title": "「デルタの記憶～基地の街のきみたちへ・戦後80年版」（2021年5月28日初回放送）　朝鮮戦争の只中、米軍岩国基地近くの中学校で作られた文集「デルタ」。そこには子供たちの基地への思いが綴られていた。",
+      "thumbnail": "https://i.ytimg.com/vi/kEnxJ1Cirt4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kEnxJ1Cirt4"
+    },
+    {
+      "id": "2OBzFlJIL_Q",
+      "title": "「回天 二つの心・戦後80年版」（2019年5月24日初回放送）ある回天搭乗員が出撃前に家族に宛てたメッセージを録音していた。約２分半の肉声に込められていた二つの心とは…。",
+      "thumbnail": "https://i.ytimg.com/vi/2OBzFlJIL_Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2OBzFlJIL_Q"
+    },
+    {
+      "id": "ykkOb1QrO7I",
+      "title": "うそ電話になぜだまされる？詐欺グループの見えざる本性",
+      "thumbnail": "https://i.ytimg.com/vi/ykkOb1QrO7I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ykkOb1QrO7I"
+    },
+    {
+      "id": "HI4g_1vnT_I",
+      "title": "丸刈りだけじゃない！　柔道部員が考える自分らしい髪型",
+      "thumbnail": "https://i.ytimg.com/vi/HI4g_1vnT_I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HI4g_1vnT_I"
+    },
+    {
+      "id": "BBXxkzAtBAY",
+      "title": "【戦後80年】「故郷になった引き揚げ港・仙崎」（2025年8月15日放送）山口県長門市仙崎には、終戦後１年余の間に約41万人が引き揚げてきた。朝鮮半島で何があったのか。そして仙崎港で見たものとは。",
+      "thumbnail": "https://i.ytimg.com/vi/BBXxkzAtBAY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BBXxkzAtBAY"
+    },
+    {
+      "id": "vHAx5LeyrSg",
+      "title": "【戦後80年】人間魚雷「回天」の島を訪れて（2025年8月11日放送）太平洋戦争末期、回天の訓練基地があった山口県周南市大津島を訪問。実物大の回天レプリカを目にした２人の胸に去来するものとは…。",
+      "thumbnail": "https://i.ytimg.com/vi/vHAx5LeyrSg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vHAx5LeyrSg"
+    },
+    {
+      "id": "Elfup2hq7SI",
+      "title": "【山口】最低賃金が初の１０００円超えへ 審議会が労働局に答申",
+      "thumbnail": "https://i.ytimg.com/vi/Elfup2hq7SI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Elfup2hq7SI"
+    },
+    {
+      "id": "GXFxLzASKcI",
+      "title": "【山口】県内で初めて部活動の完全地域移行が長門市でスタート",
+      "thumbnail": "https://i.ytimg.com/vi/GXFxLzASKcI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GXFxLzASKcI"
+    },
+    {
+      "id": "rE6AxMqFVeI",
+      "title": "Jチャンやまぐち　９月２３日（火）浦天",
+      "thumbnail": "https://i.ytimg.com/vi/rE6AxMqFVeI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rE6AxMqFVeI"
     }
   ]
 }
