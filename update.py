@@ -5,6 +5,7 @@ import argparse
 import os
 import subprocess
 import sys
+from datetime import datetime
 from pathlib import Path
 
 
@@ -29,6 +30,40 @@ def run_with_venv(cmd, cwd=None):
     if result.returncode != 0:
         print(f"命令执行失败，退出码: {result.returncode}")
         sys.exit(result.returncode)
+
+
+def git_commit():
+    """提交更改到 git"""
+    try:
+        # 检查是否有更改需要提交
+        result = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
+        if not result.stdout.strip():
+            print("✅ 工作目录干净，无需提交")
+            return True
+        
+        # 添加所有更改
+        subprocess.run(['git', 'add', '.'], check=True)
+        
+        # 生成提交信息（使用当前时间戳）
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        commit_message = f"频道数据更新 - {timestamp}"
+        
+        # 提交更改
+        subprocess.run(['git', 'commit', '-m', commit_message], check=True)
+        
+        print(f"✅ 已提交到 git: {commit_message}")
+        return True
+        
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Git 提交失败: {e}")
+        print("请检查 git 配置和网络连接")
+        return False
+    except FileNotFoundError:
+        print("❌ 未找到 git 命令，请确保已安装 git")
+        return False
+    except Exception as e:
+        print(f"❌ 提交过程中出现错误: {e}")
+        return False
 
 
 def update_channels(args):
@@ -93,6 +128,10 @@ def update_channels(args):
     run_with_venv(check_cmd, cwd=PROJECT_ROOT)
     
     print("\n=== 频道更新完成 ===")
+    
+    # 8. 提交所有更改到 Git
+    print("\n8. 提交到 Git...")
+    git_commit()
 
 
 def quick_update(args):
