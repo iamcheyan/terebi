@@ -17,6 +17,22 @@ CHANNELS_FILE = PROJECT_ROOT / "japan_tv_youtube_channels.json"
 DATA_DIR = PROJECT_ROOT / "data"
 IMG_DIR = PROJECT_ROOT / "img"
 
+"""
+# 基本添加频道
+python add_channel.py https://www.youtube.com/@shioneru
+
+# 指定频道名称
+python add_channel.py https://www.youtube.com/@shioneru --name "汐音る"
+
+# 指定分类和子分类
+python add_channel.py https://www.youtube.com/@shioneru --category "地方放送局" --subcategory "関東地方"
+
+# 跳过头像下载
+python add_channel.py https://www.youtube.com/@shioneru --no-avatar
+
+# 跳过git提交
+python add_channel.py https://www.youtube.com/@shioneru --no-git
+"""
 
 def get_channel_info(channel_url):
     """从YouTube URL获取频道信息"""

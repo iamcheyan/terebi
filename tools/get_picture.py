@@ -31,18 +31,16 @@ if not os.path.exists('../img'):
 def initialize_counters(data):
     total_count = 0
     
-    # 检查全国放送局中需要下载的频道数量
-    for channel in data["全国放送局"]:
-        avatar_filename = f"../img/{channel['name']}.jpg"
-        if not os.path.exists(avatar_filename):
-            total_count += 1
-    
-    # 检查地方放送局中需要下载的频道数量
-    for region, stations in data["地方放送局"].items():
-        for channel in stations:
-            avatar_filename = f"../img/{channel['name']}.jpg"
-            if not os.path.exists(avatar_filename):
-                total_count += 1
+    # 遍历所有分类和子分类
+    for category, subcategories in data.items():
+        if isinstance(subcategories, dict):
+            for subcategory, channels in subcategories.items():
+                if isinstance(channels, list):
+                    for channel in channels:
+                        if isinstance(channel, dict) and 'name' in channel:
+                            avatar_filename = f"../img/{channel['name']}.jpg"
+                            if not os.path.exists(avatar_filename):
+                                total_count += 1
     
     process_channel.total_count = total_count
     process_channel.processed_count = 0
@@ -128,13 +126,13 @@ def process_channel(channel):
 # 在开始处理频道之前调用初始化函数
 initialize_counters(data)
 
-# 处理全国放送局
-for channel in data["全国放送局"]:
-    process_channel(channel)
-    
-
-# 处理地方放送局
-for region, stations in data["地方放送局"].items():
-    print(f"\n开始处理{region}的电视台")
-    for channel in stations:
-        process_channel(channel)
+# 处理所有分类和子分类
+for category, subcategories in data.items():
+    if isinstance(subcategories, dict):
+        print(f"\n开始处理{category}分类")
+        for subcategory, channels in subcategories.items():
+            if isinstance(channels, list):
+                print(f"  处理{subcategory}子分类")
+                for channel in channels:
+                    if isinstance(channel, dict) and 'name' in channel:
+                        process_channel(channel)

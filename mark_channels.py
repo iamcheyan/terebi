@@ -90,6 +90,12 @@ def mark_cached_status():
 def git_commit(total_videos):
     """提交更改到 git"""
     try:
+        # 检查是否有更改需要提交
+        result = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
+        if not result.stdout.strip():
+            print("✅ 工作目录干净，无需提交")
+            return True
+        
         # 添加所有更改
         subprocess.run(['git', 'add', '.'], check=True)
         
@@ -101,14 +107,18 @@ def git_commit(total_videos):
         subprocess.run(['git', 'commit', '-m', commit_message], check=True)
         
         print(f"✅ 已提交到 git: {commit_message}")
+        return True
         
     except subprocess.CalledProcessError as e:
         print(f"❌ Git 提交失败: {e}")
         print("请检查 git 配置和网络连接")
+        return False
     except FileNotFoundError:
         print("❌ 未找到 git 命令，请确保已安装 git")
+        return False
     except Exception as e:
         print(f"❌ 提交过程中出现错误: {e}")
+        return False
 
 
 def main():
