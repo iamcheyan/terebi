@@ -52,9 +52,9 @@ def git_commit():
         subprocess.run(['git', 'commit', '-m', commit_message], check=True)
         print(f"✅ 已提交到本地 git: {commit_message}")
         
-        # 推送到远程仓库
-        print("正在推送到远程仓库...")
-        push_result = subprocess.run(['git', 'push'], capture_output=True, text=True)
+        # 强制推送到远程仓库（使用 --force）
+        print("正在强制推送到远程仓库...")
+        push_result = subprocess.run(['git', 'push', '--force'], capture_output=True, text=True)
         
         if push_result.returncode == 0:
             print("✅ 已成功推送到远程仓库")
