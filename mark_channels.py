@@ -24,13 +24,22 @@ def mark_cached_status():
     with open(CHANNELS_FILE, 'r', encoding='utf-8') as f:
         channels_data = json.load(f)
     
-    # 获取所有数据文件
+    # 获取所有数据文件并统计视频数量
     data_files = set()
+    total_videos = 0
     if DATA_DIR.exists():
         for file in DATA_DIR.glob("*.json"):
             data_files.add(file.stem)  # 文件名（不含扩展名）
+            # 统计该文件的视频数量
+            try:
+                with open(file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    videos = data.get('videos', [])
+                    total_videos += len(videos)
+            except Exception as e:
+                print(f"读取文件 {file} 时出错: {e}")
     
-    print(f"发现 {len(data_files)} 个数据文件")
+    print(f"发现 {len(data_files)} 个数据文件，共 {total_videos} 个视频")
     
     def process_channels(channels_list, parent_key=None):
         """递归处理频道列表"""
@@ -74,17 +83,19 @@ def mark_cached_status():
         print(f"\n已更新 {total_updated} 个频道的缓存状态")
     else:
         print("\n所有频道的缓存状态都是最新的")
+    
+    return total_videos
 
 
-def git_commit():
+def git_commit(total_videos):
     """提交更改到 git"""
     try:
         # 添加所有更改
         subprocess.run(['git', 'add', '.'], check=True)
         
-        # 生成提交信息（使用当前时间戳）
+        # 生成提交信息（使用当前时间戳和视频数量）
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        commit_message = f"更新频道缓存标记 - {timestamp}"
+        commit_message = f"更新频道缓存标记 - {timestamp} (共 {total_videos} 个视频)"
         
         # 提交更改
         subprocess.run(['git', 'commit', '-m', commit_message], check=True)
@@ -102,11 +113,11 @@ def git_commit():
 
 def main():
     print("=== 更新频道缓存标记 ===")
-    mark_cached_status()
+    total_videos = mark_cached_status()
     print("=== 缓存标记更新完成 ===")
     
     print("\n=== 提交到 Git ===")
-    git_commit()
+    git_commit(total_videos)
     print("=== 所有操作完成 ===")
 
 
