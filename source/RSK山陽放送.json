@@ -1,1549 +1,1406 @@
 {
   "channel_id": "UCTUbmRxExnIYmoXRsRSEdBw",
-  "channel_name": "RSK山陽放送公式チャンネル",
+  "channel_name": "UCTUbmRxExnIYmoXRsRSEdBw",
   "original_name": "RSK山陽放送",
-  "updated_at": "2025-10-11T12:01:32.491352",
+  "updated_at": "2025-10-11T12:08:30.547875",
   "videos": [
     {
-      "kind": "youtube#playlistItem",
-      "etag": "YBvya0QFypagPGAm-dipLidrAok",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LlFEU3JHaUxBNl9r",
-      "snippet": {
-        "publishedAt": "2025-10-10T09:15:13Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "自然と歴史を巡る！アスレチック公園と「い草」をイメージしたスカッシュ｜おかやま12町村スタンプラリー（2025年10月3日放送）",
-        "description": "2025年10月現在、開催中の「おかやま12町村スタンプラリー」でスタンプを求めて矢掛町のスポット「フォレスタ！早島町ふれあいの森公園」「早島町観光センター」を訪れました。\n\n一坪 花音：https://www.rsk.co.jp/ana/ichitsubo_kanon.html\n\nRSKアプリ：https://www.rsk.co.jp/rsk_app/\nおかやま12町村スタンプラリー：https://www.rsk.co.jp/event/okayama12-stamp/\n\n#おかやま12町村スタンプラリー\n#早島町\n#RSKアプリ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QDSrGiLA6_k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QDSrGiLA6_k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QDSrGiLA6_k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QDSrGiLA6_k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QDSrGiLA6_k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "QDSrGiLA6_k"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "2ByFmURjigE",
+      "title": "【コープ山陽から中継】子育て中のママ・パパをサポートする商品をご紹介！｜ 50th 集まれ！おかやまコープひろば（2025年3月6日）",
+      "thumbnail": "https://i.ytimg.com/vi/2ByFmURjigE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2ByFmURjigE"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "zSTn2p0u8gplaV2ahTVR1phOKd0",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Lm9MNGgyQ0RiQUdV",
-      "snippet": {
-        "publishedAt": "2025-10-10T08:49:11Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "岡山・香川の秋祭り特集！地元食材の屋台グルメも！（2025年10月10日放送）",
-        "description": "いま気になることを何でも調査するコーナー。岡山香川の皆さんの生活に役立つ情報などなどを調査します！\r\n\r\n金曜ライブ いまドキッ！！：https://www.rsk.co.jp/tv/imadoki/\r\n\r\n#秋祭り #岡山香川 #いまコレ調査員",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oL4h2CDbAGU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oL4h2CDbAGU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oL4h2CDbAGU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oL4h2CDbAGU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oL4h2CDbAGU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "oL4h2CDbAGU"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "cTOHbWVblGA",
+      "title": "ざくっ＆とろ～んな高松のシュークリーム専門店！番組から重大発表も！？｜いまドキッ！de Go（2025年3月6日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/cTOHbWVblGA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cTOHbWVblGA"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "aI_1H7c01UdAnDEVDkxPL0hIwWA",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LnVsalpVcmlTU0JZ",
-      "snippet": {
-        "publishedAt": "2025-10-10T08:44:08Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "【後編】和の文化にハマる若者 女子高生推しは盆栽？高松の盆栽を全国へ！｜KAGAWA旬ネタリサーチ部（2025年10月10日放送）",
-        "description": "坂俊介アナウンサーが香川在住の高校生リポーターと共に、香川の魅力を発見するコーナー。\r\n岡山香川の皆さんの生活に役立つ情報などなどを調査します！\r\n\r\n前編はこちら\r\n▼https://youtu.be/uljZUriSSBY\r\n\r\n坂俊介（RSKアナウンサー）：https://www.rsk.co.jp/ana/ban_shunsuke.html\r\n金曜ライブ いまドキッ！！：https://www.rsk.co.jp/tv/imadoki/\r\n\r\n#盆栽 #香川 #旬ネタリサーチ部",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/uljZUriSSBY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/uljZUriSSBY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/uljZUriSSBY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/uljZUriSSBY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/uljZUriSSBY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "uljZUriSSBY"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "G6DvTax7EXg",
+      "title": "花ｘスポーツのフラワーアート！アイデア満載の花｜きょうトピ！（2025年3月5日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/G6DvTax7EXg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=G6DvTax7EXg"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "HRz9snCEbRj0r5ouxl00OspkKH0",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Lnd3cXhLZDlwMmk4",
-      "snippet": {
-        "publishedAt": "2025-10-10T08:43:51Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "【前編】和の文化にハマる若者 目指せ！漆芸作家｜KAGAWA旬ネタリサーチ部（2025年10月10日放送）",
-        "description": "坂俊介アナウンサーが香川在住の高校生リポーターと共に、香川の魅力を発見するコーナー。\r\n岡山香川の皆さんの生活に役立つ情報などなどを調査します！\r\n\r\n後編はこちら\r\n▼https://youtu.be/uljZUriSSBY\r\n\r\n坂俊介（RSKアナウンサー）：https://www.rsk.co.jp/ana/ban_shunsuke.html\r\n金曜ライブ いまドキッ！！：https://www.rsk.co.jp/tv/imadoki/\r\n\r\n#漆芸作家 #香川 #旬ネタリサーチ部",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wwqxKd9p2i8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wwqxKd9p2i8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wwqxKd9p2i8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/wwqxKd9p2i8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/wwqxKd9p2i8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "wwqxKd9p2i8"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "aGBATzFdlvk",
+      "title": "築200年の長屋を改装！美観地区で立ち食いスタイルの創作そば｜きょうトピ！（2025年3月5日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/aGBATzFdlvk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aGBATzFdlvk"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "yfR6GoOgtMUg7tCcjYfdMqi9M8I",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LkhXanE3WmtaWmVN",
-      "snippet": {
-        "publishedAt": "2025-10-10T08:43:27Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "コープおかやま若鶏を使った「鶏のコーンクリーム煮」｜ みんなのくらしラボ（2025年10月10日）",
-        "description": "毎日をもっとワクワクに！\nコーナーでは、おかやまのコープの様々な取り組みを紹介。\nくらしがちょっと豊かに・楽しく・笑顔になる情報をお届けします！\n\n放送日：毎月 第1金曜日＋不定期 ごご3時49分～放送\n\n番組公式ページ：https://www.rsk.co.jp/tv/coop/\n#おかやまコープ\n#みんなのくらしラボ\n#いまドキッ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HWjq7ZkZZeM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HWjq7ZkZZeM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HWjq7ZkZZeM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HWjq7ZkZZeM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HWjq7ZkZZeM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "HWjq7ZkZZeM"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "QAPbeaO0P74",
+      "title": "#67 大手前高松中学・高等学校 漫才コンビ「二者面談」｜中高生ニュース（2025年3月5日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/QAPbeaO0P74/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QAPbeaO0P74"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "sj4hDvhbkLXnTEbqr9XchkX3kbk",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LlhGdkhLeHhrMFRz",
-      "snippet": {
-        "publishedAt": "2025-10-10T05:45:37Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "岡山 焼肉ランキング ｜ VOICE de GO！（2025年10月1日放送）",
-        "description": "とにかく旨い！岡山の人気焼肉店がズラリ！\n10秒ロースとは？コスパ最高のブランド牛？\n無料のサービスお肉って？ファミリーに大人気の食べ放題も！\n果たしてNO.1はどこ？\n\n出演：宮武将吾（RSKアナウンサー）\nナレーション：岡田美奈子（RSKアナウンサー）\n\n番組HP：https://www.rsk.co.jp/tv/voice/\n番組公式Instagram：https://www.instagram.com/rsk.voice/\nTVer：https://tver.jp/series/srj6bqinmu\n\n#焼肉 #食べ放題 #10秒ロース #ブランド牛 #ランキング",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XFvHKxxk0Ts/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XFvHKxxk0Ts/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XFvHKxxk0Ts/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/XFvHKxxk0Ts/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/XFvHKxxk0Ts/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "XFvHKxxk0Ts"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "YFp77OgCNeI",
+      "title": "【レシピ】菜の花とてりやきチキンのサンドイッチ｜らくウマキッチン（2025年3月4日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/YFp77OgCNeI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YFp77OgCNeI"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "vy-Dpgf50q6WzxNzJm-xgSEAYXk",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LjNwa3hXeVY5NGU4",
-      "snippet": {
-        "publishedAt": "2025-10-08T04:41:36Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "出演俳優３人が生出演！「サーカス・サーカス 木下サーカス物語」|いまドキッ！（2025年8月22日放送）",
-        "description": "「サーカス・サーカス 木下サーカス物語」出演俳優３人が生出演！\r\n2025年12月13日・14日に岡山芸術創造劇場ハレノワ大劇場で開催！\r\n\r\n【公式HP】\r\nhttps://www.rsk.co.jp/event/musical_circus/\r\n\r\n#RSK山陽放送　#岡山市民ミュージカル　#木下サーカス物語",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3pkxWyV94e8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3pkxWyV94e8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3pkxWyV94e8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3pkxWyV94e8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3pkxWyV94e8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "3pkxWyV94e8"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "KOxN2n0BSUc",
+      "title": "足守の雛まつり＆お皿の中がパラダイスなスパイスカレー！？｜きょうトピ！（2025年3月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/KOxN2n0BSUc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KOxN2n0BSUc"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "sIyleOnSTWClm77hpESLfO_D-0g",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LmN5YnRzMGVJYURV",
-      "snippet": {
-        "publishedAt": "2025-10-08T04:41:29Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "出演ダンサー３人が生出演！「サーカス・サーカス 木下サーカス物語」|いまドキッ！（2025年9月26日放送）",
-        "description": "「サーカス・サーカス 木下サーカス物語」出演ダンサーが公演の魅力を語る！\r\n2025年12月13日・14日に岡山芸術創造劇場ハレノワ大劇場で開催！\r\n\r\n【公式HP】\r\nhttps://www.rsk.co.jp/event/musical_circus/\r\n\r\n#RSK山陽放送　#岡山市民ミュージカル　#木下サーカス物語",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cybts0eIaDU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cybts0eIaDU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cybts0eIaDU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cybts0eIaDU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cybts0eIaDU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "cybts0eIaDU"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "j0h7LrJgyBc",
+      "title": "総社市 商店街通りにいいねを探しに（前編）！学生服のお店に駄菓子が！？ギャラリー＆カフェも｜いいねを探しに行ってみた（2025年3月4日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/j0h7LrJgyBc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=j0h7LrJgyBc"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "hXV5bwblPq_4FWMpc3C1MUEW9l8",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LktsOEtIdUlJaTdz",
-      "snippet": {
-        "publishedAt": "2025-10-07T22:00:32Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "#96 高梁高校 高校生外交官｜中高生ニュース（2025年10月8日放送）",
-        "description": "岡山・香川エリアの中学校・高校を対象としたミニコーナー「岡山・香川 中高生ニュース」を朝の情報番組『THE TIME,』内（水曜日6:50頃）で放送中！\n\n番組HP：https://www.rsk.co.jp/tv/school_news/\n\n#中高生ニュース #rsk山陽放送 #高校生外交官",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Kl8KHuIIi7s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Kl8KHuIIi7s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Kl8KHuIIi7s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Kl8KHuIIi7s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Kl8KHuIIi7s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Kl8KHuIIi7s"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "y5tVZvA8QJs",
+      "title": "家の壁や床など様々な用途がある”オークラボード”を製造する「大倉工業」のSDGsの取り組み｜RSK SDGsプロジェクト「瀬戸内から未来へ」（2025年3月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/y5tVZvA8QJs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=y5tVZvA8QJs"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "hslNYwcNURqxPbZoYQsA9lsyXJI",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Lm1tc29HSFRmNGk4",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:57:20Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "光南　脇本 昌明　代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年10月12日放送）",
-        "description": "未来を拓く注目の企業！石田好伸が就活生や保護者に役立つ情報をお届け。岡山・香川の企業情報満載！\r\n\r\n毎週日曜日あさ6:30～ 放送\r\n番組ホームページ：https://www.rsk.co.jp/tv/jounetsu-leaders/\r\n\r\n#光南  #情熱リーダーズ #RSK山陽放送",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mmsoGHTf4i8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mmsoGHTf4i8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mmsoGHTf4i8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/mmsoGHTf4i8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "mmsoGHTf4i8"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "XkGaft4WOxA",
+      "title": "うどん県にそばブームを！そば王国の名物を讃岐風にアレンジ｜きょうトピ！（2025年2月28日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/XkGaft4WOxA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XkGaft4WOxA"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "nMHgIS2KmMZEHufpmcW3QbLcFK4",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Lm9TSDJUaC1QLUw0",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:59Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "前田羚菜プロとマッチプレー！コロコロ作戦とは！？｜SUNDAYスマイルGOLF（2025年9月28日放送）",
-        "description": "前田羚菜プロとアナウンサーチームがマッチプレー！前途多難なアナウンサーチームに勝利の女神は微笑むのか！？羚菜プロのワンポイントレッスン！３パット名人・新田のパターで一同驚愕！？\n\n出演\n前田 羚菜プロ\n宮武 将吾：https://www.rsk.co.jp/ana/miyatake_shogo.html\n新田 真子：https://www.rsk.co.jp/ana/nitta_mako.html\n\n番組HP：https://www.rsk.co.jp/tv/smilegolf/\n\n※プレゼントの受付は終了しています。\n\n#SUNDAYスマイルGOLF #前田羚菜 #ゴルフ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oSH2Th-P-L4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oSH2Th-P-L4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oSH2Th-P-L4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oSH2Th-P-L4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oSH2Th-P-L4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "oSH2Th-P-L4"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "wBwMkBIvkCc",
+      "title": "Smile ～きょうも誰かの笑顔のために～ presented by おかやまコープ（2025年3月1日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/wBwMkBIvkCc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wBwMkBIvkCc"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "ooJWNboL7pCjqWvCNMsQUgx7R5I",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Lk1pS0R0c3AzdmhJ",
-      "snippet": {
-        "publishedAt": "2025-10-03T09:00:37Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "日本のエーゲ海『牛窓』でSUP(サップ)体験｜ VOICE de GO！（2025年9月24日放送）",
-        "description": "気軽にSUP体験ができるのは『B-tree』（岡山県瀬戸内市牛窓町鹿忍6642-2）\n\n◆SUP体験 初心者コース 1名（2時間 平日6000円・土日祝6500円）\n◆島ツアー 1名8000円（2時間～）\n※前日までに要予約・各SUP一式＆シャワー込み\n\n出演：宮武将吾（RSKアナウンサー）\nナレーション：岡田美奈子（RSKアナウンサー）\n\n番組HP：https://www.rsk.co.jp/tv/voice/\n番組公式Instagram：https://www.instagram.com/rsk.voice/\nTVer：https://tver.jp/series/srj6bqinmu\n\n#牛窓 #SUP #サップ #瀬戸内海",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/MiKDtsp3vhI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/MiKDtsp3vhI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/MiKDtsp3vhI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/MiKDtsp3vhI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/MiKDtsp3vhI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 11,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "MiKDtsp3vhI"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "Vkr9-zmvwRg",
+      "title": "生地がサクフワ！新食感の生ドーナツ専門店☆｜きょうトピ！（2025年2月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Vkr9-zmvwRg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Vkr9-zmvwRg"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "txXo-kplCpZjhoZ7ah19miDdSbo",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LjFUNTZhcmdYNVlN",
-      "snippet": {
-        "publishedAt": "2025-10-03T09:00:08Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "発見！絶景サウナのあるお宿｜ VOICE de GO！（2025年9月24日放送）",
-        "description": "岡山県倉敷市児島唐琴町にある宿泊施設『DENIM HOSTEL float』には瀬戸内海のオーシャンビューが楽しめる絶景サウナがあります。\n心も体も整うこと間違いなし！食事も楽しめます。\n\n◆宿泊料金 1名8800円～（要予約）　\n（1室2名利用時・部屋のタイプ時期によって料金は異なります）\n◆BARRELサウナ 1名2200円（90分）FORESTサウナ 1名3000円（90分）\n（要予約・貸し切りは別途）\n\n出演：宮武将吾（RSKアナウンサー）\nナレーション：岡田美奈子（RSKアナウンサー）\n\n番組HP：https://www.rsk.co.jp/tv/voice/\n番組公式Instagram：https://www.instagram.com/rsk.voice/\nTVer：https://tver.jp/series/srj6bqinmu\n\n#サウナ #児島 #絶景 #デニム #瀬戸内海",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1T56argX5YM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1T56argX5YM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1T56argX5YM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1T56argX5YM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1T56argX5YM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 12,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "1T56argX5YM"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "S_5rkMABs-Q",
+      "title": "大型遊具も魅力！思いやりが溢れるお洒落カフェ（2025年2月25日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/S_5rkMABs-Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S_5rkMABs-Q"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "DaI81thaR__8Mkj8JmUIHmdfJLs",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LkU5MWxIcTdFak9N",
-      "snippet": {
-        "publishedAt": "2025-10-03T08:59:53Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "【後編】高校の文化祭に潜入！ステージ発表に潜入！？｜KAGAWA旬ネタリサーチ部（2025年10月3日放送）",
-        "description": "坂俊介アナウンサーが香川在住の高校生リポーターと共に、香川の魅力を発見するコーナー。\r\n岡山香川の皆さんの生活に役立つ情報などなどを調査します！\r\n\r\n前編はこちら\r\n▼https://youtu.be/71ji2UGG8Hc\r\n\r\n坂俊介（RSKアナウンサー）：https://www.rsk.co.jp/ana/ban_shunsuke.html\r\n金曜ライブ いまドキッ！！：https://www.rsk.co.jp/tv/imadoki/\r\n\r\n# #香川 #旬ネタリサーチ部",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/E91lHq7EjOM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/E91lHq7EjOM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/E91lHq7EjOM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/E91lHq7EjOM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/E91lHq7EjOM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 13,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "E91lHq7EjOM"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "bG_ysm-a4cY",
+      "title": "「鶏肉のモリモリ香味ソース」レシピ｜らくウマ☆キッチン（2025年2月25日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/bG_ysm-a4cY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bG_ysm-a4cY"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "1-6lgmHBrx-qf-HO4hLzFgRFngs",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LnNZb2t3VmFDbWxj",
-      "snippet": {
-        "publishedAt": "2025-10-03T08:52:16Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "半年ぶりの値上げラッシュ！猛暑が影響！？｜いまコレ調査員（2025年10月3日放送）",
-        "description": "いま気になることを何でも調査するコーナー。岡山香川の皆さんの生活に役立つ情報などなどを調査します！\r\n\r\n金曜ライブ いまドキッ！！：https://www.rsk.co.jp/tv/imadoki/\r\n\r\n#値上げラッシュ #品目 #いまコレ調査員",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sYokwVaCmlc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sYokwVaCmlc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sYokwVaCmlc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sYokwVaCmlc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sYokwVaCmlc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 14,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "sYokwVaCmlc"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "LQTa6KMfv-A",
+      "title": "玉野で発見！激旨創作ラーメンの店、おすすめラーメンは「黒鯛のしょうゆラーメン」｜いまドキッ！de Go（2025年2月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/LQTa6KMfv-A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LQTa6KMfv-A"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "-qzM8xgUcdnG_5quoEn6pDrX3U8",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LjcxamkyVUdHOEhj",
-      "snippet": {
-        "publishedAt": "2025-10-03T08:51:59Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "【前編】高校の文化祭に潜入！SNS時代ならではの出し物とは？｜KAGAWA旬ネタリサーチ部（2025年10月3日放送）",
-        "description": "坂俊介アナウンサーが香川在住の高校生リポーターと共に、香川の魅力を発見するコーナー。\r\n岡山香川の皆さんの生活に役立つ情報などなどを調査します！\r\n\r\n後編はこちら\r\n▼https://youtu.be/E91lHq7EjOM\r\n\r\n坂俊介（RSKアナウンサー）：https://www.rsk.co.jp/ana/ban_shunsuke.html\r\n金曜ライブ いまドキッ！！：https://www.rsk.co.jp/tv/imadoki/\r\n\r\n#文化祭 #香川 #旬ネタリサーチ部",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/71ji2UGG8Hc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/71ji2UGG8Hc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/71ji2UGG8Hc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/71ji2UGG8Hc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/71ji2UGG8Hc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 15,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "71ji2UGG8Hc"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "HFZx6fSjhIU",
+      "title": "五つ星お米マイスター直伝！米の美味しい炊き方＆コツ｜〇〇上手のサカイさ〜ん（2025年2月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/HFZx6fSjhIU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HFZx6fSjhIU"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "m57HgSrdFFRDpWnc3R7EnofggT8",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LmMtN3pRTVQtSWVV",
-      "snippet": {
-        "publishedAt": "2025-10-03T08:40:22Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "おかやまコープによる「世界の子どもたちを応援する活動」｜ みんなのくらしラボ（2025年10月3日）",
-        "description": "毎日をもっとワクワクに！\nコーナーでは、おかやまのコープの様々な取り組みを紹介。\nくらしがちょっと豊かに・楽しく・笑顔になる情報をお届けします！\n\n放送日：毎月 第1金曜日＋不定期 ごご3時49分～放送\n\n番組公式ページ：https://www.rsk.co.jp/tv/coop/\n#おかやまコープ\n#みんなのくらしラボ\n#いまドキッ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/c-7zQMT-IeU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/c-7zQMT-IeU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/c-7zQMT-IeU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/c-7zQMT-IeU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/c-7zQMT-IeU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 16,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "c-7zQMT-IeU"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "MkNzTrt9Tsg",
+      "title": "廃校になった小学校跡地に、楽しくておいしい施設が！｜四国めぐり愛（2025年2月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/MkNzTrt9Tsg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MkNzTrt9Tsg"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "ZEBk1SOLNa67_EWBtEq_ghbZ0s4",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Lm84VlV1d3UzRHJj",
-      "snippet": {
-        "publishedAt": "2025-10-03T08:36:02Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "自然満喫の公園から心安らぐ図書館まで！ ”藤井風の故郷”里庄町の魅力を再発見｜おかやま12町村スタンプラリー（2025年10月3日放送）",
-        "description": "2025年10月現在、開催中の「おかやま12町村スタンプラリー」でスタンプを求めて矢掛町のスポット「つばきの丘運動公園」「里庄町立図書館」を訪れました。\n\n一坪 花音：https://www.rsk.co.jp/ana/ichitsubo_kanon.html\n\nRSKアプリ：https://www.rsk.co.jp/rsk_app/\nおかやま12町村スタンプラリー：https://www.rsk.co.jp/event/okayama12-stamp/\n\n#おかやま12町村スタンプラリー\n#藤井風 の故郷\n#RSKアプリ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/o8VUuwu3Drc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/o8VUuwu3Drc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/o8VUuwu3Drc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/o8VUuwu3Drc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/o8VUuwu3Drc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 17,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "o8VUuwu3Drc"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "BnXOl20Te8I",
+      "title": "#66 就実高校 男子バレー部｜中高生ニュース（2025年2月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/BnXOl20Te8I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BnXOl20Te8I"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "HzDg412TyYQNspzTpt229Wp76G8",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LjhHZ29sOURCelJB",
-      "snippet": {
-        "publishedAt": "2025-10-03T00:34:11Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "岡山県の防災の取り組み｜あもーれ!マッタリーノ 防災コーナー（2025年9月18日放送）",
-        "description": "今回のテーマは「岡山県の防災の取り組み」です。ゲストに岡山県危機管理課 藤田千里さんをお迎えし、お話お話を伺いました。\n\nRSKラジオで放送されているラジオの生ワイド番組・あもーれ!マッタリーノ内で毎月第１週・第３週にお届けしている「防災コーナー」。\n\n【あもーれ!マッタリーノ番組公式HP】\nhttps://www.rsk.co.jp/radio/amore/\n毎週月～金曜ひる0時10分～ごご4時25分 放送\n\n【つながる防災の輪プロジェクトHP】\nhttps://www.bousai.rsk.co.jp/\n\n#防災 #岡山県 #あもーれ!マッタリーノ  #つながる防災の輪プロジェクト",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8Ggol9DBzRA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8Ggol9DBzRA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8Ggol9DBzRA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8Ggol9DBzRA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8Ggol9DBzRA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 18,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "8Ggol9DBzRA"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "VIOiiVYyMQM",
+      "title": "『教員採用試験』｜桃太郎の岡山Cityかわら版（2025年2月15日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/VIOiiVYyMQM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VIOiiVYyMQM"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "fMsZfX7xXGdEIypjUU90hRCfBwM",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LnZpY3BkLXRycG9J",
-      "snippet": {
-        "publishedAt": "2025-10-02T09:01:28Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "海沿いをGO！ 岡山1泊2日旅 牛窓から玉島へ ｜ VOICE de GO！（2025年9月24日放送）",
-        "description": "岡山県の海岸沿いを潮風ドライブ！牛窓から玉島の一押しスポットをズラリ紹介します。\n「瀬戸内海が望める絶景サウナ！」「瀬戸大橋一望の穴場稲荷とは？」「瀬戸内のハワイを発見！」「絶品！人情のイタリアン」「洞窟でニセ金づくり！？」など内容盛りだくさん。\n\n出演：宮武将吾（RSKアナウンサー）\nナレーション：岡田美奈子（RSKアナウンサー）\n\n番組HP：https://www.rsk.co.jp/tv/voice/\n番組公式Instagram：https://www.instagram.com/rsk.voice/\nTVer：https://tver.jp/series/srj6bqinmu\n\n#瀬戸内海 #絶景 #サウナ #ハワイ気分 #ドライブ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vicpd-trpoI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vicpd-trpoI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vicpd-trpoI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vicpd-trpoI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vicpd-trpoI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 19,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "vicpd-trpoI"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "l_mlNzyV1ok",
+      "title": "絵本作家・フードイラストレーター いわさきまゆこ さん｜きょうトピ！（2025年2月21日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/l_mlNzyV1ok/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=l_mlNzyV1ok"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "DIv2ehHKX7mlnkURwQn1VZoEFQg",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LnBsLXNnQzlUWGhB",
-      "snippet": {
-        "publishedAt": "2025-10-02T09:01:17Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "穴場稲荷(倉敷市下津井田之浦)とは！？｜ VOICE de GO！（2025年9月24日放送）",
-        "description": "鷲羽山中腹にあるお稲荷さん。鷲羽山スカイライン沿いに駐車場あり。\n瀬戸大橋や瀬戸内海を望める超穴場の絶景スポット！\n穴場稲荷の正式名称は「穴場祥蔵正一位稲荷大明神」。\n\n出演：宮武将吾（RSKアナウンサー）\nナレーション：岡田美奈子（RSKアナウンサー）\n\n番組HP：https://www.rsk.co.jp/tv/voice/\n番組公式Instagram：https://www.instagram.com/rsk.voice/\nTVer：https://tver.jp/series/srj6bqinmu\n\n#穴場稲荷 #瀬戸大橋 #絶景 #瀬戸内海 #パワースポット",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pl-sgC9TXhA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pl-sgC9TXhA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pl-sgC9TXhA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pl-sgC9TXhA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/pl-sgC9TXhA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 20,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "pl-sgC9TXhA"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "8wg8MJKrEAw",
+      "title": "岡山の大雪の記録は何センチだったのか？岡山香川の大雪の記録を紹介｜マコトの天気ショウ（2025年2月21日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/8wg8MJKrEAw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8wg8MJKrEAw"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "pByHbrfJwTAorSV-wG2nBYbkdww",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LnV4MzlxbFpMMjZB",
-      "snippet": {
-        "publishedAt": "2025-10-01T02:55:36Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "日本赤十字社の防災クイズ｜あもーれ!マッタリーノ 防災コーナー（2025年9月4日放送）",
-        "description": "今回のテーマは「日本赤十字社の防災クイズ」です。\n\nRSKラジオで放送されているラジオの生ワイド番組・あもーれ!マッタリーノ内で毎月第１週・第３週にお届けしている「防災コーナー」。\n\n【あもーれ!マッタリーノ番組公式HP】\nhttps://www.rsk.co.jp/radio/amore/\n毎週月～金曜ひる0時10分～ごご4時25分 放送\n\n【つながる防災の輪プロジェクトHP】\nhttps://www.bousai.rsk.co.jp/\n\n#防災クイズ #日本赤十字社 #あもーれ!マッタリーノ  #つながる防災の輪プロジェクト",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ux39qlZL26A/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ux39qlZL26A/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ux39qlZL26A/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ux39qlZL26A/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ux39qlZL26A/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 21,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "ux39qlZL26A"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "4-2e-N4KJGM",
+      "title": "高梁川流域圏の10市町村の個性と魅力あふれる自慢の逸品が大集合！｜月刊くらしき情報局（2025年1月21日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/4-2e-N4KJGM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4-2e-N4KJGM"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "20CF2MNvdfVArkea89Pd2cX2-E4",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LkJDLWI4UkxvcTNZ",
-      "snippet": {
-        "publishedAt": "2025-09-30T22:00:12Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "#95 笠岡高校 邦楽部｜中高生ニュース（2025年10月1日放送）",
-        "description": "岡山・香川エリアの中学校・高校を対象としたミニコーナー「岡山・香川 中高生ニュース」を朝の情報番組『THE TIME,』内（水曜日6:50頃）で放送中！\n\n番組HP：https://www.rsk.co.jp/tv/school_news/\n\n#中高生ニュース #rsk山陽放送 #邦楽部",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BC-b8RLoq3Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BC-b8RLoq3Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BC-b8RLoq3Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BC-b8RLoq3Y/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BC-b8RLoq3Y/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 22,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "BC-b8RLoq3Y"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "Zo2z6QoneYA",
+      "title": "世代を問わず楽しめる！香川でも数少ないベビーカステラ専門店！｜きょうトピ！（2025年2月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Zo2z6QoneYA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Zo2z6QoneYA"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "7VCWJ3ue571b4_euwUzpR4DyIL0",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LmNjUnlPNFI1RWJn",
-      "snippet": {
-        "publishedAt": "2025-09-29T03:00:49Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "宗家くつわ堂 田村照夫 代表取締役｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年9月28日放送）",
-        "description": "未来を拓く注目の企業！石田好伸が就活生や保護者に役立つ情報をお届け。岡山・香川の企業情報満載！\r\n\r\n毎週日曜日あさ6:30～ 放送\r\n番組ホームページ：https://www.rsk.co.jp/tv/jounetsu-leaders/\r\n\r\n#宗家くつわ堂  #情熱リーダーズ #RSK山陽放送",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ccRyO4R5Ebg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ccRyO4R5Ebg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ccRyO4R5Ebg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ccRyO4R5Ebg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 23,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "ccRyO4R5Ebg"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "ycVINS_4AL4",
+      "title": "ボリューム満点！本格スリランカ料理は母の味｜きょうトピ！（2025年2月19日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/ycVINS_4AL4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ycVINS_4AL4"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "U9f4bcx8_oxvF7C2X5C3-AyUK6c",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LkllWEJQZmwwOVRB",
-      "snippet": {
-        "publishedAt": "2025-09-29T03:00:19Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "県内初！インドアゴルフ最新パッティングシステム｜SUNDAYスマイルGOLF（2025年9月21日放送）",
-        "description": "暑い時期におすすめのインドアゴルフ。岡山県内初導入のパッティングシステムを宮武アナ体験！36パットで自身の傾向を分析、劇的パット向上へ。驚きの診断結果とは？\n\n出演\n前田 羚菜プロ\n宮武 将吾：https://www.rsk.co.jp/ana/miyatake_shogo.html\n新田 真子：https://www.rsk.co.jp/ana/nitta_mako.html\n\n番組HP：https://www.rsk.co.jp/tv/smilegolf/\n\n※プレゼントの受付は終了しています。\n\n#SUNDAYスマイルGOLF #前田羚菜 #ゴルフ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IeXBPfl09TA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IeXBPfl09TA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IeXBPfl09TA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/IeXBPfl09TA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/IeXBPfl09TA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 24,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "IeXBPfl09TA"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "YxDuK543b1A",
+      "title": "「クラップテスト ～小脳のチェック～」でしなやかに動ける身体と姿勢を手に入れよう！｜おうちでピラティス！（2025年2月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/YxDuK543b1A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YxDuK543b1A"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "5FcxrRBfrNTTkY-LnlNcOlYJ5ww",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LnZXTkRveUtndEZB",
-      "snippet": {
-        "publishedAt": "2025-09-27T13:01:45Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "【behind the stage】Episode 2 岡山市民ミュージカル「サーカス・サーカス　木下サーカス物語」",
-        "description": "チケット好評販売中！\r\n詳しくはホームページまで！\r\nhttps://www.rsk.co.jp/event/musical_circus/\r\n#RSK山陽放送　#岡山市民ミュージカル　#木下サーカス物語\r\n\r\n2025年12月に上演される岡山市民ミュージカル「サーカス・サーカス　木下サーカス物語」\r\nEpisode 2では、4月のオーディション、6月の稽古開会式の様子を公開！\r\n\r\n東和ハイシステムプレゼンツ\r\n岡山市民ミュージカル「サーカス・サーカス　木下サーカス物語」\r\n\r\n幾多の苦難を乗り越えて木下大サーカス育て上げた木下ファミリーの歴史と人間愛をテーマとした市民ミュージカル\r\n\r\n■出演：上川 一哉、宇都宮直高、ひのあらた、ラグズ アンド ジェラ、加藤敬二（特別出演）ほか\r\n\r\n■場所：岡山芸術創造劇場 ハレノワ 大劇場\r\n\r\n■日時：\r\n12月13日(土)\r\n昼の部：13：00開演/12：20開場\r\n夜の部：17：30開演/16：50開場\r\n12月14日(日)\r\n昼の部：11：00開演/10：20開場\r\n夜の部：15：30開演/14：50開場\r\n\r\n■チケット料金：SS席 8,000円 S席 6,600円、A席 5,500円",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vWNDoyKgtFA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vWNDoyKgtFA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vWNDoyKgtFA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vWNDoyKgtFA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/vWNDoyKgtFA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 25,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "vWNDoyKgtFA"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "yVS1vKiYYl8",
+      "title": "未来の食へと繋がる！海の環境を守る「アマモ場再生活動」｜ 50th 集まれ！おかやまコープひろば（2025年2月20日）",
+      "thumbnail": "https://i.ytimg.com/vi/yVS1vKiYYl8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yVS1vKiYYl8"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "cNHA7t_V09s-amyplfhU5wJK6vw",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Li1jSGxRRnFxYUFZ",
-      "snippet": {
-        "publishedAt": "2025-09-26T09:05:02Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "【レシピ】麻婆なすうどん｜らくウマ☆キッチン（2025年9月26日放送）",
-        "description": "「麻婆なすうどん」を紹介します。\r\nうどん およべBROTHER'Sの及部謙太さんと野田店副店長の石井星那さんとに教えていただきました。\r\nレシピについて：https://www.rsk.co.jp/tv/imadoki/recipe/detail/20250925.html\r\n\r\n#RSK #いまドキッ #料理コーナー",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-cHlQFqqaAY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-cHlQFqqaAY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-cHlQFqqaAY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-cHlQFqqaAY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-cHlQFqqaAY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 26,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-cHlQFqqaAY"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "5Nxm1oixohI",
+      "title": "ワンちゃんも大はしゃぎ！雪遊び「スノーシュー」を体験！｜もふもふさんぽ（2025年2月19日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/5Nxm1oixohI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5Nxm1oixohI"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "lDaEFmARsl457Zojq8yBxxiDY3w",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LmZwb2ZBVlY1a2Jj",
-      "snippet": {
-        "publishedAt": "2025-09-26T09:04:51Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "動物との距離が近いのが魅力！「自由すぎる動物園」でふれあい体験！｜四国めぐり愛（2025年9月26日放送）",
-        "description": "四国のホットなスポットを紹介するコーナー「四国めぐり愛」。\r\n\r\n#しろとり動物園 #ふれあい #香川",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fpofAVV5kbc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fpofAVV5kbc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fpofAVV5kbc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fpofAVV5kbc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fpofAVV5kbc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 27,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "fpofAVV5kbc"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "7NDcYSdxL-g",
+      "title": "濃厚＆クリーミー！ 寄島の新鮮なカキを堪能！｜きょうトピ！（2025年2月18日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/7NDcYSdxL-g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7NDcYSdxL-g"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "aGz163NuHXFEotfpTDFio2q14gw",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Lm5LYlBZUi13ZzZJ",
-      "snippet": {
-        "publishedAt": "2025-09-26T09:04:03Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "思い出が危ない！？「ビデオテープ2025年問題」とは？｜いまコレ調査員（2025年9月26日放送）",
-        "description": "いま気になることを何でも調査するコーナー。岡山香川の皆さんの生活に役立つ情報などなどを調査します！\r\n\r\n金曜ライブ いまドキッ！！：https://www.rsk.co.jp/tv/imadoki/\r\n\r\n#ビデオテープ2025年問題 #思い出 #いまコレ調査員",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nKbPYR-wg6I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nKbPYR-wg6I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nKbPYR-wg6I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nKbPYR-wg6I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nKbPYR-wg6I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 28,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "nKbPYR-wg6I"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "rmk2Hrq7heI",
+      "title": "#65 就実高校・中学校 放送文化部｜岡山・香川 中高生ニュース（2025年2月19日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/rmk2Hrq7heI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rmk2Hrq7heI"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "-5Vh-kfr49TZ5yU2QYxGvfSCq6E",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LlUxNXZQWnlJdXFJ",
-      "snippet": {
-        "publishedAt": "2025-09-26T08:14:32Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "ここでしか味わえない逸品！「水車の里 フルーツトピア」の季節のフルーツパフェ｜おかやま12町村スタンプラリー（2025年9月26日放送）",
-        "description": "2025年9月現在、開催中の「おかやま12町村スタンプラリー」でスタンプを求めて矢掛町のスポット「水車の里フルーツトピア」「やかげ町家交流館」を訪れました。\n\n一坪 花音：https://www.rsk.co.jp/ana/ichitsubo_kanon.html\n\nRSKアプリ：https://www.rsk.co.jp/rsk_app/\nおかやま12町村スタンプラリー：https://www.rsk.co.jp/event/okayama12-stamp/\n\n#おかやま12町村スタンプラリー\n#矢掛町\n#RSKアプリ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/U15vPZyIuqI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/U15vPZyIuqI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/U15vPZyIuqI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/U15vPZyIuqI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/U15vPZyIuqI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 29,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "U15vPZyIuqI"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "qH7IA5NE6xk",
+      "title": "「韓国風味付けカルビ」レシピ｜らくウマ☆キッチン（2025年2月18日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/qH7IA5NE6xk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qH7IA5NE6xk"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "jygJYM7dqpJYM3Rik8TaR0sZix0",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3LldGSEIxdXhaQV84",
-      "snippet": {
-        "publishedAt": "2025-09-26T08:04:43Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "【アーカイブ動画公開中】『保護犬の人馴れ訓練プロジェクト』｜桃太郎の岡山Cityかわら版Z（2025年9月21日放送）",
-        "description": "アーカイブ動画はこちら▼\nhttps://www.rsk.co.jp/tv/kawaraban/\n\n2代目桃太郎・前田唯が岡山市の旬な話題や暮らしに役立つ情報をお届けします。\n今回のテーマは『保護犬の人馴れ訓練プロジェクト』。\n岡山市では、保護した野犬を人に馴れさせ、新たな飼い主への譲渡につなげる取り組みを行っています。\n桃太郎が、動物愛護ボランティアによる保護犬のトレーニングを取材します。\n\n出演者＝前田唯（桃太郎）\nナレーション＝坂本大輔",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/WFHB1uxZA_8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/WFHB1uxZA_8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/WFHB1uxZA_8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/WFHB1uxZA_8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/WFHB1uxZA_8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 30,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "WFHB1uxZA_8"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "mgRBOTZmvO8",
+      "title": "岡山の名産と香川の伝統が夢のコラボ！デニムグルメ！？｜きょうトピ！（2025年2月17日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/mgRBOTZmvO8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mgRBOTZmvO8"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "cHLeCwXNSc8Jm4OKVyB454Au6gU",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Li1aeHB6TWJ4ODEw",
-      "snippet": {
-        "publishedAt": "2025-09-26T08:04:15Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "『保護犬の人馴れ訓練プロジェクト』｜桃太郎の岡山Cityかわら版Z（2025年9月21日放送）",
-        "description": "2代目桃太郎・前田唯が岡山市の旬な話題や暮らしに役立つ情報をお届けします。\n今回のテーマは『保護犬の人馴れ訓練プロジェクト』。\n岡山市では、保護した野犬を人に馴れさせ、新たな飼い主への譲渡につなげる取り組みを行っています。\n桃太郎が、動物愛護ボランティアによる保護犬のトレーニングを取材します。\n\n出演者＝前田唯（桃太郎）\nナレーション＝坂本大輔",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-ZxpzMbx810/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-ZxpzMbx810/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-ZxpzMbx810/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-ZxpzMbx810/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-ZxpzMbx810/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 31,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-ZxpzMbx810"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "AulDM4uT_hs",
+      "title": "春を先取り！フライング タイガー コペンハーゲンのトレンド花柄アイテム特集｜コレキテマンデー（2025年2月17日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/AulDM4uT_hs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AulDM4uT_hs"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "oB7H9v8bw1BCawvboULtLqSZ8t0",
-      "id": "VVVUVWJtUnhFeG5JWW1vWFJzUlNFZEJ3Lkp6bUNzWHUxUndF",
-      "snippet": {
-        "publishedAt": "2025-09-23T22:00:24Z",
-        "channelId": "UCTUbmRxExnIYmoXRsRSEdBw",
-        "title": "#94 玉野光南高校 吹奏楽部｜中高生ニュース（2025年9月24日放送）",
-        "description": "岡山・香川エリアの中学校・高校を対象としたミニコーナー「岡山・香川 中高生ニュース」を朝の情報番組『THE TIME,』内（水曜日6:50頃）で放送中！\n\n番組HP：https://www.rsk.co.jp/tv/school_news/\n\n#中高生ニュース #rsk山陽放送 #吹奏楽部",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JzmCsXu1RwE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JzmCsXu1RwE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JzmCsXu1RwE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/JzmCsXu1RwE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/JzmCsXu1RwE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RSK山陽放送公式チャンネル",
-        "playlistId": "UUTUbmRxExnIYmoXRsRSEdBw",
-        "position": 32,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "JzmCsXu1RwE"
-        },
-        "videoOwnerChannelTitle": "RSK山陽放送公式チャンネル",
-        "videoOwnerChannelId": "UCTUbmRxExnIYmoXRsRSEdBw"
-      }
+      "id": "ktVV9w5wi_w",
+      "title": "海軍カレー好きにはたまらない！元海上自衛隊の調理員が作るベーグル！｜きょうトピ！（2025年2月14日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/ktVV9w5wi_w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ktVV9w5wi_w"
+    },
+    {
+      "id": "Frw6Cdp6Iss",
+      "title": "朝どれの新鮮なかきも食べ放題！？鶏専門の鶏焼酒場！｜きょうトピ！（2025年2月7日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Frw6Cdp6Iss/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Frw6Cdp6Iss"
+    },
+    {
+      "id": "Ru3gJjBnfhM",
+      "title": "国産茶葉の魅力を発信！岡山後楽園の玄関口の日本茶専門店｜きょうトピ！（2025年2月13日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Ru3gJjBnfhM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ru3gJjBnfhM"
+    },
+    {
+      "id": "wCbjYnX_X_U",
+      "title": "【コープ鴨方から中継】おかやまコープ公式テーマソングを作詞・作曲した千里-chisato-さんとともにお届け！｜ 50th 集まれ！おかやまコープひろば（2025年2月13日）",
+      "thumbnail": "https://i.ytimg.com/vi/wCbjYnX_X_U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wCbjYnX_X_U"
+    },
+    {
+      "id": "niAu2oPpMgA",
+      "title": "勝新太郎にそっくりな店主がいる！？津山市のカフェへGO！｜いまドキッ！de Go（2025年2月12日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/niAu2oPpMgA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=niAu2oPpMgA"
+    },
+    {
+      "id": "ZRzWbArPoDw",
+      "title": "外観は銀行！？港町で台湾グルメを味わう｜きょうトピ！（2025年2月10日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/ZRzWbArPoDw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZRzWbArPoDw"
+    },
+    {
+      "id": "JZg_KPO8MEw",
+      "title": "#64 大手前高松中学校 軟式野球部｜岡山・香川 中高生ニュース（2025年2月12日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/JZg_KPO8MEw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JZg_KPO8MEw"
+    },
+    {
+      "id": "vrgcYADHolI",
+      "title": "【高校生向け】J-FLEC 金融特別授業 in おかやま山陽高等学校",
+      "thumbnail": "https://i.ytimg.com/vi/vrgcYADHolI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vrgcYADHolI"
+    },
+    {
+      "id": "fZWT-tfQPNg",
+      "title": "①鶏のわさび焼き｜ハピーWeb料理教室",
+      "thumbnail": "https://i.ytimg.com/vi/fZWT-tfQPNg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fZWT-tfQPNg"
+    },
+    {
+      "id": "3G4_3CHeR44",
+      "title": "②小松菜ピリ辛おひたし｜ハピーWeb料理教室",
+      "thumbnail": "https://i.ytimg.com/vi/3G4_3CHeR44/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3G4_3CHeR44"
+    },
+    {
+      "id": "iID_S6PgKZ0",
+      "title": "③あさりと豚肉の豆鼓蒸し｜ハピーWeb料理教室",
+      "thumbnail": "https://i.ytimg.com/vi/iID_S6PgKZ0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iID_S6PgKZ0"
+    },
+    {
+      "id": "hWvBl8qalYM",
+      "title": "④焼きうどん｜ハピーWeb料理教室",
+      "thumbnail": "https://i.ytimg.com/vi/hWvBl8qalYM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hWvBl8qalYM"
+    },
+    {
+      "id": "L4XPBNu7V0M",
+      "title": "組合員の「声」を受けて改善した商品をご紹介！｜ 50th 集まれ！おかやまコープひろば（2025年2月6日）",
+      "thumbnail": "https://i.ytimg.com/vi/L4XPBNu7V0M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=L4XPBNu7V0M"
+    },
+    {
+      "id": "szvfak6yS8w",
+      "title": "第22回全日本高等学校ゼロハンカー大会 24分耐久レース",
+      "thumbnail": "https://i.ytimg.com/vi/szvfak6yS8w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=szvfak6yS8w"
+    },
+    {
+      "id": "BxVCJqLRGNw",
+      "title": "ラグジュアリーなイチゴスイーツを堪能！イチゴのフルコース☆｜きょうトピ！（2025年2月5日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/BxVCJqLRGNw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BxVCJqLRGNw"
+    },
+    {
+      "id": "l9b8-YezIwc",
+      "title": "新田アナが初登場！マッコリの子どもたちに癒される～！｜もふもふさんほ゜（2025年2月5日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/l9b8-YezIwc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=l9b8-YezIwc"
+    },
+    {
+      "id": "9FbjMuRkF_Y",
+      "title": "見た目のインパクトにビックリ！新感覚の体験型スイーツ！！｜きょうトピ！（2025年2月5日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/9FbjMuRkF_Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9FbjMuRkF_Y"
+    },
+    {
+      "id": "E7Bmng2Gbms",
+      "title": "トレンドアイテム盛りだくさん！フライング タイガー コペンハーゲンの最新バレンタイン雑貨！｜コレキテマンデー（2025年1月27日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/E7Bmng2Gbms/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E7Bmng2Gbms"
+    },
+    {
+      "id": "Huuw3fq0Udc",
+      "title": "【レシピ】牛カルビとキノコのジンジャーソース炒め｜らくウマ☆キッチン（2025年9月19日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Huuw3fq0Udc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Huuw3fq0Udc"
+    },
+    {
+      "id": "sQ6P68d0M30",
+      "title": "【後編】これが令和の文化祭！？「脱出ゲーム」や「コーヒーカップ」に「メリーゴーランド」！まるで”遊園地”な高松桜井高校の文化祭｜KAGAWA旬ネタリサーチ部（2025年9月19日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/sQ6P68d0M30/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sQ6P68d0M30"
+    },
+    {
+      "id": "T9DHBKERhiA",
+      "title": "【前編】大人が本気で楽しめる高松商業『高商祭』 全国大会5位入賞の書道パフォーマンスも披露！ ｜KAGAWA旬ネタリサーチ部（2025年9月19日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/T9DHBKERhiA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=T9DHBKERhiA"
+    },
+    {
+      "id": "s-d19O4WnLg",
+      "title": "期待のルーキーは19歳！飛ばしの秘訣学んで覚醒！？｜SUNDAYスマイルGOLF（2025年9月14日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/s-d19O4WnLg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=s-d19O4WnLg"
+    },
+    {
+      "id": "REgNU8hPOrw",
+      "title": "茂山組　川田 雄士　代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年9月21日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/REgNU8hPOrw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=REgNU8hPOrw"
+    },
+    {
+      "id": "peIApIC0uEg",
+      "title": "県内最大級の大型複合遊具も！開園間近の「倉敷ふれあいの丘公園」｜月刊くらしき情報局（2025年9月19日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/peIApIC0uEg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=peIApIC0uEg"
+    },
+    {
+      "id": "Uc4VA3rOFKc",
+      "title": "#93 笠岡高校 千鳥祭｜中高生ニュース（2025年9月17日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Uc4VA3rOFKc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Uc4VA3rOFKc"
+    },
+    {
+      "id": "jHYFERZmIEU",
+      "title": "新クラブでマッチプレー！ハプニング続出で大混戦？｜SUNDAYスマイルGOLF（2025年9月7日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/jHYFERZmIEU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jHYFERZmIEU"
+    },
+    {
+      "id": "Jh2iYdcsnSs",
+      "title": "萩原工業　浅野 和志　代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年9月14日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Jh2iYdcsnSs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Jh2iYdcsnSs"
+    },
+    {
+      "id": "_8VLVPw461I",
+      "title": "瀬戸内デザイン会議　SETOUCHI Design Conference2025｜各界のリーダーが集結未来の価値の行方は？プロジェクト海島とは",
+      "thumbnail": "https://i.ytimg.com/vi/_8VLVPw461I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_8VLVPw461I"
+    },
+    {
+      "id": "ihMMiZ4ikX8",
+      "title": "【レシピ】本格とり天｜らくウマ☆キッチン（2025年9月12日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/ihMMiZ4ikX8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ihMMiZ4ikX8"
+    },
+    {
+      "id": "mz5ww2jIYNQ",
+      "title": "いま知りたい「食料品のお値段」米の価格は？新米の出来は？｜いまコレ調査員（2025年9月12日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/mz5ww2jIYNQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mz5ww2jIYNQ"
+    },
+    {
+      "id": "uVCzKjv_woc",
+      "title": "【前編】移住者が注目！小豆島 個性的な移住者オーナーも！？｜KAGAWA旬ネタリサーチ部（2025年9月12日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/uVCzKjv_woc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uVCzKjv_woc"
+    },
+    {
+      "id": "lPaxxfNAeVU",
+      "title": "【後編】移住者が注目！小豆島 元公邸料理人の一杯とは？｜KAGAWA旬ネタリサーチ部（2025年9月12日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/lPaxxfNAeVU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lPaxxfNAeVU"
+    },
+    {
+      "id": "M89ttgxpUro",
+      "title": "#92 玉野光南高校 陸上競技部｜中高生ニュース（2025年9月10日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/M89ttgxpUro/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=M89ttgxpUro"
+    },
+    {
+      "id": "rjZIGP5OW1w",
+      "title": "コンケン　松田 一寿　代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年8月31日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/rjZIGP5OW1w/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rjZIGP5OW1w"
+    },
+    {
+      "id": "hkH8wQnZ9RA",
+      "title": "新たなクラブになった宮武　小林コーチのレッスンで！｜SUNDAYスマイルGOLF（2025年8月31日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/hkH8wQnZ9RA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hkH8wQnZ9RA"
+    },
+    {
+      "id": "ipI9CSn88P8",
+      "title": "はなまるうどん駅の奇跡！｜VOICE de GO！（2025年8月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/ipI9CSn88P8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ipI9CSn88P8"
+    },
+    {
+      "id": "nIFb57Ocob0",
+      "title": "おかやまコープの「宅配サービス」　宅配の裏側をご紹介します｜ みんなのくらしラボ（2025年9月5日）",
+      "thumbnail": "https://i.ytimg.com/vi/nIFb57Ocob0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nIFb57Ocob0"
+    },
+    {
+      "id": "SSY-EZsC36g",
+      "title": "【レシピ】パッタイ｜らくウマ☆キッチン（2025年9月5日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/SSY-EZsC36g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SSY-EZsC36g"
+    },
+    {
+      "id": "IkMFyqUEkF4",
+      "title": "図書館の無い琴平町民が作ったちょっと変わった図書館とは！？｜KAGAWA旬ネタリサーチ部（2025年9月5日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/IkMFyqUEkF4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IkMFyqUEkF4"
+    },
+    {
+      "id": "hEVpe4nRiDM",
+      "title": "純手打ち！のり玉うどん | VOICE de GO！（2025年8月20放送）",
+      "thumbnail": "https://i.ytimg.com/vi/hEVpe4nRiDM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hEVpe4nRiDM"
+    },
+    {
+      "id": "w5r1p4hBbVY",
+      "title": "目玉おやじ入り？冷かけうどん｜VOICE de GO！（2025年8月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/w5r1p4hBbVY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=w5r1p4hBbVY"
+    },
+    {
+      "id": "5GbTOVpwPx0",
+      "title": "これウマッ！冷やしカレーうどん｜VOICE de GO！（2025年8月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/5GbTOVpwPx0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5GbTOVpwPx0"
+    },
+    {
+      "id": "iPlW6mQ002k",
+      "title": "ピリッと美味い！エスニックうどん｜VOICE de GO！（2025年8月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/iPlW6mQ002k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iPlW6mQ002k"
+    },
+    {
+      "id": "riQa2ckwyuI",
+      "title": "超クール！氷山うどん｜VOICE de GO！（2025年8月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/riQa2ckwyuI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=riQa2ckwyuI"
+    },
+    {
+      "id": "usNQcggolLM",
+      "title": "何コレ？車窓から絶景うどん？ | VOICE de GO！（2025年8月20放送）",
+      "thumbnail": "https://i.ytimg.com/vi/usNQcggolLM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=usNQcggolLM"
+    },
+    {
+      "id": "fg_P0Uuw93w",
+      "title": "爆盛り！冷しゃぶうどん｜VOICE de GO！（2025年8月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/fg_P0Uuw93w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fg_P0Uuw93w"
+    },
+    {
+      "id": "mhiaeL1Up7U",
+      "title": "ネバネバ系！夏はちゅるちゅるねぎねぎ | VOICE de GO！（2025年8月20放送）",
+      "thumbnail": "https://i.ytimg.com/vi/mhiaeL1Up7U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mhiaeL1Up7U"
+    },
+    {
+      "id": "XqAXvJziDYg",
+      "title": "がっつり系！肉ぶっかけ | VOICE de GO！（2025年8月20放送）",
+      "thumbnail": "https://i.ytimg.com/vi/XqAXvJziDYg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XqAXvJziDYg"
+    },
+    {
+      "id": "20JO2aJ8zwc",
+      "title": "最強コスパ！『氷山うどん』恐るべし | VOICE de GO！（2025年8月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/20JO2aJ8zwc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=20JO2aJ8zwc"
+    },
+    {
+      "id": "79jXx6iHGsI",
+      "title": "#91 岡山理科大学附属中学・高校 女子柔道部｜中高生ニュース（2025年9月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/79jXx6iHGsI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=79jXx6iHGsI"
+    },
+    {
+      "id": "ZM9h8DiPXms",
+      "title": "エコワークス・ホールディングス　岩元 達也　代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年8月31日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/ZM9h8DiPXms/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZM9h8DiPXms"
+    },
+    {
+      "id": "9-iyHWA2mg8",
+      "title": "約10年ぶりのクラブ購入へ！スペック向上に驚き｜SUNDAYスマイルGOLF（2025年8月24日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/9-iyHWA2mg8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9-iyHWA2mg8"
+    },
+    {
+      "id": "ZBXK2WksREI",
+      "title": "【防災キャンペーン2025】全国⽯油商業組合連合会CM",
+      "thumbnail": "https://i.ytimg.com/vi/ZBXK2WksREI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZBXK2WksREI"
+    },
+    {
+      "id": "wH5pjVScRp4",
+      "title": "【behind the stage】Episode 1 |岡山市民ミュージカル「サーカス・サーカス　木下サーカス物語」",
+      "thumbnail": "https://i.ytimg.com/vi/wH5pjVScRp4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wH5pjVScRp4"
+    },
+    {
+      "id": "eCWwxfrNbZA",
+      "title": "【レシピ】豚バラ肉と夏野菜のスタミナ炒め｜らくウマ☆キッチン（2025年8月29日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/eCWwxfrNbZA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eCWwxfrNbZA"
+    },
+    {
+      "id": "rFebQGpbUss",
+      "title": "【後編】旬のフルーツで盛り上がる香川　若者が受け継ぐブランドいちじく！｜KAGAWA旬ネタリサーチ部（2025年8月29日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/rFebQGpbUss/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rFebQGpbUss"
+    },
+    {
+      "id": "EXR4NcTXvvY",
+      "title": "【前編】旬のフルーツで盛り上がる香川　桃とすももが約30種類！｜KAGAWA旬ネタリサーチ部（2025年8月29日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/EXR4NcTXvvY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EXR4NcTXvvY"
+    },
+    {
+      "id": "DmsFQNuD2gg",
+      "title": "#90 岡山理科大学附属高校 相撲部｜中高生ニュース（2025年8月27日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/DmsFQNuD2gg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DmsFQNuD2gg"
+    },
+    {
+      "id": "527tDMBeWZE",
+      "title": "【チケット絶賛販売中】|岡山市民ミュージカル「サーカス・サーカス　木下サーカス物語」30秒SPOT",
+      "thumbnail": "https://i.ytimg.com/vi/527tDMBeWZE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=527tDMBeWZE"
+    },
+    {
+      "id": "m6D8qnuNnyA",
+      "title": "南秀樹コーチに学ぶ！ロングホールのマネージメント｜SUNDAYスマイルGOLF（2025年8月17日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/m6D8qnuNnyA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m6D8qnuNnyA"
+    },
+    {
+      "id": "7dussc2ioLc",
+      "title": "Gi外科 池田 義博 理事長・医師｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年8月24日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/7dussc2ioLc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7dussc2ioLc"
+    },
+    {
+      "id": "Hl9dLXUBS-c",
+      "title": "浴衣で町歩きにじゃこ天作り体験も！えひめ夏旅なんよキャンペーン｜四国めぐり愛（2025年8月22日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Hl9dLXUBS-c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Hl9dLXUBS-c"
+    },
+    {
+      "id": "0CdzjyP1O4c",
+      "title": "岡山・香川の「涼」を感じる避暑スポット！｜いまコレ調査員（2025年8月22日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/0CdzjyP1O4c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0CdzjyP1O4c"
+    },
+    {
+      "id": "AvN8Mr0AqbY",
+      "title": "【中継 後編】大阪・関西万博「おかやま桃太郎の夏休み」｜岡山県presents（2025年8月22日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/AvN8Mr0AqbY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AvN8Mr0AqbY"
+    },
+    {
+      "id": "Df94oATPzck",
+      "title": "【中継 前編】大阪・関西万博「おかやま桃太郎の夏休み」｜岡山県presents（2025年8月22日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Df94oATPzck/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Df94oATPzck"
+    },
+    {
+      "id": "6N0V1nLD_4Q",
+      "title": "【アーカイブ動画公開中】『おかやま妊娠ホットライン』｜桃太郎の岡山Cityかわら版Z（2025年8月16日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/6N0V1nLD_4Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6N0V1nLD_4Q"
+    },
+    {
+      "id": "5OydcTcP0DA",
+      "title": "『おかやま妊娠ホットライン』｜桃太郎の岡山Cityかわら版Z（2025年8月16日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/5OydcTcP0DA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5OydcTcP0DA"
+    },
+    {
+      "id": "0HxaNPK0_Iw",
+      "title": "#89 山陽学園中学・高校 地歴部｜中高生ニュース（2025年8月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/0HxaNPK0_Iw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0HxaNPK0_Iw"
+    },
+    {
+      "id": "IouPaG4kZAY",
+      "title": "【後編】夏休みに行きたい高知旅！太平洋の絶景アクティビティから 心温まる手仕事体験！｜KAGAWA旬ネタリサーチ部 特別編（2025年8月8日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/IouPaG4kZAY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IouPaG4kZAY"
+    },
+    {
+      "id": "vTvQoI8ZBHA",
+      "title": "【前編】まるでジブリの世界！300万年前の海底洞窟「伊尾木洞」と山盛りしらす丼を巡る旅｜KAGAWA旬ネタリサーチ部 特別編（2025年8月1日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/vTvQoI8ZBHA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vTvQoI8ZBHA"
+    },
+    {
+      "id": "OqalIHGmjEA",
+      "title": "香川在住！南秀樹コーチの激熱レッスン～実践編～｜SUNDAYスマイルGOLF（2025年8月10日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/OqalIHGmjEA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OqalIHGmjEA"
+    },
+    {
+      "id": "KryO0Lnb7tE",
+      "title": "重藤組　重藤 武士　代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年8月17日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/KryO0Lnb7tE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KryO0Lnb7tE"
+    },
+    {
+      "id": "bqycv4sYUz8",
+      "title": "【後編】あなたが知らない骨付鳥！新感覚の「アマドリ」とは！？｜KAGAWA旬ネタリサーチ部（2025年8月8日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/bqycv4sYUz8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bqycv4sYUz8"
+    },
+    {
+      "id": "BolGELOK6fY",
+      "title": "【レシピ】プルナック炒め｜らくウマ☆キッチン（2025年8月15日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/BolGELOK6fY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BolGELOK6fY"
+    },
+    {
+      "id": "qqeW9rSI-BM",
+      "title": "オーナーは全員大学生！？直島の人気カフェ「和cafeぐぅ」｜KAGAWA旬ネタリサーチ部（2025年8月15日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/qqeW9rSI-BM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qqeW9rSI-BM"
+    },
+    {
+      "id": "KBP8Ybb8FDQ",
+      "title": "大学と共同開発！ワイン用ブドウの新品種「マスカットシラガイ」｜月刊くらしき情報局（2025年8月15日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/KBP8Ybb8FDQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KBP8Ybb8FDQ"
+    },
+    {
+      "id": "0HVkGNazCNk",
+      "title": "大切な人と行きたい！2025年岡山・香川の「夏のイルミネーションスポット」を紹介！｜いまコレ調査員（2025年8月15日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/0HVkGNazCNk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0HVkGNazCNk"
+    },
+    {
+      "id": "LlfKrwZqJRk",
+      "title": "【前編】まるで”アトラクション”！？赤ワインで仕上げるフレンチ風骨付鳥！｜KAGAWA旬ネタリサーチ部（2025年8月8日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/LlfKrwZqJRk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LlfKrwZqJRk"
+    },
+    {
+      "id": "MDhXoz3me7E",
+      "title": "【オードリー・ヘプバーン写真展】RSK新人アナウンサー 一坪花音アナが紹介！",
+      "thumbnail": "https://i.ytimg.com/vi/MDhXoz3me7E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MDhXoz3me7E"
+    },
+    {
+      "id": "c1VBC3xRwxY",
+      "title": "#88 山陽学園高校 サッカー部｜中高生ニュース（2025年8月13日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/c1VBC3xRwxY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=c1VBC3xRwxY"
+    },
+    {
+      "id": "atIZ8KePcPg",
+      "title": "【レシピ】パプリカのカラフルチャプチェ｜らくウマ☆キッチン（2025年8月8日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/atIZ8KePcPg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=atIZ8KePcPg"
+    },
+    {
+      "id": "y4AVD7NcJro",
+      "title": "佐藤建設 佐藤 公泰 代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年8月10日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/y4AVD7NcJro/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=y4AVD7NcJro"
+    },
+    {
+      "id": "QpNPS6BaoNg",
+      "title": "香川在住！南秀樹コーチの秀逸パターレッスン！｜SUNDAYスマイルGOLF（2025年8月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/QpNPS6BaoNg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QpNPS6BaoNg"
+    },
+    {
+      "id": "2eT-APzXFEY",
+      "title": "【オードリー・ヘプバーン写真展】RSK新人アナウンサー 福田雅アナが紹介！",
+      "thumbnail": "https://i.ytimg.com/vi/2eT-APzXFEY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2eT-APzXFEY"
+    },
+    {
+      "id": "W1VMhXyfXV4",
+      "title": "#87 高松商業高校 吹奏楽部｜中高生ニュース（2025年8月6日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/W1VMhXyfXV4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=W1VMhXyfXV4"
+    },
+    {
+      "id": "SdVC-tboGfI",
+      "title": "猛暑の中 気になる汗対策｜いまコレ調査員（2025年8月1日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/SdVC-tboGfI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SdVC-tboGfI"
+    },
+    {
+      "id": "d0h0N23X0t8",
+      "title": "【後編】まるで現代アート！直島の古民家で味わう「見て美味しい」「食べて美味しい」一皿に込めた想い｜KAGAWA旬ネタリサーチ部（2025年8月1日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/d0h0N23X0t8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=d0h0N23X0t8"
+    },
+    {
+      "id": "G5v_cYRQZKI",
+      "title": "【前編】アートの島「直島」で発見！移住者が営む“日本一優しい”古民家カフェの絶品ランチ｜KAGAWA旬ネタリサーチ部（2025年8月1日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/G5v_cYRQZKI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=G5v_cYRQZKI"
+    },
+    {
+      "id": "NRtNTj3VfOo",
+      "title": "西智子プロと5番勝負！最終戦は英語禁止で大混戦！｜SUNDAYスマイルGOLF（2025年7月27日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/NRtNTj3VfOo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NRtNTj3VfOo"
+    },
+    {
+      "id": "WGVN0IgetmA",
+      "title": "英田エンジニアリング 万殿 貴志 代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年8月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/WGVN0IgetmA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WGVN0IgetmA"
+    },
+    {
+      "id": "lNEgpc6Y-BU",
+      "title": "【behind the stage】Episode 0 |岡山市民ミュージカル「サーカス・サーカス 木下サーカス物語」",
+      "thumbnail": "https://i.ytimg.com/vi/lNEgpc6Y-BU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lNEgpc6Y-BU"
+    },
+    {
+      "id": "SYH4AmJXK-0",
+      "title": "おかやまコープが企画した「子ども平和新聞プロジェクト」｜ みんなのくらしラボ（2025年8月1日）",
+      "thumbnail": "https://i.ytimg.com/vi/SYH4AmJXK-0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SYH4AmJXK-0"
+    },
+    {
+      "id": "vwsuOorNicw",
+      "title": "味ひとすじ 永谷園『頑張れ！ニッポンの技 〜岡山県 丸亀うちわ～』",
+      "thumbnail": "https://i.ytimg.com/vi/vwsuOorNicw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vwsuOorNicw"
+    },
+    {
+      "id": "6Q0nLNlBpps",
+      "title": "【オードリー・ヘプバーン写真展】RSK新人アナウンサー 望月陽茉莉アナが紹介！",
+      "thumbnail": "https://i.ytimg.com/vi/6Q0nLNlBpps/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6Q0nLNlBpps"
+    },
+    {
+      "id": "gF_V1aj5LRA",
+      "title": "#86 善通寺第一高校 漫画研究部｜中高生ニュース（2025年7月30日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/gF_V1aj5LRA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gF_V1aj5LRA"
+    },
+    {
+      "id": "frfjhiZS680",
+      "title": "セリオ 本郷 旬 代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年7月27日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/frfjhiZS680/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=frfjhiZS680"
+    },
+    {
+      "id": "GON1T6lXjLg",
+      "title": "西智子プロとのガチンコ５番勝負！波乱の展開に！？｜SUNDAYスマイルGOLF（2025年7月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/GON1T6lXjLg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GON1T6lXjLg"
+    },
+    {
+      "id": "5Hk14Ik0LDQ",
+      "title": "オール倉敷ロケ！「蔵のある街」ロケ地巡り｜月刊くらしき情報局（2025年7月18日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/5Hk14Ik0LDQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5Hk14Ik0LDQ"
+    },
+    {
+      "id": "0x1jtKClWdg",
+      "title": "2025年夏の岡山・香川の花火大会をどど～んと紹介！｜いまコレ調査員（2025年7月25日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/0x1jtKClWdg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0x1jtKClWdg"
+    },
+    {
+      "id": "qwnYrurpPxI",
+      "title": "迫力に圧倒！世界26か国の西洋名画を原寸大に鑑賞できる美術館｜四国めぐり愛（2025年7月25日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/qwnYrurpPxI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qwnYrurpPxI"
+    },
+    {
+      "id": "lwimKHf6q8U",
+      "title": "【アーカイブ動画公開中】『岡山市民デー』｜桃太郎の岡山Cityかわら版Z（2025年7月19日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/lwimKHf6q8U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lwimKHf6q8U"
+    },
+    {
+      "id": "kBWjFHob3N8",
+      "title": "『岡山市民デー』｜桃太郎の岡山Cityかわら版Z（2025年7月19日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/kBWjFHob3N8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kBWjFHob3N8"
+    },
+    {
+      "id": "XHx6KF92Dwo",
+      "title": "2年に1度開催される「パティシエコンテスト」で優勝した\"キャロットケーク\"を堪能！｜週刊まちログキャッチ（2025年7月18日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/XHx6KF92Dwo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XHx6KF92Dwo"
+    },
+    {
+      "id": "3zHmoMwhE8s",
+      "title": "#85 高松桜井高校 吹奏楽部｜中高生ニュース（2025年7月23日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/3zHmoMwhE8s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3zHmoMwhE8s"
+    },
+    {
+      "id": "BWMgcMMmev8",
+      "title": "【後編】ケチャップが隠し味！高松の老舗喫茶でいただく、オリジナルソースの焼きそばと懐かしのクリームソーダ。｜KAGAWA旬ネタリサーチ部（2025年7月18日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/BWMgcMMmev8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BWMgcMMmev8"
+    },
+    {
+      "id": "Q4QumSWLNkY",
+      "title": "【前編】なぜ今、昭和！？「懐かしい」が「新しい」。香川の老舗喫茶店が世代を超えて愛される秘密｜KAGAWA旬ネタリサーチ部（2025年7月18日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Q4QumSWLNkY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Q4QumSWLNkY"
+    },
+    {
+      "id": "6xL5ebPSsPA",
+      "title": "光南溶工 山本誠 代表取締役｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年7月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/6xL5ebPSsPA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6xL5ebPSsPA"
+    },
+    {
+      "id": "-aATmEyOcDA",
+      "title": "初登場の西智子プロと宮武＆新田がガチンコで対決！｜SUNDAYスマイルGOLF（2025年7月13日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/-aATmEyOcDA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-aATmEyOcDA"
+    },
+    {
+      "id": "-XJtek4TfsY",
+      "title": "【レシピ】お家で別府冷麺｜らくウマ☆キッチン（2025年7月18日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/-XJtek4TfsY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-XJtek4TfsY"
+    },
+    {
+      "id": "_8VoYdnkXJE",
+      "title": "#84 高松桜井高校 理学部｜中高生ニュース（2025年7月16日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/_8VoYdnkXJE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_8VoYdnkXJE"
+    },
+    {
+      "id": "j5z-cZPx9Wo",
+      "title": "【後編】レトロ銭湯カフェに潜入！名物「フロ桶セット」の衝撃的な中身とは…？【香川県多度津町】｜KAGAWA旬ネタリサーチ部（2025年7月11日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/j5z-cZPx9Wo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=j5z-cZPx9Wo"
+    },
+    {
+      "id": "udI_y0lWjqY",
+      "title": "【前編】香川県多度津町の魅力を発信！仕掛け人「まねきねこ課」のおすすめスポット＆イベント！｜KAGAWA旬ネタリサーチ部（2025年7月11日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/udI_y0lWjqY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=udI_y0lWjqY"
+    },
+    {
+      "id": "ah0To2Hl_LY",
+      "title": "梨々菜プロのステップ打ち実践編脱！3パット名人は｜SUNDAYスマイルGOLF（2025年7月6日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/ah0To2Hl_LY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ah0To2Hl_LY"
+    },
+    {
+      "id": "2K5lYb_T76M",
+      "title": "天満屋 斎藤 和好 代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年7月13日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/2K5lYb_T76M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2K5lYb_T76M"
+    },
+    {
+      "id": "jzXEfxjyfHI",
+      "title": "高値続く今年のウナギ事情 リーズナブルなウナギ専門店も！｜いまコレ調査員（2025年7月11日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/jzXEfxjyfHI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jzXEfxjyfHI"
+    },
+    {
+      "id": "ejyfzmrh84o",
+      "title": "おかやまコープの商品を使った「親子で作れる冷たいデザート」｜ みんなのくらしラボ（2025年7月11日）",
+      "thumbnail": "https://i.ytimg.com/vi/ejyfzmrh84o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ejyfzmrh84o"
+    },
+    {
+      "id": "zrjM_QMTXxI",
+      "title": "#83 高松商業高校 放送部｜中高生ニュース（2025年7月9日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/zrjM_QMTXxI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zrjM_QMTXxI"
+    },
+    {
+      "id": "2Uh9zDoDeP0",
+      "title": "カレーの親子丼にピザも！？里庄町でカレーをめぐろう（2025年7月4日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/2Uh9zDoDeP0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2Uh9zDoDeP0"
+    },
+    {
+      "id": "wHQkKZg9r_c",
+      "title": "ⅯⅭの悩み相談！プロ直伝の特別レッスンとは！？｜SUNDAYスマイルGOLF（2025年6月29日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/wHQkKZg9r_c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wHQkKZg9r_c"
+    },
+    {
+      "id": "wfLSQkSmsT8",
+      "title": "平林金属 平林実 代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年7月6日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/wfLSQkSmsT8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wfLSQkSmsT8"
+    },
+    {
+      "id": "vdHa5KiGJR0",
+      "title": "おかやまコープの取り組み「防災・減災」 ローリングストックにもおすすめの商品も紹介！｜ みんなのくらしラボ（2025年7月4日）",
+      "thumbnail": "https://i.ytimg.com/vi/vdHa5KiGJR0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vdHa5KiGJR0"
+    },
+    {
+      "id": "L2Y-BaeGcE4",
+      "title": "#82 善通寺第一高校 演劇部｜中高生ニュース（2025年7月2日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/L2Y-BaeGcE4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=L2Y-BaeGcE4"
+    },
+    {
+      "id": "OV7M4p2kF2c",
+      "title": "先週大苦戦…目が強い「高麗グリーン」攻略なるか？｜SUNDAYスマイルGOLF（2025年6月22日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/OV7M4p2kF2c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OV7M4p2kF2c"
+    },
+    {
+      "id": "Fz63DRJvt-w",
+      "title": "井上誠耕園 井上 智博 園主｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年6月29日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Fz63DRJvt-w/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fz63DRJvt-w"
+    },
+    {
+      "id": "E1PkOpMv1Rk",
+      "title": "徳島・夏にオススメ！納涼「半田そうめん」｜四国めぐり愛（2025年6月27日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/E1PkOpMv1Rk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E1PkOpMv1Rk"
+    },
+    {
+      "id": "BzT9MlOYqVc",
+      "title": "【防災キャンペーン2025】三和シヤッター工業CM",
+      "thumbnail": "https://i.ytimg.com/vi/BzT9MlOYqVc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BzT9MlOYqVc"
+    },
+    {
+      "id": "tBJS4KZh8U4",
+      "title": "【防災キャンペーン2025】岡山県建設業協会CM",
+      "thumbnail": "https://i.ytimg.com/vi/tBJS4KZh8U4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tBJS4KZh8U4"
+    },
+    {
+      "id": "DsOhqmb61k8",
+      "title": "【アーカイブ動画公開中】『岡山市の浸水対策』｜桃太郎の岡山Cityかわら版Z（2025年6月21日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/DsOhqmb61k8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DsOhqmb61k8"
+    },
+    {
+      "id": "pTj9cMF3kqg",
+      "title": "『岡山市の浸水対策』｜桃太郎の岡山Cityかわら版Z（2025年6月21日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/pTj9cMF3kqg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pTj9cMF3kqg"
+    },
+    {
+      "id": "HidLxRIpjCU",
+      "title": "岡山空襲下の岡山城【岡山映像ライブラリーセンター】",
+      "thumbnail": "https://i.ytimg.com/vi/HidLxRIpjCU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HidLxRIpjCU"
+    },
+    {
+      "id": "i80fp9V78LI",
+      "title": "【前編】香川で世界を食べ尽くす！スパイス香る本格コンゴ・インド・ネパール料理を体験！｜KAGAWA旬ネタリサーチ部（2025年6月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/i80fp9V78LI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=i80fp9V78LI"
+    },
+    {
+      "id": "PnuZgM7ynZU",
+      "title": "【後編】笑っちゃう大きさ！香川に上陸したNYピザ！＆他では買えない珍しい食材も発見！｜KAGAWA旬ネタリサーチ部（2025年6月20日放送",
+      "thumbnail": "https://i.ytimg.com/vi/PnuZgM7ynZU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PnuZgM7ynZU"
+    },
+    {
+      "id": "qhNgsWmb6DI",
+      "title": "必見！右足側に置くだけ！低い弾道のアプローチ｜SUNDAYスマイルGOLF（2025年6月15日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/qhNgsWmb6DI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qhNgsWmb6DI"
+    },
+    {
+      "id": "pr1zfuuPsOc",
+      "title": "フカイ 竹内和博 代表取締役｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年6月22日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/pr1zfuuPsOc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pr1zfuuPsOc"
+    },
+    {
+      "id": "5H2CKsVbKQo",
+      "title": "【レシピ】牛肉のサルサソース和え素麺｜らくウマ☆キッチン（2025年6月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/5H2CKsVbKQo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5H2CKsVbKQo"
+    },
+    {
+      "id": "xFcb9Bwn3Q0",
+      "title": "夏場の睡眠障害に注意！エアコンを賢く活用し睡眠の質向上へ｜いまコレ調査員（2025年6月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/xFcb9Bwn3Q0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xFcb9Bwn3Q0"
+    },
+    {
+      "id": "9AFLJc2HPR0",
+      "title": "くらしき３べジプロジェクト！ 野菜の効果的な食べ方で健康課題の解決を目指す｜月刊くらしき情報局（2025年6月20日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/9AFLJc2HPR0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9AFLJc2HPR0"
+    },
+    {
+      "id": "RQftUD9w2AA",
+      "title": "#80 井原高校 グリーンライフコース｜中高生ニュース（2025年6月18日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/RQftUD9w2AA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RQftUD9w2AA"
+    },
+    {
+      "id": "uMtxyRM8q7U",
+      "title": "あんこ好きに捧ぐ…！モチモチ生地と自家製あんこの「ただのクレープじゃない」和風クレープの秘密｜KAGAWA旬ネタリサーチ部（2025年6月13日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/uMtxyRM8q7U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uMtxyRM8q7U"
+    },
+    {
+      "id": "vsGAmpS4g7M",
+      "title": "【レシピ】フライパンで簡単 チキン南蛮｜らくウマ☆キッチン（2025年6月13日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/vsGAmpS4g7M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vsGAmpS4g7M"
+    },
+    {
+      "id": "_xCcOsQCsZU",
+      "title": "綜合設計 井上 統一郎 代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年6月15日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/_xCcOsQCsZU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_xCcOsQCsZU"
+    },
+    {
+      "id": "9V5Y41zw02Y",
+      "title": "弾道が劇的変化！？宮武＆新田がスイング改良に挑む｜SUNDAYスマイルGOLF（2025年6月8日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/9V5Y41zw02Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9V5Y41zw02Y"
+    },
+    {
+      "id": "doLVh4VAL5Y",
+      "title": "#79 高松北高校 理学部｜中高生ニュース（2025年6月11日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/doLVh4VAL5Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=doLVh4VAL5Y"
+    },
+    {
+      "id": "DmDz3siEL68",
+      "title": "【後編】\"醤油\"で描かれた絵！？香川の知られざる異空間へ潜入｜KAGAWA旬ネタリサーチ部（2025年6月6日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/DmDz3siEL68/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DmDz3siEL68"
+    },
+    {
+      "id": "NbW8OnYAy2o",
+      "title": "【前編】香川の「刺激的」すぎる謎スポット…戦前の館に潜む人形とは？｜KAGAWA旬ネタリサーチ部（2025年6月6日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/NbW8OnYAy2o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NbW8OnYAy2o"
+    },
+    {
+      "id": "oxe0y4QDoKU",
+      "title": "院庄林業 田原 義彦 常務取締役 管理本部 本部長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年6月8日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/oxe0y4QDoKU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oxe0y4QDoKU"
+    },
+    {
+      "id": "T9or5nxUQPM",
+      "title": "弾道が劇的変化！？宮武＆新田がスイング改良に挑む｜SUNDAYスマイルGOLF（2025年6月1日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/T9or5nxUQPM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=T9or5nxUQPM"
+    },
+    {
+      "id": "SgCG2GuXsmI",
+      "title": "今始めても早すぎない！熱中症対策｜いまコレ調査員（2025年6月6日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/SgCG2GuXsmI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SgCG2GuXsmI"
+    },
+    {
+      "id": "SMnbuL9dx9A",
+      "title": "今年は協同組合の活動を推進する年「国際協同組合年」｜ みんなのくらしラボ（2025年6月6日）",
+      "thumbnail": "https://i.ytimg.com/vi/SMnbuL9dx9A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SMnbuL9dx9A"
+    },
+    {
+      "id": "NyCGECmaeqM",
+      "title": "【レシピ】アジの南蛮あんかけ｜らくウマ☆キッチン（2025年6月6日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/NyCGECmaeqM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NyCGECmaeqM"
+    },
+    {
+      "id": "4wnN_2uKUJc",
+      "title": "「あのチェーン店最後の1軒なんだ」伊集院光さんよりメッセージ｜『どうなる 最後の1軒さん!?』6月8日(日)15:00 #shorts",
+      "thumbnail": "https://i.ytimg.com/vi/4wnN_2uKUJc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4wnN_2uKUJc"
+    },
+    {
+      "id": "th9hv3veHFM",
+      "title": "【本編未公開シーン】さや香 石井 初海外ロケでも踊りまくる！｜『どうなる 最後の1軒さん!?』6月8日(日)15:00",
+      "thumbnail": "https://i.ytimg.com/vi/th9hv3veHFM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=th9hv3veHFM"
+    },
+    {
+      "id": "8ZYmfP6Y5KY",
+      "title": "【本編未公開シーン】さや香 石井 太平洋の孤島で犬と出会う｜『どうなる 最後の1軒さん!?』6月8日(日)15:00",
+      "thumbnail": "https://i.ytimg.com/vi/8ZYmfP6Y5KY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8ZYmfP6Y5KY"
+    },
+    {
+      "id": "nWVHBgsoZb8",
+      "title": "【本編未公開シーン】さや香 石井が初の海外ロケ！向かう場所とは！？｜『どうなる 最後の1軒さん!?』6月8日(日)15:00",
+      "thumbnail": "https://i.ytimg.com/vi/nWVHBgsoZb8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nWVHBgsoZb8"
+    },
+    {
+      "id": "JiBz45RplVk",
+      "title": "【本編未公開シーン】エース地元の「西成のフリーマン？」との思い出 バッテリィズ｜『どうなる 最後の1軒さん!?』6月8日(日)15:00",
+      "thumbnail": "https://i.ytimg.com/vi/JiBz45RplVk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JiBz45RplVk"
+    },
+    {
+      "id": "2Uxk2gfM9R0",
+      "title": "現役レースクイーンのぞみん ＆ 元英語講師もっちゅが世界初で国内唯一のビニール傘メーカー「ホワイトローズ」へ｜『どうなる 最後の1軒さん!?』6月8日(日)15:00",
+      "thumbnail": "https://i.ytimg.com/vi/2Uxk2gfM9R0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2Uxk2gfM9R0"
+    },
+    {
+      "id": "HDpLeAFrXHo",
+      "title": "【本編未公開シーン】「魚へんに虎と書いたと思ったら～」コウメ太夫が芸を伝授｜『どうなる 最後の1軒さん!?』6月8日(日)15:00",
+      "thumbnail": "https://i.ytimg.com/vi/HDpLeAFrXHo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HDpLeAFrXHo"
+    },
+    {
+      "id": "74AzVQNqdl8",
+      "title": "【本編未公開シーン】島田珠代さんが撮影の合間にファンサービス！｜『どうなる 最後の1軒さん!?』6月8日(日)15:00",
+      "thumbnail": "https://i.ytimg.com/vi/74AzVQNqdl8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=74AzVQNqdl8"
+    },
+    {
+      "id": "0wN8gDo1L6o",
+      "title": "「すごい鎌を使われている方がいて」渋谷凪咲さんよりメッセージ｜『どうなる 最後の1軒さん!?』6月8日(日)15:00 #shorts",
+      "thumbnail": "https://i.ytimg.com/vi/0wN8gDo1L6o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0wN8gDo1L6o"
+    },
+    {
+      "id": "BGqxgaTn5UM",
+      "title": "「難しすぎましたチクショー！」コウメ太夫が伝統芸に挑戦！｜『どうなる 最後の1軒さん!?』6月8日(日)15:00",
+      "thumbnail": "https://i.ytimg.com/vi/BGqxgaTn5UM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BGqxgaTn5UM"
+    },
+    {
+      "id": "1aoINS28sVk",
+      "title": "玉ねぎにジャガイモなど！RSK農園で初夏の野菜を収穫！｜きょうトピ！（2025年5月30日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/1aoINS28sVk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1aoINS28sVk"
+    },
+    {
+      "id": "AWKnx18oVKM",
+      "title": "#78 井原高校 男子新体操部｜中高生ニュース（2025年6月4日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/AWKnx18oVKM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AWKnx18oVKM"
+    },
+    {
+      "id": "7vP30UIZfRU",
+      "title": "「初めての経験ばっかり！」さや香 石井　初海外ロケへ！｜『どうなる 最後の1軒さん!?』6月8日(日)15:00",
+      "thumbnail": "https://i.ytimg.com/vi/7vP30UIZfRU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7vP30UIZfRU"
+    },
+    {
+      "id": "5rPTvIt_xV8",
+      "title": "「キャスティングミスがありました」見取り図よりメッセージ｜『どうなる 最後の1軒さん!?』6月8日(日)15:00 #shorts",
+      "thumbnail": "https://i.ytimg.com/vi/5rPTvIt_xV8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5rPTvIt_xV8"
+    },
+    {
+      "id": "SEDpIEdmFoc",
+      "title": "後楽ゴルフ倶楽部で すし石垣プロとアナウンサー対決｜SUNDAYスマイルGOLF（2025年5月25日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/SEDpIEdmFoc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SEDpIEdmFoc"
+    },
+    {
+      "id": "V0MnE4XusJU",
+      "title": "岩水開発 押川正裕 代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年6月1日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/V0MnE4XusJU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=V0MnE4XusJU"
+    },
+    {
+      "id": "fKf22BeNzOU",
+      "title": "『どうなる 最後の1軒さん!?』6月8日(日)15:00｜30秒番宣",
+      "thumbnail": "https://i.ytimg.com/vi/fKf22BeNzOU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fKf22BeNzOU"
+    },
+    {
+      "id": "OAhdTWVnHUc",
+      "title": "「初めてツチノコ見たときと一緒」バッテリィズよりメッセージ｜『どうなる 最後の1軒さん!?』6月8日(日)15:00 #shorts",
+      "thumbnail": "https://i.ytimg.com/vi/OAhdTWVnHUc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OAhdTWVnHUc"
+    },
+    {
+      "id": "QDSrGiLA6_k",
+      "title": "自然と歴史を巡る！アスレチック公園と「い草」をイメージしたスカッシュ｜おかやま12町村スタンプラリー（2025年10月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/QDSrGiLA6_k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QDSrGiLA6_k"
+    },
+    {
+      "id": "oL4h2CDbAGU",
+      "title": "岡山・香川の秋祭り特集！地元食材の屋台グルメも！（2025年10月10日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/oL4h2CDbAGU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oL4h2CDbAGU"
+    },
+    {
+      "id": "uljZUriSSBY",
+      "title": "【後編】和の文化にハマる若者 女子高生推しは盆栽？高松の盆栽を全国へ！｜KAGAWA旬ネタリサーチ部（2025年10月10日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/uljZUriSSBY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uljZUriSSBY"
+    },
+    {
+      "id": "wwqxKd9p2i8",
+      "title": "【前編】和の文化にハマる若者 目指せ！漆芸作家｜KAGAWA旬ネタリサーチ部（2025年10月10日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/wwqxKd9p2i8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wwqxKd9p2i8"
+    },
+    {
+      "id": "HWjq7ZkZZeM",
+      "title": "コープおかやま若鶏を使った「鶏のコーンクリーム煮」｜ みんなのくらしラボ（2025年10月10日）",
+      "thumbnail": "https://i.ytimg.com/vi/HWjq7ZkZZeM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HWjq7ZkZZeM"
+    },
+    {
+      "id": "XFvHKxxk0Ts",
+      "title": "岡山 焼肉ランキング ｜ VOICE de GO！（2025年10月1日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/XFvHKxxk0Ts/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XFvHKxxk0Ts"
+    },
+    {
+      "id": "3pkxWyV94e8",
+      "title": "出演俳優３人が生出演！「サーカス・サーカス 木下サーカス物語」|いまドキッ！（2025年8月22日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/3pkxWyV94e8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3pkxWyV94e8"
+    },
+    {
+      "id": "cybts0eIaDU",
+      "title": "出演ダンサー３人が生出演！「サーカス・サーカス 木下サーカス物語」|いまドキッ！（2025年9月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/cybts0eIaDU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cybts0eIaDU"
+    },
+    {
+      "id": "Kl8KHuIIi7s",
+      "title": "#96 高梁高校 高校生外交官｜中高生ニュース（2025年10月8日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Kl8KHuIIi7s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Kl8KHuIIi7s"
+    },
+    {
+      "id": "mmsoGHTf4i8",
+      "title": "光南　脇本 昌明　代表取締役社長｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年10月12日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/mmsoGHTf4i8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mmsoGHTf4i8"
+    },
+    {
+      "id": "oSH2Th-P-L4",
+      "title": "前田羚菜プロとマッチプレー！コロコロ作戦とは！？｜SUNDAYスマイルGOLF（2025年9月28日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/oSH2Th-P-L4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oSH2Th-P-L4"
+    },
+    {
+      "id": "MiKDtsp3vhI",
+      "title": "日本のエーゲ海『牛窓』でSUP(サップ)体験｜ VOICE de GO！（2025年9月24日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/MiKDtsp3vhI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MiKDtsp3vhI"
+    },
+    {
+      "id": "1T56argX5YM",
+      "title": "発見！絶景サウナのあるお宿｜ VOICE de GO！（2025年9月24日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/1T56argX5YM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1T56argX5YM"
+    },
+    {
+      "id": "E91lHq7EjOM",
+      "title": "【後編】高校の文化祭に潜入！ステージ発表に潜入！？｜KAGAWA旬ネタリサーチ部（2025年10月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/E91lHq7EjOM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E91lHq7EjOM"
+    },
+    {
+      "id": "sYokwVaCmlc",
+      "title": "半年ぶりの値上げラッシュ！猛暑が影響！？｜いまコレ調査員（2025年10月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/sYokwVaCmlc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sYokwVaCmlc"
+    },
+    {
+      "id": "71ji2UGG8Hc",
+      "title": "【前編】高校の文化祭に潜入！SNS時代ならではの出し物とは？｜KAGAWA旬ネタリサーチ部（2025年10月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/71ji2UGG8Hc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=71ji2UGG8Hc"
+    },
+    {
+      "id": "c-7zQMT-IeU",
+      "title": "おかやまコープによる「世界の子どもたちを応援する活動」｜ みんなのくらしラボ（2025年10月3日）",
+      "thumbnail": "https://i.ytimg.com/vi/c-7zQMT-IeU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=c-7zQMT-IeU"
+    },
+    {
+      "id": "o8VUuwu3Drc",
+      "title": "自然満喫の公園から心安らぐ図書館まで！ ”藤井風の故郷”里庄町の魅力を再発見｜おかやま12町村スタンプラリー（2025年10月3日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/o8VUuwu3Drc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=o8VUuwu3Drc"
+    },
+    {
+      "id": "8Ggol9DBzRA",
+      "title": "岡山県の防災の取り組み｜あもーれ!マッタリーノ 防災コーナー（2025年9月18日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/8Ggol9DBzRA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8Ggol9DBzRA"
+    },
+    {
+      "id": "vicpd-trpoI",
+      "title": "海沿いをGO！ 岡山1泊2日旅 牛窓から玉島へ ｜ VOICE de GO！（2025年9月24日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/vicpd-trpoI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vicpd-trpoI"
+    },
+    {
+      "id": "pl-sgC9TXhA",
+      "title": "穴場稲荷(倉敷市下津井田之浦)とは！？｜ VOICE de GO！（2025年9月24日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/pl-sgC9TXhA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pl-sgC9TXhA"
+    },
+    {
+      "id": "ux39qlZL26A",
+      "title": "日本赤十字社の防災クイズ｜あもーれ!マッタリーノ 防災コーナー（2025年9月4日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/ux39qlZL26A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ux39qlZL26A"
+    },
+    {
+      "id": "BC-b8RLoq3Y",
+      "title": "#95 笠岡高校 邦楽部｜中高生ニュース（2025年10月1日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/BC-b8RLoq3Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BC-b8RLoq3Y"
+    },
+    {
+      "id": "ccRyO4R5Ebg",
+      "title": "宗家くつわ堂 田村照夫 代表取締役｜石田好伸の就活おたすけマン 情熱リーダーズ（2025年9月28日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/ccRyO4R5Ebg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ccRyO4R5Ebg"
+    },
+    {
+      "id": "IeXBPfl09TA",
+      "title": "県内初！インドアゴルフ最新パッティングシステム｜SUNDAYスマイルGOLF（2025年9月21日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/IeXBPfl09TA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IeXBPfl09TA"
+    },
+    {
+      "id": "vWNDoyKgtFA",
+      "title": "【behind the stage】Episode 2 岡山市民ミュージカル「サーカス・サーカス　木下サーカス物語」",
+      "thumbnail": "https://i.ytimg.com/vi/vWNDoyKgtFA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vWNDoyKgtFA"
+    },
+    {
+      "id": "-cHlQFqqaAY",
+      "title": "【レシピ】麻婆なすうどん｜らくウマ☆キッチン（2025年9月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/-cHlQFqqaAY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-cHlQFqqaAY"
+    },
+    {
+      "id": "fpofAVV5kbc",
+      "title": "動物との距離が近いのが魅力！「自由すぎる動物園」でふれあい体験！｜四国めぐり愛（2025年9月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/fpofAVV5kbc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fpofAVV5kbc"
+    },
+    {
+      "id": "nKbPYR-wg6I",
+      "title": "思い出が危ない！？「ビデオテープ2025年問題」とは？｜いまコレ調査員（2025年9月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/nKbPYR-wg6I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nKbPYR-wg6I"
+    },
+    {
+      "id": "U15vPZyIuqI",
+      "title": "ここでしか味わえない逸品！「水車の里 フルーツトピア」の季節のフルーツパフェ｜おかやま12町村スタンプラリー（2025年9月26日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/U15vPZyIuqI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=U15vPZyIuqI"
+    },
+    {
+      "id": "WFHB1uxZA_8",
+      "title": "【アーカイブ動画公開中】『保護犬の人馴れ訓練プロジェクト』｜桃太郎の岡山Cityかわら版Z（2025年9月21日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/WFHB1uxZA_8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WFHB1uxZA_8"
+    },
+    {
+      "id": "-ZxpzMbx810",
+      "title": "『保護犬の人馴れ訓練プロジェクト』｜桃太郎の岡山Cityかわら版Z（2025年9月21日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/-ZxpzMbx810/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-ZxpzMbx810"
+    },
+    {
+      "id": "JzmCsXu1RwE",
+      "title": "#94 玉野光南高校 吹奏楽部｜中高生ニュース（2025年9月24日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/JzmCsXu1RwE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JzmCsXu1RwE"
     }
   ]
 }

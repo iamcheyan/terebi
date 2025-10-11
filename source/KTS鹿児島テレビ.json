@@ -1,468 +1,1268 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
-  "channel_name": "KTS 鹿児島テレビ",
+  "channel_name": "UCG8ze26AvirHm4XpBVz7rdA",
   "original_name": "KTS鹿児島テレビ",
-  "updated_at": "2025-10-11T12:00:11.334262",
+  "updated_at": "2025-10-11T12:08:35.664324",
   "videos": [
     {
-      "kind": "youtube#playlistItem",
-      "etag": "_GXHzyGAOWWPhmXi400CBdF5AXA",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLkg2aU03M0pCSzZF",
-      "snippet": {
-        "publishedAt": "2025-10-09T04:50:18Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "千原ジュニア、トラベらせていただきます。第3巻 鹿児島編_番宣15秒_ ①",
-        "description": "千原ジュニアがIMALU、チャンス大城を引き連れ鹿児島県をトラベらせていただく旅バラエティ！鹿児島の旅を満喫し、ジュニアが番組オリジナルのガイドブックを完成させる！\n\n#千原ジュニア、トラベらせていただきます。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/H6iM73JBK6E/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/H6iM73JBK6E/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/H6iM73JBK6E/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/H6iM73JBK6E/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/H6iM73JBK6E/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "H6iM73JBK6E"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "l2AZHbczBzs",
+      "title": "【わんにゃんプラスかごしま　＃414　最後まで頑張ります！（2024年2月17日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/l2AZHbczBzs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=l2AZHbczBzs"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "cDCmsgJunm7nlfro23nZ0ojzVLg",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLkt2ZE5KZmtOWlMw",
-      "snippet": {
-        "publishedAt": "2025-10-09T04:50:14Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "千原ジュニア、トラベらせていただきます。第3巻 鹿児島編_番宣15秒_②",
-        "description": "千原ジュニアがIMALU、チャンス大城を引き連れ鹿児島県をトラベらせていただく旅バラエティ！鹿児島の旅を満喫し、ジュニアが番組オリジナルのガイドブックを完成させる！\n\n#千原ジュニア、トラベらせていただきます。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KvdNJfkNZS0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KvdNJfkNZS0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KvdNJfkNZS0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/KvdNJfkNZS0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/KvdNJfkNZS0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "KvdNJfkNZS0"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "KLbYLxEAhoQ",
+      "title": "【わんにゃんプラスかごしま　＃415 家族で悲しみを乗り越えて （2024年2月24日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/KLbYLxEAhoQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KLbYLxEAhoQ"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "4Bslc74HG_bdK09U0l8_7mJzDzU",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLkwtNXZMMnNYeWJR",
-      "snippet": {
-        "publishedAt": "2025-10-08T14:15:03Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "かごんま未来ノート 第193回「大鶴湖の水質改善と自然環境を守る　NPO法人 バイオマスワークあったらし会」",
-        "description": "未来をつくろう。\n未来をつづろう。\n  \n鹿児島でさまざまな活動をしている大人たち。\n夢に向かってひたむきにがんばる子どもたち。\nみんな、「鹿児島の未来」という\n同じ目標に向かって進む大きなチームのメンバーです。\n一人ひとりが描く鹿児島の未来への想いを\n1冊のノートに手書きでつづっていく。\nそれが、「未来ノート」です。\n\n第193回は、大鶴湖の水質改善と自然環境を守る　NPO法人バイオマスワークあったらし会を紹介しました。\n#ktstv #kts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/L-5vL2sXybQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/L-5vL2sXybQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/L-5vL2sXybQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/L-5vL2sXybQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/L-5vL2sXybQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "L-5vL2sXybQ"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "EU_FV4T3mxE",
+      "title": "かごんま未来ノート 第163回「ふるさとの宝を守り続ける 天神町美化クラブ」",
+      "thumbnail": "https://i.ytimg.com/vi/EU_FV4T3mxE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EU_FV4T3mxE"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "eXInLJYa90EUaDOZq7vgMXPDFvM",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLjRZdjl1Um1hYk5F",
-      "snippet": {
-        "publishedAt": "2025-10-04T08:30:03Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "【#わんにゃんプラスかごしま🐾】接客が大好き♡ドライフラワー専門店の看板犬",
-        "description": "♯498　「癒やしの看板犬♪」2025年10月4日放送回　見逃し配信\n\n★,｡･:*:☆｡･:*:･ﾟ*★,｡･:*:☆｡･:*:･ﾟ\n10年前　”ある理由“から\nブリーダーさんの元へ返されてしまった主人公“ルナ”\n\n優しい「さとるパパ」は“ルナ”を譲り受けて\n幸せな居場所を作ってあげました。\n\n先代犬との間に子どもの「モコ」を授かって\n今では親子仲良く　パパが営むお花屋さんの看板犬です。\n\n”ルナ“と”モコ“のキュートな癒やしの接客を\n是非ご覧ください。\n\n\n◆見逃し動画はコチラ\nhttps://www.youtube.com/playlist?list=PL3QB02sD6qfzPGt1Y7oqpHsfxY4vXA4y1\n\n◆番組公式HPページ\nhtts://kts-tv.co.jp/program/kurunekoplus/\n\n◇ーー◇ーー◇ーー◇ーー◇\n\n【おススメ動画🐾】\n\n◆仕事をする仲間としてなくてはならない存在\n♯493　「大事なお役目♪」2025年8月30日放送\nhttps://youtu.be/Ok3OxZCo9C4　\n\nパパの肩の上が指定席\n#490　「おんぶに抱っこ♪」2025年8月9日放送　\nhttps://youtu.be/PpwG0Gde_R4\n\n◆夜もなんだかわくわく・愛犬と一緒にキャンプ\n＃467　みんなが笑顔になれる場所♪（2025年3月1日放送）\nhttps://youtu.be/7qlrhNGOFO4\n\n◆30匹目の保護猫の幸せを願って決断したこと\n＃394 30匹目の保護猫を迎えて　（2023年9月23日（土）放送）\nhttps://youtu.be/pmiJatTh_40\n\n◆警戒心の強い子がようやく心を開いてくれた\n＃461 ゆっくりと愛情を深めて♪　（2025年１月18日放送）\nhttps://youtu.be/ainqRxeIcvw\n\n◆自慢の家族\n＃438「家族で笑顔に♪」2024年8月3日放送\nhttps://youtu.be/GhC4zURMAT4\n\n◆カリカリより、ママの手作りご飯が楽しみ\n＃397 ママの愛情ご飯♪（2023年10月14日放送）\nhttps://youtu.be/3JEYHj_-OiM\n\n◆食事中に捨てられた経験がトラウマ\n＃403 わが家は犬ファースト♪（2023年11月25日放送）\nhttps://youtu.be/pHi-OPAVwOg\n\n◆置物のように動けなかった“らんぷ”に変化が\n＃426 私を変えてくれました（2024年5月11日放送）\nhttps://youtu.be/MzDx5SLq-s4\n\n◆べったり甘え上手な子になりました。それから、体の半分はヤキイモでできています\n＃454　幸せな季節の始まり！　2024年11月23日放送\nhttps://youtu.be/VHyQcMRCfFY\n\n#犬 #猫 #可愛い #ペット",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4Yv9uRmabNE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4Yv9uRmabNE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4Yv9uRmabNE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4Yv9uRmabNE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "4Yv9uRmabNE"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "lmyroVKCW0E",
+      "title": "【わんにゃんプラスかごしま　＃416　幸せをつなぐお手伝い♪（2024年3月2日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/lmyroVKCW0E/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lmyroVKCW0E"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "hkUGZxi3Zeo-VorPGYYMSKfMxvE",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLjluZGhXaVpTdENB",
-      "snippet": {
-        "publishedAt": "2025-10-04T08:25:00Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "河内あづきの鹿児島あっちこっち　10月4日（土）",
-        "description": "【夜間中学で新たな人生を\n～県立いろは中学校～】\n\n県立いろは中学校は、多様性を尊重し、\n生徒一人一人に寄り添った指導を行うことで、\nそれぞれの思いを大切に、いきいきと学ぶことができる\n夜間中学校です。\nあなたも、いろは中学校で一緒に学んでみませんか？\n\nhttps://www.kts-tv.co.jp/program/atikoti/\n#ktstv",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9ndhWiZStCA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9ndhWiZStCA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9ndhWiZStCA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9ndhWiZStCA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9ndhWiZStCA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "9ndhWiZStCA"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "EKhky0piUFg",
+      "title": "前原竜二の前向きチャンネル　３月４日（火）",
+      "thumbnail": "https://i.ytimg.com/vi/EKhky0piUFg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EKhky0piUFg"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "toeVnUlbTHJWQAoSy0v6vVGGZko",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLkduM0k5R3VFSnNZ",
-      "snippet": {
-        "publishedAt": "2025-10-02T02:53:04Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "鹿児島県議会「県議会レポート」（2025年9月23日放送）",
-        "description": "県民との意見交換会「あなたのそばで県議会」や常任委員会の行政視察など、令和7年度上半期の県議会の活動について紹介します。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Gn3I9GuEJsY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Gn3I9GuEJsY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Gn3I9GuEJsY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Gn3I9GuEJsY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Gn3I9GuEJsY"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "z1syfYo5xwI",
+      "title": "【わんにゃんプラスかごしま　＃417　わが家は保護猫ハウス♪（2024年3月9日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/z1syfYo5xwI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=z1syfYo5xwI"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "1RDTzWpAjXJE0Wyoz_R-IGrLOYs",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLlFRSGdrT1ZvSkdV",
-      "snippet": {
-        "publishedAt": "2025-10-01T14:30:17Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "かごんま未来ノート 第192回「八月踊りの楽しさと魅力を発信　あらしゃげ会」",
-        "description": "未来をつくろう。\n未来をつづろう。\n  \n鹿児島でさまざまな活動をしている大人たち。\n夢に向かってひたむきにがんばる子どもたち。\nみんな、「鹿児島の未来」という\n同じ目標に向かって進む大きなチームのメンバーです。\n一人ひとりが描く鹿児島の未来への想いを\n1冊のノートに手書きでつづっていく。\nそれが、「未来ノート」です。\n\n第192回は、八月踊りの楽しさと魅力を発信　あらしゃげ会を紹介しました。\n#ktstv #kts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QQHgkOVoJGU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QQHgkOVoJGU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QQHgkOVoJGU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QQHgkOVoJGU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QQHgkOVoJGU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "QQHgkOVoJGU"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "fBSy5FlLkgs",
+      "title": "【わんにゃんプラスかごしま　＃418　みんなのアイドル♪（2024年3月16日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/fBSy5FlLkgs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fBSy5FlLkgs"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "Cr0FCbdfQVu9gS8j_XSH1zQYf9w",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLnhGOERuRERxSGxF",
-      "snippet": {
-        "publishedAt": "2025-09-27T08:25:02Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "河内あづきの鹿児島あっちこっち　9月27日（土）",
-        "description": "【健康づくりは毎日の運動と食事から\n～かごしま健康イエローカードキャンペーン～】\n\n県では、運動の習慣化や食生活の改善などの生活習慣の見直しを強く呼びかける「かごしま健康イエローカードキャンペーン」を積極的に展開しています。\n\n栄養の偏り、野菜不足、運動不足、睡眠不足、喫煙、お酒の飲み過ぎなど、\nあなたの生活習慣、ホントに大丈夫ですか？\n\n番組では、従業員の健康づくりに励む企業や、\n野菜たっぷりのメニューを提供する飲食店を紹介します。\n\nhttps://www.kts-tv.co.jp/program/atikoti/\n#ktstv",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xF8DnDDqHlE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xF8DnDDqHlE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xF8DnDDqHlE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/xF8DnDDqHlE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xF8DnDDqHlE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "xF8DnDDqHlE"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "7qlrhNGOFO4",
+      "title": "【わんにゃんプラスかごしま　＃467　みんなが笑顔になれる場所♪（2025年3月1日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/7qlrhNGOFO4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7qlrhNGOFO4"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "HNb4_7SFU7oCy_AzsiKYOv3ujes",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLmNiT2thTUt1cG1r",
-      "snippet": {
-        "publishedAt": "2025-09-26T01:43:09Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "鹿児島グルメ～おいしい餃子いただきます。～",
-        "description": "2025年9月16日（火）放送\n鹿児島グルメ～おいしい餃子いただきます。～\n\n※お店や商品の情報は取材当時のものです、詳細は各店舗にお問い合わせください\n\n#宮下純一 #竹田瞳 #鹿児島 #グルメ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cbOkaMKupmk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cbOkaMKupmk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cbOkaMKupmk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/cbOkaMKupmk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cbOkaMKupmk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "cbOkaMKupmk"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "yZJSr71mvDI",
+      "title": "前原竜二の前向きチャンネルＥＸ　３月１日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/yZJSr71mvDI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yZJSr71mvDI"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "vI7JwQs7pH_BWMCyj8gvPMhvFHY",
-      "id": "VVVHOHplMjZBdmlySG00WHBCVno3cmRBLjJXdm1MOVFBR0lB",
-      "snippet": {
-        "publishedAt": "2025-09-24T14:00:06Z",
-        "channelId": "UCG8ze26AvirHm4XpBVz7rdA",
-        "title": "かごんま未来ノート 第191回「次世代につなぐ　廃校でのリユースイベント　NPO法人　かごしま自然学校」",
-        "description": "未来をつくろう。\n未来をつづろう。\n  \n鹿児島でさまざまな活動をしている大人たち。\n夢に向かってひたむきにがんばる子どもたち。\nみんな、「鹿児島の未来」という\n同じ目標に向かって進む大きなチームのメンバーです。\n一人ひとりが描く鹿児島の未来への想いを\n1冊のノートに手書きでつづっていく。\nそれが、「未来ノート」です。\n\n第191回は、次世代につなぐ　廃校でのリユースイベント　NPO法人　かごしま自然学校を紹介しました。\n#ktstv #kts",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2WvmL9QAGIA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2WvmL9QAGIA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2WvmL9QAGIA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2WvmL9QAGIA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2WvmL9QAGIA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "KTS 鹿児島テレビ",
-        "playlistId": "UUG8ze26AvirHm4XpBVz7rdA",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "2WvmL9QAGIA"
-        },
-        "videoOwnerChannelTitle": "KTS 鹿児島テレビ",
-        "videoOwnerChannelId": "UCG8ze26AvirHm4XpBVz7rdA"
-      }
+      "id": "DS2z1zty5G4",
+      "title": "④2025年2月28日放送：ＫＴＳライブニュース「かごたん」",
+      "thumbnail": "https://i.ytimg.com/vi/DS2z1zty5G4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DS2z1zty5G4"
+    },
+    {
+      "id": "zveI3LLPAP4",
+      "title": "【わんにゃんプラスかごしま　＃419　優しさに見守られています♪（2024年3月23日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/zveI3LLPAP4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zveI3LLPAP4"
+    },
+    {
+      "id": "3MoTLbCoBdk",
+      "title": "鹿児島ラーメンTHEレジェンド　～受け継がれる一杯～",
+      "thumbnail": "https://i.ytimg.com/vi/3MoTLbCoBdk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3MoTLbCoBdk"
+    },
+    {
+      "id": "EsfuYJbXh5c",
+      "title": "鹿児島マラソン2025",
+      "thumbnail": "https://i.ytimg.com/vi/EsfuYJbXh5c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EsfuYJbXh5c"
+    },
+    {
+      "id": "bGpPVy2tD48",
+      "title": "かごんま未来ノート 第162回「自然の喜びを分かち合う体験プログラム かごしまし・みなみシェアリングネイチャーの会」",
+      "thumbnail": "https://i.ytimg.com/vi/bGpPVy2tD48/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bGpPVy2tD48"
+    },
+    {
+      "id": "KQkmPJx2gag",
+      "title": "【わんにゃんプラスかごしま　＃420　ボクの特権♪（2024年3月30日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/KQkmPJx2gag/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KQkmPJx2gag"
+    },
+    {
+      "id": "VhQPiifpDrc",
+      "title": "前原竜二の前向きチャンネル　２月２５日（火）",
+      "thumbnail": "https://i.ytimg.com/vi/VhQPiifpDrc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VhQPiifpDrc"
+    },
+    {
+      "id": "qK6Z188hLxw",
+      "title": "【ライブカメラ】十島村 中之島・諏訪之瀬島（鹿児島県 トカラ列島）",
+      "thumbnail": "https://i.ytimg.com/vi/qK6Z188hLxw/sddefault_live.jpg",
+      "url": "https://www.youtube.com/watch?v=qK6Z188hLxw"
+    },
+    {
+      "id": "ykw8L7nlwm0",
+      "title": "【わんにゃんプラスかごしま　＃421　私にお任せください♪（2024年4月6日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/ykw8L7nlwm0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ykw8L7nlwm0"
+    },
+    {
+      "id": "YrqQW1v9nQY",
+      "title": "七呂建設杯 第４２回 鹿児島県幼児サッカーフェスティバル",
+      "thumbnail": "https://i.ytimg.com/vi/YrqQW1v9nQY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YrqQW1v9nQY"
+    },
+    {
+      "id": "R3lBU9-NngU",
+      "title": "【わんにゃんプラスかごしま　＃466　希望のひかり♪（2025年2月22日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/R3lBU9-NngU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=R3lBU9-NngU"
+    },
+    {
+      "id": "HsbiLVnrBn8",
+      "title": "③2025年2月20日放送：ＫＴＳライブニュース「かごたん」",
+      "thumbnail": "https://i.ytimg.com/vi/HsbiLVnrBn8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HsbiLVnrBn8"
+    },
+    {
+      "id": "AfZhMdfQCe0",
+      "title": "【わんにゃんプラスかごしま　＃422　笑顔が絶えません♪（2024年4月13日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/AfZhMdfQCe0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AfZhMdfQCe0"
+    },
+    {
+      "id": "9ULDUShCbD8",
+      "title": "第161回 島唄の伝統を背負って 今を盛り上げる!! NPO法人 あまみ紬人(つむぎんちゅ)",
+      "thumbnail": "https://i.ytimg.com/vi/9ULDUShCbD8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9ULDUShCbD8"
+    },
+    {
+      "id": "MB0sFVQHPek",
+      "title": "【わんにゃんプラスかごしま　＃423　ボクのストレス解消法♪】2024年4月20日OA見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/MB0sFVQHPek/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MB0sFVQHPek"
+    },
+    {
+      "id": "yYM7yYbUhPU",
+      "title": "前原竜二の前向きチャンネル　２月１４（火）",
+      "thumbnail": "https://i.ytimg.com/vi/yYM7yYbUhPU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yYM7yYbUhPU"
+    },
+    {
+      "id": "ctF6Oi9ELjg",
+      "title": "【わんにゃんプラスかごしま　＃424　看板犬は人気急上昇♪（2024年4月27日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/ctF6Oi9ELjg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ctF6Oi9ELjg"
+    },
+    {
+      "id": "aDqKx6z754E",
+      "title": "【わんにゃんプラスかごしま　＃465　僕が大好きなこと♪（2025年2月15日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/aDqKx6z754E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aDqKx6z754E"
+    },
+    {
+      "id": "BQ5ayAi0dGQ",
+      "title": "【わんにゃんプラスかごしま　＃425　欠かせない存在♪（2024年5月4日OA）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/BQ5ayAi0dGQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BQ5ayAi0dGQ"
+    },
+    {
+      "id": "kinVfgUpVLs",
+      "title": "第160回 “絆”で走ることを諦めない ブラインドランナーズ",
+      "thumbnail": "https://i.ytimg.com/vi/kinVfgUpVLs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kinVfgUpVLs"
+    },
+    {
+      "id": "7xPJoGpnuA0",
+      "title": "前原竜二の前向きチャンネル　２月１１日（火）",
+      "thumbnail": "https://i.ytimg.com/vi/7xPJoGpnuA0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7xPJoGpnuA0"
+    },
+    {
+      "id": "MzDx5SLq-s4",
+      "title": "【わんにゃんプラスかごしま　＃426 私を変えてくれました♪】（2024年5月11日放送）見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/MzDx5SLq-s4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MzDx5SLq-s4"
+    },
+    {
+      "id": "xYOmDp6DFQE",
+      "title": "【トークセッション⑧】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/xYOmDp6DFQE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xYOmDp6DFQE"
+    },
+    {
+      "id": "_PGNUTPhn-M",
+      "title": "【トークセッション⑦】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/_PGNUTPhn-M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_PGNUTPhn-M"
+    },
+    {
+      "id": "d-fu1WMeS_w",
+      "title": "【トークセッション⑥】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/d-fu1WMeS_w/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=d-fu1WMeS_w"
+    },
+    {
+      "id": "StGrkP7WaDA",
+      "title": "【トークセッション⑤】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/StGrkP7WaDA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=StGrkP7WaDA"
+    },
+    {
+      "id": "sXVyVXDFwgc",
+      "title": "【トークセッション④】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/sXVyVXDFwgc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sXVyVXDFwgc"
+    },
+    {
+      "id": "pm8qsUSJd-M",
+      "title": "【トークセッション③】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/pm8qsUSJd-M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pm8qsUSJd-M"
+    },
+    {
+      "id": "7dEmNKJML-g",
+      "title": "【トークセッション②】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/7dEmNKJML-g/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7dEmNKJML-g"
+    },
+    {
+      "id": "HCFmXG8XeSo",
+      "title": "【トークセッション①】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/HCFmXG8XeSo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HCFmXG8XeSo"
+    },
+    {
+      "id": "eB_B3NCkbo0",
+      "title": "【トークセッション　まとめ】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/eB_B3NCkbo0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eB_B3NCkbo0"
+    },
+    {
+      "id": "7XZkwMG52vw",
+      "title": "【THE HOTEL YAKUSHIMA OCEAN ＆ FOREST】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/7XZkwMG52vw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7XZkwMG52vw"
+    },
+    {
+      "id": "DOpHHoOY1Zo",
+      "title": "【ヤマグチ（株）】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/DOpHHoOY1Zo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DOpHHoOY1Zo"
+    },
+    {
+      "id": "xsqu-ceKp-U",
+      "title": "【医療法人 誠心会グループ】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/xsqu-ceKp-U/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xsqu-ceKp-U"
+    },
+    {
+      "id": "48VWmocIcJQ",
+      "title": "【（株）久永コンサルタント】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/48VWmocIcJQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=48VWmocIcJQ"
+    },
+    {
+      "id": "2UKuFtonmno",
+      "title": "【医療法人社団 永和会】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/2UKuFtonmno/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2UKuFtonmno"
+    },
+    {
+      "id": "vW6Wxqg9VKQ",
+      "title": "【鹿児島船用品（株）】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/vW6Wxqg9VKQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vW6Wxqg9VKQ"
+    },
+    {
+      "id": "4rBaWDr0lNI",
+      "title": "【鹿児島酸素（株）】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/4rBaWDr0lNI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4rBaWDr0lNI"
+    },
+    {
+      "id": "HOuxSC6rxWo",
+      "title": "【特別番組】地元で輝く！かごしま就活ナビ",
+      "thumbnail": "https://i.ytimg.com/vi/HOuxSC6rxWo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HOuxSC6rxWo"
+    },
+    {
+      "id": "pmACRwVTLHs",
+      "title": "【わんにゃんプラスかごしま　＃464　最高のプレゼント♪（2025年2月8日OA）】　見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/pmACRwVTLHs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pmACRwVTLHs"
+    },
+    {
+      "id": "Ah0G_6uUoSE",
+      "title": "【わんにゃんプラスかごしま　＃427 みんなに幸せを♪（2024年5月18日OA）】　見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/Ah0G_6uUoSE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ah0G_6uUoSE"
+    },
+    {
+      "id": "GxFy3d9xWO4",
+      "title": "【#わんにゃんプラスかごしま🐾】この子がいるから大丈夫",
+      "thumbnail": "https://i.ytimg.com/vi/GxFy3d9xWO4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GxFy3d9xWO4"
+    },
+    {
+      "id": "T57rEHq5-e0",
+      "title": "河内あづきの鹿児島あっちこっち　9月20日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/T57rEHq5-e0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=T57rEHq5-e0"
+    },
+    {
+      "id": "mPV-nLVF-38",
+      "title": "KTSの日2025「サッポロ一番 みそラーメン」アレンジレシピ",
+      "thumbnail": "https://i.ytimg.com/vi/mPV-nLVF-38/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mPV-nLVF-38"
+    },
+    {
+      "id": "6dAHodF_fWk",
+      "title": "かごんま未来ノート 第190回「自分たちの技術でこどもがより輝く未来へ　美容組合　鹿児島市支部」",
+      "thumbnail": "https://i.ytimg.com/vi/6dAHodF_fWk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6dAHodF_fWk"
+    },
+    {
+      "id": "iT4GWkBrr3k",
+      "title": "【期間限定配信】第44回かごしまマーチングフェスティバル（2025年9月14日開催）",
+      "thumbnail": "https://i.ytimg.com/vi/iT4GWkBrr3k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iT4GWkBrr3k"
+    },
+    {
+      "id": "FI1buJwQTc4",
+      "title": "9月16日(火) 放送「SUPER EIGHT安田章大の人生って最高だ」予告動画②",
+      "thumbnail": "https://i.ytimg.com/vi/FI1buJwQTc4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FI1buJwQTc4"
+    },
+    {
+      "id": "A5xicG7YvqE",
+      "title": "9月16日(火) 放送「SUPER EIGHT安田章大の人生って最高だ」予告動画①",
+      "thumbnail": "https://i.ytimg.com/vi/A5xicG7YvqE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=A5xicG7YvqE"
+    },
+    {
+      "id": "FkAQIE_aFR0",
+      "title": "河内あづきの鹿児島あっちこっち　9月13日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/FkAQIE_aFR0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FkAQIE_aFR0"
+    },
+    {
+      "id": "eIuLPm9-PbI",
+      "title": "【わんにゃんプラスかごしま🐾】保護猫たちの命を繋ぐために",
+      "thumbnail": "https://i.ytimg.com/vi/eIuLPm9-PbI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eIuLPm9-PbI"
+    },
+    {
+      "id": "3xxaNt8P-lM",
+      "title": "かごんま未来ノート 第189回「楽しみながら海辺の環境を考える　ブルーオーシャン」",
+      "thumbnail": "https://i.ytimg.com/vi/3xxaNt8P-lM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3xxaNt8P-lM"
+    },
+    {
+      "id": "h34h9K9umEQ",
+      "title": "【わんにゃんプラスかごしま】なで放題☆ご飯とおやつの時だけ許す！",
+      "thumbnail": "https://i.ytimg.com/vi/h34h9K9umEQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=h34h9K9umEQ"
+    },
+    {
+      "id": "9xxzJQxAiAo",
+      "title": "河内あづきの鹿児島あっちこっち　9月6日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/9xxzJQxAiAo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9xxzJQxAiAo"
+    },
+    {
+      "id": "XDbSoI1qa1w",
+      "title": "かごんま未来ノート 第188回「地元への愛が深まるお盆の伝統行事　北山の火振り保存会」",
+      "thumbnail": "https://i.ytimg.com/vi/XDbSoI1qa1w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XDbSoI1qa1w"
+    },
+    {
+      "id": "OW5Ia5oER4M",
+      "title": "①2025年9月3日放送：ＫＴＳニュース「かごたん」",
+      "thumbnail": "https://i.ytimg.com/vi/OW5Ia5oER4M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OW5Ia5oER4M"
+    },
+    {
+      "id": "Ok3OxZCo9C4",
+      "title": "【わんにゃんプラスかごしま】仕事をする仲間としてなくてはならない存在",
+      "thumbnail": "https://i.ytimg.com/vi/Ok3OxZCo9C4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ok3OxZCo9C4"
+    },
+    {
+      "id": "isMMxRcATqE",
+      "title": "河内あづきの鹿児島あっちこっち　8月30日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/isMMxRcATqE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=isMMxRcATqE"
+    },
+    {
+      "id": "-jNgAm2Iexk",
+      "title": "かごんま未来ノート 第187回「天文館で絵本の魅力を発信　てんまち文庫」",
+      "thumbnail": "https://i.ytimg.com/vi/-jNgAm2Iexk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-jNgAm2Iexk"
+    },
+    {
+      "id": "SqJTmxBIERs",
+      "title": "【#わんにゃんプラスかごしま🐾】　はじめての犬との生活",
+      "thumbnail": "https://i.ytimg.com/vi/SqJTmxBIERs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SqJTmxBIERs"
+    },
+    {
+      "id": "GWEk6exWMXE",
+      "title": "河内あづきの鹿児島あっちこっち　8月23日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/GWEk6exWMXE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GWEk6exWMXE"
+    },
+    {
+      "id": "LfLksLLWaRM",
+      "title": "かごんま未来ノート 第186回「自然観察や調査　身近にできる環境活動　阿室小中学校エコクラブ」",
+      "thumbnail": "https://i.ytimg.com/vi/LfLksLLWaRM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LfLksLLWaRM"
+    },
+    {
+      "id": "iv8Tt5wcnc4",
+      "title": "【わんにゃんプラスかごしま🐾】ニコニコしていたから“にこり“って名前",
+      "thumbnail": "https://i.ytimg.com/vi/iv8Tt5wcnc4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iv8Tt5wcnc4"
+    },
+    {
+      "id": "GUpM9aVqPD8",
+      "title": "河内あづきの鹿児島あっちこっち　8月16日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/GUpM9aVqPD8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GUpM9aVqPD8"
+    },
+    {
+      "id": "5RFGId37-U4",
+      "title": "かごんま未来ノート 第185回「住民自身の手でより良い地域作り　OBAMA　LIFE」",
+      "thumbnail": "https://i.ytimg.com/vi/5RFGId37-U4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5RFGId37-U4"
+    },
+    {
+      "id": "FNNht-bTqn4",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　指宿市",
+      "thumbnail": "https://i.ytimg.com/vi/FNNht-bTqn4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FNNht-bTqn4"
+    },
+    {
+      "id": "LDkrj9zdwmg",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～ 鹿児島市原良",
+      "thumbnail": "https://i.ytimg.com/vi/LDkrj9zdwmg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LDkrj9zdwmg"
+    },
+    {
+      "id": "qshKAzjc0wM",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　いちき串木野市",
+      "thumbnail": "https://i.ytimg.com/vi/qshKAzjc0wM/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qshKAzjc0wM"
+    },
+    {
+      "id": "1EiiEq-GEsw",
+      "title": "鹿児島の先輩 通学路をぶらり アフタートーク",
+      "thumbnail": "https://i.ytimg.com/vi/1EiiEq-GEsw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1EiiEq-GEsw"
+    },
+    {
+      "id": "PpwG0Gde_R4",
+      "title": "【#わんにゃんプラスかごしま🐾】パパの肩の上が指定席",
+      "thumbnail": "https://i.ytimg.com/vi/PpwG0Gde_R4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PpwG0Gde_R4"
+    },
+    {
+      "id": "En9pojxVvzo",
+      "title": "河内あづきの鹿児島あっちこっち　８月９日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/En9pojxVvzo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=En9pojxVvzo"
+    },
+    {
+      "id": "E31qfISS-L8",
+      "title": "KTSの日2025　公開生放送観覧募集！(高校生対象)",
+      "thumbnail": "https://i.ytimg.com/vi/E31qfISS-L8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E31qfISS-L8"
+    },
+    {
+      "id": "3ipIsLJPJRo",
+      "title": "かごんま未来ノート 第184回「鹿児島黒牛を知って親しんでもらいたい　姶♡LOVE　和牛女子」",
+      "thumbnail": "https://i.ytimg.com/vi/3ipIsLJPJRo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3ipIsLJPJRo"
+    },
+    {
+      "id": "Lq75g20KLJw",
+      "title": "語り継ぐこと　８０年前、鹿児島で－",
+      "thumbnail": "https://i.ytimg.com/vi/Lq75g20KLJw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Lq75g20KLJw"
+    },
+    {
+      "id": "TGohMnyxyNg",
+      "title": "【わんにゃんプラスかごしま】一日を笑顔で過ごすために絶対に欠かせない",
+      "thumbnail": "https://i.ytimg.com/vi/TGohMnyxyNg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TGohMnyxyNg"
+    },
+    {
+      "id": "x22jrKZf-bY",
+      "title": "河内あづきの鹿児島あっちこっち　８月２日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/x22jrKZf-bY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x22jrKZf-bY"
+    },
+    {
+      "id": "Hcql40o1vzY",
+      "title": "鹿児島の先輩 通学路をぶらり",
+      "thumbnail": "https://i.ytimg.com/vi/Hcql40o1vzY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Hcql40o1vzY"
+    },
+    {
+      "id": "B-BLfYZt-_g",
+      "title": "かごんま未来ノート 第183回「創作太鼓の音色で平和な未来を　琉球國祭り太鼓　鹿児島支部」",
+      "thumbnail": "https://i.ytimg.com/vi/B-BLfYZt-_g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=B-BLfYZt-_g"
+    },
+    {
+      "id": "jlK8Z6Df1QU",
+      "title": "【わんにゃんプラスかごしま】しっぽが反り返るくらい上がっていて下がっているのをあまり見たことがない",
+      "thumbnail": "https://i.ytimg.com/vi/jlK8Z6Df1QU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jlK8Z6Df1QU"
+    },
+    {
+      "id": "hussBiJPx80",
+      "title": "河内あづきの鹿児島あっちこっち　７月２６日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/hussBiJPx80/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hussBiJPx80"
+    },
+    {
+      "id": "AC3LqDgd5aQ",
+      "title": "【KTS新人アナウンサー】民辻󠄀 弘平（たみつじ こうへい）“初鳴き”の日に密着（2025.7.7）",
+      "thumbnail": "https://i.ytimg.com/vi/AC3LqDgd5aQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AC3LqDgd5aQ"
+    },
+    {
+      "id": "CkfKFtUZsWo",
+      "title": "KTSの日2025　サンシャイン池崎",
+      "thumbnail": "https://i.ytimg.com/vi/CkfKFtUZsWo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CkfKFtUZsWo"
+    },
+    {
+      "id": "ljt0PLmTZT0",
+      "title": "KTSの日2025　ひょうろく",
+      "thumbnail": "https://i.ytimg.com/vi/ljt0PLmTZT0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ljt0PLmTZT0"
+    },
+    {
+      "id": "tRwB3WleESI",
+      "title": "鹿児島グルメ～道の駅＆物産館ごちそうマップ～",
+      "thumbnail": "https://i.ytimg.com/vi/tRwB3WleESI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tRwB3WleESI"
+    },
+    {
+      "id": "5EpPPys1YEo",
+      "title": "かごんま未来ノート 第182回「高校生が輝ける地域活性化を目指す　霧島市高校生町おこし団体　Meteore」",
+      "thumbnail": "https://i.ytimg.com/vi/5EpPPys1YEo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5EpPPys1YEo"
+    },
+    {
+      "id": "puo3BzZh-GQ",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　鹿児島市松元",
+      "thumbnail": "https://i.ytimg.com/vi/puo3BzZh-GQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=puo3BzZh-GQ"
+    },
+    {
+      "id": "YKxAlrsv0QI",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　薩摩川内市",
+      "thumbnail": "https://i.ytimg.com/vi/YKxAlrsv0QI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YKxAlrsv0QI"
+    },
+    {
+      "id": "OLJL2Po8dS8",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　霧島市",
+      "thumbnail": "https://i.ytimg.com/vi/OLJL2Po8dS8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OLJL2Po8dS8"
+    },
+    {
+      "id": "myKHFh930VE",
+      "title": "【わんにゃんプラスかごしま】ひどい捨てられ方をしたのに、今ではとっても人が好き❤",
+      "thumbnail": "https://i.ytimg.com/vi/myKHFh930VE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=myKHFh930VE"
+    },
+    {
+      "id": "X-82in5qWRA",
+      "title": "河内あづきの鹿児島あっちこっち　７月１９日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/X-82in5qWRA/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=X-82in5qWRA"
+    },
+    {
+      "id": "2K2ay2YBDh8",
+      "title": "かごんま未来ノート 第181回「地産地消の狂言を伝統文化に　だれやめ狂言『大工の落書』」",
+      "thumbnail": "https://i.ytimg.com/vi/2K2ay2YBDh8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2K2ay2YBDh8"
+    },
+    {
+      "id": "3h2YfAmvsnk",
+      "title": "【わんにゃんプラスかごしま】大事な家族を守るために",
+      "thumbnail": "https://i.ytimg.com/vi/3h2YfAmvsnk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3h2YfAmvsnk"
+    },
+    {
+      "id": "-xYnGCeAK6Q",
+      "title": "河内あづきの鹿児島あっちこっち　７月１２日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/-xYnGCeAK6Q/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-xYnGCeAK6Q"
+    },
+    {
+      "id": "zP789qL7q1g",
+      "title": "「鹿児島グルメ　道の駅＆物産館グルメを大特集」",
+      "thumbnail": "https://i.ytimg.com/vi/zP789qL7q1g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zP789qL7q1g"
+    },
+    {
+      "id": "ciAMuIUQG5E",
+      "title": "鹿児島グルメ～夏を乗り切る！スタミナ飯～",
+      "thumbnail": "https://i.ytimg.com/vi/ciAMuIUQG5E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ciAMuIUQG5E"
+    },
+    {
+      "id": "mlfulnvANH8",
+      "title": "かごんま未来ノート 第180回「上町の歴史と魅力を伝える活動に取り組む上町タウンマネジメント」",
+      "thumbnail": "https://i.ytimg.com/vi/mlfulnvANH8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mlfulnvANH8"
+    },
+    {
+      "id": "OH0lh-4gN70",
+      "title": "【わんにゃんプラスかごしま】何にも代えがたい幸せの源",
+      "thumbnail": "https://i.ytimg.com/vi/OH0lh-4gN70/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OH0lh-4gN70"
+    },
+    {
+      "id": "s3YU6gHk_4w",
+      "title": "河内あづきの鹿児島あっちこっち　７月５日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/s3YU6gHk_4w/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=s3YU6gHk_4w"
+    },
+    {
+      "id": "4g52_cQbg6Y",
+      "title": "かごんま未来ノート 第179回「駅前通りを活性化！嘉例川を盛り上げる　NPO法人霧島ヴィレッジ」",
+      "thumbnail": "https://i.ytimg.com/vi/4g52_cQbg6Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4g52_cQbg6Y"
+    },
+    {
+      "id": "4uaPM7Hkulk",
+      "title": "KTSの日2025　ハナコ",
+      "thumbnail": "https://i.ytimg.com/vi/4uaPM7Hkulk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4uaPM7Hkulk"
+    },
+    {
+      "id": "CIO4CI06t8M",
+      "title": "【わんにゃんプラスかごしま】近所の方々も可愛がってくれて",
+      "thumbnail": "https://i.ytimg.com/vi/CIO4CI06t8M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CIO4CI06t8M"
+    },
+    {
+      "id": "iqHlhOeHdlM",
+      "title": "河内あづきの鹿児島あっちこっち　６月２８日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/iqHlhOeHdlM/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iqHlhOeHdlM"
+    },
+    {
+      "id": "WMpqLLU5xio",
+      "title": "かごんま未来ノート 第178回「地域コミュニティの拠点を目指すこども食堂　いぶすきそらまめ食堂」",
+      "thumbnail": "https://i.ytimg.com/vi/WMpqLLU5xio/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WMpqLLU5xio"
+    },
+    {
+      "id": "8QQEqewRtxk",
+      "title": "【わんにゃんプラスかごしま】どこが好きってわけではなくて、この子が好き❤",
+      "thumbnail": "https://i.ytimg.com/vi/8QQEqewRtxk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8QQEqewRtxk"
+    },
+    {
+      "id": "VDAtKytrP54",
+      "title": "河内あづきの鹿児島あっちこっち　６月２１日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/VDAtKytrP54/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VDAtKytrP54"
+    },
+    {
+      "id": "fS3IfCtaeWI",
+      "title": "かごんま未来ノート 第177回「ダイナミックな踊りで地元に力を　出水よさこい」",
+      "thumbnail": "https://i.ytimg.com/vi/fS3IfCtaeWI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fS3IfCtaeWI"
+    },
+    {
+      "id": "gqencfJpLCU",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　姶良市",
+      "thumbnail": "https://i.ytimg.com/vi/gqencfJpLCU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gqencfJpLCU"
+    },
+    {
+      "id": "SnGLLPgveL4",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　出水市",
+      "thumbnail": "https://i.ytimg.com/vi/SnGLLPgveL4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SnGLLPgveL4"
+    },
+    {
+      "id": "EtEkwvjA26M",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　鹿屋市",
+      "thumbnail": "https://i.ytimg.com/vi/EtEkwvjA26M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EtEkwvjA26M"
+    },
+    {
+      "id": "Ku5XqM9npPw",
+      "title": "【わんにゃんプラスかごしま/飼い主あるある】　イタズラさえ可愛い",
+      "thumbnail": "https://i.ytimg.com/vi/Ku5XqM9npPw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ku5XqM9npPw"
+    },
+    {
+      "id": "YQEsJwEd5E0",
+      "title": "河内あづきの鹿児島あっちこっち　６月１４日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/YQEsJwEd5E0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YQEsJwEd5E0"
+    },
+    {
+      "id": "2KmJ8oaphUk",
+      "title": "かごんま未来ノート 第176回「地元産の有機野菜で繋がる地域の輪　住宅型有料老人ホーム　まほろあいら」",
+      "thumbnail": "https://i.ytimg.com/vi/2KmJ8oaphUk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2KmJ8oaphUk"
+    },
+    {
+      "id": "6Qj048oqUYg",
+      "title": "【わんにゃんプラスかごしま】譲渡につながりにくい猫たちに家族を",
+      "thumbnail": "https://i.ytimg.com/vi/6Qj048oqUYg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6Qj048oqUYg"
+    },
+    {
+      "id": "wkILvvAtZ1o",
+      "title": "河内あづきの鹿児島あっちこっち　６月７日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/wkILvvAtZ1o/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wkILvvAtZ1o"
+    },
+    {
+      "id": "8OxSte0clSM",
+      "title": "鹿児島わが町自慢　第１２弾",
+      "thumbnail": "https://i.ytimg.com/vi/8OxSte0clSM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8OxSte0clSM"
+    },
+    {
+      "id": "o-HbjtF8aIM",
+      "title": "かごんま未来ノート 第175回「伝統民謡の島唄を未来へ唄いつなぐ　大笠利わらぶぇ島唄クラブ」",
+      "thumbnail": "https://i.ytimg.com/vi/o-HbjtF8aIM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=o-HbjtF8aIM"
+    },
+    {
+      "id": "JuT6swJhTnA",
+      "title": "KTSの日「高校生パフォーマンス選手権」出場者大募集！　告知",
+      "thumbnail": "https://i.ytimg.com/vi/JuT6swJhTnA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JuT6swJhTnA"
+    },
+    {
+      "id": "cM-GAjf4n_Q",
+      "title": "【わんにゃんプラスかごしま】ルンルン気分で狂犬病予防注射を受けるわんこ",
+      "thumbnail": "https://i.ytimg.com/vi/cM-GAjf4n_Q/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cM-GAjf4n_Q"
+    },
+    {
+      "id": "6lkTH7Be1IM",
+      "title": "河内あづきの鹿児島あっちこっち　５月３１日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/6lkTH7Be1IM/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6lkTH7Be1IM"
+    },
+    {
+      "id": "06wzUgo_fe4",
+      "title": "かごんま未来ノート 第174回「森の恵みと自然との共生を学び伝える　森林の学校　一歩会」",
+      "thumbnail": "https://i.ytimg.com/vi/06wzUgo_fe4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=06wzUgo_fe4"
+    },
+    {
+      "id": "UPIdc5Bme8Q",
+      "title": "【わんにゃんプラスかごしま】　猫が嫌い。他の猫がそばに寄ると戦闘モードに突入",
+      "thumbnail": "https://i.ytimg.com/vi/UPIdc5Bme8Q/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UPIdc5Bme8Q"
+    },
+    {
+      "id": "4fx_uzj0XGg",
+      "title": "河内あづきの鹿児島あっちこっち　５月２４日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/4fx_uzj0XGg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4fx_uzj0XGg"
+    },
+    {
+      "id": "UiNZctO3row",
+      "title": "アニメ「鬼滅の刃」全集中展から生中継！",
+      "thumbnail": "https://i.ytimg.com/vi/UiNZctO3row/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UiNZctO3row"
+    },
+    {
+      "id": "3UEylDC4Rv0",
+      "title": "警察官の告白～鹿児島県警情報漏洩事件を問う～",
+      "thumbnail": "https://i.ytimg.com/vi/3UEylDC4Rv0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3UEylDC4Rv0"
+    },
+    {
+      "id": "4a0mbZRem0I",
+      "title": "かごんま未来ノート 第173回「福山の新しい伝統をつくり、残していきたい　笑福神楽団」",
+      "thumbnail": "https://i.ytimg.com/vi/4a0mbZRem0I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4a0mbZRem0I"
+    },
+    {
+      "id": "0fDRYPh_X0g",
+      "title": "『負ケテタマルカ‼︎』予告編",
+      "thumbnail": "https://i.ytimg.com/vi/0fDRYPh_X0g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0fDRYPh_X0g"
+    },
+    {
+      "id": "-R4q8Ff5Rdk",
+      "title": "河内あづきの鹿児島あっちこっち　５月１７日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/-R4q8Ff5Rdk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-R4q8Ff5Rdk"
+    },
+    {
+      "id": "UxvculZleKk",
+      "title": "【わんにゃんプラスかごしま】先代犬が帰ってきたみたいですごく嬉しかった",
+      "thumbnail": "https://i.ytimg.com/vi/UxvculZleKk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UxvculZleKk"
+    },
+    {
+      "id": "edRb3CaPkrE",
+      "title": "【わんにゃんプラスかごしま】看板猫は甘え上手♪",
+      "thumbnail": "https://i.ytimg.com/vi/edRb3CaPkrE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=edRb3CaPkrE"
+    },
+    {
+      "id": "u6L7ARRiVAo",
+      "title": "【わんにゃんプラスかごしま】一緒に楽しめる場所♪",
+      "thumbnail": "https://i.ytimg.com/vi/u6L7ARRiVAo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=u6L7ARRiVAo"
+    },
+    {
+      "id": "UwllowVEmm0",
+      "title": "【わんにゃんプラスかごしま】武家屋敷の看板猫♪",
+      "thumbnail": "https://i.ytimg.com/vi/UwllowVEmm0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UwllowVEmm0"
+    },
+    {
+      "id": "_JTdi1Rlcwo",
+      "title": "かごんま未来ノート 第172回　「子どもたちが輝ける地域クラブ活動　坊津学園柔道クラブ(南さつま市)」",
+      "thumbnail": "https://i.ytimg.com/vi/_JTdi1Rlcwo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_JTdi1Rlcwo"
+    },
+    {
+      "id": "tloARQnkPBI",
+      "title": "【わんにゃんプラスかごしま】先代犬への思いをカタチに",
+      "thumbnail": "https://i.ytimg.com/vi/tloARQnkPBI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tloARQnkPBI"
+    },
+    {
+      "id": "RMIQ-BOdMuw",
+      "title": "【わんにゃんプラスかごしま】応援してます！",
+      "thumbnail": "https://i.ytimg.com/vi/RMIQ-BOdMuw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RMIQ-BOdMuw"
+    },
+    {
+      "id": "SSyA3kVnmBA",
+      "title": "「ぽよラッピングバス」15秒CM",
+      "thumbnail": "https://i.ytimg.com/vi/SSyA3kVnmBA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SSyA3kVnmBA"
+    },
+    {
+      "id": "lwhsCcMNFTc",
+      "title": "【わんにゃんプラスかごしま】大好きなのはママとキャベツ",
+      "thumbnail": "https://i.ytimg.com/vi/lwhsCcMNFTc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lwhsCcMNFTc"
+    },
+    {
+      "id": "k7mh2drW5fc",
+      "title": "【わんにゃんプラスかごしま】港に生きる猫たちの命を守りたい",
+      "thumbnail": "https://i.ytimg.com/vi/k7mh2drW5fc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=k7mh2drW5fc"
+    },
+    {
+      "id": "AGrIsQTqdKs",
+      "title": "河内あづきの鹿児島あっちこっち　５月１０日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/AGrIsQTqdKs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AGrIsQTqdKs"
+    },
+    {
+      "id": "sIxKeNtr6xc",
+      "title": "【わんにゃんプラスかごしま】覚悟を決めてずっとの家族に",
+      "thumbnail": "https://i.ytimg.com/vi/sIxKeNtr6xc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sIxKeNtr6xc"
+    },
+    {
+      "id": "vOOEJz-mmFs",
+      "title": "【わんにゃんプラスかごしま】遊んでほしくてもじっと我慢",
+      "thumbnail": "https://i.ytimg.com/vi/vOOEJz-mmFs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vOOEJz-mmFs"
+    },
+    {
+      "id": "MZFADkPOpAU",
+      "title": "【わんにゃんプラスかごしま】いつもご機嫌な”エル“とは最高の出会い",
+      "thumbnail": "https://i.ytimg.com/vi/MZFADkPOpAU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MZFADkPOpAU"
+    },
+    {
+      "id": "YYhP_6YR878",
+      "title": "かごんま未来ノート 第171回「ありのままの自分を出せる居場所づくり 森の子」",
+      "thumbnail": "https://i.ytimg.com/vi/YYhP_6YR878/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YYhP_6YR878"
+    },
+    {
+      "id": "OGNbAmhgn-Q",
+      "title": "【わんにゃんプラスかごしま】いつかの別れは怖いけど",
+      "thumbnail": "https://i.ytimg.com/vi/OGNbAmhgn-Q/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OGNbAmhgn-Q"
+    },
+    {
+      "id": "UCzlQq7BIGc",
+      "title": "河内あづきの鹿児島あっちこっち　５月３日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/UCzlQq7BIGc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UCzlQq7BIGc"
+    },
+    {
+      "id": "Kqx5K2uYiqc",
+      "title": "かごんま未来ノート 第170回「昔遊びの文化と魅力を未来へ継承 NPO法人日本子どもと伝承遊び学会」",
+      "thumbnail": "https://i.ytimg.com/vi/Kqx5K2uYiqc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Kqx5K2uYiqc"
+    },
+    {
+      "id": "BQlhUbAU7Ng",
+      "title": "【わんにゃんプラスかごしま】いいご”縁“がありますように！猫の保護活動",
+      "thumbnail": "https://i.ytimg.com/vi/BQlhUbAU7Ng/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BQlhUbAU7Ng"
+    },
+    {
+      "id": "7ep0ShYSuW8",
+      "title": "【わんにゃんプラスかごしま】ママが大好きすぎるあずき",
+      "thumbnail": "https://i.ytimg.com/vi/7ep0ShYSuW8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7ep0ShYSuW8"
+    },
+    {
+      "id": "s1MjcAxAyEg",
+      "title": "【わんにゃんプラスかごしま】家族に思い切り甘えていいんだよ",
+      "thumbnail": "https://i.ytimg.com/vi/s1MjcAxAyEg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=s1MjcAxAyEg"
+    },
+    {
+      "id": "kaJFTVYjCVo",
+      "title": "【わんにゃんプラスかごしま】父の跡を継いで花屋の看板猫に",
+      "thumbnail": "https://i.ytimg.com/vi/kaJFTVYjCVo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kaJFTVYjCVo"
+    },
+    {
+      "id": "4RPdtV1vVsc",
+      "title": "河内あづきの鹿児島あっちこっち　４月２６日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/4RPdtV1vVsc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4RPdtV1vVsc"
+    },
+    {
+      "id": "xN8l64SVVSo",
+      "title": "【わんにゃんプラスかごしま】ドッグトレーナーおススメ・愛犬のトレーニング",
+      "thumbnail": "https://i.ytimg.com/vi/xN8l64SVVSo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xN8l64SVVSo"
+    },
+    {
+      "id": "RAV-uwGTWe8",
+      "title": "【わんにゃんプラスかごしま】患者さんに寄り添う猫",
+      "thumbnail": "https://i.ytimg.com/vi/RAV-uwGTWe8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RAV-uwGTWe8"
+    },
+    {
+      "id": "KViGB5JyotQ",
+      "title": "かごんま未来ノート 第169回　「海の素晴らしさを伝え続ける かごしまウミウシラボ",
+      "thumbnail": "https://i.ytimg.com/vi/KViGB5JyotQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KViGB5JyotQ"
+    },
+    {
+      "id": "Pf0l81aLmak",
+      "title": "【わんにゃんプラスかごしま】先天性巨大食道症を患うこむぎ。短い命かもしれないけど",
+      "thumbnail": "https://i.ytimg.com/vi/Pf0l81aLmak/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Pf0l81aLmak"
+    },
+    {
+      "id": "cBnVCgULFnI",
+      "title": "【わんにゃんプラスかごしま】もふもふなので温度設定低めです",
+      "thumbnail": "https://i.ytimg.com/vi/cBnVCgULFnI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cBnVCgULFnI"
+    },
+    {
+      "id": "SRqqSBvOGhY",
+      "title": "【わんにゃんプラスかごしま】一時的な保護のつもりが誰にも渡したくなくなりました",
+      "thumbnail": "https://i.ytimg.com/vi/SRqqSBvOGhY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SRqqSBvOGhY"
+    },
+    {
+      "id": "OZNbZ3a5RLY",
+      "title": "【わんにゃんプラスかごしま】パパとママのキッチンカーに乗っていつも一緒♪",
+      "thumbnail": "https://i.ytimg.com/vi/OZNbZ3a5RLY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OZNbZ3a5RLY"
+    },
+    {
+      "id": "nEz5Xpw9ImY",
+      "title": "河内あづきの鹿児島あっちこっち　４月１９日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/nEz5Xpw9ImY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nEz5Xpw9ImY"
+    },
+    {
+      "id": "n-mHQZLhK_4",
+      "title": "【わんにゃんプラスかごしま】毎日ワンプロやサッカー三昧",
+      "thumbnail": "https://i.ytimg.com/vi/n-mHQZLhK_4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=n-mHQZLhK_4"
+    },
+    {
+      "id": "fAlUfXYSTQY",
+      "title": "恐竜展ダイナソーメイズ",
+      "thumbnail": "https://i.ytimg.com/vi/fAlUfXYSTQY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fAlUfXYSTQY"
+    },
+    {
+      "id": "wrP4OL-VITg",
+      "title": "【わんにゃんプラスかごしま】大変！！愛猫がヒモをのみ込んじゃった",
+      "thumbnail": "https://i.ytimg.com/vi/wrP4OL-VITg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wrP4OL-VITg"
+    },
+    {
+      "id": "WizbD4Rv5os",
+      "title": "かごんま未来ノート 第168回　「ふるさとを思い地域を支援する中高生 姶良市ジュニア・リーダークラブ『どんぐり』」",
+      "thumbnail": "https://i.ytimg.com/vi/WizbD4Rv5os/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WizbD4Rv5os"
+    },
+    {
+      "id": "1E8-xibfe00",
+      "title": "【わんにゃんプラスかごしま】パパのことが大好きな仲良しコンビ。トム、そしてジェリー",
+      "thumbnail": "https://i.ytimg.com/vi/1E8-xibfe00/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1E8-xibfe00"
+    },
+    {
+      "id": "IlHXP9QzslU",
+      "title": "【わんにゃんプラスかごしま】桜島で生きる70匹以上の猫たちを支える",
+      "thumbnail": "https://i.ytimg.com/vi/IlHXP9QzslU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IlHXP9QzslU"
+    },
+    {
+      "id": "7BVMFXXhMI0",
+      "title": "【わんにゃんプラスかごしま】どこででもゴロ～ンとするマイペースな“ココ”",
+      "thumbnail": "https://i.ytimg.com/vi/7BVMFXXhMI0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7BVMFXXhMI0"
+    },
+    {
+      "id": "b6xsTb8SCZ8",
+      "title": "【わんにゃんプラスかごしま　＃473大好きなスキマ時間♪（2025年4月12日）】見逃し配信",
+      "thumbnail": "https://i.ytimg.com/vi/b6xsTb8SCZ8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=b6xsTb8SCZ8"
+    },
+    {
+      "id": "6PuwAPnX3Mo",
+      "title": "河内あづきの鹿児島あっちこっち　４月１２日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/6PuwAPnX3Mo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6PuwAPnX3Mo"
+    },
+    {
+      "id": "L8Od-p27oSc",
+      "title": "【わんにゃんプラスかごしま】長生きしてほしいから犬用おやつ作っちゃいました",
+      "thumbnail": "https://i.ytimg.com/vi/L8Od-p27oSc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=L8Od-p27oSc"
+    },
+    {
+      "id": "NbsR-afiw_c",
+      "title": "【わんにゃんプラスかごしま】自分のペースだけは譲れん",
+      "thumbnail": "https://i.ytimg.com/vi/NbsR-afiw_c/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NbsR-afiw_c"
+    },
+    {
+      "id": "V543hDal95A",
+      "title": "かごんま未来ノート 第167回「新しい祭りの形を町の伝統に青振連 神輿部 お囃子連」",
+      "thumbnail": "https://i.ytimg.com/vi/V543hDal95A/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=V543hDal95A"
+    },
+    {
+      "id": "cyVF7dmtg9E",
+      "title": "【わんにゃんプラスかごしま/飼い主あるある】”チップ“とパパのラブラブタイム",
+      "thumbnail": "https://i.ytimg.com/vi/cyVF7dmtg9E/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cyVF7dmtg9E"
+    },
+    {
+      "id": "pmiJatTh_40",
+      "title": "【わんにゃんプラスかごしま】30匹目の保護猫の幸せを願って決断したこと",
+      "thumbnail": "https://i.ytimg.com/vi/pmiJatTh_40/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pmiJatTh_40"
+    },
+    {
+      "id": "KqECUoFwXS8",
+      "title": "【わんにゃんプラスかごしま】お客様にマッサージをおねだりする看板犬",
+      "thumbnail": "https://i.ytimg.com/vi/KqECUoFwXS8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KqECUoFwXS8"
+    },
+    {
+      "id": "rN7V5zqo1Xg",
+      "title": "【わんにゃんプラスかごしま】お客様が来たらテンション上がっちゃう♪",
+      "thumbnail": "https://i.ytimg.com/vi/rN7V5zqo1Xg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rN7V5zqo1Xg"
+    },
+    {
+      "id": "ekZs716kWIg",
+      "title": "河内あづきの鹿児島あっちこっち　４月５日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/ekZs716kWIg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ekZs716kWIg"
+    },
+    {
+      "id": "5Iy2nDlpwkg",
+      "title": "KTS鹿児島テレビ「SUPER EIGHT安田章大の人生って最高だ」4月15日(火) 19:54 スタート",
+      "thumbnail": "https://i.ytimg.com/vi/5Iy2nDlpwkg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5Iy2nDlpwkg"
+    },
+    {
+      "id": "sTRUr5I7MkU",
+      "title": "【わんにゃんプラスかごしま】子猫との生活は、もうたまらんって言うくらい楽しいです",
+      "thumbnail": "https://i.ytimg.com/vi/sTRUr5I7MkU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sTRUr5I7MkU"
+    },
+    {
+      "id": "3JEYHj_-OiM",
+      "title": "【わんにゃんプラスかごしま】カリカリより、ママの手作りご飯が楽しみ",
+      "thumbnail": "https://i.ytimg.com/vi/3JEYHj_-OiM/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3JEYHj_-OiM"
+    },
+    {
+      "id": "saGp1TsGlDc",
+      "title": "かごんま未来ノート 第166回「「かごしま茶」の魅力を伝える 鹿児島県立短期大学 お茶育研究会」",
+      "thumbnail": "https://i.ytimg.com/vi/saGp1TsGlDc/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=saGp1TsGlDc"
+    },
+    {
+      "id": "20_pV2nMExg",
+      "title": "「KTSあなたのかごしま」60分初回（1975年10月4日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/20_pV2nMExg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=20_pV2nMExg"
+    },
+    {
+      "id": "oYhzQmQOyf8",
+      "title": "「ぱじゃま倶楽部」初回（1989年5月4日放送 ）",
+      "thumbnail": "https://i.ytimg.com/vi/oYhzQmQOyf8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oYhzQmQOyf8"
+    },
+    {
+      "id": "Ug9Sxc3CWAk",
+      "title": "「ナマ・イキVOICE」初回（1990年5月5日放送 ）",
+      "thumbnail": "https://i.ytimg.com/vi/Ug9Sxc3CWAk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ug9Sxc3CWAk"
+    },
+    {
+      "id": "a29UMbJNcX8",
+      "title": "「2時いろトーク」第2回（1990年5月8日放送 ）",
+      "thumbnail": "https://i.ytimg.com/vi/a29UMbJNcX8/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a29UMbJNcX8"
+    },
+    {
+      "id": "9FMwch18DOs",
+      "title": "「seeたいむ」初回（1993年10月4日放送 ）",
+      "thumbnail": "https://i.ytimg.com/vi/9FMwch18DOs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9FMwch18DOs"
+    },
+    {
+      "id": "Gsof-EnjvVk",
+      "title": "「ゆうやけマガジン」初回（1997年3月31日放送 ）",
+      "thumbnail": "https://i.ytimg.com/vi/Gsof-EnjvVk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Gsof-EnjvVk"
+    },
+    {
+      "id": "ELEwoJLf14I",
+      "title": "「お茶ドキッ！」初回（2001年4月2日放送 ）",
+      "thumbnail": "https://i.ytimg.com/vi/ELEwoJLf14I/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ELEwoJLf14I"
+    },
+    {
+      "id": "-M9iBd_f3sw",
+      "title": "「情報WIDE つぼチャンネル」初回（2007年4月6日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/-M9iBd_f3sw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-M9iBd_f3sw"
+    },
+    {
+      "id": "Ig2f7lir-pI",
+      "title": "「Kagoshima見っどナイト」初回（2013年4月10日放送 ）",
+      "thumbnail": "https://i.ytimg.com/vi/Ig2f7lir-pI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ig2f7lir-pI"
+    },
+    {
+      "id": "gDnZ8Nk9Q7U",
+      "title": "「かごニュー」初回（2016年4月4日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/gDnZ8Nk9Q7U/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gDnZ8Nk9Q7U"
+    },
+    {
+      "id": "pCZVtgrOocY",
+      "title": "「げっきん！かごしま」初回（2009年3月30日放送 ）",
+      "thumbnail": "https://i.ytimg.com/vi/pCZVtgrOocY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pCZVtgrOocY"
+    },
+    {
+      "id": "z9FStBsd3qs",
+      "title": "「あらためまして、KTSです。」5秒CM",
+      "thumbnail": "https://i.ytimg.com/vi/z9FStBsd3qs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=z9FStBsd3qs"
+    },
+    {
+      "id": "3tkkd9g0MVk",
+      "title": "【わんにゃんプラスかごしま】ママの美味しいコーヒーをしのぐ人気",
+      "thumbnail": "https://i.ytimg.com/vi/3tkkd9g0MVk/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3tkkd9g0MVk"
+    },
+    {
+      "id": "H6iM73JBK6E",
+      "title": "千原ジュニア、トラベらせていただきます。第3巻 鹿児島編_番宣15秒_ ①",
+      "thumbnail": "https://i.ytimg.com/vi/H6iM73JBK6E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=H6iM73JBK6E"
+    },
+    {
+      "id": "KvdNJfkNZS0",
+      "title": "千原ジュニア、トラベらせていただきます。第3巻 鹿児島編_番宣15秒_②",
+      "thumbnail": "https://i.ytimg.com/vi/KvdNJfkNZS0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KvdNJfkNZS0"
+    },
+    {
+      "id": "L-5vL2sXybQ",
+      "title": "かごんま未来ノート 第193回「大鶴湖の水質改善と自然環境を守る　NPO法人 バイオマスワークあったらし会」",
+      "thumbnail": "https://i.ytimg.com/vi/L-5vL2sXybQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=L-5vL2sXybQ"
+    },
+    {
+      "id": "4Yv9uRmabNE",
+      "title": "【#わんにゃんプラスかごしま🐾】接客が大好き♡ドライフラワー専門店の看板犬",
+      "thumbnail": "https://i.ytimg.com/vi/4Yv9uRmabNE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4Yv9uRmabNE"
+    },
+    {
+      "id": "9ndhWiZStCA",
+      "title": "河内あづきの鹿児島あっちこっち　10月4日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/9ndhWiZStCA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9ndhWiZStCA"
+    },
+    {
+      "id": "Gn3I9GuEJsY",
+      "title": "鹿児島県議会「県議会レポート」（2025年9月23日放送）",
+      "thumbnail": "https://i.ytimg.com/vi/Gn3I9GuEJsY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Gn3I9GuEJsY"
+    },
+    {
+      "id": "QQHgkOVoJGU",
+      "title": "かごんま未来ノート 第192回「八月踊りの楽しさと魅力を発信　あらしゃげ会」",
+      "thumbnail": "https://i.ytimg.com/vi/QQHgkOVoJGU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QQHgkOVoJGU"
+    },
+    {
+      "id": "xF8DnDDqHlE",
+      "title": "河内あづきの鹿児島あっちこっち　9月27日（土）",
+      "thumbnail": "https://i.ytimg.com/vi/xF8DnDDqHlE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xF8DnDDqHlE"
+    },
+    {
+      "id": "cbOkaMKupmk",
+      "title": "鹿児島グルメ～おいしい餃子いただきます。～",
+      "thumbnail": "https://i.ytimg.com/vi/cbOkaMKupmk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cbOkaMKupmk"
+    },
+    {
+      "id": "2WvmL9QAGIA",
+      "title": "かごんま未来ノート 第191回「次世代につなぐ　廃校でのリユースイベント　NPO法人　かごしま自然学校」",
+      "thumbnail": "https://i.ytimg.com/vi/2WvmL9QAGIA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2WvmL9QAGIA"
     }
   ]
 }

@@ -1,2118 +1,1478 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
-  "channel_name": "RCCテレビ",
+  "channel_name": "UCExGIeVLm6DBd_dd7AC4L-A",
   "original_name": "RCC中国放送",
-  "updated_at": "2025-10-11T12:01:20.557256",
+  "updated_at": "2025-10-11T12:08:25.660647",
   "videos": [
     {
-      "kind": "youtube#playlistItem",
-      "etag": "9FdBuqPOThNXy2Uh3BDJjDF-lHw",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjlacEoxeTM3YzdN",
-      "snippet": {
-        "publishedAt": "2025-10-10T13:57:27Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "【広島!中高生ニュース】広島国際学院中学校 百践錬磨【広島の朝は THE TIME, !!】",
-        "description": "【2025年10月8日（水）放送】\nRCCの朝と言えば「THE TIME,」。\nTHE TIME,で放送中のコーナー「広島!中高生ニュース」では広島県内で頑張る中学生や高校生を紹介します。\n今回は海田町にある広島国際学院中学校にお邪魔しました。\n\n『THE TIME,』\n■毎週月曜日～金曜日■\n放送時間：あさ5：20～8：00\n司会：安住紳一郎（TBSアナウンサー）\n\n過去の放送分は再生リスト「広島！中高生ニュース」から",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9ZpJ1y37c7M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9ZpJ1y37c7M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9ZpJ1y37c7M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9ZpJ1y37c7M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9ZpJ1y37c7M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "9ZpJ1y37c7M"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "HXsO8mzc1vo",
+      "title": "『つなぐ大地の絆ーBatonー』#450　2025年3月6日放送",
+      "thumbnail": "https://i.ytimg.com/vi/HXsO8mzc1vo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HXsO8mzc1vo"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "5tFWghd9w7x44LIDG-w9REPFGH4",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLlo4d3FEZWtxaGJr",
-      "snippet": {
-        "publishedAt": "2025-10-10T13:53:29Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "【広島!中高生ニュース】広島桜ヶ丘高校【広島の朝は THE TIME, !!】",
-        "description": "【2025年10月7日（火）放送】\nRCCの朝と言えば「THE TIME,」。\nTHE TIME,で放送中のコーナー「広島!中高生ニュース」では広島県内で頑張る中学生や高校生を紹介します。\n今回は広島市東区にある広島桜が丘高校にお邪魔しました。\n\n『THE TIME,』\n■毎週月曜日～金曜日■\n放送時間：あさ5：20～8：00\n司会：安住紳一郎（TBSアナウンサー）\n\n過去の放送分は再生リスト「広島！中高生ニュース」から",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Z8wqDekqhbk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Z8wqDekqhbk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Z8wqDekqhbk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Z8wqDekqhbk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Z8wqDekqhbk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Z8wqDekqhbk"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "XcF9r_AXrlU",
+      "title": "【広島!中高生ニュース】広島国泰寺高校 チアリーディング部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/XcF9r_AXrlU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XcF9r_AXrlU"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "lBURVKo7Ix3_lmC1bO6CBZhDjqg",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLnNRZmVVZHJYWTJn",
-      "snippet": {
-        "publishedAt": "2025-10-10T13:51:07Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "【広島!中高生ニュース】崇徳高校 バスケットボール部【広島の朝は THE TIME, !!】",
-        "description": "【2025年10月1日（水）放送】\nRCCの朝と言えば「THE TIME,」。\nTHE TIME,で放送中のコーナー「広島!中高生ニュース」では広島県内で頑張る中学生や高校生を紹介します。\n今回は広島市西区にある崇徳高校のバスケットボール部にお邪魔しました。\n\n『THE TIME,』\n■毎週月曜日～金曜日■\n放送時間：あさ5：20～8：00\n司会：安住紳一郎（TBSアナウンサー）\n\n過去の放送分は再生リスト「広島！中高生ニュース」から",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/sQfeUdrXY2g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/sQfeUdrXY2g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/sQfeUdrXY2g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/sQfeUdrXY2g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/sQfeUdrXY2g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "sQfeUdrXY2g"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "SzdwqqwLD08",
+      "title": "【広島!中高生ニュース】安芸南高校 ラグビー部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/SzdwqqwLD08/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SzdwqqwLD08"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "OKV2TkCHhxbL-l1-WypMwR0kKLI",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjVUc0VNbW1LMTFJ",
-      "snippet": {
-        "publishedAt": "2025-10-10T13:50:59Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "【広島!中高生ニュース】高陽高校 写真部【広島の朝は THE TIME, !!】",
-        "description": "【2025年9月30日（火）放送】\nRCCの朝と言えば「THE TIME,」。\nTHE TIME,で放送中のコーナー「広島!中高生ニュース」では広島県内で頑張る中学生や高校生を紹介します。\n今回は広島市安佐北区にある高陽高校の写真部にお邪魔しました。\n\n『THE TIME,』\n■毎週月曜日～金曜日■\n放送時間：あさ5：20～8：00\n司会：安住紳一郎（TBSアナウンサー）\n\n過去の放送分は再生リスト「広島！中高生ニュース」から",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5TsEMmmK11I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5TsEMmmK11I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5TsEMmmK11I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5TsEMmmK11I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5TsEMmmK11I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "5TsEMmmK11I"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "zSed47TSIAU",
+      "title": "『元就。二百万一心！』 #195　2025年3月1日",
+      "thumbnail": "https://i.ytimg.com/vi/zSed47TSIAU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zSed47TSIAU"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "NHLKjFPOenHnY9xCS92AvEU22U8",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLi01TEpCS0pkdnU0",
-      "snippet": {
-        "publishedAt": "2025-10-10T13:46:41Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "【広島!中高生ニュース】千代田高校 陸上競技部【広島の朝は THE TIME, !!】",
-        "description": "【2025年9月23日（火）放送】\nRCCの朝と言えば「THE TIME,」。\nTHE TIME,で放送中のコーナー「広島!中高生ニュース」では広島県内で頑張る中学生や高校生を紹介します。\n今回は北広島町にある千代田高校の陸上競技部にお邪魔しました。\n\n『THE TIME,』\n■毎週月曜日～金曜日■\n放送時間：あさ5：20～8：00\n司会：安住紳一郎（TBSアナウンサー）\n\n過去の放送分は再生リスト「広島！中高生ニュース」から",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-5LJBKJdvu4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-5LJBKJdvu4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-5LJBKJdvu4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-5LJBKJdvu4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-5LJBKJdvu4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-5LJBKJdvu4"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "3bkypuZ1LIA",
+      "title": "Nスタ潜入取材！井上貴博アナとホラン千秋さんにRCC田村友里が突撃！",
+      "thumbnail": "https://i.ytimg.com/vi/3bkypuZ1LIA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3bkypuZ1LIA"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "SYlski1hAETaOuXvyGj-5yI4WmA",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLlRHSmVlZXdqb1hF",
-      "snippet": {
-        "publishedAt": "2025-10-08T01:21:43Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "RCCテレビ『元就。』2025年10月12日予告",
-        "description": "RCCテレビ『元就。』\nhttps://tv.rcc.jp/motonari/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TGJeeewjoXE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TGJeeewjoXE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TGJeeewjoXE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TGJeeewjoXE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TGJeeewjoXE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "TGJeeewjoXE"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "tBaOlItsvlE",
+      "title": "RCCテレビ『アインシュタインの出没！ひな壇団』2025年3月15日予告",
+      "thumbnail": "https://i.ytimg.com/vi/tBaOlItsvlE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tBaOlItsvlE"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "x4EKIS9OOCEhAVBJYNDCoVQ1UeE",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLi1UNkxwVVZvTDdR",
-      "snippet": {
-        "publishedAt": "2025-10-07T09:18:33Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "『元就。二百万一心！』 #225　2025年10月5日",
-        "description": "RCCテレビ『広域都市圏 魅力発信　元就。二百万一心！』\nhttps://tv.rcc.jp/kouiki/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-T6LpUVoL7Q/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-T6LpUVoL7Q/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-T6LpUVoL7Q/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-T6LpUVoL7Q/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-T6LpUVoL7Q/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-T6LpUVoL7Q"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "LUIxJ7Wji8A",
+      "title": "RCCテレビ『元就。』2025年3月9日予告",
+      "thumbnail": "https://i.ytimg.com/vi/LUIxJ7Wji8A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LUIxJ7Wji8A"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "aAtuycnKO_FJ824ZcgDo9WMMG64",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLkRmMWFUR3hWYnZJ",
-      "snippet": {
-        "publishedAt": "2025-10-07T00:47:12Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "認定こども園名田保育園＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Df1aTGxVbvI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Df1aTGxVbvI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Df1aTGxVbvI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Df1aTGxVbvI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Df1aTGxVbvI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Df1aTGxVbvI"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "9Fo9CJwaMcQ",
+      "title": "DTM CLUB - 春は来る　[MV]",
+      "thumbnail": "https://i.ytimg.com/vi/9Fo9CJwaMcQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9Fo9CJwaMcQ"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "DmE9PP91CnBSlE-CzLDkD_zsrlo",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLnBETTI1VjZTTWxZ",
-      "snippet": {
-        "publishedAt": "2025-10-07T00:46:13Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "認定こども園宝徳幼稚園＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pDM25V6SMlY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pDM25V6SMlY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pDM25V6SMlY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pDM25V6SMlY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/pDM25V6SMlY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "pDM25V6SMlY"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "eQsM8Grrx1w",
+      "title": "鈴木福のミミヨリ！ひろしま　2025年3月2日放送",
+      "thumbnail": "https://i.ytimg.com/vi/eQsM8Grrx1w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eQsM8Grrx1w"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "kO75IJKYKY63nK9iYroX_YKgs-s",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLmRpeWFQMDU4VEZz",
-      "snippet": {
-        "publishedAt": "2025-10-07T00:45:05Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "Leminkle＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/diyaP058TFs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/diyaP058TFs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/diyaP058TFs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/diyaP058TFs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/diyaP058TFs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "diyaP058TFs"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "z472cwKr4WM",
+      "title": "＜予告＞情熱サンフレッチェ 3月7日放送",
+      "thumbnail": "https://i.ytimg.com/vi/z472cwKr4WM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=z472cwKr4WM"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "JsNZ8Z-8cpcpNA8wQuRNkkie9HM",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLi1xOF9pODlpeDR3",
-      "snippet": {
-        "publishedAt": "2025-10-06T07:43:52Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "10月6日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
-        "description": "#Veryカープ #カープ #カープファン #THETIME #RCC #プロ野球 #広島東洋カープ #カープ情報",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-q8_i89ix4w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-q8_i89ix4w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-q8_i89ix4w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-q8_i89ix4w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-q8_i89ix4w/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-q8_i89ix4w"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "7Qvnvhb_LSY",
+      "title": "『つなぐ大地の絆ーBatonー』#449　2025年2月27日放送",
+      "thumbnail": "https://i.ytimg.com/vi/7Qvnvhb_LSY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7Qvnvhb_LSY"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "-TWeFhG8IBilM68U__U-1E_7CyY",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLnRoajJtaU4yWXdZ",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:01:08Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "Lil☺︎Smile＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/thj2miN2YwY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/thj2miN2YwY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/thj2miN2YwY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/thj2miN2YwY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/thj2miN2YwY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 11,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "thj2miN2YwY"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "43bjFDwJ3TA",
+      "title": "＜予告＞情熱サンフレッチェ 2月28日放送",
+      "thumbnail": "https://i.ytimg.com/vi/43bjFDwJ3TA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=43bjFDwJ3TA"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "3mbv7oP81yYiAxxkQgr0Y8BMNxU",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLnRxdFdudWVDdUx3",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:01:04Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "AYA♡HANA＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tqtWnueCuLw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tqtWnueCuLw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tqtWnueCuLw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tqtWnueCuLw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tqtWnueCuLw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 12,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "tqtWnueCuLw"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "CwisntLnSIA",
+      "title": "第22回　全日本高等学校ゼロハンカー大会　24分耐久レース　青春を疾走せよ！",
+      "thumbnail": "https://i.ytimg.com/vi/CwisntLnSIA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CwisntLnSIA"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "KPZEcCCbHiLmq1X1OYD5hWw6srk",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLm5BaEVldUVwc2FR",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:01:01Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "レモンチに届け隊‼＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nAhEeuEpsaQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nAhEeuEpsaQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nAhEeuEpsaQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nAhEeuEpsaQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nAhEeuEpsaQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 13,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "nAhEeuEpsaQ"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "__BQs6roLD0",
+      "title": "【広島!中高生ニュース】宮島工業高校 弓道部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/__BQs6roLD0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=__BQs6roLD0"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "o_Q10KduSKPATKmmwMK7TnX3ay8",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLmh6WlBVbERodkE0",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:51Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "トキちゃん＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/hzZPUlDhvA4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/hzZPUlDhvA4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/hzZPUlDhvA4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/hzZPUlDhvA4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/hzZPUlDhvA4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 14,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "hzZPUlDhvA4"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "Yj8arnAZv5M",
+      "title": "『元就。二百万一心！』 #194　2025年2月22日",
+      "thumbnail": "https://i.ytimg.com/vi/Yj8arnAZv5M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Yj8arnAZv5M"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "I4-1cgspUc0bkNfqHLokFPmaFto",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLlQ5YVFKWkpJUkpZ",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:38Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "広島市立基町高等学校ダンス同好会＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/T9aQJZJIRJY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/T9aQJZJIRJY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/T9aQJZJIRJY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/T9aQJZJIRJY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/T9aQJZJIRJY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 15,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "T9aQJZJIRJY"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "FVL3ftLzdU0",
+      "title": "KURASU～物語がつづく暮らし～特別編",
+      "thumbnail": "https://i.ytimg.com/vi/FVL3ftLzdU0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FVL3ftLzdU0"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "s8UFNBGXk79Q15bMi-nXWZVjNrg",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLlRmS3hPcVFGUm1N",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:36Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "MiLemo（マイレモ）＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/TfKxOqQFRmM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/TfKxOqQFRmM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/TfKxOqQFRmM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/TfKxOqQFRmM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/TfKxOqQFRmM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 16,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "TfKxOqQFRmM"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "F2Aw8OeNReQ",
+      "title": "鈴木福のミミヨリ！ひろしま　2025年2月23日放送",
+      "thumbnail": "https://i.ytimg.com/vi/F2Aw8OeNReQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=F2Aw8OeNReQ"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "Rxnf3iFwOqvPeKY1Y--8LgpyWaw",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLkpMYjhzWVhRQTdJ",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:34Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "KANA＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n（こちらの動画はダンス審査の対象外です）\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JLb8sYXQA7I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JLb8sYXQA7I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JLb8sYXQA7I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/JLb8sYXQA7I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/JLb8sYXQA7I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 17,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "JLb8sYXQA7I"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "sBl06eP40ns",
+      "title": "『つなぐ大地の絆ーBatonー』#448　2025年2月20日放送",
+      "thumbnail": "https://i.ytimg.com/vi/sBl06eP40ns/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sBl06eP40ns"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "Jn4EcpS0A-b3kPlMsTs2SHVIBGc",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLlBLNmYyOXZBNG1N",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:33Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "KOSHIAN＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PK6f29vA4mM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PK6f29vA4mM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PK6f29vA4mM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/PK6f29vA4mM/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/PK6f29vA4mM/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 18,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "PK6f29vA4mM"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "1Y2W2X1QjTU",
+      "title": "＜予告＞情熱サンフレッチェ 2月21日放送",
+      "thumbnail": "https://i.ytimg.com/vi/1Y2W2X1QjTU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1Y2W2X1QjTU"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "6YqeEqkE8vGlBgQKtapGW0yW-tY",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLkRZTnlOZS1WSnpR",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:26Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "タケタカチャンネル＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/DYNyNe-VJzQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/DYNyNe-VJzQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/DYNyNe-VJzQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/DYNyNe-VJzQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/DYNyNe-VJzQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 19,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "DYNyNe-VJzQ"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "sCu5nqxwW7w",
+      "title": "【広島!中高生ニュース】西条農業高校 馬術部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/sCu5nqxwW7w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sCu5nqxwW7w"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "BOD9fJDV8OefGJpBDsFBLuA9fjI",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLlFRd3h3OVFmN2Fj",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:22Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "とんぼ４姉妹＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QQwxw9Qf7ac/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QQwxw9Qf7ac/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QQwxw9Qf7ac/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QQwxw9Qf7ac/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QQwxw9Qf7ac/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 20,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "QQwxw9Qf7ac"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "GoPYhlIHsgw",
+      "title": "『元就。二百万一心！』 #193　2025年2月15日",
+      "thumbnail": "https://i.ytimg.com/vi/GoPYhlIHsgw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GoPYhlIHsgw"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "nugdIBPJuk5qG0iBxO5eBN1A26Q",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLkVKMVRWUld1bXdz",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:19Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "中村兄弟＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/EJ1TVRWumws/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/EJ1TVRWumws/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/EJ1TVRWumws/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/EJ1TVRWumws/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/EJ1TVRWumws/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 21,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "EJ1TVRWumws"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "T8OcqyGkqf8",
+      "title": "KURASU～物語がつづく暮らし～特別編",
+      "thumbnail": "https://i.ytimg.com/vi/T8OcqyGkqf8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=T8OcqyGkqf8"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "pLbH2JSRHOadDgjJXr2q7Weaeg0",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjVYSkdHNUJ6OG84",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:18Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "MEet 〜広島盛り上げ隊〜＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n（こちらの動画はダンス審査の対象外です）\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5XJGG5Bz8o8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5XJGG5Bz8o8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5XJGG5Bz8o8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5XJGG5Bz8o8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5XJGG5Bz8o8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 22,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "5XJGG5Bz8o8"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "5JZqTgDY07M",
+      "title": "第22回 全日本高等学校ゼロハンカー大会 24分耐久レース～青春を疾走せよ！～",
+      "thumbnail": "https://i.ytimg.com/vi/5JZqTgDY07M/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5JZqTgDY07M"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "MXZDwAHw1uJCGsZuA_M_4-ww-xg",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLkpCMzVhUWVTamJB",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:17Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "キートス新体操クラブ＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JB35aQeSjbA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JB35aQeSjbA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JB35aQeSjbA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/JB35aQeSjbA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/JB35aQeSjbA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 23,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "JB35aQeSjbA"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "5ZzbPqG8w5g",
+      "title": "＜予告＞KURASU～物語がつづく暮らし～特別編",
+      "thumbnail": "https://i.ytimg.com/vi/5ZzbPqG8w5g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5ZzbPqG8w5g"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "Yezn1L3BMyQNgsLgKUojrck_u5k",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLkJzRE9ncVVsanE4",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:13Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "きよら＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BsDOgqUljq8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BsDOgqUljq8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BsDOgqUljq8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BsDOgqUljq8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BsDOgqUljq8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 24,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "BsDOgqUljq8"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "ygm0V5s2u_U",
+      "title": "鈴木福のミミヨリ！ひろしま　2025年2月16日放送",
+      "thumbnail": "https://i.ytimg.com/vi/ygm0V5s2u_U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ygm0V5s2u_U"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "fRIQP3_cIpJGX-RlEaaI9uETknA",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjU4QUNqcWFuNGhz",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:06Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "レモンチ必死隊＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/58ACjqan4hs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/58ACjqan4hs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/58ACjqan4hs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/58ACjqan4hs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/58ACjqan4hs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 25,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "58ACjqan4hs"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "Spi4Pgku1D0",
+      "title": "『つなぐ大地の絆ーBatonー』#447　2025年2月13日放送",
+      "thumbnail": "https://i.ytimg.com/vi/Spi4Pgku1D0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Spi4Pgku1D0"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "3UYqU_Du-UXnX43V6ynkX1uggm0",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjRWbUQteUNUYXZB",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:04Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "ほなみかん・あやれもん＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4VmD-yCTavA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4VmD-yCTavA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4VmD-yCTavA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4VmD-yCTavA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4VmD-yCTavA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 26,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "4VmD-yCTavA"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "HGUtDrFxNAA",
+      "title": "【広島!中高生ニュース】西条農業高校 合気道部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/HGUtDrFxNAA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HGUtDrFxNAA"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "22AIWavCfE-8Fi6yy-LT-DdukD4",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjJtUnNEOU1rbkhB",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:02Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "キリン組＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n（こちらの動画はダンス審査の対象外です）\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2mRsD9MknHA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2mRsD9MknHA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2mRsD9MknHA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2mRsD9MknHA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2mRsD9MknHA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 27,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "2mRsD9MknHA"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "G8cbqAFbfRw",
+      "title": "＜予告＞情熱サンフレッチェ 2月14日放送",
+      "thumbnail": "https://i.ytimg.com/vi/G8cbqAFbfRw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=G8cbqAFbfRw"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "cu9b7AT8ZxkC1SNCEoJ_ys8Mx1M",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLi1adXpDaF9nMVF3",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:01Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "prima＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-ZuzCh_g1Qw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-ZuzCh_g1Qw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-ZuzCh_g1Qw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-ZuzCh_g1Qw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-ZuzCh_g1Qw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 28,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-ZuzCh_g1Qw"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "mmqX3EOjAd4",
+      "title": "【広島!中高生ニュース】加計高校 国際交流【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/mmqX3EOjAd4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mmqX3EOjAd4"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "UbBySWTN2PbgaYuCnORTtjjtxf8",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjA0OE45cklRdWpz",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:01Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "ひよりand楓＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/048N9rIQujs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/048N9rIQujs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/048N9rIQujs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/048N9rIQujs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/048N9rIQujs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 29,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "048N9rIQujs"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "OG8YXcyAmbE",
+      "title": "『元就。二百万一心！』 #192　2025年2月8日",
+      "thumbnail": "https://i.ytimg.com/vi/OG8YXcyAmbE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OG8YXcyAmbE"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "WSI3E8qIF-4Qe0otn0E6LtQnPQ4",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLmEyMUJGNzRlVHBV",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:01Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "認定こども園 広島和光園保育所＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n（こちらの動画はダンス審査の対象外です）\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/a21BF74eTpU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/a21BF74eTpU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/a21BF74eTpU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/a21BF74eTpU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/a21BF74eTpU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 30,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "a21BF74eTpU"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "_6gu9XZyuoc",
+      "title": "鈴木福のミミヨリ！ひろしま　2025年2月9日放送",
+      "thumbnail": "https://i.ytimg.com/vi/_6gu9XZyuoc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_6gu9XZyuoc"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "tGJ981_4L7Ph3AwaYtkUjktpviE",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLi1KVU1zWGhqNFRB",
-      "snippet": {
-        "publishedAt": "2025-10-06T03:00:00Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "Berry＜レモンチダンスカップ第6弾＞",
-        "description": "＜レモンチダンスカップ第6弾　公式サイト＞\nhttps://tv.rcc.jp/dancecup/\n\n※決勝に向けた投票企画をWebサイト上で実施します！\nゲスト審査員はIMP.椿泰我さん。\n\n＜「レモンチの１週間」ミュージックビデオ　フルバージョン＞\nhttps://youtu.be/Tt4c9gZT07Q?si=wRc4QmlN4OQGpBoj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-JUMsXhj4TA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-JUMsXhj4TA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-JUMsXhj4TA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-JUMsXhj4TA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-JUMsXhj4TA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 31,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-JUMsXhj4TA"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "IHO7mfCqo1s",
+      "title": "＜予告＞情熱サンフレッチェ 2月11日（火・祝）午前9時55分OA放送",
+      "thumbnail": "https://i.ytimg.com/vi/IHO7mfCqo1s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IHO7mfCqo1s"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "ru7Fq2yBkG3n_jxKJRydvg4QgHU",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLkc0WmtjWkJRX0Zj",
-      "snippet": {
-        "publishedAt": "2025-10-06T02:33:06Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "RCCテレビ『アインシュタインの出没！ひな壇団』2025年10月18日予告",
-        "description": "RCCテレビ『アインシュタインの出没！ひな壇団』\nhttps://tv.rcc.jp/hinadandan/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/G4ZkcZBQ_Fc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/G4ZkcZBQ_Fc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/G4ZkcZBQ_Fc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/G4ZkcZBQ_Fc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/G4ZkcZBQ_Fc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 32,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "G4ZkcZBQ_Fc"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "jATrDQCysI4",
+      "title": "『つなぐ大地の絆ーBatonー』#446　2025年2月6日放送",
+      "thumbnail": "https://i.ytimg.com/vi/jATrDQCysI4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jATrDQCysI4"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "bZkBlsFaomh_B2qhEDLflRFHOd8",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLmxfa2E0TzBKX2pV",
-      "snippet": {
-        "publishedAt": "2025-10-04T11:30:41Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "＜予告＞情熱サンフレッチェ 10月10日放送",
-        "description": "情熱サンフレッチェ　HP\nhttps://tv.rcc.jp/sanfrecce/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/l_ka4O0J_jU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/l_ka4O0J_jU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/l_ka4O0J_jU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/l_ka4O0J_jU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/l_ka4O0J_jU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 33,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "l_ka4O0J_jU"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "kZA2siY7WGs",
+      "title": "広島！キャンパスニュース【ヒロコク充実の学園生活　呉キャンパス篇】",
+      "thumbnail": "https://i.ytimg.com/vi/kZA2siY7WGs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kZA2siY7WGs"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "udQTpT9U5mR55w-t5ob8ii01P4Y",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLlFVbUZYNGhXbjM4",
-      "snippet": {
-        "publishedAt": "2025-10-03T11:14:55Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "＜予告＞元就。ゴールデン～アンガ村上の広島城下町すたこら2時間SP～【10/8（水）よる8時から放送！】",
-        "description": "10/8（水）よる8時からテレビ放送！\n＜公式サイト＞\nhttps://tv.rcc.jp/2025/motonari-sp/\n\nアンガールズと SUPER EIGHT村上信五がいま話題の広島のまちと名物グルメを大満喫！！\n毛利元就の孫・輝元が広島城を築いてから430年あまり。現代の広島に繁栄をもたらしたきっかけこそが、実は広島城だった！\nそんな城下町・広島の歴史をひもときつつ、国内だけでなく世界中から観光客が押し寄せる広島市中心部をすたこらするゴールデン特番の放送が決定しました。\n\n#元就。 #アンガールズ #村上信五",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QUmFX4hWn38/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QUmFX4hWn38/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QUmFX4hWn38/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QUmFX4hWn38/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 34,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "QUmFX4hWn38"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "5FWP5Kb-j-M",
+      "title": "＜予告＞情熱サンフレッチェ 2月07日放送",
+      "thumbnail": "https://i.ytimg.com/vi/5FWP5Kb-j-M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5FWP5Kb-j-M"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "3vP3wUyhE8wUuN2ihx6b9rp954E",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLldramg5QlhycWdZ",
-      "snippet": {
-        "publishedAt": "2025-10-02T14:00:54Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "＃3　ミニチュア作家　萩谷幹　前編　＜KURASU 物語がつづく暮らし＞",
-        "description": "過去の時間を大切にすること、暮らしの変化に応えていくこと。 そうした時間の積み重ねから生まれる豊かな暮らし。 日々の生活・仕事から、暮らしへのこだわりを映し出します。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Wkjh9BXrqgY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Wkjh9BXrqgY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Wkjh9BXrqgY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Wkjh9BXrqgY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Wkjh9BXrqgY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 35,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Wkjh9BXrqgY"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "bIm5HDpYoUs",
+      "title": "【広島!中高生ニュース】呉港高校 歴史文化研究部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/bIm5HDpYoUs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bIm5HDpYoUs"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "IeH5o9m-hW0ZL2vfoQ4Jasfevm4",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLnJtOHhVbDA3MnM0",
-      "snippet": {
-        "publishedAt": "2025-10-02T06:54:57Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "＜予告＞情熱サンフレッチェ 10月03日放送",
-        "description": "情熱サンフレッチェ　HP\nhttps://tv.rcc.jp/sanfrecce/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rm8xUl072s4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rm8xUl072s4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rm8xUl072s4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/rm8xUl072s4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/rm8xUl072s4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 36,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "rm8xUl072s4"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "HI8RoXxq12M",
+      "title": "『元就。二百万一心！』 #191　2025年2月1日",
+      "thumbnail": "https://i.ytimg.com/vi/HI8RoXxq12M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HI8RoXxq12M"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "NOU8-_nGdHPZSuD8lXcs86Hc6vM",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjctZjN6b0RZeVE4",
-      "snippet": {
-        "publishedAt": "2025-10-02T01:00:11Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "『レモンチの一週間』毎週水曜22:57-23:00放送中！【RCC】",
-        "description": "『レモンチの一週間』毎週水曜22:57-23:00「レモンチ天気」で放送中！【RCC】",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7-f3zoDYyQ8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7-f3zoDYyQ8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7-f3zoDYyQ8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7-f3zoDYyQ8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7-f3zoDYyQ8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 37,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "7-f3zoDYyQ8"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "pV6OqLoZOvo",
+      "title": "鈴木福のミミヨリ！ひろしま　2025年2月2日放送",
+      "thumbnail": "https://i.ytimg.com/vi/pV6OqLoZOvo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pV6OqLoZOvo"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "7SDXWs35gxVFtmdFoXqiqlAl1Gs",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLnpqTFhtQ0xJX3VR",
-      "snippet": {
-        "publishedAt": "2025-09-30T04:25:34Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "アインシュタインの出没！ご当地ラーメングルメ旅 ～瀬戸内編～　10月8日放送",
-        "description": "『アインシュタインの出没！ご当地ラーメングルメ旅 ～瀬戸内編～』\nhttps://tv.rcc.jp/kanseto/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zjLXmCLI_uQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zjLXmCLI_uQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zjLXmCLI_uQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zjLXmCLI_uQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zjLXmCLI_uQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 38,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "zjLXmCLI_uQ"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "_8fTENXSSu8",
+      "title": "DTM CLUB - ピースナップ",
+      "thumbnail": "https://i.ytimg.com/vi/_8fTENXSSu8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_8fTENXSSu8"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "BkoEVhBK3OVuo7GbpZ0kJyPXYPA",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjVzM2JkYUVJV2Rr",
-      "snippet": {
-        "publishedAt": "2025-09-30T02:17:03Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "『元就。二百万一心！』 #224　2025年9月27日",
-        "description": "RCCテレビ『広域都市圏 魅力発信　元就。二百万一心！』\nhttps://tv.rcc.jp/kouiki/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5s3bdaEIWdk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5s3bdaEIWdk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5s3bdaEIWdk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/5s3bdaEIWdk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/5s3bdaEIWdk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 39,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "5s3bdaEIWdk"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "8qKHeGzfI9g",
+      "title": "有吉弘行の故郷に帰らせていただきます｡",
+      "thumbnail": "https://i.ytimg.com/vi/8qKHeGzfI9g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8qKHeGzfI9g"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "PJA6QDlc2mMdYFvJAdceptRiPRg",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLjJ3N0prQ2FPUnFZ",
-      "snippet": {
-        "publishedAt": "2025-09-29T05:39:34Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "【RCCテレビ】中島夫婦の国勢調査って、なんなん？＃2",
-        "description": "#２「ネットでやってみたら、意外と簡単！」（25/9/27 OA）",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/2w7JkCaORqY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/2w7JkCaORqY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/2w7JkCaORqY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/2w7JkCaORqY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/2w7JkCaORqY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 40,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "2w7JkCaORqY"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "CNsYyNRAzrQ",
+      "title": "有吉弘行の故郷に帰らせていただきます｡",
+      "thumbnail": "https://i.ytimg.com/vi/CNsYyNRAzrQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CNsYyNRAzrQ"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "f60mGEtHoWKzg1cr0Yl-PcLYTso",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLk5aTUpVc2JOZlZj",
-      "snippet": {
-        "publishedAt": "2025-09-29T05:38:52Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "【RCCテレビ】中島夫婦の国勢調査って、なんなん？＃1",
-        "description": "＃1「え、今年って国勢調査の年なん！？」（25/9/22 OA）",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NZMJUsbNfVc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NZMJUsbNfVc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NZMJUsbNfVc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NZMJUsbNfVc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NZMJUsbNfVc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 41,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "NZMJUsbNfVc"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "0whlj3q_U58",
+      "title": "【広島!中高生ニュース】県立広島工業高校　建築部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/0whlj3q_U58/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0whlj3q_U58"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "4YBcioZybSxRq77fsVapQJjHbKQ",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLnBfUU1IVVcwSWM0",
-      "snippet": {
-        "publishedAt": "2025-09-29T01:23:53Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "9月29日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
-        "description": "#Veryカープ #カープ #カープファン #THETIME #RCC #プロ野球 #広島東洋カープ #カープ情報",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/p_QMHUW0Ic4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/p_QMHUW0Ic4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/p_QMHUW0Ic4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/p_QMHUW0Ic4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/p_QMHUW0Ic4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 42,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "p_QMHUW0Ic4"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "Y5TrSV263p0",
+      "title": "『つなぐ大地の絆ーBatonー』#445　2025年1月30日放送",
+      "thumbnail": "https://i.ytimg.com/vi/Y5TrSV263p0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Y5TrSV263p0"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "6tbj4PGxII_PE2N4jTL4fAyyxgg",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLmVzZFJYLXh0SlR3",
-      "snippet": {
-        "publishedAt": "2025-09-25T01:09:12Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "RCCテレビ『元就。』2025年9月28日予告",
-        "description": "RCCテレビ『元就。』\nhttps://tv.rcc.jp/motonari/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/esdRX-xtJTw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/esdRX-xtJTw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/esdRX-xtJTw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/esdRX-xtJTw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/esdRX-xtJTw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 43,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "esdRX-xtJTw"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "Ou4xXyDAk4g",
+      "title": "【広島!中高生ニュース】宮島工業高校　建築科【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/Ou4xXyDAk4g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ou4xXyDAk4g"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "W6e7UBvzXoalUwAJKxyu4tpRblE",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLnpiN3JmaVNJOXA4",
-      "snippet": {
-        "publishedAt": "2025-09-24T03:28:56Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "福山名物「福つまみ」を知りたガール！【街ネタ知りたガール】",
-        "description": "広島グルメクイズ「福つまみで乾杯！！」と題して、福山名物の8種類のおつまみ「福つまみ」を知りたガール♪♪\n絶品おつまみとの相性抜群のビールを賭けて、知りたガールの門脇実優菜さん＆やのほのかさんがクイズ対決！2人が正解できない時は、見届け人・田村友里アナウンサーがビールをいただきます。\n絶品「福つまみ」とともに、2人の珍回答もお楽しみに。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zb7rfiSI9p8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zb7rfiSI9p8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zb7rfiSI9p8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zb7rfiSI9p8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zb7rfiSI9p8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 44,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "zb7rfiSI9p8"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
+      "id": "WHfbxHvgOqI",
+      "title": "＜予告＞情熱サンフレッチェ 1月31日放送",
+      "thumbnail": "https://i.ytimg.com/vi/WHfbxHvgOqI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WHfbxHvgOqI"
+    },
+    {
+      "id": "srdF1ugU5Vg",
+      "title": "【広島!中高生ニュース】尾道高校　機械科【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/srdF1ugU5Vg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=srdF1ugU5Vg"
+    },
+    {
+      "id": "fxWmgqvbwus",
+      "title": "【広島!中高生ニュース】武田中学・高校 吹奏楽部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/fxWmgqvbwus/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fxWmgqvbwus"
+    },
+    {
+      "id": "cc8NAzsWgrw",
+      "title": "『元就。二百万一心！』 #190　2025年1月25日",
+      "thumbnail": "https://i.ytimg.com/vi/cc8NAzsWgrw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cc8NAzsWgrw"
+    },
+    {
+      "id": "74EqfWzqsW8",
+      "title": "【広島!中高生ニュース】市立広島工業高校　電気部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/74EqfWzqsW8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=74EqfWzqsW8"
+    },
+    {
+      "id": "6e4aS9GisyM",
+      "title": "味ひとすじ 永谷園 「頑張れ！ニッポンの技」～広島県福山市　福山琴～",
+      "thumbnail": "https://i.ytimg.com/vi/6e4aS9GisyM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6e4aS9GisyM"
+    },
+    {
+      "id": "SWAtcDSpKMw",
+      "title": "『元就。二百万一心！』 #223　2025年9月21日",
+      "thumbnail": "https://i.ytimg.com/vi/SWAtcDSpKMw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SWAtcDSpKMw"
+    },
+    {
+      "id": "XI8QFhZG798",
+      "title": "＜予告＞情熱サンフレッチェ 9月26日放送",
+      "thumbnail": "https://i.ytimg.com/vi/XI8QFhZG798/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XI8QFhZG798"
+    },
+    {
+      "id": "mmRqAtWJ9h8",
+      "title": "【THE TIME,＆おめざグルメフェスタ】9/19（金）～9/29（月）ラクア緑井で開催中！",
+      "thumbnail": "https://i.ytimg.com/vi/mmRqAtWJ9h8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mmRqAtWJ9h8"
+    },
+    {
+      "id": "lVnjTKZtYC0",
+      "title": "【広島!中高生ニュース】比治山女子高校 なぎなた部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/lVnjTKZtYC0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lVnjTKZtYC0"
+    },
+    {
+      "id": "Z5h3mJENwdw",
+      "title": "『元就。二百万一心！』 #222　2025年9月14日",
+      "thumbnail": "https://i.ytimg.com/vi/Z5h3mJENwdw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Z5h3mJENwdw"
+    },
+    {
+      "id": "d8cTFPSdekQ",
+      "title": "＜予告＞情熱サンフレッチェ 9月19日放送",
+      "thumbnail": "https://i.ytimg.com/vi/d8cTFPSdekQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=d8cTFPSdekQ"
+    },
+    {
+      "id": "fhGyYdg7TtE",
+      "title": "【広島!中高生ニュース】高陽高校 映像・情報研究部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/fhGyYdg7TtE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fhGyYdg7TtE"
+    },
+    {
+      "id": "cKTbpmc5MWo",
+      "title": "『元就。二百万一心！』 #221　2025年9月6日",
+      "thumbnail": "https://i.ytimg.com/vi/cKTbpmc5MWo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cKTbpmc5MWo"
+    },
+    {
+      "id": "LSuVqwBdv54",
+      "title": "＜予告＞情熱サンフレッチェ 9月12日放送",
+      "thumbnail": "https://i.ytimg.com/vi/LSuVqwBdv54/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LSuVqwBdv54"
+    },
+    {
+      "id": "28g00X6IzE4",
+      "title": "RCCテレビ『アインシュタインの出没！ひな壇団』2025年9月27日予告",
+      "thumbnail": "https://i.ytimg.com/vi/28g00X6IzE4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=28g00X6IzE4"
+    },
+    {
+      "id": "a1DKG6JbwUc",
+      "title": "９月３日（水）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/a1DKG6JbwUc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a1DKG6JbwUc"
+    },
+    {
+      "id": "gWmfI-cHtYc",
+      "title": "『元就。二百万一心！』 #220　2025年8月30日",
+      "thumbnail": "https://i.ytimg.com/vi/gWmfI-cHtYc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gWmfI-cHtYc"
+    },
+    {
+      "id": "hgU0Zm2kMx0",
+      "title": "SDGs LOVEGREEN : 広島県浄化槽協会",
+      "thumbnail": "https://i.ytimg.com/vi/hgU0Zm2kMx0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hgU0Zm2kMx0"
+    },
+    {
+      "id": "hzdl306Px1Q",
+      "title": "＜予告＞情熱サンフレッチェ 9月05日放送",
+      "thumbnail": "https://i.ytimg.com/vi/hzdl306Px1Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hzdl306Px1Q"
+    },
+    {
+      "id": "SuwcDDyHVDs",
+      "title": "SDGs LOVEGREEN : 広島県環境保健協会",
+      "thumbnail": "https://i.ytimg.com/vi/SuwcDDyHVDs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SuwcDDyHVDs"
+    },
+    {
+      "id": "4UKGtaMdxVk",
+      "title": "SDGs LOVEGREEN : 株式会社ICHIKAWA",
+      "thumbnail": "https://i.ytimg.com/vi/4UKGtaMdxVk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4UKGtaMdxVk"
+    },
+    {
+      "id": "wXuzcta0u9E",
+      "title": "SDGs LOVEGREEN : 大之木建設",
+      "thumbnail": "https://i.ytimg.com/vi/wXuzcta0u9E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wXuzcta0u9E"
+    },
+    {
+      "id": "1R6I1wBTC1o",
+      "title": "8月28日（木）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/1R6I1wBTC1o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1R6I1wBTC1o"
+    },
+    {
+      "id": "qi_qGZUkqbc",
+      "title": "【広島!中高生ニュース】比治山女子高校 バスケットボール部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/qi_qGZUkqbc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qi_qGZUkqbc"
+    },
+    {
+      "id": "_dkF_8iFKWk",
+      "title": "【広島!中高生ニュース】高陽高校 バレーボール部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/_dkF_8iFKWk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_dkF_8iFKWk"
+    },
+    {
+      "id": "T6c0oZEbZks",
+      "title": "8月27日（水）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/T6c0oZEbZks/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=T6c0oZEbZks"
+    },
+    {
+      "id": "CKPcuYdDehA",
+      "title": "『元就。二百万一心！』 #219　2025年8月23日",
+      "thumbnail": "https://i.ytimg.com/vi/CKPcuYdDehA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CKPcuYdDehA"
+    },
+    {
+      "id": "D-aCy16T3e0",
+      "title": "2025年 ピースナイター 吉川晃司さん始球式",
+      "thumbnail": "https://i.ytimg.com/vi/D-aCy16T3e0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=D-aCy16T3e0"
+    },
+    {
+      "id": "hj_evC7xHmg",
+      "title": "2025年 ピースナイター 吉川晃司さんによる「イマジン」の熱唱",
+      "thumbnail": "https://i.ytimg.com/vi/hj_evC7xHmg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hj_evC7xHmg"
+    },
+    {
+      "id": "o20jgrCGKRk",
+      "title": "8月25日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/o20jgrCGKRk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=o20jgrCGKRk"
+    },
+    {
+      "id": "FnxWNH7UHyU",
+      "title": "【午後の部】常石グループ presents 広島県高等学校ロボット競技大会",
+      "thumbnail": "https://i.ytimg.com/vi/FnxWNH7UHyU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FnxWNH7UHyU"
+    },
+    {
+      "id": "q3FCOZBm7uY",
+      "title": "【午前の部】常石グループ presents 広島県高等学校ロボット競技大会",
+      "thumbnail": "https://i.ytimg.com/vi/q3FCOZBm7uY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q3FCOZBm7uY"
+    },
+    {
+      "id": "-AjOuxAurTk",
+      "title": "#2　 グラフィックデザイナー　赤野有希  後編　＜KURASU 物語がつづく暮らし＞",
+      "thumbnail": "https://i.ytimg.com/vi/-AjOuxAurTk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-AjOuxAurTk"
+    },
+    {
+      "id": "N9XFUKQJtBM",
+      "title": "＜予告＞情熱サンフレッチェ 8月22日放送",
+      "thumbnail": "https://i.ytimg.com/vi/N9XFUKQJtBM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N9XFUKQJtBM"
+    },
+    {
+      "id": "Q-elqQm0q1M",
+      "title": "「五感を刺激する」夏のアートめぐり　8月15日放送ランキンLand!",
+      "thumbnail": "https://i.ytimg.com/vi/Q-elqQm0q1M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Q-elqQm0q1M"
+    },
+    {
+      "id": "bkz7TmmoQhk",
+      "title": "『元就。二百万一心！』 #218　2025年8月16日",
+      "thumbnail": "https://i.ytimg.com/vi/bkz7TmmoQhk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bkz7TmmoQhk"
+    },
+    {
+      "id": "a4xOQ4RApvs",
+      "title": "8月18日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/a4xOQ4RApvs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a4xOQ4RApvs"
+    },
+    {
+      "id": "n3H786uSObA",
+      "title": "【被爆80年 RCCピースナイター企画】カープ栗林投手が絵本「8月6日のこと」を朗読",
+      "thumbnail": "https://i.ytimg.com/vi/n3H786uSObA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=n3H786uSObA"
+    },
+    {
+      "id": "TP_23yfghpg",
+      "title": "『元就。二百万一心！』 #217　2025年8月9日",
+      "thumbnail": "https://i.ytimg.com/vi/TP_23yfghpg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TP_23yfghpg"
+    },
+    {
+      "id": "V3Mmuoeyujg",
+      "title": "安佐動物園のナイトサファリ。夜の動物に出会う「ワキデル色彩 カナデル生命 動物画家 石村嘉成の世界」8/12（火）イマナマ！放送",
+      "thumbnail": "https://i.ytimg.com/vi/V3Mmuoeyujg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=V3Mmuoeyujg"
+    },
+    {
+      "id": "DL7jDlr_z_o",
+      "title": "特集「ワキデル色彩 カナデル生命 動物画家 石村嘉成の世界」8/10（日）オシオシエンタ",
+      "thumbnail": "https://i.ytimg.com/vi/DL7jDlr_z_o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DL7jDlr_z_o"
+    },
+    {
+      "id": "GAgSLXGOQOA",
+      "title": "僕が描き続ける理由 動物画家 石村嘉成の世界",
+      "thumbnail": "https://i.ytimg.com/vi/GAgSLXGOQOA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GAgSLXGOQOA"
+    },
+    {
+      "id": "pI40vdftSnI",
+      "title": "＜予告＞情熱サンフレッチェ 8月15日放送",
+      "thumbnail": "https://i.ytimg.com/vi/pI40vdftSnI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pI40vdftSnI"
+    },
+    {
+      "id": "DWhV7IQqbwY",
+      "title": "楠本アナが会場からその様子をお届け！「ワキデル色彩 カナデル生命 動物画家 石村嘉成の世界」8/8（金）イマナマ中継",
+      "thumbnail": "https://i.ytimg.com/vi/DWhV7IQqbwY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DWhV7IQqbwY"
+    },
+    {
+      "id": "m9zdRHOE68A",
+      "title": "動物画家・石村嘉成さんの作品展　来場者が1万人　「絵がとてもきれいだったんで、興味があってきました」",
+      "thumbnail": "https://i.ytimg.com/vi/m9zdRHOE68A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m9zdRHOE68A"
+    },
+    {
+      "id": "lKyZNXHD3MA",
+      "title": "#1　 グラフィックデザイナー　赤野有希  前編　＜KURASU 物語がつづく暮らし＞",
+      "thumbnail": "https://i.ytimg.com/vi/lKyZNXHD3MA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lKyZNXHD3MA"
+    },
+    {
+      "id": "G68BY-ZGno0",
+      "title": "【広島!中高生ニュース】基町高校 平和学習【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/G68BY-ZGno0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=G68BY-ZGno0"
+    },
+    {
+      "id": "SIFwJQVQuAo",
+      "title": "＜予告＞情熱サンフレッチェ 8月08日放送",
+      "thumbnail": "https://i.ytimg.com/vi/SIFwJQVQuAo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SIFwJQVQuAo"
+    },
+    {
+      "id": "Z8zpX9C-LNo",
+      "title": "8月1日放送ランキンLand！「石村嘉成展の魅力を体感」",
+      "thumbnail": "https://i.ytimg.com/vi/Z8zpX9C-LNo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Z8zpX9C-LNo"
+    },
+    {
+      "id": "RT7xawhNgmM",
+      "title": "『元就。二百万一心！』 #216　2025年8月2日",
+      "thumbnail": "https://i.ytimg.com/vi/RT7xawhNgmM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RT7xawhNgmM"
+    },
+    {
+      "id": "2qZF3ak8Z6s",
+      "title": "8月4日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/2qZF3ak8Z6s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2qZF3ak8Z6s"
+    },
+    {
+      "id": "YX2Bkk2Wljg",
+      "title": "7月4日放送ランキンLand!「動物画家 石村嘉成の世界」展",
+      "thumbnail": "https://i.ytimg.com/vi/YX2Bkk2Wljg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YX2Bkk2Wljg"
+    },
+    {
+      "id": "kEBXStYO-xU",
+      "title": "オシオシエンタ8月3日放送「動物画家 石村嘉成の世界」展",
+      "thumbnail": "https://i.ytimg.com/vi/kEBXStYO-xU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kEBXStYO-xU"
+    },
+    {
+      "id": "Gs5lQjJLl5k",
+      "title": "『元就。二百万一心！』 #215　2025年7月26日",
+      "thumbnail": "https://i.ytimg.com/vi/Gs5lQjJLl5k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Gs5lQjJLl5k"
+    },
+    {
+      "id": "1kar06krJeE",
+      "title": "【石村嘉成の世界 開幕直前】イマナマ！中継 2025年7月18日放送",
+      "thumbnail": "https://i.ytimg.com/vi/1kar06krJeE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1kar06krJeE"
+    },
+    {
+      "id": "eFx3VA5oCIo",
+      "title": "オシオシエンタ7月31日放送「動物画家 石村嘉成の世界」展",
+      "thumbnail": "https://i.ytimg.com/vi/eFx3VA5oCIo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eFx3VA5oCIo"
+    },
+    {
+      "id": "ojOHDztC_YE",
+      "title": "【石村嘉成展】幾田りらさんコメント",
+      "thumbnail": "https://i.ytimg.com/vi/ojOHDztC_YE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ojOHDztC_YE"
+    },
+    {
+      "id": "ptww7hCOchY",
+      "title": "【石村嘉成の世界】会場ではライブドローイングも！　イマナマ！内中継　2025年7月21日",
+      "thumbnail": "https://i.ytimg.com/vi/ptww7hCOchY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ptww7hCOchY"
+    },
+    {
+      "id": "te-6uAjulec",
+      "title": "6月20日放送ランキンLand!「動物画家 石村嘉成の世界」展 7月19日から開催",
+      "thumbnail": "https://i.ytimg.com/vi/te-6uAjulec/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=te-6uAjulec"
+    },
+    {
+      "id": "HRBL3srm1j4",
+      "title": "【広島!中高生ニュース】美鈴が丘高校 体操部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/HRBL3srm1j4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HRBL3srm1j4"
+    },
+    {
+      "id": "iMp-KOB2aTg",
+      "title": "ランキンLand！被爆80年特別企画「アンデルセングループ～食卓に幸せを運ぶ」",
+      "thumbnail": "https://i.ytimg.com/vi/iMp-KOB2aTg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iMp-KOB2aTg"
+    },
+    {
+      "id": "hMGf32l5jzs",
+      "title": "ランキンLand！被爆80年特別企画「東洋証券～広島で誕生した企業として貢献する未来」",
+      "thumbnail": "https://i.ytimg.com/vi/hMGf32l5jzs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hMGf32l5jzs"
+    },
+    {
+      "id": "JRbmSu53fhg",
+      "title": "ランキンLand！被爆80年特別企画「生協ひろしま～18回目を迎えるピースナイター」",
+      "thumbnail": "https://i.ytimg.com/vi/JRbmSu53fhg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JRbmSu53fhg"
+    },
+    {
+      "id": "AhXuaCv4XMk",
+      "title": "7月28日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/AhXuaCv4XMk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AhXuaCv4XMk"
+    },
+    {
+      "id": "U5hAQW8yn2Q",
+      "title": "＜予告＞情熱サンフレッチェ 8月01日放送",
+      "thumbnail": "https://i.ytimg.com/vi/U5hAQW8yn2Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=U5hAQW8yn2Q"
+    },
+    {
+      "id": "xAqiEthB59Y",
+      "title": "＜予告＞情熱サンフレッチェ 7月25日放送",
+      "thumbnail": "https://i.ytimg.com/vi/xAqiEthB59Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xAqiEthB59Y"
+    },
+    {
+      "id": "WpSeLsMrzzs",
+      "title": "【JA共済プレゼンツ レモンチダンスカップ2025】特別審査員はIMP. 椿泰我 さんに決定！イマナマ！ファミリー椿くんとレモンチの最強タッグ！「レモンチの1週間」に合わせて一緒に踊ろう！動画大募集🍋",
+      "thumbnail": "https://i.ytimg.com/vi/WpSeLsMrzzs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WpSeLsMrzzs"
+    },
+    {
+      "id": "cLvaJkNkc-M",
+      "title": "ランキンLand！被爆80年特別企画「広島トヨタ～復興と挑戦の歴史」",
+      "thumbnail": "https://i.ytimg.com/vi/cLvaJkNkc-M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cLvaJkNkc-M"
+    },
+    {
+      "id": "5wy5Ra4d7oE",
+      "title": "【RCCテレビ】アンガールズの絶景アイランド　7/27(日)午後2時～",
+      "thumbnail": "https://i.ytimg.com/vi/5wy5Ra4d7oE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5wy5Ra4d7oE"
+    },
+    {
+      "id": "CKbpQ8M-g_8",
+      "title": "ランキンLand！被爆80年特別企画「明治安田～新社屋に設置された慰霊碑」",
+      "thumbnail": "https://i.ytimg.com/vi/CKbpQ8M-g_8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CKbpQ8M-g_8"
+    },
+    {
+      "id": "q3WLs092GOg",
+      "title": "ランキンLand！被爆80年特別企画「ICHIKAWA～焦土に水を届ける使命を担った歴史」",
+      "thumbnail": "https://i.ytimg.com/vi/q3WLs092GOg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q3WLs092GOg"
+    },
+    {
+      "id": "PKPLUVUGd5E",
+      "title": "【広島!中高生ニュース】瀬戸内高校 ダンス部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/PKPLUVUGd5E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PKPLUVUGd5E"
+    },
+    {
+      "id": "D-acvt6pJ00",
+      "title": "【広島!中高生ニュース】千代田高校 神楽部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/D-acvt6pJ00/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=D-acvt6pJ00"
+    },
+    {
+      "id": "vjN8iRsKNP0",
+      "title": "『元就。二百万一心！』 #214　2025年7月19日",
+      "thumbnail": "https://i.ytimg.com/vi/vjN8iRsKNP0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vjN8iRsKNP0"
+    },
+    {
+      "id": "ezphY6UO5QU",
+      "title": "7月18日（金）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/ezphY6UO5QU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ezphY6UO5QU"
+    },
+    {
+      "id": "7enB_uPGyb0",
+      "title": "7月17日（木）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/7enB_uPGyb0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7enB_uPGyb0"
+    },
+    {
+      "id": "q-Ykypy2tv4",
+      "title": "7月16日（水）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/q-Ykypy2tv4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q-Ykypy2tv4"
+    },
+    {
+      "id": "aScJSCwfnR0",
+      "title": "『元就。二百万一心！』 #213　2025年7月12日",
+      "thumbnail": "https://i.ytimg.com/vi/aScJSCwfnR0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aScJSCwfnR0"
+    },
+    {
+      "id": "7OxgglkfGbw",
+      "title": "＜予告＞情熱サンフレッチェ 7月18日放送",
+      "thumbnail": "https://i.ytimg.com/vi/7OxgglkfGbw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7OxgglkfGbw"
+    },
+    {
+      "id": "2PjKzY11Xq4",
+      "title": "7月11日（金）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/2PjKzY11Xq4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2PjKzY11Xq4"
+    },
+    {
+      "id": "dlU8x_w40cE",
+      "title": "7月10日（木）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/dlU8x_w40cE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dlU8x_w40cE"
+    },
+    {
+      "id": "x120ln0tfbY",
+      "title": "7月9日（水）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/x120ln0tfbY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x120ln0tfbY"
+    },
+    {
+      "id": "OO1NeTXX1H0",
+      "title": "【広島!中高生ニュース】瀬戸内高校の気になるニュース 【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/OO1NeTXX1H0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OO1NeTXX1H0"
+    },
+    {
+      "id": "_v72-YHhv_4",
+      "title": "【広島!中高生ニュース】基町高 クイズ同好会【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/_v72-YHhv_4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_v72-YHhv_4"
+    },
+    {
+      "id": "1hGzAQJyXv8",
+      "title": "『元就。二百万一心！』 #212　2025年7月5日",
+      "thumbnail": "https://i.ytimg.com/vi/1hGzAQJyXv8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1hGzAQJyXv8"
+    },
+    {
+      "id": "kbbOewBTATg",
+      "title": "＜予告＞情熱サンフレッチェ 7月11日放送",
+      "thumbnail": "https://i.ytimg.com/vi/kbbOewBTATg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kbbOewBTATg"
+    },
+    {
+      "id": "u22iA_GqQaA",
+      "title": "7月4日（金）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/u22iA_GqQaA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=u22iA_GqQaA"
+    },
+    {
+      "id": "d2ZTXmVq4Po",
+      "title": "7月3日（木）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/d2ZTXmVq4Po/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=d2ZTXmVq4Po"
+    },
+    {
+      "id": "vw-sPb6kZMw",
+      "title": "7月2日（水）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/vw-sPb6kZMw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vw-sPb6kZMw"
+    },
+    {
+      "id": "KNo0uCjsnPM",
+      "title": "『元就。二百万一心！』 #211　2025年6月28日",
+      "thumbnail": "https://i.ytimg.com/vi/KNo0uCjsnPM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KNo0uCjsnPM"
+    },
+    {
+      "id": "rKKAqGKLKu0",
+      "title": "＜予告＞情熱サンフレッチェ 7月4日放送",
+      "thumbnail": "https://i.ytimg.com/vi/rKKAqGKLKu0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rKKAqGKLKu0"
+    },
+    {
+      "id": "FL6r57BFv7o",
+      "title": "イマナマ！World　天満冷凍機株式会社に田村アナが潜入！",
+      "thumbnail": "https://i.ytimg.com/vi/FL6r57BFv7o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FL6r57BFv7o"
+    },
+    {
+      "id": "1D76jo9WvKY",
+      "title": "＜予告＞情熱サンフレッチェ 6月27日放送",
+      "thumbnail": "https://i.ytimg.com/vi/1D76jo9WvKY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1D76jo9WvKY"
+    },
+    {
+      "id": "KtrqQyq7XT4",
+      "title": "『元就。二百万一心！』 #210　2025年6月21日",
+      "thumbnail": "https://i.ytimg.com/vi/KtrqQyq7XT4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KtrqQyq7XT4"
+    },
+    {
+      "id": "LiZCPmxi7d8",
+      "title": "【広島!中高生ニュース】美鈴が丘高校 科学部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/LiZCPmxi7d8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LiZCPmxi7d8"
+    },
+    {
+      "id": "xfmBgxzoa1s",
+      "title": "【広島!中高生ニュース】基町高校 ダンス同好会【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/xfmBgxzoa1s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xfmBgxzoa1s"
+    },
+    {
+      "id": "HNySKnhjsic",
+      "title": "6月23日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/HNySKnhjsic/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HNySKnhjsic"
+    },
+    {
+      "id": "-jwv2E2T-HE",
+      "title": "6月20日（金）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/-jwv2E2T-HE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-jwv2E2T-HE"
+    },
+    {
+      "id": "cytB3jOrd8w",
+      "title": "6月19日（木）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/cytB3jOrd8w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cytB3jOrd8w"
+    },
+    {
+      "id": "6sN0u0yliA4",
+      "title": "『元就。二百万一心！』 #209　2025年6月14日",
+      "thumbnail": "https://i.ytimg.com/vi/6sN0u0yliA4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6sN0u0yliA4"
+    },
+    {
+      "id": "MWb9h266kGU",
+      "title": "＜予告＞情熱サンフレッチェ 6月20日放送",
+      "thumbnail": "https://i.ytimg.com/vi/MWb9h266kGU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MWb9h266kGU"
+    },
+    {
+      "id": "1nwxd0ql0vs",
+      "title": "＜予告＞情熱サンフレッチェ 6月13日放送",
+      "thumbnail": "https://i.ytimg.com/vi/1nwxd0ql0vs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1nwxd0ql0vs"
+    },
+    {
+      "id": "CbVqzkvOsWk",
+      "title": "【広島!中高生ニュース】瀬戸内高校 話題の校長先生！【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/CbVqzkvOsWk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CbVqzkvOsWk"
+    },
+    {
+      "id": "Dmod_CZn1Uc",
+      "title": "『元就。二百万一心！』 #208　2025年6月7日",
+      "thumbnail": "https://i.ytimg.com/vi/Dmod_CZn1Uc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Dmod_CZn1Uc"
+    },
+    {
+      "id": "lagLqjlgyd4",
+      "title": "6月9日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/lagLqjlgyd4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lagLqjlgyd4"
+    },
+    {
+      "id": "WOwJZ7x8fTw",
+      "title": "【ランキンLand！】「国内最大規模！福祉用具のメンテナンスセンターに潜入」5/30（金）OA",
+      "thumbnail": "https://i.ytimg.com/vi/WOwJZ7x8fTw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WOwJZ7x8fTw"
+    },
+    {
+      "id": "IsuG7MLdKKc",
+      "title": "【広島!中高生ニュース】美鈴が丘高校 湯来町活性化プロジェクト【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/IsuG7MLdKKc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IsuG7MLdKKc"
+    },
+    {
+      "id": "RSOMcf7IUO4",
+      "title": "『元就。二百万一心！』 #207　2025年5月31日",
+      "thumbnail": "https://i.ytimg.com/vi/RSOMcf7IUO4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RSOMcf7IUO4"
+    },
+    {
+      "id": "3I2rugVTWkg",
+      "title": "【広島!中高生ニュース】基町高校 生物部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/3I2rugVTWkg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3I2rugVTWkg"
+    },
+    {
+      "id": "p2cJUdPPuyE",
+      "title": "『元就。二百万一心！』 #206　2025年5月24日",
+      "thumbnail": "https://i.ytimg.com/vi/p2cJUdPPuyE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p2cJUdPPuyE"
+    },
+    {
+      "id": "C5rTJFQy3Zc",
+      "title": "＜予告＞情熱サンフレッチェ 6月06日放送",
+      "thumbnail": "https://i.ytimg.com/vi/C5rTJFQy3Zc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=C5rTJFQy3Zc"
+    },
+    {
+      "id": "t47nrD_gVmY",
+      "title": "＜予告＞情熱サンフレッチェ 5月23日放送",
+      "thumbnail": "https://i.ytimg.com/vi/t47nrD_gVmY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=t47nrD_gVmY"
+    },
+    {
+      "id": "8mtGqlJ9w-A",
+      "title": "『元就。二百万一心！』 #205　2025年5月17日",
+      "thumbnail": "https://i.ytimg.com/vi/8mtGqlJ9w-A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8mtGqlJ9w-A"
+    },
+    {
+      "id": "4qSSHeZEUNA",
+      "title": "【広島!中高生ニュース】進徳女子高校 茶道部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/4qSSHeZEUNA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4qSSHeZEUNA"
+    },
+    {
+      "id": "gjFVkBeffvY",
+      "title": "＜予告＞情熱サンフレッチェ 5月16日放送",
+      "thumbnail": "https://i.ytimg.com/vi/gjFVkBeffvY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gjFVkBeffvY"
+    },
+    {
+      "id": "Sb0F1YiYdmk",
+      "title": "c【広島!中高生ニュース】沼田高校 クリエイション類型【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/Sb0F1YiYdmk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Sb0F1YiYdmk"
+    },
+    {
+      "id": "zd_rQwahsSA",
+      "title": "『元就。二百万一心！』 #204　2025年5月10日",
+      "thumbnail": "https://i.ytimg.com/vi/zd_rQwahsSA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zd_rQwahsSA"
+    },
+    {
+      "id": "fxe14wrBy0U",
+      "title": "【広島!中高生ニュース】広島修道大学ひろしま協創中高 バトン部【広島の朝は THE TIME, !!】chukosei no264 0506 修大ひろしま協創中高 バトン部",
+      "thumbnail": "https://i.ytimg.com/vi/fxe14wrBy0U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fxe14wrBy0U"
+    },
+    {
+      "id": "bNSMhtUpUbk",
+      "title": "＜予告＞情熱サンフレッチェ 5月9日放送",
+      "thumbnail": "https://i.ytimg.com/vi/bNSMhtUpUbk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bNSMhtUpUbk"
+    },
+    {
+      "id": "4VkSK1XYAFc",
+      "title": "『元就。二百万一心！』 #203　2025年5月3日",
+      "thumbnail": "https://i.ytimg.com/vi/4VkSK1XYAFc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4VkSK1XYAFc"
+    },
+    {
+      "id": "oYL3tNggxmE",
+      "title": "＜予告＞情熱サンフレッチェ 5月2日放送",
+      "thumbnail": "https://i.ytimg.com/vi/oYL3tNggxmE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oYL3tNggxmE"
+    },
+    {
+      "id": "SLParMnbrr8",
+      "title": "SDGs LOVEGREEN : 山陽工業株式会社",
+      "thumbnail": "https://i.ytimg.com/vi/SLParMnbrr8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SLParMnbrr8"
+    },
+    {
+      "id": "Yn96uhh1UP8",
+      "title": "SDGs LOVEGREEN : サニクリーン",
+      "thumbnail": "https://i.ytimg.com/vi/Yn96uhh1UP8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Yn96uhh1UP8"
+    },
+    {
+      "id": "iJTKfMIXs7A",
+      "title": "【広島!中高生ニュース】進徳女子高校 WDP部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/iJTKfMIXs7A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iJTKfMIXs7A"
+    },
+    {
+      "id": "hUt1WhlhS7g",
+      "title": "『元就。二百万一心！』 #202　2025年4月26日",
+      "thumbnail": "https://i.ytimg.com/vi/hUt1WhlhS7g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hUt1WhlhS7g"
+    },
+    {
+      "id": "iiQO3FKAXxc",
+      "title": "DTM CLUB 1st Album「花紅柳緑」クロスフェード , cross fade",
+      "thumbnail": "https://i.ytimg.com/vi/iiQO3FKAXxc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iiQO3FKAXxc"
+    },
+    {
+      "id": "OAAO6dVNmE0",
+      "title": "「ほしになった町」HIPPYが歌う、広島への想い【RCC被爆80年テーマソング】",
+      "thumbnail": "https://i.ytimg.com/vi/OAAO6dVNmE0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OAAO6dVNmE0"
+    },
+    {
+      "id": "xQMFJ-Ic7W4",
+      "title": "【広島!中高生ニュース】沼田高校 トライアスロン【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/xQMFJ-Ic7W4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xQMFJ-Ic7W4"
+    },
+    {
+      "id": "06IWqa5qye4",
+      "title": "『元就。二百万一心！』 #201　2025年4月19日",
+      "thumbnail": "https://i.ytimg.com/vi/06IWqa5qye4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=06IWqa5qye4"
+    },
+    {
+      "id": "m_E1NhvQEfs",
+      "title": "＜予告＞情熱サンフレッチェ 4月25日放送",
+      "thumbnail": "https://i.ytimg.com/vi/m_E1NhvQEfs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m_E1NhvQEfs"
+    },
+    {
+      "id": "9JURC5LgICU",
+      "title": "＜予告＞情熱サンフレッチェ 4月18日放送",
+      "thumbnail": "https://i.ytimg.com/vi/9JURC5LgICU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9JURC5LgICU"
+    },
+    {
+      "id": "2pURtBw-gx0",
+      "title": "【広島!中高生ニュース】修道大学ひろしま協創中高 男子ソフトボール部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/2pURtBw-gx0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2pURtBw-gx0"
+    },
+    {
+      "id": "kQ0aibEzO2U",
+      "title": "『元就。二百万一心！』 #200　2025年4月12日",
+      "thumbnail": "https://i.ytimg.com/vi/kQ0aibEzO2U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kQ0aibEzO2U"
+    },
+    {
+      "id": "B-kUw8ULbhY",
+      "title": "【広島!中高生ニュース】進徳女子高校 ダンス部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/B-kUw8ULbhY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=B-kUw8ULbhY"
+    },
+    {
+      "id": "IE3rTAGmuLk",
+      "title": "レモナルド・レモンチでぬい活！！",
+      "thumbnail": "https://i.ytimg.com/vi/IE3rTAGmuLk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IE3rTAGmuLk"
+    },
+    {
+      "id": "b6By0yC3E8I",
+      "title": "＜予告＞情熱サンフレッチェ 4月04日放送",
+      "thumbnail": "https://i.ytimg.com/vi/b6By0yC3E8I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=b6By0yC3E8I"
+    },
+    {
+      "id": "Qara2_ejZfE",
+      "title": "【広島!中高生ニュース】沼田高校 パルクール・石田英太さん【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/Qara2_ejZfE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Qara2_ejZfE"
+    },
+    {
+      "id": "GkzaYRIphbA",
+      "title": "『元就。二百万一心！』 #199　2025年3月30日",
+      "thumbnail": "https://i.ytimg.com/vi/GkzaYRIphbA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GkzaYRIphbA"
+    },
+    {
+      "id": "AbCdGOSLPFE",
+      "title": "鈴木福のミミヨリ！ひろしま　2025年3月30日放送",
+      "thumbnail": "https://i.ytimg.com/vi/AbCdGOSLPFE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AbCdGOSLPFE"
+    },
+    {
+      "id": "JHgmBxU6WLM",
+      "title": "＜予告＞情熱サンフレッチェ 3月28日放送",
+      "thumbnail": "https://i.ytimg.com/vi/JHgmBxU6WLM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JHgmBxU6WLM"
+    },
+    {
+      "id": "gWLvYNuh_qY",
+      "title": "【広島!中高生ニュース】高校生活動推進委員会 インターハイ【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/gWLvYNuh_qY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gWLvYNuh_qY"
+    },
+    {
+      "id": "aV0ZZtCax7Y",
+      "title": "【広島!中高生ニュース】広島城北中高等学校 バレーボール部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/aV0ZZtCax7Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aV0ZZtCax7Y"
+    },
+    {
+      "id": "EEw7wesP2T0",
+      "title": "【広島!中高生ニュース】広島国泰寺高校 軽音楽部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/EEw7wesP2T0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EEw7wesP2T0"
+    },
+    {
+      "id": "OXKrqawls6E",
+      "title": "【広島!中高生ニュース】安芸南高校 箏曲部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/OXKrqawls6E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OXKrqawls6E"
+    },
+    {
+      "id": "hT6N7G7yg4o",
+      "title": "『元就。二百万一心！』 #198　2025年3月22日",
+      "thumbnail": "https://i.ytimg.com/vi/hT6N7G7yg4o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hT6N7G7yg4o"
+    },
+    {
+      "id": "I6F6Rs6oP3o",
+      "title": "鈴木福のミミヨリ！ひろしま　2025年3月23日放送",
+      "thumbnail": "https://i.ytimg.com/vi/I6F6Rs6oP3o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=I6F6Rs6oP3o"
+    },
+    {
+      "id": "mATg8C6aHCI",
+      "title": "【広島!中高生ニュース】広島修道大学ひろしま協創高校【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/mATg8C6aHCI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mATg8C6aHCI"
+    },
+    {
+      "id": "EsNCFZXPZrU",
+      "title": "＜予告＞情熱サンフレッチェ 3月21日放送",
+      "thumbnail": "https://i.ytimg.com/vi/EsNCFZXPZrU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EsNCFZXPZrU"
+    },
+    {
+      "id": "3a-3ctfrOaY",
+      "title": "『つなぐ大地の絆ーBatonー』#452　2025年3月20日放送",
+      "thumbnail": "https://i.ytimg.com/vi/3a-3ctfrOaY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3a-3ctfrOaY"
+    },
+    {
+      "id": "B_BuoBn9aRk",
+      "title": "【広島!中高生ニュース】広島城北中学校 書道部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/B_BuoBn9aRk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=B_BuoBn9aRk"
+    },
+    {
+      "id": "Rx6iBInKsiw",
+      "title": "『元就。二百万一心！』 #197　2025年3月15日",
+      "thumbnail": "https://i.ytimg.com/vi/Rx6iBInKsiw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Rx6iBInKsiw"
+    },
+    {
+      "id": "FK0TjRD4DGY",
+      "title": "鈴木福のミミヨリ！ひろしま　2025年3月16日放送",
+      "thumbnail": "https://i.ytimg.com/vi/FK0TjRD4DGY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FK0TjRD4DGY"
+    },
+    {
+      "id": "q78hsQCmTFM",
+      "title": "【広島!中高生ニュース】安芸南高校 空手部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/q78hsQCmTFM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q78hsQCmTFM"
+    },
+    {
+      "id": "sJKy5I6G34E",
+      "title": "【イマナマ！ワールド】アナタの知らないバスの世界！？芸陽バスに田村アナが潜入",
+      "thumbnail": "https://i.ytimg.com/vi/sJKy5I6G34E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sJKy5I6G34E"
+    },
+    {
+      "id": "Er85rQqdhqI",
+      "title": "『つなぐ大地の絆ーBatonー』#451　2025年3月13日放送",
+      "thumbnail": "https://i.ytimg.com/vi/Er85rQqdhqI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Er85rQqdhqI"
+    },
+    {
+      "id": "9ZpJ1y37c7M",
+      "title": "【広島!中高生ニュース】広島国際学院中学校 百践錬磨【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/9ZpJ1y37c7M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9ZpJ1y37c7M"
+    },
+    {
+      "id": "Z8wqDekqhbk",
+      "title": "【広島!中高生ニュース】広島桜ヶ丘高校【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/Z8wqDekqhbk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Z8wqDekqhbk"
+    },
+    {
+      "id": "sQfeUdrXY2g",
+      "title": "【広島!中高生ニュース】崇徳高校 バスケットボール部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/sQfeUdrXY2g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sQfeUdrXY2g"
+    },
+    {
+      "id": "5TsEMmmK11I",
+      "title": "【広島!中高生ニュース】高陽高校 写真部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/5TsEMmmK11I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5TsEMmmK11I"
+    },
+    {
+      "id": "-5LJBKJdvu4",
+      "title": "【広島!中高生ニュース】千代田高校 陸上競技部【広島の朝は THE TIME, !!】",
+      "thumbnail": "https://i.ytimg.com/vi/-5LJBKJdvu4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-5LJBKJdvu4"
+    },
+    {
+      "id": "TGJeeewjoXE",
+      "title": "RCCテレビ『元就。』2025年10月12日予告",
+      "thumbnail": "https://i.ytimg.com/vi/TGJeeewjoXE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TGJeeewjoXE"
+    },
+    {
+      "id": "-T6LpUVoL7Q",
+      "title": "『元就。二百万一心！』 #225　2025年10月5日",
+      "thumbnail": "https://i.ytimg.com/vi/-T6LpUVoL7Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-T6LpUVoL7Q"
+    },
+    {
+      "id": "Df1aTGxVbvI",
+      "title": "認定こども園名田保育園＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/Df1aTGxVbvI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Df1aTGxVbvI"
+    },
+    {
+      "id": "pDM25V6SMlY",
+      "title": "認定こども園宝徳幼稚園＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/pDM25V6SMlY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pDM25V6SMlY"
+    },
+    {
+      "id": "diyaP058TFs",
+      "title": "Leminkle＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/diyaP058TFs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=diyaP058TFs"
+    },
+    {
+      "id": "-q8_i89ix4w",
+      "title": "10月6日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/-q8_i89ix4w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-q8_i89ix4w"
+    },
+    {
+      "id": "thj2miN2YwY",
+      "title": "Lil☺︎Smile＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/thj2miN2YwY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=thj2miN2YwY"
+    },
+    {
+      "id": "tqtWnueCuLw",
+      "title": "AYA♡HANA＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/tqtWnueCuLw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tqtWnueCuLw"
+    },
+    {
+      "id": "nAhEeuEpsaQ",
+      "title": "レモンチに届け隊‼＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/nAhEeuEpsaQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nAhEeuEpsaQ"
+    },
+    {
+      "id": "hzZPUlDhvA4",
+      "title": "トキちゃん＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/hzZPUlDhvA4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hzZPUlDhvA4"
+    },
+    {
+      "id": "T9aQJZJIRJY",
+      "title": "広島市立基町高等学校ダンス同好会＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/T9aQJZJIRJY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=T9aQJZJIRJY"
+    },
+    {
+      "id": "TfKxOqQFRmM",
+      "title": "MiLemo（マイレモ）＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/TfKxOqQFRmM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TfKxOqQFRmM"
+    },
+    {
+      "id": "JLb8sYXQA7I",
+      "title": "KANA＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/JLb8sYXQA7I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JLb8sYXQA7I"
+    },
+    {
+      "id": "PK6f29vA4mM",
+      "title": "KOSHIAN＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/PK6f29vA4mM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PK6f29vA4mM"
+    },
+    {
+      "id": "DYNyNe-VJzQ",
+      "title": "タケタカチャンネル＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/DYNyNe-VJzQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DYNyNe-VJzQ"
+    },
+    {
+      "id": "QQwxw9Qf7ac",
+      "title": "とんぼ４姉妹＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/QQwxw9Qf7ac/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QQwxw9Qf7ac"
+    },
+    {
+      "id": "EJ1TVRWumws",
+      "title": "中村兄弟＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/EJ1TVRWumws/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EJ1TVRWumws"
+    },
+    {
+      "id": "5XJGG5Bz8o8",
+      "title": "MEet 〜広島盛り上げ隊〜＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/5XJGG5Bz8o8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5XJGG5Bz8o8"
+    },
+    {
+      "id": "JB35aQeSjbA",
+      "title": "キートス新体操クラブ＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/JB35aQeSjbA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JB35aQeSjbA"
+    },
+    {
+      "id": "BsDOgqUljq8",
+      "title": "きよら＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/BsDOgqUljq8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BsDOgqUljq8"
+    },
+    {
+      "id": "58ACjqan4hs",
+      "title": "レモンチ必死隊＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/58ACjqan4hs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=58ACjqan4hs"
+    },
+    {
+      "id": "4VmD-yCTavA",
+      "title": "ほなみかん・あやれもん＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/4VmD-yCTavA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4VmD-yCTavA"
+    },
+    {
+      "id": "2mRsD9MknHA",
+      "title": "キリン組＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/2mRsD9MknHA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2mRsD9MknHA"
+    },
+    {
+      "id": "-ZuzCh_g1Qw",
+      "title": "prima＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/-ZuzCh_g1Qw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-ZuzCh_g1Qw"
+    },
+    {
+      "id": "048N9rIQujs",
+      "title": "ひよりand楓＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/048N9rIQujs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=048N9rIQujs"
+    },
+    {
+      "id": "a21BF74eTpU",
+      "title": "認定こども園 広島和光園保育所＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/a21BF74eTpU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a21BF74eTpU"
+    },
+    {
+      "id": "-JUMsXhj4TA",
+      "title": "Berry＜レモンチダンスカップ第6弾＞",
+      "thumbnail": "https://i.ytimg.com/vi/-JUMsXhj4TA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-JUMsXhj4TA"
+    },
+    {
+      "id": "G4ZkcZBQ_Fc",
+      "title": "RCCテレビ『アインシュタインの出没！ひな壇団』2025年10月18日予告",
+      "thumbnail": "https://i.ytimg.com/vi/G4ZkcZBQ_Fc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=G4ZkcZBQ_Fc"
+    },
+    {
+      "id": "l_ka4O0J_jU",
+      "title": "＜予告＞情熱サンフレッチェ 10月10日放送",
+      "thumbnail": "https://i.ytimg.com/vi/l_ka4O0J_jU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=l_ka4O0J_jU"
+    },
+    {
+      "id": "QUmFX4hWn38",
+      "title": "＜予告＞元就。ゴールデン～アンガ村上の広島城下町すたこら2時間SP～【10/8（水）よる8時から放送！】",
+      "thumbnail": "https://i.ytimg.com/vi/QUmFX4hWn38/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QUmFX4hWn38"
+    },
+    {
+      "id": "Wkjh9BXrqgY",
+      "title": "＃3　ミニチュア作家　萩谷幹　前編　＜KURASU 物語がつづく暮らし＞",
+      "thumbnail": "https://i.ytimg.com/vi/Wkjh9BXrqgY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Wkjh9BXrqgY"
+    },
+    {
+      "id": "rm8xUl072s4",
+      "title": "＜予告＞情熱サンフレッチェ 10月03日放送",
+      "thumbnail": "https://i.ytimg.com/vi/rm8xUl072s4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rm8xUl072s4"
+    },
+    {
+      "id": "7-f3zoDYyQ8",
+      "title": "『レモンチの一週間』毎週水曜22:57-23:00放送中！【RCC】",
+      "thumbnail": "https://i.ytimg.com/vi/7-f3zoDYyQ8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7-f3zoDYyQ8"
+    },
+    {
+      "id": "zjLXmCLI_uQ",
+      "title": "アインシュタインの出没！ご当地ラーメングルメ旅 ～瀬戸内編～　10月8日放送",
+      "thumbnail": "https://i.ytimg.com/vi/zjLXmCLI_uQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zjLXmCLI_uQ"
+    },
+    {
+      "id": "5s3bdaEIWdk",
+      "title": "『元就。二百万一心！』 #224　2025年9月27日",
+      "thumbnail": "https://i.ytimg.com/vi/5s3bdaEIWdk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5s3bdaEIWdk"
+    },
+    {
+      "id": "2w7JkCaORqY",
+      "title": "【RCCテレビ】中島夫婦の国勢調査って、なんなん？＃2",
+      "thumbnail": "https://i.ytimg.com/vi/2w7JkCaORqY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2w7JkCaORqY"
+    },
+    {
+      "id": "NZMJUsbNfVc",
+      "title": "【RCCテレビ】中島夫婦の国勢調査って、なんなん？＃1",
+      "thumbnail": "https://i.ytimg.com/vi/NZMJUsbNfVc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NZMJUsbNfVc"
+    },
+    {
+      "id": "p_QMHUW0Ic4",
+      "title": "9月29日（月）Veryカープ！情報　THE TIME, 内 朝6:45頃と7:50頃に放送中！",
+      "thumbnail": "https://i.ytimg.com/vi/p_QMHUW0Ic4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p_QMHUW0Ic4"
+    },
+    {
+      "id": "esdRX-xtJTw",
+      "title": "RCCテレビ『元就。』2025年9月28日予告",
+      "thumbnail": "https://i.ytimg.com/vi/esdRX-xtJTw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=esdRX-xtJTw"
+    },
+    {
+      "id": "zb7rfiSI9p8",
+      "title": "福山名物「福つまみ」を知りたガール！【街ネタ知りたガール】",
+      "thumbnail": "https://i.ytimg.com/vi/zb7rfiSI9p8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zb7rfiSI9p8"
     }
   ]
 }

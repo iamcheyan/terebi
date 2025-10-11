@@ -1,332 +1,956 @@
 {
   "channel_id": "UCE5ajTJVTrsmxZJ-V3y8CLA",
-  "channel_name": "ABA青森朝日放送",
+  "channel_name": "UCE5ajTJVTrsmxZJ-V3y8CLA",
   "original_name": "ABA青森朝日放送",
-  "updated_at": "2025-10-11T11:58:50.521469",
+  "updated_at": "2025-10-11T12:08:38.308495",
   "videos": [
     {
-      "kind": "youtube#playlistItem",
-      "etag": "tMG11S3tIM7KU1zJHyPBFjFp-pY",
-      "id": "VVVFNWFqVEpWVHJzbXhaSi1WM3k4Q0xBLjNpR2J4YlZLNkMw",
-      "snippet": {
-        "publishedAt": "2025-10-04T07:30:03Z",
-        "channelId": "UCE5ajTJVTrsmxZJ-V3y8CLA",
-        "title": "青森りんごを盛り上げる！りんごでお酒をつくるお仕事の一日に密着　みらい☆ルーキー",
-        "description": "青森には魅力的なお仕事がたくさん。\nいつも食べているりんごがお酒になる！？平川市の企業に密着。\n青森りんごを使ったお酒づくりのお仕事を青森で！\n\nたのしくまなぼう【みらい☆ルーキー】\n#青森県　#みらいルーキー　#りんご　＃アップルブランデー　＃青森りんご150\n\n次回放送は11月1日（土）16時25分から青森朝日放送にて！\n\n◆チャンネル登録はこちら　https://www.youtube.com/@AbanetCH\n◆インスタグラム　https://www.instagram.com/yumekokoaba/\n◆TikTok　https://www.tiktok.com/@yumekokoaba",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3iGbxbVK6C0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3iGbxbVK6C0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3iGbxbVK6C0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/3iGbxbVK6C0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/3iGbxbVK6C0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ABA青森朝日放送",
-        "playlistId": "UUE5ajTJVTrsmxZJ-V3y8CLA",
-        "position": 0,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "3iGbxbVK6C0"
-        },
-        "videoOwnerChannelTitle": "ABA青森朝日放送",
-        "videoOwnerChannelId": "UCE5ajTJVTrsmxZJ-V3y8CLA"
-      }
+      "id": "yTr0DQGbw7w",
+      "title": "【交番警察官に密着】須郷巡査の交番日記　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/yTr0DQGbw7w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yTr0DQGbw7w"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "4LAxyTMqR6b3zxBdPQdz3FLEKek",
-      "id": "VVVFNWFqVEpWVHJzbXhaSi1WM3k4Q0xBLkZCSGV3d3J0WHo4",
-      "snippet": {
-        "publishedAt": "2025-10-04T02:00:15Z",
-        "channelId": "UCE5ajTJVTrsmxZJ-V3y8CLA",
-        "title": "軽トラの車内から　＃３３．パワスポ",
-        "description": "ABA青森朝日放送で放送中の「王林の産地直送☆青森最高」の番外編\n軽トラ車内でのゆる～い会話をお届けします。\n\n「王林の産地直送☆青森最高」\n第1・3土曜　ごご3時55分から放送中！\n\n#王林　#軽トラ　#産地直送　#青森県　#青森朝日放送",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/FBHewwrtXz8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/FBHewwrtXz8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/FBHewwrtXz8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/FBHewwrtXz8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/FBHewwrtXz8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ABA青森朝日放送",
-        "playlistId": "UUE5ajTJVTrsmxZJ-V3y8CLA",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "FBHewwrtXz8"
-        },
-        "videoOwnerChannelTitle": "ABA青森朝日放送",
-        "videoOwnerChannelId": "UCE5ajTJVTrsmxZJ-V3y8CLA"
-      }
+      "id": "vL6-6YSF3DE",
+      "title": "市岡元気のマジ☆ラボ　NASAが開発した光",
+      "thumbnail": "https://i.ytimg.com/vi/vL6-6YSF3DE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vL6-6YSF3DE"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "yhRN3QnEVOP1EfexQUXwAFfCdWQ",
-      "id": "VVVFNWFqVEpWVHJzbXhaSi1WM3k4Q0xBLi1zX19uVnYyV0pJ",
-      "snippet": {
-        "publishedAt": "2025-10-03T09:00:01Z",
-        "channelId": "UCE5ajTJVTrsmxZJ-V3y8CLA",
-        "title": "軽トラの車内から　＃３２．恋",
-        "description": "ABA青森朝日放送で放送中の「王林の産地直送☆青森最高」の番外編\n軽トラ車内でのゆる～い会話をお届けします。\n\n「王林の産地直送☆青森最高」\n第1・3土曜　ごご3時55分から放送中！\n\n#王林　#軽トラ　#産地直送　#青森県　#青森朝日放送",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-s__nVv2WJI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-s__nVv2WJI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-s__nVv2WJI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-s__nVv2WJI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-s__nVv2WJI/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ABA青森朝日放送",
-        "playlistId": "UUE5ajTJVTrsmxZJ-V3y8CLA",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-s__nVv2WJI"
-        },
-        "videoOwnerChannelTitle": "ABA青森朝日放送",
-        "videoOwnerChannelId": "UCE5ajTJVTrsmxZJ-V3y8CLA"
-      }
+      "id": "IfBaygdE_9c",
+      "title": "市岡元気のマジ☆ラボ　樹氷を再現！？禁断の実験",
+      "thumbnail": "https://i.ytimg.com/vi/IfBaygdE_9c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IfBaygdE_9c"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "f8oBi0u0y8ctZ1sEqTB5SAswUNY",
-      "id": "VVVFNWFqVEpWVHJzbXhaSi1WM3k4Q0xBLm9FR2xGZWQyVjdv",
-      "snippet": {
-        "publishedAt": "2025-10-02T08:00:59Z",
-        "channelId": "UCE5ajTJVTrsmxZJ-V3y8CLA",
-        "title": "平沼日菜子の旅するハレのちin　台湾　＃２",
-        "description": "台湾に留学経験のある平沼日菜子が台湾のオススメスポットを紹介！\n伝統とモダンが溶け合う街で、台北の魅力をぎゅっとまとめました。\n今回は台北の原宿とも言われる「西門町」やお茶の産地で有名な「猫空」、旅の締めはレトロな風景が人気の九份で夜景を堪能。\n\n＃台湾　＃台北　＃ハレのちあした　＃平沼日菜子　＃西門町　＃猫空　＃九份",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oEGlFed2V7o/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oEGlFed2V7o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oEGlFed2V7o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oEGlFed2V7o/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oEGlFed2V7o/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ABA青森朝日放送",
-        "playlistId": "UUE5ajTJVTrsmxZJ-V3y8CLA",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "oEGlFed2V7o"
-        },
-        "videoOwnerChannelTitle": "ABA青森朝日放送",
-        "videoOwnerChannelId": "UCE5ajTJVTrsmxZJ-V3y8CLA"
-      }
+      "id": "KIOLZ2qhZNc",
+      "title": "市岡元気のマジ☆ラボ　襲いかかる雷",
+      "thumbnail": "https://i.ytimg.com/vi/KIOLZ2qhZNc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KIOLZ2qhZNc"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "oGQT36ErfTBFbB1y2z-_dRYvlUo",
-      "id": "VVVFNWFqVEpWVHJzbXhaSi1WM3k4Q0xBLjRxdmptdl9peHJn",
-      "snippet": {
-        "publishedAt": "2025-10-02T08:00:09Z",
-        "channelId": "UCE5ajTJVTrsmxZJ-V3y8CLA",
-        "title": "平沼日菜子の旅するハレのちin　台湾　＃１",
-        "description": "台湾に留学経験のある平沼日菜子が台湾のオススメスポットを紹介！\n伝統とモダンが溶け合う街で、台北の魅力をぎゅっとまとめました。\n歴史あふれる「迪化街」、創業70年以上の民具店でお気に入りの逸品を見つけました。\n\n＃台湾　＃台北　＃ハレのちあした　＃平沼日菜子　＃迪化街　＃カゴバック　＃夜市",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4qvjmv_ixrg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4qvjmv_ixrg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4qvjmv_ixrg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4qvjmv_ixrg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4qvjmv_ixrg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ABA青森朝日放送",
-        "playlistId": "UUE5ajTJVTrsmxZJ-V3y8CLA",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "4qvjmv_ixrg"
-        },
-        "videoOwnerChannelTitle": "ABA青森朝日放送",
-        "videoOwnerChannelId": "UCE5ajTJVTrsmxZJ-V3y8CLA"
-      }
+      "id": "JJVPDcitDWM",
+      "title": "市岡元気のマジ☆ラボ　電池のパワーで金属ぶった斬る",
+      "thumbnail": "https://i.ytimg.com/vi/JJVPDcitDWM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JJVPDcitDWM"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "_rzpP7HYJN5v_sEu95Y9e4ztBaI",
-      "id": "VVVFNWFqVEpWVHJzbXhaSi1WM3k4Q0xBLlFnUnRlUXE2YURj",
-      "snippet": {
-        "publishedAt": "2025-09-29T07:50:01Z",
-        "channelId": "UCE5ajTJVTrsmxZJ-V3y8CLA",
-        "title": "鰺ヶ沢町で大人気のフードフェス！　あどばるーん・新山大が推しヅケ丼を調査",
-        "description": "青森のあしたをごきげんにする夕方情報番組「ハレのちあした」の特集・ハレのちリサーチ！\n１０月に鰺ヶ沢町で人気イベント「あじがさわフードフェス」が開催される。注目は町内の店舗が複数参加する「ヒラメのヅケ丼」。ということで、リポーターのあどばるーん・新山大が鰺ヶ沢町に行き事前調査。店ごとに個性が出るどんぶりを食べ比べ「推しヅケ丼」をチェックする。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/QgRteQq6aDc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/QgRteQq6aDc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/QgRteQq6aDc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/QgRteQq6aDc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/QgRteQq6aDc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ABA青森朝日放送",
-        "playlistId": "UUE5ajTJVTrsmxZJ-V3y8CLA",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "QgRteQq6aDc"
-        },
-        "videoOwnerChannelTitle": "ABA青森朝日放送",
-        "videoOwnerChannelId": "UCE5ajTJVTrsmxZJ-V3y8CLA"
-      }
+      "id": "En4OxY_vTHk",
+      "title": "空港の雪は俺たちに任せろ！青森空港除雪隊ホワイトインパルスに密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/En4OxY_vTHk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=En4OxY_vTHk"
     },
     {
-      "kind": "youtube#playlistItem",
-      "etag": "IEyMMN6fDSbj3W6Idr2ewNI78RA",
-      "id": "VVVFNWFqVEpWVHJzbXhaSi1WM3k4Q0xBLnZOVDhxcC1iejl3",
-      "snippet": {
-        "publishedAt": "2025-09-24T09:56:10Z",
-        "channelId": "UCE5ajTJVTrsmxZJ-V3y8CLA",
-        "title": "【DRUM TAO】2025新作舞台「THE BEST」青森公演に向けてメンバーからコメント",
-        "description": "／\nDRUM TAOメンバーから\n青森公演に向けてコメントが届きました🗣️\n＼\n\n🥁DRUM TAO 2025 新作舞台「THE BEST」\n📅10/3（金）開演18:00／開場17:15\n🌟リンクステーションホール青森\n\n↓詳細はこちら👀\nhttps://www.aba-net.com/event/drumtao2025aomori/\n\n#青森県 #青森市 #drumtao #ドラムタオ #青森公演",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/vNT8qp-bz9w/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/vNT8qp-bz9w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/vNT8qp-bz9w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/vNT8qp-bz9w/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "ABA青森朝日放送",
-        "playlistId": "UUE5ajTJVTrsmxZJ-V3y8CLA",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "vNT8qp-bz9w"
-        },
-        "videoOwnerChannelTitle": "ABA青森朝日放送",
-        "videoOwnerChannelId": "UCE5ajTJVTrsmxZJ-V3y8CLA"
-      }
+      "id": "hPHrDs1sD4M",
+      "title": "野辺地発！卵付き活ホタテを新ブランドへ",
+      "thumbnail": "https://i.ytimg.com/vi/hPHrDs1sD4M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hPHrDs1sD4M"
+    },
+    {
+      "id": "wEqHROpSJd8",
+      "title": "【ルーキーホテリエ】リッチモンドホテル青森　ホテリエの1日　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/wEqHROpSJd8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wEqHROpSJd8"
+    },
+    {
+      "id": "13-WHdVIWuQ",
+      "title": "青森空港ライブ配信",
+      "thumbnail": "https://i.ytimg.com/vi/13-WHdVIWuQ/sddefault_live.jpg",
+      "url": "https://www.youtube.com/watch?v=13-WHdVIWuQ"
+    },
+    {
+      "id": "nHsXS9rX5AA",
+      "title": "百沢温泉再生物語　＃５ 2024年4月27日グランドオープン",
+      "thumbnail": "https://i.ytimg.com/vi/nHsXS9rX5AA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nHsXS9rX5AA"
+    },
+    {
+      "id": "Lc_mky99pZ4",
+      "title": "百沢温泉再生物語　＃４ みんなのチカラを結集せよ",
+      "thumbnail": "https://i.ytimg.com/vi/Lc_mky99pZ4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Lc_mky99pZ4"
+    },
+    {
+      "id": "katEA0_n8S4",
+      "title": "【夢実現！】浅虫水族館の飼育員　坪田さんの1日　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/katEA0_n8S4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=katEA0_n8S4"
+    },
+    {
+      "id": "7Ot-KUNiee8",
+      "title": "【密着】青い森鉄道運転士の1日　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/7Ot-KUNiee8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7Ot-KUNiee8"
+    },
+    {
+      "id": "-vzoBMwOy_8",
+      "title": "佐井村「未来へ繋ぐ灯」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/-vzoBMwOy_8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-vzoBMwOy_8"
+    },
+    {
+      "id": "0KWakwxfJts",
+      "title": "鶴田町「故郷と国際交流の架け橋となる町」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/0KWakwxfJts/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0KWakwxfJts"
+    },
+    {
+      "id": "DlR3zhMDaOI",
+      "title": "五所川原市「上を向く街」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/DlR3zhMDaOI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DlR3zhMDaOI"
+    },
+    {
+      "id": "Ii4-v5yN5qI",
+      "title": "七戸町「思い出いっぱい七戸町」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/Ii4-v5yN5qI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ii4-v5yN5qI"
+    },
+    {
+      "id": "dF4PyO-JxXI",
+      "title": "六戸町「プレミアムな O・YA・SA・I ?」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/dF4PyO-JxXI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dF4PyO-JxXI"
+    },
+    {
+      "id": "0bQAbNYxIRM",
+      "title": "新郷村「いいんでねぇが！新郷　MISSION：ⅩⅣ～ 新郷村の呪縛 篇 ～」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/0bQAbNYxIRM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0bQAbNYxIRM"
+    },
+    {
+      "id": "3XbcavW3jcI",
+      "title": "中泊町「遠泳の聖地に！中泊町」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/3XbcavW3jcI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3XbcavW3jcI"
+    },
+    {
+      "id": "7DVYMMxeAkM",
+      "title": "風間浦村「いいじゃなイカ風間浦村」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/7DVYMMxeAkM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7DVYMMxeAkM"
+    },
+    {
+      "id": "7XUm9AcRDsA",
+      "title": "大鰐町「伝承400年 わが町自慢の『大鰐温泉もやし』」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/7XUm9AcRDsA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7XUm9AcRDsA"
+    },
+    {
+      "id": "7oFnTzrHJY0",
+      "title": "深浦町「生まれた場所」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/7oFnTzrHJY0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7oFnTzrHJY0"
+    },
+    {
+      "id": "EOy-aHN6_0Q",
+      "title": "板柳町「いつでも帰れる、いつでも待ってる。」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/EOy-aHN6_0Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EOy-aHN6_0Q"
+    },
+    {
+      "id": "G6Dl2qZRzqE",
+      "title": "平内町「飾らない『休日』を」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/G6Dl2qZRzqE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=G6Dl2qZRzqE"
+    },
+    {
+      "id": "GENBnURmysk",
+      "title": "六ヶ所村「これまでも　これからも」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/GENBnURmysk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GENBnURmysk"
+    },
+    {
+      "id": "IJ1VcL2e_2E",
+      "title": "青森市「アオモリショッピング　～激映えスポット編～」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/IJ1VcL2e_2E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IJ1VcL2e_2E"
+    },
+    {
+      "id": "Lck5xwh53xk",
+      "title": "弘前市「どうしてくれる！？弘前市」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/Lck5xwh53xk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Lck5xwh53xk"
+    },
+    {
+      "id": "O9npidtqOZ8",
+      "title": "田舎館村「全力村」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/O9npidtqOZ8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=O9npidtqOZ8"
+    },
+    {
+      "id": "Od8AAWeMyWw",
+      "title": "西目屋村「親から子へつなぐ」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/Od8AAWeMyWw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Od8AAWeMyWw"
+    },
+    {
+      "id": "QmQZjM_8Sig",
+      "title": "鰺ヶ沢町「町といっしょに」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/QmQZjM_8Sig/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QmQZjM_8Sig"
+    },
+    {
+      "id": "QvPe508RqkQ",
+      "title": "藤崎町「わたしの日曜日」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/QvPe508RqkQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QvPe508RqkQ"
+    },
+    {
+      "id": "RaY4sLuNBqQ",
+      "title": "つがる市「１・２・３・４　つがる市」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/RaY4sLuNBqQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RaY4sLuNBqQ"
+    },
+    {
+      "id": "Su1WzqzEWdU",
+      "title": "田子町「これからも、にんにくと」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/Su1WzqzEWdU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Su1WzqzEWdU"
+    },
+    {
+      "id": "SyAyAMBAxGU",
+      "title": "むつ市「むつ湾の織り成す体験、暮らし、景色」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/SyAyAMBAxGU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SyAyAMBAxGU"
+    },
+    {
+      "id": "TR4R2Nd6NoE",
+      "title": "東通村「端っこの小さな私たちの村」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/TR4R2Nd6NoE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TR4R2Nd6NoE"
+    },
+    {
+      "id": "UdstVj9efAI",
+      "title": "平川市「心も身体も●●●のまち！？」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/UdstVj9efAI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UdstVj9efAI"
+    },
+    {
+      "id": "WA2MuPRlsKE",
+      "title": "三沢市「離れても戻りたい街～ふるさとを次世代につなぐ～」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/WA2MuPRlsKE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WA2MuPRlsKE"
+    },
+    {
+      "id": "WRbGIafLtmE",
+      "title": "蓬田村「余裕」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/WRbGIafLtmE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WRbGIafLtmE"
+    },
+    {
+      "id": "WSc07LDStl8",
+      "title": "横浜町「ヨコハマサーン！（横浜産）」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/WSc07LDStl8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WSc07LDStl8"
+    },
+    {
+      "id": "Y1-ll41RWuM",
+      "title": "十和田市「にんにくのキモチ」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/Y1-ll41RWuM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Y1-ll41RWuM"
+    },
+    {
+      "id": "ZJPe_2mEQlQ",
+      "title": "おいらせ町「子供の笑いが溢れるtown !」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/ZJPe_2mEQlQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZJPe_2mEQlQ"
+    },
+    {
+      "id": "_u3biW3ElXk",
+      "title": "五戸町「とある家庭の夕食」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/_u3biW3ElXk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_u3biW3ElXk"
+    },
+    {
+      "id": "azTYEkhZUqI",
+      "title": "外ヶ浜町「む～もん館へお越しください」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/azTYEkhZUqI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=azTYEkhZUqI"
+    },
+    {
+      "id": "eucCTuUr-EQ",
+      "title": "八戸市「人と人がつながる場所」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/eucCTuUr-EQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eucCTuUr-EQ"
+    },
+    {
+      "id": "fMinFEqfg44",
+      "title": "大間町「大間の夏　海の声　波の下に宿れるなり」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/fMinFEqfg44/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fMinFEqfg44"
+    },
+    {
+      "id": "h7fdsNVvFVE",
+      "title": "東北町「飲んでスマイル　身体にスマイル」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/h7fdsNVvFVE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=h7fdsNVvFVE"
+    },
+    {
+      "id": "kccL8oFlVww",
+      "title": "階上町「『ひかり生す』まち、階上町」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/kccL8oFlVww/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kccL8oFlVww"
+    },
+    {
+      "id": "lLVNyq1Gg9k",
+      "title": "黒石市「和のまち　黒石」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/lLVNyq1Gg9k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lLVNyq1Gg9k"
+    },
+    {
+      "id": "oVLJ5VlezEk",
+      "title": "南部町「子育てするなら、子育てにやさしいまち南部町」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/oVLJ5VlezEk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oVLJ5VlezEk"
+    },
+    {
+      "id": "ub-K0Q7vFek",
+      "title": "「空の安全を守る！」保安検査員の一日に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/ub-K0Q7vFek/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ub-K0Q7vFek"
+    },
+    {
+      "id": "9M6ofPXBryg",
+      "title": "軽トラの車内から　＃３１．だじゃん",
+      "thumbnail": "https://i.ytimg.com/vi/9M6ofPXBryg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9M6ofPXBryg"
+    },
+    {
+      "id": "PobzWWICACQ",
+      "title": "軽トラの車内から　＃３０．かけひき上手",
+      "thumbnail": "https://i.ytimg.com/vi/PobzWWICACQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PobzWWICACQ"
+    },
+    {
+      "id": "y7Omaa09RpY",
+      "title": "「大切な瞬間に寄り添う！」お花屋さんの一日に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/y7Omaa09RpY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=y7Omaa09RpY"
+    },
+    {
+      "id": "BtjGQJ_A03o",
+      "title": "軽トラの車内から　＃２９．八戸さぁ",
+      "thumbnail": "https://i.ytimg.com/vi/BtjGQJ_A03o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BtjGQJ_A03o"
+    },
+    {
+      "id": "PHlnSNNOT4E",
+      "title": "【本人コメント】MIKAGE PROJECT “壮途“ TOUR 2025 in青森",
+      "thumbnail": "https://i.ytimg.com/vi/PHlnSNNOT4E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PHlnSNNOT4E"
+    },
+    {
+      "id": "do3sIlbF6so",
+      "title": "軽トラの車内から　＃２８．乙女のたしなみ",
+      "thumbnail": "https://i.ytimg.com/vi/do3sIlbF6so/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=do3sIlbF6so"
+    },
+    {
+      "id": "3nCg-Lcmhko",
+      "title": "軽トラの車内から　＃２７．軽トラあるある、その１",
+      "thumbnail": "https://i.ytimg.com/vi/3nCg-Lcmhko/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3nCg-Lcmhko"
+    },
+    {
+      "id": "nSIXz7HSvSc",
+      "title": "ヴァンラーレ八戸を支えるスタッフの一日に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/nSIXz7HSvSc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nSIXz7HSvSc"
+    },
+    {
+      "id": "0wtT3rVt9P8",
+      "title": "軽トラの車内から　＃２６．王林、写真集への想い",
+      "thumbnail": "https://i.ytimg.com/vi/0wtT3rVt9P8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0wtT3rVt9P8"
+    },
+    {
+      "id": "ygB1V4-4-H0",
+      "title": "軽トラの車内から　＃２５．のげ？",
+      "thumbnail": "https://i.ytimg.com/vi/ygB1V4-4-H0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ygB1V4-4-H0"
+    },
+    {
+      "id": "z-w-bHrqZN4",
+      "title": "【本人コメント】人間国宝 歌舞伎俳優　坂東玉三郎～お話と素踊り～　青森公演",
+      "thumbnail": "https://i.ytimg.com/vi/z-w-bHrqZN4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=z-w-bHrqZN4"
+    },
+    {
+      "id": "rnZg1WijYHA",
+      "title": "「青森の伝統工芸品を次世代へ！」ガラス職人の一日に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/rnZg1WijYHA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rnZg1WijYHA"
+    },
+    {
+      "id": "9yEx3KU87oU",
+      "title": "軽トラの車内から　＃２４．地方出身者のギモン",
+      "thumbnail": "https://i.ytimg.com/vi/9yEx3KU87oU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9yEx3KU87oU"
+    },
+    {
+      "id": "b2bpWaqacyY",
+      "title": "軽トラの車内から　＃２３．ジェネレーションギャップ",
+      "thumbnail": "https://i.ytimg.com/vi/b2bpWaqacyY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=b2bpWaqacyY"
+    },
+    {
+      "id": "w82s57RKSBM",
+      "title": "母と子の命を守る！助産師の一日に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/w82s57RKSBM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=w82s57RKSBM"
+    },
+    {
+      "id": "52frdeUz7ko",
+      "title": "ポケモン×工芸展ー美とわざの大発見ー　八戸市美術館で８月３１日（日）まで開催中！　工藝美術家・池田晃将インタビュー",
+      "thumbnail": "https://i.ytimg.com/vi/52frdeUz7ko/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=52frdeUz7ko"
+    },
+    {
+      "id": "KGFtTJn7Muc",
+      "title": "ポケモン×工芸展ー美とわざの大発見ー　八戸市美術館で８月３１日（日）まで開催中！　彫金作家・吉田泰一郎インタビュー",
+      "thumbnail": "https://i.ytimg.com/vi/KGFtTJn7Muc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KGFtTJn7Muc"
+    },
+    {
+      "id": "fEo0lVJjbfU",
+      "title": "【本人コメント】さだまさしコンサートツアー2025　生命の樹～Tree of Life～　青森公演",
+      "thumbnail": "https://i.ytimg.com/vi/fEo0lVJjbfU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fEo0lVJjbfU"
+    },
+    {
+      "id": "HYexbb2wnBQ",
+      "title": "軽トラの車内から　＃２２．　粉雪、ねぇ、",
+      "thumbnail": "https://i.ytimg.com/vi/HYexbb2wnBQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HYexbb2wnBQ"
+    },
+    {
+      "id": "6rB4PYdw0oI",
+      "title": "軽トラの車内から　＃２１．軽トラ、道に迷う",
+      "thumbnail": "https://i.ytimg.com/vi/6rB4PYdw0oI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6rB4PYdw0oI"
+    },
+    {
+      "id": "ZnKoP4XeBsg",
+      "title": "軽トラの車内から　＃２０．大きなワニ",
+      "thumbnail": "https://i.ytimg.com/vi/ZnKoP4XeBsg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZnKoP4XeBsg"
+    },
+    {
+      "id": "nBPSfcCMilI",
+      "title": "「発明大好き少女からものづくりの仕事へ」計装エンジニアの一日に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/nBPSfcCMilI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nBPSfcCMilI"
+    },
+    {
+      "id": "_ZwtiA4KS98",
+      "title": "軽トラの車内から　＃１９．シートは直角90度",
+      "thumbnail": "https://i.ytimg.com/vi/_ZwtiA4KS98/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_ZwtiA4KS98"
+    },
+    {
+      "id": "hW9kdrHDJSk",
+      "title": "軽トラの車内から　＃１８．アテンドします",
+      "thumbnail": "https://i.ytimg.com/vi/hW9kdrHDJSk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hW9kdrHDJSk"
+    },
+    {
+      "id": "tFqFcjUUbXc",
+      "title": "軽トラの車内から　＃１７．青森県普及振興活動",
+      "thumbnail": "https://i.ytimg.com/vi/tFqFcjUUbXc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tFqFcjUUbXc"
+    },
+    {
+      "id": "qMs_uynkM54",
+      "title": "青森駅前ライブ配信　Live Camera at Aomori Station",
+      "thumbnail": "https://i.ytimg.com/vi/qMs_uynkM54/maxresdefault_live.jpg",
+      "url": "https://www.youtube.com/watch?v=qMs_uynkM54"
+    },
+    {
+      "id": "zop4EZr4fgs",
+      "title": "「海に生きる、海と生きる」私たちの食を支える漁師に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/zop4EZr4fgs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zop4EZr4fgs"
+    },
+    {
+      "id": "gdKlSxmXdl4",
+      "title": "軽トラの車内から　＃１６．料理上手な王林さん",
+      "thumbnail": "https://i.ytimg.com/vi/gdKlSxmXdl4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gdKlSxmXdl4"
+    },
+    {
+      "id": "QdG1lcfWNuE",
+      "title": "軽トラの車内から　＃１５．続　想像してください",
+      "thumbnail": "https://i.ytimg.com/vi/QdG1lcfWNuE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QdG1lcfWNuE"
+    },
+    {
+      "id": "ypx_itPkW1U",
+      "title": "【DRUM TAO】2025新作舞台「THE BEST」八戸公演に向けてメンバーからコメント",
+      "thumbnail": "https://i.ytimg.com/vi/ypx_itPkW1U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ypx_itPkW1U"
+    },
+    {
+      "id": "Vru89-bH1Y8",
+      "title": "「こどもたちと学び、成長する」３年目の若手教師に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/Vru89-bH1Y8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Vru89-bH1Y8"
+    },
+    {
+      "id": "0y6T-oLxC8g",
+      "title": "軽トラの車内から　＃１４．あおもりの雪",
+      "thumbnail": "https://i.ytimg.com/vi/0y6T-oLxC8g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0y6T-oLxC8g"
+    },
+    {
+      "id": "VWZwOK7jH1U",
+      "title": "軽トラの車内から　＃１３．あおもりグルメ",
+      "thumbnail": "https://i.ytimg.com/vi/VWZwOK7jH1U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VWZwOK7jH1U"
+    },
+    {
+      "id": "5Mane7Cdqzk",
+      "title": "青森空港ライブ配信",
+      "thumbnail": "https://i.ytimg.com/vi/5Mane7Cdqzk/sddefault_live.jpg",
+      "url": "https://www.youtube.com/watch?v=5Mane7Cdqzk"
+    },
+    {
+      "id": "UCet1Z6CTk0",
+      "title": "おしゃれも建築もお任せ！大工女子の建築現場に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/UCet1Z6CTk0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UCet1Z6CTk0"
+    },
+    {
+      "id": "bbGUsC8QLiI",
+      "title": "軽トラの車内から　＃12．",
+      "thumbnail": "https://i.ytimg.com/vi/bbGUsC8QLiI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bbGUsC8QLiI"
+    },
+    {
+      "id": "S4rn5t2_u-g",
+      "title": "軽トラの車内から　＃11．青森のプライド",
+      "thumbnail": "https://i.ytimg.com/vi/S4rn5t2_u-g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S4rn5t2_u-g"
+    },
+    {
+      "id": "sHWWeWbR0pA",
+      "title": "軽トラの車内から　＃10．想像してください（後編）",
+      "thumbnail": "https://i.ytimg.com/vi/sHWWeWbR0pA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sHWWeWbR0pA"
+    },
+    {
+      "id": "6qquI4AnvZg",
+      "title": "軽トラの車内から　＃９．想像してください（前編）",
+      "thumbnail": "https://i.ytimg.com/vi/6qquI4AnvZg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6qquI4AnvZg"
+    },
+    {
+      "id": "Fwg65wwlV2E",
+      "title": "リハビリの専門家！患者やスポーツ選手に寄り添う理学療法士に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/Fwg65wwlV2E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fwg65wwlV2E"
+    },
+    {
+      "id": "YPD6F12hIG0",
+      "title": "軽トラの車内から　＃８．イメージトレーニング",
+      "thumbnail": "https://i.ytimg.com/vi/YPD6F12hIG0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YPD6F12hIG0"
+    },
+    {
+      "id": "RmFrgik2DbA",
+      "title": "軽トラの車内から　＃７．最高じゃん！",
+      "thumbnail": "https://i.ytimg.com/vi/RmFrgik2DbA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RmFrgik2DbA"
+    },
+    {
+      "id": "sm8MAAZhPsk",
+      "title": "軽トラの車内から　＃６．青森の人って・・・",
+      "thumbnail": "https://i.ytimg.com/vi/sm8MAAZhPsk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sm8MAAZhPsk"
+    },
+    {
+      "id": "ye3Dz6zfNrQ",
+      "title": "軽トラの車内から　＃５．お悩み",
+      "thumbnail": "https://i.ytimg.com/vi/ye3Dz6zfNrQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ye3Dz6zfNrQ"
+    },
+    {
+      "id": "3QmASZfE5AQ",
+      "title": "【ABA青森朝日放送】2026年度社員募集「挑戦したいキミと、仲間になりたい。」",
+      "thumbnail": "https://i.ytimg.com/vi/3QmASZfE5AQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3QmASZfE5AQ"
+    },
+    {
+      "id": "yvO4Ro3fPmE",
+      "title": "青森犬の健康を守る！ワンちゃんファーストのトリマーに密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/yvO4Ro3fPmE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yvO4Ro3fPmE"
+    },
+    {
+      "id": "pTmbrCtd-eM",
+      "title": "軽トラの車内から　＃４．スタッふ～！",
+      "thumbnail": "https://i.ytimg.com/vi/pTmbrCtd-eM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pTmbrCtd-eM"
+    },
+    {
+      "id": "YjdOpua1azM",
+      "title": "軽トラの車内から　＃３．オープンカー",
+      "thumbnail": "https://i.ytimg.com/vi/YjdOpua1azM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YjdOpua1azM"
+    },
+    {
+      "id": "5gRNj3tWAzU",
+      "title": "軽トラの車内から　＃２．ドライビングテクニック",
+      "thumbnail": "https://i.ytimg.com/vi/5gRNj3tWAzU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5gRNj3tWAzU"
+    },
+    {
+      "id": "tLv96wXcCmA",
+      "title": "軽トラの車内から　＃１．農家の軽トラ",
+      "thumbnail": "https://i.ytimg.com/vi/tLv96wXcCmA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tLv96wXcCmA"
+    },
+    {
+      "id": "Cr_uYF6TwSs",
+      "title": "森を作り森を育てる林業技術者の１日に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/Cr_uYF6TwSs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Cr_uYF6TwSs"
+    },
+    {
+      "id": "yHfRwMvIcdY",
+      "title": "【パティシエに密着】町のケーキ屋さんの若き職人　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/yHfRwMvIcdY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yHfRwMvIcdY"
+    },
+    {
+      "id": "xIkJbOYYF-o",
+      "title": "今別町「子どもの声が響く町」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/xIkJbOYYF-o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xIkJbOYYF-o"
+    },
+    {
+      "id": "yjTCFoYZUtY",
+      "title": "三戸町「祭りを知らせる音がする」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/yjTCFoYZUtY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yjTCFoYZUtY"
+    },
+    {
+      "id": "zmdcQDRG0_Q",
+      "title": "野辺地町「想い受け継ぐ　私たちの寄港地」－第23回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/zmdcQDRG0_Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zmdcQDRG0_Q"
+    },
+    {
+      "id": "b_g9-d0B1m0",
+      "title": "函館から90分！津軽海峡フェリーで行く!! 青森・大間・下北半島への旅",
+      "thumbnail": "https://i.ytimg.com/vi/b_g9-d0B1m0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=b_g9-d0B1m0"
+    },
+    {
+      "id": "oCySmDCOI-8",
+      "title": "【ASMR第２弾】青森グルメの音を聞こう～入社１４年目中井アナ＆新人福代アナによる笑いっぱなしガチトーク！実は似た者同士！？～",
+      "thumbnail": "https://i.ytimg.com/vi/oCySmDCOI-8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oCySmDCOI-8"
+    },
+    {
+      "id": "romiHtvb26I",
+      "title": "【ASMR第１弾】青森グルメの気になる音たち～入社９年目藤原アナ＆入社１年目寺崎アナがお互いの気になることをガチトーク！～",
+      "thumbnail": "https://i.ytimg.com/vi/romiHtvb26I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=romiHtvb26I"
+    },
+    {
+      "id": "LWNiKOBseIM",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会4日目　第11・12コート",
+      "thumbnail": "https://i.ytimg.com/vi/LWNiKOBseIM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LWNiKOBseIM"
+    },
+    {
+      "id": "gApM9QxBHCs",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会4日目　第9・10コート",
+      "thumbnail": "https://i.ytimg.com/vi/gApM9QxBHCs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gApM9QxBHCs"
+    },
+    {
+      "id": "pfF_4sXSOmk",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会4日目　第5・6コート",
+      "thumbnail": "https://i.ytimg.com/vi/pfF_4sXSOmk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pfF_4sXSOmk"
+    },
+    {
+      "id": "I9HUX6UN8hs",
+      "title": "【優勝決定戦ライブ配信】【バドミントン】オールジャパン（U-22）ダイヤモンドカップ2024　大会4日目　第1コート・筑波大×龍谷大　第2コート・明治大×柳井商工",
+      "thumbnail": "https://i.ytimg.com/vi/I9HUX6UN8hs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=I9HUX6UN8hs"
+    },
+    {
+      "id": "egdozuRPGlY",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会4日目　第3・4コート",
+      "thumbnail": "https://i.ytimg.com/vi/egdozuRPGlY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=egdozuRPGlY"
+    },
+    {
+      "id": "MQKDVrU7wrU",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会4日目　第7・8コート",
+      "thumbnail": "https://i.ytimg.com/vi/MQKDVrU7wrU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MQKDVrU7wrU"
+    },
+    {
+      "id": "3QDo2p6LhNQ",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会3日目　第5・6コート",
+      "thumbnail": "https://i.ytimg.com/vi/3QDo2p6LhNQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3QDo2p6LhNQ"
+    },
+    {
+      "id": "jYGvnJV__L0",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会3日目　第7・8コート",
+      "thumbnail": "https://i.ytimg.com/vi/jYGvnJV__L0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jYGvnJV__L0"
+    },
+    {
+      "id": "EfKL6QO587U",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会3日目　第11・12コート",
+      "thumbnail": "https://i.ytimg.com/vi/EfKL6QO587U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EfKL6QO587U"
+    },
+    {
+      "id": "GnB77C3Tu2U",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会3日目　第1・2コート",
+      "thumbnail": "https://i.ytimg.com/vi/GnB77C3Tu2U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GnB77C3Tu2U"
+    },
+    {
+      "id": "Cnw7kn9bdEo",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会3日目　第3・4コート",
+      "thumbnail": "https://i.ytimg.com/vi/Cnw7kn9bdEo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Cnw7kn9bdEo"
+    },
+    {
+      "id": "NZXxqzOfxKE",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会3日目　第9・10コート",
+      "thumbnail": "https://i.ytimg.com/vi/NZXxqzOfxKE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NZXxqzOfxKE"
+    },
+    {
+      "id": "yT2MgYzWF5M",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会2日目　第5・6コート",
+      "thumbnail": "https://i.ytimg.com/vi/yT2MgYzWF5M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yT2MgYzWF5M"
+    },
+    {
+      "id": "Qz1rJ-Fy5lU",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会2日目　第11・12コート",
+      "thumbnail": "https://i.ytimg.com/vi/Qz1rJ-Fy5lU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Qz1rJ-Fy5lU"
+    },
+    {
+      "id": "0C54Z5fRS0o",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会2日目　第7・8コート",
+      "thumbnail": "https://i.ytimg.com/vi/0C54Z5fRS0o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0C54Z5fRS0o"
+    },
+    {
+      "id": "ECAnX25gD7o",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会2日目　第1・2コート",
+      "thumbnail": "https://i.ytimg.com/vi/ECAnX25gD7o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ECAnX25gD7o"
+    },
+    {
+      "id": "BgQb1zMXFaA",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会2日目　第3・4コート",
+      "thumbnail": "https://i.ytimg.com/vi/BgQb1zMXFaA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BgQb1zMXFaA"
+    },
+    {
+      "id": "K1ZqGExcmUQ",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会2日目　第9・10コート",
+      "thumbnail": "https://i.ytimg.com/vi/K1ZqGExcmUQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=K1ZqGExcmUQ"
+    },
+    {
+      "id": "7Nzx8GWoe8c",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会1日目　第7・8コート",
+      "thumbnail": "https://i.ytimg.com/vi/7Nzx8GWoe8c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7Nzx8GWoe8c"
+    },
+    {
+      "id": "grjY5evrYc0",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会1日目　第3・4コート",
+      "thumbnail": "https://i.ytimg.com/vi/grjY5evrYc0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=grjY5evrYc0"
+    },
+    {
+      "id": "dVTcNeJt7BE",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会1日目　第11・12コート",
+      "thumbnail": "https://i.ytimg.com/vi/dVTcNeJt7BE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dVTcNeJt7BE"
+    },
+    {
+      "id": "ob2afugFuqw",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会1日目　第9・10コート",
+      "thumbnail": "https://i.ytimg.com/vi/ob2afugFuqw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ob2afugFuqw"
+    },
+    {
+      "id": "gl1mB3NzaDw",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会1日目　第1・2コート",
+      "thumbnail": "https://i.ytimg.com/vi/gl1mB3NzaDw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gl1mB3NzaDw"
+    },
+    {
+      "id": "1GjuY4qydAM",
+      "title": "【バドミントン・ライブ配信】オールジャパン（U-22）ダイヤモンドカップ2024　大会1日目　第5・6コート",
+      "thumbnail": "https://i.ytimg.com/vi/1GjuY4qydAM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1GjuY4qydAM"
+    },
+    {
+      "id": "-H9eFz9DPrk",
+      "title": "【アナウンサー企画再始動】手作りの仮装で本番出てみた！？「ハレのちあした」4時台コンビの本番前の様子もチラ見せっ",
+      "thumbnail": "https://i.ytimg.com/vi/-H9eFz9DPrk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-H9eFz9DPrk"
+    },
+    {
+      "id": "PQxKOHIurMY",
+      "title": "【ハレのちリサーチ】Hakobuneって何？",
+      "thumbnail": "https://i.ytimg.com/vi/PQxKOHIurMY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PQxKOHIurMY"
+    },
+    {
+      "id": "E65HVP6N3zg",
+      "title": "【北海道旅行】津軽女子＆台湾女子の旅～室蘭・洞爺湖・登別～",
+      "thumbnail": "https://i.ytimg.com/vi/E65HVP6N3zg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E65HVP6N3zg"
+    },
+    {
+      "id": "7ZhZVayQnP0",
+      "title": "岩木山の麓で癒し旅～1日1組限定ホテル＆よしもと芸人・あべこうじが復活させた温泉～",
+      "thumbnail": "https://i.ytimg.com/vi/7ZhZVayQnP0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7ZhZVayQnP0"
+    },
+    {
+      "id": "ism5HLvbWNA",
+      "title": "【アーカイブ】７月６日開催「tupera tuperaのかおてん.」トークイベント",
+      "thumbnail": "https://i.ytimg.com/vi/ism5HLvbWNA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ism5HLvbWNA"
+    },
+    {
+      "id": "VjJm3pv6xdU",
+      "title": "百沢温泉 再生物語　＃３ 思いがけない来客＆高橋愛が壁を塗る",
+      "thumbnail": "https://i.ytimg.com/vi/VjJm3pv6xdU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VjJm3pv6xdU"
+    },
+    {
+      "id": "gALU9JERMtU",
+      "title": "百沢温泉 再生物語　＃２ ＯＧＡ引っ越し＆高橋愛が青森へ",
+      "thumbnail": "https://i.ytimg.com/vi/gALU9JERMtU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gALU9JERMtU"
+    },
+    {
+      "id": "YxL7kkmW7Vc",
+      "title": "百沢温泉 再生物語　＃１ 源泉の状態を確認しよう",
+      "thumbnail": "https://i.ytimg.com/vi/YxL7kkmW7Vc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YxL7kkmW7Vc"
+    },
+    {
+      "id": "e7Lec4AJVVo",
+      "title": "百沢温泉 再生物語　＃０ あべこうじ、温泉を買う",
+      "thumbnail": "https://i.ytimg.com/vi/e7Lec4AJVVo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=e7Lec4AJVVo"
+    },
+    {
+      "id": "XQpnLSXHN74",
+      "title": "ハレのちあした（藤井フミヤ出演回）",
+      "thumbnail": "https://i.ytimg.com/vi/XQpnLSXHN74/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XQpnLSXHN74"
+    },
+    {
+      "id": "N_JesEfHEwI",
+      "title": "11月27日「ハレのちリサーチ！青森型マイクロツーリズム（中泊町・今別町）」",
+      "thumbnail": "https://i.ytimg.com/vi/N_JesEfHEwI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N_JesEfHEwI"
+    },
+    {
+      "id": "ZsmBTndTGr0",
+      "title": "まちに笑顔を～十和田高校会議所の取り組み～（ロングver.）",
+      "thumbnail": "https://i.ytimg.com/vi/ZsmBTndTGr0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZsmBTndTGr0"
+    },
+    {
+      "id": "kxq2GdMuDQY",
+      "title": "今別町「再開と再会」－第22回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/kxq2GdMuDQY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kxq2GdMuDQY"
+    },
+    {
+      "id": "mipC82Ei00U",
+      "title": "つがる市「あなたも愛にきませんか」－第22回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/mipC82Ei00U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mipC82Ei00U"
+    },
+    {
+      "id": "p5nkWpmnx7g",
+      "title": "階上町「朝日を見に行こう階上町！」－第22回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/p5nkWpmnx7g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p5nkWpmnx7g"
+    },
+    {
+      "id": "qrnvRx4-Nl4",
+      "title": "板柳町「過疎の町と星の交流記」－第22回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/qrnvRx4-Nl4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qrnvRx4-Nl4"
+    },
+    {
+      "id": "t8KphdiwcQ4",
+      "title": "東通村「見つめるさきへ」－第22回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/t8KphdiwcQ4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=t8KphdiwcQ4"
+    },
+    {
+      "id": "tvT6ZKegFP4",
+      "title": "外ヶ浜町「外ヶ浜町のつくりかた」－第22回ふるさと自慢わがまちＣＭ大賞",
+      "thumbnail": "https://i.ytimg.com/vi/tvT6ZKegFP4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tvT6ZKegFP4"
+    },
+    {
+      "id": "3iGbxbVK6C0",
+      "title": "青森りんごを盛り上げる！りんごでお酒をつくるお仕事の一日に密着　みらい☆ルーキー",
+      "thumbnail": "https://i.ytimg.com/vi/3iGbxbVK6C0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3iGbxbVK6C0"
+    },
+    {
+      "id": "FBHewwrtXz8",
+      "title": "軽トラの車内から　＃３３．パワスポ",
+      "thumbnail": "https://i.ytimg.com/vi/FBHewwrtXz8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FBHewwrtXz8"
+    },
+    {
+      "id": "-s__nVv2WJI",
+      "title": "軽トラの車内から　＃３２．恋",
+      "thumbnail": "https://i.ytimg.com/vi/-s__nVv2WJI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-s__nVv2WJI"
+    },
+    {
+      "id": "oEGlFed2V7o",
+      "title": "平沼日菜子の旅するハレのちin　台湾　＃２",
+      "thumbnail": "https://i.ytimg.com/vi/oEGlFed2V7o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oEGlFed2V7o"
+    },
+    {
+      "id": "4qvjmv_ixrg",
+      "title": "平沼日菜子の旅するハレのちin　台湾　＃１",
+      "thumbnail": "https://i.ytimg.com/vi/4qvjmv_ixrg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4qvjmv_ixrg"
+    },
+    {
+      "id": "QgRteQq6aDc",
+      "title": "鰺ヶ沢町で大人気のフードフェス！　あどばるーん・新山大が推しヅケ丼を調査",
+      "thumbnail": "https://i.ytimg.com/vi/QgRteQq6aDc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QgRteQq6aDc"
+    },
+    {
+      "id": "vNT8qp-bz9w",
+      "title": "【DRUM TAO】2025新作舞台「THE BEST」青森公演に向けてメンバーからコメント",
+      "thumbnail": "https://i.ytimg.com/vi/vNT8qp-bz9w/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vNT8qp-bz9w"
     }
   ]
 }
