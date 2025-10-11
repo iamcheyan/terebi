@@ -547,12 +547,6 @@
                 "cached": true
             },
             {
-                "name": "山口放送（KRY）",
-                "url": "https://www.youtube.com/@KRYChannel",
-                "bakname": "KRY山口放送公式チャンネル",
-                "cached": true
-            },
-            {
                 "name": "テレビ山口（tys）",
                 "url": "https://www.youtube.com/@tysTVyamaguchi",
                 "bakname": "テレビ山口_tys_",
@@ -568,13 +562,6 @@
                 "name": "yab山口ニュース",
                 "url": "https://www.youtube.com/@yab_news",
                 "cached": true
-            },
-            {
-                "name": "山陰放送（BSS）",
-                "url": "https://www.youtube.com/@BSS6",
-                "bakname": "BSS山陰放送ラッテチャンネル",
-                "skip": true,
-                "cached": false
             },
             {
                 "name": "日本海テレビ（NKT）",
@@ -834,31 +821,6 @@
                 "url": "https://www.youtube.com/@Doraemon_F_Channel",
                 "skip": true,
                 "cached": true
-            },
-            {
-                "name": "TMSアニメ公式チャンネル【アニメ制作60周年】",
-                "url": "",
-                "cached": false
-            },
-            {
-                "name": "文部科学省",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "山口放送_KRY_",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "ドラえもん __ 藤子_F_不二雄チャンネル",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "汐音る",
-                "url": "https://www.youtube.com/@shioneru",
-                "cached": false
             }
         ]
     }
