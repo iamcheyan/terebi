@@ -33,7 +33,7 @@ def run_with_venv(cmd, cwd=None):
 
 
 def git_commit():
-    """提交更改到 git"""
+    """提交更改到 git 并推送到远程仓库"""
     try:
         # 检查是否有更改需要提交
         result = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
@@ -50,19 +50,30 @@ def git_commit():
         
         # 提交更改
         subprocess.run(['git', 'commit', '-m', commit_message], check=True)
+        print(f"✅ 已提交到本地 git: {commit_message}")
         
-        print(f"✅ 已提交到 git: {commit_message}")
-        return True
+        # 推送到远程仓库
+        print("正在推送到远程仓库...")
+        push_result = subprocess.run(['git', 'push'], capture_output=True, text=True)
+        
+        if push_result.returncode == 0:
+            print("✅ 已成功推送到远程仓库")
+            return True
+        else:
+            print(f"⚠️ 推送到远程仓库失败: {push_result.stderr}")
+            print("本地提交已成功，但远程同步失败")
+            print("请检查网络连接和远程仓库配置")
+            return False
         
     except subprocess.CalledProcessError as e:
-        print(f"❌ Git 提交失败: {e}")
+        print(f"❌ Git 操作失败: {e}")
         print("请检查 git 配置和网络连接")
         return False
     except FileNotFoundError:
         print("❌ 未找到 git 命令，请确保已安装 git")
         return False
     except Exception as e:
-        print(f"❌ 提交过程中出现错误: {e}")
+        print(f"❌ 操作过程中出现错误: {e}")
         return False
 
 
