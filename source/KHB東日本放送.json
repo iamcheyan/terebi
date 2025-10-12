@@ -2,35 +2,35 @@
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "khb東日本放送",
   "original_name": "KHB東日本放送",
-  "updated_at": "2025-10-12T00:01:52.670848",
+  "updated_at": "2025-10-13T00:01:44.107373",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "Vf4_jSWmDT6av_ajgEGPqS1WZWc",
-      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLkVLdVhCT25ocTQw",
+      "etag": "nVZTuYExSsvPXbf75oFryVN2rZo",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLnJRS05YU09oU0Y4",
       "snippet": {
-        "publishedAt": "2025-10-11T09:14:13Z",
+        "publishedAt": "2025-10-12T07:53:02Z",
         "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
-        "title": "空港や飛行機の魅力に触れる「仙台空港祭」　多くの親子連れでにぎわう",
-        "description": "仙台空港の魅力に触れてもらおうというイベントが１１日開かれ、多くの親子連れなどで賑わいました。",
+        "title": "２０１９年台風１９号豪雨災害から６年　宮城・丸森町で追悼式",
+        "description": "２０１９年の台風１９号の豪雨災害から１２日で６年です。大きな被害の出た宮城県丸森町では追悼式が開かれました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EKuXBOnhq40/default.jpg",
+            "url": "https://i.ytimg.com/vi/rQKNXSOhSF8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EKuXBOnhq40/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rQKNXSOhSF8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EKuXBOnhq40/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rQKNXSOhSF8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/EKuXBOnhq40/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/rQKNXSOhSF8/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -40,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "EKuXBOnhq40"
+          "videoId": "rQKNXSOhSF8"
         },
         "videoOwnerChannelTitle": "khb東日本放送",
         "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
@@ -48,31 +48,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PzxDBaSBliHK0dPx2WhjttaXlJA",
-      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLkltTlozOVBsWjdr",
+      "etag": "Cg4MEc-bIZDFN-H3VEyNYGA0d-M",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLmZrZWllTzNueXpN",
       "snippet": {
-        "publishedAt": "2025-10-11T09:12:15Z",
+        "publishedAt": "2025-10-12T03:32:11Z",
         "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
-        "title": "雨にも負けず白熱の演舞　第２８回仙台みちのくＹＯＳＡＫＯＩまつり",
-        "description": "仙台の秋の風物詩「みちのくＹＯＳＡＫＯＩまつり」が２日間の日程で開幕しました。",
+        "title": "「バリバリと音、黒いのがいて･･･」　民家にクマ　保冷庫のもち米食べて去る　仙台市泉区",
+        "description": "１２日午前０時過ぎ、仙台市泉区福岡の民家でクマにコメの保冷庫が荒らされる被害がありました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ImNZ39PlZ7k/default.jpg",
+            "url": "https://i.ytimg.com/vi/fkeieO3nyzM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ImNZ39PlZ7k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fkeieO3nyzM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ImNZ39PlZ7k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/fkeieO3nyzM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ImNZ39PlZ7k/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/fkeieO3nyzM/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -82,7 +82,49 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ImNZ39PlZ7k"
+          "videoId": "fkeieO3nyzM"
+        },
+        "videoOwnerChannelTitle": "khb東日本放送",
+        "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nONyzv74oLeRZsnv9fvygqpi-xc",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLjdwMTlWM3g0YmZz",
+      "snippet": {
+        "publishedAt": "2025-10-12T03:26:05Z",
+        "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
+        "title": "サンマ炭火焼き１万匹振る舞う　水揚げ好調で８年ぶり「箱売り」も　おながわ秋の収獲祭　宮城",
+        "description": "全国有数のサンマの水揚げを誇る宮城県女川町で「秋の収獲祭」が開かれ、多くの人で賑わっています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7p19V3x4bfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7p19V3x4bfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7p19V3x4bfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7p19V3x4bfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "khb東日本放送",
+        "playlistId": "UUkW_baVbq6aGPWeYY4hOPCA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7p19V3x4bfs"
         },
         "videoOwnerChannelTitle": "khb東日本放送",
         "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"

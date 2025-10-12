@@ -2,40 +2,40 @@
   "channel_id": "UCk0ErOa1N6CXes8l81lrTUg",
   "channel_name": "RKB毎日放送公式チャンネル",
   "original_name": "RKB毎日放送",
-  "updated_at": "2025-10-12T00:02:49.631697",
+  "updated_at": "2025-10-13T00:02:36.515787",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "BLJB-W1k7ObYkZiujxO35vOM4GY",
-      "id": "VVVrMEVyT2ExTjZDWGVzOGw4MWxyVFVnLmZtMGZLNzQ5Ukw4",
+      "etag": "m7nyIlTuxyWAs_JE2disKMi-nVQ",
+      "id": "VVVrMEVyT2ExTjZDWGVzOGw4MWxyVFVnLkEzQXhSZTg1YTFF",
       "snippet": {
-        "publishedAt": "2025-10-11T13:01:31Z",
+        "publishedAt": "2025-10-12T02:30:08Z",
         "channelId": "UCk0ErOa1N6CXes8l81lrTUg",
-        "title": "GameChangers～変革者たち～｜2025年10月11日放送分　株式会社クラフティア",
-        "description": "この10月に九電工から社名変更した株式会社クラフティア。\n大きな変革を迎えるに至った経緯と今後の展望などを石橋和幸社長に語ってもらいます。\n\n--\n\n❒番組名\nGameChangers～変革者たち～\n\n❒番組概要\n大きな覚悟を持って変革に挑み続けている経営者たち。その成功の裏には、人知れない苦労や困難がたくさんあります。自分の人生、さらには企業を大きく変えた分岐点とはー？九州の企業をリードする“GameChangers”にスポットライトを当てる番組です。\n\n❒出演者（ナビゲーター）\n中上真亜子\n\n❒番組URL\nhttps://rkb.jp/tv/gamechangers/",
+        "title": "志、情熱企業｜2025年10月12日　株式会社共栄通信（北九州市小倉北区）",
+        "description": "【弱電設備の会社が新たな事業に挑戦！　安定経営のために開発したアプリとは】\n\n志、情熱企業\nhttps://rkb.jp/tv/jyonetsu/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fm0fK749RL8/default.jpg",
+            "url": "https://i.ytimg.com/vi/A3AxRe85a1E/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fm0fK749RL8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/A3AxRe85a1E/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fm0fK749RL8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/A3AxRe85a1E/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/fm0fK749RL8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/A3AxRe85a1E/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/fm0fK749RL8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/A3AxRe85a1E/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "fm0fK749RL8"
+          "videoId": "A3AxRe85a1E"
+        },
+        "videoOwnerChannelTitle": "RKB毎日放送公式チャンネル",
+        "videoOwnerChannelId": "UCk0ErOa1N6CXes8l81lrTUg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qExZgoCtfJ-grCVALasOzxsc_yU",
+      "id": "VVVrMEVyT2ExTjZDWGVzOGw4MWxyVFVnLndYR3NXQy1za2Jr",
+      "snippet": {
+        "publishedAt": "2025-10-11T20:30:08Z",
+        "channelId": "UCk0ErOa1N6CXes8l81lrTUg",
+        "title": "池尻和佳子のトコワカ｜2025年10月12日放送　九電産業株式会社　代表取締役社長　中野 隆さん",
+        "description": "九州全域で電気の安定供給を担う九州電力、これに付随する事業を支えるのが九電産業（株）。その事業とは？ ２０２５年６月に就任した中野 隆 社長に伺いました。\n\n池尻和佳子のトコワカ\nhttps://rkb.jp/tv/tokowaka/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wXGsWC-skbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wXGsWC-skbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wXGsWC-skbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wXGsWC-skbk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wXGsWC-skbk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RKB毎日放送公式チャンネル",
+        "playlistId": "UUk0ErOa1N6CXes8l81lrTUg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wXGsWC-skbk"
         },
         "videoOwnerChannelTitle": "RKB毎日放送公式チャンネル",
         "videoOwnerChannelId": "UCk0ErOa1N6CXes8l81lrTUg"

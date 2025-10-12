@@ -2,40 +2,40 @@
   "channel_id": "UCmBnPrnbYpbUZ10TMIlY9YA",
   "channel_name": "UX新潟ニュース",
   "original_name": "The Niigata Television Network 21",
-  "updated_at": "2025-10-12T00:04:59.360862",
+  "updated_at": "2025-10-13T00:04:42.796045",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "mXTvmsoDEKBEhrXufC9IXdv7CT0",
-      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLjQwS0g0WGVZcGxF",
+      "etag": "bMprysMeBrPvUjjA5KmIHmgS75A",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLkdUdDdVRUo4ZnBn",
       "snippet": {
-        "publishedAt": "2025-10-11T12:00:09Z",
+        "publishedAt": "2025-10-12T12:00:26Z",
         "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
-        "title": "中学校の部活動を“学校”から“地域”へ：長岡市で休日にスタート「部活動の地域移行」現状と課題は？",
+        "title": "1人の中学生の願いからはじまり10回目「トチオノアカリ」奮闘する学生に密着",
         "description": "#新潟 #UX新潟テレビ21",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/40KH4XeYplE/default.jpg",
+            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/40KH4XeYplE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/40KH4XeYplE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/40KH4XeYplE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/40KH4XeYplE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "40KH4XeYplE"
+          "videoId": "GTt7UEJ8fpg"
         },
         "videoOwnerChannelTitle": "UX新潟ニュース",
         "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
@@ -53,36 +53,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "M_QjelFL0nJZsbwQcdIzPEcTfYg",
-      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLk9qcmZnN0c5dlI0",
+      "etag": "rmxkmDK9WkzupjEym3JPSGxbuiI",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLm96T3RiUUt1b2Jj",
       "snippet": {
-        "publishedAt": "2025-10-11T11:00:45Z",
+        "publishedAt": "2025-10-12T11:01:28Z",
         "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
-        "title": "池袋暴走事故の遺族･松永拓也さん「誹謗中傷してしまった瞬間に自分が加害者になる」中学生に講演",
+        "title": "新たな指標「作況単収指数」を新設、コメの予想収穫量 前年産より増加見込み",
         "description": "#新潟 #UX新潟テレビ21",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ojrfg7G9vR4/default.jpg",
+            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ojrfg7G9vR4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ojrfg7G9vR4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Ojrfg7G9vR4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Ojrfg7G9vR4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -92,7 +92,54 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Ojrfg7G9vR4"
+          "videoId": "ozOtbQKuobc"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ezxlwj4S1hRYRgy8_FiRdgS6mOk",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLmZzckNPQlFCem9Z",
+      "snippet": {
+        "publishedAt": "2025-10-12T03:00:51Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "全国の切符をかけて！シニアが頂点を争う「ゲートボール」県大会を開催",
+        "description": "#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fsrCOBQBzoY"
         },
         "videoOwnerChannelTitle": "UX新潟ニュース",
         "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"

@@ -2,35 +2,35 @@
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "あいテレビ【公式】",
   "original_name": "itvあいテレビ",
-  "updated_at": "2025-10-12T00:02:46.358553",
+  "updated_at": "2025-10-13T00:02:33.357890",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "ASnuAXyqL3SU62ISZRAC4CRbbzY",
-      "id": "VVVYd3o0d2RjelFuT2ZMOFJBVUM4SWJnLnQ4eXZTYkRPQ3Bz",
+      "etag": "K5brvNX8_6Cn9G7GtLlukV21pHA",
+      "id": "VVVYd3o0d2RjelFuT2ZMOFJBVUM4SWJnLkFpZGo2S0xXRldn",
       "snippet": {
-        "publishedAt": "2025-10-11T11:30:55Z",
+        "publishedAt": "2025-10-12T11:32:03Z",
         "channelId": "UCXwz4wdczQnOfL8RAUC8Ibg",
-        "title": "愛媛のニュース(10月11日)",
-        "description": "00:00 起業やスタートアップを志す人材を育成「ビジフェスEHIME2025」開催  愛媛・松山市\r\n▼その他のニュースは「itv NEWS DIG Powered by JNN」へ！\r\nhttps://newsdig.tbs.co.jp/list/news/itv\r\n\r\n▼あいテレビHPはこちら\r\nhttps://www.itv6.jp/",
+        "title": "愛媛のニュース(10月12日)",
+        "description": "00:00 JR松山駅の商業施設「だんだん通り」1周年でイベント【愛媛・松山市】\r\n01:03 絵付けした皿で｢焼肉たべたい!｣道後温泉にある宝厳寺で｢砥部焼テント市｣【愛媛･松山市】\r\n02:38 2500人分の｢ジャンボきじ鍋｣も!愛媛県鬼北町最大のイベント｢でちこんか｣\r\n▼その他のニュースは「itv NEWS DIG Powered by JNN」へ！\r\nhttps://newsdig.tbs.co.jp/list/news/itv\r\n\r\n▼あいテレビHPはこちら\r\nhttps://www.itv6.jp/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/t8yvSbDOCps/default.jpg",
+            "url": "https://i.ytimg.com/vi/Aidj6KLWFWg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/t8yvSbDOCps/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Aidj6KLWFWg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/t8yvSbDOCps/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Aidj6KLWFWg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/t8yvSbDOCps/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Aidj6KLWFWg/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -40,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "t8yvSbDOCps"
+          "videoId": "Aidj6KLWFWg"
         },
         "videoOwnerChannelTitle": "あいテレビ【公式】",
         "videoOwnerChannelId": "UCXwz4wdczQnOfL8RAUC8Ibg"

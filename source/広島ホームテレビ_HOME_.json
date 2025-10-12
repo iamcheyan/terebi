@@ -2,37 +2,42 @@
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広テレ!公式チャンネル【広島テレビオンデマンド】",
   "original_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2025-10-12T00:00:23.292537",
+  "updated_at": "2025-10-13T00:00:37.549996",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "dtPyERM7laWA8OTuHLRYhWQ7f8k",
-      "id": "VVVpRzRYVFRUMl9tdmZUUEF0WEdUNHZRLk9FdDJFTmdKRTVV",
+      "etag": "XsvnbMzef83jt5nCMzLOcj2KZRM",
+      "id": "VVVpRzRYVFRUMl9tdmZUUEF0WEdUNHZRLmtfbVp6QVExNktZ",
       "snippet": {
-        "publishedAt": "2025-10-11T03:00:20Z",
+        "publishedAt": "2025-10-12T13:01:31Z",
         "channelId": "UCiG4XTTT2_mvfTPAtXGT4vQ",
-        "title": "【キッズチャレンジスタジアム】えいたくん＿広テレ",
-        "description": "気分はトップアスリート\n子どもたちがクロマキー空間でいろんな競技にチャレンジ\n未来のスターはここにいる！？\n\n#広テレ #子ども #kids #カープ #サンフレッチェ #体操\nHP\n⇒https://www.htv.jp/kcs/\n\nインスタ\n⇒https://www.instagram.com/stadium_555/\n\nTikTok\n⇒https://www.tiktok.com/@stadium555",
+        "title": "【馬場のぶえのひろしま脳トレ】第27回「地域子育て相談機関！妊婦や子育て中の家庭を支援！」",
+        "description": "今回のテーマは、「地域子育て相談機関」です。\n馬場のぶえさんが「こどもコーぷらざ西風新都」を訪れました。\n「地域子育て相談機関」は、妊婦や子育て中の人たちが、気軽に悩みや不安を相談できる場所です。保育士や保健師が常駐しており、月齢に応じた食べ方など子育てに関するアドバイスをしてくれるほか、地域の専門機関と橋渡しもしてくれます。\n詳しくは番組をご覧ください。\n（2025年10月12日放送）",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OEt2ENgJE5U/default.jpg",
+            "url": "https://i.ytimg.com/vi/k_mZzAQ16KY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OEt2ENgJE5U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k_mZzAQ16KY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OEt2ENgJE5U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k_mZzAQ16KY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/OEt2ENgJE5U/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/k_mZzAQ16KY/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k_mZzAQ16KY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
@@ -40,7 +45,44 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "OEt2ENgJE5U"
+          "videoId": "k_mZzAQ16KY"
+        },
+        "videoOwnerChannelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
+        "videoOwnerChannelId": "UCiG4XTTT2_mvfTPAtXGT4vQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eo95z8JFJnT53VYBaKAcpHqPfpM",
+      "id": "VVVpRzRYVFRUMl9tdmZUUEF0WEdUNHZRLkJmSWoxVkEwN1dv",
+      "snippet": {
+        "publishedAt": "2025-10-12T03:00:20Z",
+        "channelId": "UCiG4XTTT2_mvfTPAtXGT4vQ",
+        "title": "【キッズチャレンジスタジアム】かのあちゃん＿広テレ",
+        "description": "気分はトップアスリート\n子どもたちがクロマキー空間でいろんな競技にチャレンジ\n未来のスターはここにいる！？\n\n#広テレ #子ども #kids #カープ #サンフレッチェ  #体操\nHP\n⇒https://www.htv.jp/kcs/\n\nインスタ\n⇒https://www.instagram.com/stadium_555/\n\nTikTok\n⇒https://www.tiktok.com/@stadium555",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BfIj1VA07Wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BfIj1VA07Wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BfIj1VA07Wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
+        "playlistId": "UUiG4XTTT2_mvfTPAtXGT4vQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BfIj1VA07Wo"
         },
         "videoOwnerChannelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
         "videoOwnerChannelId": "UCiG4XTTT2_mvfTPAtXGT4vQ"

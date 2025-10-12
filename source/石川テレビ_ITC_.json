@@ -2,35 +2,35 @@
   "channel_id": "UCA5dBoYZe7dgvk4cTl5PLSg",
   "channel_name": "石川テレビ公式チャンネル",
   "original_name": "石川テレビ（ITC）",
-  "updated_at": "2025-10-12T00:01:01.293138",
+  "updated_at": "2025-10-13T00:01:06.653175",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "FbTJyf6xOScL23T9eKXFPSg_jDQ",
-      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLkY1b2d5dUlHeDhB",
+      "etag": "gjt06NwDtiawJlHPSJpgPInDIlA",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLlZEQW9aZk1xUDZV",
       "snippet": {
-        "publishedAt": "2025-10-11T09:35:26Z",
+        "publishedAt": "2025-10-12T09:19:33Z",
         "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
-        "title": "3連休初日…金沢市内では工芸や海外の食文化に触れるイベントが盛況 (2025年10月11日)",
-        "description": "3連休初日の11日金沢市内では伝統工芸や海外の食文化に触れるイベントが開かれました。\r\n\r\n金沢市のしいのき緑地としいのき迎賓館で開かれたのは工芸の魅力に触れられる「KOGEIフェスタ」。会場には若手作家の作品を販売する66店舗が並び、彫刻の体験ブースも…。\r\n\r\n体験した子供：\r\n削ったりして汚れとかとったり難しかったし、頑張ってやったから楽しかったです。\r\n\r\nまた金沢工業大学の学生が手がけた工芸とデジタル映像を組み合わせたアートも今年初めて展示されました。\r\n\r\n出店者：\r\nいらっしゃいませ\r\n\r\n一方、金沢市役所では海外の食文化に触れられるイベントが開かれ、インドネシアの家庭料理やアフリカのマラウイ共和国の雑貨の店などおよそ30店舗が軒を連ねました。\r\n\r\n訪れた人：\r\nいろんな国の人がたくさんいて知らない言語とかもいっぱいあるけど楽しいです。\r\n\r\nイベントはどちらも12日まで開かれます。",
+        "title": "石川・珠洲で2年ぶり『珠洲焼まつり』能登半島地震で窯が全壊するなど壊滅的被害から復活 (2025年10月12日)",
+        "description": "能登半島地震で大きな被害を受けた珠洲焼を一堂に集めた珠洲焼祭りが2年ぶりに開催されました。\r\n\r\n珠洲市の伝統的な焼き物である珠洲焼は、毎年、秋に作品を一堂に集めた珠洲焼祭りを開いてきました。しかし去年の能登半島地震で市内の窯が全て壊れるなど壊滅的な被害を受け、去年は開催できませんでした。\r\n\r\n今年は共同で使用する窯の修復が終わるなどそれぞれが作品を準備出来たことから2年ぶりの開催が実現しました。\r\n\r\n珠洲焼創炎会　篠原敬会長:\r\n「何かこう元気な姿を皆さんに見せてお返しをしたいとの声があがり開催できました。珠洲焼の復興が珠洲市の復興にもなると思うので先頭切って珠洲市の復興に尽くしたい。」\r\n\r\n会場には17人の作家が手がけた器や花瓶などおよそ2000点が並び多くの人たちが作品を買い求めていました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/F5ogyuIGx8A/default.jpg",
+            "url": "https://i.ytimg.com/vi/VDAoZfMqP6U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/F5ogyuIGx8A/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VDAoZfMqP6U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/F5ogyuIGx8A/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VDAoZfMqP6U/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/F5ogyuIGx8A/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/VDAoZfMqP6U/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -40,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "F5ogyuIGx8A"
+          "videoId": "VDAoZfMqP6U"
         },
         "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
         "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
@@ -48,38 +48,33 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "oGSh5OpLS8hCJZsAp6Q-YRRNqQU",
-      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLmNMdUVJbHh1QlYw",
+      "etag": "2ghg0AzUFZc-Pzrbn5pHaTxRrnI",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLldjaWt3bVhEX2Mw",
       "snippet": {
-        "publishedAt": "2025-10-11T08:30:17Z",
+        "publishedAt": "2025-10-12T09:18:23Z",
         "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
-        "title": "みまっし金沢「第59回金沢市立工業高等学校吹奏楽部定期演奏会」",
-        "description": "第59回金沢市立工業高等学校吹奏楽部定期演奏会についてご紹介します。\n\n金沢市広報  みまっし金沢\nhttps://www4.city.kanazawa.lg.jp/soshikikarasagasu/kohokochoka/gyomuannai/8/2/3/4867.html\n\n2025年10月11日放送",
+        "title": "乳がんの早期発見と早期治療の大切さをPR…石川・金沢でピンクリボンプロジェクト (2025年10月12日)",
+        "description": "乳がんへの理解を深めてもらおうと石川県金沢市で啓発イベントが開かれました。\r\n\r\n12日は約150人がピンクの風船を持つなどして金沢市内を約5キロにわたって歩き乳がんの早期発見と早期治療の大切さをPRしました。主催した「かなざわピンクリボンプロジェクト」では今後もイベントなどを通して乳がんについて啓発していくことにしています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cLuEIlxuBV0/default.jpg",
+            "url": "https://i.ytimg.com/vi/WcikwmXD_c0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cLuEIlxuBV0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WcikwmXD_c0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cLuEIlxuBV0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WcikwmXD_c0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cLuEIlxuBV0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/WcikwmXD_c0/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/cLuEIlxuBV0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "石川テレビ公式チャンネル",
@@ -87,7 +82,133 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "cLuEIlxuBV0"
+          "videoId": "WcikwmXD_c0"
+        },
+        "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
+        "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5ywdDI3fv93ovzPgpfFQq4I7e7g",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLlgwRW1QR19xbXdn",
+      "snippet": {
+        "publishedAt": "2025-10-12T09:17:06Z",
+        "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
+        "title": "サッカー元日本代表の内田篤人さんが被災地支援で輪島へ…6歳以下の子供たちとサッカーで汗流す (2025年10月12日)",
+        "description": "サッカー元日本代表の内田篤人さんが輪島市を訪れ子どもたちとサッカーで交流しました。\r\n\r\nこれは日本サッカー協会が「ユニクロ」の協賛を受けて開いたもので、輪島市の会場には、県内の6歳以下の子どもたちおよそ50人が集まりました。\r\n\r\n会場には、サッカー元日本代表の内田篤人さんが訪れ、能登半島地震からの復興支援としてユニクロのヒートテックが子供たちに贈られました。\r\n\r\nこの後、子供たちは内田さんと一緒にボールを追いかけ汗を流していました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0EmPG_qmwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0EmPG_qmwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0EmPG_qmwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X0EmPG_qmwg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "石川テレビ公式チャンネル",
+        "playlistId": "UUA5dBoYZe7dgvk4cTl5PLSg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X0EmPG_qmwg"
+        },
+        "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
+        "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DMxNmyd8FDE1AypSgHNc6FIXNdw",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLnpUSEk2bkpUM09N",
+      "snippet": {
+        "publishedAt": "2025-10-12T09:17:00Z",
+        "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
+        "title": "石川で国民・玉木代表「安全保障政策とエネルギー政策の一致がなければ共に政権担えない」 (2025年10月12日)",
+        "description": "公明党の連立政権離脱を受け、注目を浴びる国民民主党の玉木代表が、石川県七尾市で街頭演説を行いました。\r\n\r\n国民民主党の玉木代表は、今日告示された七尾市議会議員選挙の応援のため七尾市内で街頭演説会に参加しました。\r\n\r\n演説会のあと玉木代表は、記者団の取材に応じ、公明党が連立政権から離脱したことで連立の拡大という議論は意味がなくなったとし、去年、自民公明の3党で合意した年収の壁引き上げなどの政策の履行状況を見定めたいと述べました。\r\n\r\nまた立憲民主党に対しては安全保障政策とエネルギー政策で一致しなければ政権を共に担えないとして、政策の転換を求めました。\r\n\r\n玉木代表は近く公明党の斉藤代表と会談する考えです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zTHI6nJT3OM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zTHI6nJT3OM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zTHI6nJT3OM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zTHI6nJT3OM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "石川テレビ公式チャンネル",
+        "playlistId": "UUA5dBoYZe7dgvk4cTl5PLSg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zTHI6nJT3OM"
+        },
+        "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
+        "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aNES4DeQZ18GwbeilqyFjnvp2uY",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLnRYQlVSZkZodU93",
+      "snippet": {
+        "publishedAt": "2025-10-12T00:19:28Z",
+        "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
+        "title": "「ナイスポイントになる可能性あるんでね」…EXITが被災地の海岸で清掃ボランティア (2025年10月11日)",
+        "description": "被災地を応援したいと人気お笑い芸人のEXITが輪島市の海岸で清掃活動を行いました。\r\n\r\nこの活動はお笑い芸人のEXITと協力して能登の復興を後押ししたいと一般社団法人「NOTOTO」が企画しました。輪島市門前町千代にある海岸ではEXITと共に地元の住民や金沢大学の学生などが参加し、流れ着いたプラスチックゴミや漁網などを回収しました。\r\n\r\nEXITりんたろー。さん：\r\n海岸が隆起したのがすごいですよね。きれいになってみんなが遊べるところになれば人も来てくれる。\r\n\r\nEXIT兼近大樹さん：\r\n俺的には海岸を押しポイントにしていくことで、観光客がここ見に行きたいよね、隆起したらいよ、みたいな。みんなできれいにしたらここがナイスポイントになる可能性があるんでね。\r\n\r\nEXITはこの後、志賀町で炊き出しを行うなどして被災地に元気を届けました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tXBURfFhuOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tXBURfFhuOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tXBURfFhuOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tXBURfFhuOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "石川テレビ公式チャンネル",
+        "playlistId": "UUA5dBoYZe7dgvk4cTl5PLSg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tXBURfFhuOw"
         },
         "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
         "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"

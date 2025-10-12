@@ -2,40 +2,40 @@
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKKオフィシャルチャンネル あるぽtv　熊本放送",
   "original_name": "RKK熊本放送",
-  "updated_at": "2025-10-12T00:03:43.052802",
+  "updated_at": "2025-10-13T00:03:30.921349",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "Pmq_JaAtig0j_enuNAzZEFRiY70",
-      "id": "VVV3UTduMVN2dG9jSEFhT2xDS25NMzJBLnJ2a1hWNl9BQ1lz",
+      "etag": "fj6aHUbulWX7i5djy1m2YFev13Y",
+      "id": "VVV3UTduMVN2dG9jSEFhT2xDS25NMzJBLm5lUmNjRDU1QUNz",
       "snippet": {
-        "publishedAt": "2025-10-11T04:50:00Z",
+        "publishedAt": "2025-10-12T14:15:10Z",
         "channelId": "UCwQ7n1SvtocHAaOlCKnM32A",
-        "title": "ＲＫＫまつり　からふる×味千コラボ 完成編！",
-        "description": "",
+        "title": "めざせ！くまもとの若き匠たち 第74回",
+        "description": "めざせ！くまもとの若き匠たち 第74回\n八代工業高校 電気科 \n2025年10月12日放送",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rvkXV6_ACYs/default.jpg",
+            "url": "https://i.ytimg.com/vi/neRccD55ACs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rvkXV6_ACYs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/neRccD55ACs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rvkXV6_ACYs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/neRccD55ACs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/rvkXV6_ACYs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/neRccD55ACs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/rvkXV6_ACYs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/neRccD55ACs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "rvkXV6_ACYs"
+          "videoId": "neRccD55ACs"
+        },
+        "videoOwnerChannelTitle": "RKKオフィシャルチャンネル あるぽtv　熊本放送",
+        "videoOwnerChannelId": "UCwQ7n1SvtocHAaOlCKnM32A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cmvTbBgMrSvmErOTK68o8fIWo3c",
+      "id": "VVV3UTduMVN2dG9jSEFhT2xDS25NMzJBLmVCVUYtNGViUV9j",
+      "snippet": {
+        "publishedAt": "2025-10-12T07:30:19Z",
+        "channelId": "UCwQ7n1SvtocHAaOlCKnM32A",
+        "title": "未来をつくるヒーローたち 第11話",
+        "description": "未来をつくるヒーローたち 第11話\n阿蘇中央高校 社会福祉科\n2025年10月12日放送",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eBUF-4ebQ_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eBUF-4ebQ_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eBUF-4ebQ_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eBUF-4ebQ_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eBUF-4ebQ_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RKKオフィシャルチャンネル あるぽtv　熊本放送",
+        "playlistId": "UUwQ7n1SvtocHAaOlCKnM32A",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eBUF-4ebQ_c"
         },
         "videoOwnerChannelTitle": "RKKオフィシャルチャンネル あるぽtv　熊本放送",
         "videoOwnerChannelId": "UCwQ7n1SvtocHAaOlCKnM32A"
