@@ -47,7 +47,8 @@ const i18n = {
         total_videos: '総番組数',
         by_region: '地域別',
         channel_details: 'チャンネル詳細',
-        search_channels: 'チャンネルを検索...'
+        search_channels: 'チャンネルを検索...',
+        chart_total_channels: 'チャンネル'
     },
     en: {
         // 设置面板
@@ -96,7 +97,8 @@ const i18n = {
         total_videos: 'Total Programs',
         by_region: 'By Region',
         channel_details: 'Channel Details',
-        search_channels: 'Search channels...'
+        search_channels: 'Search channels...',
+        chart_total_channels: 'Channels'
     },
     zh: {
         // 设置面板
@@ -145,7 +147,8 @@ const i18n = {
         total_videos: '总节目数',
         by_region: '按地区分类',
         channel_details: '频道详情',
-        search_channels: '搜索频道...'
+        search_channels: '搜索频道...',
+        chart_total_channels: '频道'
     }
 };
 
@@ -1048,6 +1051,7 @@ function playVideo(videoId) {
         events: {
             'onReady': onPlayerReady,
             'onStateChange': onPlayerStateChange,
+            'onError': onPlayerError,
             'onApiChange': function(event) {
                 // 当字幕API准备就绪时
                 if (player.getOptions().indexOf('captions') !== -1) {
@@ -1079,6 +1083,51 @@ function onPlayerReady(event) {
         player.setOption('captions', 'track', {'languageCode': 'ja'});
         player.setOption('captions', 'reload', true);
         player.setOption('captions', 'fontSize', 2);
+    }
+}
+
+// 播放器错误处理
+function onPlayerError(event) {
+    console.log('播放器错误，错误代码:', event.data);
+    
+    // YouTube API错误代码:
+    // 2: 无效的参数值
+    // 5: HTML5播放器错误
+    // 100: 找不到视频 / 视频已被删除
+    // 101: 视频所有者不允许在嵌入式播放器中播放（版权限制）
+    // 150: 同101（版权限制）
+    
+    let errorMessage = '';
+    switch (event.data) {
+        case 2:
+            errorMessage = '動画パラメータが無効です';
+            break;
+        case 5:
+            errorMessage = 'HTML5プレーヤーエラー';
+            break;
+        case 100:
+            errorMessage = '動画が存在しないか、削除されました';
+            break;
+        case 101:
+        case 150:
+            errorMessage = '動画を再生できません（著作権者の要望によりブロックされています）';
+            break;
+        default:
+            errorMessage = '不明なエラー';
+    }
+    
+    console.log('错误信息:', errorMessage, '- 自动切换到下一个视频');
+    statusElement.textContent = `${errorMessage} - 次の動画に切り替えています...`;
+    
+    // 自动切换到下一个视频
+    if (window.videoPlaylist && window.videoPlaylist.length > 0) {
+        setTimeout(() => {
+            const randomIndex = Math.floor(Math.random() * window.videoPlaylist.length);
+            const nextVideo = window.videoPlaylist[randomIndex];
+            console.log('自动切换到下一个视频:', nextVideo.title);
+            statusElement.textContent = '再生中: ' + nextVideo.url;
+            playVideo(nextVideo.videoId);
+        }, 2000); // 等待2秒后切换，让用户看到错误信息
     }
 }
 
@@ -2039,6 +2088,12 @@ function displayChannelStats() {
     if (totalChannelsElement) totalChannelsElement.textContent = totalChannels;
     if (totalVideosElement) totalVideosElement.textContent = totalVideos;
     
+    // 更新饼图中心标签
+    const chartTotalChannelsElement = document.getElementById('chartTotalChannels');
+    if (chartTotalChannelsElement) {
+        chartTotalChannelsElement.textContent = totalChannels;
+    }
+    
     const regionEntries = Object.values(regions).sort((a, b) => b.channels.length - a.channels.length);
 
     // 显示地区分布饼图
@@ -2095,8 +2150,14 @@ function displayRegionalStats(regions) {
     regionList.forEach(region => {
         const regionElement = document.createElement('div');
         regionElement.className = 'region-stat';
+        
+        const icon = getRegionIcon(region.name);
+        
         regionElement.innerHTML = `
-            <div class="region-name">${region.name}</div>
+            <div class="region-header">
+                <span class="region-icon">${icon}</span>
+                <div class="region-name">${region.name}</div>
+            </div>
             <div class="region-counts">
                 <span class="channel-count">${formatRegionChannelCount(region.channels.length)}</span>
                 <span class="video-count">${formatRegionProgramCount(region.totalVideos)}</span>
@@ -2198,25 +2259,7 @@ function renderRegionPieChart(regions) {
             },
             plugins: {
                 legend: {
-                    position: 'bottom',
-                    align: 'center',
-                    labels: {
-                        color: textColor,
-                        usePointStyle: true,
-                        font: {
-                            size: 12
-                        },
-                        padding: 10,
-                        boxWidth: 10,
-                        generateLabels: function(chart) {
-                            const defaultLabels = Chart.defaults.plugins.legend.labels.generateLabels(chart);
-                            return defaultLabels.map(function(label, index) {
-                                return Object.assign({}, label, {
-                                    text: labels[index] + ' (' + data[index] + ')'
-                                });
-                            });
-                        }
-                    }
+                    display: false  // 隐藏图例
                 },
                 tooltip: {
                     backgroundColor: tooltipBackground,
@@ -2236,6 +2279,67 @@ function renderRegionPieChart(regions) {
                 }
             }
         }
+    });
+    
+    // 生成图例
+    renderChartLegend(regions, backgroundColors);
+}
+
+// 获取地区图标
+function getRegionIcon(regionName) {
+    const iconMap = {
+        '北海道': '🗻',
+        '東北': '🌾',
+        '関東': '🗼',
+        '中部': '🏔️',
+        '関西': '🏯',
+        '中国': '⛰️',
+        '四国': '🌊',
+        '九州・沖縄': '🌺',
+        '日本テレビ系': '📺',
+        'テレビ朝日系': '📡',
+        'TBS系': '🎬',
+        'テレビ東京系': '🎥',
+        'フジテレビ系': '📹',
+        '日本語学習': '📚',
+        'その他チャンネル': '✨'
+    };
+    return iconMap[regionName] || '📍';
+}
+
+// 渲染图例
+function renderChartLegend(regions, colors) {
+    const legendContainer = document.getElementById('chartLegend');
+    if (!legendContainer) return;
+    
+    legendContainer.innerHTML = '';
+    
+    regions.forEach((region, index) => {
+        const legendItem = document.createElement('div');
+        legendItem.className = 'legend-item';
+        
+        const icon = document.createElement('span');
+        icon.className = 'legend-icon';
+        icon.textContent = getRegionIcon(region.name);
+        
+        const colorBox = document.createElement('div');
+        colorBox.className = 'legend-color';
+        colorBox.style.backgroundColor = colors[index];
+        
+        const label = document.createElement('span');
+        label.className = 'legend-label';
+        label.textContent = region.name;
+        
+        const value = document.createElement('span');
+        value.className = 'legend-value';
+        value.textContent = region.channels.length;
+        
+        legendItem.appendChild(icon);
+        legendItem.appendChild(colorBox);
+        legendItem.appendChild(label);
+        legendItem.appendChild(value);
+        
+        legendContainer.appendChild(legendItem);
     });
 }
 

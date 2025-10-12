@@ -327,8 +327,17 @@
         
         <div class="stats-regions">
             <h4 data-i18n="by_region">按地区分类</h4>
-            <div class="region-chart-wrapper">
-                <canvas id="regionPieChart" aria-label="地域別チャンネル比率" role="img"></canvas>
+            <div class="chart-and-legend-container">
+                <div class="region-chart-wrapper">
+                    <canvas id="regionPieChart" aria-label="地域別チャンネル比率" role="img"></canvas>
+                    <div class="chart-center-label">
+                        <div class="chart-total-number" id="chartTotalChannels">0</div>
+                        <div class="chart-total-text" data-i18n="chart_total_channels">チャンネル</div>
+                    </div>
+                </div>
+                <div id="chartLegend" class="chart-legend">
+                    <!-- 图例将在这里显示 -->
+                </div>
             </div>
             <div id="regionStats" class="region-list">
                 <!-- 地区统计将在这里显示 -->
