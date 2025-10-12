@@ -40,6 +40,8 @@ const i18n = {
         debug_mode_desc: '詳細なデバッグ情報を表示',
         cache_videos: '動画をキャッシュ',
         cache_videos_desc: 'チャンネル動画リストをキャッシュして読み込み速度を向上',
+        clear_cache: 'キャッシュをクリア',
+        clear_cache_desc: 'すべてのローカルキャッシュデータをクリア（お気に入り、設定など）',
         
         // 频道统计
         channel_statistics: 'チャンネル統計',
@@ -90,6 +92,8 @@ const i18n = {
         debug_mode_desc: 'Display detailed debugging information',
         cache_videos: 'Cache Videos',
         cache_videos_desc: 'Cache channel video lists to improve loading speed',
+        clear_cache: 'Clear Cache',
+        clear_cache_desc: 'Clear all local cache data (favorites, settings, etc.)',
         
         // 频道统计
         channel_statistics: 'Channel Statistics',
@@ -140,6 +144,8 @@ const i18n = {
         debug_mode_desc: '显示详细的调试信息',
         cache_videos: '缓存视频',
         cache_videos_desc: '缓存频道视频列表以提高加载速度',
+        clear_cache: '清除缓存',
+        clear_cache_desc: '清除所有本地缓存数据（收藏、设置等）',
         
         // 频道统计
         channel_statistics: '频道统计',
@@ -268,6 +274,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // 初始化语言设置
     initLanguage();
+    
+    // 初始化收藏数量
+    updateFavoritesCount();
     
     // // 初始化频道列表折叠/展开按钮
     // initToggleChannelList();
@@ -680,6 +689,27 @@ function createChannelButton(channel) {
     channelInfo.appendChild(channelName);
     channelButton.appendChild(avatarContainer);
     channelButton.appendChild(channelInfo);
+    
+    // 创建收藏按钮
+    const favoriteBtn = document.createElement('button');
+    favoriteBtn.className = 'favorite-btn';
+    favoriteBtn.innerHTML = '☆';
+    favoriteBtn.title = 'お気に入りに追加';
+    favoriteBtn.setAttribute('data-channel-name', channel.name);
+    
+    // 检查是否已收藏
+    if (isFavoriteChannel(channel.name)) {
+        favoriteBtn.classList.add('favorited');
+        favoriteBtn.innerHTML = '★';
+        favoriteBtn.title = 'お気に入りから削除';
+    }
+    
+    favoriteBtn.addEventListener('click', function(e) {
+        e.stopPropagation(); // 阻止事件冒泡，避免触发频道点击
+        toggleFavorite(channel.name, favoriteBtn);
+    });
+    
+    channelButton.appendChild(favoriteBtn);
     
     // 从URL中提取频道ID或播放列表ID
     const channelUrl = channel.url;
@@ -2165,11 +2195,307 @@ function displayRegionalStats(regions) {
         `;
         
         regionElement.addEventListener('click', () => {
-            // 地区点击功能已移除
+            // 关闭统计面板
+            closeChannelStatsPanel();
+            
+            // 筛选并显示该地区的频道
+            filterChannelsByRegion(region);
         });
+        
+        // 添加鼠标悬停提示
+        regionElement.title = `クリックして${region.name}のチャンネルを表示`;
         
         container.appendChild(regionElement);
     });
+}
+
+// 根据地区筛选频道
+function filterChannelsByRegion(region) {
+    console.log('选中地区:', region.name);
+    
+    // 获取所有频道按钮
+    const channelItems = document.querySelectorAll('.channel-item');
+    let matchedChannels = [];
+    
+    // 遍历所有频道，找出属于该地区的频道
+    channelItems.forEach(item => {
+        const channelName = item.getAttribute('data-channel-name');
+        const channelUrl = item.getAttribute('data-channel-url');
+        
+        // 检查频道是否属于该地区
+        if (region.channels.some(ch => ch.channelName === channelName)) {
+            matchedChannels.push(item);
+        }
+    });
+    
+    if (matchedChannels.length > 0) {
+        // 清空搜索框
+        const searchInput = document.getElementById('channelSearch');
+        if (searchInput) {
+            searchInput.value = '';
+        }
+        
+        // 显示所有频道
+        channelItems.forEach(item => {
+            item.style.display = 'none';
+        });
+        
+        // 只显示匹配的频道
+        matchedChannels.forEach(item => {
+            item.style.display = 'flex';
+            // 确保父容器可见
+            let parent = item.parentElement;
+            while (parent && !parent.classList.contains('channel-section')) {
+                parent.style.display = 'block';
+                parent = parent.parentElement;
+            }
+            if (parent) parent.style.display = 'block';
+        });
+        
+        // 隐藏空的子分类和分类
+        const subCategories = document.querySelectorAll('.subcategory-container');
+        subCategories.forEach(subCategory => {
+            const visibleChannels = subCategory.querySelectorAll('.channel-item[style*="display: flex"]');
+            subCategory.style.display = visibleChannels.length > 0 ? 'block' : 'none';
+        });
+        
+        const sections = document.querySelectorAll('.channel-section');
+        sections.forEach(section => {
+            const visibleSubCategories = section.querySelectorAll('.subcategory-container[style*="display: block"]');
+            section.style.display = visibleSubCategories.length > 0 ? 'block' : 'none';
+        });
+        
+        // 更新状态显示
+        const statusElement = document.getElementById('status');
+        if (statusElement) {
+            statusElement.textContent = `${region.name}のチャンネルを表示中（${matchedChannels.length}件）`;
+        }
+        
+        // 显示清除筛选按钮
+        const clearButton = document.getElementById('clearFilterButton');
+        if (clearButton) {
+            clearButton.style.display = 'flex';
+            clearButton.querySelector('.filter-text').textContent = `${region.name} フィルター解除`;
+        }
+        
+        // 滚动到频道列表顶部
+        const channelSelector = document.getElementById('channelSelector');
+        if (channelSelector) {
+            channelSelector.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+        
+        // 自动播放第一个频道（可选）
+        if (matchedChannels.length > 0) {
+            setTimeout(() => {
+                matchedChannels[0].click();
+            }, 500);
+        }
+    }
+}
+
+// 清除地区筛选
+function clearRegionFilter() {
+    console.log('清除地区筛选');
+    
+    // 显示所有频道
+    showAllChannels();
+    
+    // 隐藏清除按钮
+    const clearButton = document.getElementById('clearFilterButton');
+    if (clearButton) {
+        clearButton.style.display = 'none';
+    }
+    
+    // 更新状态显示
+    const statusElement = document.getElementById('status');
+    if (statusElement) {
+        statusElement.textContent = '準備完了、チャンネルを読み込んでいます...';
+    }
+}
+
+// === 清除缓存功能 ===
+
+// 清除所有本地缓存
+function clearAllCache() {
+    // 获取当前语言
+    const currentLang = localStorage.getItem('language') || 'ja';
+    
+    // 确认对话框文本
+    const confirmMessages = {
+        ja: 'すべてのキャッシュデータを削除しますか？\n\n以下のデータが削除されます：\n• お気に入りチャンネル\n• 設定（テーマ、言語など）\n• 最後に視聴したチャンネル\n• その他のキャッシュデータ\n\nこの操作は取り消せません。',
+        en: 'Clear all cache data?\n\nThe following data will be deleted:\n• Favorite channels\n• Settings (theme, language, etc.)\n• Last watched channel\n• Other cached data\n\nThis action cannot be undone.',
+        zh: '是否清除所有缓存数据？\n\n以下数据将被删除：\n• 收藏的频道\n• 设置（主题、语言等）\n• 最后观看的频道\n• 其他缓存数据\n\n此操作无法撤销。'
+    };
+    
+    const successMessages = {
+        ja: 'キャッシュが正常にクリアされました。ページを再読み込みします...',
+        en: 'Cache cleared successfully. Reloading page...',
+        zh: '缓存已成功清除。正在重新加载页面...'
+    };
+    
+    // 显示确认对话框
+    if (confirm(confirmMessages[currentLang])) {
+        try {
+            // 清除所有localStorage数据
+            localStorage.clear();
+            
+            // 清除sessionStorage（如果有使用）
+            sessionStorage.clear();
+            
+            console.log('所有缓存已清除');
+            
+            // 显示成功消息
+            alert(successMessages[currentLang]);
+            
+            // 延迟500ms后重新加载页面，让用户看到成功消息
+            setTimeout(() => {
+                window.location.reload();
+            }, 500);
+        } catch (error) {
+            console.error('清除缓存失败:', error);
+            const errorMessages = {
+                ja: 'キャッシュのクリアに失敗しました。',
+                en: 'Failed to clear cache.',
+                zh: '清除缓存失败。'
+            };
+            alert(errorMessages[currentLang]);
+        }
+    }
+}
+
+// === 收藏功能 ===
+
+// 获取收藏列表
+function getFavoriteChannels() {
+    try {
+        const favorites = localStorage.getItem('favoriteChannels');
+        return favorites ? JSON.parse(favorites) : [];
+    } catch (error) {
+        console.error('获取收藏列表失败:', error);
+        return [];
+    }
+}
+
+// 保存收藏列表
+function saveFavoriteChannels(favorites) {
+    try {
+        localStorage.setItem('favoriteChannels', JSON.stringify(favorites));
+    } catch (error) {
+        console.error('保存收藏列表失败:', error);
+    }
+}
+
+// 检查频道是否已收藏
+function isFavoriteChannel(channelName) {
+    const favorites = getFavoriteChannels();
+    return favorites.includes(channelName);
+}
+
+// 切换收藏状态
+function toggleFavorite(channelName, button) {
+    let favorites = getFavoriteChannels();
+    
+    if (favorites.includes(channelName)) {
+        // 取消收藏
+        favorites = favorites.filter(name => name !== channelName);
+        button.classList.remove('favorited');
+        button.innerHTML = '☆';
+        button.title = 'お気に入りに追加';
+        console.log('取消收藏:', channelName);
+    } else {
+        // 添加收藏
+        favorites.push(channelName);
+        button.classList.add('favorited');
+        button.innerHTML = '★';
+        button.title = 'お気に入りから削除';
+        console.log('添加收藏:', channelName);
+    }
+    
+    saveFavoriteChannels(favorites);
+    updateFavoritesCount();
+    
+    // 如果当前在收藏视图，刷新显示
+    const activeTab = document.querySelector('.filter-tab.active');
+    if (activeTab && activeTab.getAttribute('data-filter') === 'favorites') {
+        switchChannelFilter('favorites');
+    }
+}
+
+// 更新收藏数量显示
+function updateFavoritesCount() {
+    const favorites = getFavoriteChannels();
+    const countElement = document.getElementById('favoritesCount');
+    if (countElement) {
+        countElement.textContent = favorites.length;
+    }
+}
+
+// 切换频道筛选（全部/收藏）
+function switchChannelFilter(filter) {
+    console.log('切换筛选:', filter);
+    
+    // 更新按钮状态
+    document.querySelectorAll('.filter-tab').forEach(tab => {
+        tab.classList.remove('active');
+    });
+    document.querySelector(`.filter-tab[data-filter="${filter}"]`).classList.add('active');
+    
+    const channelItems = document.querySelectorAll('.channel-item');
+    const favorites = getFavoriteChannels();
+    
+    if (filter === 'favorites') {
+        // 只显示收藏的频道
+        let hasVisibleChannels = false;
+        
+        channelItems.forEach(item => {
+            const channelName = item.getAttribute('data-channel-name');
+            if (favorites.includes(channelName)) {
+                item.style.display = 'flex';
+                hasVisibleChannels = true;
+                
+                // 确保父容器可见
+                let parent = item.parentElement;
+                while (parent && !parent.classList.contains('channel-section')) {
+                    parent.style.display = 'block';
+                    parent = parent.parentElement;
+                }
+                if (parent) parent.style.display = 'block';
+            } else {
+                item.style.display = 'none';
+            }
+        });
+        
+        // 隐藏空的子分类和分类
+        const subCategories = document.querySelectorAll('.subcategory-container');
+        subCategories.forEach(subCategory => {
+            const visibleChannels = subCategory.querySelectorAll('.channel-item[style*="display: flex"]');
+            subCategory.style.display = visibleChannels.length > 0 ? 'block' : 'none';
+        });
+        
+        const sections = document.querySelectorAll('.channel-section');
+        sections.forEach(section => {
+            const visibleSubCategories = section.querySelectorAll('.subcategory-container[style*="display: block"]');
+            section.style.display = visibleSubCategories.length > 0 ? 'block' : 'none';
+        });
+        
+        // 更新状态
+        const statusElement = document.getElementById('status');
+        if (statusElement) {
+            if (hasVisibleChannels) {
+                statusElement.textContent = `お気に入りチャンネルを表示中（${favorites.length}件）`;
+            } else {
+                statusElement.textContent = 'お気に入りチャンネルがありません。星ボタンをクリックして追加してください。';
+            }
+        }
+    } else {
+        // 显示所有频道
+        showAllChannels();
+        
+        const statusElement = document.getElementById('status');
+        if (statusElement) {
+            statusElement.textContent = '準備完了、チャンネルを読み込んでいます...';
+        }
+    }
 }
 
 function getActiveThemeVariant() {
@@ -2280,29 +2606,39 @@ function renderRegionPieChart(regions) {
             }
         }
     });
-    
-    // 生成图例
-    renderChartLegend(regions, backgroundColors);
 }
 
 // 获取地区图标
 function getRegionIcon(regionName) {
     const iconMap = {
         '北海道': '🗻',
+        '北海道地方': '🗻',
         '東北': '🌾',
+        '東北地方': '🌾',
         '関東': '🗼',
+        '関東地方': '🗼',
         '中部': '🏔️',
+        '中部地方': '🏔️',
         '関西': '🏯',
+        '関西地方': '🏯',
+        '近畿': '🏯',
+        '近畿地方': '🏯',
         '中国': '⛰️',
+        '中国地方': '⛰️',
         '四国': '🌊',
+        '四国地方': '🌊',
         '九州・沖縄': '🌺',
+        '九州・沖縄地方': '🌺',
+        '九州': '🌺',
+        '九州地方': '🌺',
         '日本テレビ系': '📺',
         'テレビ朝日系': '📡',
         'TBS系': '🎬',
         'テレビ東京系': '🎥',
         'フジテレビ系': '📹',
         '日本語学習': '📚',
-        'その他チャンネル': '✨'
+        'その他チャンネル': '✨',
+        'その他': '✨'
     };
     return iconMap[regionName] || '📍';
 }
@@ -2318,10 +2654,6 @@ function renderChartLegend(regions, colors) {
         const legendItem = document.createElement('div');
         legendItem.className = 'legend-item';
         
-        const icon = document.createElement('span');
-        icon.className = 'legend-icon';
-        icon.textContent = getRegionIcon(region.name);
-        
         const colorBox = document.createElement('div');
         colorBox.className = 'legend-color';
         colorBox.style.backgroundColor = colors[index];
@@ -2334,7 +2666,6 @@ function renderChartLegend(regions, colors) {
         value.className = 'legend-value';
         value.textContent = region.channels.length;
         
-        legendItem.appendChild(icon);
         legendItem.appendChild(colorBox);
         legendItem.appendChild(label);
         legendItem.appendChild(value);

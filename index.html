@@ -45,7 +45,7 @@
     </div>
         <div class="link-box">
         <div class="cheyan">
-            <a href="about.html" target="_blank">
+            <a href="https://iamcheyan.com" target="_blank">
                 <img src="img/svg/cheyan.jpg" alt="cheyan" width="32" height="32">
             </a>
         </div>
@@ -89,6 +89,12 @@
                             <div id="player"></div>
                         </div>
                         
+                        <!-- 清除筛选按钮 -->
+                        <button id="clearFilterButton" class="clear-filter-btn" style="display: none;" onclick="clearRegionFilter()">
+                            <span class="filter-icon">✕</span>
+                            <span class="filter-text">フィルターをクリア</span>
+                        </button>
+                        
                         <!-- 状态信息移到播放器下方 -->
                         <div id="status">準備完了、チャンネルを読み込んでいます...</div>
                         
@@ -130,6 +136,19 @@
                 
                 <!-- 添加搜索输入框 -->
                 <input type="text" id="channelSearch" placeholder="チャンネルを検索..." onkeyup="filterChannels()">
+                
+                <!-- 全部/收藏切换标签 -->
+                <div class="channel-filter-tabs">
+                    <button class="filter-tab active" data-filter="all" onclick="switchChannelFilter('all')">
+                        <span class="tab-icon"></span>
+                        <span class="tab-text">全て</span>
+                    </button>
+                    <button class="filter-tab" data-filter="favorites" onclick="switchChannelFilter('favorites')">
+                        <span class="tab-icon">⭐</span>
+                        <span class="tab-text"></span>
+                        <span class="favorites-count" id="favoritesCount">0</span>
+                    </button>
+                </div>
                 
                 <div id="channelSelector">
                     <div id="channelCategories">
@@ -295,6 +314,19 @@
                         </div>
                     </label>
                 </div>
+                <div class="setting-item setting-action">
+                    <button id="clearCacheBtn" class="clear-cache-btn" onclick="clearAllCache()">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 6h18M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2"></path>
+                            <line x1="10" y1="11" x2="10" y2="17"></line>
+                            <line x1="14" y1="11" x2="14" y2="17"></line>
+                        </svg>
+                        <div class="setting-info">
+                            <span class="setting-title" data-i18n="clear_cache">清除缓存</span>
+                            <span class="setting-desc" data-i18n="clear_cache_desc">清除所有本地缓存数据（包括收藏、设置等）</span>
+                        </div>
+                    </button>
+                </div>
             </div>
         </div>
     </div>
@@ -312,22 +344,7 @@
     </button>
     <div class="channel-stats-content">
         <div class="stats-header">
-            <h3 data-i18n="channel_statistics">频道统计</h3>
-            <div class="stats-summary">
-                <div class="stat-item">
-                    <span class="stat-number" id="totalChannels">0</span>
-                    <span class="stat-label" data-i18n="total_channels">总频道数</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-number" id="totalVideos">0</span>
-                    <span class="stat-label" data-i18n="total_videos">总节目数</span>
-                </div>
-            </div>
-        </div>
-        
-        <div class="stats-regions">
-            <h4 data-i18n="by_region">按地区分类</h4>
-            <div class="chart-and-legend-container">
+            <div class="header-with-chart">
                 <div class="region-chart-wrapper">
                     <canvas id="regionPieChart" aria-label="地域別チャンネル比率" role="img"></canvas>
                     <div class="chart-center-label">
@@ -335,10 +352,36 @@
                         <div class="chart-total-text" data-i18n="chart_total_channels">チャンネル</div>
                     </div>
                 </div>
-                <div id="chartLegend" class="chart-legend">
-                    <!-- 图例将在这里显示 -->
+                <div class="header-text-content">
+                    <h3 data-i18n="channel_statistics">频道统计</h3>
+                    <div class="stats-summary">
+                        <div class="stat-item">
+                            <span class="stat-number" id="totalChannels">0</span>
+                            <span class="stat-label" data-i18n="total_channels">总频道数</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" id="totalVideos">0</span>
+                            <span class="stat-label" data-i18n="total_videos">总节目数</span>
+                        </div>
+                    </div>
                 </div>
             </div>
+        </div>
+        
+        <div class="site-introduction">
+            <p class="intro-text">
+                日本全国の約<strong>150局</strong>のテレビ局公式YouTubeチャンネルを収録。
+                <strong>YouTube Data API</strong>を通じて各局がアップロードした番組情報を整理し、視聴しやすい形で提供しています。
+            </p>
+            <p class="intro-highlight">
+                ⚠️ 当サイトはコンテンツの配信や再配布は行っておりません。<br>
+                各テレビ局がYouTubeに公式アップロードした番組のみを、APIを介して整理・表示しています。<br>
+                視聴できるのはテレビの生放送ではなく、各局のYouTube公式チャンネルの番組です。
+            </p>
+        </div>
+        
+        <div class="stats-regions">
+            <h4 data-i18n="by_region">按地区分类</h4>
             <div id="regionStats" class="region-list">
                 <!-- 地区统计将在这里显示 -->
             </div>
