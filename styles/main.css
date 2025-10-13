@@ -141,8 +141,8 @@ body {
 
 .container.is-fullscreen {
     max-width: none;
-    width: 100%;
-    padding: 0;
+    /* width: 100%; */
+    padding-left: 10px;
 }
 
 /* body.fullscreen-active .main-content {
@@ -153,7 +153,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 10px 0 10px 10px;
     /* min-height: 60px; */
 }
 
@@ -2635,6 +2635,14 @@ body.theme-light .clear-history-btn {
     align-items: center;
     gap: 12px;
     flex: 1;
+    min-width: 0;
+    overflow: hidden;
+}
+
+.program-title-link {
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
 }
 
 /* 收藏视频按钮 */
