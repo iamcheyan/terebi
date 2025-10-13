@@ -1441,7 +1441,7 @@ body.theme-light .clear-filter-btn:hover {
 /* 频道统计内容 */
 .channel-stats-content {
     padding: 30px;
-    max-height: calc(100vh - 60px);
+    max-height: calc(100vh - 40px);
     overflow-y: auto;
     scrollbar-width: thin;
     scrollbar-color: rgba(245, 181, 69, 0.6) rgba(255, 255, 255, 0.1);
@@ -1604,7 +1604,7 @@ body.theme-light .intro-highlight {
 
 /* 地区统计 */
 .stats-regions {
-    margin-bottom: 32px;
+    margin-bottom: 100px;
 }
 
 .stats-regions h4 {

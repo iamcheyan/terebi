@@ -460,7 +460,6 @@ html.mobile-device .channel-stats-panel {
 
 html.mobile-device .channel-stats-content {
     padding: 20px 16px;
-    max-height: calc(100vh - 60px);
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
 }
@@ -632,6 +631,11 @@ html.mobile-device .favorite-btn {
     padding: 4px 6px;
     opacity: 1;
 }
+
+html.mobile-device .stats-regions {
+    margin-bottom: 0px;
+}
+
 
 /* 观看历史面板移动端适配 */
 html.mobile-device .view-history-panel {
