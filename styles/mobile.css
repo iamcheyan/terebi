@@ -446,6 +446,13 @@ html.mobile-device .channel-stats-panel {
     transform: none;
 }
 
+html.mobile-device .channel-stats-content {
+    padding: 20px 16px;
+    max-height: calc(100vh - 60px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
 html.mobile-device .stats-header {
     margin-bottom: 20px;
 }

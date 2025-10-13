@@ -1438,8 +1438,8 @@ body.theme-light .clear-filter-btn:hover {
 /* 频道统计内容 */
 .channel-stats-content {
     padding: 30px;
-    /* max-height: calc(90vh - 60px); */
-    overflow-y: visible;
+    max-height: calc(100vh - 60px);
+    overflow-y: auto;
     scrollbar-width: thin;
     scrollbar-color: rgba(245, 181, 69, 0.6) rgba(255, 255, 255, 0.1);
 }
