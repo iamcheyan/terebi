@@ -2706,3 +2706,239 @@ body.theme-light .history-filter-tab.active {
     background: linear-gradient(135deg, rgba(79, 138, 247, 0.15), rgba(124, 107, 255, 0.1));
     border-color: rgba(79, 138, 247, 0.3);
 }
+
+/* === 用户账户样式 === */
+.user-account {
+    position: relative;
+    margin-left: 12px;
+}
+
+.login-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    height: 32px;
+    padding: 0 16px;
+    background: linear-gradient(135deg, rgba(66, 133, 244, 0.15), rgba(66, 133, 244, 0.1));
+    border: 1px solid rgba(66, 133, 244, 0.3);
+    border-radius: 24px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.95);
+    white-space: nowrap;
+}
+
+.login-btn svg {
+    flex-shrink: 0;
+    width: 12px;
+    height: 12px;
+
+    position: relative;
+    top: 2px;
+}
+
+.login-text {
+    flex-shrink: 0;
+}
+
+.login-btn:hover {
+    background: linear-gradient(135deg, rgba(66, 133, 244, 0.3), rgba(66, 133, 244, 0.2));
+    border-color: rgba(66, 133, 244, 0.5);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(66, 133, 244, 0.3);
+}
+
+.user-profile {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+}
+
+.user-avatar {
+    width: auto;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    /* border: 2px solid rgba(255, 255, 255, 0.2); */
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.user-avatar:hover {
+    border-color: rgba(79, 138, 247, 0.5);
+    transform: scale(1.1);
+    box-shadow: 0 0 12px rgba(79, 138, 247, 0.4);
+}
+
+.user-menu {
+    position: absolute;
+    top: calc(100% + 12px);
+    right: 0;
+    background: rgba(25, 30, 40, 0.98);
+    border: 1px solid rgba(79, 138, 247, 0.2);
+    border-radius: 16px;
+    padding: 12px;
+    min-width: 280px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(20px);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    z-index: 1000;
+}
+
+.user-menu.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.user-menu-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px;
+    margin-bottom: 8px;
+}
+
+.user-avatar-large {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid rgba(79, 138, 247, 0.3);
+}
+
+.user-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.user-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.95);
+    margin-bottom: 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.user-email {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.6);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.user-menu-divider {
+    height: 1px;
+    background: rgba(79, 138, 247, 0.15);
+    margin: 8px 0;
+}
+
+.user-menu-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    padding: 12px 16px;
+    background: transparent;
+    border: none;
+    border-radius: 12px;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: left;
+}
+
+.user-menu-item:hover {
+    background: rgba(79, 138, 247, 0.1);
+    color: rgba(255, 255, 255, 1);
+}
+
+.user-menu-item.logout:hover {
+    background: rgba(244, 67, 54, 0.1);
+    color: #ef5350;
+}
+
+.user-menu-item svg {
+    flex-shrink: 0;
+}
+
+/* 通知动画 */
+@keyframes slideIn {
+    from {
+        transform: translateX(400px);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideOut {
+    from {
+        transform: translateX(0);
+        opacity: 1;
+    }
+    to {
+        transform: translateX(400px);
+        opacity: 0;
+    }
+}
+
+/* Light Theme */
+body.theme-light .login-btn {
+    background: linear-gradient(135deg, rgba(66, 133, 244, 0.12), rgba(66, 133, 244, 0.08));
+    border-color: rgba(66, 133, 244, 0.25);
+    color: rgba(0, 0, 0, 0.85);
+}
+
+body.theme-light .login-btn:hover {
+    background: linear-gradient(135deg, rgba(66, 133, 244, 0.2), rgba(66, 133, 244, 0.15));
+    border-color: rgba(66, 133, 244, 0.4);
+    color: rgba(0, 0, 0, 1);
+}
+
+body.theme-light .user-avatar {
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+body.theme-light .user-menu {
+    background: rgba(255, 255, 255, 0.98);
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+body.theme-light .user-name {
+    color: rgba(0, 0, 0, 0.9);
+}
+
+body.theme-light .user-email {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+body.theme-light .user-menu-divider {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+body.theme-light .user-menu-item {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+body.theme-light .user-menu-item:hover {
+    background: rgba(79, 138, 247, 0.08);
+    color: rgba(0, 0, 0, 1);
+}
+
+body.theme-light .user-menu-item.logout:hover {
+    background: rgba(244, 67, 54, 0.08);
+    color: #d32f2f;
+}

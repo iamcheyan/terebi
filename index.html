@@ -44,7 +44,56 @@
         <h1>テレビ</h1>
     </div>
         <div class="link-box">
-        <div class="cheyan">
+        <!-- 用户账户 -->
+        <div class="user-account">
+            <button id="loginButton" class="login-btn" style="display: none;">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none">
+                    <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/>
+                    <path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/>
+                    <path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z" fill="#FBBC05"/>
+                    <path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" fill="#EA4335"/>
+                </svg>
+                <span class="login-text" data-i18n="login">ログイン</span>
+            </button>
+            <div id="userProfile" class="user-profile" style="display: none;">
+                <img id="userAvatar" class="user-avatar" src="" alt="User" style="cursor: pointer;">
+                <div id="userMenu" class="user-menu">
+                    <div class="user-menu-header">
+                        <img id="userAvatarMenu" class="user-avatar-large" src="" alt="User">
+                        <div class="user-info">
+                            <div id="userNameMenu" class="user-name"></div>
+                            <div id="userEmailMenu" class="user-email"></div>
+                        </div>
+                    </div>
+                    <div class="user-menu-divider"></div>
+                    <button id="syncDataButton" class="user-menu-item">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="23 4 23 10 17 10"></polyline>
+                            <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>
+                        </svg>
+                        <span data-i18n="sync_data">同步数据</span>
+                    </button>
+                    <button id="switchAccountButton" class="user-menu-item">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                            <circle cx="9" cy="7" r="4"></circle>
+                            <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                            <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                        </svg>
+                        <span data-i18n="switch_account">切换账户</span>
+                    </button>
+                    <button id="logoutButton" class="user-menu-item logout">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
+                            <polyline points="16 17 21 12 16 7"></polyline>
+                            <line x1="21" y1="12" x2="9" y2="12"></line>
+                        </svg>
+                        <span data-i18n="logout">ログアウト</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="cheyan">
             <a href="https://iamcheyan.com" target="_blank">
                 <img src="img/svg/cheyan.jpg" alt="cheyan" width="32" height="32">
             </a>
@@ -58,7 +107,7 @@
                     <path class="tanuki-shape left-cheek" d="M5.01 11.461a11.43 11.43 0 0 0-4.56-2.05L.416 9.5a6.297 6.297 0 0 0 2.09 7.278l.012.01.03.022 5.16 3.867 4.745-3.584-7.444-5.632Z" fill="#FC6D26"></path>
                 </svg>
             </a>
-        </div>
+        </div> -->
         <div class="view-history">
             <button id="viewHistoryButton" class="icon-button" title="观看历史" aria-label="观看历史">
                 <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -453,6 +502,502 @@
 
 <!-- 观看历史面板遮罩层 -->
 <div id="viewHistoryOverlay" class="view-history-overlay" role="presentation"></div>
+
+<!-- Firebase SDK -->
+<script type="module">
+  // Import Firebase modules
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-app.js";
+  import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-auth.js";
+  import { getFirestore, doc, setDoc, getDoc, updateDoc, arrayUnion, arrayRemove } from "https://www.gstatic.com/firebasejs/12.4.0/firebase-firestore.js";
+
+  // Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyC20d0C0Wj7pXRYPHlbDNXT3UK1PRat14Y",
+    authDomain: "terebi-711fb.firebaseapp.com",
+    projectId: "terebi-711fb",
+    storageBucket: "terebi-711fb.firebasestorage.app",
+    messagingSenderId: "54498356451",
+    appId: "1:54498356451:web:60878e9e21dda4c95669d6",
+    measurementId: "G-PMSGH0ZQN3"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const auth = getAuth(app);
+  const db = getFirestore(app);
+  const provider = new GoogleAuthProvider();
+  
+  // 强制显示账户选择界面，支持多账户切换
+  provider.setCustomParameters({
+    prompt: 'select_account'
+  });
+
+  // Make auth and db available globally
+  window.firebaseAuth = auth;
+  window.firebaseDb = db;
+
+  // UI Elements
+  const loginButton = document.getElementById('loginButton');
+  const userProfile = document.getElementById('userProfile');
+  const userAvatar = document.getElementById('userAvatar');
+  const userAvatarMenu = document.getElementById('userAvatarMenu');
+  const userNameMenu = document.getElementById('userNameMenu');
+  const userEmailMenu = document.getElementById('userEmailMenu');
+  const userMenu = document.getElementById('userMenu');
+  const logoutButton = document.getElementById('logoutButton');
+  const syncDataButton = document.getElementById('syncDataButton');
+  const switchAccountButton = document.getElementById('switchAccountButton');
+
+  // Show initial UI
+  loginButton.style.display = 'block';
+
+  // Toggle user menu by clicking avatar
+  userAvatar?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    userMenu.classList.toggle('show');
+  });
+
+  // Close menu when clicking outside
+  document.addEventListener('click', () => {
+    userMenu?.classList.remove('show');
+  });
+
+  // Prevent menu from closing when clicking inside
+  userMenu?.addEventListener('click', (e) => {
+    e.stopPropagation();
+  });
+
+  // Login with Google
+  loginButton?.addEventListener('click', async () => {
+    try {
+      // 清除数据加载标记
+      sessionStorage.removeItem('dataLoaded');
+      sessionStorage.removeItem('needsReload');
+      
+      const result = await signInWithPopup(auth, provider);
+      const user = result.user;
+      console.log('User signed in:', user.displayName);
+      
+      // Show success message
+      if (window.showNotification) {
+        window.showNotification(getI18nText('login_success'), 'success');
+      }
+      
+      // onAuthStateChanged 会自动触发数据加载和同步
+    } catch (error) {
+      console.error('Login error:', error);
+      if (window.showNotification) {
+        window.showNotification(getI18nText('login_error') + ': ' + error.message, 'error');
+      }
+    }
+  });
+
+  // Logout
+  logoutButton?.addEventListener('click', async () => {
+    try {
+      await signOut(auth);
+      console.log('User signed out');
+      
+      if (window.showNotification) {
+        window.showNotification(getI18nText('logout_success'), 'success');
+      }
+    } catch (error) {
+      console.error('Logout error:', error);
+      if (window.showNotification) {
+        window.showNotification(getI18nText('logout_error') + ': ' + error.message, 'error');
+      }
+    }
+  });
+
+  // Switch account button
+  switchAccountButton?.addEventListener('click', async () => {
+    try {
+      // 清除数据加载标记，确保新账户能加载数据
+      sessionStorage.removeItem('dataLoaded');
+      sessionStorage.removeItem('needsReload');
+      
+      // 先登出当前账户
+      await signOut(auth);
+      console.log('User signed out for account switch');
+      
+      // 立即重新登录，会显示账户选择界面
+      setTimeout(async () => {
+        try {
+          const result = await signInWithPopup(auth, provider);
+          const user = result.user;
+          console.log('Switched to account:', user.displayName);
+          
+          if (window.showNotification) {
+            window.showNotification(getI18nText('switch_success'), 'success');
+          }
+          
+          // onAuthStateChanged 会自动触发加载数据
+        } catch (error) {
+          console.error('Switch account error:', error);
+          if (window.showNotification) {
+            window.showNotification(getI18nText('switch_error') + ': ' + error.message, 'error');
+          }
+        }
+      }, 100);
+    } catch (error) {
+      console.error('Logout error during switch:', error);
+    }
+  });
+
+  // Sync data button - 双向同步
+  syncDataButton?.addEventListener('click', async () => {
+    const user = auth.currentUser;
+    if (user) {
+      try {
+        console.log('🔄 开始双向同步...');
+        
+        // 1. 先从云端加载最新数据并合并到本地（不刷新页面，静默通知）
+        await loadUserData(user, { skipReload: true, silent: true });
+        
+        // 2. 然后将合并后的数据上传到云端
+        await syncUserData(user);
+        
+        if (window.showNotification) {
+          const lang = localStorage.getItem('language') || 'ja';
+          const messages = {
+            ja: 'データを同期しました',
+            en: 'Data synced successfully',
+            zh: '数据同步成功'
+          };
+          window.showNotification(messages[lang], 'success');
+        }
+        
+        // 刷新所有数据显示
+        setTimeout(() => {
+          // 刷新历史记录面板
+          if (window.displayViewHistory) {
+            window.displayViewHistory();
+          }
+          
+          // 更新视频收藏数量
+          if (window.updateHistoryFavoritesCount) {
+            window.updateHistoryFavoritesCount();
+          }
+          
+          // 更新频道收藏数量
+          if (window.updateFavoritesCount) {
+            window.updateFavoritesCount();
+          }
+          
+          // 刷新频道列表显示
+          if (window.switchChannelFilter) {
+            const activeTab = document.querySelector('.filter-tab.active');
+            if (activeTab && activeTab.getAttribute('data-filter') === 'favorites') {
+              window.switchChannelFilter('favorites');
+            }
+          }
+        }, 300);
+        
+        console.log('✅ 双向同步完成');
+      } catch (error) {
+        console.error('Sync error:', error);
+        if (window.showNotification) {
+          window.showNotification(getI18nText('sync_error') + ': ' + error.message, 'error');
+        }
+      }
+    }
+  });
+
+  // Sync user data to Firestore
+  async function syncUserData(user) {
+    if (!user) return;
+
+    try {
+      const userRef = doc(db, 'users', user.uid);
+      
+      // 收集所有本地数据
+      const localData = {
+        // 视频收藏
+        favoriteVideos: JSON.parse(localStorage.getItem('favoriteVideos') || '[]'),
+        
+        // 观看历史
+        viewHistory: JSON.parse(localStorage.getItem('viewHistory') || '[]'),
+        
+        // 频道收藏
+        favoriteChannels: JSON.parse(localStorage.getItem('favoriteChannels') || '[]'),
+        
+        // 最后观看的频道
+        lastWatchedChannel: localStorage.getItem('lastWatchedChannel') 
+          ? JSON.parse(localStorage.getItem('lastWatchedChannel')) 
+          : null,
+        
+        // 用户设置
+        settings: {
+          language: localStorage.getItem('language') || 'ja',
+          theme: localStorage.getItem('theme') || 'dark',
+          footerVisibility: localStorage.getItem('footerVisibility') !== 'false',
+          defaultFullscreen: localStorage.getItem('defaultFullscreen') === 'true',
+          isFullscreen: localStorage.getItem('isFullscreen') === 'true'
+        },
+        
+        // 同步时间戳
+        lastSync: new Date().toISOString(),
+        
+        // 用户信息
+        email: user.email,
+        displayName: user.displayName,
+        photoURL: user.photoURL
+      };
+
+      // 上传到 Firestore（使用 merge 来避免覆盖其他字段）
+      await setDoc(userRef, localData, { merge: true });
+
+      console.log('✅ 所有数据已同步到云端:', {
+        视频收藏数: localData.favoriteVideos.length,
+        观看历史数: localData.viewHistory.length,
+        频道收藏数: localData.favoriteChannels.length
+      });
+    } catch (error) {
+      console.error('❌ 同步数据失败:', error);
+      throw error;
+    }
+  }
+
+  // 智能合并数组数据（去重，保留最新）
+  function mergeArrayData(localArray, cloudArray, keyField = 'videoId') {
+    const merged = [...cloudArray];
+    const existingKeys = new Set(cloudArray.map(item => item[keyField]));
+    
+    // 添加本地独有的项
+    for (const item of localArray) {
+      if (!existingKeys.has(item[keyField])) {
+        merged.push(item);
+      }
+    }
+    
+    // 按时间戳排序（如果有）
+    if (merged.length > 0 && merged[0].timestamp) {
+      merged.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+    }
+    
+    return merged;
+  }
+
+  // Load user data from Firestore with smart merging
+  async function loadUserData(user, options = {}) {
+    if (!user) return;
+    
+    const { skipReload = false, silent = false } = options;
+
+    try {
+      const userRef = doc(db, 'users', user.uid);
+      const userDoc = await getDoc(userRef);
+
+      if (userDoc.exists()) {
+        const cloudData = userDoc.data();
+        console.log('📥 正在从云端加载数据...');
+        
+        // === 1. 合并视频收藏（去重） ===
+        if (cloudData.favoriteVideos) {
+          const localFavorites = JSON.parse(localStorage.getItem('favoriteVideos') || '[]');
+          const mergedFavorites = mergeArrayData(localFavorites, cloudData.favoriteVideos, 'videoId');
+          localStorage.setItem('favoriteVideos', JSON.stringify(mergedFavorites));
+          console.log('✅ 视频收藏已合并:', mergedFavorites.length, '个');
+        }
+        
+        // === 2. 合并观看历史（去重，保留最新100条） ===
+        if (cloudData.viewHistory) {
+          const localHistory = JSON.parse(localStorage.getItem('viewHistory') || '[]');
+          const mergedHistory = mergeArrayData(localHistory, cloudData.viewHistory, 'videoId');
+          // 限制最大数量
+          const limitedHistory = mergedHistory.slice(0, 100);
+          localStorage.setItem('viewHistory', JSON.stringify(limitedHistory));
+          console.log('✅ 观看历史已合并:', limitedHistory.length, '个');
+        }
+        
+        // === 3. 合并频道收藏（去重） ===
+        if (cloudData.favoriteChannels) {
+          const localChannels = JSON.parse(localStorage.getItem('favoriteChannels') || '[]');
+          const mergedChannels = [...new Set([...cloudData.favoriteChannels, ...localChannels])];
+          localStorage.setItem('favoriteChannels', JSON.stringify(mergedChannels));
+          console.log('✅ 频道收藏已合并:', mergedChannels.length, '个');
+        }
+        
+        // === 4. 最后观看的频道（使用云端最新的） ===
+        if (cloudData.lastWatchedChannel) {
+          localStorage.setItem('lastWatchedChannel', JSON.stringify(cloudData.lastWatchedChannel));
+          console.log('✅ 最后观看频道已更新');
+        }
+        
+        // === 5. 用户设置（优先使用云端设置） ===
+        if (cloudData.settings) {
+          const settings = cloudData.settings;
+          
+          if (settings.language) {
+            localStorage.setItem('language', settings.language);
+          }
+          if (settings.theme) {
+            localStorage.setItem('theme', settings.theme);
+          }
+          if (settings.footerVisibility !== undefined) {
+            localStorage.setItem('footerVisibility', settings.footerVisibility.toString());
+          }
+          if (settings.defaultFullscreen !== undefined) {
+            localStorage.setItem('defaultFullscreen', settings.defaultFullscreen.toString());
+          }
+          if (settings.isFullscreen !== undefined) {
+            localStorage.setItem('isFullscreen', settings.isFullscreen.toString());
+          }
+          
+          console.log('✅ 用户设置已更新');
+        }
+
+        console.log('🎉 所有数据加载完成！');
+        
+        // 标记数据已加载，避免重复加载
+        sessionStorage.setItem('dataLoaded', 'true');
+        
+        // 延迟一下确保 DOM 和所有脚本都已加载完成
+        setTimeout(() => {
+          // 触发 UI 更新
+          if (window.updateFavoriteButtonState) {
+            window.updateFavoriteButtonState();
+          }
+          
+          // 刷新历史记录显示
+          if (window.displayViewHistory) {
+            window.displayViewHistory();
+          }
+          
+          // 更新视频收藏数量
+          if (window.updateHistoryFavoritesCount) {
+            window.updateHistoryFavoritesCount();
+          }
+          
+          // 更新频道收藏数量
+          if (window.updateFavoritesCount) {
+            window.updateFavoritesCount();
+          }
+          
+          // 刷新频道列表显示（如果当前在收藏视图）
+          if (window.switchChannelFilter) {
+            const activeTab = document.querySelector('.filter-tab.active');
+            if (activeTab && activeTab.getAttribute('data-filter') === 'favorites') {
+              window.switchChannelFilter('favorites');
+            }
+          }
+          
+          // 显示同步成功通知
+          if (!silent && window.showNotification) {
+            const lang = localStorage.getItem('language') || 'ja';
+            const historyCount = cloudData.viewHistory?.length || 0;
+            const channelCount = cloudData.favoriteChannels?.length || 0;
+            const messages = {
+              ja: `データを読み込みました (動画: ${historyCount}件, チャンネル: ${channelCount}件)`,
+              en: `Data loaded (Videos: ${historyCount}, Channels: ${channelCount})`,
+              zh: `数据已加载 (视频: ${historyCount}条, 频道: ${channelCount}个)`
+            };
+            window.showNotification(messages[lang], 'success');
+          }
+        }, 500);
+        
+        // 如果语言或主题改变了，需要刷新页面（只刷新一次）
+        if (!skipReload) {
+          const needsReload = sessionStorage.getItem('needsReload');
+          if (needsReload === 'true') {
+            sessionStorage.removeItem('needsReload');
+            sessionStorage.removeItem('dataLoaded'); // 清除加载标记，以便下次登录时重新加载
+            setTimeout(() => {
+              window.location.reload();
+            }, 1000);
+          }
+        }
+        
+      } else {
+        // 首次登录，上传本地数据到云端
+        console.log('📤 首次登录，正在上传本地数据...');
+        await syncUserData(user);
+        sessionStorage.setItem('dataLoaded', 'true');
+      }
+    } catch (error) {
+      console.error('❌ 加载数据失败:', error);
+    }
+  }
+
+  // Auth state observer
+  onAuthStateChanged(auth, async (user) => {
+    if (user) {
+      // User is signed in
+      console.log('User is signed in:', user.displayName);
+      
+      // Update UI
+      loginButton.style.display = 'none';
+      userProfile.style.display = 'flex';
+      userAvatar.src = user.photoURL || 'img/default-avatar.png';
+      userAvatarMenu.src = user.photoURL || 'img/default-avatar.png';
+      userNameMenu.textContent = user.displayName || 'User';
+      userEmailMenu.textContent = user.email || '';
+
+      // 检查是否已经加载过数据（防止重复加载）
+      const dataLoaded = sessionStorage.getItem('dataLoaded');
+      if (dataLoaded !== 'true') {
+        // Load user data from cloud
+        await loadUserData(user);
+      } else {
+        console.log('数据已加载，跳过重复加载');
+      }
+    } else {
+      // User is signed out
+      console.log('User is signed out');
+      
+      // 清除数据加载标记
+      sessionStorage.removeItem('dataLoaded');
+      sessionStorage.removeItem('needsReload');
+      
+      // Update UI
+      loginButton.style.display = 'block';
+      userProfile.style.display = 'none';
+      userMenu?.classList.remove('show');
+    }
+  });
+
+  // Make functions available globally
+  window.syncUserData = syncUserData;
+  window.loadUserData = loadUserData;
+
+  // Helper function to get i18n text
+  function getI18nText(key) {
+    const lang = localStorage.getItem('selectedLanguage') || 'ja';
+    const i18n = {
+      ja: {
+        login_success: 'ログインしました',
+        login_error: 'ログインエラー',
+        logout_success: 'ログアウトしました',
+        logout_error: 'ログアウトエラー',
+        sync_success: 'データを同期しました',
+        sync_error: '同期エラー',
+        switch_success: 'アカウントを切り替えました',
+        switch_error: '切り替えエラー'
+      },
+      en: {
+        login_success: 'Logged in successfully',
+        login_error: 'Login error',
+        logout_success: 'Logged out successfully',
+        logout_error: 'Logout error',
+        sync_success: 'Data synced successfully',
+        sync_error: 'Sync error',
+        switch_success: 'Account switched successfully',
+        switch_error: 'Switch error'
+      },
+      zh: {
+        login_success: '登录成功',
+        login_error: '登录错误',
+        logout_success: '登出成功',
+        logout_error: '登出错误',
+        sync_success: '数据同步成功',
+        sync_error: '同步错误',
+        switch_success: '账户切换成功',
+        switch_error: '切换错误'
+      }
+    };
+    return i18n[lang]?.[key] || i18n['ja'][key];
+  }
+</script>
 
 </body>
 </html>

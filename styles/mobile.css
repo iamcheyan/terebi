@@ -170,14 +170,17 @@ html.mobile-device .page-header {
     animation: overlayFadeIn 0.3s ease-out;
     background: rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(8px);
+    padding: 5px 10px;
 }
-
+html.mobile-device .icon-button {
+    zoom: 0.8;
+}
 html.mobile-device .page-header .logo {
     margin-right: 10px;
 }
 
 html.mobile-device .page-header h1 {
-    font-size: 22px;
+    display: none;
 }
 
 html.mobile-device .page-header .tagline {
@@ -797,4 +800,68 @@ html.mobile-device .view-history-overlay {
 
 html.mobile-device .view-history-panel {
     z-index: 10002;
+}
+
+/* === 移动端用户账户样式 === */
+html.mobile-device .user-account {
+    margin-left: 8px;
+}
+
+html.mobile-device .login-btn {
+    zoom: 0.8;
+    background-color: #fff;
+}
+
+html.mobile-device .login-btn svg {
+    width: 16px;
+    height: 16px;
+}
+
+html.mobile-device .user-avatar {
+    width: 36px;
+    height: 36px;
+}
+
+html.mobile-device .user-menu {
+    right: -10px;
+    min-width: 260px;
+    max-width: calc(100vw - 40px);
+}
+
+html.mobile-device .user-menu-header {
+    padding: 10px;
+}
+
+html.mobile-device .user-avatar-large {
+    width: 44px;
+    height: 44px;
+}
+
+html.mobile-device .user-name {
+    font-size: 14px;
+}
+
+html.mobile-device .user-email {
+    font-size: 12px;
+}
+
+html.mobile-device .user-menu-item {
+    padding: 14px;
+    font-size: 15px;
+    min-height: 48px;
+}
+
+html.mobile-device .user-menu-item svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* 移动端通知 */
+html.mobile-device .notification {
+    top: 20px !important;
+    right: 10px !important;
+    left: 10px !important;
+    max-width: none !important;
+    font-size: 13px !important;
+    padding: 14px 18px !important;
 }

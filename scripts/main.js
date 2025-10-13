@@ -1,3 +1,40 @@
+// 简单的通知功能
+function showNotification(message, type = 'info') {
+    console.log(`[${type.toUpperCase()}] ${message}`);
+    
+    // 创建通知元素
+    const notification = document.createElement('div');
+    notification.className = `notification notification-${type}`;
+    notification.textContent = message;
+    notification.style.cssText = `
+        position: fixed;
+        top: 80px;
+        right: 20px;
+        padding: 16px 24px;
+        background: ${type === 'success' ? '#4CAF50' : type === 'error' ? '#f44336' : '#2196F3'};
+        color: white;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        z-index: 10000;
+        animation: slideIn 0.3s ease;
+        font-size: 14px;
+        max-width: 320px;
+    `;
+    
+    document.body.appendChild(notification);
+    
+    // 3秒后自动移除
+    setTimeout(() => {
+        notification.style.animation = 'slideOut 0.3s ease';
+        setTimeout(() => {
+            document.body.removeChild(notification);
+        }, 300);
+    }, 3000);
+}
+
+// Make notification function globally available
+window.showNotification = showNotification;
+
 // 多语言配置
 const i18n = {
     ja: {
@@ -64,7 +101,19 @@ const i18n = {
         favorite_video: 'お気に入りに追加',
         unfavorite_video: 'お気に入りから削除',
         video_favorited: 'お気に入りに追加しました',
-        video_unfavorited: 'お気に入りから削除しました'
+        video_unfavorited: 'お気に入りから削除しました',
+        
+        // 用户账户
+        login: 'ログイン',
+        logout: 'ログアウト',
+        sync_data: 'データを同期',
+        switch_account: 'アカウントを切り替え',
+        login_success: 'ログインしました',
+        login_error: 'ログインエラー',
+        logout_success: 'ログアウトしました',
+        logout_error: 'ログアウトエラー',
+        sync_success: 'データを同期しました',
+        sync_error: '同期エラー'
     },
     en: {
         // 设置面板
@@ -130,7 +179,19 @@ const i18n = {
         favorite_video: 'Add to favorites',
         unfavorite_video: 'Remove from favorites',
         video_favorited: 'Added to favorites',
-        video_unfavorited: 'Removed from favorites'
+        video_unfavorited: 'Removed from favorites',
+        
+        // 用户账户
+        login: 'Login',
+        logout: 'Logout',
+        sync_data: 'Sync Data',
+        switch_account: 'Switch Account',
+        login_success: 'Logged in successfully',
+        login_error: 'Login error',
+        logout_success: 'Logged out successfully',
+        logout_error: 'Logout error',
+        sync_success: 'Data synced successfully',
+        sync_error: 'Sync error'
     },
     zh: {
         // 设置面板
@@ -196,7 +257,19 @@ const i18n = {
         favorite_video: '收藏节目',
         unfavorite_video: '取消收藏',
         video_favorited: '已添加到收藏',
-        video_unfavorited: '已取消收藏'
+        video_unfavorited: '已取消收藏',
+        
+        // 用户账户
+        login: '登录',
+        logout: '登出',
+        sync_data: '同步数据',
+        switch_account: '切换账户',
+        login_success: '登录成功',
+        login_error: '登录错误',
+        logout_success: '登出成功',
+        logout_error: '登出错误',
+        sync_success: '数据同步成功',
+        sync_error: '同步错误'
     }
 };
 
@@ -239,6 +312,9 @@ function setLanguage(lang) {
         }
         
         console.log('语言已切换到:', lang);
+        
+        // 自动同步设置到云端
+        autoSyncData();
     }
 }
 
@@ -772,8 +848,12 @@ function createChannelButton(channel) {
             // 保存当前选择的频道信息到本地存储
             localStorage.setItem('lastWatchedChannel', JSON.stringify({
                 name: channelName,
-                url: channelUrl
+                url: channelUrl,
+                timestamp: new Date().toISOString()
             }));
+            
+            // 自动同步到云端
+            autoSyncData();
             
             // 移除所有频道按钮的活跃状态
             document.querySelectorAll('.channel-item').forEach(btn => {
@@ -963,11 +1043,11 @@ async function getChannelUploads(channelId, channelName) {
                     return true;
                 })
                 .map(video => ({
-                    videoId: video.id,
-                    title: video.title,
-                    thumbnail: video.thumbnail,
-                    url: video.url
-                }));
+                videoId: video.id,
+                title: video.title,
+                thumbnail: video.thumbnail,
+                url: video.url
+            }));
             
             if (videoItems.length === 0) {
                 statusElement.textContent = 'このチャンネルには再生可能な動画がありません';
@@ -1468,6 +1548,9 @@ function setTheme(theme, persist = false) {
         try {
             localStorage.setItem(THEME_STORAGE_KEY, resolvedTheme);
             hasStoredThemePreference = true;
+            
+            // 自动同步主题设置到云端
+            autoSyncData();
         } catch (error) {
             console.warn('无法保存主题设置到本地存储:', error);
         }
@@ -1706,6 +1789,7 @@ function initSettings() {
         
         localStorage.setItem('footerVisibility', isVisible.toString());
         console.log('Footer显示状态已更新:', isVisible ? '显示' : '隐藏');
+        autoSyncData();
     });
     
     // 默认全屏设置
@@ -1713,6 +1797,7 @@ function initSettings() {
         const isDefaultFullscreen = this.checked;
         localStorage.setItem('defaultFullscreen', isDefaultFullscreen.toString());
         console.log('默认全屏状态已更新:', isDefaultFullscreen ? '启用' : '禁用');
+        autoSyncData();
     });
     
     // 语言切换设置
@@ -2547,6 +2632,9 @@ function toggleFavorite(channelName, button) {
     saveFavoriteChannels(favorites);
     updateFavoritesCount();
     
+    // 自动同步到云端
+    autoSyncData();
+    
     // 如果当前在收藏视图，刷新显示
     const activeTab = document.querySelector('.filter-tab.active');
     if (activeTab && activeTab.getAttribute('data-filter') === 'favorites') {
@@ -2941,6 +3029,9 @@ function addToViewHistory(videoInfo) {
     
     saveViewHistory(history);
     console.log('已添加到观看历史:', historyItem.title);
+    
+    // 自动同步到云端
+    autoSyncData();
 }
 
 // 初始化观看历史功能
@@ -3089,6 +3180,9 @@ function clearViewHistory() {
             alert(clearedMessage);
             
             console.log('观看历史已清空');
+            
+            // 自动同步到云端
+            autoSyncData();
         } catch (error) {
             console.error('清空观看历史失败:', error);
         }
@@ -3162,6 +3256,9 @@ function toggleVideoFavorite(videoId) {
         displayViewHistory();
     }
     
+    // 自动同步到云端
+    autoSyncData();
+    
     return !isFavorited;
 }
 
@@ -3203,12 +3300,18 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
-// 更新历史记录收藏数量
+// 更新历史记录收藏数量（只显示在历史记录中且被收藏的数量）
 function updateHistoryFavoritesCount() {
+    const history = getViewHistory();
     const favorites = getFavoriteVideos();
+    const favoriteVideoIds = favorites.map(fav => fav.videoId);
+    
+    // 统计在历史记录中且被收藏的视频数量
+    const favoritedInHistory = history.filter(item => favoriteVideoIds.includes(item.videoId));
+    
     const countElement = document.getElementById('historyFavoritesCount');
     if (countElement) {
-        countElement.textContent = favorites.length;
+        countElement.textContent = favoritedInHistory.length;
     }
 }
 
@@ -3340,3 +3443,42 @@ function displayViewHistory() {
         historyList.appendChild(historyItem);
     });
 }
+
+// === 自动同步功能 ===
+
+// 防抖计时器
+let autoSyncTimer = null;
+
+// 自动同步数据到云端（带防抖）
+function autoSyncData() {
+    // 检查是否已登录和 Firebase 是否可用
+    if (!window.firebaseAuth || !window.syncUserData) {
+        return;
+    }
+    
+    const user = window.firebaseAuth.currentUser;
+    if (!user) {
+        // 用户未登录，不需要同步
+        return;
+    }
+    
+    // 清除之前的计时器
+    if (autoSyncTimer) {
+        clearTimeout(autoSyncTimer);
+    }
+    
+    // 延迟1秒后同步，避免频繁操作时多次同步
+    autoSyncTimer = setTimeout(async () => {
+        try {
+            console.log('正在自动同步数据到云端...');
+            await window.syncUserData(user);
+            console.log('数据已自动同步');
+        } catch (error) {
+            console.error('自动同步失败:', error);
+            // 静默失败，不打扰用户
+        }
+    }, 1000);
+}
+
+// 使自动同步函数全局可用
+window.autoSyncData = autoSyncData;
