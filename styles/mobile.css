@@ -591,3 +591,210 @@ html.mobile-device .favorite-btn {
     padding: 4px 6px;
     opacity: 1;
 }
+
+/* 观看历史面板移动端适配 */
+html.mobile-device .view-history-panel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 0;
+    transform: none;
+    border-left: none;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+html.mobile-device .view-history-panel.show {
+    right: 0;
+    left: 0;
+    visibility: visible;
+    opacity: 1;
+}
+
+html.mobile-device .view-history-panel[inert] {
+    pointer-events: none;
+    visibility: hidden;
+    opacity: 0;
+}
+
+html.mobile-device .view-history-content {
+    padding: 20px 16px 16px;
+    height: 100%;
+    overflow-y: auto;
+}
+
+/* 历史记录标题 */
+html.mobile-device .history-header {
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+html.mobile-device .history-header h3 {
+    font-size: 1.4rem;
+    width: 100%;
+}
+
+html.mobile-device .history-actions {
+    width: 100%;
+    justify-content: flex-end;
+}
+
+/* 清空历史按钮 */
+html.mobile-device .clear-history-btn {
+    padding: 8px 14px;
+    font-size: 0.85rem;
+    gap: 6px;
+}
+
+html.mobile-device .clear-history-btn svg {
+    width: 16px;
+    height: 16px;
+}
+
+/* 历史统计 */
+html.mobile-device .history-stats {
+    padding: 12px 16px;
+    margin-bottom: 16px;
+    font-size: 0.9rem;
+    border-radius: 10px;
+}
+
+html.mobile-device .history-stats span:last-child {
+    font-size: 1rem;
+}
+
+/* 历史筛选标签 */
+html.mobile-device .history-filter-tabs {
+    padding: 4px;
+    gap: 6px;
+    margin-bottom: 16px;
+    border-radius: 10px;
+}
+
+html.mobile-device .history-filter-tab {
+    padding: 8px 12px;
+    font-size: 0.85rem;
+    border-radius: 6px;
+}
+
+html.mobile-device .history-filter-tab .tab-icon {
+    font-size: 0.95rem;
+}
+
+html.mobile-device .history-filter-tab .favorites-count {
+    min-width: 18px;
+    height: 18px;
+    padding: 0 5px;
+    font-size: 0.7rem;
+}
+
+/* 历史记录列表 */
+html.mobile-device .history-list {
+    gap: 10px;
+    padding-bottom: 20px;
+}
+
+html.mobile-device .history-empty {
+    padding: 40px 16px;
+    font-size: 0.95rem;
+}
+
+/* 历史记录项 */
+html.mobile-device .history-item {
+    padding: 10px;
+    gap: 10px;
+    border-radius: 10px;
+}
+
+html.mobile-device .history-item::before {
+    width: 2px;
+}
+
+/* 历史记录缩略图 */
+html.mobile-device .history-thumbnail {
+    width: 80px;
+    height: 45px;
+    border-radius: 6px;
+}
+
+/* 历史记录信息 */
+html.mobile-device .history-info {
+    gap: 4px;
+}
+
+html.mobile-device .history-title-container {
+    gap: 6px;
+}
+
+html.mobile-device .history-title {
+    font-size: 0.85rem;
+    line-height: 1.3;
+}
+
+html.mobile-device .history-channel {
+    font-size: 0.75rem;
+}
+
+html.mobile-device .history-time {
+    font-size: 0.7rem;
+}
+
+/* 历史记录收藏按钮 */
+html.mobile-device .history-favorite-btn {
+    width: 20px;
+    height: 20px;
+    font-size: 0.95rem;
+}
+
+/* 历史记录播放按钮 */
+html.mobile-device .history-play-btn {
+    width: 36px;
+    height: 36px;
+    font-size: 1rem;
+}
+
+/* 节目收藏按钮（footer中的） */
+html.mobile-device .favorite-video-btn {
+    width: 30px;
+    height: 30px;
+}
+
+html.mobile-device .favorite-video-btn svg {
+    width: 16px;
+    height: 16px;
+}
+
+html.mobile-device .program-title-container {
+    gap: 8px;
+}
+
+/* 关闭按钮移动端优化 */
+html.mobile-device .view-history-panel .close-btn {
+    top: 16px;
+    right: 16px;
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+}
+
+html.mobile-device .view-history-panel .close-btn svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* 历史记录遮罩层 */
+html.mobile-device .view-history-overlay {
+    z-index: 10001;
+}
+
+html.mobile-device .view-history-panel {
+    z-index: 10002;
+}

@@ -59,6 +59,14 @@
                 </svg>
             </a>
         </div>
+        <div class="view-history">
+            <button id="viewHistoryButton" class="icon-button" title="观看历史" aria-label="观看历史">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <polyline points="12 6 12 12 16 14"></polyline>
+                </svg>
+            </button>
+        </div>
         <div class="channel-stats">
             <button id="channelStatsButton" class="icon-button" title="频道统计" aria-label="频道统计">
                 <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -111,9 +119,16 @@
                             <img id="currentChannelLogo" src="img/default-logo.png" alt="频道标志">
                         </div>
                         <div class="program-info">
-                            <a id="currentVideoTitleLink" href="#" target="_blank" class="program-title-link">
-                                <span id="currentVideoTitle" class="program-title">未选择节目</span>
-                            </a>
+                            <div class="program-title-container">
+                                <a id="currentVideoTitleLink" href="#" target="_blank" class="program-title-link">
+                                    <span id="currentVideoTitle" class="program-title">未选择节目</span>
+                                </a>
+                                <button id="favoriteVideoBtn" class="favorite-video-btn" title="收藏节目" style="display: none;">
+                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                                    </svg>
+                                </button>
+                            </div>
                             <div id="currentChannelName" class="channel-name" style="display: none;">未选择频道</div>
                             <div id="currentChannelUrl" class="channel-url">https://www.youtube.com/</div>
                         </div>
@@ -391,6 +406,53 @@
 
 <!-- 频道统计面板遮罩层 -->
 <div id="channelStatsOverlay" class="channel-stats-overlay"></div>
+
+<!-- 观看历史面板 -->
+<div id="viewHistoryPanel" class="view-history-panel">
+    <button id="closeViewHistory" class="close-btn" aria-label="关闭观看历史">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+    </button>
+    <div class="view-history-content">
+        <div class="history-header">
+            <h3 data-i18n="view_history">观看历史</h3>
+            <div class="history-actions">
+                <button id="clearHistoryBtn" class="clear-history-btn" title="清空历史记录">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 6h18M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2"></path>
+                    </svg>
+                    <span data-i18n="clear_history_btn">清空历史</span>
+                </button>
+            </div>
+        </div>
+        
+        <div class="history-stats">
+            <span data-i18n="history_count_label">总记录数：</span>
+            <span id="historyCount">0</span>
+        </div>
+        
+        <!-- 全部/收藏切换标签 -->
+        <div class="history-filter-tabs">
+            <button class="history-filter-tab active" data-filter="all" onclick="switchHistoryFilter('all')">
+                <span class="tab-text" data-i18n="history_all">全部</span>
+            </button>
+            <button class="history-filter-tab" data-filter="favorites" onclick="switchHistoryFilter('favorites')">
+                <span class="tab-icon">⭐</span>
+                <span class="tab-text" data-i18n="history_favorites">收藏</span>
+                <span class="favorites-count" id="historyFavoritesCount">0</span>
+            </button>
+        </div>
+        
+        <div id="historyList" class="history-list">
+            <!-- 历史记录将在这里显示 -->
+        </div>
+    </div>
+</div>
+
+<!-- 观看历史面板遮罩层 -->
+<div id="viewHistoryOverlay" class="view-history-overlay" role="presentation"></div>
 
 </body>
 </html>

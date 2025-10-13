@@ -50,7 +50,21 @@ const i18n = {
         by_region: '地域別',
         channel_details: 'チャンネル詳細',
         search_channels: 'チャンネルを検索...',
-        chart_total_channels: 'チャンネル'
+        chart_total_channels: 'チャンネル',
+        
+        // 观看历史
+        view_history: '視聴履歴',
+        clear_history_btn: '履歴をクリア',
+        history_count_label: '総記録数：',
+        confirm_clear_history: '視聴履歴をクリアしますか？',
+        history_cleared: '履歴がクリアされました',
+        no_history: '視聴履歴がありません',
+        history_all: 'すべて',
+        history_favorites: 'お気に入り',
+        favorite_video: 'お気に入りに追加',
+        unfavorite_video: 'お気に入りから削除',
+        video_favorited: 'お気に入りに追加しました',
+        video_unfavorited: 'お気に入りから削除しました'
     },
     en: {
         // 设置面板
@@ -102,7 +116,21 @@ const i18n = {
         by_region: 'By Region',
         channel_details: 'Channel Details',
         search_channels: 'Search channels...',
-        chart_total_channels: 'Channels'
+        chart_total_channels: 'Channels',
+        
+        // 观看历史
+        view_history: 'View History',
+        clear_history_btn: 'Clear History',
+        history_count_label: 'Total Records: ',
+        confirm_clear_history: 'Clear viewing history?',
+        history_cleared: 'History cleared',
+        no_history: 'No viewing history',
+        history_all: 'All',
+        history_favorites: 'Favorites',
+        favorite_video: 'Add to favorites',
+        unfavorite_video: 'Remove from favorites',
+        video_favorited: 'Added to favorites',
+        video_unfavorited: 'Removed from favorites'
     },
     zh: {
         // 设置面板
@@ -154,7 +182,21 @@ const i18n = {
         by_region: '按地区分类',
         channel_details: '频道详情',
         search_channels: '搜索频道...',
-        chart_total_channels: '频道'
+        chart_total_channels: '频道',
+        
+        // 观看历史
+        view_history: '观看历史',
+        clear_history_btn: '清空历史',
+        history_count_label: '总记录数：',
+        confirm_clear_history: '是否清空观看历史？',
+        history_cleared: '历史记录已清空',
+        no_history: '暂无观看历史',
+        history_all: '全部',
+        history_favorites: '收藏',
+        favorite_video: '收藏节目',
+        unfavorite_video: '取消收藏',
+        video_favorited: '已添加到收藏',
+        video_unfavorited: '已取消收藏'
     }
 };
 
@@ -885,12 +927,54 @@ async function getChannelUploads(channelId, channelName) {
         
         // 检查是否有视频数据
         if (videoListData && videoListData.videos && videoListData.videos.length > 0) {
-            const videoItems = videoListData.videos.map(video => ({
-                videoId: video.id,
-                title: video.title,
-                thumbnail: video.thumbnail,
-                url: video.url
-            }));
+            // 过滤掉不可播放的视频
+            const videoItems = videoListData.videos
+                .filter(video => {
+                    // 过滤条件：排除私有视频、已删除视频和无效视频
+                    if (!video.id || !video.title || !video.url) {
+                        return false;
+                    }
+                    
+                    // 检查标题是否包含私有或删除的标记
+                    const title = video.title.toLowerCase();
+                    const invalidTitles = [
+                        'private video',
+                        'deleted video',
+                        '[private video]',
+                        '[deleted video]',
+                        'プライベート動画',
+                        '削除された動画',
+                        '非公開動画'
+                    ];
+                    
+                    for (const invalidTitle of invalidTitles) {
+                        if (title.includes(invalidTitle)) {
+                            console.log('过滤掉不可播放的视频:', video.title);
+                            return false;
+                        }
+                    }
+                    
+                    // 检查缩略图是否有效（排除默认的占位图）
+                    if (video.thumbnail && video.thumbnail.includes('no_thumbnail')) {
+                        console.log('过滤掉没有缩略图的视频:', video.title);
+                        return false;
+                    }
+                    
+                    return true;
+                })
+                .map(video => ({
+                    videoId: video.id,
+                    title: video.title,
+                    thumbnail: video.thumbnail,
+                    url: video.url
+                }));
+            
+            if (videoItems.length === 0) {
+                statusElement.textContent = 'このチャンネルには再生可能な動画がありません';
+                return;
+            }
+            
+            console.log(`过滤后的视频数量: ${videoItems.length} / ${videoListData.videos.length}`);
             
             videoContainer.style.display = 'none';
             startRandomPlayback(videoItems);
@@ -965,12 +1049,33 @@ function playVideo(videoId) {
             url: currentVideo.url
         });
         
+        // 添加到观看历史
+        try {
+            const lastWatchedChannel = localStorage.getItem('lastWatchedChannel');
+            let channelName = '未知频道';
+            if (lastWatchedChannel) {
+                const channelInfo = JSON.parse(lastWatchedChannel);
+                channelName = channelInfo.name;
+            }
+            
+            addToViewHistory({
+                videoId: currentVideo.videoId,
+                title: currentVideo.title,
+                thumbnail: currentVideo.thumbnail,
+                url: currentVideo.url,
+                channelName: channelName
+            });
+        } catch (error) {
+            console.error('添加到观看历史失败:', error);
+        }
+        
         // 更新页脚中的视频信息 - 添加元素存在性检查
         const logoElement = document.getElementById('currentChannelLogo');
         const titleElement = document.getElementById('currentVideoTitle');
         const titleLinkElement = document.getElementById('currentVideoTitleLink');
         const urlElement = document.getElementById('currentChannelUrl');
         const nameElement = document.getElementById('currentChannelName');
+        const favoriteBtn = document.getElementById('favoriteVideoBtn');
         
         if (logoElement) {
             // 设置缩略图并添加多级回退
@@ -1007,6 +1112,13 @@ function playVideo(videoId) {
         if (titleElement) titleElement.textContent = currentVideo.title;
         if (titleLinkElement) titleLinkElement.href = currentVideo.url;
         if (urlElement) urlElement.textContent = currentVideo.url;
+        
+        // 显示并更新收藏按钮状态
+        if (favoriteBtn) {
+            favoriteBtn.style.display = 'flex';
+            favoriteBtn.setAttribute('data-video-id', currentVideo.videoId);
+            updateFavoriteButtonState(currentVideo.videoId);
+        }
         
         // 尝试从localStorage获取当前频道名称
         if (nameElement) {
@@ -1128,19 +1240,24 @@ function onPlayerError(event) {
     // 150: 同101（版权限制）
     
     let errorMessage = '';
+    let shouldRemoveFromPlaylist = false;
+    
     switch (event.data) {
         case 2:
             errorMessage = '動画パラメータが無効です';
+            shouldRemoveFromPlaylist = true;
             break;
         case 5:
             errorMessage = 'HTML5プレーヤーエラー';
             break;
         case 100:
             errorMessage = '動画が存在しないか、削除されました';
+            shouldRemoveFromPlaylist = true;
             break;
         case 101:
         case 150:
             errorMessage = '動画を再生できません（著作権者の要望によりブロックされています）';
+            shouldRemoveFromPlaylist = true;
             break;
         default:
             errorMessage = '不明なエラー';
@@ -1148,6 +1265,17 @@ function onPlayerError(event) {
     
     console.log('错误信息:', errorMessage, '- 自动切换到下一个视频');
     statusElement.textContent = `${errorMessage} - 次の動画に切り替えています...`;
+    
+    // 如果需要，从播放列表中移除无法播放的视频
+    if (shouldRemoveFromPlaylist && window.videoPlaylist && window.videoPlaylist.length > 1) {
+        const currentVideo = player && player.getVideoData ? player.getVideoData() : null;
+        if (currentVideo && currentVideo.video_id) {
+            const videoId = currentVideo.video_id;
+            const beforeLength = window.videoPlaylist.length;
+            window.videoPlaylist = window.videoPlaylist.filter(v => v.videoId !== videoId);
+            console.log(`从播放列表中移除无法播放的视频 (${videoId}), 剩余: ${window.videoPlaylist.length}/${beforeLength}`);
+        }
+    }
     
     // 自动切换到下一个视频
     if (window.videoPlaylist && window.videoPlaylist.length > 0) {
@@ -1157,7 +1285,9 @@ function onPlayerError(event) {
             console.log('自动切换到下一个视频:', nextVideo.title);
             statusElement.textContent = '再生中: ' + nextVideo.url;
             playVideo(nextVideo.videoId);
-        }, 2000); // 等待2秒后切换，让用户看到错误信息
+        }, 1500); // 等待1.5秒后切换
+    } else {
+        statusElement.textContent = '再生可能な動画がありません';
     }
 }
 
@@ -2754,4 +2884,456 @@ function updateStatsContent(message) {
 // 在DOMContentLoaded事件中初始化频道统计功能
 document.addEventListener('DOMContentLoaded', function() {
     initChannelStats();
+    initViewHistory();
 });
+
+// === 观看历史功能 ===
+
+const MAX_HISTORY_ITEMS = 100; // 最多保存100条记录
+
+// 获取观看历史
+function getViewHistory() {
+    try {
+        const history = localStorage.getItem('viewHistory');
+        return history ? JSON.parse(history) : [];
+    } catch (error) {
+        console.error('获取观看历史失败:', error);
+        return [];
+    }
+}
+
+// 保存观看历史
+function saveViewHistory(history) {
+    try {
+        localStorage.setItem('viewHistory', JSON.stringify(history));
+    } catch (error) {
+        console.error('保存观看历史失败:', error);
+    }
+}
+
+// 添加到观看历史
+function addToViewHistory(videoInfo) {
+    let history = getViewHistory();
+    
+    // 创建历史记录项
+    const historyItem = {
+        videoId: videoInfo.videoId,
+        title: videoInfo.title,
+        thumbnail: videoInfo.thumbnail,
+        url: videoInfo.url,
+        channelName: videoInfo.channelName || '未知频道',
+        timestamp: new Date().toISOString()
+    };
+    
+    // 移除相同视频的旧记录
+    history = history.filter(item => item.videoId !== videoInfo.videoId);
+    
+    // 添加到开头
+    history.unshift(historyItem);
+    
+    // 限制最大数量
+    if (history.length > MAX_HISTORY_ITEMS) {
+        history = history.slice(0, MAX_HISTORY_ITEMS);
+    }
+    
+    saveViewHistory(history);
+    console.log('已添加到观看历史:', historyItem.title);
+}
+
+// 初始化观看历史功能
+function initViewHistory() {
+    const historyButton = document.getElementById('viewHistoryButton');
+    const historyPanel = document.getElementById('viewHistoryPanel');
+    const historyOverlay = document.getElementById('viewHistoryOverlay');
+    const closeHistoryBtn = document.getElementById('closeViewHistory');
+    const clearHistoryBtn = document.getElementById('clearHistoryBtn');
+    
+    // 初始化面板状态
+    if (historyPanel) {
+        historyPanel.setAttribute('inert', '');
+        console.log('历史记录面板初始化完成');
+    }
+    
+    if (historyButton) {
+        historyButton.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            console.log('历史记录按钮被点击');
+            openViewHistoryPanel();
+            displayViewHistory();
+        });
+    }
+    
+    if (closeHistoryBtn) {
+        closeHistoryBtn.addEventListener('click', function() {
+            closeViewHistoryPanel();
+        });
+    }
+    
+    if (historyOverlay) {
+        historyOverlay.addEventListener('click', function() {
+            closeViewHistoryPanel();
+        });
+    }
+    
+    if (clearHistoryBtn) {
+        clearHistoryBtn.addEventListener('click', function() {
+            clearViewHistory();
+        });
+    }
+    
+    // ESC键关闭面板
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            const panel = document.getElementById('viewHistoryPanel');
+            if (panel && panel.classList.contains('show')) {
+                closeViewHistoryPanel();
+            }
+        }
+    });
+}
+
+// 打开观看历史面板
+function openViewHistoryPanel() {
+    const panel = document.getElementById('viewHistoryPanel');
+    const overlay = document.getElementById('viewHistoryOverlay');
+    
+    if (panel && overlay) {
+        // 先显示面板
+        panel.classList.add('show');
+        overlay.classList.add('show');
+        document.body.style.overflow = 'hidden';
+        document.body.setAttribute('data-modal-open', 'true');
+        
+        // 移除 inert 属性使面板可交互
+        panel.removeAttribute('inert');
+        
+        console.log('历史记录面板已打开');
+    }
+}
+
+// 关闭观看历史面板
+function closeViewHistoryPanel() {
+    const panel = document.getElementById('viewHistoryPanel');
+    const overlay = document.getElementById('viewHistoryOverlay');
+    
+    if (panel && overlay) {
+        panel.classList.remove('show');
+        overlay.classList.remove('show');
+        document.body.style.overflow = '';
+        document.body.removeAttribute('data-modal-open');
+        
+        // 添加 inert 属性使面板不可交互
+        panel.setAttribute('inert', '');
+        
+        console.log('历史记录面板已关闭');
+    }
+}
+
+// 显示观看历史 - 此函数已在文件末尾重新定义以支持筛选功能
+
+// 格式化历史时间
+function formatHistoryTime(timestamp) {
+    const date = new Date(timestamp);
+    const now = new Date();
+    const diff = now - date;
+    
+    const minutes = Math.floor(diff / 60000);
+    const hours = Math.floor(diff / 3600000);
+    const days = Math.floor(diff / 86400000);
+    
+    if (minutes < 1) {
+        return currentLanguage === 'ja' ? 'たった今' : 
+               currentLanguage === 'zh' ? '刚刚' : 'Just now';
+    } else if (minutes < 60) {
+        return currentLanguage === 'ja' ? `${minutes}分前` :
+               currentLanguage === 'zh' ? `${minutes}分钟前` : `${minutes} minutes ago`;
+    } else if (hours < 24) {
+        return currentLanguage === 'ja' ? `${hours}時間前` :
+               currentLanguage === 'zh' ? `${hours}小时前` : `${hours} hours ago`;
+    } else if (days < 7) {
+        return currentLanguage === 'ja' ? `${days}日前` :
+               currentLanguage === 'zh' ? `${days}天前` : `${days} days ago`;
+    } else {
+        return date.toLocaleDateString(currentLanguage === 'ja' ? 'ja-JP' : 
+                                       currentLanguage === 'zh' ? 'zh-CN' : 'en-US');
+    }
+}
+
+// 播放历史视频
+function playHistoryVideo(item) {
+    console.log('播放历史视频:', item.title);
+    
+    // 关闭历史面板
+    closeViewHistoryPanel();
+    
+    // 播放视频
+    if (item.videoId) {
+        playVideo(item.videoId);
+    }
+}
+
+// 清空观看历史
+function clearViewHistory() {
+    const confirmMessage = i18n[currentLanguage].confirm_clear_history || '是否清空观看历史？';
+    
+    if (confirm(confirmMessage)) {
+        try {
+            localStorage.removeItem('viewHistory');
+            displayViewHistory();
+            
+            const clearedMessage = i18n[currentLanguage].history_cleared || '历史记录已清空';
+            alert(clearedMessage);
+            
+            console.log('观看历史已清空');
+        } catch (error) {
+            console.error('清空观看历史失败:', error);
+        }
+    }
+}
+
+// === 收藏视频功能 ===
+
+// 当前历史记录筛选状态
+let currentHistoryFilter = 'all';
+
+// 获取收藏视频列表
+function getFavoriteVideos() {
+    try {
+        const favorites = localStorage.getItem('favoriteVideos');
+        return favorites ? JSON.parse(favorites) : [];
+    } catch (error) {
+        console.error('获取收藏视频失败:', error);
+        return [];
+    }
+}
+
+// 保存收藏视频列表
+function saveFavoriteVideos(favorites) {
+    try {
+        localStorage.setItem('favoriteVideos', JSON.stringify(favorites));
+    } catch (error) {
+        console.error('保存收藏视频失败:', error);
+    }
+}
+
+// 检查视频是否已收藏
+function isVideoFavorited(videoId) {
+    const favorites = getFavoriteVideos();
+    return favorites.some(fav => fav.videoId === videoId);
+}
+
+// 切换视频收藏状态
+function toggleVideoFavorite(videoId) {
+    let favorites = getFavoriteVideos();
+    const isFavorited = favorites.some(fav => fav.videoId === videoId);
+    
+    if (isFavorited) {
+        // 取消收藏
+        favorites = favorites.filter(fav => fav.videoId !== videoId);
+        console.log('取消收藏视频:', videoId);
+    } else {
+        // 添加收藏 - 从历史记录中查找视频信息
+        const history = getViewHistory();
+        const video = history.find(item => item.videoId === videoId);
+        
+        if (video) {
+            favorites.push({
+                videoId: video.videoId,
+                title: video.title,
+                thumbnail: video.thumbnail,
+                url: video.url,
+                channelName: video.channelName,
+                favoritedAt: new Date().toISOString()
+            });
+            console.log('收藏视频:', video.title);
+        }
+    }
+    
+    saveFavoriteVideos(favorites);
+    updateFavoriteButtonState(videoId);
+    updateHistoryFavoritesCount();
+    
+    // 如果当前在收藏筛选视图，刷新显示
+    if (currentHistoryFilter === 'favorites') {
+        displayViewHistory();
+    }
+    
+    return !isFavorited;
+}
+
+// 更新收藏按钮状态
+function updateFavoriteButtonState(videoId) {
+    const favoriteBtn = document.getElementById('favoriteVideoBtn');
+    if (!favoriteBtn) return;
+    
+    const isFavorited = isVideoFavorited(videoId);
+    const svg = favoriteBtn.querySelector('svg polygon');
+    
+    if (isFavorited) {
+        favoriteBtn.classList.add('favorited');
+        if (svg) svg.setAttribute('fill', 'currentColor');
+        favoriteBtn.title = i18n[currentLanguage].unfavorite_video || '取消收藏';
+    } else {
+        favoriteBtn.classList.remove('favorited');
+        if (svg) svg.setAttribute('fill', 'none');
+        favoriteBtn.title = i18n[currentLanguage].favorite_video || '收藏节目';
+    }
+}
+
+// 初始化收藏按钮事件监听
+document.addEventListener('DOMContentLoaded', function() {
+    const favoriteBtn = document.getElementById('favoriteVideoBtn');
+    if (favoriteBtn) {
+        favoriteBtn.addEventListener('click', function() {
+            const videoId = this.getAttribute('data-video-id');
+            if (videoId) {
+                const isFavorited = toggleVideoFavorite(videoId);
+                const message = isFavorited ? 
+                    (i18n[currentLanguage].video_favorited || '已添加到收藏') :
+                    (i18n[currentLanguage].video_unfavorited || '已取消收藏');
+                
+                // 显示提示（可选）
+                console.log(message);
+            }
+        });
+    }
+});
+
+// 更新历史记录收藏数量
+function updateHistoryFavoritesCount() {
+    const favorites = getFavoriteVideos();
+    const countElement = document.getElementById('historyFavoritesCount');
+    if (countElement) {
+        countElement.textContent = favorites.length;
+    }
+}
+
+// 切换历史记录筛选
+function switchHistoryFilter(filter) {
+    console.log('切换历史记录筛选:', filter);
+    currentHistoryFilter = filter;
+    
+    // 更新按钮状态
+    document.querySelectorAll('.history-filter-tab').forEach(tab => {
+        tab.classList.remove('active');
+    });
+    document.querySelector(`.history-filter-tab[data-filter="${filter}"]`).classList.add('active');
+    
+    // 刷新历史记录显示
+    displayViewHistory();
+}
+
+// 修改原有的 displayViewHistory 函数以支持筛选
+function displayViewHistory() {
+    console.log('开始显示观看历史');
+    const history = getViewHistory();
+    const favorites = getFavoriteVideos();
+    const historyList = document.getElementById('historyList');
+    const historyCount = document.getElementById('historyCount');
+    
+    console.log('历史记录数量:', history.length);
+    console.log('收藏数量:', favorites.length);
+    console.log('当前筛选:', currentHistoryFilter);
+    
+    if (!historyList || !historyCount) {
+        console.error('找不到历史记录列表元素');
+        return;
+    }
+    
+    // 更新收藏数量
+    updateHistoryFavoritesCount();
+    
+    // 根据筛选条件过滤历史记录
+    let filteredHistory = history;
+    if (currentHistoryFilter === 'favorites') {
+        const favoriteVideoIds = favorites.map(fav => fav.videoId);
+        filteredHistory = history.filter(item => favoriteVideoIds.includes(item.videoId));
+        console.log('收藏筛选后的数量:', filteredHistory.length);
+    }
+    
+    historyCount.textContent = filteredHistory.length;
+    historyList.innerHTML = '';
+    
+    if (filteredHistory.length === 0) {
+        const emptyMessage = document.createElement('div');
+        emptyMessage.className = 'history-empty';
+        emptyMessage.textContent = currentHistoryFilter === 'favorites' ?
+            (i18n[currentLanguage].no_history || '暂无收藏视频') :
+            (i18n[currentLanguage].no_history || '暂无观看历史');
+        historyList.appendChild(emptyMessage);
+        console.log('显示空消息:', emptyMessage.textContent);
+        return;
+    }
+    
+    console.log('开始渲染', filteredHistory.length, '条历史记录');
+    
+    filteredHistory.forEach(item => {
+        const historyItem = document.createElement('div');
+        historyItem.className = 'history-item';
+        
+        const thumbnail = document.createElement('img');
+        thumbnail.className = 'history-thumbnail';
+        thumbnail.src = item.thumbnail;
+        thumbnail.alt = item.title;
+        thumbnail.onerror = function() {
+            this.src = 'img/resized/placeholder.jpg';
+        };
+        
+        const info = document.createElement('div');
+        info.className = 'history-info';
+        
+        const titleContainer = document.createElement('div');
+        titleContainer.className = 'history-title-container';
+        
+        const title = document.createElement('div');
+        title.className = 'history-title';
+        title.textContent = item.title;
+        title.title = item.title;
+        
+        // 添加收藏图标
+        const favoriteIcon = document.createElement('button');
+        favoriteIcon.className = 'history-favorite-btn';
+        favoriteIcon.innerHTML = isVideoFavorited(item.videoId) ? '★' : '☆';
+        favoriteIcon.title = isVideoFavorited(item.videoId) ? 
+            (i18n[currentLanguage].unfavorite_video || '取消收藏') :
+            (i18n[currentLanguage].favorite_video || '收藏');
+        favoriteIcon.addEventListener('click', function(e) {
+            e.stopPropagation();
+            toggleVideoFavorite(item.videoId);
+            this.innerHTML = isVideoFavorited(item.videoId) ? '★' : '☆';
+            this.title = isVideoFavorited(item.videoId) ? 
+                (i18n[currentLanguage].unfavorite_video || '取消收藏') :
+                (i18n[currentLanguage].favorite_video || '收藏');
+        });
+        
+        titleContainer.appendChild(title);
+        titleContainer.appendChild(favoriteIcon);
+        
+        const channel = document.createElement('div');
+        channel.className = 'history-channel';
+        channel.textContent = item.channelName;
+        
+        const time = document.createElement('div');
+        time.className = 'history-time';
+        time.textContent = formatHistoryTime(item.timestamp);
+        
+        info.appendChild(titleContainer);
+        info.appendChild(channel);
+        info.appendChild(time);
+        
+        const playBtn = document.createElement('button');
+        playBtn.className = 'history-play-btn';
+        playBtn.innerHTML = '▶';
+        playBtn.title = '播放';
+        playBtn.addEventListener('click', function() {
+            playHistoryVideo(item);
+        });
+        
+        historyItem.appendChild(thumbnail);
+        historyItem.appendChild(info);
+        historyItem.appendChild(playBtn);
+        
+        historyList.appendChild(historyItem);
+    });
+}

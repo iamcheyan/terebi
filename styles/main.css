@@ -199,7 +199,7 @@ body {
     border-radius: 8px 8px 0 0;
     overflow: hidden;
     padding: 0;
-    height: calc(100vh - 138px); /* 调整高度，为footer留出空间 */
+    height: calc(100vh - 152px); /* 调整高度，为footer留出空间 */
     display: flex;
     flex-direction: column;
     /* margin-left: 10px; */
@@ -2270,4 +2270,439 @@ body.theme-light .settings-content {
 @keyframes overlayFadeIn {
     0% { opacity: 0; }
     100% { opacity: 1; }
+}
+
+/* === 观看历史面板样式 === */
+
+/* 观看历史面板 */
+.view-history-panel {
+    position: fixed;
+    top: 0;
+    right: -500px;
+    width: 480px;
+    height: 100vh;
+    background: var(--color-surface-primary);
+    box-shadow: -4px 0 24px rgba(0, 0, 0, 0.3);
+    z-index: 10002;
+    overflow-y: auto;
+    transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    border-left: 1px solid var(--color-panel-border);
+    visibility: hidden;
+}
+
+.view-history-panel.show {
+    right: 0;
+    visibility: visible;
+}
+
+.view-history-panel[inert] {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.view-history-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--color-overlay);
+    z-index: 10001;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    backdrop-filter: blur(4px);
+    pointer-events: none;
+}
+
+.view-history-overlay.show {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+}
+
+.view-history-content {
+    padding: 40px 24px 24px;
+}
+
+.history-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.history-header h3 {
+    color: var(--color-text-primary);
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.history-actions {
+    display: flex;
+    gap: 12px;
+}
+
+.clear-history-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    background: linear-gradient(135deg, rgba(220, 53, 69, 0.15), rgba(220, 53, 69, 0.1));
+    border: 1.5px solid rgba(220, 53, 69, 0.3);
+    border-radius: 12px;
+    color: var(--color-danger);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.clear-history-btn:hover {
+    background: linear-gradient(135deg, rgba(220, 53, 69, 0.25), rgba(220, 53, 69, 0.15));
+    border-color: rgba(220, 53, 69, 0.5);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(220, 53, 69, 0.2);
+}
+
+.clear-history-btn svg {
+    width: 18px;
+    height: 18px;
+}
+
+.history-stats {
+    padding: 16px 20px;
+    background: linear-gradient(135deg, rgba(79, 138, 247, 0.08), rgba(124, 107, 255, 0.06));
+    border-radius: 12px;
+    border: 1px solid rgba(79, 138, 247, 0.15);
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.95rem;
+    color: var(--color-text-secondary);
+}
+
+.history-stats span:last-child {
+    font-weight: 700;
+    color: rgba(79, 138, 247, 1);
+    font-size: 1.1rem;
+}
+
+.history-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.history-empty {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--color-text-muted);
+    font-size: 1rem;
+}
+
+.history-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 14px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.02));
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.history-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3px;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(79, 138, 247, 0.8), transparent);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.history-item:hover {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.04));
+    border-color: rgba(255, 255, 255, 0.15);
+    transform: translateX(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.history-item:hover::before {
+    opacity: 1;
+}
+
+.history-thumbnail {
+    width: 100px;
+    height: 56px;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.history-info {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.history-title {
+    color: var(--color-text-primary);
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.history-channel {
+    color: var(--color-text-secondary);
+    font-size: 0.85rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.history-time {
+    color: var(--color-text-muted);
+    font-size: 0.8rem;
+}
+
+.history-play-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, rgba(79, 138, 247, 0.2), rgba(124, 107, 255, 0.15));
+    border: 1.5px solid rgba(79, 138, 247, 0.3);
+    color: rgba(79, 138, 247, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+    font-size: 1.1rem;
+}
+
+.history-play-btn:hover {
+    background: linear-gradient(135deg, rgba(79, 138, 247, 0.3), rgba(124, 107, 255, 0.25));
+    border-color: rgba(79, 138, 247, 0.5);
+    transform: scale(1.1);
+    box-shadow: 0 4px 12px rgba(79, 138, 247, 0.3);
+}
+
+/* 浅色主题样式 */
+body.theme-light .view-history-panel {
+    background: var(--color-surface-primary);
+    border-left-color: var(--color-panel-border);
+}
+
+body.theme-light .history-item {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.7));
+    border-color: rgba(45, 53, 72, 0.1);
+}
+
+body.theme-light .history-item:hover {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.9));
+    border-color: rgba(45, 53, 72, 0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+body.theme-light .history-stats {
+    background: linear-gradient(135deg, rgba(79, 138, 247, 0.06), rgba(124, 107, 255, 0.04));
+    border-color: rgba(79, 138, 247, 0.2);
+}
+
+body.theme-light .clear-history-btn {
+    background: linear-gradient(135deg, rgba(220, 53, 69, 0.1), rgba(220, 53, 69, 0.05));
+    border-color: rgba(220, 53, 69, 0.25);
+}
+
+/* 节目标题容器 */
+.program-title-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+}
+
+/* 收藏视频按钮 */
+.favorite-video-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, rgb(27 27 27 / 15%), rgb(0 0 0 / 10%));
+    border: 1.5px solid rgb(102 102 99 / 30%);
+    color: rgb(101 77 3 / 90%);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+}
+
+.favorite-video-btn:hover {
+    background: linear-gradient(135deg, rgba(255, 193, 7, 0.25), rgba(255, 165, 0, 0.15));
+    border-color: rgba(255, 193, 7, 0.5);
+    transform: scale(1.1);
+    box-shadow: 0 4px 12px rgba(255, 193, 7, 0.3);
+}
+
+.favorite-video-btn.favorited {
+    background: linear-gradient(135deg, rgba(255, 193, 7, 0.3), rgba(255, 165, 0, 0.25));
+    border-color: rgba(255, 193, 7, 0.6);
+    color: rgba(255, 193, 7, 1);
+}
+
+.favorite-video-btn.favorited:hover {
+    background: linear-gradient(135deg, rgba(255, 193, 7, 0.4), rgba(255, 165, 0, 0.35));
+    border-color: rgba(255, 193, 7, 0.8);
+}
+
+.favorite-video-btn svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* 历史记录筛选标签 */
+.history-filter-tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+    padding: 6px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.01));
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.history-filter-tab {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 10px 16px;
+    background: transparent;
+    border: 1.5px solid transparent;
+    border-radius: 8px;
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.9rem;
+    font-weight: 600;
+    position: relative;
+}
+
+.history-filter-tab:hover {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.02));
+    border-color: rgba(255, 255, 255, 0.1);
+    color: var(--color-text-primary);
+}
+
+.history-filter-tab.active {
+    background: linear-gradient(135deg, rgba(79, 138, 247, 0.2), rgba(124, 107, 255, 0.15));
+    border-color: rgba(79, 138, 247, 0.4);
+    color: rgba(79, 138, 247, 1);
+    box-shadow: 0 2px 8px rgba(79, 138, 247, 0.2);
+}
+
+.history-filter-tab .tab-icon {
+    font-size: 1rem;
+    line-height: 1;
+}
+
+.history-filter-tab .favorites-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 20px;
+    height: 20px;
+    padding: 0 6px;
+    background: rgba(79, 138, 247, 0.2);
+    border-radius: 10px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: rgba(79, 138, 247, 1);
+}
+
+.history-filter-tab.active .favorites-count {
+    background: rgba(79, 138, 247, 0.3);
+    color: rgba(79, 138, 247, 1);
+}
+
+/* 历史记录标题容器 */
+.history-title-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    width: 100%;
+}
+
+.history-title-container .history-title {
+    flex: 1;
+}
+
+/* 历史记录收藏按钮 */
+.history-favorite-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: transparent;
+    border: none;
+    color: rgba(255, 193, 7, 0.7);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+    font-size: 1.1rem;
+    line-height: 1;
+}
+
+.history-favorite-btn:hover {
+    color: rgba(255, 193, 7, 1);
+    transform: scale(1.2);
+}
+
+/* 浅色主题样式 */
+body.theme-light .favorite-video-btn {
+    background: linear-gradient(135deg, rgba(255, 193, 7, 0.1), rgba(255, 165, 0, 0.05));
+    border-color: rgba(255, 193, 7, 0.25);
+    color: rgba(229, 165, 48, 1);
+}
+
+body.theme-light .favorite-video-btn:hover {
+    background: linear-gradient(135deg, rgba(255, 193, 7, 0.15), rgba(255, 165, 0, 0.1));
+    border-color: rgba(255, 193, 7, 0.4);
+}
+
+body.theme-light .favorite-video-btn.favorited {
+    background: linear-gradient(135deg, rgba(255, 193, 7, 0.25), rgba(255, 165, 0, 0.2));
+    border-color: rgba(255, 193, 7, 0.5);
+}
+
+body.theme-light .history-filter-tabs {
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.01));
+    border-color: rgba(45, 53, 72, 0.1);
+}
+
+body.theme-light .history-filter-tab.active {
+    background: linear-gradient(135deg, rgba(79, 138, 247, 0.15), rgba(124, 107, 255, 0.1));
+    border-color: rgba(79, 138, 247, 0.3);
 }
