@@ -1359,6 +1359,9 @@ body.theme-light .clear-filter-btn:hover {
     color: inherit;
     cursor: pointer;
     display: block;
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
 }
 
 .program-title-link:hover .program-title {
@@ -2634,12 +2637,6 @@ body.theme-light .clear-history-btn {
     display: flex;
     align-items: center;
     gap: 12px;
-    flex: 1;
-    min-width: 0;
-    overflow: hidden;
-}
-
-.program-title-link {
     flex: 1;
     min-width: 0;
     overflow: hidden;
