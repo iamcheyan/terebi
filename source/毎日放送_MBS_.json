@@ -2,40 +2,40 @@
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "MBS（毎日放送）",
   "original_name": "毎日放送（MBS）",
-  "updated_at": "2025-10-12T00:00:21.161878",
+  "updated_at": "2025-10-14T00:00:06.149487",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "JPjZ0lnKn3cOfonj8Uay-R54lMQ",
-      "id": "VVVYU1E4eDRrRWplV05FeGcwdFJBQndRLnV1SnB3VjFfbERV",
+      "etag": "mfltnI_P6hliRd60_mKnqlB4pKk",
+      "id": "VVVYU1E4eDRrRWplV05FeGcwdFJBQndRLnJZTjZkLWpBbnU4",
       "snippet": {
-        "publishedAt": "2025-10-11T09:30:36Z",
+        "publishedAt": "2025-10-13T10:01:32Z",
         "channelId": "UCXSQ8x4kEjeWNExg0tRABwQ",
-        "title": "【関西 極上のおせち】魔法のレストラン「関西オールスターおせち 2026」🎍予約受付中🎍",
-        "description": "⭐️水野真紀の魔法のレストラン 25年目特別企画⭐️\n🎍関西オールスターおせち2026 予約販売中！🎍\n\n放送開始25年目の感謝を込めた、番組史上初の夢のスペシャルおせち！\n関西が誇る和・洋・中のスターシェフが腕を振るった豪華料理に、\n誰もが知るあの名店、この名店のオリジナルレシピが三段重に集結✨\n他では絶対に食べられない、今回限りの奇跡の饗宴。\n\nこの特別なおせちで、最高の新年をお迎えください！\nhttps://www.mbs.jp/mahou/osechi/\n\n#魔法のレストラン #マホレス #おせち料理\n#関西オールスターおせち2026\n#萬亀樓 #神戸北野ホテル #中国菜エスサワダ\n#カドヤ食堂 #あやむ屋 #樽屋五兵衛 #大寅蒲鉾 #クラブハリエ\n#マサヒコオズミパリ #阪神名物いか焼き #ねぎ焼やまもと #三宮一貫楼 #串かつだるま #柿の葉すし本舗たなか\n#王様のスプーン",
+        "title": "こんな号令は嫌だ４連発ｗ",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uuJpwV1_lDU/default.jpg",
+            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uuJpwV1_lDU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uuJpwV1_lDU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/uuJpwV1_lDU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/uuJpwV1_lDU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "uuJpwV1_lDU"
+          "videoId": "rYN6d-jAnu8"
         },
         "videoOwnerChannelTitle": "MBS（毎日放送）",
         "videoOwnerChannelId": "UCXSQ8x4kEjeWNExg0tRABwQ"

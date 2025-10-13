@@ -2,40 +2,40 @@
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "eat愛媛朝日テレビ",
   "original_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2025-10-13T00:00:49.974526",
+  "updated_at": "2025-10-14T00:01:03.241197",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "esUP8hCiw0ImB68L0T8e-TfQsSM",
-      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLjE5MnlhQ2pzN3Jr",
+      "etag": "NFcq3bDwfyIo07Rr0SYODYBYOdw",
+      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLmxEY2sxc0dzbFh3",
       "snippet": {
-        "publishedAt": "2025-10-12T12:00:04Z",
+        "publishedAt": "2025-10-13T12:01:32Z",
         "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
-        "title": "別角度#八幡浜消防署 でも#踊ってしまう#カメラマン",
+        "title": "別角度でも一緒に#消防士の筋トレ しちゃう#カメラマン with#八幡浜消防署",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/192yaCjs7rk/default.jpg",
+            "url": "https://i.ytimg.com/vi/lDck1sGslXw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/192yaCjs7rk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lDck1sGslXw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/192yaCjs7rk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lDck1sGslXw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/192yaCjs7rk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/lDck1sGslXw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/192yaCjs7rk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lDck1sGslXw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "192yaCjs7rk"
+          "videoId": "lDck1sGslXw"
         },
         "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
         "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"

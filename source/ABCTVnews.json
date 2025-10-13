@@ -2,37 +2,42 @@
   "channel_id": "UCPW-5qfYGNR8XYrvESrqJKA",
   "channel_name": "ABCテレビニュース",
   "original_name": "ABCTVnews",
-  "updated_at": "2025-10-13T00:03:33.145279",
+  "updated_at": "2025-10-14T00:03:46.605852",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "kilwgtYvH3aKWbSv906lFldGQKY",
-      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLkN0Ymw2Mlp6bUpB",
+      "etag": "0ApIBYsaVQqXm9OZVYVeJ2sFZ_M",
+      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLkZQS0lyLVdERElJ",
       "snippet": {
-        "publishedAt": "2025-10-12T11:30:17Z",
+        "publishedAt": "2025-10-13T12:30:18Z",
         "channelId": "UCPW-5qfYGNR8XYrvESrqJKA",
-        "title": "「楽しかったからその分寂しい」万博の半年間の思い出をたどる写真展　感極まって涙する人も…閉幕日のあす午後9時まで開催",
-        "description": "あす１３日に閉幕する大阪・関西万博の半年間の思い出を、写真でたどる展示会が始まっています。\n\n　会場内の「ギャラリーＥＡＳＴ」で、１２日と１３日の２日間限定で開かれているのは、写真展「みんなの物語、ひとつの万博」です。\n\n　訪れた人は、イベントの写真と自分の記憶を重ねて、半年間の思い出を振り返ります。\n\n（来場者）「（大阪）ヘルスケアパビリオン、未来の自分を会った。いろいろ楽しかったからその分寂しい」\n\n　中には、感極まって涙を流す人も。\n\n（来場者）「日本から入れないような国からも来て下さってて、地図上でしか知らなかった国が、二次元から三次元の国になった」\n\n　展示は閉幕日のあす１３日も行われ、午後９時まで予約なしで楽しめます。",
+        "title": "夢洲を”圧倒的な非日常空間”　会場跡地を「万博レガシー受け継いだ国際観光・エンタメ拠点」に　吉村知事に聞く “アフター万博”の展望【きょうの深掘り】",
+        "description": "大阪・関西万博が閉幕する13日、大阪府・吉村洋文知事がABCテレビ『newsおかえり』に生出演。注目される“アフター万博”について聞きました。\n\n（『newsおかえり』2025年10月13日放送分より）",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ctbl62ZzmJA/default.jpg",
+            "url": "https://i.ytimg.com/vi/FPKIr-WDDII/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ctbl62ZzmJA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FPKIr-WDDII/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ctbl62ZzmJA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FPKIr-WDDII/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Ctbl62ZzmJA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/FPKIr-WDDII/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FPKIr-WDDII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "ABCテレビニュース",
@@ -40,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Ctbl62ZzmJA"
+          "videoId": "FPKIr-WDDII"
         },
         "videoOwnerChannelTitle": "ABCテレビニュース",
         "videoOwnerChannelId": "UCPW-5qfYGNR8XYrvESrqJKA"
@@ -48,33 +53,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JaBH5m_sHqjzwieGg4mQ4gi-KGo",
-      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLnZrSFJZRU1hME9V",
+      "etag": "Ch2Mc7vsQDXun-cA5WnCsTr3hNk",
+      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLk84RVUwQzJqLVBB",
       "snippet": {
-        "publishedAt": "2025-10-12T09:23:23Z",
+        "publishedAt": "2025-10-13T11:30:53Z",
         "channelId": "UCPW-5qfYGNR8XYrvESrqJKA",
-        "title": "神戸市長選が告示　現職・新人の4人が立候補を届け出　26日投開票",
-        "description": "任期満了に伴う神戸市長選挙が１２日告示され、現職と新人のあわせて４人が立候補を届け出ました。\n\n　午前１１時現在で立候補を届け出たのは、いずれも無所属のご覧の４人です。\n\n　４期目を目指す現職の久元喜造さん（７１）は、神戸空港の国際化を受けた都市開発を公約に掲げています。\n\n　元神戸市議の五島大亮さん（４８）は、中学校の部活動を地域クラブ化する「コベカツ」の廃止を訴えます。\n\n　兵庫労連事務局長の岡崎史典さん（５６）は、大型都市開発の見直しや水道無償化を挙げています。\n\n　ニュース分析会社・社長の木島洋嗣さん（５０）は、「タワーマンション規制の撤廃」を主張しています。\n\n　神戸市長選は２６日、投開票です。",
+        "title": "【大阪・関西万博】ありがとう＆さよなら万博！　ついに閉幕！　閉幕式・パレード・ラスト花火＆ドローンショーを最後まで生配信！　「アオと夜の虹のパレード」も配信！！　感動のフィナーレをご一緒しませんか？",
+        "description": "10月13日に閉幕を迎える大阪・関西万博。\n閉幕式やパレード、花火＆ドローンショーなどイベントが盛りだくさん！\nABCテレビでは会場で取材する映像をライブ配信でお届けします！\nぜひ閉幕日を一緒に楽しみましょう！\n\nⒸ2025　SANRIO.,LTD.　著作：（株）サンリオ\nⒸ2010　熊本県くまモン",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vkHRYEMa0OU/default.jpg",
+            "url": "https://i.ytimg.com/vi/O8EU0C2j-PA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vkHRYEMa0OU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O8EU0C2j-PA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vkHRYEMa0OU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O8EU0C2j-PA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/vkHRYEMa0OU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/O8EU0C2j-PA/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O8EU0C2j-PA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "ABCテレビニュース",
@@ -82,7 +92,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "vkHRYEMa0OU"
+          "videoId": "O8EU0C2j-PA"
         },
         "videoOwnerChannelTitle": "ABCテレビニュース",
         "videoOwnerChannelId": "UCPW-5qfYGNR8XYrvESrqJKA"
@@ -90,36 +100,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "_vqU3_5ewBivWYm02eiIlZYnRZ0",
-      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLkt6S2trZ1BnME1R",
+      "etag": "Sr_GJwv0kVzl0J3Pr65VR0lguLI",
+      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLk9rZkg3RUROZXJn",
       "snippet": {
-        "publishedAt": "2025-10-12T08:00:22Z",
+        "publishedAt": "2025-10-13T10:05:13Z",
         "channelId": "UCPW-5qfYGNR8XYrvESrqJKA",
-        "title": "好きな日本のごはんは「松屋」　インドネシア館・ヨヤクナシダンサーズ　ココでしか見られない！特別ダンスも披露　万博閉幕まであとわずか　会場から豪華なゲストトークをお届け",
-        "description": "閉幕まであとわずか、ABCテレビではラストウィークで賑わう大阪・関西万博の会場から盛り上がりをお届け。\nスペシャルゲストに、開催中に話題となったインドネシア館「ヨヤクナシダンサーズ」をお招きし、4月13日の開幕から半年間を振り返ります！\n\n※本動画は10月8日に配信したライブ映像で「4K」「立体音響」ではありません。「4K」「立体音響」でご覧になりたい方は、下記URLのLIVE配信アーカイブをご視聴ください。\n\n▶https://youtube.com/live/yAMwwEky0xU",
+        "title": "【ノーカット】「立憲・国民でまとまるなら我々も話は聞く」日本維新の会・吉村代表が総理指名選挙の野党連携に言及",
+        "description": "１３日、万博閉幕日に日本維新の会の吉村洋文代表は、ABCテレビの情報番組に出演し、臨時国会での次の総理指名選挙めぐる立憲民主党や国民民主党との連携の可能性について発言しました。ノーカットでお伝えします。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/KzKkkgPg0MQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/OkfH7EDNerg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/KzKkkgPg0MQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OkfH7EDNerg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/KzKkkgPg0MQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OkfH7EDNerg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/KzKkkgPg0MQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/OkfH7EDNerg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/KzKkkgPg0MQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OkfH7EDNerg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -129,7 +139,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "KzKkkgPg0MQ"
+          "videoId": "OkfH7EDNerg"
         },
         "videoOwnerChannelTitle": "ABCテレビニュース",
         "videoOwnerChannelId": "UCPW-5qfYGNR8XYrvESrqJKA"
@@ -137,36 +147,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "lOvsljMLTmf2Exe1P8EBwvhOkDY",
-      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLkYwbGNVVW0xSkww",
+      "etag": "07u2RFz9A9wlBK-f2ttrcJC8ucQ",
+      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLmdiME5oVkc3MFFR",
       "snippet": {
-        "publishedAt": "2025-10-12T02:00:15Z",
+        "publishedAt": "2025-10-13T08:30:22Z",
         "channelId": "UCPW-5qfYGNR8XYrvESrqJKA",
-        "title": "トラックと自転車が衝突　２５０ｍ引きずられ女性死亡　ミャンマー国籍の運転手を逮捕　大阪・福島区 #abcテレビ #ニュース #shorts",
-        "description": "",
+        "title": "【大阪・関西万博】あっという間に閉幕　「ブルーインパルス」「建設遅れ」「ユスリカ」「オールナイト」…半年間を振り返る",
+        "description": "始まる前は批判や不安の声もありましたが、１日も休まず駆け抜けた大阪・関西万博。\n半年間の期間を終え、いよいよ閉幕します。\n　夢洲で始まった「いのち輝く未来社会のデザイン」、激動の184日を振り返ります。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/F0lcUUm1JL0/default.jpg",
+            "url": "https://i.ytimg.com/vi/gb0NhVG70QQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/F0lcUUm1JL0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gb0NhVG70QQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/F0lcUUm1JL0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gb0NhVG70QQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/F0lcUUm1JL0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/gb0NhVG70QQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/F0lcUUm1JL0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gb0NhVG70QQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -176,7 +186,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "F0lcUUm1JL0"
+          "videoId": "gb0NhVG70QQ"
         },
         "videoOwnerChannelTitle": "ABCテレビニュース",
         "videoOwnerChannelId": "UCPW-5qfYGNR8XYrvESrqJKA"
@@ -184,33 +194,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Xm-JdibFW5E0cupOHJcD1ldIj7E",
-      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLnEwTWNMT0dPLTJr",
+      "etag": "AS7Nwfn8G-Vl5oG9cb8uI5MWuDk",
+      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLlN4WHlfOVVhWnRF",
       "snippet": {
-        "publishedAt": "2025-10-11T23:01:00Z",
+        "publishedAt": "2025-10-13T07:30:20Z",
         "channelId": "UCPW-5qfYGNR8XYrvESrqJKA",
-        "title": "トラックと自転車が衝突　２５０ｍ引きずられ女性死亡　ミャンマー国籍の運転手を逮捕　大阪・福島区",
-        "description": "大阪・福島区の交差点で、自転車の女性がトラックと接触し、約２５０メートル引きずられました。女性は死亡し、警察はトラック運転手の男を逮捕しました。\n\n　１１日午前９時４０分ごろ、福島区野田の交差点で通行人から「女性がトラックに引きずられました」などと、消防に通報がありました。\n\n　警察によりますと、女性（２５）は１０トントラックに自転車ごと約２５０メートル引きずられたといい、搬送先の病院で死亡が確認されました。\n\n　警察はミャンマー国籍のトラック運転手・アウンチョウミイン容疑者（５７）を過失運転致傷の疑いで現行犯逮捕しました。\n\n　容疑を認めているといい、警察は容疑を過失運転致死に切り替えて、調べる方針です。",
+        "title": "184日の会期を終え　きょう万博閉幕　一般来場者数は2500万人を突破",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/q0McLOGO-2k/default.jpg",
+            "url": "https://i.ytimg.com/vi/SxXy_9UaZtE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/q0McLOGO-2k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SxXy_9UaZtE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/q0McLOGO-2k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SxXy_9UaZtE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/q0McLOGO-2k/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/SxXy_9UaZtE/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SxXy_9UaZtE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "ABCテレビニュース",
@@ -218,7 +233,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "q0McLOGO-2k"
+          "videoId": "SxXy_9UaZtE"
         },
         "videoOwnerChannelTitle": "ABCテレビニュース",
         "videoOwnerChannelId": "UCPW-5qfYGNR8XYrvESrqJKA"
@@ -226,36 +241,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Rrj9fBXttXbhACrHfCqPomU3rKo",
-      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLndfcDNMOTFRV2hr",
+      "etag": "QDbS37EiX_EboSSF_9-ss3eddSM",
+      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLmFXdFBfSTExU2dV",
       "snippet": {
-        "publishedAt": "2025-10-11T22:01:02Z",
+        "publishedAt": "2025-10-13T07:28:11Z",
         "channelId": "UCPW-5qfYGNR8XYrvESrqJKA",
-        "title": "「地方議会での協力関係は今後も変わらない」との考えを示す　公明・大阪府本部代表が定例会見で #abcテレビ #ニュース #shorts",
-        "description": "",
+        "title": "【もうすぐバイバイ】「ミャクミャクロスですよ」　大阪・関西万博いよいよ最終日　泣いても笑っても･･･　早朝からのドキュメント",
+        "description": "10月13日、大阪・関西万博はついに最後の日を迎えました。\n開幕から184日。最終日は徹夜組も含め、数千人が行列を作りました。\n\n場内では、スタッフが手をつないで連携を表現する「フレンドシップリング」。\nパビリオンでは最終日らしく、プレゼント配布や「叩き売り」セール。\nそして、寄せ書きを書いてスタッフに感謝を伝える来場者の姿も。\n\n最終日、早朝から午後にかけてのドキュメントです。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/w_p3L91QWhk/default.jpg",
+            "url": "https://i.ytimg.com/vi/aWtP_I11SgU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/w_p3L91QWhk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aWtP_I11SgU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/w_p3L91QWhk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aWtP_I11SgU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/w_p3L91QWhk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/aWtP_I11SgU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/w_p3L91QWhk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aWtP_I11SgU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -265,7 +280,54 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "w_p3L91QWhk"
+          "videoId": "aWtP_I11SgU"
+        },
+        "videoOwnerChannelTitle": "ABCテレビニュース",
+        "videoOwnerChannelId": "UCPW-5qfYGNR8XYrvESrqJKA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oePk7TpG-gHKsyUjX6xkDI8UIx0",
+      "id": "VVVQVy01cWZZR05SOFhZcnZFU3JxSktBLkFrcFhXaHdsWnAw",
+      "snippet": {
+        "publishedAt": "2025-10-13T05:00:20Z",
+        "channelId": "UCPW-5qfYGNR8XYrvESrqJKA",
+        "title": "10月13日昼の最新ニュース　「皆さんにありがとう」184日の会期を終え　きょう万博閉幕　会場には数千人が行列　通常より20分早くオープン",
+        "description": "・「皆さんにありがとう」１８４日の会期を終え　きょう万博閉幕　会場には数千人が行列　通常より２０分早くオープン\n・万博最終日の会場の様子は？　きょうも長蛇の列　アメリカパビリオンでグッズプレゼントも　夜まで閉幕イベント続く",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AkpXWhwlZp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AkpXWhwlZp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AkpXWhwlZp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AkpXWhwlZp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AkpXWhwlZp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABCテレビニュース",
+        "playlistId": "UUPW-5qfYGNR8XYrvESrqJKA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AkpXWhwlZp0"
         },
         "videoOwnerChannelTitle": "ABCテレビニュース",
         "videoOwnerChannelId": "UCPW-5qfYGNR8XYrvESrqJKA"

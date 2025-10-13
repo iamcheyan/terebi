@@ -2,42 +2,37 @@
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ（公式）",
   "original_name": "AKT秋田テレビ",
-  "updated_at": "2025-10-13T00:03:00.058497",
+  "updated_at": "2025-10-14T00:03:10.059559",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "cpcuA71BMUcW0qPwwE1YMF77tD0",
-      "id": "VVU3VXpBamJqenZla2hpbzh1RUpYQ3B3LnhNcm9FS2VNVExZ",
+      "etag": "ZkYrQL6MAhDA8rx5PVS7x7ZYajA",
+      "id": "VVU3VXpBamJqenZla2hpbzh1RUpYQ3B3LlI3MUplXy1OU24w",
       "snippet": {
-        "publishedAt": "2025-10-11T21:30:13Z",
+        "publishedAt": "2025-10-13T00:00:29Z",
         "channelId": "UC7UzAjbjzvekhio8uEJXCpw",
-        "title": "あだまっこ体操！　2025年10月12日放送分",
-        "description": "#ぽちぱ と一緒に #あたまの体操 ！\n毎週いろいろな問題にチャレンジしてね♪\n\n🍀毎週日曜日あさ6時25分放送中\n🍀再放送　日曜 17:25(第4週を除く)・火曜 20:54\n※放送日時は変更･休止になる場合があります\n\n🍀見逃し一覧はこちらから\nhttps://youtube.com/playlist?list=PL5AIQeYEkljAy3vd9sQXmATnD4UQOPqw1&si=8JeoJGHyK05QGGLS\n\n🍀秋田テレビ公式SNS\nFacebook　https://www.facebook.com/AKITA.TV/\nInstagram　https://www.instagram.com/akt8_pochipa/\nX　https://twitter.com/akt8_content\n\n#秋田県 #秋田 #秋田テレビ #AKT #あだまっこ体操！ #頭の体操",
+        "title": "「第2回入道埼灯台石焼フェス🪨＆体験ツアー🌟」　2025年10月12日（日）放送",
+        "description": "#男鹿市 #入道埼灯台 にて\n2025年9月27日（土）に開催された\n「第2回入道埼灯台 #石焼フェス🪨＆体験ツアー🌟」の様子を紹介✨\n『#入道埼灯台まつり』と同時開催🔦❗\n\n総合司会は🎤#ちぇす🎤のお二人。\n漫才やQクイズ大会も開催しました。\nまた、#石焼 にまつわるフードが大集合🍠🍨🍲\n\n🌊海と日本プロジェクトin秋田県\nhttps://akita.uminohi.jp/\n\n#海と日本#日本財団#男鹿半島#入道崎#入道埼灯台無料開放\n#なまはげ#なまはげ太鼓#よさこい演技披露#よさこい#海底透視船\n#海と日本プロジェクトin秋田県#秋田県#秋田の海\n#CHANGEFORTHEBLUE#ごみゼロ#海ごみゼロ\n#番組#日曜あさ#6時15分#akita#あきた#秋田",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xMroEKeMTLY/default.jpg",
+            "url": "https://i.ytimg.com/vi/R71Je_-NSn0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xMroEKeMTLY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/R71Je_-NSn0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xMroEKeMTLY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/R71Je_-NSn0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/xMroEKeMTLY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/R71Je_-NSn0/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/xMroEKeMTLY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "AKT秋田テレビ（公式）",
@@ -45,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "xMroEKeMTLY"
+          "videoId": "R71Je_-NSn0"
         },
         "videoOwnerChannelTitle": "AKT秋田テレビ（公式）",
         "videoOwnerChannelId": "UC7UzAjbjzvekhio8uEJXCpw"

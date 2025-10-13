@@ -2,37 +2,42 @@
   "channel_id": "UCu8GW2WcGp_9Lic2wZY_IVg",
   "channel_name": "熊本ニュース KAB ONLINE",
   "original_name": "KAB熊本朝日放送",
-  "updated_at": "2025-10-12T00:04:46.163372",
+  "updated_at": "2025-10-14T00:04:56.169510",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "pyX2X8Whr8fWsK46d1G-01Bk8u4",
-      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLlJNdXJHVEJmcDl3",
+      "etag": "IvPbnRp3xpyHGrGeK2IBsHZdOxI",
+      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLlNpOUs2clcxUU1j",
       "snippet": {
-        "publishedAt": "2025-10-11T10:09:44Z",
+        "publishedAt": "2025-10-13T11:00:49Z",
         "channelId": "UCu8GW2WcGp_9Lic2wZY_IVg",
-        "title": "「ＫＭバイオロジクスアリーナ」熊保大とＫＭバイオ　ネーミングライツ契約",
-        "description": "ＫＭバイオロジクスと熊本保健科学大学は大学のアリーナの命名権＝ネーミングライツに関する契約を結びました。\r\n\r\n大学にあるアリーナの愛称は「ＫＭバイオロジクスアリーナ」に変わりました。\r\n\r\n契約期間は２０３５年９月までの１０年間です。\r\n\r\nＫＭバイオロジクスがネーミングライツに関する契約を結ぶのは、熊本大学大江キャンパスの体育館に続き２回目で、契約金は学生サービスの向上や教育・研究に活用されるということです。",
+        "title": "【熊本NEWS】10月13日(月)まとめ〜スポーツの日・推しのロアッソ選手と交流・連立解消で枠組みは？・映画「熊本の彼氏」舞台挨拶・路線バスが中学生と衝突・秋の高校野球決勝・玉名市長選・天気予報　など",
+        "description": "◎最新の熊本のニュースは公式Twitterでも発信中！\nhttps://twitter.com/kab_news5ch\n▽KAB熊本朝日放送の公式HPはこちら▽\nhttps://www.kab.co.jp/\n\n＜お断り＞\n※権利の都合で地上波テレビで放送した内容と一部編成が異なることがあります",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RMurGTBfp9w/default.jpg",
+            "url": "https://i.ytimg.com/vi/Si9K6rW1QMc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RMurGTBfp9w/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Si9K6rW1QMc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RMurGTBfp9w/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Si9K6rW1QMc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RMurGTBfp9w/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Si9K6rW1QMc/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Si9K6rW1QMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "熊本ニュース KAB ONLINE",
@@ -40,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "RMurGTBfp9w"
+          "videoId": "Si9K6rW1QMc"
         },
         "videoOwnerChannelTitle": "熊本ニュース KAB ONLINE",
         "videoOwnerChannelId": "UCu8GW2WcGp_9Lic2wZY_IVg"
@@ -48,33 +53,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "R15IVNsS1CxOTza_5tNYpw5198I",
-      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLk9LVHFXNklsUnFZ",
+      "etag": "cOHsfz8x8aqlK6xYuTn6j2OTLNo",
+      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLlRpSkZRTjA1VFQw",
       "snippet": {
-        "publishedAt": "2025-10-11T10:09:39Z",
+        "publishedAt": "2025-10-13T10:27:28Z",
         "channelId": "UCu8GW2WcGp_9Lic2wZY_IVg",
-        "title": "玉名市の住宅・山鹿市の事務所が全焼",
-        "description": "警察などによると１１日午後１時まえ、熊本県玉名市下の木造２階建ての住宅が全焼する火事がありました。駆けつけた消防がおよそ４時間後に消し止めました。この家に住む７０代の男性が顔をやけどしましたが命に別状はありません。\r\n\r\nまた、１０日午後９時すぎ、山鹿市鹿北町多久で自動車整備工場の事務所が全焼しました。当時事務所に人はおらず、この火事によるけが人はいません。",
+        "title": "【解説】連立解消で政治は転換期に　政治学者・今井亮佑教授の視点",
+        "description": "◎最新の熊本のニュースは公式Twitterでも発信中！\nhttps://twitter.com/kab_news5ch\n▽KAB熊本朝日放送の公式HPはこちら▽\nhttps://www.kab.co.jp/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OKTqW6IlRqY/default.jpg",
+            "url": "https://i.ytimg.com/vi/TiJFQN05TT0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OKTqW6IlRqY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TiJFQN05TT0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OKTqW6IlRqY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TiJFQN05TT0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/OKTqW6IlRqY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/TiJFQN05TT0/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TiJFQN05TT0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "熊本ニュース KAB ONLINE",
@@ -82,7 +92,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "OKTqW6IlRqY"
+          "videoId": "TiJFQN05TT0"
         },
         "videoOwnerChannelTitle": "熊本ニュース KAB ONLINE",
         "videoOwnerChannelId": "UCu8GW2WcGp_9Lic2wZY_IVg"
@@ -90,33 +100,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VIWKHojsdTO_Jsi5h1mX6BzqgBU",
-      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLkxyR2hudW11Skg0",
+      "etag": "Zv0gMMy-kUgsaSSFH-hU6k2srdc",
+      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLmd0aEZoT283Ulpv",
       "snippet": {
-        "publishedAt": "2025-10-11T10:09:24Z",
+        "publishedAt": "2025-10-13T10:05:27Z",
         "channelId": "UCu8GW2WcGp_9Lic2wZY_IVg",
-        "title": "俳優・斉藤慶子さんが鶴屋で客をお出迎え",
-        "description": "熊本市の鶴屋で俳優の斉藤慶子さんが来店客を出迎えました。\r\n\r\n「本当に私の原点ですね」\r\n\r\n熊本大学在学中に鶴屋でモデルとしてアルバイトをした経験もあり、１１日は「秋の創業祭」にあわせトークショーなどがありました。",
+        "title": "自公の連立解消で政権どうなる？熊本県選出の国会議員、専門家に聞く",
+        "description": "公明党の連立離脱によって、政治の先行きの不透明さが増す中、専門家らに今後の見通しを聞きました。\r\n\r\n坂本哲志議員\r\n「私は熊本に帰って、空港から降りて、メールで知りました。意外でしたね。26年間の信頼関係がありますので、最終的には連立の形で落ち着くだろうと思っておりました」\r\n\r\n　熊本3区選出の衆議院議員・坂本哲志さん。今回の離脱は、驚きをもって受け止めました。\r\n\r\n　この状況を受けて、日本維新の会の名前を挙げながら、連立協議を急ぐ必要があるとの見方を示しました。\r\n\r\n坂本哲志議員\r\n「維新というのは、もともと自民党から出て行った人が多いわけですので、どういう共通政策をすることができるか、ということを話していかなければいけないと思いますし、その結果、連立になるか、協力になるか分かりませんが、そういう模索が続いていくんだろうと思います」\r\n\r\n　政治学の専門家で崇城大学の今井亮佑教授にも連立離脱が政治に与える影響を聞きました。\r\n\r\n　自民党中心の政権も、野党中心の政権も、与党で過半数をおさえることが難しい状況になったとして、政治の不安定化が加速するとみています。\r\n\r\n今井教授\r\n「与党だけでは可決できませんので、与党以外の政党の協力が必要になってきますから、交渉が非常に複雑に行われることになりますので、今後も、政治が前に進まないという意味で、不安定化は避けられないと考えられます」\r\n\r\n　一方、自民と公明の間で長らく結ばれてきた選挙協力については、地方レベルで維持される可能性があるといいます。\r\n\r\n今井教授\r\n「ここ熊本をふくめて、地方レベルでは、議員個人と公明党の地方組織の間で、個人的な信頼関係ができているケースが多くありますので、そういったところでは、個人と党の地方組織の間で選挙協力が結ばれる可能性は当然考えられることになりますから、これまで公明党とあまり密な関係を築いてこなかった自民党の議員に対して、選挙協力の白紙が大きな影響を及ぼすことになろうかと思います」\r\n\r\n　また、首班指名の先行きも見通せない状況により、経済対策などが進まない状況は、有権者の判断によって起こった「民主主義のコスト」ではなく、自民党の問題だと指摘しました。\r\n\r\n今井教授\r\n「もともとは大型選挙で3連敗した石破総理が責任をとらずに居座ったことに端を発して起こっていることですから、言い換えれば自民党内の問題であるわけです。この政治空白は、国民がおいてけぼりの状態で起こってしまっていることになりますので、政治空白に関して『民主主義のコスト』として有権者が受け入れなければいけないことではなくて、やはり、問題だと言わざるを得ないと思います」\r\n\r\n　注目の首班指名選挙が行われる臨時国会は、20日にも召集される方向で、調整が進んでいます。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LrGhnumuJH4/default.jpg",
+            "url": "https://i.ytimg.com/vi/gthFhOo7RZo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LrGhnumuJH4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gthFhOo7RZo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LrGhnumuJH4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gthFhOo7RZo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/LrGhnumuJH4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/gthFhOo7RZo/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gthFhOo7RZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "熊本ニュース KAB ONLINE",
@@ -124,7 +139,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "LrGhnumuJH4"
+          "videoId": "gthFhOo7RZo"
         },
         "videoOwnerChannelTitle": "熊本ニュース KAB ONLINE",
         "videoOwnerChannelId": "UCu8GW2WcGp_9Lic2wZY_IVg"
@@ -132,33 +147,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "wjZTI9gKU0zx3Dgi0p_C29hWVvU",
-      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLmFqbGpTTTNpd1pB",
+      "etag": "ABOW3hUthKyWilamyU-rw58Fo0c",
+      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLnN5MHNUSGY2SWZn",
       "snippet": {
-        "publishedAt": "2025-10-11T10:09:24Z",
+        "publishedAt": "2025-10-13T10:05:10Z",
         "channelId": "UCu8GW2WcGp_9Lic2wZY_IVg",
-        "title": "３連休初日　熊本市で３４．７℃　１０月中旬以降の日本歴代最高気温",
-        "description": "３連休の初日。熊本県内は猛暑日に迫る暑さとなりました。\r\n\r\n熊本市の江津湖には水遊びを楽しむ家族もいました。\r\n\r\n１１日の県内には、台風の影響で暖かい空気が流れ込み、熊本市で３４．７℃となり１０月中旬以降の日本歴代最高気温を観測しました。\r\n\r\n「昼間はまだ暑いのでお水さまさまです」",
+        "title": "熊本市で路線バスが道路横断中の中学生と衝突　中学生は軽傷",
+        "description": "熊本市中央区の県道で路線バスが道路横断中の中学生と衝突する事故がありました。\r\n　\r\n　警察によりますと、13日午後2時55分ごろ、熊本市中央区京町の県道のスクランブル交差点で、京町本丁方面から京町1丁目方面に向けて走っていた路線バスが、道路横断中の男子中学生（14）と衝突しました。\r\n\r\n　男子中学生は、膝に擦り傷を負いました。\r\n\r\n　バスには、男性運転手（51）と乗客約10人が乗っていましたが、けがはありませんでした。\r\n\r\n　現場には、信号機と横断歩道があり、当時の状況について、警察が調べをすすめています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ajljSM3iwZA/default.jpg",
+            "url": "https://i.ytimg.com/vi/sy0sTHf6Ifg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ajljSM3iwZA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sy0sTHf6Ifg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ajljSM3iwZA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/sy0sTHf6Ifg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ajljSM3iwZA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/sy0sTHf6Ifg/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sy0sTHf6Ifg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "熊本ニュース KAB ONLINE",
@@ -166,7 +186,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ajljSM3iwZA"
+          "videoId": "sy0sTHf6Ifg"
         },
         "videoOwnerChannelTitle": "熊本ニュース KAB ONLINE",
         "videoOwnerChannelId": "UCu8GW2WcGp_9Lic2wZY_IVg"
@@ -174,33 +194,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Q_JHyntgcVMCutz6gQu9tHyDTlY",
-      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLlAxUFJKYkw5S0M4",
+      "etag": "GAjIir6e36jEb54zBv44FoLCU8I",
+      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLkc1djl5UGtuaHc4",
       "snippet": {
-        "publishedAt": "2025-10-11T10:09:23Z",
+        "publishedAt": "2025-10-13T10:05:09Z",
         "channelId": "UCu8GW2WcGp_9Lic2wZY_IVg",
-        "title": "「熊本秋酒まつり２０２５」７つの酒蔵の日本酒を楽しむ",
-        "description": "ＪＲ熊本駅前のアミュひろばでは「熊本秋酒まつり」の来場者たちが良く晴れた空のもと会場に敷かれた畳などに座って熊本県内７つの酒蔵の日本酒を楽しんでいました。\r\n\r\n８月の記録的大雨で被災したイグサの生産者らを支援する募金箱も設置されていて、１２日まで開かれています。",
+        "title": "「スポーツの日」車いすジョギングなどパラスポーツフェスタにぎわう",
+        "description": "連休最終日も熊本県内は日差しが降り注ぎ、多くの地点で真夏日となりました。\r\n\r\n　13日は「スポーツの日」で、広がった青空のもと元気な声が響きました。\r\n\r\n　熊本市のえがお健康スタジアムで「パラスポーツフェスタ」がありました。\r\n\r\n　社会参加促進などを目的に、毎年、開催されていて、車いすふれあいジョギング大会では、8歳から81歳の参加者がそれぞれのスピードで駆け抜けました。\r\n\r\n参加者\r\n「気持ちがよくて楽しかったです」",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P1PRJbL9KC8/default.jpg",
+            "url": "https://i.ytimg.com/vi/G5v9yPknhw8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P1PRJbL9KC8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/G5v9yPknhw8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P1PRJbL9KC8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/G5v9yPknhw8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/P1PRJbL9KC8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/G5v9yPknhw8/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G5v9yPknhw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "熊本ニュース KAB ONLINE",
@@ -208,7 +233,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "P1PRJbL9KC8"
+          "videoId": "G5v9yPknhw8"
         },
         "videoOwnerChannelTitle": "熊本ニュース KAB ONLINE",
         "videoOwnerChannelId": "UCu8GW2WcGp_9Lic2wZY_IVg"
@@ -216,46 +241,187 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6nTdcLWCaprHPIoAgJMLLFPEOmg",
-      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLlVVeEtwZW5qSUtj",
+      "etag": "qQa05Smh9EITpbXmtjCY0t9h4Bk",
+      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLmhSWDZQSno2YjYw",
       "snippet": {
-        "publishedAt": "2025-09-30T10:14:02Z",
+        "publishedAt": "2025-10-13T10:05:08Z",
         "channelId": "UCu8GW2WcGp_9Lic2wZY_IVg",
-        "title": "スーパーの駐車場で軽トラにはねられ80代女性が死亡　熊本・玉名市",
-        "description": "スーパーの駐車場で80代の女性がはねられ、亡くなりました。\r\n\r\n　事故があったのは、熊本県玉名市片諏訪にあるスーパーです。\r\n\r\n　警察によると、30日午前10時ごろ、軽トラックが、歩いていた玉名市伊倉北方に住む堀田京子さん（88）をはねました。\r\n\r\n　堀田さんは全身を強く打ち、意識不明の重体で搬送されましたが、その後、死亡が確認されました。\r\n\r\n　軽トラックを運転していた80代の女性にけがはありませんでした。\r\n\r\n　警察は事故の原因を調べています。",
+        "title": "“推し”のロアッソ選手とスポーツで交流「赤馬パラダイス」300人のファンが参加",
+        "description": "熊本県大津町で14日、「推しざかりの君たちへ～赤馬パラダイス～」が開催されました。\r\n\r\n　ロアッソ熊本のイベントで、およそ300人のファンが「推し」の選手らと大縄跳びや風船バレーに挑戦しました。\r\n\r\n女性\r\n「岩下選手推しです」「バレーを一緒にして楽しかったです」\r\n\r\n　音楽が流れている間は踊らなければならないダンシング玉入れでは、今シーズン10得点の塩浜遼選手が華麗なダンスを披露するなど、体を動かしながら、交流を楽しみました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UUxKpenjIKc/default.jpg",
+            "url": "https://i.ytimg.com/vi/hRX6PJz6b60/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UUxKpenjIKc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hRX6PJz6b60/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UUxKpenjIKc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hRX6PJz6b60/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/UUxKpenjIKc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/hRX6PJz6b60/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/UUxKpenjIKc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hRX6PJz6b60/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "熊本ニュース KAB ONLINE",
         "playlistId": "UUu8GW2WcGp_9Lic2wZY_IVg",
-        "position": 95,
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "UUxKpenjIKc"
+          "videoId": "hRX6PJz6b60"
+        },
+        "videoOwnerChannelTitle": "熊本ニュース KAB ONLINE",
+        "videoOwnerChannelId": "UCu8GW2WcGp_9Lic2wZY_IVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TwSDYGOHtzFgg0rUWauHNrk7XjQ",
+      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLmhZOEJfVTcxeWJr",
+      "snippet": {
+        "publishedAt": "2025-10-13T04:25:19Z",
+        "channelId": "UCu8GW2WcGp_9Lic2wZY_IVg",
+        "title": "【熊本NEWS】10月11日(土)まとめ〜3連休初日は記録的な暑さ・秋酒まつり・斉藤慶子さん熊本に・火事が相次ぐ・KMバイオアリーナ",
+        "description": "◎最新の熊本のニュースは公式Twitterでも発信中！\nhttps://twitter.com/kab_news5ch\n▽KAB熊本朝日放送の公式HPはこちら▽\nhttps://www.kab.co.jp/\n\n＜お断り＞\n※権利の都合で地上波テレビで放送した内容と一部編成が異なることがあります",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hY8B_U71ybk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hY8B_U71ybk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hY8B_U71ybk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hY8B_U71ybk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hY8B_U71ybk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "熊本ニュース KAB ONLINE",
+        "playlistId": "UUu8GW2WcGp_9Lic2wZY_IVg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hY8B_U71ybk"
+        },
+        "videoOwnerChannelTitle": "熊本ニュース KAB ONLINE",
+        "videoOwnerChannelId": "UCu8GW2WcGp_9Lic2wZY_IVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oEjEM-Cu4Sfsb4uK-ij_7PedNBU",
+      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLmc0RzR1Rl95MjQ0",
+      "snippet": {
+        "publishedAt": "2025-10-13T02:56:40Z",
+        "channelId": "UCu8GW2WcGp_9Lic2wZY_IVg",
+        "title": "秋の高校野球熊本大会　熊本工業がサヨナラで13年ぶり優勝",
+        "description": "秋の高校野球熊本大会の決勝が行われ、熊本工業が13年ぶりの優勝を飾りました。\r\n\r\n　決勝は、有明と熊本工業の対戦。両チームのピッチャーが持ち味を発揮します。\r\n\r\n　有明の工は130キロ台のストレートを武器に、いきなり3者連続三振の立ち上がりを見せると、熊本工業の堤はランナーを出しながらも、緩急をいかしたピッチングで、お互いに得点を与えません。\r\n\r\n　スコアボードに0が並ぶ中、9回裏、熊本工業は1アウト3塁・2塁のチャンスを作ると、ピッチャーの堤がタイムリー内野安打で、サヨナラ勝ち。\r\n\r\n　熊本工業が、13年ぶりに秋の頂点に輝きました。\r\n\r\n■熊本工業　1－0　有明（9回サヨナラ）\r\n\r\n　決勝を戦った2校は25日から宮崎で行われる九州大会に出場します。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g4G4uF_y244/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g4G4uF_y244/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g4G4uF_y244/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g4G4uF_y244/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g4G4uF_y244/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "熊本ニュース KAB ONLINE",
+        "playlistId": "UUu8GW2WcGp_9Lic2wZY_IVg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g4G4uF_y244"
+        },
+        "videoOwnerChannelTitle": "熊本ニュース KAB ONLINE",
+        "videoOwnerChannelId": "UCu8GW2WcGp_9Lic2wZY_IVg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c_7dD2_Wn8lhhRjH9hoVHp3Cbh0",
+      "id": "VVV1OEdXMldjR3BfOUxpYzJ3WllfSVZnLkRSVGZ5T3N0eGN3",
+      "snippet": {
+        "publishedAt": "2025-10-13T02:56:05Z",
+        "channelId": "UCu8GW2WcGp_9Lic2wZY_IVg",
+        "title": "玉名市長選　無投票で3選の蔵原氏「喫緊の課題は防災対策」",
+        "description": "任期満了に伴う熊本県の玉名市長選挙が12日告示され、無投票で現職の蔵原隆浩さんの3回目の当選が決まりました。\r\n\r\n　蔵原さんは今の熊本学園大学を卒業後、玉名市議などを経て、2017年の市長選で初当選し、現在2期目です。\r\n\r\n蔵原さん\r\n「何より喫緊の課題である防災、冠水関係の対策、8月の豪雨以降に手がけてきたものもたくさんありますので、そこをしっかりやり遂げていく」\r\n\r\n　玉名市長選挙での無投票当選は、2005年の合併後では初めてです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DRTfyOstxcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DRTfyOstxcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DRTfyOstxcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DRTfyOstxcw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DRTfyOstxcw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "熊本ニュース KAB ONLINE",
+        "playlistId": "UUu8GW2WcGp_9Lic2wZY_IVg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DRTfyOstxcw"
         },
         "videoOwnerChannelTitle": "熊本ニュース KAB ONLINE",
         "videoOwnerChannelId": "UCu8GW2WcGp_9Lic2wZY_IVg"

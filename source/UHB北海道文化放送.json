@@ -2,40 +2,40 @@
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送 公式",
   "original_name": "UHB北海道文化放送",
-  "updated_at": "2025-10-13T00:01:19.666950",
+  "updated_at": "2025-10-14T00:01:28.030990",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "rNRIc8O0Ncs4i5E5Qjc2o1Bb8NM",
-      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3Lmh6UV9BUDhOcDhZ",
+      "etag": "9ukPLEFael2MoNEM_BcbLSThFco",
+      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3LjB3dWJQZkFYd3ZZ",
       "snippet": {
-        "publishedAt": "2025-10-12T07:30:23Z",
+        "publishedAt": "2025-10-13T10:00:02Z",
         "channelId": "UCBJbV6hW2sfcA2ugwKFBmxw",
-        "title": "松岡の北の夕飲み　10月19日（日）夕方4時放送",
-        "description": "札幌に帰ってきたら必ず行くという、中央区「狸小路」エリアへ。\n「この店に来られなくなるんだったら、芸能人をやめる！」とまで松岡を虜にする、大衆居酒屋とは…？さらに、札幌では珍しい「うなぎ串」の居酒屋へ！札幌市民しかわからない？ディープすぎる女将とのトークも必見！",
+        "title": "みんテレ　10月14日（火）放送",
+        "description": "・寒いので地下直結で行ける！レトロな老舗ビル秋グルメ探訪\n・連日行列の絶えない！ジンギスカン超人気店が登場！肉汁したたる極上ラム！満席の裏側に驚きの工夫\n・平成生まれ人気キャラ！シール交換も令和流？レトロ感に若者が夢中",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hzQ_AP8Np8Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hzQ_AP8Np8Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hzQ_AP8Np8Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/hzQ_AP8Np8Y/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/hzQ_AP8Np8Y/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "hzQ_AP8Np8Y"
+          "videoId": "0wubPfAXwvY"
         },
         "videoOwnerChannelTitle": "UHB北海道文化放送 公式",
         "videoOwnerChannelId": "UCBJbV6hW2sfcA2ugwKFBmxw"

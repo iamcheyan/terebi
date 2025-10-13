@@ -2,37 +2,42 @@
   "channel_id": "UCw14eNQAUDqCg-fX3Uvd07w",
   "channel_name": "menkoichannel",
   "original_name": "mit岩手めんこいテレビ",
-  "updated_at": "2025-10-13T00:01:47.859479",
+  "updated_at": "2025-10-14T00:02:00.195419",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "HSuMtLirEFqhufuC60RxLc7z_3A",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3Li10NGFMS2xndVlr",
+      "etag": "j3pFDqY1XPmysfcClBAE1D8CMS8",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LjlOZUFJY0t2MHBF",
       "snippet": {
-        "publishedAt": "2025-10-12T09:31:29Z",
+        "publishedAt": "2025-10-13T12:39:52Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "「サンディスクスタジアムきたかみ」看板除幕式　北上総合運動公園陸上競技場の愛称　岩手県 (25/10/12 18:30)",
-        "description": "岩手県北上市の競技場の愛称が「サンディスクスタジアムきたかみ」に変わったことに伴い、10月12日に看板の除幕式が行われました。\r\n\r\n12日は新しい看板の除幕式が行われ、サンディスクの関係者や北上市の八重樫浩文市長などが完成を祝いました。\r\n\r\n「北上総合運動公園陸上競技場」のネーミングライツは、市内に生産拠点を持つ半導体メーカー「ウエスタンデジタル」が「サンディスク」に社名変更したことに伴い、2025年8月に変更されました。\r\n\r\n愛称の使用期間は2028年9月30日までとなっています。\r\n\r\n除幕式の後はランニングイベントが行われ、ランナーが秋の気配を楽しみながら市内を走りました。",
+        "title": "荒川静香さん、盛岡市でスケート教室　トリノ五輪金メダリストの指導に約90人が参加　岩手県 (25/10/13 21:35)",
+        "description": "フィギアスケートのオリンピック金メダリスト・荒川静香さんを特別講師に迎えたスケート教室が岩手県盛岡市で開かれました。\r\n\r\n軽やかな滑りを見せたのは2006年のトリノオリンピック金メダリスト荒川静香さんです。\r\n\r\n10月13日はみちのくコカ・コーラボトリングリンクの開館10周年を記念して「スケート教室」が開かれ、県内の小学1年生から40代まで約90人が参加しました。\r\n\r\nほとんどが初心者という中、荒川さんは一人一人の動きを見ながら滑る姿勢や体重のかけ方を丁寧にアドバイスしていました。\r\n参加した人たちは憧れの金メダリストとの交流に喜びを感じていました。\r\n\r\n参加者は「荒川静香さんから教えてもらえるなんて一生ないと思って（子どもと）一緒に（参加した）」「金メダルを取ったから上手かったし、技もできるのがすごいと思った」と話していました。\r\n\r\n荒川静香さん\r\n「これだけきれいなスケートリンクの施設があるので、氷のスポーツの楽しさ、非日常の面白さをここで知ってもらうのに非常に良い機会」\r\n\r\n今もプロスケーターとして世界で活躍する荒川さんとの特別な時間に、参加した人たちは表情を銀盤のように輝かせていました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-t4aLKlguYk/default.jpg",
+            "url": "https://i.ytimg.com/vi/9NeAIcKv0pE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-t4aLKlguYk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9NeAIcKv0pE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-t4aLKlguYk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9NeAIcKv0pE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-t4aLKlguYk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/9NeAIcKv0pE/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9NeAIcKv0pE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "menkoichannel",
@@ -40,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "-t4aLKlguYk"
+          "videoId": "9NeAIcKv0pE"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
@@ -48,31 +53,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Yz39pjX6iLNxY6wyqUdpCBqD6TM",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LjN6LXNsSlgySG9N",
+      "etag": "qeIq8bmqODhu01MLgtiWYIThkA8",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LmRDRUxZd2tySTdr",
       "snippet": {
-        "publishedAt": "2025-10-12T09:30:26Z",
+        "publishedAt": "2025-10-13T09:41:31Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "遠野市長選挙　現職と新人の一騎打ち　岩手県 (25/10/12 18:30)",
-        "description": "任期満了に伴う岩手・遠野市長選挙が10月12日に告示され、現職と新人の一騎打ちとなることが決まりました。\r\n\r\n遠野市長選挙に立候補したのは、届け出順にいずれも無所属の新人で元地域おこし協力隊の菊池哲氏（35）と、現職の多田一彦氏（67）の2人です。\r\n\r\n菊池氏は遠野市出身の35歳で、民間企業を経て2023年からは市の地域おこし協力隊として活動していました。\r\n公約には、子育て・家庭支援の再構築や、福祉のデジタル化などを掲げています。\r\n\r\n一方、多田氏は遠野市出身の67歳で、4年前の市長選で初当選していて、公約には安定した財政や出産・子育て支援の充実、新しい交通システムなどを掲げています。\r\n\r\n選挙の投票日は10月19日（日）で、即日開票されます。\r\n\r\n10月11日時点の有権者数は2万575人です。",
+        "title": "自民党幹事長・鈴木俊一岩手県連会長が会見「公明党の県内支持母体とは関係性継続」 (25/10/13 18:40)",
+        "description": "10月7日に自民党の幹事長に就任した鈴木俊一岩手県連会長が、10月13日に岩手県盛岡市で会見を開きました。\r\n10月10日に連立を離脱した公明党について、支持母体である岩手創価学会と現在の関係性を継続する認識を共有したと明らかにしました。\r\n\r\n自民党県連は10月13日、盛岡市内で会見を開きました。\r\n10月7日、党本部の幹事長に就任した鈴木俊一県連会長は、自身も出席した10月10日の公明党と自民党との党首会談について言及し、連立解消後の県組織同士の関係について次のように述べました。\r\n\r\n自民党岩手県連　鈴木俊一会長\r\n「（公明党）斉藤鉄夫代表が『国政において連立は解消するが、地方に対し今までの自民との関係見直せと言わない』とこういう話もあった」\r\n\r\nその上で鈴木会長は「公明党の支持母体である岩手創価学会には、今後とも互いの協力関係を継続したい旨を伝えた」「先方からも同様の返事をいただいた」と述べ、県組織同士の関係性が途切れないよう認識を共有したことを明らかしました。\r\n\r\nまた、13日に開かれた県連の総務会では、任期満了に伴う役員改選が行われ、県連会長は鈴木氏の続投が決まりました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3z-slJX2HoM/default.jpg",
+            "url": "https://i.ytimg.com/vi/dCELYwkrI7k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3z-slJX2HoM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dCELYwkrI7k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3z-slJX2HoM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dCELYwkrI7k/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/3z-slJX2HoM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/dCELYwkrI7k/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -82,7 +87,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "3z-slJX2HoM"
+          "videoId": "dCELYwkrI7k"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
@@ -90,31 +95,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "FWDmSLP05gPDEnjIY0dUCaImwcY",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LkJxRHJJbzZxRk9V",
+      "etag": "BH9pAuy02FSUhZ2rShbwMsio0TA",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LmtLaXBPRjZqazZV",
       "snippet": {
-        "publishedAt": "2025-10-12T03:30:27Z",
+        "publishedAt": "2025-10-13T09:09:32Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "ひき逃げ事件として捜査　女性死亡事故　岩手県紫波町の国道 (25/10/12 12:30)",
-        "description": "10月12日の朝、岩手県紫波町の国道で車にはねられた女性が死亡しているのが見つかり、警察がひき逃げ事件とみて捜査しています。\r\n\r\n安原友和記者\r\n「死亡事故が発生した国道4号線の現場です。被害者をはねた車は現在逃走しており、警察が捜査を進めています」\r\n\r\n12日の午前5時ごろ、紫波町南日詰の国道4号線にいた通行人から「国道に人が倒れている」と警察に通報がありました。\r\n\r\n警察が駆けつけたところ道路上に女性が倒れていて、その場で死亡が確認されました。\r\n女性の身元は分かっていないということです。\r\n\r\n警察によりますと、女性は盛岡方面に向かって走っていた（北進中の）車にはねられたとみられ、死亡ひき逃げ事件として捜査を進めています。\r\n\r\n現場はJR日詰駅から南に1kmほどの場所で、警察は逃げた車の行方を追っています。",
+        "title": "焼け跡から1人の遺体　住宅2棟全焼する火事　岩手県盛岡市 (25/10/13 12:30)",
+        "description": "10月12日の夜、岩手県盛岡市で住宅2棟を全焼する火事があり、焼け跡から1人の遺体が見つかりました。\r\n警察が身元の確認を急ぐとともに、出火原因を調べています。\r\n\r\n千葉梨々花アナウンサー\r\n「火事の現場に来ています。通報から30分以上が経った現在も火は大きく燃えていて、時折爆発音のような音も聞こえます」\r\n\r\n12日午後11時15分ごろ、盛岡市緑が丘の無職・工藤庸一さんの住宅から火が出ていると、近所の人から消防に通報がありました。\r\n\r\n火は約1時間50分後にほぼ消し止められましたが、工藤さんの住宅のほか、隣接する住宅1棟も全焼し、焼け跡から1人の遺体が見つかりました。\r\n\r\n警察によりますと、工藤さんは妻と40代の息子と3人暮らしで、出火当時工藤さんと妻は2階に、息子は1階にいたとみられています。\r\n\r\n火事の後、工藤さんの息子と連絡が取れていないことから、警察は遺体は逃げ遅れた息子の可能性もあるとみて身元の特定を急いでいます。\r\n\r\n現場は盛岡三高から北に約700mの住宅が点在する地域で、辺りは一時騒然としました。\r\n\r\n近所の人からは「怖いですね。火の元は気を付けないと、と改めて思った」との声が聞かれました。\r\n\r\n警察と消防が、火事の詳しい原因を調べています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BqDrIo6qFOU/default.jpg",
+            "url": "https://i.ytimg.com/vi/kKipOF6jk6U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BqDrIo6qFOU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kKipOF6jk6U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BqDrIo6qFOU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/kKipOF6jk6U/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/BqDrIo6qFOU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/kKipOF6jk6U/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -124,7 +129,96 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "BqDrIo6qFOU"
+          "videoId": "kKipOF6jk6U"
+        },
+        "videoOwnerChannelTitle": "menkoichannel",
+        "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BYYIhUa3jnjeBErE1lGH4ocZCFg",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3Li1RWWR1TTNtbUlV",
+      "snippet": {
+        "publishedAt": "2025-10-13T04:35:19Z",
+        "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
+        "title": "クマに襲われ72歳男性けが　住宅の敷地内　クマの行方分からず　岩手県盛岡市 (25/10/13 13:30)",
+        "description": "10月12日の夕方、岩手県盛岡市の住宅の敷地内で、72歳の男性がクマに襲われけがをしました。\r\n\r\n12日午後4時ごろ盛岡市乙部の住宅の敷地内で、この家に住む72歳の男性がクマ2頭を目撃し、このうち1頭に襲われました。\r\n\r\n警察によりますと、男性は頭を引っかかれ矢巾町の病院に運ばれましたが、軽いけがで命に別条はないということです。\r\n\r\nクマは2頭とも子グマとみられ、男性を襲った後その場から立ち去り行方は分かっていません。\r\n\r\n現場は都南東小学校から南西に約300ｍの住宅が点在する地域で、警察が付近をパトロールするなどして警戒を強めています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-QYduM3mmIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-QYduM3mmIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-QYduM3mmIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-QYduM3mmIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "menkoichannel",
+        "playlistId": "UUw14eNQAUDqCg-fX3Uvd07w",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-QYduM3mmIU"
+        },
+        "videoOwnerChannelTitle": "menkoichannel",
+        "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dqzUMobQsjnkqSjxrUW_L2VxR7A",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LnAxWXJUWGxKeGpr",
+      "snippet": {
+        "publishedAt": "2025-10-13T00:01:31Z",
+        "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
+        "title": "【めんこいテレビ】「山・海・漬」2025/10/18(土)夕方6時30分放送",
+        "description": "いわての鶏 とりどり",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p1YrTXlJxjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p1YrTXlJxjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p1YrTXlJxjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p1YrTXlJxjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p1YrTXlJxjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "menkoichannel",
+        "playlistId": "UUw14eNQAUDqCg-fX3Uvd07w",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p1YrTXlJxjk"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"

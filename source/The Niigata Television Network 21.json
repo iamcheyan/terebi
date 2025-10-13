@@ -2,42 +2,37 @@
   "channel_id": "UCmBnPrnbYpbUZ10TMIlY9YA",
   "channel_name": "UX新潟ニュース",
   "original_name": "The Niigata Television Network 21",
-  "updated_at": "2025-10-13T00:04:42.796045",
+  "updated_at": "2025-10-14T00:05:14.555585",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "bMprysMeBrPvUjjA5KmIHmgS75A",
-      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLkdUdDdVRUo4ZnBn",
+      "etag": "LbcD-tptJOEX2unyTtaIJtRDMyg",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLnZocExqdGhqN2Vj",
       "snippet": {
-        "publishedAt": "2025-10-12T12:00:26Z",
+        "publishedAt": "2025-10-13T10:45:07Z",
         "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
-        "title": "1人の中学生の願いからはじまり10回目「トチオノアカリ」奮闘する学生に密着",
+        "title": "「維持費1坪あたり5250円の負担」方針に住民は･･･新潟市の液状化対策工事",
         "description": "#新潟 #UX新潟テレビ21",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/default.jpg",
+            "url": "https://i.ytimg.com/vi/vhpLjthj7ec/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vhpLjthj7ec/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vhpLjthj7ec/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/vhpLjthj7ec/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/GTt7UEJ8fpg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "UX新潟ニュース",
@@ -45,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "GTt7UEJ8fpg"
+          "videoId": "vhpLjthj7ec"
         },
         "videoOwnerChannelTitle": "UX新潟ニュース",
         "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
@@ -53,36 +48,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "rmxkmDK9WkzupjEym3JPSGxbuiI",
-      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLm96T3RiUUt1b2Jj",
+      "etag": "sXuEsyVHp7yC2r0Rsut3KZAJIO8",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLmRKUXBQTURQQ1hV",
       "snippet": {
-        "publishedAt": "2025-10-12T11:01:28Z",
+        "publishedAt": "2025-10-13T10:21:00Z",
         "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
-        "title": "新たな指標「作況単収指数」を新設、コメの予想収穫量 前年産より増加見込み",
+        "title": "佐渡市で「おけさ柿」の収穫が最盛期、ムシの日がいなく順調に育つ",
         "description": "#新潟 #UX新潟テレビ21",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/default.jpg",
+            "url": "https://i.ytimg.com/vi/dJQpPMDPCXU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dJQpPMDPCXU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dJQpPMDPCXU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/dJQpPMDPCXU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ozOtbQKuobc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/dJQpPMDPCXU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -92,7 +87,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ozOtbQKuobc"
+          "videoId": "dJQpPMDPCXU"
         },
         "videoOwnerChannelTitle": "UX新潟ニュース",
         "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
@@ -100,38 +95,33 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Ezxlwj4S1hRYRgy8_FiRdgS6mOk",
-      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLmZzckNPQlFCem9Z",
+      "etag": "RMHyQtVqNim1h3IyjmRjLqA5eRw",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLkJ2cFJ0dENPTVdn",
       "snippet": {
-        "publishedAt": "2025-10-12T03:00:51Z",
+        "publishedAt": "2025-10-13T10:12:40Z",
         "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
-        "title": "全国の切符をかけて！シニアが頂点を争う「ゲートボール」県大会を開催",
+        "title": "万博の遊具や北信越･初のカフェも、燕三条駅近くに新商業施設「そよら」11月7日オープン",
         "description": "#新潟 #UX新潟テレビ21",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/default.jpg",
+            "url": "https://i.ytimg.com/vi/BvpRttCOMWg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BvpRttCOMWg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BvpRttCOMWg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/BvpRttCOMWg/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/fsrCOBQBzoY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "UX新潟ニュース",
@@ -139,7 +129,806 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "fsrCOBQBzoY"
+          "videoId": "BvpRttCOMWg"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CQS0lKEdfWQwZ4QfpFoYf60uffY",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLmxfYmd6VFItMVdV",
+      "snippet": {
+        "publishedAt": "2025-10-13T09:43:53Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "「維持費1坪あたり5250円の負担」方針に住民は･･･新潟市の液状化対策工事【新潟】スーパーJにいがた10月13日OA",
+        "description": "新潟市は、能登半島地震で液状化被害を受けた地域を対象に、2回目の液状化対策説明会を開催しています。\n\n説明会は先週から地区ごとに始まり、13日は西区の寺尾地区で開かれました。新潟市は液状化対策の工事費用を公費で賄う一方、土地所有者に維持管理費として1坪あたり5250円の負担を求めると説明しました。期間は30年で、所有面積が50坪であれば26万2500円の負担となります。\n\nあわせて負担軽減策も公表し、生活保護世帯など支払いが困難な世帯への全額免除や最長8年・32回分割(年4回)による支払いも可能としました。\n\n住民はー\n\n■自宅が液状化被害 田中洋子さん\n「(ハードルが)高いと思いますよね。(住民から)良い意見いっぱい出されてましたよね。もう一回、市は計画を練り直した方がいい。」\n\n■住民負担に賛成\n「私が思っているより同意を得るのがハードル高いと感じた。市が主体となって進めてほしい。」\n\n新潟市は今後、自治会単位の説明会やアンケートを行い住民の意向を確認する方針です。\n2025年10月13日放送時点の情報です。\n\n#液状化被害 #能登半島地震 #費用負担 #説明会\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l_bgzTR-1WU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l_bgzTR-1WU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l_bgzTR-1WU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l_bgzTR-1WU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l_bgzTR-1WU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l_bgzTR-1WU"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Aix48s00SnYQzBXidS9_9Cae3yg",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLklfNEZNMUd0OUhJ",
+      "snippet": {
+        "publishedAt": "2025-10-13T09:34:11Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "佐渡市で「おけさ柿」の収穫が最盛期、ムシの日がいなく順調に育つ【新潟】スーパーJにいがた10月13日OA",
+        "description": "佐渡市で『おけさ柿』の収穫が最盛期を迎えています。\n\n佐渡市羽茂の長原秀雄さんの畑では、早生品種の『刀根早生(とねわせ)』の収穫が進んでいます。今年はカイガラムシの被害もなく、順調に育ったということです。\n\n■長原紀美子さん\n「食べてみたらけっこう甘かったので、良いんじゃないでしょうか。」\n\n収穫した柿は大きさで選別され、選果場で渋抜きしたあと県内や関東方面に出荷されます。\n\n■JA佐渡 小田政幸さん\n「今年も非常に良い柿が出来上がっておりますので、スーパーなどでお買い求めいただき、ご賞味いただけたらと思います。」\n\n長原さんの畑では、刀根早生に続いて平核無(ひらたねなし)の収穫が11月中ごろまで続きます。\n\n2025年10月13日放送時点の情報です。\n\n#佐渡 #おけさ柿 #収穫 #果物\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_4FM1Gt9HI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_4FM1Gt9HI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_4FM1Gt9HI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I_4FM1Gt9HI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I_4FM1Gt9HI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I_4FM1Gt9HI"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i0MQw3lPX5BPQeoTo24vZ3xFFVM",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLjBnMmM3Z3NXa1Fv",
+      "snippet": {
+        "publishedAt": "2025-10-13T09:34:08Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "万博の遊具や北信越･初のカフェも、燕三条駅近くに新商業施設「そよら」11月7日オープン【新潟･三条市】スーパーJにいがた10月13日OA",
+        "description": "JR燕三条駅近くに新しい商業施設が11月オープンします。13日に店舗の概要が発表されました。\n\n大手スーパーのイオンリテールが手掛ける『そよら三条須頃』はJR燕三条駅から徒歩8分、県央基幹病院と三条市立大学に隣接したエリアに誕生します。ファミリー層や通勤・通学客の利用を見込んで、食料品売り場を強化。総菜を充実させるほか、冷凍食品も約1000品目取り揃えます。\n\nまた、北信越エリア初出店のスイーツカフェや、大阪・関西万博から遊具を移設したアミューズメントパークも設けます。\n\n■イオンスタイル三条須頃 秋山佳男店長\n「日常使いに寄り添ったサービスや施設にこだわっている。くつろぎの場や刺激的なご自身で『ビビッド』に感じる売り場を探していただけるとありがたい。」\n\n13日は敷地内で植樹が行われ、約7000本の苗木が植えられました。『そよら三条須頃』は11月7日にオープンします。\n\n2025年10月13日放送時点の情報です。\n\n#三条市 #燕三条 #商業施設 #イオン\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0g2c7gsWkQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0g2c7gsWkQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0g2c7gsWkQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0g2c7gsWkQo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0g2c7gsWkQo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0g2c7gsWkQo"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8nR3igIMPzqJT4Cq902GcPEongg",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLmZUSmJXSHpfZ2hB",
+      "snippet": {
+        "publishedAt": "2025-10-13T05:00:50Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "地域住民と約7000本を植樹、11月オープン「そよら三条須頃」",
+        "description": "#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fTJbWHz_ghA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fTJbWHz_ghA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fTJbWHz_ghA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fTJbWHz_ghA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fTJbWHz_ghA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fTJbWHz_ghA"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LBHT6A2AGdcFs1rS0yTsnvLJwWo",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLm9lWUthN3VVUXdJ",
+      "snippet": {
+        "publishedAt": "2025-10-13T04:30:36Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "コメ政策見直しに向けて「国の感覚と現場感覚がずれている」自民党推進委が農業関係者と懇談",
+        "description": "#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oeYKa7uUQwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oeYKa7uUQwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oeYKa7uUQwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oeYKa7uUQwI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oeYKa7uUQwI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oeYKa7uUQwI"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gv9X8_rsRnRDBVYkzFtmya4WZ98",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLkVSQ3JBa0VIVzk0",
+      "snippet": {
+        "publishedAt": "2025-10-13T03:50:01Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "約1万3000人が駆け抜ける！新潟シティマラソン開催、高橋尚子さんも激励",
+        "description": "#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ERCrAkEHW94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ERCrAkEHW94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ERCrAkEHW94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ERCrAkEHW94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ERCrAkEHW94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ERCrAkEHW94"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-tWXF0BoYE6chR96VCb12WMA-Rc",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLk8zcF82NXJrWUQw",
+      "snippet": {
+        "publishedAt": "2025-10-13T03:45:03Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "【燕市長選挙｜告示】新人2人が立候補 19日投開票",
+        "description": "#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O3p_65rkYD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O3p_65rkYD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O3p_65rkYD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O3p_65rkYD0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O3p_65rkYD0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O3p_65rkYD0"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MH0lALRERXUrntbsTfk72xqQ_Hc",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLmpFazdmN0xEQzVJ",
+      "snippet": {
+        "publishedAt": "2025-10-13T03:40:01Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "中学生が市議会の審議を体験「初めて感じる空気」若い世代に政治への関心を",
+        "description": "#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jEk7f7LDC5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jEk7f7LDC5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jEk7f7LDC5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jEk7f7LDC5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jEk7f7LDC5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jEk7f7LDC5I"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E4I0LCgwlN8t1eWmBL6M4OAwZ7M",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLmZTU2NYM3hVU2dJ",
+      "snippet": {
+        "publishedAt": "2025-10-13T03:35:01Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "深夜に玄関を開けたらクマが…70代男性が顔や胸を引っかかれケガ",
+        "description": "#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fSScX3xUSgI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fSScX3xUSgI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fSScX3xUSgI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fSScX3xUSgI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fSScX3xUSgI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fSScX3xUSgI"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v_rjxwsd4B__7T8Ni3rlIGy5unw",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLjJoSjJDeUtHWFJZ",
+      "snippet": {
+        "publishedAt": "2025-10-13T03:29:28Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "午後は次第に雨がやみ、沿岸部を中心に日の差す時間も【これからの天気(13日11時40分現在)｜新潟】",
+        "description": "#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2hJ2CyKGXRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2hJ2CyKGXRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2hJ2CyKGXRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2hJ2CyKGXRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2hJ2CyKGXRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2hJ2CyKGXRY"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z9WfU5_8tJwcnN_g5oMOWSN5ZvA",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLnZEZkVKcEVGaml3",
+      "snippet": {
+        "publishedAt": "2025-10-13T03:14:41Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "地域住民と約7000本を植樹、11月オープン「そよら三条須頃」【新潟･三条市】UXニュース10月13日OA",
+        "description": "大手スーパーのイオンリテールが、三条市に11月オープンする新しい店舗の敷地内に地域の住民と共に木を植えました。\n\n植樹が行われたのは、イオンリテールの新店舗『そよら三条須頃』の敷地内です。13日は近隣住民や従業員ら500人がヤマザクラなど45種類、約7000本の苗木を植えました。イオングループは1991年から新店舗への植樹活動を続けています。\n\n■イオンリテール北関東・新潟カンパニー 永山久美子支社長\n「(植樹には)店舗が地域に根差し地域のコミュニティの場となること、緑を育む心が世界に広がっていくことへの思いが込められています。地域の皆様に愛される店づくりを心がけてまいりますので、末永くご愛顧を賜りますようよろしくお願いします。」\n\nそよら三条須頃は、JR燕三条駅近くに11月7日にオープンします。\n\n2025年10月13日放送時点の情報です。\n\n#三条市 #植樹 #新店舗 #イオンリテール\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vDfEJpEFjiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vDfEJpEFjiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vDfEJpEFjiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vDfEJpEFjiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vDfEJpEFjiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vDfEJpEFjiw"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NzX5nbMEk0L_36XGUTzzBiJMMRs",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLks4NFpMOWJiM0hv",
+      "snippet": {
+        "publishedAt": "2025-10-13T03:09:43Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "コメ政策見直しに向けて「国の感覚と現場感覚がずれている」自民党推進委が農業関係者と懇談【新潟】UXニュース10月13日OA",
+        "description": "コメ政策の見直しに向けて、自民党が党内に新設した委員会のメンバーが県内の農業関係者と意見交換しました。\n\n自民党は9月、農業政策の転換に向けて議論する『農業構造転換推進委員会』を党内に設けました。先週、委員長を務める江藤拓前農水大臣らが県内入りし、農業関係者と懇談しました。\n\n■自民党 農業構造転換推進委員会 江藤拓委員長\n「(コメの生産について)国の感覚と現場感覚がずれていることが大きな問題。どのような構造の変化が必要なのか、政策の転換が必要なのかを議論している。」\n\n懇談では、コメの価格のあり方や生産性向上策などについて意見が交わされました。\n\n■自民党 農業構造転換推進委員会 江藤拓委員長\n「(コメ価格高騰について関係者は)『今回は異常だ』という受け止めであり、農家の方々の不安のひとつの根底ではないかと思う。」\n\n江藤委員長は今後、中山間地の実情も視察するとしています。\n\n2025年10月13日放送時点の情報です。\n\n#農業 #自民党 #コメ政策 #農家\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K84ZL9bb3Ho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K84ZL9bb3Ho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K84ZL9bb3Ho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K84ZL9bb3Ho/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K84ZL9bb3Ho/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K84ZL9bb3Ho"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cuU999FmgG_zX7yKB_ga60g0ezU",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLnpJSFBwNVdRcTBB",
+      "snippet": {
+        "publishedAt": "2025-10-13T03:09:41Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "午後は次第に雨がやみ、沿岸部を中心に日の差す時間も【これからの天気(13日11時40分現在)｜新潟】UXニュース10月13日OA",
+        "description": "これからの気象情報です。\n\n◆警報・注意報\n現在、上・中・下越に濃霧注意報が発表されています。\n上・中・下越では、夕方まで濃いキリによる視程障害に注意してください。\n\n◆13日(月)これからの天気\n午後は次第に雨がやみ、強めに吹く風もおさまるでしょう。\n各地とも雲が多めですが、沿岸部を中心に日の差す時間もありそうです。\n降水確率は、上・中・下越で高めのところがあります。\n\n◆13日(月)の予想最高気温\n最高気温は、20～24℃の予想です。\n各地とも12日(日)ほどは上がらず、季節外れの暑さは収まるでしょう。\n\n2025年10月13日放送時点の情報です。\n\n#天気予報 #気象予報 #快晴 #警報注意報\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zIHPp5WQq0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zIHPp5WQq0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zIHPp5WQq0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zIHPp5WQq0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zIHPp5WQq0A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zIHPp5WQq0A"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WLOFrHwXnLUJA9O7AT-fdhA_7w4",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLmh4NVU4LWpXRWlF",
+      "snippet": {
+        "publishedAt": "2025-10-13T02:38:16Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "【燕市長選挙｜告示】新人2人が立候補 19日投開票【新潟】UXニュース10月12日OA",
+        "description": "12日、現職の辞職に伴う新潟県燕市長選挙が告示され、新人2人が立候補を届け出ました。\n\n燕市長選挙に立候補したのは、届け出順に元会社員・佐々木剛さん(59)と前市議・佐野大輔さん(41)のいずれも無所属の新人2人です。両候補はさっそく街頭ので第一声に臨みました。\n\n■佐々木剛候補\n「ふるさと燕市をもっと魅力あふれる街にし、日本中あるいは世界中からうらやましがられるような、ぜひ燕に行ってみたい、燕に住みたい、働きたい、そういうふうに思っていただけるような街にしてまいります。」\n\n■佐野大輔候補\n「稼ぐ燕市、育てる燕市、そして燕はひとつ。その先にはきっと燕がもっともっと良くなっていく。もっともっと盛り上がっていく、もっともっとみんなが住んだり働いたりして、良かったと思える燕市を作っていきたい。」\n\n今回の市長選は、現職の鈴木力市長が任期途中で辞職することに伴って行われます。投票は19日に行われ、即日開票されます。\n\n2025年10月12日放送時点の情報です。\n\n#燕市 #市長選 #投票 #立候補\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hx5U8-jWEiE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hx5U8-jWEiE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hx5U8-jWEiE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hx5U8-jWEiE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hx5U8-jWEiE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hx5U8-jWEiE"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hOTqtxf4ZLUjYF86PSsUZOQiOco",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLjViLUl0WU5HcXVr",
+      "snippet": {
+        "publishedAt": "2025-10-13T02:36:33Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "約1万3000人が駆け抜ける！新潟シティマラソン開催、高橋尚子さんも激励【新潟】UXニュース10月12日OA",
+        "description": "第41回新潟シティマラソンが開催され、全国から集まったランナーが秋の新潟市を駆け抜けました。\n\n今回は、フルマラソン、10.6kmのファンラン、年齢や障害の有無を問わず参加できるユニバーサルランの3つの種目に約1万3000人がエントリー。スタート地点では、ゲストの高橋尚子さんがランナーを激励しました。\n\n■ゲストランナー 高橋尚子さん\n「今年は1万3000人です。みんなこの新潟を楽しみにしてきました。」\n\n12日は時おり細かい雨が降る1日でしたが、ランナーは萬代橋や信濃川沿いなど新潟市中心部を駆け抜け、ゴールを目指して力強い走りを見せていました。\n\n2025年10月12日放送時点の情報です。\n\n#マラソン #シティマラソン #高橋尚子 #フルマラソン\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5b-ItYNGquk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5b-ItYNGquk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5b-ItYNGquk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5b-ItYNGquk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5b-ItYNGquk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5b-ItYNGquk"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TA5UB92CTKgU4SzGaNan2BVNpRA",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLjRtMTZMdEN0WFBV",
+      "snippet": {
+        "publishedAt": "2025-10-13T02:36:30Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "中学生が市議会の審議を体験「初めて感じる空気」若い世代に政治への関心を【新潟】UXニュース10月11日OA",
+        "description": "新潟市の中学生が、市長や議員役を務めて市議会の審議を体験しました。\n\n若い世代に政治への関心を高めてもらおうと新潟市議会が開いた体験会。9日は新潟大学附属新潟中学校の生徒37人が市長や議員などの役を務め、防災対策の予算案について議論を交わしました。\n\n■市長役の生徒\n「市民の命を守るためには、災害備蓄をさらに充実させておくことが必要です。」\n■議員役の生徒\n「市長の提案に賛成の立場で質問します。」\n■議長役の生徒\n「合意形成とか歩み寄っていくのは、スムーズに話し合いをする上でとても役立つことだと思う。」\n\n■参加した生徒\n「(議会は)厳格な感じがして初めて感じる空気で、やっぱり本物ってすごい。」\n\n新潟市議会は、今後もこの取り組みを続けるとしています。\n\n2025年10月11日放送時点の情報です。\n\n#市議会 #中学生 #体験 #審議\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4m16LtCtXPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4m16LtCtXPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4m16LtCtXPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4m16LtCtXPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4m16LtCtXPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4m16LtCtXPU"
+        },
+        "videoOwnerChannelTitle": "UX新潟ニュース",
+        "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cChgwQKrYT5h0kWuD0wyDwPiWFk",
+      "id": "VVVtQm5Qcm5iWXBiVVoxMFRNSWxZOVlBLk1OdS0zd08walo4",
+      "snippet": {
+        "publishedAt": "2025-10-13T02:34:23Z",
+        "channelId": "UCmBnPrnbYpbUZ10TMIlY9YA",
+        "title": "深夜に玄関を開けたらクマが…70代男性が顔や胸を引っかかれケガ【新潟･長岡市】UXニュース10月11日OA",
+        "description": "新潟県長岡市で70代男性が自宅の玄関先でクマに襲われケガをしました。命に別状はありません。\n\n警察などによりますと11日午前2時すぎ、長岡市栃尾地域で70代男性が天気を確認しようと自宅の玄関を開けたところ、柿の木に登っていた体長約1mのクマに襲われました。男性は顔や胸を引っかかれましたが自ら消防に通報し、命に別状はありません。\n\n現場は住宅地で近くには小学校があり、警察などが周辺をパトロールして注意を呼びかけています。\n\n今年度、新潟県内でクマに襲われケガをした人は11人に上り、過去最多のペースとなっています。新潟県は【クマ出没特別警報】を出して最大級の警戒を呼びかけています。\n\n2025年10月11日放送時点の情報です。\n\n#長岡市 #栃尾 #クマ #特別警報\n#新潟 #UX新潟テレビ21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MNu-3wO0jZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MNu-3wO0jZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MNu-3wO0jZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MNu-3wO0jZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MNu-3wO0jZ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UX新潟ニュース",
+        "playlistId": "UUmBnPrnbYpbUZ10TMIlY9YA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MNu-3wO0jZ8"
         },
         "videoOwnerChannelTitle": "UX新潟ニュース",
         "videoOwnerChannelId": "UCmBnPrnbYpbUZ10TMIlY9YA"

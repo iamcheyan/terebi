@@ -2,42 +2,37 @@
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "Television Osaka テレビ大阪",
   "original_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-10-13T00:00:27.024525",
+  "updated_at": "2025-10-14T00:00:09.171409",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "UQZiBGLbpfB8yWs35XMH0M_zTio",
-      "id": "VVVlT3B5Rkd5WWZocVpEcVplWm1BdTBBLl9MeDhTM19wV25B",
+      "etag": "-k9iWnE49esjbW7EkAvqMma8Yek",
+      "id": "VVVlT3B5Rkd5WWZocVpEcVplWm1BdTBBLlMyLTQtS1VTa3pR",
       "snippet": {
-        "publishedAt": "2025-10-12T03:45:05Z",
+        "publishedAt": "2025-10-13T03:27:56Z",
         "channelId": "UCeOpyFGyYfhqZDqZeZmAu0A",
-        "title": "食遺産File.218「さといものクリームコロッケ」＠大阪府・泉南市",
-        "description": "テレビ大阪で毎週にちようお昼12時29分放送「発見!!食遺産」の動画レシピ。\n今回は大阪府・泉南市で粘り強く濃厚な\"さといも”を使ったレシピをご紹介。\n作るのに大量の水と水はけの良い土壌が必要だという“さといも”\n粘り強く甘い！とろとろ食感がたまらない絶品さといもレシピを教えていただきました。\n\n【材料】（2人前）\nさといも（300ｇ）\n豚ひき肉（100ｇ）\n玉ねぎ（1/4本）\nバター（10ｇ）\nコーン（適量）\nチーズ（適量）\n卵（1個）\n牛乳（150ｇ）\n小麦粉（適量）\nパン粉（適量）\nにんにく（適量）\n塩胡椒（少々）\nサラダ油（適量）\n\n【作り方】\n➀さといもの皮をむく\n②圧力鍋で さといもを10分間蒸す\n③サラダ油でにんにくと玉ねぎ・豚ひき肉を炒める\n④小麦粉とバター・牛乳を入れてホワイトソースを作る\n※とろみが出るまで煮詰める\n⑤蒸した さといもを潰す\n⑥潰したさといもにホワイトソース・コーンを加えて混ぜる\n⑦混ぜた具材は冷蔵庫で寝かして粗熱を取る\n➇中にチーズを入れて具材を成形 \n➈小麦粉・卵・パン粉をつける\n➉サラダ油（170℃）で色づくまで揚げる",
+        "title": "「Pet博2025大阪 」CM",
+        "description": "2025年11月1日(土)～3日（月祝）インテックス大阪で開催！ペット同伴大歓迎♪楽しいイベントやペットグッズのお店がいっぱい！お買い物やキッチンカーグルメで1日楽しめちゃいます。ペットを飼っている人も飼っていない方も、動物好きならおススメのイベント！「Pet博」前売券は2025年10月31日（金）まで発売です。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_Lx8S3_pWnA/default.jpg",
+            "url": "https://i.ytimg.com/vi/S2-4-KUSkzQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_Lx8S3_pWnA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S2-4-KUSkzQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_Lx8S3_pWnA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S2-4-KUSkzQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/_Lx8S3_pWnA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/S2-4-KUSkzQ/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/_Lx8S3_pWnA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "Television Osaka テレビ大阪",
@@ -45,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "_Lx8S3_pWnA"
+          "videoId": "S2-4-KUSkzQ"
         },
         "videoOwnerChannelTitle": "Television Osaka テレビ大阪",
         "videoOwnerChannelId": "UCeOpyFGyYfhqZDqZeZmAu0A"

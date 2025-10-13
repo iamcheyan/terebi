@@ -2,40 +2,40 @@
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "【福島放送公式】 ときまるTV",
   "original_name": "KFB福島放送",
-  "updated_at": "2025-10-13T00:03:56.690270",
+  "updated_at": "2025-10-14T00:04:12.659029",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "eynRsiHFu4jBcBLJUq4Te5PQw8M",
-      "id": "VVUzMnBGMUJaTHRlTnFJYVhVVnM3U2xnLjZ1U2t3U2JScXln",
+      "etag": "NLHyNsTLMfnooCCWTHQD6J4GYl4",
+      "id": "VVUzMnBGMUJaTHRlTnFJYVhVVnM3U2xnLnVESFl6MVdSbEdr",
       "snippet": {
-        "publishedAt": "2025-10-12T09:30:03Z",
+        "publishedAt": "2025-10-13T01:30:50Z",
         "channelId": "UC32pF1BZLteNqIaXUVs7Slg",
-        "title": "古澤哲也アナウンサーに密着👀#福島放送 #古澤哲也 #アナウンサー #テレビ局 #福島県",
-        "description": "",
+        "title": "福島美少女図鑑のイマコレ　LINEヤフー「Yahoo!カーナビ」",
+        "description": "福島美少女図鑑のメンバーが、気になる話題や商品について\n体験する情報番組！\n\n「LINEヤフー」から「Yahoo!カーナビ」をご紹介。最新地図や渋滞回避、駐車場の空き情報など、ドライブがもっと楽しくなる便利な機能がいっぱいです。紅葉シーズンのドライブ計画にも役立つ情報を、楽しくお届けします。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/6uSkwSbRqyg/default.jpg",
+            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/6uSkwSbRqyg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/6uSkwSbRqyg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/6uSkwSbRqyg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/6uSkwSbRqyg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "6uSkwSbRqyg"
+          "videoId": "uDHYz1WRlGk"
         },
         "videoOwnerChannelTitle": "【福島放送公式】 ときまるTV",
         "videoOwnerChannelId": "UC32pF1BZLteNqIaXUVs7Slg"

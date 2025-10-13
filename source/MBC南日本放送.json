@@ -2,40 +2,40 @@
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
   "original_name": "MBC南日本放送",
-  "updated_at": "2025-10-13T00:01:36.101697",
+  "updated_at": "2025-10-14T00:01:45.377869",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "Qxvj5tKL993CYJOE4JuT7mgS7S4",
-      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLjhMak1mb3JVcXNj",
+      "etag": "oDpVOt4h08aKidYWsOub-NxHVvU",
+      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLnRMSnJwSG1sVW9R",
       "snippet": {
-        "publishedAt": "2025-10-12T14:15:01Z",
+        "publishedAt": "2025-10-13T08:45:00Z",
         "channelId": "UC7f4czw8TuG69HuVt_uXRtQ",
-        "title": "南種子町・千座の岩屋【かごしまドローンTRIP】",
-        "description": "MBCテレビ「かごしまドローンTRIP」\n2025年10月12日放送\n撮影：古市龍平\n\n今回の舞台は南種子町の千座の岩屋周辺。\n種子島の東海岸は太平洋の荒波に削られた海蝕洞窟が多くみられます。\n干潮の時には洞窟の中に千人が座れると伝えられる千座の岩屋周辺の奇岩と透明なエメラルドグリーンの海を空から眺める旅へと案内します。\n\n＝＝＝＝＝＝\n❏番組HP「かごしまドローンTRIP」\nhttps://www.mbc.co.jp/tv/dronetrip/\n\n❏再生リスト「かごしまドローンTRIP」\nhttps://www.youtube.com/playlist?list=PLCkwfNbA_Nqu06clsbWYka9vEOpDH6hRR",
+        "title": "昭和の音旅　#148 坊津町の「十五夜踊」",
+        "description": "音で楽しむ、ふるさとの風景…鹿児島県内に伝わるお祭りや民謡など懐かしい音を季節ごとに紹介します。\n\n\n\n\n\n\nMBCラジオは1953年（昭和28年）に開局しました。MBC資料センターには、開局当時からの貴重なラジオの音源が多数保存されています。なかでも、昭和30年代～50年代の鹿児島県内各地のお祭りや民謡などの貴重な音源が大量に残されています。\n\n\n市町村合併により地名が変わる中、過疎化・少子化で消滅の危機にあるお祭りや、唄い手継承の危機にある民謡なども多くあると思われます。鹿児島に古くから伝わる習俗を保存した当時のラジオの音源は、まさに文化遺産ともいえる貴重なものです。 これらを発掘してデジタルアーカイブ化するとともに、再び電波に乗せることにより、脈々と繋いできた鹿児島の文化の継承に努めてまいります。\n\n\n当時を知る人々を郷愁に誘い、若い世代には古き良きふるさとの文化と出会う機会になることを願います。\n\n\n\n\n\n\n昭和36年の音源から、坊津町の「十五夜踊」をお届けします。\n\n\n旧暦8月15日、南さつま市坊津町泊の九玉神社へ奉納されており、かつては夜に浜辺で輪になって踊っていましたが、現在は泊公民館横の広場で踊られています。\n\n\n音楽は三味線と太鼓で奏でられ、「シベ踊り」「扇子踊り」「手踊り」などがあります。「泊十五夜踊」を含む南薩摩の十五夜行事は、国の重要無形民俗文化財に指定されています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8LjMforUqsc/default.jpg",
+            "url": "https://i.ytimg.com/vi/tLJrpHmlUoQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8LjMforUqsc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tLJrpHmlUoQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8LjMforUqsc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tLJrpHmlUoQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/8LjMforUqsc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/tLJrpHmlUoQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/8LjMforUqsc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tLJrpHmlUoQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "8LjMforUqsc"
+          "videoId": "tLJrpHmlUoQ"
         },
         "videoOwnerChannelTitle": "MBC南日本放送",
         "videoOwnerChannelId": "UC7f4czw8TuG69HuVt_uXRtQ"
@@ -53,36 +53,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "6METHoz5wg2uj8YLflK4wnWuPjY",
-      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLkpRLVJZb2xzN0tV",
+      "etag": "7PjWdY0J5vytFFvtGxeXEltz_P8",
+      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLjIwUjN3RjdNVThV",
       "snippet": {
-        "publishedAt": "2025-10-12T07:30:09Z",
+        "publishedAt": "2025-10-13T02:52:18Z",
         "channelId": "UC7f4czw8TuG69HuVt_uXRtQ",
-        "title": "10/12『南谷山保育園』のわんぱく君・わんぱくちゃんを紹介！【MBCテレビ『わんぱくてれび』",
-        "description": "今週は「📛南谷山保育園（鹿児島市和田）」を訪ねました。\n\n※動画は放送後2週間の公開を予定しております。\n\n｡.*ﾟ・｡.｡+ﾟ.｡｡.*ﾟ・｡.｡+ﾟ.｡｡.*ﾟ・｡.｡+ﾟ.｡｡.*ﾟ・｡.｡+ﾟ.｡\n\n📺️MBCテレビ『わんぱくてれび』日曜 16:24～16:30放送\n\n🧸番組概要\nこどもたちの笑顔は私たちをホッとさせます。こどもたちの映画は勇気を与えてくれます。「わんぱくてれび」は、鹿児島県内の幼稚園・保育園を訪ね、「わんぱく君」「わんぱくちゃん」を紹介する番組です。\n\n🔻番組サイト\nhttps://www.mbc.co.jp/tv/wanpaku/\n\n｡.*ﾟ・｡.｡+ﾟ.｡｡.*ﾟ・｡.｡+ﾟ.｡｡.*ﾟ・｡.｡+ﾟ.｡｡.*ﾟ・｡.｡+ﾟ.｡\n\n【SPONSOR】\n鹿児島県民共済生活協同組合\nhttps://kagoshima.kyosai-cc.or.jp/index.html\n\n【後援】\n鹿児島県国公立幼稚園協会\n鹿児島県私立幼稚園協会\n鹿児島県保育連合会",
+        "title": "原付バイクが消える？10月末で生産終了…一体なぜ？「新基準原付バイク」とは？(MBCニューズナウ 2025年10月10日放送）",
+        "description": "MBCニューズナウ 2025年10月10日放送\n\n通勤や通学に便利な「原付バイク」について、この原付バイクが今月いっぱいで生産終了となります。なぜ生産終了なのか？その背景や現場を取材しました。\n-------------------------------\n\n◆平日18:15～「MBCニューズナウ」\nhttps://www.mbc.co.jp/tv/news_now/\n\n◆【MBC NEWS DIG】ニュースや話題などをお届けしています。\nhttps://newsdig.tbs.co.jp/list/news/mbc/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JQ-RYols7KU/default.jpg",
+            "url": "https://i.ytimg.com/vi/20R3wF7MU8U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JQ-RYols7KU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/20R3wF7MU8U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JQ-RYols7KU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/20R3wF7MU8U/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/JQ-RYols7KU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/20R3wF7MU8U/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/JQ-RYols7KU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/20R3wF7MU8U/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -92,7 +92,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "JQ-RYols7KU"
+          "videoId": "20R3wF7MU8U"
         },
         "videoOwnerChannelTitle": "MBC南日本放送",
         "videoOwnerChannelId": "UC7f4czw8TuG69HuVt_uXRtQ"
@@ -100,36 +100,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "8K-kD2nhEsVr1FlPxk46_3Bi3Ks",
-      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLlk2eE5sdHFMbGI0",
+      "etag": "q-7jC0Lbu3pb2NijSFpncfNB1LA",
+      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLk9Yd0Z4aHlYVUhn",
       "snippet": {
-        "publishedAt": "2025-10-12T04:00:46Z",
+        "publishedAt": "2025-10-13T02:31:04Z",
         "channelId": "UC7f4czw8TuG69HuVt_uXRtQ",
-        "title": "#かごしま『ハロウィンジャンボ宝くじ好評販売中！　ほか』（2025年10月12日放送）",
-        "description": "【かごしま県からのお知らせ】\n・ハロウィンジャンボ宝くじ好評販売中！\n・農福連携マルシェ2025「秋の収穫祭」\n・認知症普及啓発イベント\n・楠隼中学校・高等学校 入学者選抜説明会開催！\n----------------------------\n\n「＃（ハッシュタグ）かごしま」は、鹿児島県からのお知らせを、地域・学校・医療・福祉・観光など幅広い分野からお伝えします。\n\n----------------------------\n\n❏MBCテレビ「#かごしま」\nhttps://www.mbc.co.jp/tv/hushtug/\n\n❏過去の放送：再生リスト\nhttps://youtube.com/playlist?list=PLCkwfNbA_NqsdnM2Q2Sgxt6JKRuxPY1v1\n\n#MBCテレビ #かごしま #鹿児島県 #ハッシュタグかごしま",
+        "title": "MBC賞表彰式　3団体が抱負「鹿児島信用金庫吹奏楽部」「鹿屋市平和学習ガイド・調査員連絡会」「鹿児島中央助産院」(MBCニューズナウ 2025年10月10日放送）",
+        "description": "MBCニューズナウ 2025年10月10日放送\n\n鹿児島の発展に貢献し、今後の活躍が期待される個人や団体に贈られるMBC賞の表彰式が開かれ、受賞者が今後の抱負を語りました。\n第58回MBC賞は、3つの団体が受賞しました。\n-------------------------------\n\n◆平日18:15～「MBCニューズナウ」\nhttps://www.mbc.co.jp/tv/news_now/\n\n◆【MBC NEWS DIG】ニュースや話題などをお届けしています。\nhttps://newsdig.tbs.co.jp/list/news/mbc/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Y6xNltqLlb4/default.jpg",
+            "url": "https://i.ytimg.com/vi/OXwFxhyXUHg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Y6xNltqLlb4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OXwFxhyXUHg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Y6xNltqLlb4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OXwFxhyXUHg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Y6xNltqLlb4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/OXwFxhyXUHg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Y6xNltqLlb4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OXwFxhyXUHg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -139,101 +139,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Y6xNltqLlb4"
-        },
-        "videoOwnerChannelTitle": "MBC南日本放送",
-        "videoOwnerChannelId": "UC7f4czw8TuG69HuVt_uXRtQ"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ohhU-4uGjvCROkJUVj1DTVdWgE4",
-      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLjhOOXdEMTJ6TU1R",
-      "snippet": {
-        "publishedAt": "2025-10-12T02:45:00Z",
-        "channelId": "UC7f4czw8TuG69HuVt_uXRtQ",
-        "title": "JA住宅のZハウス(2025年10月12日放送)",
-        "description": "JA住宅のZハウスについて紹介します。\n\nMBCテレビ「たわわのわ」\n2025年10月12日放送\nhttp://www.mbc.co.jp/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/8N9wD12zMMQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/8N9wD12zMMQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/8N9wD12zMMQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/8N9wD12zMMQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/8N9wD12zMMQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MBC南日本放送",
-        "playlistId": "UU7f4czw8TuG69HuVt_uXRtQ",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "8N9wD12zMMQ"
-        },
-        "videoOwnerChannelTitle": "MBC南日本放送",
-        "videoOwnerChannelId": "UC7f4czw8TuG69HuVt_uXRtQ"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "TZON3IgM_1mkVIx_vLnL48Q6tio",
-      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLlhsaTE0NU93UTlN",
-      "snippet": {
-        "publishedAt": "2025-10-12T02:00:00Z",
-        "channelId": "UC7f4czw8TuG69HuVt_uXRtQ",
-        "title": "#78　JDたちとZ世代流行語を学ぼう！",
-        "description": "「目指せトレンディ！流行語でフィーバーしてミーちゃんハーちゃんにモテモテになるんだっちゅーの」\n\n\n\n\n\n\n放送開始以降、最年少出演者の登場です。\n\n\n今回はバラの女子大学生、JDたちがゲスト！\n\n\n\n\n\n\n最近ナウくてハクいチャン姉と茶ぁしばけていないオンジョたちは、\n\n\nZ世代のキラキラ女子大生たちとうまく収録できるのでしょうか。\n\n\n皆さんもZ世代の言葉を使いこなしてモテモテマンになりましょう！",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Xli145OwQ9M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Xli145OwQ9M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Xli145OwQ9M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Xli145OwQ9M/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Xli145OwQ9M/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "MBC南日本放送",
-        "playlistId": "UU7f4czw8TuG69HuVt_uXRtQ",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Xli145OwQ9M"
+          "videoId": "OXwFxhyXUHg"
         },
         "videoOwnerChannelTitle": "MBC南日本放送",
         "videoOwnerChannelId": "UC7f4czw8TuG69HuVt_uXRtQ"

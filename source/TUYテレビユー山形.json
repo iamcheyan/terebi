@@ -2,40 +2,40 @@
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "tuy6ch",
   "original_name": "TUYテレビユー山形",
-  "updated_at": "2025-10-13T00:03:05.755061",
+  "updated_at": "2025-10-14T00:03:15.233876",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "rKUDctk2WNWVEHJ4UZfmfpsOEb4",
-      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3LnB2RDNXdDdXM0Zv",
+      "etag": "v3VmihPRV6aMuhaHjh6EXjnaYkM",
+      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3LnR6Vk9nNU9CckpV",
       "snippet": {
-        "publishedAt": "2025-10-12T04:01:03Z",
+        "publishedAt": "2025-10-13T05:50:59Z",
         "channelId": "UCTWatTAOnFVB0vwIetZCTHw",
-        "title": "経営者と若者との座談会【前編】",
-        "description": "＃テレビユー山形＃TUY＃sdgs",
+        "title": "クマが突然…襲われた女性が語る”その瞬間”　山形・飯豊町でクマに襲われるも軽傷",
+        "description": "10月13日放送　#tuy #テレビユー山形 #山形 #山形県 #news #飯豊町 #クマ #nスタやまがた #被害 #熊 #ケガ",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pvD3Wt7W3Fo/default.jpg",
+            "url": "https://i.ytimg.com/vi/tzVOg5OBrJU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pvD3Wt7W3Fo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tzVOg5OBrJU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pvD3Wt7W3Fo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tzVOg5OBrJU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/pvD3Wt7W3Fo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/tzVOg5OBrJU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/pvD3Wt7W3Fo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tzVOg5OBrJU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "pvD3Wt7W3Fo"
+          "videoId": "tzVOg5OBrJU"
+        },
+        "videoOwnerChannelTitle": "tuy6ch",
+        "videoOwnerChannelId": "UCTWatTAOnFVB0vwIetZCTHw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y7ionDD0QoJ7Q-cBBXuseAj8FtM",
+      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3LklXMVJmM2t5VnZv",
+      "snippet": {
+        "publishedAt": "2025-10-13T05:47:19Z",
+        "channelId": "UCTWatTAOnFVB0vwIetZCTHw",
+        "title": "山形新幹線に「ありがとう」「よろしく」全国の”つばさ”さん大集合の斬新イベント開催",
+        "description": "10月11日放送　#tuy #テレビユー山形 #山形 #山形県 #山形市 #news #山形新幹線 #E3系 #E8系 #つばさ #山形駅 #jr #新幹線 #superexpress",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IW1Rf3kyVvo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IW1Rf3kyVvo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IW1Rf3kyVvo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IW1Rf3kyVvo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IW1Rf3kyVvo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tuy6ch",
+        "playlistId": "UUTWatTAOnFVB0vwIetZCTHw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IW1Rf3kyVvo"
         },
         "videoOwnerChannelTitle": "tuy6ch",
         "videoOwnerChannelId": "UCTWatTAOnFVB0vwIetZCTHw"

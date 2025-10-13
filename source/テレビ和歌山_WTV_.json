@@ -2,37 +2,42 @@
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山【公式】",
   "original_name": "テレビ和歌山（WTV）",
-  "updated_at": "2025-10-12T00:00:26.653445",
+  "updated_at": "2025-10-14T00:00:35.654290",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "zR3_LXZTV7ieM0OLGhU9vx6IqYE",
-      "id": "VVVSSUlyZEZUQjZqZFRvWEY4S2tKUUZRLnJkX0RxdHVITzhV",
+      "etag": "qv4x5yn7OQYTbBOAvBu_n7N_Yeg",
+      "id": "VVVSSUlyZEZUQjZqZFRvWEY4S2tKUUZRLkhJYXYwSFZqSTNR",
       "snippet": {
-        "publishedAt": "2025-10-11T13:38:53Z",
+        "publishedAt": "2025-10-13T05:30:08Z",
         "channelId": "UCRIIrdFTB6jdToXF8KkJQFQ",
-        "title": "日本維新の会 林佑美衆議院議員 離党届を提出「同じ未来を描くことができないと判断した」 和歌山県",
-        "description": "2025年10月11日放送\nhttps://www.youtube.com/telewaka5ch\n#和歌山 #日本維新の会 #離党届 #衆議院議員 #テレビ和歌山",
+        "title": "暮らしのカルチャータイム　Dr.みっちゃんの「今日から始める！お顔の若返り習慣」第1回",
+        "description": "2025年10月13日放送分\nお顔の若返り習慣\n第1回は講師にDr.みっちゃんこと医師　医学博士の大岩美智子先生をお迎えし小顔効果のあるマッサージを行っていきます！\nお楽しみに！",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rd_DqtuHO8U/default.jpg",
+            "url": "https://i.ytimg.com/vi/HIav0HVjI3Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rd_DqtuHO8U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIav0HVjI3Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rd_DqtuHO8U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIav0HVjI3Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/rd_DqtuHO8U/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/HIav0HVjI3Q/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HIav0HVjI3Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "テレビ和歌山【公式】",
@@ -40,7 +45,101 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "rd_DqtuHO8U"
+          "videoId": "HIav0HVjI3Q"
+        },
+        "videoOwnerChannelTitle": "テレビ和歌山【公式】",
+        "videoOwnerChannelId": "UCRIIrdFTB6jdToXF8KkJQFQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sSS_O6MtQXUwcc5xZ0VaqCGlCE4",
+      "id": "VVVSSUlyZEZUQjZqZFRvWEY4S2tKUUZRLkJYUktjRzZzRXJz",
+      "snippet": {
+        "publishedAt": "2025-10-13T01:58:12Z",
+        "channelId": "UCRIIrdFTB6jdToXF8KkJQFQ",
+        "title": "あのじゅうよ〜 第170回",
+        "description": "テレビ和歌山 毎週土曜日午後6時10分〜放送\n再放送・同日午後11時〜\n\n2025年10月11日放送分\n#テレビ和歌山  #和歌山県 #なんて素敵な和歌山なんでしょう",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BXRKcG6sErs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BXRKcG6sErs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BXRKcG6sErs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BXRKcG6sErs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BXRKcG6sErs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレビ和歌山【公式】",
+        "playlistId": "UURIIrdFTB6jdToXF8KkJQFQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BXRKcG6sErs"
+        },
+        "videoOwnerChannelTitle": "テレビ和歌山【公式】",
+        "videoOwnerChannelId": "UCRIIrdFTB6jdToXF8KkJQFQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NSJL3CSccudt8HjL2xQcP1HVNIc",
+      "id": "VVVSSUlyZEZUQjZqZFRvWEY4S2tKUUZRLkVaYkloZXNKT1c4",
+      "snippet": {
+        "publishedAt": "2025-10-13T00:00:17Z",
+        "channelId": "UCRIIrdFTB6jdToXF8KkJQFQ",
+        "title": "いま伝えたい 膵(すい)がんの最新治療【わかやま医療ナビ】",
+        "description": "第176回放送（2025年10月5日放送)\nhttps://www.youtube.com/telewaka5ch \n「いま伝えたい 膵(すい)がんの最新治療」～和歌山県立医科大学 外科学第２講座 川井 学 教授に聞く～\n\n全てのがん腫の中で最も予後不良とされる膵がん。治療の流れや手術ができない場合などについてお話しいただきます。\n\n#膵がん #すい臓がん最新治療 #コンバージョン手術 #がんゲノム医療 #和歌山県立医科大学 #テレビ和歌山",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EZbIhesJOW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EZbIhesJOW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EZbIhesJOW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EZbIhesJOW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EZbIhesJOW8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレビ和歌山【公式】",
+        "playlistId": "UURIIrdFTB6jdToXF8KkJQFQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EZbIhesJOW8"
         },
         "videoOwnerChannelTitle": "テレビ和歌山【公式】",
         "videoOwnerChannelId": "UCRIIrdFTB6jdToXF8KkJQFQ"
