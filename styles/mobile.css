@@ -59,6 +59,8 @@ html.mobile-device .footer {
     border-radius: 0;
     margin-bottom: 0;
     border:none;
+    z-index: 1;
+    /* 用户菜单的 z-index 是 10000，确保菜单在 header 之上 */
 }
 html.mobile-device .footer-content {
     padding: 0;
@@ -123,6 +125,21 @@ html.mobile-device .settings-footer {
     padding-right: 20px;
 }
 
+/* 移动端设置面板开发者信息 */
+html.mobile-device .settings-footer .footer-inner {
+    font-size: 11px;
+    gap: 6px;
+}
+
+html.mobile-device .settings-footer .footer-link-label {
+    font-size: 11px;
+}
+
+html.mobile-device .settings-footer .footer-link svg {
+    width: 16px;
+    height: 16px;
+}
+
 html.mobile-device .settings-section {
     margin-bottom: 24px;
 }
@@ -171,6 +188,8 @@ html.mobile-device .page-header {
     background: rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(8px);
     padding: 5px 10px;
+    z-index: 100;
+    /* 用户菜单的 z-index 是 10000，确保菜单在 header 之上 */
 }
 html.mobile-device .icon-button {
     zoom: 0.8;
@@ -621,11 +640,7 @@ html.mobile-device .view-history-panel.show {
     opacity: 1;
 }
 
-html.mobile-device .view-history-panel[inert] {
-    pointer-events: none;
-    visibility: hidden;
-    opacity: 0;
-}
+
 
 html.mobile-device .view-history-content {
     padding: 20px 16px 16px;
@@ -818,42 +833,62 @@ html.mobile-device .login-btn svg {
 }
 
 html.mobile-device .user-avatar {
+    width: 26px;
+    height: auto;
+}
+
+html.mobile-device .user-menu {
+    right: 10px;
+    min-width: 220px;
+    max-width: calc(100vw - 60px);
+    z-index: 10000;
+    position: fixed;
+    top: 55px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+html.mobile-device .user-menu-header {
+    padding: 12px;
+}
+
+html.mobile-device .user-avatar-large {
     width: 36px;
     height: 36px;
 }
 
-html.mobile-device .user-menu {
-    right: -10px;
-    min-width: 260px;
-    max-width: calc(100vw - 40px);
-}
-
-html.mobile-device .user-menu-header {
-    padding: 10px;
-}
-
-html.mobile-device .user-avatar-large {
-    width: 44px;
-    height: 44px;
+html.mobile-device .user-info {
+    gap: 2px;
 }
 
 html.mobile-device .user-name {
-    font-size: 14px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.3;
 }
 
 html.mobile-device .user-email {
-    font-size: 12px;
+    font-size: 11px;
+    opacity: 0.75;
+    margin-top: 2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 html.mobile-device .user-menu-item {
-    padding: 14px;
-    font-size: 15px;
-    min-height: 48px;
+    padding: 11px 12px;
+    font-size: 13px;
+    min-height: 42px;
 }
 
 html.mobile-device .user-menu-item svg {
-    width: 20px;
-    height: 20px;
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+}
+
+html.mobile-device .user-menu-divider {
+    margin: 4px 0;
 }
 
 /* 移动端通知 */

@@ -1438,8 +1438,8 @@ body.theme-light .clear-filter-btn:hover {
 /* 频道统计内容 */
 .channel-stats-content {
     padding: 30px;
-    max-height: calc(90vh - 60px);
-    overflow-y: auto;
+    /* max-height: calc(90vh - 60px); */
+    overflow-y: visible;
     scrollbar-width: thin;
     scrollbar-color: rgba(245, 181, 69, 0.6) rgba(255, 255, 255, 0.1);
 }
@@ -1984,6 +1984,70 @@ body.theme-light .region-counts {
     border-bottom: 1px solid var(--color-panel-border, rgba(255, 255, 255, 0.12));
 }
 
+/* 设置面板开发者信息 */
+.settings-footer {
+    margin-top: 32px;
+    padding-top: 20px;
+    border-top: 1px solid var(--color-panel-border, rgba(255, 255, 255, 0.08));
+}
+
+.settings-footer .footer-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--color-text-secondary, rgba(249, 250, 251, 0.6));
+    opacity: 0.8;
+}
+
+.settings-footer .footer-copy {
+    color: var(--color-text-secondary, rgba(249, 250, 251, 0.5));
+}
+
+.settings-footer .footer-brand {
+    color: var(--color-accent, #f5b545);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.settings-footer .footer-brand:hover {
+    color: var(--color-accent-hover, #e5a535);
+    text-shadow: 0 0 8px rgba(245, 181, 69, 0.3);
+}
+
+.settings-footer .footer-sep {
+    color: var(--color-text-secondary, rgba(249, 250, 251, 0.3));
+}
+
+.settings-footer .footer-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--color-text-secondary, rgba(249, 250, 251, 0.6));
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.settings-footer .footer-link:hover {
+    color: var(--color-text-primary, #f9fafb);
+}
+
+.settings-footer .footer-link svg {
+    opacity: 0.7;
+    transition: all 0.2s ease;
+}
+
+.settings-footer .footer-link:hover svg {
+    opacity: 1;
+}
+
+.settings-footer .footer-link-label {
+    font-size: 12px;
+}
+
 .setting-item {
     margin-bottom: 16px;
 }
@@ -2265,6 +2329,39 @@ body.theme-light {
 
 body.theme-light .settings-content {
     padding: 12px 16px;
+}
+
+body.theme-light .settings-footer {
+    border-top-color: rgba(0, 0, 0, 0.08);
+}
+
+body.theme-light .settings-footer .footer-inner {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+body.theme-light .settings-footer .footer-copy {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+body.theme-light .settings-footer .footer-brand {
+    color: #e5a535;
+}
+
+body.theme-light .settings-footer .footer-brand:hover {
+    color: #d4941f;
+    text-shadow: 0 0 8px rgba(229, 165, 53, 0.2);
+}
+
+body.theme-light .settings-footer .footer-sep {
+    color: rgba(0, 0, 0, 0.3);
+}
+
+body.theme-light .settings-footer .footer-link {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+body.theme-light .settings-footer .footer-link:hover {
+    color: rgba(0, 0, 0, 0.9);
 }
 
 @keyframes overlayFadeIn {
