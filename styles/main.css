@@ -2639,7 +2639,7 @@ body.theme-light .clear-history-btn {
     gap: 12px;
     flex: 1;
     min-width: 0;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 /* 收藏视频按钮 */
