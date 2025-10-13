@@ -1557,8 +1557,9 @@ function initSettings() {
     if (initialPanel && initialOverlay) {
         initialPanel.classList.remove('show');
         initialOverlay.classList.remove('show');
-        initialPanel.setAttribute('aria-hidden', 'true');
-        initialOverlay.setAttribute('aria-hidden', 'true');
+        // 使用 inert 属性替代 aria-hidden
+        initialPanel.setAttribute('inert', '');
+        console.log('设置面板初始化完成');
     }
 
     // 从本地存储加载设置
@@ -1617,10 +1618,11 @@ function initSettings() {
         if (panel && overlay) {
             panel.classList.remove('show');
             overlay.classList.remove('show');
-            panel.setAttribute('aria-hidden', 'true');
-            overlay.setAttribute('aria-hidden', 'true');
             document.body.style.overflow = '';
             document.body.removeAttribute('data-modal-open');
+            
+            // 添加 inert 属性使面板不可交互
+            panel.setAttribute('inert', '');
             
             // 移除播放器容器的设置面板打开状态class
             if (playerContainer) {
@@ -1648,10 +1650,11 @@ function initSettings() {
         if (panel && overlay) {
             panel.classList.add('show');
             overlay.classList.add('show');
-            panel.setAttribute('aria-hidden', 'false');
-            overlay.setAttribute('aria-hidden', 'false');
             document.body.style.overflow = 'hidden';
             document.body.setAttribute('data-modal-open', 'true');
+            
+            // 移除 inert 属性使面板可交互
+            panel.removeAttribute('inert');
             
             console.log('设置面板已打开，当前类名:', panel.className);
             
