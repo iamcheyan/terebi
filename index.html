@@ -960,6 +960,93 @@
   window.syncUserData = syncUserData;
   window.loadUserData = loadUserData;
 
+  // === 自动同步功能 ===
+  
+  let autoSyncInterval = null;
+  
+  // 开始自动同步
+  function startAutoSync() {
+    if (autoSyncInterval) {
+      clearInterval(autoSyncInterval);
+    }
+    
+    const user = auth.currentUser;
+    if (!user) return;
+    
+    console.log('🔄 启动自动同步（每5分钟）');
+    
+    // 每5分钟自动同步一次
+    autoSyncInterval = setInterval(async () => {
+      const currentUser = auth.currentUser;
+      if (currentUser) {
+        try {
+          console.log('⏰ 定期自动同步中...');
+          await syncUserData(currentUser);
+          console.log('✅ 定期同步完成');
+        } catch (error) {
+          console.error('❌ 定期同步失败:', error);
+        }
+      }
+    }, 5 * 60 * 1000); // 5分钟
+  }
+  
+  // 停止自动同步
+  function stopAutoSync() {
+    if (autoSyncInterval) {
+      clearInterval(autoSyncInterval);
+      autoSyncInterval = null;
+      console.log('⏸️ 自动同步已停止');
+    }
+  }
+  
+  // 页面可见性变化时同步
+  document.addEventListener('visibilitychange', async () => {
+    const user = auth.currentUser;
+    if (!user) return;
+    
+    if (document.visibilityState === 'visible') {
+      // 页面重新可见，从云端拉取最新数据
+      console.log('👀 页面重新可见，检查云端数据...');
+      try {
+        await loadUserData(user, { skipReload: true, silent: true });
+        console.log('✅ 云端数据已同步到本地');
+      } catch (error) {
+        console.error('❌ 同步失败:', error);
+      }
+    } else {
+      // 页面即将隐藏，上传本地数据到云端
+      console.log('📤 页面即将隐藏，上传本地数据...');
+      try {
+        await syncUserData(user);
+        console.log('✅ 本地数据已上传到云端');
+      } catch (error) {
+        console.error('❌ 上传失败:', error);
+      }
+    }
+  });
+  
+  // 页面即将关闭时同步
+  window.addEventListener('beforeunload', async (e) => {
+    const user = auth.currentUser;
+    if (user) {
+      try {
+        console.log('🚪 页面即将关闭，保存数据...');
+        await syncUserData(user);
+      } catch (error) {
+        console.error('❌ 关闭前同步失败:', error);
+      }
+    }
+  });
+  
+  // 监听认证状态，启动或停止自动同步
+  onAuthStateChanged(auth, (user) => {
+    if (user) {
+      startAutoSync();
+    } else {
+      stopAutoSync();
+    }
+  });
+
   // Helper function to get i18n text
   function getI18nText(key) {
     const lang = localStorage.getItem('selectedLanguage') || 'ja';
