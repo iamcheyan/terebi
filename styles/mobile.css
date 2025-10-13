@@ -810,7 +810,7 @@ html.mobile-device .favorite-video-btn svg {
 }
 
 html.mobile-device .program-title-container {
-    gap: 8px;
+    gap: 10px;
     width: 100%;
     max-width: 100%;
 }
@@ -818,7 +818,7 @@ html.mobile-device .program-title-container {
 html.mobile-device .program-title-link {
     flex: 1;
     min-width: 0;
-    max-width: calc(100% - 38px);
+    max-width: calc(100% - 40px);
     overflow: hidden;
 }
 
