@@ -2,37 +2,42 @@
   "channel_id": "UCA5dBoYZe7dgvk4cTl5PLSg",
   "channel_name": "石川テレビ公式チャンネル",
   "original_name": "石川テレビ（ITC）",
-  "updated_at": "2025-10-14T00:00:39.137881",
+  "updated_at": "2025-10-15T00:00:11.728625",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "TeimE4L6Ai6G0vbyNQZGsTy2vz4",
-      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLmJ6akwxNk1sNms4",
+      "etag": "MVaOlmMA3NRb-iNQHUjRCHaX32k",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLmNXeE9SMG9YYVV3",
       "snippet": {
-        "publishedAt": "2025-10-13T09:45:24Z",
+        "publishedAt": "2025-10-14T09:51:08Z",
         "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
-        "title": "開局支援に感謝…輪島市町野町の臨時災害放送局メンバーが宮城県女川町を訪問「こういった町を目指したい」 (2025年10月13日)",
-        "description": "輪島市町野町で今年7月に開局した臨時災害放送局・まちのラジオ。\r\n開局へ向けてサポートしてくれた宮城県の住民に感謝するためメンバーが12日、女川町を訪れました。\r\n\r\n宮城県女川町で12日行われた「おながわ秋の収穫祭」。\r\n女川は全国有数のサンマの水揚げを誇ります。\r\nそのステージイベントに登壇したのが…\r\n\r\nMC：\r\n「山下さん、本谷さん！」\r\n「はい、宜しくお願いします」\r\n「今日輪島から来てくれました」\r\n\r\nまちのラジオの山下祐介さんと本谷悠樹さんです。\r\n\r\n「ラジオの前のみなさん、こんにちは！」\r\n\r\n今年7月、輪島市町野町に北陸初の臨時災害放送局として開局したまちのラジオ。\r\nメンバーは全員、放送業務を経験したことがありませんでした。\r\nそこでメンバーたちが訪れたのは東日本大震災が発生した時に宮城県女川町で臨時災害放送局を運営していた「女川さいがいFM」です。\r\n\r\n「すごい急に不安になって声が小さくなったりとか」\r\n「一人で喋っているとダラダラと間延びした感じの放送になっちゃう」\r\n\r\nおよそ一週間にわたり開局に向けた研修をうけました。\r\nさらに、町民の家にホームステイさせてもらうなど被災地同士、絆を深めてきました。\r\n\r\n今回、女川を訪れたのは「まちのラジオ」を開局できた感謝の気持ちを伝えるためです。\r\n\r\n本谷悠樹さん：\r\n「希望がわきました、僕らも震災を受けてちょっと経ってなんだかみんな元気がなかったり、未来が不安だったりするんですけど、やっぱり同じような状況を経てこれだけみんなが集まれていることが、こうなるべきなんだなというのを思い知らせてくれました」\r\n\r\n山下祐介さん：\r\n「女川町に住んでいない方々も一緒になってこうやって盛り上がって多くの方が来てくれている。まさに自分たちもこういった町をこれから目指していきたいなと思っているので、本当に勇気づけられますし、参考になることは盗む勢いで参考にしていきたいと思います」",
+        "title": "おもしろくないと仕事じゃない！ 株式会社久盛建設工業 #PR #就活 #石川県",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bzjL16Ml6k8/default.jpg",
+            "url": "https://i.ytimg.com/vi/cWxOR0oXaUw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bzjL16Ml6k8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cWxOR0oXaUw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bzjL16Ml6k8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cWxOR0oXaUw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/bzjL16Ml6k8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/cWxOR0oXaUw/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cWxOR0oXaUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "石川テレビ公式チャンネル",
@@ -40,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "bzjL16Ml6k8"
+          "videoId": "cWxOR0oXaUw"
         },
         "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
         "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
@@ -48,31 +53,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "J38xUXezn0Cr5vaZFYpdpg9q7js",
-      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLnh4OG13TEJBSVFV",
+      "etag": "SYw0S12S2GwRkvsX8_Vbtmoz_UE",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLmNaTDZUZS1EdXZz",
       "snippet": {
-        "publishedAt": "2025-10-13T09:44:29Z",
+        "publishedAt": "2025-10-14T09:38:54Z",
         "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
-        "title": "「変な方向に行くことも面白い」プログラミングの面白さを小中学生が体験 (2025年10月13日)",
-        "description": "このイベントはITサービスを展開するSCSKグループがプログラミングの面白さを体験してもらおうと小中学生を対象に開きました。\r\nイベントでは、子どもたちがグループに分かれてドローンの動かし方を決め、動く方向や順番をプログラミングして想定通りの動きになるか試行錯誤していました。\r\n\r\n参加者は：\r\n「難しかったけれどしっかり（距離を）測ったらちゃんとその通りに従ってくれたので楽しかったです」\r\n「変な方向に行ったりその方向に行ったり、行きすぎたりしてそれが面白い」\r\n12月には輪島市内でプログラミングの体験会が開かれます。",
+        "title": "馳知事が羽咋市の被災地を訪れ復興公営住宅の建設現場等視察「困った人の立場でどの場所がいいか配慮した」 (2025年10月14日)",
+        "description": "馳知事が羽咋市の被災地を訪れ復興公営住宅の建設現場などを視察しました。\r\n\r\nけさ、馳知事が訪れたのは、羽咋市鶴多町で工事が進む復興公営住宅の建設現場です。\r\nここは休耕田だった私有地を市が購入した上で造成を進め、来年9月完成、10月入居開始を目指しています。復興公営住宅は70世帯の入居が可能で、これまでに68世帯が入居を希望しています。入居を希望する人の多くは高齢者で、徒歩圏内にはドラッグストアや福祉施設、民間の病院があり生活の利便性が優れていることなどが説明されました。\r\n\r\n馳知事：\r\n困った人の立場に立ってどの場所かいいか配慮をしている。\r\n（今後も）復興のアイデアとして羽咋市らしさを出していただけると思いますので（県としても）ご指導をお願いしたい\r\n\r\n馳知事はこの他にも市内の病児保育施設などを回り被災地の現状を視察しました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xx8mwLBAIQU/default.jpg",
+            "url": "https://i.ytimg.com/vi/cZL6Te-Duvs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xx8mwLBAIQU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cZL6Te-Duvs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xx8mwLBAIQU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cZL6Te-Duvs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/xx8mwLBAIQU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/cZL6Te-Duvs/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -82,7 +87,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "xx8mwLBAIQU"
+          "videoId": "cZL6Te-Duvs"
         },
         "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
         "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
@@ -90,31 +95,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gT5_WYDgUKQ9SLiFloYTKykokFk",
-      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLnp6bFY3UWNxcDBr",
+      "etag": "uspcYmuYRc_FyVo78kChEGZtRNg",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLmdTbDczcHJyNmd3",
       "snippet": {
-        "publishedAt": "2025-10-13T09:42:06Z",
+        "publishedAt": "2025-10-14T09:36:16Z",
         "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
-        "title": "上原浩治さんが七尾市で野球教室 子供達から直球質問「松井さんが監督になったら？」急遽パン食い競争も (2025年10月13日)",
-        "description": "きょうはスポーツの日です。\r\n七尾市では、あのプロ野球界のレジェンドによる野球教室が開かれました。\r\n七尾市の能登香島中学校で行われたのは…元メジャーリーガーでワールドシリーズ胴上げ投手上原浩治さんによる野球教室です。\r\n\r\n上原さん：\r\n「野球が好きだったのが原点。その気持ちは忘れないで居てほしい」\r\n約200人が集まったトークショーで上原さんは、プロ野球やメジャーリーグの裏側といった体験を交え楽しく野球を続ける事の大切さを伝えました。\r\n\r\n質問コーナーでは、こんな直球な質問も。\r\n\r\n子ども：\r\n「松井さんが監督になったら？」\r\n上原さん：\r\n「松井さんが土下座したらやる」\r\n子ども：\r\n「ピッチングコーチやって」\r\n上原さん：\r\n「考えとくわー」\r\n\r\nそして、急きょ上原さんの提案で行われたのはパン食い競争。上原さんと走っているのが…\r\n\r\n上原さん：\r\n「うちのアニキでして」\r\n\r\n実は上原さんのお兄さんが金沢ロータリークラブで社会奉仕委員長をしていたため今回のイベントが実現。\r\n\r\n能登半島地震で練習場所が限られる中、子どもたちに野球の楽しさを知ってもらおうと春から準備を続けて来ました。\r\n最後は、子どもたちへの野球教室。\r\n上原さんが「基本」であり「最も大切にして欲しい」と話すキャッチボールです。\r\n手取り足取り、投げ方などを指導しました。\r\nそして、イベントの最後に実現したのはピッチャー上原対子どもたち。\r\n\r\n最後に子どもたちを集めた上原さんは…\r\n\r\n上原さん：\r\n「野球をとにかく好きで居てね？OK？」\r\n子どもたち：\r\n「はい！！」\r\n\r\n子どもたちにとって忘れられないスポーツの日となりました。",
+        "title": "被災地で空き巣被害など増加…警察とボランティアによる『奥能登ガーディアンズ』結成 パトロール等強化へ (2025年10月14日)",
+        "description": "能登半島地震で大きな被害を受けた奥能登地域では空き巣被害などが増加しています。これを受け輪島署は警察と防犯ボランティアによる特別警戒チームを結成しました。\r\n\r\n今回結成されたのは輪島署と珠洲署の警察署員、そして輪島穴水防犯協会に所属する防犯ボランティアあわせておよそ40人でつくるその名も「奥能登ガーディアンズ」です。\r\n「ガーディアンズ」とは一般的に守護者や保護者を表す言葉。\r\n能登半島地震以降、奥能登では空き巣や詐欺被害が急増し、特に今年の刑法犯の認知件数は先月末まで233件と前の年の同じ時期よりも92件増えています。\r\nこのため「奥能登ガーディアンズ」は地域に根ざした防犯ボランティアの情報を共有しながら見守りや声かけなどを行う予定でメンバーは結成式の後、それぞれの車に乗り込みパトロールへ出発しました。\r\n\r\n輪島警察署山崎育也署長：\r\n警察としては地域の方と連携しながら見守りやパトロールを強化し安全安心の再構築に全力で取り組んでまいります\r\n\r\n防犯ボランティア：\r\nこれからより一層パトロールを強化したい",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zzlV7Qcqp0k/default.jpg",
+            "url": "https://i.ytimg.com/vi/gSl73prr6gw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zzlV7Qcqp0k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gSl73prr6gw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zzlV7Qcqp0k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gSl73prr6gw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/zzlV7Qcqp0k/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/gSl73prr6gw/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -124,7 +129,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "zzlV7Qcqp0k"
+          "videoId": "gSl73prr6gw"
         },
         "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
         "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
@@ -132,31 +137,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3zfUc109O26lbP8qI6o-vBJnFbs",
-      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLnprUHM2VVp6Nk1N",
+      "etag": "-Fd9kHJuX5g8XdNnqKLKqak6Ws0",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLmxuUkJaTVBpNC04",
       "snippet": {
-        "publishedAt": "2025-10-13T09:17:13Z",
+        "publishedAt": "2025-10-14T09:35:48Z",
         "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
-        "title": "石川県宝達志水町で見つけたのはワクワクするような雑貨店「アントレゾール」 (2025年10月13日)",
-        "description": "石川県宝達志水町をてくてくお散歩していたアナウンサー2人。\r\n見つけたのは店主がこだわりのものを集めて販売している雑貨店「アントレゾール」。\r\nどんなお店なのか\r\n詳しくは動画をご覧ください。",
+        "title": "“ペーパータワー建設”盛り上がる…金沢建設業協会が小学校で特別授業 深刻な人手不足のなか子供にもPR (2025年10月14日)",
+        "description": "道路やビル、橋など街づくりに欠かせない建設業界も人手不足が深刻です。こうした中、小学生の頃から建設業に興味を持ってもらおうと金沢市で特別授業が行われました。\r\n\r\n金沢市の浅野川小学校で行われたのは、「けんせつ」特別授業。\r\n\r\n金沢の建築文化に理解を深め、建設業に興味を持ってもらおうと、金沢建設業協会が2年前から市内の小学校で開いています。\r\n\r\n「建設物が集まってできているのがこの街。この街を作っているのが私たち建設業」\r\n\r\n14日は6年生83人が3クラスに分かれ、建設について説明した動画を見るなどして理解を深めました。\r\n\r\n子どもたちが最も盛り上がったのは、A4サイズの紙30枚だけで、道具を使わずどこまで高いタワーを作れるかに挑戦するゲーム。制限時間は12分。子どもたちは、途中で倒れても何度もやり直し、中には自分たちの身長ほどもあるタワーを作り上げたグループもありました。\r\n\r\n子供たち:\r\n「一番下を安定させて真ん中に…」「楽しかったです」\r\n\r\nペーパータワーで盛り上がった子どもたち。最後は、建設業協会のメンバーへの質問が絶えませんでした。\r\n\r\n質問にたった児童は:\r\n「目標は？」\r\n金沢建設業協会メンバー:\r\n「みんなが楽しく安全に暮らせる街を作って守っていくことです」\r\n\r\n主催者は、特別授業を通して将来、一緒に金沢の建築文化を作る人材が生まれてほしいと願っていました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zkPs6UZz6MM/default.jpg",
+            "url": "https://i.ytimg.com/vi/lnRBZMPi4-8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zkPs6UZz6MM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lnRBZMPi4-8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zkPs6UZz6MM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lnRBZMPi4-8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/zkPs6UZz6MM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/lnRBZMPi4-8/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -166,7 +171,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "zkPs6UZz6MM"
+          "videoId": "lnRBZMPi4-8"
         },
         "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
         "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
@@ -174,33 +179,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1XgGj5ptmpWhwkvuPdG30W9WOQA",
-      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLncydVFIMDFBQ1lB",
+      "etag": "cWY7DWY8NLLgnP7jTpkCMPDRRgI",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLjQtX2ppOVFWSElB",
       "snippet": {
-        "publishedAt": "2025-10-13T03:26:19Z",
+        "publishedAt": "2025-10-14T08:24:47Z",
         "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
-        "title": "能登半島地震からの復興支援に「ポケモンキリコ」穴水駅に展示　来年6月まで能登地区6市町で巡回展示 (2025年10月13日)",
-        "description": "人気キャラクターポケモンが乗ったキリコが完成し、13日から穴水駅に展示されています。\r\n\r\nこれは能登半島地震からの復興支援に、ポケモンが地域に寄り添うことで能登のキリコ祭りを盛り上げようと県と連携協定を結ぶポケモン・ウィズ・ユー財団が制作しました。\r\nのと鉄道の穴水駅に飾られたポケモンキリコは、高さ2．4メートルでピカチュウやヒトカゲなどのキャラクターが乗り、「ぼんぼり」や「ぎぼし」はモンスターボール型です。\r\n\r\n駅の利用者は：\r\n「すごいです可愛い。やっぱりピカチュウですかね。穴水が盛り上がるといいなと思います」\r\n\r\nかつては輪島市中心部の観音町で使われていたこどもキリコが生まれ変わったポケモンこどもキリコ。来年6月まで、能登地区6つの市と町で巡回展示された後、能登各地で開催されるキリコ祭りに貸し出されることになっています。",
+        "title": "【きょうの逸品♯11】鶏soba座銀 白山店",
+        "description": "2025/10/13 OA\n#ラーメン  #白山市",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/w2uQH01ACYA/default.jpg",
+            "url": "https://i.ytimg.com/vi/4-_ji9QVHIA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/w2uQH01ACYA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4-_ji9QVHIA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/w2uQH01ACYA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4-_ji9QVHIA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/w2uQH01ACYA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/4-_ji9QVHIA/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4-_ji9QVHIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "石川テレビ公式チャンネル",
@@ -208,7 +218,185 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "w2uQH01ACYA"
+          "videoId": "4-_ji9QVHIA"
+        },
+        "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
+        "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0dRUtYeuC-ieMShc5LjPGawaikY",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLnUyYm80MGZMQzdr",
+      "snippet": {
+        "publishedAt": "2025-10-14T04:57:05Z",
+        "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
+        "title": "レゴブロックの世界観を堪能！ レゴランド・ジャパン（お出かけ情報たびたび）",
+        "description": "愛知県名古屋市にあるレゴランド・ジャパンで期間限定で開催されているハロウィンイベントを徹底取材！2歳から12歳までの子供やその家族が楽しめるレゴランドの今年のハロウィンのテーマは「キッズ仮装の聖地」。その魅力をお伝えします！\n\n2025/10/08 OA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u2bo40fLC7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u2bo40fLC7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u2bo40fLC7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u2bo40fLC7k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u2bo40fLC7k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "石川テレビ公式チャンネル",
+        "playlistId": "UUA5dBoYZe7dgvk4cTl5PLSg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u2bo40fLC7k"
+        },
+        "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
+        "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qZfPkPZq_wgt25jrqJe3x0-t-3Y",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLkhubW5CNDJkdE40",
+      "snippet": {
+        "publishedAt": "2025-10-14T03:06:46Z",
+        "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
+        "title": "作曲家松山祐士さんの楽曲演奏…金沢桜丘高校同窓会“三桜同窓会”が設立100周年の記念演奏会 (2025年10月14日)",
+        "description": "金沢桜丘高校の同窓会が設立100周年を記念し吹奏楽部による演奏会を開きました。\r\n\r\n金沢桜丘高校とその前身、金沢第三中学校の卒業生でつくる同窓会、三桜同窓会は今年で設立100周年を迎えました。これを記念して金沢桜丘高校吹奏楽部の在校生と卒業生およそ200人による演奏会がきのう開かれました。卒業生と在校生の合奏で初披露された曲のタイトルは「澤音（さわおと）」。金沢桜丘高校の卒業生で「機動戦士ガンダム」など数々の人気アニメ作品の曲を手がけた作曲家の松山祐士（まつやまゆうし）さんが同窓会のために38年前に書き下ろした曲です。会場にはおよそ1100人の観客が訪れ高校の歴史や伝統に思いを馳せていました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HnmnB42dtN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HnmnB42dtN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HnmnB42dtN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HnmnB42dtN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "石川テレビ公式チャンネル",
+        "playlistId": "UUA5dBoYZe7dgvk4cTl5PLSg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HnmnB42dtN4"
+        },
+        "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
+        "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_FG6M4JQn9P6CEWDFl4SEcSTcmY",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLlV3WWF1REkxOGpN",
+      "snippet": {
+        "publishedAt": "2025-10-14T03:04:24Z",
+        "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
+        "title": "馳石川県知事が羽咋市の復興公営住宅を視察…来年9月完成予定 (2025年10月14日)",
+        "description": "馳知事が羽咋市の被災地を訪れ復興公営住宅の建設現場などを視察しました。\r\n\r\nけさ馳知事が訪れたのは羽咋市鶴多町で工事が進む復興公営住宅の建設現場です。ここは休耕田だった私有地を市が購入したうえで造成を進め来年9月完成、10月入居開始を目指しています。復興公営住宅は70世帯の入居が可能でこれまでに68世帯が入居を希望しています。\r\n\r\n入居を希望する人の多くは高齢者で徒歩圏内にはドラッグストアや福祉施設、民間の病院があり生活の利便性が優れていることなどが説明されました。馳知事はこの他にも市内の病児保育施設なども回り被災地の現状を視察しました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UwYauDI18jM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UwYauDI18jM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UwYauDI18jM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UwYauDI18jM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "石川テレビ公式チャンネル",
+        "playlistId": "UUA5dBoYZe7dgvk4cTl5PLSg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UwYauDI18jM"
+        },
+        "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
+        "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dOdm14FOMXNIgPRaNN2VOLAamhY",
+      "id": "VVVBNWRCb1laZTdkZ3ZrNGNUbDVQTFNnLnVEUlBRd25BcXVB",
+      "snippet": {
+        "publishedAt": "2025-10-14T01:37:25Z",
+        "channelId": "UCA5dBoYZe7dgvk4cTl5PLSg",
+        "title": "開幕ホヤホヤ！PFUブルーキャッツがスタジオ生出演で語る！！！",
+        "description": "１０月１１日に今シーズンの開幕を迎えたバレーボールSVリーグ。\nPFUブルーキャッツ石川かほくから細沼綾選手、バルデス・メリーサ選手が\n石川テレビのスタジオに生出演し、今シーズンのチームについて語りました。\n\nトピック\n・今シーズンのブルーキャッツ\n・バルデス選手にかかる期待について\n・お互いの注目ポイント\n・ホーム開幕戦への意気込み\n・バルデス選手の素顔・・・\n\n2025/10/13 OA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uDRPQwnAquA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uDRPQwnAquA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uDRPQwnAquA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uDRPQwnAquA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uDRPQwnAquA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "石川テレビ公式チャンネル",
+        "playlistId": "UUA5dBoYZe7dgvk4cTl5PLSg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uDRPQwnAquA"
         },
         "videoOwnerChannelTitle": "石川テレビ公式チャンネル",
         "videoOwnerChannelId": "UCA5dBoYZe7dgvk4cTl5PLSg"

@@ -2,40 +2,40 @@
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送 公式",
   "original_name": "UHB北海道文化放送",
-  "updated_at": "2025-10-14T00:01:28.030990",
+  "updated_at": "2025-10-15T00:01:31.750241",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "9ukPLEFael2MoNEM_BcbLSThFco",
-      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3LjB3dWJQZkFYd3ZZ",
+      "etag": "DOO4dzr6eE6JlqtU0u6wMVQClBg",
+      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3LkhEZXNvUEV3VnFB",
       "snippet": {
-        "publishedAt": "2025-10-13T10:00:02Z",
+        "publishedAt": "2025-10-14T10:00:34Z",
         "channelId": "UCBJbV6hW2sfcA2ugwKFBmxw",
-        "title": "みんテレ　10月14日（火）放送",
-        "description": "・寒いので地下直結で行ける！レトロな老舗ビル秋グルメ探訪\n・連日行列の絶えない！ジンギスカン超人気店が登場！肉汁したたる極上ラム！満席の裏側に驚きの工夫\n・平成生まれ人気キャラ！シール交換も令和流？レトロ感に若者が夢中",
+        "title": "みんテレ　10月15日（水）放送",
+        "description": "・秋色に染まる…定山渓！札幌近郊の名所めぐり！絶景紅葉＆秋グルメ旅\n・「ラクカジ」は、2025年の鍋トレンド！売れ筋＆新顔を徹底調査\n・インフルエンザ猛威？異例の流行どうなる生解説…ワクチンいつ接種するのがいい？",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/default.jpg",
+            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0wubPfAXwvY/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "0wubPfAXwvY"
+          "videoId": "HDesoPEwVqA"
         },
         "videoOwnerChannelTitle": "UHB北海道文化放送 公式",
         "videoOwnerChannelId": "UCBJbV6hW2sfcA2ugwKFBmxw"

@@ -2,40 +2,40 @@
   "channel_id": "UCnp_CD_FN7HFD1DhR47uHDw",
   "channel_name": "RNC西日本放送",
   "original_name": "西日本放送（RNC）",
-  "updated_at": "2025-10-13T00:01:03.121181",
+  "updated_at": "2025-10-15T00:00:31.115048",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "Cmsrtk4akzMIG2FjszuE4hO0wuo",
-      "id": "VVVucF9DRF9GTjdIRkQxRGhSNDd1SER3LjJqbnd0cHFTTS1F",
+      "etag": "UlbvjXQEExO5V5loa2MTGh96qL4",
+      "id": "VVVucF9DRF9GTjdIRkQxRGhSNDd1SER3LnRxZlJYblFTVURN",
       "snippet": {
-        "publishedAt": "2025-10-12T02:30:01Z",
+        "publishedAt": "2025-10-14T05:44:13Z",
         "channelId": "UCnp_CD_FN7HFD1DhR47uHDw",
-        "title": "かけろ情熱！青春応援プロジェクト#4「高瀬高校ライフル射撃部」2025/10/12放送",
-        "description": "",
+        "title": "【特選うどん遍路】まさかお寺の中に！？境内で味わう、職人手打ちのさぬきうどんがウマすぎる！！秋限定メニューも【竜雲】　2025/10/13放送",
+        "description": "夕方ニュース枠でうどん番組！？「RNC news every.」内にて毎週月曜日にお送りしている「特選うどん遍路」。これまで放送された動画（400本以上）を1つのチャンネルに凝縮。地元放送局ならではの草の根ネットワークを駆使した最新うどん情報をお届けします！\n\n圧倒的動画数！うどん番組を観るなら「特選うどん遍路」\n▼チャンネル登録はこちら\nhttps://youtube.com/playlist?list=PLGBOK27BloXNWScw3-8OU2vFUDMBJcfmj\n\n▼公式サイト\nhttps://www.rnc.co.jp/news/udonhenro2/\n\n▼ゲスト\n古藤 徹平さん（「本格手打ちさぬきうどん 竜雲」店長）\n・Instagram： https://www.instagram.com/ryuun_udon/\n\n▼リポーター\n奥田 麻衣（西日本放送アナウンサー）\n・X: https://x.com/maiokuda\n・Instagram： https://www.instagram.com/maiokuda.udon/\n・公式サイト: https://www.rnc.co.jp/announcer/okuda/\n\n#特選うどん遍路 #讃岐うどん #香川県 #香川グルメ #寺 #秋 #瀬戸芸 #Udon #乌冬面 #烏龍麵 #우동 ＃Japan #newsevery #日テレ系",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2jnwtpqSM-E/default.jpg",
+            "url": "https://i.ytimg.com/vi/tqfRXnQSUDM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2jnwtpqSM-E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tqfRXnQSUDM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2jnwtpqSM-E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tqfRXnQSUDM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/2jnwtpqSM-E/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/tqfRXnQSUDM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/2jnwtpqSM-E/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tqfRXnQSUDM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,101 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "2jnwtpqSM-E"
+          "videoId": "tqfRXnQSUDM"
+        },
+        "videoOwnerChannelTitle": "RNC西日本放送",
+        "videoOwnerChannelId": "UCnp_CD_FN7HFD1DhR47uHDw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2BaEjMiml-yvRsCb8Q2Y_tbojeM",
+      "id": "VVVucF9DRF9GTjdIRkQxRGhSNDd1SER3LndVTW16Y0lFcVNB",
+      "snippet": {
+        "publishedAt": "2025-10-14T04:07:30Z",
+        "channelId": "UCnp_CD_FN7HFD1DhR47uHDw",
+        "title": "ルック　～地域発・輝くビジネス～・G.TRES　2025/10/12放送",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wUMmzcIEqSA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wUMmzcIEqSA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wUMmzcIEqSA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wUMmzcIEqSA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wUMmzcIEqSA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RNC西日本放送",
+        "playlistId": "UUnp_CD_FN7HFD1DhR47uHDw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wUMmzcIEqSA"
+        },
+        "videoOwnerChannelTitle": "RNC西日本放送",
+        "videoOwnerChannelId": "UCnp_CD_FN7HFD1DhR47uHDw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i1ftQ-CNkoGwXJ-wXNLCakRdod0",
+      "id": "VVVucF9DRF9GTjdIRkQxRGhSNDd1SER3Lkl5UmhtQmlTaF9V",
+      "snippet": {
+        "publishedAt": "2025-10-14T04:06:24Z",
+        "channelId": "UCnp_CD_FN7HFD1DhR47uHDw",
+        "title": "ルック　～地域発・輝くビジネス～・岡山丸果　2025/10/05放送",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IyRhmBiSh_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IyRhmBiSh_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IyRhmBiSh_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IyRhmBiSh_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IyRhmBiSh_U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RNC西日本放送",
+        "playlistId": "UUnp_CD_FN7HFD1DhR47uHDw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IyRhmBiSh_U"
         },
         "videoOwnerChannelTitle": "RNC西日本放送",
         "videoOwnerChannelId": "UCnp_CD_FN7HFD1DhR47uHDw"

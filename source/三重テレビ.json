@@ -2,32 +2,42 @@
   "channel_id": "UCbjDRsncYazJ6U2QrcOcV3A",
   "channel_name": "三重テレビ放送",
   "original_name": "三重テレビ",
-  "updated_at": "2025-10-14T00:01:23.139924",
+  "updated_at": "2025-10-15T00:01:26.671199",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "vzMGATZVdAqHkfCjOsqeC2KOcxA",
-      "id": "VVViakRSc25jWWF6SjZVMlFyY09jVjNBLkJKYzBsczJEN1RB",
+      "etag": "KNH3Bk11RBDiFdwFSJ2pBcYHzoE",
+      "id": "VVViakRSc25jWWF6SjZVMlFyY09jVjNBLklRME8tdXBZQnhR",
       "snippet": {
-        "publishedAt": "2025-10-13T11:00:31Z",
+        "publishedAt": "2025-10-14T12:00:27Z",
         "channelId": "UCbjDRsncYazJ6U2QrcOcV3A",
-        "title": "新・ええじゃないか～いい旅 いい発見～ 2025年10月20日放送",
-        "description": "三重県出身のチャンカワイがアシスタントの池山智瑛とともに三重県をはじめとした各地へと旅に出る。\n\n　今回は三重テレビ奥村奈央アナウンサー案内のもと、三重県伊勢市と度会町を旅します。\n\n　最初に向かったのは、江戸時代に伊勢の台所としてにぎわった河崎のまち。ここに今年4月に誕生した新たなおもてなしスポットとして注目されているのが、NIPPONIA HOTEL伊勢河崎商人町。歴史的価値のある建物を再利用し、まちをまるごと一つの宿泊空間にした分散型ホテルです。明治に建てられた雑貨蔵や商家で癒しの時間が楽しめます。\n\n　新たなおもてなしスポットの後は河崎のまちをぶらり散策。まちの中心に位置する河邊七種神社や伊勢銘菓の絲印煎餅がある播田屋本店に立ち寄ります。\n\n　次に向かったのは、外宮の近くにある旧御師、丸岡宗太夫邸。御師の子孫である丸岡さんに当時活躍した御師のおもてなしについてお聞きします。そして、丸岡邸から見つかった貴重な献立帳で再現された御師料理をいただきます。\n\n　続いて度会町にやってきた3人、奥村アナウンサーに案内されたのがファヴール。自然に囲まれたカフェレストランは高台にあり、宮川の眺めも格別。発酵食品とフレンチの技が融合したコース料理はどれもおいしく、心も体も癒されるくつろぎ空間です。お楽しみに！\n\n出演：チャンカワイ（Wｴﾝｼﾞﾝ）、池山智瑛\n\n番組公式サイトはこちら https://www.mietv.com/special/eejanaika/\n#ええじゃないか\n#いい旅いい発見\n#チャンカワイ（Wｴﾝｼﾞﾝ）\n#池山智瑛\n#三重テレビ",
+        "title": "Codeみえ　大台町　EVで大台町散策",
+        "description": "2025年10月14日放送\n\n大台町観光協会\nhttps://web-odai.info/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BJc0ls2D7TA/default.jpg",
+            "url": "https://i.ytimg.com/vi/IQ0O-upYBxQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BJc0ls2D7TA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IQ0O-upYBxQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BJc0ls2D7TA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IQ0O-upYBxQ/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IQ0O-upYBxQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IQ0O-upYBxQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "三重テレビ放送",
@@ -35,7 +45,101 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "BJc0ls2D7TA"
+          "videoId": "IQ0O-upYBxQ"
+        },
+        "videoOwnerChannelTitle": "三重テレビ放送",
+        "videoOwnerChannelId": "UCbjDRsncYazJ6U2QrcOcV3A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MLtb5W3vxACC7TfL8tLSlv9l4bk",
+      "id": "VVViakRSc25jWWF6SjZVMlFyY09jVjNBLjhWbXg0YUVCLTY0",
+      "snippet": {
+        "publishedAt": "2025-10-14T12:00:16Z",
+        "channelId": "UCbjDRsncYazJ6U2QrcOcV3A",
+        "title": "bun bun みえ　餅街道　安永餅",
+        "description": "2025年10月14日放送\n\n動画内の情報は放送時の情報です\n最新情報は公式HPなどでご確認ください\n\n安永餅\nhttps://www.nagamochiyarouho.co.jp/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Vmx4aEB-64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Vmx4aEB-64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Vmx4aEB-64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Vmx4aEB-64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Vmx4aEB-64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "三重テレビ放送",
+        "playlistId": "UUbjDRsncYazJ6U2QrcOcV3A",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8Vmx4aEB-64"
+        },
+        "videoOwnerChannelTitle": "三重テレビ放送",
+        "videoOwnerChannelId": "UCbjDRsncYazJ6U2QrcOcV3A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_9_LOyrW5b7Ag1D3yn3Y566L7eQ",
+      "id": "VVViakRSc25jWWF6SjZVMlFyY09jVjNBLmhWeGQ5bGVmS1hr",
+      "snippet": {
+        "publishedAt": "2025-10-14T08:00:53Z",
+        "channelId": "UCbjDRsncYazJ6U2QrcOcV3A",
+        "title": "スペシャルドラマ「やおよろず」",
+        "description": "三重テレビ放送55周年×中広「地域みっちゃく情報誌®」30周年\n記念事業スペシャルドラマ「やおよろず」\n\nhttps://yaoyorozu.hm-cp.com/\n\n「神話」「現代」「終戦直後」という\n三つの時代・世界が交錯するミュージカルドラマ。\n\n神代の物語「天岩戸神話」を起点に、\n再び世界に訪れた \"闇\" に立ち向かう神々の使命と、\n現代に転生した彼らの姿、そして人間たちとのつながりを描く。\n\n三重を舞台に、神々が現代に転生し、\n現代人の心の闇と戦いながら「光」を取り戻そうとするストーリー。\n\n#剛力彩芽 \n#三重テレビ \n#三重県 \n#秦建日子",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hVxd9lefKXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hVxd9lefKXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hVxd9lefKXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hVxd9lefKXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hVxd9lefKXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "三重テレビ放送",
+        "playlistId": "UUbjDRsncYazJ6U2QrcOcV3A",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hVxd9lefKXk"
         },
         "videoOwnerChannelTitle": "三重テレビ放送",
         "videoOwnerChannelId": "UCbjDRsncYazJ6U2QrcOcV3A"

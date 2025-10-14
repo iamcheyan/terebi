@@ -2,40 +2,40 @@
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "eat愛媛朝日テレビ",
   "original_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2025-10-14T00:01:03.241197",
+  "updated_at": "2025-10-15T00:01:15.834284",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "NFcq3bDwfyIo07Rr0SYODYBYOdw",
-      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLmxEY2sxc0dzbFh3",
+      "etag": "eKx9rtnR0qj2fGVvPiDAjlgWpjA",
+      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLk81NGM4U2hjZHhJ",
       "snippet": {
-        "publishedAt": "2025-10-13T12:01:32Z",
+        "publishedAt": "2025-10-14T12:00:51Z",
         "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
-        "title": "別角度でも一緒に#消防士の筋トレ しちゃう#カメラマン with#八幡浜消防署",
+        "title": "カンペ出してる場合じゃなくなった#フロアディレクター",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lDck1sGslXw/default.jpg",
+            "url": "https://i.ytimg.com/vi/O54c8ShcdxI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lDck1sGslXw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O54c8ShcdxI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lDck1sGslXw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O54c8ShcdxI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/lDck1sGslXw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/O54c8ShcdxI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/lDck1sGslXw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O54c8ShcdxI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,101 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "lDck1sGslXw"
+          "videoId": "O54c8ShcdxI"
+        },
+        "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
+        "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ouNiLZfq9qdhBDfnOzFpHJzPPBY",
+      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLkdabmpkWHBGOGQ4",
+      "snippet": {
+        "publishedAt": "2025-10-14T00:00:31Z",
+        "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
+        "title": "#にんじゃりばんばん かかったら#踊ってしまう#カメラマン",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZnjdXpF8d8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZnjdXpF8d8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZnjdXpF8d8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GZnjdXpF8d8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GZnjdXpF8d8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eat愛媛朝日テレビ",
+        "playlistId": "UUOItj2DCO5Pj-eJKnLrbz6g",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GZnjdXpF8d8"
+        },
+        "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
+        "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4QlxVfAPojpasKWeeaySAGxV5Zs",
+      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLmhVY1lXLXpkVXJz",
+      "snippet": {
+        "publishedAt": "2025-09-29T02:52:14Z",
+        "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
+        "title": "阿部信行さん再び…どうなる？四国大会",
+        "description": "eat解説者 阿部信行さん出演！\n選抜出場のためにとても重要となる四国大会\n愛媛代表の松山聖陵、西条、新田の調子はどうなのか？\n3校の最新情報を交えながら四国大会を展望してみます！\n\n\n#愛媛朝日テレビ　#eat　#高校野球　#愛媛大会　#白球青春\n#秋の高校野球　#秋大会　#県大会　#四国大会　#甲子園　#選抜\n#ホワイトボード大沢　#大沢やすのり　#解説者　#阿部信行 　#今治西\n#ライブ配信　#松山聖陵　#西条　#新田",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hUcYW-zdUrs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hUcYW-zdUrs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hUcYW-zdUrs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hUcYW-zdUrs/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hUcYW-zdUrs/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "eat愛媛朝日テレビ",
+        "playlistId": "UUOItj2DCO5Pj-eJKnLrbz6g",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hUcYW-zdUrs"
         },
         "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
         "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"

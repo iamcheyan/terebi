@@ -2,42 +2,37 @@
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "テレビ愛媛【公式】",
   "original_name": "EBCテレビ愛媛",
-  "updated_at": "2025-10-11T12:08:55.734459",
+  "updated_at": "2025-10-15T00:03:25.695269",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "ulqhQv8wXOu-e-dZzV6MS3Gnj_s",
-      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LkkwR0g0S3NOdkZ3",
+      "etag": "wsFW0kKuZr9dErKwYukBreqlr5k",
+      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LjNwamMzbHNXOW40",
       "snippet": {
-        "publishedAt": "2025-10-11T03:00:17Z",
+        "publishedAt": "2025-10-14T07:25:48Z",
         "channelId": "UCSzVAEFIewUsDHFEkcdyw1w",
-        "title": "『渡し船の料金はなんと…』  吾輩はティモンディ 切り抜き動画",
-        "description": "▼本編はTverで１週間見逃し配信中📢 \nhttps://tver.jp/series/sr8hwiaucu   \n\n▼番組公式HP  \nhttps://www.ebc.co.jp/bangumi/wagatimo/ \n\n#ティモンディ",
+        "title": "「媛っ子最強決定戦」参加小学生たち大募集！！",
+        "description": "詳しくはこちら\nhttps://www.ebc.co.jp/news/himekko_saikyo/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/I0GH4KsNvFw/default.jpg",
+            "url": "https://i.ytimg.com/vi/3pjc3lsW9n4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/I0GH4KsNvFw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3pjc3lsW9n4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/I0GH4KsNvFw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3pjc3lsW9n4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/I0GH4KsNvFw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/3pjc3lsW9n4/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/I0GH4KsNvFw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "テレビ愛媛【公式】",
@@ -45,7 +40,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "I0GH4KsNvFw"
+          "videoId": "3pjc3lsW9n4"
+        },
+        "videoOwnerChannelTitle": "テレビ愛媛【公式】",
+        "videoOwnerChannelId": "UCSzVAEFIewUsDHFEkcdyw1w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QkVuUAPmnAe4rXm5IpP4bHL8Wa0",
+      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LlItWjhzYVdBRzZZ",
+      "snippet": {
+        "publishedAt": "2025-10-14T07:06:32Z",
+        "channelId": "UCSzVAEFIewUsDHFEkcdyw1w",
+        "title": "【はじめてばこ告知CM】応募期間が「生まれてから1年」になりました♪",
+        "description": "詳しくはこちら\nhttps://www.ebc.co.jp/happybaby/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R-Z8saWAG6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R-Z8saWAG6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R-Z8saWAG6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R-Z8saWAG6Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R-Z8saWAG6Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレビ愛媛【公式】",
+        "playlistId": "UUSzVAEFIewUsDHFEkcdyw1w",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R-Z8saWAG6Y"
         },
         "videoOwnerChannelTitle": "テレビ愛媛【公式】",
         "videoOwnerChannelId": "UCSzVAEFIewUsDHFEkcdyw1w"

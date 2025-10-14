@@ -2,40 +2,40 @@
   "channel_id": "UCkLqBWFde2ZJZfqojgpDqyA",
   "channel_name": "日テレ公式チャンネル",
   "original_name": "日テレ公式チャンネル",
-  "updated_at": "2025-10-14T00:04:02.523909",
+  "updated_at": "2025-10-15T00:04:10.921047",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "EjtED6MWG0dvbWAgLzKRlQFYVn0",
-      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLlZsV1hmS24wVnpn",
+      "etag": "uaelZ2i9qxyksRj5q4nWQBJSi_w",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLkkwMGY5VHZtaE44",
       "snippet": {
-        "publishedAt": "2025-10-13T15:01:01Z",
+        "publishedAt": "2025-10-14T15:00:36Z",
         "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
-        "title": "【今夜の日テレ系】オモウマい店＋さんま御殿＋仰天ニュース＋X秒後の新世界【おススメ番組】",
-        "description": "【日テレ系今夜のおすすめ番組をご紹介！】\n\n▶よる７時からは、『オモウマい店』\n命がけ大将の漢めし\n\n▶よる８時からは、『さんま御殿』\n１円も無駄にしない！節約生活が染みついた有名人ＳＰ\n\n▶よる９時からは、『仰天ニュース』\n食の危険、秋のスペシャル！\n\n▶よる１０時からは、『X秒後の新世界』",
+        "title": "【今夜の日テレ系】有吉の壁＋千鳥かまいたち＋上田と女が吠える夜＋水ドラ「ESCAPE」【おススメ番組】",
+        "description": "【日テレ系今夜のおすすめ番組をご紹介！】\n\n▶よる７時からは、『有吉の壁』\n番組開始１０周年！豪華スター大集合ＳＰ\n\n▶よる８時からは、『千鳥かまいたちゴールデンアワー』\nダイエットはつらいよ大賞\n\n▶よる９時からは、『上田と女が吠える夜』\n身長が小さい＆大きい女子\n\n▶よる１０時からは、水曜ドラマ『ESCAPE それは誘拐のはずだった』",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VlWXfKn0Vzg/default.jpg",
+            "url": "https://i.ytimg.com/vi/I00f9TvmhN8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VlWXfKn0Vzg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I00f9TvmhN8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VlWXfKn0Vzg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I00f9TvmhN8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/VlWXfKn0Vzg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/I00f9TvmhN8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/VlWXfKn0Vzg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/I00f9TvmhN8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "VlWXfKn0Vzg"
+          "videoId": "I00f9TvmhN8"
         },
         "videoOwnerChannelTitle": "日テレ公式チャンネル",
         "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
@@ -53,36 +53,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Aga4K0A62k1LpRU2XxeMUou9Rhc",
-      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLk53VG1HaEFzODhF",
+      "etag": "U_ZFFVIYFnSzFYy7sag2EgFG7xk",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLnBuS21teV9sTEww",
       "snippet": {
-        "publishedAt": "2025-10-13T13:54:01Z",
+        "publishedAt": "2025-10-14T14:01:25Z",
         "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
-        "title": "【公式】10月20日（月）よる10時から放送の「月曜から夜ふかし」。村上信五とマツコ・デラックスが世間で話題の件をあれこれ語り合う…今回は街行く人のカバンの中身を調査した件　ほか",
-        "description": "[公式]10月20日（月）よる10時から放送！「月曜から夜ふかし」\n村上信五とマツコ・デラックスが世間で話題の件をあれこれ語り合う…\n\n「街行く人のカバンの中身を調査した件」\n「夜ふかし的自由研究」\n「素朴な疑問を調査してみた件」\n\n番組公式HP：https://www.ntv.co.jp/yofukashi/\n皆様からの「地元の〇〇問題」や「身の回りの調査して欲しい問題」なども募集中！！",
+        "title": "【X秒後の新世界】10月21日（火）よる10時から放送！",
+        "description": "「X秒後の新世界」\nこの番組は・・・\n世の中のちょっとした疑問や謎をくだらない視点で汗をかいて勝手に検証。\n新知識＆新情報をおもしろおかしく解き明かす新型バラエティーです。\n\nあなたはX秒後・・・この番組を見たくなる・・・\n\n公式HP：https://www.ntv.co.jp/xbyougo/\n公式X：https://twitter.com/maruafter_ntv\n公式インスタグラム：https://www.instagram.com/xbyougo_ntv/\n\n＜出演者＞\nせいや（霜降り明星）\n藤井貴彦\nヒコロヒー\n＜スタジオゲスト＞\nアンミカ\n浮所飛貴\n長尾謙杜（ウロウロ検証ブロックのみ）\n菊地亜美（ウロウロ検証ブロックのみ）\nみちょぱ（ウロウロ検証ブロックのみ）\n＜VTR出演＞\nハリウッドザコシショウ\nコウメ太夫\nDJ KOO\n岡村美波（BEYOOOOONDS）",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NwTmGhAs88E/default.jpg",
+            "url": "https://i.ytimg.com/vi/pnKmmy_lLL0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NwTmGhAs88E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pnKmmy_lLL0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NwTmGhAs88E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pnKmmy_lLL0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/NwTmGhAs88E/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/pnKmmy_lLL0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/NwTmGhAs88E/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pnKmmy_lLL0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -92,7 +92,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "NwTmGhAs88E"
+          "videoId": "pnKmmy_lLL0"
         },
         "videoOwnerChannelTitle": "日テレ公式チャンネル",
         "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
@@ -100,36 +100,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "stWA8mRBx6HZJXCPcpCk3BaU9lE",
-      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLkFwSG92ZS0wNVhj",
+      "etag": "pgIhU1SAymkfM8KdJvMwa5bTp5U",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLm5jOUxrUm9uLVZ3",
       "snippet": {
-        "publishedAt": "2025-10-13T13:00:17Z",
+        "publishedAt": "2025-10-14T12:01:37Z",
         "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
-        "title": "【公式】しゃべくり007　森崎ウィン＆向井康二がタイを激推し！",
-        "description": "10月20日放送の「しゃべくり007」は！\nタイのお隣 ミャンマー出身 森崎ウィンと\nタイ人の母を持つ向井康二が\nいま、大人の女子旅で人気急上昇のタイを激推し！\n\n定番の観光地に、グルメ、レジャー\nオススメのスポット盛りだくさん！\n\nさらに！向井の超絶イケメン兄貴がサプライズ登場！\n\n「しゃべくり007」　\n2025年10月20日(月)　21：00 ～ 21：54 放送\nしゃべくりゲスト：森崎ウィン、向井康二（Snow Man）\nＭＣ：ネプチューン、くりぃむしちゅー、チュートリアル\n\n公式HP：https://www.ntv.co.jp/007/ \n公式X：https://twitter.com/shabekuri007ntv",
+        "title": "【公式】踊る！さんま御殿！！秋の２時間SP メジャーvs超レア名字 全国ビックリ大家族祭　10月21日（火）よる7時～！！",
+        "description": "秋の２時間SP\nメジャーvs超レア名字 全国ビックリ大家族祭！\n\n【司会】\n明石家さんま\n\n【ゲスト】\nアンミカ\n石田明（NON STYLE）\n石田千惠子\n一番合戰彩さん\n産屋敷あみさん\n梅沢富美男\n小野伸二\n勝俣州和\n亀田興毅\n桒波田理恵\nKEIKO（ME:I）\n剛力彩芽\n佐藤早也伽\n七五三掛龍也（Travis Japan）\n正代直也\n鈴木福\n高橋茂雄\n澤岻奈々子\n田中理恵\n友利新\n拝田祥子\n星野真里\n蛍原徹\n弓木奈於（乃木坂46）\n吉澤閑也（Travis Japan）\n（５０音順・敬称略）\n\n「踊る!さんま御殿!!」毎週火曜よる8時00分～絶賛放送中！\n★番組HP：https://www.ntv.co.jp/goten/\n★番組公式X（旧Twitter）：https://twitter.com/sanmagoten_ntv\n★番組公式TikTok：https://www.tiktok.com/@sanmagoten\n★番組公式Instagram：https://www.instagram.com/sanmagoten_ntv/\n★番組公式Threads：https://www.threads.com/@sanmagoten_ntv/\n★番組公式Tver：https://bit.ly/tver_yt_organic_sanmagoten",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ApHove-05Xc/default.jpg",
+            "url": "https://i.ytimg.com/vi/nc9LkRon-Vw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ApHove-05Xc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nc9LkRon-Vw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ApHove-05Xc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nc9LkRon-Vw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ApHove-05Xc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/nc9LkRon-Vw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ApHove-05Xc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nc9LkRon-Vw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -139,7 +139,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ApHove-05Xc"
+          "videoId": "nc9LkRon-Vw"
         },
         "videoOwnerChannelTitle": "日テレ公式チャンネル",
         "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
@@ -147,38 +147,33 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "T0s9jJA1SLCWrqWON-7IyubzqEQ",
-      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLjdIZmwybHRiRjdJ",
+      "etag": "T5awKXjOtW2DHwmR0fCp1yoLqwk",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLlBXSXVjR3hOWU1J",
       "snippet": {
-        "publishedAt": "2025-10-13T12:00:13Z",
+        "publishedAt": "2025-10-14T12:01:32Z",
         "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
-        "title": "【世界まる見え】10月20日(月)よる8時",
-        "description": "世界まる見え！テレビ特捜部\n世界のおいしいグルメSP！\n\n■お腹が空いちゃうグルメ＆食事中のハプニング映像！\n■砂漠の真ん中で味わえる絶品グルメ！木の上のガラス張りのレストラン！世界の変わったレストラン特集！\n■スーパーマーケットで一流シェフが牛肉料理対決！絶品ビーフバーガー！\n■超有名シェフが廃業寸前の家族経営レストランを立て直し！頑固なシェフのせいで家族崩壊の危機！？\n\n【出演者】\n所ジョージ、ビートたけし、岩田絵里奈（日テレアナウンサー）\nアインシュタイン・上白石萌歌・ギャル曽根・ブリッジマン遊七・増田貴久（NEWS）\n\n「世界まる見え！テレビ特捜部」\n番組公式HP：https://www.ntv.co.jp/marumie/\n番組公式 X：https://x.com/marumie_tv",
+        "title": "他人から見たら変！？私だけの節約ルール【踊る!さんま御殿!!公式】",
+        "description": "2025年10月14日（火）放送の『踊る!さんま御殿!!』より、再現VTR「ウチの家業では当たり前だった事」を配信！\n\n★番組情報：\n　『踊る!さんま御殿!!』\n　日本テレビ系列で毎週火曜日20:00～21:00にて放送中！\n　https://www.ntv.co.jp/goten/\n　お笑い怪獣・明石家さんまと様々な芸能人・著名人が\n　トークの戦場でとにかくしゃべり倒します！\n　「考え方は同じじゃない！」というコンセプトのもと\n　1つのテーマで好き勝手に「考え」をぶつけます！\n\n★TVer：\n　最新話を1週間見逃し配信！\n　https://bit.ly/tver_yt_organic_sanmagoten\n\n★番組公式X（旧Twitter）：\n　https://twitter.com/sanmagoten_ntv\n\n★番組公式TikTok：\n　https://www.tiktok.com/@sanmagoten\n\n★番組公式Instagram：\n　https://www.instagram.com/sanmagoten_ntv/\n\n★番組公式Threads：\n　https://www.threads.com/@sanmagoten_ntv/\n\n★番組公式テーマ募集ページ：\n　https://www.ntv.co.jp/goten/articles/32qyjur0ba454tsxd4.html",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7Hfl2ltbF7I/default.jpg",
+            "url": "https://i.ytimg.com/vi/PWIucGxNYMI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7Hfl2ltbF7I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PWIucGxNYMI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7Hfl2ltbF7I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PWIucGxNYMI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/7Hfl2ltbF7I/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PWIucGxNYMI/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7Hfl2ltbF7I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "日テレ公式チャンネル",
@@ -186,7 +181,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "7Hfl2ltbF7I"
+          "videoId": "PWIucGxNYMI"
         },
         "videoOwnerChannelTitle": "日テレ公式チャンネル",
         "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
@@ -194,38 +189,33 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "PYO9UMEu_Ml6fNPObMUTHFn3RFw",
-      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLkFMNFdqQkVOMjRF",
+      "etag": "lNV-CQhN76lylpGRwwH1-5PsVzs",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLjhTblAxelUxeWtZ",
       "snippet": {
-        "publishedAt": "2025-10-13T04:00:08Z",
+        "publishedAt": "2025-10-14T12:00:27Z",
         "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
-        "title": "満天☆青空レストラン　10/18放送「神奈川県　オニカサゴ」",
-        "description": "神奈川県・三浦市で目指すは1キロ超えの巨大オニカサゴ！\n甘くてプリプリな身は、まるで伊勢海老！\n絶品オニカサゴレシピが続々！\n\n番組HP：https://www.ntv.co.jp/aozora/\n番組Instagram：https://www.instagram.com/aozora_official/",
+        "title": "節約しようとして失敗した事【踊る!さんま御殿!!公式】",
+        "description": "2025年10月14日（火）放送の『踊る!さんま御殿!!』より、再現VTR「ウチの家業では当たり前だった事」を配信！\n\n★番組情報：\n　『踊る!さんま御殿!!』\n　日本テレビ系列で毎週火曜日20:00～21:00にて放送中！\n　https://www.ntv.co.jp/goten/\n　お笑い怪獣・明石家さんまと様々な芸能人・著名人が\n　トークの戦場でとにかくしゃべり倒します！\n　「考え方は同じじゃない！」というコンセプトのもと\n　1つのテーマで好き勝手に「考え」をぶつけます！\n\n★TVer：\n　最新話を1週間見逃し配信！\n　https://bit.ly/tver_yt_organic_sanmagoten\n\n★番組公式X（旧Twitter）：\n　https://twitter.com/sanmagoten_ntv\n\n★番組公式TikTok：\n　https://www.tiktok.com/@sanmagoten\n\n★番組公式Instagram：\n　https://www.instagram.com/sanmagoten_ntv/\n\n★番組公式Threads：\n　https://www.threads.com/@sanmagoten_ntv/\n\n★番組公式テーマ募集ページ：\n　https://www.ntv.co.jp/goten/articles/32qyjur0ba454tsxd4.html",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/AL4WjBEN24E/default.jpg",
+            "url": "https://i.ytimg.com/vi/8SnP1zU1ykY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/AL4WjBEN24E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8SnP1zU1ykY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/AL4WjBEN24E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8SnP1zU1ykY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/AL4WjBEN24E/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8SnP1zU1ykY/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/AL4WjBEN24E/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "日テレ公式チャンネル",
@@ -233,7 +223,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "AL4WjBEN24E"
+          "videoId": "8SnP1zU1ykY"
         },
         "videoOwnerChannelTitle": "日テレ公式チャンネル",
         "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
@@ -241,36 +231,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "zHgr-Y97VuW3cemNRcWaaF-vRt8",
-      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLnY0RHpiSVM4d04w",
+      "etag": "9E8k9LBrCpvychZ3zjHNrtFcZFU",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLkYxR1B2R2tRMW9Z",
       "snippet": {
-        "publishedAt": "2025-10-13T03:01:06Z",
+        "publishedAt": "2025-10-14T12:00:25Z",
         "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
-        "title": "#1004　サイボウズ（10月11日(土)放送）",
-        "description": "おぎやはぎが今話題の商品やキャンペーンを紹介するこの番組。\n今回は、サイボウズの「キントーン」をご紹介します！\n※キャンペーンは終了している場合がございます。\n\n★番組HP： https://www.ntv.co.jp/tensai/\n★番組X： https://x.com/tensai_ntv",
+        "title": "【公式】踊る！さんま御殿！！少子化問題を吹き飛ばす！大家族有名人SP　10月21日（火）よる7時～！！",
+        "description": "きょうだいと子供が多い大家族ならではの自慢と悩みをぶっちゃけ！\n大家族有名人SP\n\n【司会】\n明石家さんま\n\n【ゲスト】\nアンミカ\n石田明（NON STYLE）\n石田千惠子\n梅沢富美男\n小野伸二\n勝俣州和\n亀田興毅\nKEIKO（ME:I）\n友利新\n星野真里\n弓木奈於（乃木坂46）\n吉澤閑也（Travis Japan）\n\n（５０音順・敬称略）\n\n「踊る!さんま御殿!!」毎週火曜よる8時00分～絶賛放送中！\n★番組HP：https://www.ntv.co.jp/goten/\n★番組公式X（旧Twitter）：https://twitter.com/sanmagoten_ntv\n★番組公式TikTok：https://www.tiktok.com/@sanmagoten\n★番組公式Instagram：https://www.instagram.com/sanmagoten_ntv/\n★番組公式Threads：https://www.threads.com/@sanmagoten_ntv/\n★番組公式Tver：https://bit.ly/tver_yt_organic_sanmagoten",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/v4DzbIS8wN0/default.jpg",
+            "url": "https://i.ytimg.com/vi/F1GPvGkQ1oY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/v4DzbIS8wN0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/F1GPvGkQ1oY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/v4DzbIS8wN0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/F1GPvGkQ1oY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/v4DzbIS8wN0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/F1GPvGkQ1oY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/v4DzbIS8wN0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/F1GPvGkQ1oY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -280,7 +270,7 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "v4DzbIS8wN0"
+          "videoId": "F1GPvGkQ1oY"
         },
         "videoOwnerChannelTitle": "日テレ公式チャンネル",
         "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
@@ -288,36 +278,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9K5Z4OmprlGKGKjdZa6R3CgD6hs",
-      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLkJxTG9mbkNyd3hz",
+      "etag": "OHee4KoPdjXDcH7eBjpiwxuKV6M",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLkMwTTdrWjhpOWhz",
       "snippet": {
-        "publishedAt": "2025-10-13T03:00:12Z",
+        "publishedAt": "2025-10-14T12:00:19Z",
         "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
-        "title": "2025年10月12日（日）放送「ドゥクラッセ」",
-        "description": "今回調査したのは、「ドゥクラッセ」の「ビューティバイアスパンツⅡ」！\n着こなしを選ばず、楽なのにスタイルアップできる、人気のデイリーパンツについて株式会社DoCLASSEの藤原久子さんにお話を伺いました！\n\n公式HP：http://www.ntv.co.jp/bizsearch/",
+        "title": "【踊る!さんま御殿!!】「他人から見たら変！？私だけの節約ルール」ひと言体験談再現VTR#踊るさんま御殿 #さんま御殿 #さんま御殿体験談 #明石家さんま #再現 #切り抜き #shorts",
+        "description": "2025年10月14日（火）放送の『踊る!さんま御殿!!』より、再現VTR「他人から見たら変！？私だけの節約ルール」を配信！\n\n★番組情報：\n　『踊る!さんま御殿!!』\n　日本テレビ系列で毎週火曜日20:00～21:00にて放送中！\n　https://www.ntv.co.jp/goten/\n　お笑い怪獣・明石家さんまと様々な芸能人・著名人が\n　トークの戦場でとにかくしゃべり倒します！\n　「考え方は同じじゃない！」というコンセプトのもと\n　1つのテーマで好き勝手に「考え」をぶつけます！\n\n★TVer：\n　最新話を1週間見逃し配信！\n　https://bit.ly/tver_yt_organic_sanmagoten\n\n★番組公式X（旧Twitter）：\n　https://twitter.com/sanmagoten_ntv\n\n★番組公式テーマ募集ページ：\n　https://www.ntv.co.jp/goten/articles/32qyjur0ba454tsxd4.html",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BqLofnCrwxs/default.jpg",
+            "url": "https://i.ytimg.com/vi/C0M7kZ8i9hs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BqLofnCrwxs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/C0M7kZ8i9hs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BqLofnCrwxs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/C0M7kZ8i9hs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/BqLofnCrwxs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/C0M7kZ8i9hs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/BqLofnCrwxs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/C0M7kZ8i9hs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -327,7 +317,7 @@
         "position": 6,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "BqLofnCrwxs"
+          "videoId": "C0M7kZ8i9hs"
         },
         "videoOwnerChannelTitle": "日テレ公式チャンネル",
         "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
@@ -335,36 +325,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vvVaJYDmfIHRXU_dbBZIfg2KWcw",
-      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLjA3d0lVRURGZ1lJ",
+      "etag": "xZqQcZTw3XYk9ldfWTTYWKBO_J0",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLjNuTm1sZ2ZhSTVr",
       "snippet": {
-        "publishedAt": "2025-10-13T02:55:00Z",
+        "publishedAt": "2025-10-14T12:00:06Z",
         "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
-        "title": "【3分クッキング公式】芋ようかん／さつま芋の皮けんぴ",
-        "description": "～水ようかんのようになめらかでしっとりとした舌ざわり～\n\n芋ようかん　材料（15.5×12.5×高さ2.5㎝のバット1台分）：さつま芋（大 1本）、砂糖（60g）、水（1/2カップ）、塩、粉寒天（小さじ1/2）\n1/4量分あたり:128kcal、塩分0.2g\n\nさつま芋の皮けんぴ　材料（作りやすい分量）：さつま芋と皮のせん切り、油、水、砂糖、はちみつ、塩\n全量:442kcal、塩分0.6g\n\n小林まさみ（2025/10/13放送）\n\n番組HPはこちら\nhttp://www.ntv.co.jp/3min/\n公式X：https://twitter.com/3puncooking_ntv\n公式Instagram：https://www.instagram.com/3puncooking_ntv/",
+        "title": "【公式】踊る！さんま御殿！！メジャー名字さんvsレア名字さん名前のお悩みを大告白SP　10月21日（火）よる7時～！！",
+        "description": "メジャー名字さんvsレア名字さん\n人生を左右してきたお名前トークバトル！\n\n【司会】\n明石家さんま\n\n【ゲスト】\n一番合戰彩さん\n産屋敷あみさん\n桒波田理恵\n剛力彩芽\n佐藤早也伽\n七五三掛龍也（Travis Japan）\n正代直也\n鈴木福\n高橋茂雄\n澤岻奈々子\n田中理恵\n拝田祥子\n蛍原徹\n（５０音順・敬称略）\n\n「踊る!さんま御殿!!」毎週火曜よる8時00分～絶賛放送中！\n★番組HP：https://www.ntv.co.jp/goten/\n★番組公式X（旧Twitter）：https://twitter.com/sanmagoten_ntv\n★番組公式TikTok：https://www.tiktok.com/@sanmagoten\n★番組公式Instagram：https://www.instagram.com/sanmagoten_ntv/\n★番組公式Threads：https://www.threads.com/@sanmagoten_ntv/\n★番組公式Tver：https://bit.ly/tver_yt_organic_sanmagoten",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/07wIUEDFgYI/default.jpg",
+            "url": "https://i.ytimg.com/vi/3nNmlgfaI5k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/07wIUEDFgYI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3nNmlgfaI5k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/07wIUEDFgYI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3nNmlgfaI5k/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/07wIUEDFgYI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/3nNmlgfaI5k/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/07wIUEDFgYI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3nNmlgfaI5k/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -374,7 +364,7 @@
         "position": 7,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "07wIUEDFgYI"
+          "videoId": "3nNmlgfaI5k"
         },
         "videoOwnerChannelTitle": "日テレ公式チャンネル",
         "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
@@ -382,36 +372,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9Di0tKr8tL8xIt2F4qH32L870JQ",
-      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLnY5LW1YQlRUd29z",
+      "etag": "uxlX_2Enb9t07nfi2b5GUg0V0GE",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLmstNVNqbXF4VVRF",
       "snippet": {
-        "publishedAt": "2025-10-13T02:00:53Z",
+        "publishedAt": "2025-10-14T02:55:03Z",
         "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
-        "title": "NNNドキュメント　2025/10/19 「墜ちたＢ２９」",
-        "description": "終戦からわずか２週間後、捕虜に物資を運んでいたアメリカの爆撃機Ｂ２９が秋田県の山に墜落した。唯一の生存兵を「殺してしまえ」という声もあがる中、ふもとの住民が救出。無事帰国した生存兵は１９９０年に秋田を再訪し、救出者たちに感謝を伝えた。その思いは戦後に生まれた生存兵の子孫にもつながっていた。山中に残された、Ｂ２９の一部やアメリカ取材をもとに、墜落機の生存兵と救出者が紡ぎ出した“今”に光を当てる。\n\nNNNドキュメント\n公式HP：http://www.ntv.co.jp/document/\n公式Facebook：https://www.facebook.com/nnndocument/\n公式X：https://twitter.com/n_docu",
+        "title": "【3分クッキング公式】十和田バラ焼き",
+        "description": "～りんごのすりおろし入りのたれが味の決め手～\n\n材料（2～3人分）：牛バラ肉（薄切り 200g）、玉ねぎ（2個）、炒り白ごま（小さじ1）\nりんごだれ　（作りやすい分量・約1/3量を使用）：りんご（1/4個）、みそ、しょうゆ、酒、砂糖、酢、はちみつ、おろしにんにく（大さじ1/2）、おろししょうが（大さじ1/2）、ごま油、すり白ごま（大さじ1）、卵（2～3個）、ゆでうどん（1玉）、塩\n\n一人前あたり:485kcal、塩分3.0g\n\n小林まさみ（2025/10/14放送）\n\n番組HPはこちら\nhttp://www.ntv.co.jp/3min/\n公式X：https://twitter.com/3puncooking_ntv\n公式Instagram：https://www.instagram.com/3puncooking_ntv/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/v9-mXBTTwos/default.jpg",
+            "url": "https://i.ytimg.com/vi/k-5SjmqxUTE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/v9-mXBTTwos/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k-5SjmqxUTE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/v9-mXBTTwos/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k-5SjmqxUTE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/v9-mXBTTwos/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/k-5SjmqxUTE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/v9-mXBTTwos/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/k-5SjmqxUTE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -421,7 +411,101 @@
         "position": 8,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "v9-mXBTTwos"
+          "videoId": "k-5SjmqxUTE"
+        },
+        "videoOwnerChannelTitle": "日テレ公式チャンネル",
+        "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O0bwoZON5EN9Xbv9mbjfm1J9Qyg",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLjVqTlJLaVVxSVRr",
+      "snippet": {
+        "publishedAt": "2025-10-14T02:19:01Z",
+        "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
+        "title": "【公式】10月20日月曜よる7時～有吉ゼミ▼ギャル曽根＆爆食大食い力士軍VS肉盛りオムライス！激辛に原晋監督参戦",
+        "description": "10月20日月曜よる7時～有吉ゼミ\n\nギャル曽根チャレンジグルメ▽相撲界から荒汐部屋の大食い猛者＆青山学院駅伝部…原晋監督も▽荒篤山＆荒磯親方VS超肉盛りオムライス▽爆盛りキノコ天そばVSバレー代表\n\n＜みどころ＞\n【チャレンジグルメ】\nギャル曽根VS爆食大食い力士軍団が参戦SP！\n荒汐部屋から最強猛者がやってきた！\n荒篤山＆荒磯親方VS超肉盛りオムライス\nバレーボール元日本代表清水邦広＆KEY TO LIT佐々木＆きつねVS爆盛りキノコ天そば\n激辛エビチリチャーハンに青山学院駅伝原監督＆山下幸輝＆国本梨紗＆ラランドニシダが挑む！\n\n＜出演者＞\n【教授】有吉弘行\n【秘書】水卜麻美（日本テレビアナウンサー）\n【ゼミ生】坂上忍、博多華丸・大吉、矢作兼、ギャル曽根　ほか\n【ロケ出演】荒篤山、荒磯勇輝、カゲヤマ、清水邦広、佐々木大光（KEY TO LIT）、きつね、原晋、山下幸輝、国本梨紗、ニシダ（ラランド）　ほか\n\n月曜7時は有吉ゼミ！水曜7時は有吉の壁！\nお楽しみに！\n\n★日本テレビ「有吉ゼミ」\n公式HP：http://www.ntv.co.jp/arizemi/\n公式X：https://twitter.com/ariyoshiseminar",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5jNRKiUqITk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5jNRKiUqITk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5jNRKiUqITk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5jNRKiUqITk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5jNRKiUqITk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "日テレ公式チャンネル",
+        "playlistId": "UUkLqBWFde2ZJZfqojgpDqyA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5jNRKiUqITk"
+        },
+        "videoOwnerChannelTitle": "日テレ公式チャンネル",
+        "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4ynZk3Ib1aJvS3I-PuvWiinl7Es",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLnZJNmc0TlBTeDBF",
+      "snippet": {
+        "publishedAt": "2025-10-13T15:29:00Z",
+        "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
+        "title": "“面白さだけ”で選抜！応募数200人超から選抜された５人の会心エピソードトーク【大悟の芸人領収書】",
+        "description": "芸人たちがプライベートの領収書からエピソード披露！MC大悟の承認で全額キャッシュバック！\n10月20日23時59分スタート！\n\n【芸人ゲスト】\n清水啓之、須藤ジム、井福一本道（ミスター大冒険。）、じーつー（薫るパトリシア）、福はら 777\n\n番組公式X：https://twitter.com/geininryosyusyo\n番組HP：https://www.ntv.co.jp/geininryousyusyo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vI6g4NPSx0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vI6g4NPSx0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vI6g4NPSx0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vI6g4NPSx0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vI6g4NPSx0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "日テレ公式チャンネル",
+        "playlistId": "UUkLqBWFde2ZJZfqojgpDqyA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vI6g4NPSx0E"
         },
         "videoOwnerChannelTitle": "日テレ公式チャンネル",
         "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"

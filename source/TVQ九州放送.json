@@ -2,40 +2,40 @@
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "テレQ7ch",
   "original_name": "TVQ九州放送",
-  "updated_at": "2025-10-14T00:01:58.097626",
+  "updated_at": "2025-10-15T00:02:05.818770",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "BfTzx9b-qxEs2pEGxX70hCvLkDM",
-      "id": "VVV0QnlIQU1LSnVBX3pqSjdtM25FMV93LnhoaDhGQzRsUGt3",
+      "etag": "J-WkR2kulzS-tsx_G1vll6ujs6o",
+      "id": "VVV0QnlIQU1LSnVBX3pqSjdtM25FMV93LmdvbkNHTUlQa053",
       "snippet": {
-        "publishedAt": "2025-10-13T07:49:00Z",
+        "publishedAt": "2025-10-14T03:05:12Z",
         "channelId": "UCtByHAMKJuA_zjJ7m3nE1_w",
-        "title": "熊田曜子の飯塚グルメ旅（テレQ2025年10月13日放送）",
-        "description": "福岡県のほぼ中央に位置する飯塚市は、かつて日本経済の成長を支える炭鉱の町として発展した筑豊地区の中心地。古くは長崎街道の宿場町としても栄えた飯塚は、知る人ぞ知る「美味しいもの」の宝庫。そんな飯塚グルメを、熊田曜子さんと一緒に巡ります。\n\n#熊田曜子 #飯塚 #グルメ",
+        "title": "【テレQ番宣】ブルーリバーの望むところだ！（10月26日（日）13:30～）",
+        "description": "「回避不可能！飛び散りグルメツアー第4弾」\nテレQ前に全身タイツ姿で集まったブルーリバーとメタルラック。\nこの格好で挑戦する企画といえば、服やテーブルを汚さずに食べるのが難しいグルメを、いかにキレイに食べるか競う「飛び散りグルメツアー」。\n第4弾となる今回はブルーリバー対メタルラックのチーム戦！\n待ち受けるのは、濃厚スープのクリームパスタや、オリーブオイルがたっぷりかかった骨付き鶏、肉汁がパンパンに詰まった絶品餃子などなど。\nさらに、こぼさず食べるのが難しいと福岡県民を悩ませるあの銘菓にも挑む！\n強力な飛び散りグルメを攻略し、全身タイツを汚さずに完食するのはどちらのチームなのか！？\n\n■最新回をTVerで無料見逃し配信中！\nhttps://tver.jp/series/sry9gd2weh\n\n★番組公式サイト\nhttps://www.tvq.co.jp/variety/nozomutokoroda/\n\n#ブルーリバー #福岡",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xhh8FC4lPkw/default.jpg",
+            "url": "https://i.ytimg.com/vi/gonCGMIPkNw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xhh8FC4lPkw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gonCGMIPkNw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xhh8FC4lPkw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gonCGMIPkNw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/xhh8FC4lPkw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/gonCGMIPkNw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/xhh8FC4lPkw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gonCGMIPkNw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "xhh8FC4lPkw"
+          "videoId": "gonCGMIPkNw"
         },
         "videoOwnerChannelTitle": "テレQ7ch",
         "videoOwnerChannelId": "UCtByHAMKJuA_zjJ7m3nE1_w"

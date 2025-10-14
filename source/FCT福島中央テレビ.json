@@ -2,42 +2,37 @@
   "channel_id": "UCwYvNGb19z9A6gpisi0Jv4A",
   "channel_name": "中テレ公式チャンネル",
   "original_name": "FCT福島中央テレビ",
-  "updated_at": "2025-10-14T00:03:49.093198",
+  "updated_at": "2025-10-15T00:03:57.760802",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "JvFqZpCUl5Zvyh0Qqr-DUP8z1ps",
-      "id": "VVV3WXZOR2IxOXo5QTZncGlzaTBKdjRBLk9IdnljLThFVnlV",
+      "etag": "FvRXNXxCmcAmkHWju6hyHLDso58",
+      "id": "VVV3WXZOR2IxOXo5QTZncGlzaTBKdjRBLmxjaVlBN1hCV2Vn",
       "snippet": {
-        "publishedAt": "2025-10-13T00:30:28Z",
+        "publishedAt": "2025-10-14T08:00:59Z",
         "channelId": "UCwYvNGb19z9A6gpisi0Jv4A",
-        "title": "ぼくらはふくしまキッズマン　大槻中央幼稚園（1）",
-        "description": "2025年10月12日放送\n大槻中央幼稚園\n\n★★・・・・・・・・・・・・・・・・・・・・・・☆☆\n福島中央テレビでは「ぼくらはふくしまキッズマン」を持って、県内の幼稚園・保育園を訪ねます。一緒に踊ってみませんか？　お子さんたちと若菜さんが踊る様子を紹介します。\n\n詳細は番組ホームページをご覧ください。\nhttp://www.fct.co.jp/program/kidsman/\n\nこれまでの動画は再生リストから\nhttps://www.youtube.com/playlist?list=PLcE74Mj3mFWaV5Wu_PwQHguXUcB4VPomV",
+        "title": "#81 新米の季節だにゃ！「ふにゃ～り日和」",
+        "description": "2025/10/7放送分\n毎週火曜、ゴジてれChu！第I部(15:50～)のミニコーナーで放送。\n未公開シーンをふんだんに盛り込んだWEB限定動画を公開中！\n\n主人公は、会津鉄道・芦ノ牧温泉駅で働くねこたち。\n見ているだけで癒される、かわいいねこたちの日常をお届けします。\n\n福島中央テレビ「ふにゃ～り日和」公式ページ\nhttps://www.fct.co.jp/goji/funyari_biyori/\n\n#さくら駅長 #ねこ駅長  #会津鉄道 #芦ノ牧温泉駅",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/OHvyc-8EVyU/default.jpg",
+            "url": "https://i.ytimg.com/vi/lciYA7XBWeg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/OHvyc-8EVyU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lciYA7XBWeg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/OHvyc-8EVyU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lciYA7XBWeg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/OHvyc-8EVyU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/lciYA7XBWeg/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/OHvyc-8EVyU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "中テレ公式チャンネル",
@@ -45,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "OHvyc-8EVyU"
+          "videoId": "lciYA7XBWeg"
         },
         "videoOwnerChannelTitle": "中テレ公式チャンネル",
         "videoOwnerChannelId": "UCwYvNGb19z9A6gpisi0Jv4A"

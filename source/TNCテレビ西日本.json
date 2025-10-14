@@ -2,40 +2,40 @@
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "テレビ西日本TNC",
   "original_name": "TNCテレビ西日本",
-  "updated_at": "2025-10-13T00:02:02.103320",
+  "updated_at": "2025-10-15T00:02:24.144137",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "LcDiiRx5j9S4B93sCYHn-4YfmUs",
-      "id": "VVU0Qmh4SXp3OXlxWjVVRGM4QXhyWXhBLlBKakYtQmM5UVdB",
+      "etag": "SaOOXj3Ac0jkePNrbUEnIerWH7I",
+      "id": "VVU0Qmh4SXp3OXlxWjVVRGM4QXhyWXhBLnFBbTNHMHo3YVVB",
       "snippet": {
-        "publishedAt": "2025-10-12T00:00:30Z",
+        "publishedAt": "2025-10-14T03:00:57Z",
         "channelId": "UC4BhxIzw9yqZ5UDc8AxrYxA",
-        "title": "【公式】「ただのねんざ 実は骨折～？」（10月12日放送）｜テレビ西日本",
-        "description": "10月12日にテレビ西日本で放送された内容です。\n\n「はぐはぐ」は、日々子育てをがんばる家族を応援する「子育て家族」応援番組！子育てに関すること以外にも家事全般や収納などのお困りごとから、プレママ中の心配ごとや、イクメンパパからの質問にも答えます。\n\nテレビ西日本で毎週日曜日8:55から放送中。\nはぐはぐ 番組公式Webサイト  https://www.tnc.co.jp/hughug/\n\n#はぐはぐ #TNC  #子育て #ねんざ #骨折 #足首 #関節 #整形外科 #安静 #冷却",
+        "title": "【公式】「増永葵／提灯絵師」ミライへの１minute｜テレビ西日本",
+        "description": "今回は提灯絵師の増永葵。工程ごとに分業制の形で、長く受け継がれてきた八女提灯。十数年かけて習得した技術を使い彼女が作るのは、歴史にとらわれない新たな提灯の形。\n\n―“未来”は“今”、そして“一瞬”の積み重ねである。―\n多くの才能がひしめく九州で、その時・その瞬間を大事にしながら、自身が信じる芸術の道に情熱を注ぐ「若きアーティスト」たち。この番組では、そんな彼らが“今の全てをかけた１分間のパフォーマンス”を披露。そのパフォーマンスは、編集をかけない“１分間１カット”でご覧いただきます。\nアーティストたちの“未来をつくる濃密な１分間”、ご注目ください。 \n\nhttps://www.tnc.co.jp/minute/\n\n#ミライへの１minute #テレビ西日本 #TNC #増永葵 #提灯絵師 #八女提灯 #八女市",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/PJjF-Bc9QWA/default.jpg",
+            "url": "https://i.ytimg.com/vi/qAm3G0z7aUA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/PJjF-Bc9QWA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qAm3G0z7aUA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/PJjF-Bc9QWA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qAm3G0z7aUA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/PJjF-Bc9QWA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/qAm3G0z7aUA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/PJjF-Bc9QWA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qAm3G0z7aUA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,143 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "PJjF-Bc9QWA"
+          "videoId": "qAm3G0z7aUA"
+        },
+        "videoOwnerChannelTitle": "テレビ西日本TNC",
+        "videoOwnerChannelId": "UC4BhxIzw9yqZ5UDc8AxrYxA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WF1obaiuBBJuFbNQWNEbqF9uBdE",
+      "id": "VVU0Qmh4SXp3OXlxWjVVRGM4QXhyWXhBLmsxeDYzSnIyN0tJ",
+      "snippet": {
+        "publishedAt": "2025-10-14T03:00:55Z",
+        "channelId": "UC4BhxIzw9yqZ5UDc8AxrYxA",
+        "title": "【公式】「増永葵の1minute」ミライへの１minute｜テレビ西日本",
+        "description": "今回は提灯絵師の増永葵。工程ごとに分業制の形で、長く受け継がれてきた八女提灯。十数年かけて習得した技術を使い彼女が作るのは、歴史にとらわれない新たな提灯の形。\n\n―“未来”は“今”、そして“一瞬”の積み重ねである。―\n多くの才能がひしめく九州で、その時・その瞬間を大事にしながら、自身が信じる芸術の道に情熱を注ぐ「若きアーティスト」たち。この番組では、そんな彼らが“今の全てをかけた１分間のパフォーマンス”を披露。そのパフォーマンスは、編集をかけない“１分間１カット”でご覧いただきます。\nアーティストたちの“未来をつくる濃密な１分間”、ご注目ください。 \n\nhttps://www.tnc.co.jp/minute/\n\n#ミライへの１minute #テレビ西日本 #TNC #増永葵 #提灯絵師 #八女提灯 #八女市",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k1x63Jr27KI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k1x63Jr27KI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k1x63Jr27KI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k1x63Jr27KI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k1x63Jr27KI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレビ西日本TNC",
+        "playlistId": "UU4BhxIzw9yqZ5UDc8AxrYxA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k1x63Jr27KI"
+        },
+        "videoOwnerChannelTitle": "テレビ西日本TNC",
+        "videoOwnerChannelId": "UC4BhxIzw9yqZ5UDc8AxrYxA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H6kQYkxlZBl3YIX8x0AuBysYEqw",
+      "id": "VVU0Qmh4SXp3OXlxWjVVRGM4QXhyWXhBLkNnX0JrUU1uVU5B",
+      "snippet": {
+        "publishedAt": "2025-10-14T03:00:12Z",
+        "channelId": "UC4BhxIzw9yqZ5UDc8AxrYxA",
+        "title": "【公式】「匠の蔵～HISTORY OF MEISTER～ 」岩切洋一（1） | TNCテレビ西日本",
+        "description": "匠の工房兼ギャラリーを訪ねる。錫器は割れない、錆びないが特徴の器。現代風に加工したタンブラーなど時代に合ったものを作る一方、焼酎を飲む酒器など、昔ながらの錫器も制作する。\n\nhttps://www.tnc.co.jp/takumi/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cg_BkQMnUNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cg_BkQMnUNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cg_BkQMnUNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cg_BkQMnUNA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "テレビ西日本TNC",
+        "playlistId": "UU4BhxIzw9yqZ5UDc8AxrYxA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Cg_BkQMnUNA"
+        },
+        "videoOwnerChannelTitle": "テレビ西日本TNC",
+        "videoOwnerChannelId": "UC4BhxIzw9yqZ5UDc8AxrYxA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QM4p-HcyDQ3SXmrx_8fVDYN2wdA",
+      "id": "VVU0Qmh4SXp3OXlxWjVVRGM4QXhyWXhBLnEwMV9ucThuREtj",
+      "snippet": {
+        "publishedAt": "2025-10-10T10:47:38Z",
+        "channelId": "UC4BhxIzw9yqZ5UDc8AxrYxA",
+        "title": "ピタッと。TNCまつり2025　まつり会場LIVEカメラ",
+        "description": "『ピタッと。TNCまつり2025』を開催いたします！\n皆様のご来場をお待ちしております！\n\n■日にち\n2025年10月18日(土)・19日(日)\n\n■場所\nTNC放送会館およびその周辺\n\n■公式HP\nhttps://www.tnc.co.jp/pitattofes/\n\n#TNC  #まつり #うどんMAP #ゴリパラ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q01_nq8nDKc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q01_nq8nDKc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q01_nq8nDKc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q01_nq8nDKc/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q01_nq8nDKc/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレビ西日本TNC",
+        "playlistId": "UU4BhxIzw9yqZ5UDc8AxrYxA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q01_nq8nDKc"
         },
         "videoOwnerChannelTitle": "テレビ西日本TNC",
         "videoOwnerChannelId": "UC4BhxIzw9yqZ5UDc8AxrYxA"

@@ -2,40 +2,40 @@
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "【福島放送公式】 ときまるTV",
   "original_name": "KFB福島放送",
-  "updated_at": "2025-10-14T00:04:12.659029",
+  "updated_at": "2025-10-15T00:04:23.252013",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "NLHyNsTLMfnooCCWTHQD6J4GYl4",
-      "id": "VVUzMnBGMUJaTHRlTnFJYVhVVnM3U2xnLnVESFl6MVdSbEdr",
+      "etag": "tjVJUr4iQI-0kQ3n3f-wXtN_ie0",
+      "id": "VVUzMnBGMUJaTHRlTnFJYVhVVnM3U2xnLll4QU9GeVJlU0Vj",
       "snippet": {
-        "publishedAt": "2025-10-13T01:30:50Z",
+        "publishedAt": "2025-10-14T08:11:51Z",
         "channelId": "UC32pF1BZLteNqIaXUVs7Slg",
-        "title": "福島美少女図鑑のイマコレ　LINEヤフー「Yahoo!カーナビ」",
-        "description": "福島美少女図鑑のメンバーが、気になる話題や商品について\n体験する情報番組！\n\n「LINEヤフー」から「Yahoo!カーナビ」をご紹介。最新地図や渋滞回避、駐車場の空き情報など、ドライブがもっと楽しくなる便利な機能がいっぱいです。紅葉シーズンのドライブ計画にも役立つ情報を、楽しくお届けします。",
+        "title": "高校野球中継の現場で働く社員｜KFB福島放送の舞台裏！",
+        "description": "高校野球を支えるのは選手だけじゃない。\nKFB福島放送の中継現場で活躍する社員の仕事風景をお届けします。\n機材チェック、カメラワーク、タイムキープ…全員で試合をつくるチームプレーがここにある。\n放送局の仕事に興味がある就活生必見です！\n\n#KFB福島放送 #高校野球中継 #新卒採用 #放送局の舞台裏 #スポーツ中継 #就活動画#就活生 #就活#27卒",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/default.jpg",
+            "url": "https://i.ytimg.com/vi/YxAOFyReSEc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YxAOFyReSEc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YxAOFyReSEc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/YxAOFyReSEc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/uDHYz1WRlGk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/YxAOFyReSEc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "uDHYz1WRlGk"
+          "videoId": "YxAOFyReSEc"
+        },
+        "videoOwnerChannelTitle": "【福島放送公式】 ときまるTV",
+        "videoOwnerChannelId": "UC32pF1BZLteNqIaXUVs7Slg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "buGitm5qUcmvtI01SAOCqQf7um0",
+      "id": "VVUzMnBGMUJaTHRlTnFJYVhVVnM3U2xnLk56eDZYNDFuM2JV",
+      "snippet": {
+        "publishedAt": "2025-10-14T05:36:56Z",
+        "channelId": "UC32pF1BZLteNqIaXUVs7Slg",
+        "title": "女性営業社員に一日密着｜KFB福島放送の営業のリアル！",
+        "description": "「放送局営業の一日はこんな流れ！\nKFB福島放送の女性営業社員に朝から夕方まで密着しました。\nお客様との打ち合わせから社内会議、提案資料づくりまで…リアルな働き方が分かります。\n就活生必見！営業職を目指す方へのヒントが盛りだくさん。\n\n#KFB福島放送 #女性営業 #新卒採用 #放送局営業 #就活生向け #一日密着#就活#27卒 #アナウンサー",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nzx6X41n3bU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nzx6X41n3bU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nzx6X41n3bU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nzx6X41n3bU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nzx6X41n3bU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "【福島放送公式】 ときまるTV",
+        "playlistId": "UU32pF1BZLteNqIaXUVs7Slg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nzx6X41n3bU"
         },
         "videoOwnerChannelTitle": "【福島放送公式】 ときまるTV",
         "videoOwnerChannelId": "UC32pF1BZLteNqIaXUVs7Slg"
