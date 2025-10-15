@@ -2,40 +2,40 @@
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "MBS（毎日放送）",
   "original_name": "毎日放送（MBS）",
-  "updated_at": "2025-10-14T00:00:06.149487",
+  "updated_at": "2025-10-16T00:01:27.814895",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "mfltnI_P6hliRd60_mKnqlB4pKk",
-      "id": "VVVYU1E4eDRrRWplV05FeGcwdFJBQndRLnJZTjZkLWpBbnU4",
+      "etag": "auoabLxG8flo96-GBrI9VCSM3cc",
+      "id": "VVVYU1E4eDRrRWplV05FeGcwdFJBQndRLm1DaVh1WGwxd3cw",
       "snippet": {
-        "publishedAt": "2025-10-13T10:01:32Z",
+        "publishedAt": "2025-10-15T10:01:26Z",
         "channelId": "UCXSQ8x4kEjeWNExg0tRABwQ",
-        "title": "こんな号令は嫌だ４連発ｗ",
+        "title": "珠代姉さんがパンティーを履いていない理由ついに判明！？🤣",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/default.jpg",
+            "url": "https://i.ytimg.com/vi/mCiXuXl1ww0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mCiXuXl1ww0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mCiXuXl1ww0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/mCiXuXl1ww0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/rYN6d-jAnu8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mCiXuXl1ww0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "rYN6d-jAnu8"
+          "videoId": "mCiXuXl1ww0"
+        },
+        "videoOwnerChannelTitle": "MBS（毎日放送）",
+        "videoOwnerChannelId": "UCXSQ8x4kEjeWNExg0tRABwQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w4yfK5PmdnZE0yJAYah_mtcNtKM",
+      "id": "VVVYU1E4eDRrRWplV05FeGcwdFJBQndRLm90T3VCdy12UWY0",
+      "snippet": {
+        "publishedAt": "2025-10-15T02:01:19Z",
+        "channelId": "UCXSQ8x4kEjeWNExg0tRABwQ",
+        "title": "★10月18日のサタプラ★",
+        "description": "#清水麻椰 #Aぇgroup #山崎弘也\n土曜あさ７時５９分はサタプラ！\n今週も是非ご覧ください！！\n\n●公式Xはコチラ↓\nhttps://x.com/saturdayplus\n\n●公式Instagramはコチラ↓\nhttps://www.instagram.com/saturdayplus_official?igsh=MXpjMHg0c2s1b2Nk\n\n●番組公式ホームページはコチラ↓\nhttps://www.mbs.jp/saturday-plus/\n\n#アンタッチャブル #山崎弘也 #柴田英嗣　\n#正門良規 #Aぇgroup　\n#アンミカ　\n#清水麻椰",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/otOuBw-vQf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/otOuBw-vQf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/otOuBw-vQf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/otOuBw-vQf4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/otOuBw-vQf4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBS（毎日放送）",
+        "playlistId": "UUXSQ8x4kEjeWNExg0tRABwQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "otOuBw-vQf4"
         },
         "videoOwnerChannelTitle": "MBS（毎日放送）",
         "videoOwnerChannelId": "UCXSQ8x4kEjeWNExg0tRABwQ"

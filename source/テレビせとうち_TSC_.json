@@ -2,42 +2,37 @@
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "TSCテレビせとうち",
   "original_name": "テレビせとうち（TSC）",
-  "updated_at": "2025-10-15T00:01:04.436213",
+  "updated_at": "2025-10-16T00:01:12.493602",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "sYhqWPtXZsWU9e28ObhIPdcp8Ws",
-      "id": "VVVBemFaZndnZmpZVlJHbjRTNjB4TTZRLlVueTZQQnBQUVA0",
+      "etag": "oIvDc0vW5LbzH_vc9I2B9Xcv4Go",
+      "id": "VVVBemFaZndnZmpZVlJHbjRTNjB4TTZRLnZUT1ZUczFXdi1R",
       "snippet": {
-        "publishedAt": "2025-10-14T11:33:17Z",
+        "publishedAt": "2025-10-15T07:31:17Z",
         "channelId": "UCAzaZfwgfjYVRGn4S60xM6Q",
-        "title": "美作三湯芸術温度～奥津温泉～　絵画・石の彫刻・森芸のレガシーなど",
-        "description": "岡山県北の美作三湯を舞台にしたアートイベント「美作三湯芸術温度」。今回は岡山県鏡野町の奥津温泉を紹介します\n\n＃美作三湯芸術温度＃奥津温泉＃森の芸術祭＃鏡野町",
+        "title": "おばあちゃんの台所【西粟倉村篇】「利江おばあちゃんの和風コロッケ」【2025年10月4日放送】",
+        "description": "岡山県北東部、鳥取県との県境にある西粟倉村。そんな西粟倉村で「料理」に携わり続けている政久利江さん（79）が今回の主役です。西粟倉村の小学校で栄養士として給食を作り続け、長年、子どもたちの健康を支えてきました。退職してすぐに、地域の仲間と一緒に地元の特産品などを使った加工品や地域の郷土料理などをイベントで振る舞う活動を開始。１５年ほど続け解散。ところが、今度はそんな郷土料理を教えてほしいと、西粟倉村に移住してきた若者たちからオファーが！今も現役で料理作りで地域を盛り上げています。今回教わる料理は「和風コロッケ」。学校給食では子どもたちに大人気、さらに西粟倉村のイベントなどでは飛ぶように売れるコロッケです。\n\n【番組ＨＰ】\nhttps://www.webtsc.com/prog/obaachan/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Uny6PBpPQP4/default.jpg",
+            "url": "https://i.ytimg.com/vi/vTOVTs1Wv-Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Uny6PBpPQP4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vTOVTs1Wv-Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Uny6PBpPQP4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vTOVTs1Wv-Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Uny6PBpPQP4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/vTOVTs1Wv-Q/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Uny6PBpPQP4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "TSCテレビせとうち",
@@ -45,54 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Uny6PBpPQP4"
-        },
-        "videoOwnerChannelTitle": "TSCテレビせとうち",
-        "videoOwnerChannelId": "UCAzaZfwgfjYVRGn4S60xM6Q"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "CAp8Ed-O5A1T7lu3i_Py0P-mlMc",
-      "id": "VVVBemFaZndnZmpZVlJHbjRTNjB4TTZRLm9BSXVqN0NuQmxZ",
-      "snippet": {
-        "publishedAt": "2025-10-14T09:50:06Z",
-        "channelId": "UCAzaZfwgfjYVRGn4S60xM6Q",
-        "title": "ファジアーノの最年長・金山隼樹選手 今季限りで現役引退　監督＆選手が語る金山選手の印象とは？",
-        "description": "ファジアーノ岡山の最年長・金山選手が今シーズン限りでの引退を\n10月14日、自らの口で表明しました。\n引退の理由や岡山での思い出などを聞きました。\nまた木山隆之監督、木村太哉選手、佐藤龍之介選手が金山選手への思いを語りました。\n#ファジアーノ #金山隼樹 #木村太哉 #佐藤龍之介",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/oAIuj7CnBlY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/oAIuj7CnBlY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/oAIuj7CnBlY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/oAIuj7CnBlY/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oAIuj7CnBlY/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TSCテレビせとうち",
-        "playlistId": "UUAzaZfwgfjYVRGn4S60xM6Q",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "oAIuj7CnBlY"
+          "videoId": "vTOVTs1Wv-Q"
         },
         "videoOwnerChannelTitle": "TSCテレビせとうち",
         "videoOwnerChannelId": "UCAzaZfwgfjYVRGn4S60xM6Q"

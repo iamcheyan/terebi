@@ -2,40 +2,40 @@
   "channel_id": "UCXXEOK4erP8E3cbszN22bEQ",
   "channel_name": "FBS福岡放送公式チャンネル",
   "original_name": "FBS福岡放送",
-  "updated_at": "2025-10-15T00:03:41.483667",
+  "updated_at": "2025-10-16T00:04:02.752405",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "6y0rwhwMsZnT3F_eMvRQKKGm5s4",
-      "id": "VVVYWEVPSzRlclA4RTNjYnN6TjIyYkVRLjluZGtTU2JsaFBr",
+      "etag": "CaQ84ClTFI7W5rVXOGMdbYhn2WY",
+      "id": "VVVYWEVPSzRlclA4RTNjYnN6TjIyYkVRLlVfcnQ3VE4wQ2ln",
       "snippet": {
-        "publishedAt": "2025-10-14T01:35:39Z",
+        "publishedAt": "2025-10-15T01:57:33Z",
         "channelId": "UCXXEOK4erP8E3cbszN22bEQ",
-        "title": "【おいしい湯気】オムライスも楽しめるビーフストロガノフ専門店「SACHiA」｜＃6_ビーフストロガノフ（2025/10/14）",
+        "title": "【岡澤アキラの駅前食堂】考えるな！感じろ！NEW中華そば「ブルース軒」（2025/10/15）",
         "description": "地元・福岡の様々な情報を発信します。\n\nバリはやッ！　https://www.fbs.co.jp/barihaya/\nめんたいワイド　https://www.fbs.co.jp/mentai/\n夢空間スポーツ　https://www.fbs.co.jp/yume/\nARNE　https://arne.media/\n\n\n生活情報満載です!!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/9ndkSSblhPk/default.jpg",
+            "url": "https://i.ytimg.com/vi/U_rt7TN0Cig/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/9ndkSSblhPk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/U_rt7TN0Cig/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/9ndkSSblhPk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/U_rt7TN0Cig/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/9ndkSSblhPk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/U_rt7TN0Cig/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/9ndkSSblhPk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/U_rt7TN0Cig/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "9ndkSSblhPk"
+          "videoId": "U_rt7TN0Cig"
         },
         "videoOwnerChannelTitle": "FBS福岡放送公式チャンネル",
         "videoOwnerChannelId": "UCXXEOK4erP8E3cbszN22bEQ"

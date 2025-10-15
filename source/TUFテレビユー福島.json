@@ -2,35 +2,35 @@
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFchannel",
   "original_name": "TUFテレビユー福島",
-  "updated_at": "2025-10-15T00:04:42.383432",
+  "updated_at": "2025-10-16T00:05:07.671730",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "09jU5qd_gHMbMBepcFqirOG7vM0",
-      "id": "VVVzY2k5dEw5ZzhRUE92VXdqSmVEQWdBLlFlQXQ0VGFzbngw",
+      "etag": "nE2dhyzeHbbBlDGmrWG_e0PVeJo",
+      "id": "VVVzY2k5dEw5ZzhRUE92VXdqSmVEQWdBLjlvMndMSG5OeFBF",
       "snippet": {
-        "publishedAt": "2025-10-14T05:07:09Z",
+        "publishedAt": "2025-10-15T06:08:47Z",
         "channelId": "UCsci9tL9g8QPOvUwjJeDAgA",
-        "title": "【映像】いわき市の田園に咲く花々　福島【カメラめせん㉟】",
-        "description": "カメラマンが福島の今を映像で伝えるシリーズ「カメラめせん」。\n\nいわき市の田園では、可憐な花が咲いていて、実りの秋を祝福しています。\n\n※9月26日撮影",
+        "title": "Dream Journey～夢をつむぐ旅～　#2  日本大学工学部",
+        "description": "既存の橋を長持ちさせるため、砂利化した鉄筋コンクリート床版の補修方法と耐疲労性に関する研究\n\n＃TUF ＃NOK ＃夢 ＃日本大学工学部",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QeAt4Tasnx0/default.jpg",
+            "url": "https://i.ytimg.com/vi/9o2wLHnNxPE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QeAt4Tasnx0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9o2wLHnNxPE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QeAt4Tasnx0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9o2wLHnNxPE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/QeAt4Tasnx0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/9o2wLHnNxPE/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -40,7 +40,49 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "QeAt4Tasnx0"
+          "videoId": "9o2wLHnNxPE"
+        },
+        "videoOwnerChannelTitle": "TUFchannel",
+        "videoOwnerChannelId": "UCsci9tL9g8QPOvUwjJeDAgA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GAzCQNdQkSIU5wYE_XTTNrnTisk",
+      "id": "VVVzY2k5dEw5ZzhRUE92VXdqSmVEQWdBLmZWSl9PaHYzWEo4",
+      "snippet": {
+        "publishedAt": "2025-10-15T05:43:03Z",
+        "channelId": "UCsci9tL9g8QPOvUwjJeDAgA",
+        "title": "【映像】伝統の張り子づくり～針道のあばれ山車　福島・二本松市【カメラめせん㊱】",
+        "description": "カメラマンが、福島の今を映像で伝えるシリーズ「カメラめせん」。\n\n今回は、張り子の大きな人形を飾った山車をぶつけ合う、二本松市「針道のあばれ山車」、祭りの主役の制作に密着しました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fVJ_Ohv3XJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fVJ_Ohv3XJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fVJ_Ohv3XJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fVJ_Ohv3XJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "TUFchannel",
+        "playlistId": "UUsci9tL9g8QPOvUwjJeDAgA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fVJ_Ohv3XJ8"
         },
         "videoOwnerChannelTitle": "TUFchannel",
         "videoOwnerChannelId": "UCsci9tL9g8QPOvUwjJeDAgA"

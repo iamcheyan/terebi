@@ -2,40 +2,40 @@
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCCテレビ",
   "original_name": "RCC中国放送",
-  "updated_at": "2025-10-15T00:02:12.065524",
+  "updated_at": "2025-10-16T00:02:17.168114",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "FzIr2Wt4leOMofqrgk5vzRIGpio",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLkNzWjVKektuX2N3",
+      "etag": "PWYYS8T0DAfGtfRWX6wzcSnPSOg",
+      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLmNFTklJZTVndDNZ",
       "snippet": {
-        "publishedAt": "2025-10-14T03:00:12Z",
+        "publishedAt": "2025-10-15T03:00:55Z",
         "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "【広島!中高生ニュース】崇徳高校 グリークラブ【広島の朝は THE TIME, !!】",
-        "description": "【2025年10月14日（火）放送】\nRCCの朝と言えば「THE TIME,」。\nTHE TIME,で放送中のコーナー「広島!中高生ニュース」では広島県内で頑張る中学生や高校生を紹介します。\n今回は広島市西区にある崇徳高校のグリークラブにお邪魔しました。\n\n『THE TIME,』\n■毎週月曜日～金曜日■\n放送時間：あさ5：20～8：00\n司会：安住紳一郎（TBSアナウンサー）\n\n過去の放送分は再生リスト「広島！中高生ニュース」から",
+        "title": "【広島!中高生ニュース】 広島桜が丘高校 エスキーテニス【広島の朝は THE TIME, !!】",
+        "description": "【2025年10月15日（水）放送】\nRCCの朝と言えば「THE TIME,」。\nTHE TIME,で放送中のコーナー「広島!中高生ニュース」では広島県内で頑張る中学生や高校生を紹介します。\n今回は広島市東区にある広島桜が丘高校にお邪魔しました。\n\n『THE TIME,』\n■毎週月曜日～金曜日■\n放送時間：あさ5：20～8：00\n司会：安住紳一郎（TBSアナウンサー）\n\n過去の放送分は再生リスト「広島！中高生ニュース」から",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/CsZ5JzKn_cw/default.jpg",
+            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/CsZ5JzKn_cw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/CsZ5JzKn_cw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/CsZ5JzKn_cw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/CsZ5JzKn_cw/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,54 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "CsZ5JzKn_cw"
-        },
-        "videoOwnerChannelTitle": "RCCテレビ",
-        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "6tLFst_QCQUF8sdI4txTD75QIPQ",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLnpQUVg0NTMzSlJj",
-      "snippet": {
-        "publishedAt": "2025-10-14T02:57:19Z",
-        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "『元就。二百万一心！』 #226　2025年10月11日",
-        "description": "RCCテレビ『広域都市圏 魅力発信　元就。二百万一心！』\nhttps://tv.rcc.jp/kouiki/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zPQX4533JRc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zPQX4533JRc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zPQX4533JRc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/zPQX4533JRc/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/zPQX4533JRc/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "RCCテレビ",
-        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "zPQX4533JRc"
+          "videoId": "cENIIe5gt3Y"
         },
         "videoOwnerChannelTitle": "RCCテレビ",
         "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"

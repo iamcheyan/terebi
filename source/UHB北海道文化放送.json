@@ -2,40 +2,40 @@
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送 公式",
   "original_name": "UHB北海道文化放送",
-  "updated_at": "2025-10-15T00:01:31.750241",
+  "updated_at": "2025-10-16T00:01:43.656571",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "DOO4dzr6eE6JlqtU0u6wMVQClBg",
-      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3LkhEZXNvUEV3VnFB",
+      "etag": "Mn1aQmpcSrQT0ZIHZICK9uNVj4s",
+      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3LlZlcFFRc2NkY1U0",
       "snippet": {
-        "publishedAt": "2025-10-14T10:00:34Z",
+        "publishedAt": "2025-10-15T10:00:58Z",
         "channelId": "UCBJbV6hW2sfcA2ugwKFBmxw",
-        "title": "みんテレ　10月15日（水）放送",
-        "description": "・秋色に染まる…定山渓！札幌近郊の名所めぐり！絶景紅葉＆秋グルメ旅\n・「ラクカジ」は、2025年の鍋トレンド！売れ筋＆新顔を徹底調査\n・インフルエンザ猛威？異例の流行どうなる生解説…ワクチンいつ接種するのがいい？",
+        "title": "みんテレ　10月16日（木）放送",
+        "description": "・「噂の街グルメ」手稲編～愛され続ける洋食名店\"鉄板熱々\"ハンバーグ＆隠れ家スパイスカレー\n・謎の中華ビルに潜入！「隠し扉」の先で…北京ダックと餃子の絶品体験\n・「イカ」豊漁で『ブリ』が激減!? 函館沖の海でいま何が起きている？",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/default.jpg",
+            "url": "https://i.ytimg.com/vi/VepQQscdcU4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VepQQscdcU4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VepQQscdcU4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/VepQQscdcU4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/HDesoPEwVqA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VepQQscdcU4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,101 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "HDesoPEwVqA"
+          "videoId": "VepQQscdcU4"
+        },
+        "videoOwnerChannelTitle": "UHB北海道文化放送 公式",
+        "videoOwnerChannelId": "UCBJbV6hW2sfcA2ugwKFBmxw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fjbp4FMSh2_fL0ASFPtiRegaukc",
+      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3Li1RNDFrV3dWN0R3",
+      "snippet": {
+        "publishedAt": "2025-10-15T02:30:00Z",
+        "channelId": "UCBJbV6hW2sfcA2ugwKFBmxw",
+        "title": "FumuFumu　2025年10月15日放送",
+        "description": "サントリー",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Q41kWwV7Dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Q41kWwV7Dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Q41kWwV7Dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Q41kWwV7Dw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Q41kWwV7Dw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UHB北海道文化放送 公式",
+        "playlistId": "UUBJbV6hW2sfcA2ugwKFBmxw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Q41kWwV7Dw"
+        },
+        "videoOwnerChannelTitle": "UHB北海道文化放送 公式",
+        "videoOwnerChannelId": "UCBJbV6hW2sfcA2ugwKFBmxw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y5bX4Jh0grAvgf-d0i4Cb5CPl00",
+      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3LnVhVVNVaDFBVmpB",
+      "snippet": {
+        "publishedAt": "2025-10-14T00:49:53Z",
+        "channelId": "UCBJbV6hW2sfcA2ugwKFBmxw",
+        "title": "発見！タカトシランド 2025年10月24日（金）OA",
+        "description": "狸小路エリアでお宝店を発見！SP　ゲスト はいだしょうこ・笠松将",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uaUSUh1AVjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uaUSUh1AVjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uaUSUh1AVjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uaUSUh1AVjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uaUSUh1AVjA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UHB北海道文化放送 公式",
+        "playlistId": "UUBJbV6hW2sfcA2ugwKFBmxw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uaUSUh1AVjA"
         },
         "videoOwnerChannelTitle": "UHB北海道文化放送 公式",
         "videoOwnerChannelId": "UCBJbV6hW2sfcA2ugwKFBmxw"

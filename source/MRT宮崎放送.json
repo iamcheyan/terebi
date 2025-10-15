@@ -2,37 +2,42 @@
   "channel_id": "UCET0Zu3i8I0mwh2yDDy6vfQ",
   "channel_name": "ＭＲＴ宮崎放送",
   "original_name": "MRT宮崎放送",
-  "updated_at": "2025-10-14T00:04:10.532734",
+  "updated_at": "2025-10-16T00:04:46.335612",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "RmKhnsoV81q0NRjUSMy6YJ7PuCs",
-      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLjRhczgtSFJNbkRZ",
+      "etag": "UDwWEmVN016C8pWJqMcLdeeuAIk",
+      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLnY0cE5GTzFOcEFv",
       "snippet": {
-        "publishedAt": "2025-10-13T01:00:07Z",
+        "publishedAt": "2025-10-15T01:01:17Z",
         "channelId": "UCET0Zu3i8I0mwh2yDDy6vfQ",
-        "title": "「おしえて！みやざき」10月11日放送",
-        "description": "2025年10月11日放送「新たな魅力満点！えびの高原を満喫しよう」",
+        "title": "「HOME TOWN」2025年10月14日（火）放送",
+        "description": "「HOME TOWN」2025年10月14日（火）放送\n#55 ダイワファーム",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4as8-HRMnDY/default.jpg",
+            "url": "https://i.ytimg.com/vi/v4pNFO1NpAo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4as8-HRMnDY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v4pNFO1NpAo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4as8-HRMnDY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/v4pNFO1NpAo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/4as8-HRMnDY/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/v4pNFO1NpAo/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v4pNFO1NpAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "ＭＲＴ宮崎放送",
@@ -40,54 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "4as8-HRMnDY"
-        },
-        "videoOwnerChannelTitle": "ＭＲＴ宮崎放送",
-        "videoOwnerChannelId": "UCET0Zu3i8I0mwh2yDDy6vfQ"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ZsRqZn3UNMZSZ9mmyzqaxff5HWs",
-      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLi1WYWVMYmgtYmE4",
-      "snippet": {
-        "publishedAt": "2025-10-13T01:00:00Z",
-        "channelId": "UCET0Zu3i8I0mwh2yDDy6vfQ",
-        "title": "「みらい・みやざき まなび隊」10月11日放送",
-        "description": "「みらい・みやざき まなび隊」10月11日放送\n生徒会交流で考えよう！高校生の校則",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-VaeLbh-ba8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-VaeLbh-ba8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-VaeLbh-ba8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-VaeLbh-ba8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-VaeLbh-ba8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "ＭＲＴ宮崎放送",
-        "playlistId": "UUET0Zu3i8I0mwh2yDDy6vfQ",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-VaeLbh-ba8"
+          "videoId": "v4pNFO1NpAo"
         },
         "videoOwnerChannelTitle": "ＭＲＴ宮崎放送",
         "videoOwnerChannelId": "UCET0Zu3i8I0mwh2yDDy6vfQ"

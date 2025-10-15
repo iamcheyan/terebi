@@ -2,35 +2,35 @@
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "khb東日本放送",
   "original_name": "KHB東日本放送",
-  "updated_at": "2025-10-15T00:02:04.025987",
+  "updated_at": "2025-10-16T00:02:10.324577",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "_FAN7WIrxXexXyalJjI21eQhun0",
-      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLmNBQzB1RXdUUXh3",
+      "etag": "Ur8v3plP8jnQWZj6loCqTHJQZaA",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLjdIcTJxUmY4dTRR",
       "snippet": {
-        "publishedAt": "2025-10-14T07:58:17Z",
+        "publishedAt": "2025-10-15T10:02:02Z",
         "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
-        "title": "地域の食文化を知る　こども園でクジラ肉の給食を提供　宮城・石巻市",
-        "description": "地域の食文化に親しんでもらおうと、宮城県石巻市の子ども園でクジラの肉を使った給食が提供されました。\n#宮城　#石巻　#クジラ",
+        "title": "東北６県の道の駅が集結　特産品やご当地グルメを販売　仙台・錦町公園",
+        "description": "東北６県の道の駅の特産品やご当地グルメが楽しめるイベントが、仙台市青葉区の錦町公園で開催さています。\n#宮城　#仙台　#道の駅",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cAC0uEwTQxw/default.jpg",
+            "url": "https://i.ytimg.com/vi/7Hq2qRf8u4Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cAC0uEwTQxw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7Hq2qRf8u4Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cAC0uEwTQxw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7Hq2qRf8u4Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cAC0uEwTQxw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/7Hq2qRf8u4Q/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -40,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "cAC0uEwTQxw"
+          "videoId": "7Hq2qRf8u4Q"
         },
         "videoOwnerChannelTitle": "khb東日本放送",
         "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
@@ -48,31 +48,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Uhze4xDg6EnmpO8Nd3dNQWeyXHM",
-      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLklFQkE2SFAtdFI0",
+      "etag": "FC9mGjLcf3xabrdVTHrDgAFkU0M",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLi04ZW45dlFhNkRr",
       "snippet": {
-        "publishedAt": "2025-10-14T07:55:48Z",
+        "publishedAt": "2025-10-15T09:54:07Z",
         "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
-        "title": "子育て世帯を支援　毎月おむつなどを支給　宮城・岩沼市",
-        "description": "宮城県岩沼市で、赤ちゃんがいる家庭に月に１回おむつなどが無料で届けられる事業が始まりました。\n#宮城　#岩沼　#子育て支援",
+        "title": "火事に見舞われるも多くの支援で再建　仙台・青葉区のイタリア料理店",
+        "description": "４月、突然の火事に見舞われながらも多くの人の支えで再建を果たした、仙台市青葉区のイタリア料理店です。\n#宮城　#仙台　#イタリア料理店",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IEBA6HP-tR4/default.jpg",
+            "url": "https://i.ytimg.com/vi/-8en9vQa6Dk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IEBA6HP-tR4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-8en9vQa6Dk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IEBA6HP-tR4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-8en9vQa6Dk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/IEBA6HP-tR4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-8en9vQa6Dk/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -82,7 +82,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "IEBA6HP-tR4"
+          "videoId": "-8en9vQa6Dk"
         },
         "videoOwnerChannelTitle": "khb東日本放送",
         "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
@@ -90,31 +90,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qTT9Y-FWeHlv4EcaHgQx1M_bYFE",
-      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLjhoc1pzRnAzSUg0",
+      "etag": "UVdTh_TFEs7dm8VA8gVWre0hLD8",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLnQ3UHFKdFRvNWs0",
       "snippet": {
-        "publishedAt": "2025-10-14T07:55:32Z",
+        "publishedAt": "2025-10-15T09:49:15Z",
         "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
-        "title": "ＥＶバス自動運転の実証実験　仙台市が４カ所に増やして実施",
-        "description": "仙台市が進める電気自動車・ＥＶバスの自動運転の実証実験が、青葉山に加え錦ケ丘や秋保などを追加し４つのエリアで行われることになりました。\n#宮城　#仙台　#EVバス",
+        "title": "宮城県知事選挙　各候補の訴え　知事が築く長期政権の在り方",
+        "description": "２６日投票の宮城県知事選挙には、過去最多に並ぶ現職と新人計５人が立候補しています。各候補が最も訴えたいことと、知事が築く長期政権のあり方についてです。\n#宮城　#宮城県知事選",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8hsZsFp3IH4/default.jpg",
+            "url": "https://i.ytimg.com/vi/t7PqJtTo5k4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8hsZsFp3IH4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7PqJtTo5k4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8hsZsFp3IH4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7PqJtTo5k4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/8hsZsFp3IH4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/t7PqJtTo5k4/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -124,7 +124,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "8hsZsFp3IH4"
+          "videoId": "t7PqJtTo5k4"
         },
         "videoOwnerChannelTitle": "khb東日本放送",
         "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
@@ -132,31 +132,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yyvP-mY2HDgAXqiHMtDtmGuHG3A",
-      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLjc2d2ljZlItOXpV",
+      "etag": "9ssdiHLiMgYwIQY_iDUEnKXEj6o",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLmw5RTdHeHNHb2FR",
       "snippet": {
-        "publishedAt": "2025-10-14T07:43:47Z",
+        "publishedAt": "2025-10-15T09:45:59Z",
         "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
-        "title": "相次ぐクマの出没対策　農業高生が放置されたままのカキの実を収穫　宮城・加美町",
-        "description": "クマの人里への出没が相次ぐ中、宮城県加美町では農業高校の生徒がクマを引き寄せる要因とされている放置された柿の実を収穫しました。\n#宮城　#加美　#クマ",
+        "title": "仙台市で人気ゲームアプリ「ドラゴンクエストウォーク」リアルイベントを開催　１１月１日・２日",
+        "description": "人気ゲームアプリ、ドラゴンクエストウォークのリアルイベントが、１１月に仙台市で初めて開催されます。\n#宮城　#仙台　#ドラクエウォーク",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/76wicfR-9zU/default.jpg",
+            "url": "https://i.ytimg.com/vi/l9E7GxsGoaQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/76wicfR-9zU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/l9E7GxsGoaQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/76wicfR-9zU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/l9E7GxsGoaQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/76wicfR-9zU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/l9E7GxsGoaQ/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -166,7 +166,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "76wicfR-9zU"
+          "videoId": "l9E7GxsGoaQ"
         },
         "videoOwnerChannelTitle": "khb東日本放送",
         "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
@@ -174,31 +174,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "9mACHJo1u4trKuBBb7KfD_GNl5o",
-      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLmc4ZUZIRHlPNzNz",
+      "etag": "Ht9IPaVgrQQS7aln8iMFLS6x5j8",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLlV4c1BxdmhsN0Nr",
       "snippet": {
-        "publishedAt": "2025-10-14T02:51:42Z",
+        "publishedAt": "2025-10-15T09:43:34Z",
         "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
-        "title": "ＳＥＮＤＡＩ光のページェントでハンドベルを演奏　子どもたちに新しい衣装",
-        "description": "ＳＥＮＤＡＩ光のページェントの点灯式でハンドベルの演奏を行う子どもたち、ウインターエンジェルスに新しい衣装が贈られました。\n#宮城　#仙台　#光のページェント",
+        "title": "建設中の仙台市役所新庁舎　秋休み中の子どもたちが見学",
+        "description": "秋休み中の子どもたちが建設中の仙台市役所の新庁舎を見学し、地震への備えなどを学びました。\n#宮城　#仙台市役所　#工事",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/g8eFHDyO73s/default.jpg",
+            "url": "https://i.ytimg.com/vi/UxsPqvhl7Ck/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/g8eFHDyO73s/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UxsPqvhl7Ck/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/g8eFHDyO73s/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/UxsPqvhl7Ck/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/g8eFHDyO73s/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/UxsPqvhl7Ck/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -208,7 +208,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "g8eFHDyO73s"
+          "videoId": "UxsPqvhl7Ck"
         },
         "videoOwnerChannelTitle": "khb東日本放送",
         "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
@@ -216,31 +216,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "7-L4-ePY1NuARggNZEfGeFdcfy4",
-      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLjNSeng4WUN4MlN3",
+      "etag": "nZc5TiC7CpX0_wuDjWfrmxBh3Kg",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLkdrSi16V3AtWnJ3",
       "snippet": {
-        "publishedAt": "2025-10-14T02:50:04Z",
+        "publishedAt": "2025-10-15T09:40:40Z",
         "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
-        "title": "宮城県知事選挙　選挙公報を各市町村の選挙管理委員会に発送",
-        "description": "２６日に投票が行われる宮城県知事選挙の選挙公報が、各市町村の選挙管理委員会に発送されました。\n#宮城　#宮城県知事選",
+        "title": "障害者施設で入浴介助を受けた入所者が全身やけどで死亡　当時の職員３人を書類送検　宮城・石巻市",
+        "description": "宮城県石巻市の障害者施設で入浴の介助を受けていた女性が全身にやけどを負い死亡した事故で、警察は当時の職員３人を業務上過失致死の疑いで書類送検しました。\n#宮城　#障害者施設　#業務上過失致死事件",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/3Rzx8YCx2Sw/default.jpg",
+            "url": "https://i.ytimg.com/vi/GkJ-zWp-Zrw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/3Rzx8YCx2Sw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GkJ-zWp-Zrw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/3Rzx8YCx2Sw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GkJ-zWp-Zrw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/3Rzx8YCx2Sw/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/GkJ-zWp-Zrw/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -250,7 +250,175 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "3Rzx8YCx2Sw"
+          "videoId": "GkJ-zWp-Zrw"
+        },
+        "videoOwnerChannelTitle": "khb東日本放送",
+        "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Buqybr4H7sM9GiAzqSwBj62jTtI",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLnFuSzZuSFZCdlVn",
+      "snippet": {
+        "publishedAt": "2025-10-15T09:36:16Z",
+        "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
+        "title": "全国初の緊急銃猟　仙台・太白区の住宅街に出没したクマを猟銃で駆除",
+        "description": "仙台市太白区の住宅街に出没したクマを、仙台市が１５日朝に全国で初めて緊急銃猟により駆除しました。\n#宮城　#クマ　#緊急銃猟",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qnK6nHVBvUg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qnK6nHVBvUg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qnK6nHVBvUg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qnK6nHVBvUg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "khb東日本放送",
+        "playlistId": "UUkW_baVbq6aGPWeYY4hOPCA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qnK6nHVBvUg"
+        },
+        "videoOwnerChannelTitle": "khb東日本放送",
+        "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bOChgjCqjfeBVftYvWcv20L1cvM",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLnc2TEVaR1dGeDZz",
+      "snippet": {
+        "publishedAt": "2025-10-15T07:53:30Z",
+        "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
+        "title": "周遊船で貞山運河を巡る実証事業　沿岸部のにぎわい創出を目指し仙台市が新たな取り組み",
+        "description": "仙台市沿岸部の更なるにぎわい創出を目指し、周遊船に乗って貞山運河を巡る新たな取り組みが始まりました。\n#宮城　#仙台　#貞山運河",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w6LEZGWFx6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w6LEZGWFx6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w6LEZGWFx6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w6LEZGWFx6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "khb東日本放送",
+        "playlistId": "UUkW_baVbq6aGPWeYY4hOPCA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w6LEZGWFx6s"
+        },
+        "videoOwnerChannelTitle": "khb東日本放送",
+        "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vWeU_uaCSvOdFCrnZYKvQAjIW9c",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLmlLV3E4YTNJS0hr",
+      "snippet": {
+        "publishedAt": "2025-10-15T07:51:05Z",
+        "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
+        "title": "宮城県知事選挙　仙台市が東北学院大学に期日前投票所を開設　１６日まで",
+        "description": "２６日に投開票される宮城県知事選挙の期日前投票所が、東北学院大学に開設されました。\n#宮城　#仙台　#宮城県知事選",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iKWq8a3IKHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iKWq8a3IKHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iKWq8a3IKHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iKWq8a3IKHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "khb東日本放送",
+        "playlistId": "UUkW_baVbq6aGPWeYY4hOPCA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iKWq8a3IKHk"
+        },
+        "videoOwnerChannelTitle": "khb東日本放送",
+        "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hf-RyymnG6SlZA8e6ubVbEoABaw",
+      "id": "VVVrV19iYVZicTZhR1BXZVlZNGhPUENBLjBmeFJzMDNObHhN",
+      "snippet": {
+        "publishedAt": "2025-10-15T02:52:14Z",
+        "channelId": "UCkW_baVbq6aGPWeYY4hOPCA",
+        "title": "幻のサトイモ　上伊場野里芋　収穫が最盛期　宮城・大崎市",
+        "description": "宮城県大崎市で３００年以上前から栽培され、幻のサトイモと呼ばれる上伊場野里芋の収穫が最盛期を迎えています。\n#宮城　#大崎　#サトイモ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0fxRs03NlxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0fxRs03NlxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0fxRs03NlxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0fxRs03NlxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "khb東日本放送",
+        "playlistId": "UUkW_baVbq6aGPWeYY4hOPCA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0fxRs03NlxM"
         },
         "videoOwnerChannelTitle": "khb東日本放送",
         "videoOwnerChannelId": "UCkW_baVbq6aGPWeYY4hOPCA"

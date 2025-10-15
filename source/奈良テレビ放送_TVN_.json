@@ -2,40 +2,40 @@
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送",
   "original_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-10-15T00:01:12.964378",
+  "updated_at": "2025-10-16T00:00:51.149076",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "xpYv0A9bCULwgV3XLXhcyvyBJAU",
-      "id": "VVU5RlR0OFNpZ2pCZDJienpIM1FDQ1ZRLkk3MVVLdUlxVW93",
+      "etag": "N-gKVVvPinjGmLD8BGfDAUhYAfQ",
+      "id": "VVU5RlR0OFNpZ2pCZDJienpIM1FDQ1ZRLnI4dzhRMGlRVnRZ",
       "snippet": {
-        "publishedAt": "2025-10-14T07:06:44Z",
+        "publishedAt": "2025-10-15T03:01:08Z",
         "channelId": "UC9FTt8SigjBd2bzzH3QCCVQ",
-        "title": "秋季近畿地区高校野球 県予選決勝",
-        "description": "秋季近畿地区高校野球 県予選決勝が行われ、智辯学園が天理をやぶり２年ぶりの優勝を果たした。\n智辯学園・天理・３位の橿原学院は１０月１８日、さとやくスタジアムで開幕する近畿大会に奈良県代表として出場する。\n春の選抜出場を占う近畿大会での県勢の活躍に期待が高まる。\n\n#高校野球  ##智辯学園センバツ  #天理",
+        "title": "【10月10日（金）放送】いきいきまちだより",
+        "description": "奈良県内の人も県外の人もぜひ、ご覧ください。\n奈良テレビ「ゆうドキッ！」内コーナー、奈良県の各市町村からのお知らせ「いきいきまちだより」YouTube版です！",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/I71UKuIqUow/default.jpg",
+            "url": "https://i.ytimg.com/vi/r8w8Q0iQVtY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/I71UKuIqUow/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/r8w8Q0iQVtY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/I71UKuIqUow/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/r8w8Q0iQVtY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/I71UKuIqUow/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/r8w8Q0iQVtY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/I71UKuIqUow/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/r8w8Q0iQVtY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "I71UKuIqUow"
+          "videoId": "r8w8Q0iQVtY"
         },
         "videoOwnerChannelTitle": "奈良テレビ放送",
         "videoOwnerChannelId": "UC9FTt8SigjBd2bzzH3QCCVQ"

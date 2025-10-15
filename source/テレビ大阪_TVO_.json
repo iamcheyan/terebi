@@ -2,37 +2,42 @@
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "Television Osaka テレビ大阪",
   "original_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-10-14T00:00:09.171409",
+  "updated_at": "2025-10-16T00:00:33.114256",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "-k9iWnE49esjbW7EkAvqMma8Yek",
-      "id": "VVVlT3B5Rkd5WWZocVpEcVplWm1BdTBBLlMyLTQtS1VTa3pR",
+      "etag": "FSP7O0XNh4gLMlDVOAOA9I4IHg4",
+      "id": "VVVlT3B5Rkd5WWZocVpEcVplWm1BdTBBLkg0ZS15Q3N6TGhj",
       "snippet": {
-        "publishedAt": "2025-10-13T03:27:56Z",
+        "publishedAt": "2025-10-15T10:58:09Z",
         "channelId": "UCeOpyFGyYfhqZDqZeZmAu0A",
-        "title": "「Pet博2025大阪 」CM",
-        "description": "2025年11月1日(土)～3日（月祝）インテックス大阪で開催！ペット同伴大歓迎♪楽しいイベントやペットグッズのお店がいっぱい！お買い物やキッチンカーグルメで1日楽しめちゃいます。ペットを飼っている人も飼っていない方も、動物好きならおススメのイベント！「Pet博」前売券は2025年10月31日（金）まで発売です。",
+        "title": "【関西人気アイドル】カラフルスクリーム  / ♪彩叫幸福論【ノーカット】関西で圧倒的な人気と集客力！かわいくて楽しい8人の超絶パフォーマンス！",
+        "description": "2025年9月に開催された「はばたけ！アイドルフェス〜INテレビ大阪YATAIフェス」に出場した人気アイドル全12組の全パフォーマンスを配信！〜新しい推しがきっと見つかります〜\n\n出場アイドル※登場順\n\nカラフルスクリーム \nW.ダブルヴィー\n脳内パステル\nグットクルー\nナナコロビヤオキ\n天女神樂\nすーぱーぷーばぁー!!\nシンセカイヒーロー\nおちゃメンタル☆パーティー\nみらくらんど \nあおぞらをキミに\n宇宙∞プラネクシア",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/S2-4-KUSkzQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/H4e-yCszLhc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/S2-4-KUSkzQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H4e-yCszLhc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/S2-4-KUSkzQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H4e-yCszLhc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/S2-4-KUSkzQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/H4e-yCszLhc/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H4e-yCszLhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Television Osaka テレビ大阪",
@@ -40,7 +45,195 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "S2-4-KUSkzQ"
+          "videoId": "H4e-yCszLhc"
+        },
+        "videoOwnerChannelTitle": "Television Osaka テレビ大阪",
+        "videoOwnerChannelId": "UCeOpyFGyYfhqZDqZeZmAu0A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ysmyURP5WeGWpjByGMPFaHCwCBQ",
+      "id": "VVVlT3B5Rkd5WWZocVpEcVplWm1BdTBBLlhWQkctcVEwbDVz",
+      "snippet": {
+        "publishedAt": "2025-10-15T10:35:58Z",
+        "channelId": "UCeOpyFGyYfhqZDqZeZmAu0A",
+        "title": "【関西人気アイドル】カラフルスクリーム  / ♪FUNKY RIDER【ノーカット】関西で圧倒的な人気と集客力！かわいくて楽しい8人の超絶パフォーマンス！",
+        "description": "2025年9月に開催された「はばたけ！アイドルフェス〜INテレビ大阪YATAIフェス」に出場した人気アイドル全12組の全パフォーマンスを配信！〜新しい推しがきっと見つかります〜\n\n出場アイドル※登場順\n\n・カラフルスクリーム \n・W.ダブルヴィー\n・脳内パステル\n・グットクルー\n・ナナコロビヤオキ\n・天女神樂\n・すーぱーぷーばぁー!!\n・シンセカイヒーロー\n・おちゃメンタル☆パーティー\n・みらくらんど \n・あおぞらをキミに\n・宇宙∞プラネクシア",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XVBG-qQ0l5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XVBG-qQ0l5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XVBG-qQ0l5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XVBG-qQ0l5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XVBG-qQ0l5s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Television Osaka テレビ大阪",
+        "playlistId": "UUeOpyFGyYfhqZDqZeZmAu0A",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XVBG-qQ0l5s"
+        },
+        "videoOwnerChannelTitle": "Television Osaka テレビ大阪",
+        "videoOwnerChannelId": "UCeOpyFGyYfhqZDqZeZmAu0A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZupaxmsqL-RsbqCD3Ys7vjItb0Y",
+      "id": "VVVlT3B5Rkd5WWZocVpEcVplWm1BdTBBLjRDeGlZVk5rYVlj",
+      "snippet": {
+        "publishedAt": "2025-10-15T10:24:55Z",
+        "channelId": "UCeOpyFGyYfhqZDqZeZmAu0A",
+        "title": "【関西人気アイドル】カラフルスクリーム  / ♪感情はラブ！【ノーカット/舞台裏登場シーン付き】関西で圧倒的な人気と集客力！かわいくて楽しい8人の超絶パフォーマンス！",
+        "description": "2025年9月に開催された「はばたけ！アイドルフェス〜INテレビ大阪YATAIフェス」に出場した人気アイドル全12組の全パフォーマンスを配信！〜新しい推しがきっと見つかります〜\n\n出場アイドル※登場順\n\nカラフルスクリーム \nW.ダブルヴィー\n脳内パステル\nグットクルー\nナナコロビヤオキ\n天女神樂\nすーぱーぷーばぁー!!\nシンセカイヒーロー\nおちゃメンタル☆パーティー\nみらくらんど \nあおぞらをキミに\n宇宙∞プラネクシア",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4CxiYVNkaYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4CxiYVNkaYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4CxiYVNkaYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4CxiYVNkaYc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4CxiYVNkaYc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Television Osaka テレビ大阪",
+        "playlistId": "UUeOpyFGyYfhqZDqZeZmAu0A",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4CxiYVNkaYc"
+        },
+        "videoOwnerChannelTitle": "Television Osaka テレビ大阪",
+        "videoOwnerChannelId": "UCeOpyFGyYfhqZDqZeZmAu0A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xaGKCt9rv4yVqdWOsjminy64lVQ",
+      "id": "VVVlT3B5Rkd5WWZocVpEcVplWm1BdTBBLnJTamRwVjBDb2dz",
+      "snippet": {
+        "publishedAt": "2025-10-15T08:58:23Z",
+        "channelId": "UCeOpyFGyYfhqZDqZeZmAu0A",
+        "title": "「UNREAL-不条理雑貨店-」第2話 10/20（月）深夜1:05",
+        "description": "【染谷俊之×小西詠斗 ダブル主演！】\n不思議な雑貨店を訪れたとき、客たちの運命は変わり始める… \n男2人の強い絆と宿命を描いたデイドリーム・ファンタジー\n\n★TVerのお気に入り登録をお忘れなく！ \nhttps://tver.jp/series/srd2076lwj \n\n★オフィシャルグッズ発売中！\nhttps://www.movic.jp/shop/r/r10015901/ \n\n【第2話あらすじ】\n美しく不思議な力を持つ雑貨が並ぶ「UNREAL」。店主のヤギオ（染谷俊之）が近くのカフェ「海桐-TOBIRA-」で働くしっかり者の高校生の宗哉〈ムネチカ〉（小西詠斗）にマッサージしてもらっていると、前店主の黒澤羊時（細貝圭）が現れる。なぜか宗哉の名前を知っている謎の男に対して、ヤギオは毛嫌いしている様子。そして宗哉が店を出ようとした時、市議会議員の赤坂（加藤大騎）とぶつかってしまう。赤坂に絡まれた宗哉を助けつつ、ヤギオは赤坂を店内へと案内する。今度開催される海名月市のサマーフェスティバルに向け、おざなりな身なりを何とかしたい赤坂が目を止めたのは「ヘイズ夫人の手」。赤坂は持ち主を魅力的に見せ、指の数だけ願いを叶えてくれるというこのネクタイピンを購入し、願いを叶えていくが…。\n\n【番組情報】 \n＜放送日時＞2025年10月20日(月・祝)深夜1時5分～\n 〇テレビ大阪　　　毎週月曜 深夜1:05～\n 〇テレビ愛知　　　毎週月曜 深夜1:30～\n 〇BSテレ東　　　   毎週木曜 深夜0:30～\n\n＜番組HP＞https://www.tv-osaka.co.jp/unreal/\n＜公式X＞https://x.com/unreal_tvo\n＜公式Instagram＞https://www.instagram.com/unreal_tvo\n＜公式TikTok＞https://www.tiktok.com/@unreal_tvo  \n\n#アンリアル\n#染谷俊之 　#小西詠斗\n#UNREAL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rSjdpV0Cogs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rSjdpV0Cogs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rSjdpV0Cogs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rSjdpV0Cogs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rSjdpV0Cogs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Television Osaka テレビ大阪",
+        "playlistId": "UUeOpyFGyYfhqZDqZeZmAu0A",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rSjdpV0Cogs"
+        },
+        "videoOwnerChannelTitle": "Television Osaka テレビ大阪",
+        "videoOwnerChannelId": "UCeOpyFGyYfhqZDqZeZmAu0A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BRxdhQrKXXfB5MCVg5nGGBIjO1U",
+      "id": "VVVlT3B5Rkd5WWZocVpEcVplWm1BdTBBLkVTcUxwQktLTWVZ",
+      "snippet": {
+        "publishedAt": "2025-10-15T07:00:10Z",
+        "channelId": "UCeOpyFGyYfhqZDqZeZmAu0A",
+        "title": "【究極の質問】映画の世界に入れるならどっち！？",
+        "description": "【アナウンサーが究極の質問に挑戦！】\n映画の世界に入れるなら、\nハリーポッター？それともスターウォーズ？\n海や草原で対峙するなら、ライオンor サメ？\n\nみなさんはどちらを選びますか～？\n\n#究極の質問#アナウンサー#テレビ大阪",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ESqLpBKKMeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ESqLpBKKMeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ESqLpBKKMeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ESqLpBKKMeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ESqLpBKKMeY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Television Osaka テレビ大阪",
+        "playlistId": "UUeOpyFGyYfhqZDqZeZmAu0A",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ESqLpBKKMeY"
         },
         "videoOwnerChannelTitle": "Television Osaka テレビ大阪",
         "videoOwnerChannelId": "UCeOpyFGyYfhqZDqZeZmAu0A"

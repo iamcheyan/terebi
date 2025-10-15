@@ -2,40 +2,40 @@
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
   "original_name": "OBS大分放送",
-  "updated_at": "2025-10-14T00:02:23.653796",
+  "updated_at": "2025-10-16T00:02:46.913659",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "lXSMrGokR-euANsikTJCCgiaLns",
-      "id": "VVVjdzZXZzJ5VHYtSjgxaHB6UnpWa1F3Li16NTF4b1dFbWs4",
+      "etag": "1XVrkCDW_H3FybMu_vBDesTEVNM",
+      "id": "VVVjdzZXZzJ5VHYtSjgxaHB6UnpWa1F3Lk1LZjRZdVNCVlM0",
       "snippet": {
-        "publishedAt": "2025-10-13T01:00:00Z",
+        "publishedAt": "2025-10-15T06:09:27Z",
         "channelId": "UCcw6Wg2yTv-J81hpzRzVkQw",
-        "title": "OBSラジオ『えとう窓口の、大分がんばる人！』🗓️10/19(日)26(日)16時30分〜　💁‍♀️がんばる人！(ゲスト)湯治ぐらし株式会社 代表取締役社長 菅野 静さん",
+        "title": "第二弾✌️誰にどんなセリフ言ってもらいたい😆⁉️#大分県 #アナウンサー #言ってみたいセリフ",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-z51xoWEmk8/default.jpg",
+            "url": "https://i.ytimg.com/vi/MKf4YuSBVS4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-z51xoWEmk8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKf4YuSBVS4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-z51xoWEmk8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKf4YuSBVS4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/-z51xoWEmk8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKf4YuSBVS4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/-z51xoWEmk8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MKf4YuSBVS4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "-z51xoWEmk8"
+          "videoId": "MKf4YuSBVS4"
+        },
+        "videoOwnerChannelTitle": "OBS大分放送",
+        "videoOwnerChannelId": "UCcw6Wg2yTv-J81hpzRzVkQw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cMPCoOcz_udhtvaRj0LmeoCKbsc",
+      "id": "VVVjdzZXZzJ5VHYtSjgxaHB6UnpWa1F3Lm5kb1RaSWVnWEJJ",
+      "snippet": {
+        "publishedAt": "2025-10-15T04:23:16Z",
+        "channelId": "UCcw6Wg2yTv-J81hpzRzVkQw",
+        "title": "【大分市】手作り総菜まえだ（2025年9月24日放送分）",
+        "description": "山香米にこだわった心温まる料理\n『手作り総菜まえだ』 \n\n🏠住所　\n大分市今津留３丁目７−３０\n\n☎電話番号\n０７０−９０７１−８８７７\n\n⏰営業時間\n11：00～19：00\n※無くなり次第終了\n\n🏖店休日\n日曜日\n\n📷Instagram\nhttps://www.instagram.com/s.maeda87?igsh=YzdkZXJ6aWxtNDdv\n\n※上記掲載内容は番組放送時点の情報になります。最新の情報とは異なる可能性がありますので、予めご了承ください。\n\n#大分市 #お弁当 #総菜\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n📺OBSテレビ\n『おはようナイスキャッチ』\n月～金曜日　あさ9時55分から放送中！\n\n📝番組概要\n2001年に放送を開始した朝の情報番組で、月曜日から金曜日まで大分の話題を毎日お届けします。県内各地のグルメ、イベント、旬の風景など様々な生活情報を中継も交えて日替わりで発信中📡\n\n📲番組HP\nhttps://obs-oita.co.jp/tv/program/nicecatch",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ndoTZIegXBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ndoTZIegXBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ndoTZIegXBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ndoTZIegXBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ndoTZIegXBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBS大分放送",
+        "playlistId": "UUcw6Wg2yTv-J81hpzRzVkQw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ndoTZIegXBI"
         },
         "videoOwnerChannelTitle": "OBS大分放送",
         "videoOwnerChannelId": "UCcw6Wg2yTv-J81hpzRzVkQw"
