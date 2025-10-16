@@ -2,37 +2,42 @@
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFchannel",
   "original_name": "TUFテレビユー福島",
-  "updated_at": "2025-10-16T00:05:07.671730",
+  "updated_at": "2025-10-17T00:04:45.201449",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "nE2dhyzeHbbBlDGmrWG_e0PVeJo",
-      "id": "VVVzY2k5dEw5ZzhRUE92VXdqSmVEQWdBLjlvMndMSG5OeFBF",
+      "etag": "z4j6CpEU2Z4IoIRkP0F7e-MtsaE",
+      "id": "VVVzY2k5dEw5ZzhRUE92VXdqSmVEQWdBLmUxOTJpZDlmZXEw",
       "snippet": {
-        "publishedAt": "2025-10-15T06:08:47Z",
+        "publishedAt": "2025-10-16T08:33:44Z",
         "channelId": "UCsci9tL9g8QPOvUwjJeDAgA",
-        "title": "Dream Journey～夢をつむぐ旅～　#2  日本大学工学部",
-        "description": "既存の橋を長持ちさせるため、砂利化した鉄筋コンクリート床版の補修方法と耐疲労性に関する研究\n\n＃TUF ＃NOK ＃夢 ＃日本大学工学部",
+        "title": "【ふくしまSHOW】『いわき市植田駅周辺』大特集！",
+        "description": "2025年10月22日（水）放送のふくしまSHOWは『いわき市植田駅周辺』大特集！\n\n▽超デカ盛りお造り！\n▽中身が空っぽ！？一味違うクレープとは？\n▽○○が多い！？意外な特色とは？\n\n福島県にいないから見られない！見逃した（汗）という方は無料サービス『Tver』からチェック！\nhttps://tver.jp/series/sro2m95cnv\n\n【SNSもやってます！】\n★番組公式『X』\nhttps://x.com/FukuShow0408\n\n★NEWSDIG\nhttps://newsdig.tbs.co.jp/list/search?fulltext=%E3%81%B5%E3%81%8F%E3%81%97%E3%81%BESHOW\n\n番組公式HPではバックナンバー公開中！\nhttps://www.tuf.co.jp/fukushimashow/\n\n#テレビユー福島 #TUF  #福島県  #ふくしまSHOW",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/9o2wLHnNxPE/default.jpg",
+            "url": "https://i.ytimg.com/vi/e192id9feq0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/9o2wLHnNxPE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e192id9feq0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/9o2wLHnNxPE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/e192id9feq0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/9o2wLHnNxPE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/e192id9feq0/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e192id9feq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "TUFchannel",
@@ -40,49 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "9o2wLHnNxPE"
-        },
-        "videoOwnerChannelTitle": "TUFchannel",
-        "videoOwnerChannelId": "UCsci9tL9g8QPOvUwjJeDAgA"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "GAzCQNdQkSIU5wYE_XTTNrnTisk",
-      "id": "VVVzY2k5dEw5ZzhRUE92VXdqSmVEQWdBLmZWSl9PaHYzWEo4",
-      "snippet": {
-        "publishedAt": "2025-10-15T05:43:03Z",
-        "channelId": "UCsci9tL9g8QPOvUwjJeDAgA",
-        "title": "【映像】伝統の張り子づくり～針道のあばれ山車　福島・二本松市【カメラめせん㊱】",
-        "description": "カメラマンが、福島の今を映像で伝えるシリーズ「カメラめせん」。\n\n今回は、張り子の大きな人形を飾った山車をぶつけ合う、二本松市「針道のあばれ山車」、祭りの主役の制作に密着しました。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/fVJ_Ohv3XJ8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/fVJ_Ohv3XJ8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/fVJ_Ohv3XJ8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/fVJ_Ohv3XJ8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "TUFchannel",
-        "playlistId": "UUsci9tL9g8QPOvUwjJeDAgA",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "fVJ_Ohv3XJ8"
+          "videoId": "e192id9feq0"
         },
         "videoOwnerChannelTitle": "TUFchannel",
         "videoOwnerChannelId": "UCsci9tL9g8QPOvUwjJeDAgA"

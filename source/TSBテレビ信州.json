@@ -2,40 +2,40 @@
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
   "original_name": "TSBテレビ信州",
-  "updated_at": "2025-10-12T00:04:47.985196",
+  "updated_at": "2025-10-17T00:05:09.380832",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "ynA0u57JTRAqI_vqWBVTHU8RXc4",
-      "id": "VVVTRTktNmVSeWlRcVU5N19ndGp2aHZ3LjBfWlRMRTdnd3Rv",
+      "etag": "8xxMB04TedeOlZ_M0eRTlKlQmms",
+      "id": "VVVTRTktNmVSeWlRcVU5N19ndGp2aHZ3LlpUa0hmNUJXcEVZ",
       "snippet": {
-        "publishedAt": "2025-10-08T03:36:04Z",
+        "publishedAt": "2025-10-15T11:59:14Z",
         "channelId": "UCSE9-6eRyiQqU97_gtjvhvw",
-        "title": "TikTokはじめました #テレビ信州  #tiktok",
-        "description": "TikTokもフォローお願いします！\ntsb_official_mychan4\nマイチャン。テレビ信州【公式】",
+        "title": "TikTokはじめました　#テレビ信州",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0_ZTLE7gwto/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZTkHf5BWpEY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0_ZTLE7gwto/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZTkHf5BWpEY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0_ZTLE7gwto/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZTkHf5BWpEY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0_ZTLE7gwto/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZTkHf5BWpEY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0_ZTLE7gwto/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZTkHf5BWpEY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "0_ZTLE7gwto"
+          "videoId": "ZTkHf5BWpEY"
         },
         "videoOwnerChannelTitle": "TSBテレビ信州",
         "videoOwnerChannelId": "UCSE9-6eRyiQqU97_gtjvhvw"
@@ -53,36 +53,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xjx1ejq7XNfX8kZY2sh9_veesTg",
-      "id": "VVVTRTktNmVSeWlRcVU5N19ndGp2aHZ3LmpRTlhNSnZuek1B",
+      "etag": "P7eqF9yfFWXjAKRrgNnmz2fnxjU",
+      "id": "VVVTRTktNmVSeWlRcVU5N19ndGp2aHZ3LkJ1QWlpazVpNW80",
       "snippet": {
-        "publishedAt": "2025-10-06T03:54:28Z",
+        "publishedAt": "2025-10-14T11:04:48Z",
         "channelId": "UCSE9-6eRyiQqU97_gtjvhvw",
-        "title": "TikTokはじめました #テレビ信州  #tiktok",
-        "description": "TikTokもフォローお願いします！\ntsb_official_mychan4\nマイチャン。テレビ信州【公式】",
+        "title": "マイチャン。が踊ってみた！#テレビ信州 #tiktok",
+        "description": "マイチャンが踊ってみた！",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jQNXMJvnzMA/default.jpg",
+            "url": "https://i.ytimg.com/vi/BuAiik5i5o4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jQNXMJvnzMA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BuAiik5i5o4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jQNXMJvnzMA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BuAiik5i5o4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/jQNXMJvnzMA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/BuAiik5i5o4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/jQNXMJvnzMA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BuAiik5i5o4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -92,148 +92,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "jQNXMJvnzMA"
-        },
-        "videoOwnerChannelTitle": "TSBテレビ信州",
-        "videoOwnerChannelId": "UCSE9-6eRyiQqU97_gtjvhvw"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "a4U0X_VIHaZYpZZq35-Ek3xSAi0",
-      "id": "VVVTRTktNmVSeWlRcVU5N19ndGp2aHZ3LjFtX3gtbC1aLVA0",
-      "snippet": {
-        "publishedAt": "2025-10-04T05:49:27Z",
-        "channelId": "UCSE9-6eRyiQqU97_gtjvhvw",
-        "title": "TikTokはじめました #テレビ信州  #tiktok",
-        "description": "TikTokもフォローお願いします！\ntsb_official_mychan4\nマイチャン。テレビ信州【公式】",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/1m_x-l-Z-P4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/1m_x-l-Z-P4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/1m_x-l-Z-P4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/1m_x-l-Z-P4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/1m_x-l-Z-P4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TSBテレビ信州",
-        "playlistId": "UUSE9-6eRyiQqU97_gtjvhvw",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "1m_x-l-Z-P4"
-        },
-        "videoOwnerChannelTitle": "TSBテレビ信州",
-        "videoOwnerChannelId": "UCSE9-6eRyiQqU97_gtjvhvw"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "SrDnyIfneJ0gF6uuotyQeA2lDc4",
-      "id": "VVVTRTktNmVSeWlRcVU5N19ndGp2aHZ3LjlDa3BGdWNHR2sw",
-      "snippet": {
-        "publishedAt": "2025-10-04T02:30:07Z",
-        "channelId": "UCSE9-6eRyiQqU97_gtjvhvw",
-        "title": "ジブンの色をアートで表現【里山ものがたり163話】",
-        "description": "自分のカラーをアートで表現する『ジブンイロ表現キャンプ』\n信州の里山で個性を表現するキャンプが行われました。\n\n#里山 #アート#キャンプ",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9CkpFucGGk0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9CkpFucGGk0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9CkpFucGGk0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9CkpFucGGk0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9CkpFucGGk0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TSBテレビ信州",
-        "playlistId": "UUSE9-6eRyiQqU97_gtjvhvw",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "9CkpFucGGk0"
-        },
-        "videoOwnerChannelTitle": "TSBテレビ信州",
-        "videoOwnerChannelId": "UCSE9-6eRyiQqU97_gtjvhvw"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Rzv4JZQoRLoiqoWzkhHgM0A4--Y",
-      "id": "VVVTRTktNmVSeWlRcVU5N19ndGp2aHZ3LmJQYy1zUENmWUw0",
-      "snippet": {
-        "publishedAt": "2025-10-01T12:21:26Z",
-        "channelId": "UCSE9-6eRyiQqU97_gtjvhvw",
-        "title": "TikTokはじめました #テレビ信州  #tiktok",
-        "description": "TikTokもフォローお願いします！\ntsb_official_mychan4\nマイチャン。テレビ信州【公式】",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bPc-sPCfYL4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bPc-sPCfYL4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bPc-sPCfYL4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/bPc-sPCfYL4/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/bPc-sPCfYL4/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "TSBテレビ信州",
-        "playlistId": "UUSE9-6eRyiQqU97_gtjvhvw",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "bPc-sPCfYL4"
+          "videoId": "BuAiik5i5o4"
         },
         "videoOwnerChannelTitle": "TSBテレビ信州",
         "videoOwnerChannelId": "UCSE9-6eRyiQqU97_gtjvhvw"

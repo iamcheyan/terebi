@@ -2,35 +2,35 @@
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "【公式】OAB大分ニュース",
   "original_name": "OAB大分朝日放送",
-  "updated_at": "2025-10-16T00:03:17.358447",
+  "updated_at": "2025-10-17T00:03:08.907003",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZKq3_rd9jEONvh1LcrA2oKC3nMQ",
-      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLlJyNWZBZ0E1MTIw",
+      "etag": "xuuCv-XdhgK9VCQvQbhAQMYpViU",
+      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLnBFeHNRenYwWF93",
       "snippet": {
-        "publishedAt": "2025-10-15T11:08:52Z",
+        "publishedAt": "2025-10-16T10:30:23Z",
         "channelId": "UCekmK9BsmFY_PujFeV6ryqg",
-        "title": "「今季の流行は早い」　県がインフルエンザ注意を呼びかけ",
-        "description": "インフルエンザの感染が急増しています。寒暖差があるいまの時期は特に注意が必要です。",
+        "title": "大分が被災時は佐賀が支援　南海トラフ地震想定で検討会",
+        "description": "南海トラフ地震の発生に備え、隣県との連携体制を確認する検討会が開かれました。\n\n今年３月に策定された「職員派遣制度アクションプラン」は、南海トラフ地震など大規模災害が起きた際、支援が必要な自治体へ人員を迅速に派遣できるよう整備したものです。\n\n１６日の会議には、総務省や大分県のほか、佐賀県や熊本県の危機管理担当者が出席しました。\n\nこのプランでは、大分県が被災した際に佐賀県が支援を行うことになっており、避難所の運営や被災自治体への助言などを担当します。\n\n検討会では、大分県側から応援職員の受け入れ態勢が説明され、佐賀県側からは熊本地震や能登半島地震での支援内容が紹介されました。\n\n■県防災対策企画課　山口満課長：\n「佐賀県も被害はゼロではないと考える。そんな中で応援をもらえるのはありがたい。発災してすぐに活動できるように内容の検討を進めたい」\n\n一方で情報を集めて国との連絡役にどこがなるかなど課題も見えてきました。\n\n大規模災害発生時の具体的な支援体制を詳しく見ていきます。\n\nフカボリです。\n\n南海トラフ地震の備えについて、１６日に開かれた検討会。\n\n国が定めたアクションプランとは、どんな仕組みなのか解説します。\n\nまず、南海トラフ地震の想定です。発生確率は３０年以内に６０％から９０％。\n\n県内では最大震度６強、津波は佐伯市蒲江で１３．５ｍ。\n\n死者は最大で２万人。避難所生活者は１０万人にのぼると想定されています。\n\nこうした巨大地震に備え、国は今年３月、アクションプランを策定しました。\n\nこれは、災害が発生した際、他県の自治体職員が迅速に被災地へ入り、避難所の運営や情報の収集・伝達を行うというものです。\n\nこの中で大分県は「重点受援県」に位置付けられています。\n\n被害が大きく、支援を受ける可能性が高い県として全国１０県が指定されていて、いずれも太平洋側に集中しています。\n\n地震が発生すると、大分にはまず佐賀県の職員が要請を待たずに派遣されます。\n\n準備が整い次第、当日中にも大分に入る仕組みです。\n\nさらに、被害の状況に応じて福岡、熊本、鹿児島、沖縄、山口からも支援の職員が順次派遣される計画です。\n\nこれらの県は地元の被害を見極めたうえで職員を大分に派遣します。\n\nいずれにしても、私たちは日頃から家庭でできる防災対策を見直しておくことが求められます。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Rr5fAgA5120/default.jpg",
+            "url": "https://i.ytimg.com/vi/pExsQzv0X_w/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Rr5fAgA5120/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pExsQzv0X_w/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Rr5fAgA5120/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pExsQzv0X_w/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Rr5fAgA5120/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/pExsQzv0X_w/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -40,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Rr5fAgA5120"
+          "videoId": "pExsQzv0X_w"
         },
         "videoOwnerChannelTitle": "【公式】OAB大分ニュース",
         "videoOwnerChannelId": "UCekmK9BsmFY_PujFeV6ryqg"
@@ -48,31 +48,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vUGMuOTMpdw6-Py7UNNFLSXXx-A",
-      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLkNuU3pkZTRyWGV3",
+      "etag": "_l43krvERmvZn6s4JV24Bg92cE4",
+      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLlBOb1hrM2NlNkhj",
       "snippet": {
-        "publishedAt": "2025-10-15T11:08:49Z",
+        "publishedAt": "2025-10-16T10:28:38Z",
         "channelId": "UCekmK9BsmFY_PujFeV6ryqg",
-        "title": "老舗遊園地で商談会　全国の旅行会社に大分の魅力",
-        "description": "プレゼンの場所は老舗の遊園地。全国の旅行会社に大分県の魅力をアピールしました。",
+        "title": "「違反建築防止週間」で県内一斉パトロール　違反はゼロ",
+        "description": "国が定める「違反建築防止週間」にあわせて、県内各地の建設現場で一斉パトロールが行われました。\n\n防止週間は、建築基準法の目的や内容への理解を深め、適切な手続きを徹底してもらうことを目的に、毎年１０月１５日から実施されています。\n\nパトロールは県と６つの市が一斉に実施。\n\n別府市では、市の職員や消防などが２班に分かれて、市内１２カ所の現場を確認しました。\n\n建築基準法で定められた掲示物の有無や、建物の位置・間取りが設計図どおりかなどを点検しました。\n\n■別府市都市計画課　下嶋明課長補佐：\n「こういった週間を通じて、建築基準法の手続きがあるんだと、必要な手続きは踏まないといけないんだということを啓発していくことが大事かなと思う」\n\n１６日は１９４カ所を点検した結果、違反建築は確認されませんでした。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/CnSzde4rXew/default.jpg",
+            "url": "https://i.ytimg.com/vi/PNoXk3ce6Hc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/CnSzde4rXew/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PNoXk3ce6Hc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/CnSzde4rXew/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PNoXk3ce6Hc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/CnSzde4rXew/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/PNoXk3ce6Hc/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -82,7 +82,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "CnSzde4rXew"
+          "videoId": "PNoXk3ce6Hc"
         },
         "videoOwnerChannelTitle": "【公式】OAB大分ニュース",
         "videoOwnerChannelId": "UCekmK9BsmFY_PujFeV6ryqg"
@@ -90,31 +90,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "ZGEtShjWEUSNZEHDN4avt56CN_s",
-      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLkpxb3F3Mm5ITHlF",
+      "etag": "T0wEOl1cdT35J_e9Rrr3xmfqmk0",
+      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLjAydlczLXpiXy0w",
       "snippet": {
-        "publishedAt": "2025-10-15T11:08:46Z",
+        "publishedAt": "2025-10-16T10:27:12Z",
         "channelId": "UCekmK9BsmFY_PujFeV6ryqg",
-        "title": "「路面電車の頃から通っています」老舗トキハが創業９０周年",
-        "description": "老舗デパートのトキハが、１５日、創業９０周年を迎えました。記念のイベントが開かれ多くの人が列を作りました。",
+        "title": "「切るのがむずかしいけど楽しい！」園児が稲刈りに挑戦",
+        "description": "実りの秋です。園児たちが稲刈りを体験しました。\n\n大分市の千代町幼稚園の園児３２人が、大分短期大学園芸学科の協力で、初めて稲刈りに挑戦しました。\n\n品種は「なつほのか」で、園児たちは７月に田植えをしていました。\n\nはさみを使って、自分たちで植えた稲を収穫。\n\n稲の硬さやしゃがんでの作業に苦戦しながらも、楽しそうに取り組んでいました。\n\n■園児：\n「楽しかった。切るのが」\n「（難しいのは）切るところ。（稲刈りの点数は）７０点くらい」\n\n収穫した米はおにぎりにして食べるそうです。\n\n幼稚園ではトマトやミカンなどの収穫体験も行い、食の大切さを伝えています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Jqoqw2nHLyE/default.jpg",
+            "url": "https://i.ytimg.com/vi/02vW3-zb_-0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Jqoqw2nHLyE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/02vW3-zb_-0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Jqoqw2nHLyE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/02vW3-zb_-0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Jqoqw2nHLyE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/02vW3-zb_-0/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -124,7 +124,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Jqoqw2nHLyE"
+          "videoId": "02vW3-zb_-0"
         },
         "videoOwnerChannelTitle": "【公式】OAB大分ニュース",
         "videoOwnerChannelId": "UCekmK9BsmFY_PujFeV6ryqg"
@@ -132,31 +132,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "BCftybr0Pqf4dOuRfcK6uy3JI18",
-      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLmxxeUR1UU5GQzRZ",
+      "etag": "1Pd2atUqusDWuuKqaOdZ3o2Fffo",
+      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLlV3MUtSdloxb1Vn",
       "snippet": {
-        "publishedAt": "2025-10-15T11:08:43Z",
+        "publishedAt": "2025-10-16T10:25:52Z",
         "channelId": "UCekmK9BsmFY_PujFeV6ryqg",
-        "title": "“高齢者を守る”冠婚葬祭企業が県警と連携",
-        "description": "大分や福岡で冠婚葬祭事業などを展開する企業が犯罪被害を防ぐため県警と協定を結びました。",
+        "title": "学生無料！大分駅前に誕生　企業とつながるコワーキングスペース",
+        "description": "大分駅前に、新たなコワーキングスペースが誕生しました。「企業と学生がつながる場所」を目指します。\n\nトヨタカローラ大分祝祭の広場の隣にオープンした「ギャラウェイゼロ」。\n\n学生は無料で利用することができます。\n\n■新岡智昭アナウンサー：\n「天井が高くて開放感があります。シックな色合いで落ち着いた空間が広がっています」\n勉強や仕事に使えるスペースのほか、２００インチのモニターとステージも設けられています。\n\n起業などを考える学生を企業や自治体とつなぐコーディネーターも常駐しています。\n\n■トヨタカローラ大分　林新太郎社長：\n「一緒に新しい仕事・事業を大分県に作っていくかたちにつながれば」\n\n運営するトヨタカローラ大分は、「人口減少など社会問題に企業として向き合い、地域創生に貢献したい」としています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/lqyDuQNFC4Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/Uw1KRvZ1oUg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/lqyDuQNFC4Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Uw1KRvZ1oUg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/lqyDuQNFC4Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Uw1KRvZ1oUg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/lqyDuQNFC4Y/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Uw1KRvZ1oUg/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -166,7 +166,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "lqyDuQNFC4Y"
+          "videoId": "Uw1KRvZ1oUg"
         },
         "videoOwnerChannelTitle": "【公式】OAB大分ニュース",
         "videoOwnerChannelId": "UCekmK9BsmFY_PujFeV6ryqg"
@@ -174,31 +174,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "HZFrdjdu_WDlKMV4K9OWFlfo_IU",
-      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLldtZ2pFWU5JSTI4",
+      "etag": "eIj5UkTiC-H2jrXUXpZ1GU5ZfCc",
+      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLkhrNU1tYTN1T1Q0",
       "snippet": {
-        "publishedAt": "2025-10-15T11:08:39Z",
+        "publishedAt": "2025-10-16T10:24:11Z",
         "channelId": "UCekmK9BsmFY_PujFeV6ryqg",
-        "title": "分譲マンションに迫る“２つの老い”",
-        "description": "いま全国の分譲マンションで「２つの老い」と呼ばれる問題が深刻になっています。\nその解決につなげようと大分市でセミナーが開かれました。",
+        "title": "釜めしのふたや下駄が“命を吹き返す”　別府・杉乃井ホテルで再生アート展示",
+        "description": "杉乃井ホテルの大規模リニューアルで出た廃材が、アート作品として生まれ変わりました。\n\n別府温泉・杉乃井ホテルでお披露目されたのは、力強さと自然との共生を象徴する「オオカミ」です。\n\n■小栗アナウンサー：\n「こちらの作品には、捨てられるはずだった釜めしのふたなどが使われています」\n\n２０１９年から続く大規模リニューアルに伴い、閉館した中館や本館の備品の廃棄が課題になっていたことから、この企画が生まれました。\n\n全長３．５メートルのオオカミの全身には、およそ６０年にわたって使われてきた下駄や釜めしのふた、座椅子などが再利用されています。\n\n作品を手掛けたのは、廃材を使って動物を制作する作家・加治聖哉さんです。\n\n■作家　加治聖哉さん：\n「１回見た方があのオオカミに会いたいなと、また来てもらえる存在になればうれしい」\n\n杉乃井ホテルでは、この作品を常時展示し、幅広い世代がアートに触れるきっかけにしたいとしています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WmgjEYNII28/default.jpg",
+            "url": "https://i.ytimg.com/vi/Hk5Mma3uOT4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WmgjEYNII28/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hk5Mma3uOT4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WmgjEYNII28/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hk5Mma3uOT4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/WmgjEYNII28/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Hk5Mma3uOT4/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -208,7 +208,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "WmgjEYNII28"
+          "videoId": "Hk5Mma3uOT4"
         },
         "videoOwnerChannelTitle": "【公式】OAB大分ニュース",
         "videoOwnerChannelId": "UCekmK9BsmFY_PujFeV6ryqg"
@@ -216,31 +216,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5A9n-CYOpS_OQbpovB4n2p3uYP0",
-      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLl9mUUpaYmcxVWpJ",
+      "etag": "UEFiow0VSSfwzkJ2P-_BOOnjGnI",
+      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLkxHQ0lrZmptSnpZ",
       "snippet": {
-        "publishedAt": "2025-10-15T05:06:45Z",
+        "publishedAt": "2025-10-16T10:22:14Z",
         "channelId": "UCekmK9BsmFY_PujFeV6ryqg",
-        "title": "火の粉を浴びて無病息災「ケべス祭」起源不明の奇祭",
-        "description": "火の粉を浴びて無病息災を願う奇祭「ケベス祭」が１４日夜、大分県国東市でありました。\n\n国東市国見町の櫛来社で毎年１０月１４日に開かれている「ケべス祭」\n国の選択無形民俗文化財にも指定されていますが、起源や由来がわかっていないため「奇祭」とも呼ばれています\n祭りは面をつけた「ケべス」が炎に飛び込もうとするのを白装束に身を包んだ「トウバ」が必死に押しとどめる激しい攻防が繰り広げられます。\nクライマックスには「トウバ」が燃え盛るシダを持って火の粉をまき散らしながら境内を走り回ります。\n\n見物客\n「すごい怖かった目が痛い\n「火を持って追いかけるところは他にはないので怖さ半分面白さ半分」\n\n訪れた見物客たちは火の粉を浴びながら１年間の無病息災を願いました。",
+        "title": "軽乗用車と自転車が衝突　自転車の高校生を搬送",
+        "description": "大分市の羽屋交差点付近では、軽乗用車と自転車が衝突する事故がありました。\n\n午後４時４０分ごろ、「人が車の下敷きになって脱出できない」と消防に通報がありました。\n\n自転車に乗っていたのは女子高校生で、車の下敷きになりましたが、目撃した人によりますと、周囲にいた数人が力を合わせて車の下から引き出したということです。\n\n歩道付近を走っていた自転車と、道路に出ようとした車が衝突したとみられています。\n\n高校生のけがの程度は分かっていませんが、意識はあるということです。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_fQJZbg1UjI/default.jpg",
+            "url": "https://i.ytimg.com/vi/LGCIkfjmJzY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_fQJZbg1UjI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LGCIkfjmJzY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_fQJZbg1UjI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LGCIkfjmJzY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/_fQJZbg1UjI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/LGCIkfjmJzY/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -250,7 +250,133 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "_fQJZbg1UjI"
+          "videoId": "LGCIkfjmJzY"
+        },
+        "videoOwnerChannelTitle": "【公式】OAB大分ニュース",
+        "videoOwnerChannelId": "UCekmK9BsmFY_PujFeV6ryqg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4aJQOkx9sqjN6du5M_ByCf0hGTs",
+      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLm9PaFpiSU51ZllJ",
+      "snippet": {
+        "publishedAt": "2025-10-16T10:20:17Z",
+        "channelId": "UCekmK9BsmFY_PujFeV6ryqg",
+        "title": "「波消しブロックで止まる」別大国道で軽トラ転落事故　８０代の男性を搬送",
+        "description": "大分市と別府市を結ぶ国道１０号、通称・別大国道で、軽トラックがフェンスを突き破り転落する事故がありました。\n\n■中野杏美記者：\n「車はフェンスを突き破り、海側に転落し、波消しブロックで止まっています」\n\n警察と消防によりますと、午後２時過ぎ、大分市の別大国道で、草刈りの作業をしていた軽自動車が、停車していた歩道から車道に出ようとしたところ、大分市方面に走ってきた軽トラックと衝突しました。\n\nこの衝撃で軽トラックはフェンスを突き破り、海側に転落。\n\n運転していた８０代の男性が搬送されましたが、意識はあるということです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oOhZbINufYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oOhZbINufYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oOhZbINufYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oOhZbINufYI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "【公式】OAB大分ニュース",
+        "playlistId": "UUekmK9BsmFY_PujFeV6ryqg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oOhZbINufYI"
+        },
+        "videoOwnerChannelTitle": "【公式】OAB大分ニュース",
+        "videoOwnerChannelId": "UCekmK9BsmFY_PujFeV6ryqg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wJxe2VvE_zapPtBoFi-3HcvHTJE",
+      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLndyZmRUMmJXMXdn",
+      "snippet": {
+        "publishedAt": "2025-10-16T03:15:08Z",
+        "channelId": "UCekmK9BsmFY_PujFeV6ryqg",
+        "title": "「福祉避難所」の設置・運営訓練　中津市内７施設が連携して実施",
+        "description": "災害に備えて、中津市内の福祉施設が連携して、福祉避難所の開設や運営を想定した訓練を行いました",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wrfdT2bW1wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wrfdT2bW1wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wrfdT2bW1wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wrfdT2bW1wg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "【公式】OAB大分ニュース",
+        "playlistId": "UUekmK9BsmFY_PujFeV6ryqg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wrfdT2bW1wg"
+        },
+        "videoOwnerChannelTitle": "【公式】OAB大分ニュース",
+        "videoOwnerChannelId": "UCekmK9BsmFY_PujFeV6ryqg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BLAaSlWr9BBxNTJCZMu3Ee_Esgc",
+      "id": "VVVla21LOUJzbUZZX1B1akZlVjZyeXFnLkFfYjg5TFAweDVV",
+      "snippet": {
+        "publishedAt": "2025-10-16T03:13:44Z",
+        "channelId": "UCekmK9BsmFY_PujFeV6ryqg",
+        "title": "非課税世帯の高齢者にエアコン設置費を補助　“猛暑日最多”の日田市",
+        "description": "この夏、全国で最も多く猛暑日を記録した日田市が、来年の暑さに備え、\n高齢者がいる世帯を対象にエアコン設置の支援を始めました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A_b89LP0x5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A_b89LP0x5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A_b89LP0x5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A_b89LP0x5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "【公式】OAB大分ニュース",
+        "playlistId": "UUekmK9BsmFY_PujFeV6ryqg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A_b89LP0x5U"
         },
         "videoOwnerChannelTitle": "【公式】OAB大分ニュース",
         "videoOwnerChannelId": "UCekmK9BsmFY_PujFeV6ryqg"

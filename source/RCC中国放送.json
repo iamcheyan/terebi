@@ -2,40 +2,40 @@
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCCテレビ",
   "original_name": "RCC中国放送",
-  "updated_at": "2025-10-16T00:02:17.168114",
+  "updated_at": "2025-10-17T00:02:12.275248",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "PWYYS8T0DAfGtfRWX6wzcSnPSOg",
-      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLmNFTklJZTVndDNZ",
+      "etag": "HvCuXJ_e_YlYiEmFRzBwEx0XRIM",
+      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLmE4RThHUFJUTnBN",
       "snippet": {
-        "publishedAt": "2025-10-15T03:00:55Z",
+        "publishedAt": "2025-10-16T14:00:03Z",
         "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
-        "title": "【広島!中高生ニュース】 広島桜が丘高校 エスキーテニス【広島の朝は THE TIME, !!】",
-        "description": "【2025年10月15日（水）放送】\nRCCの朝と言えば「THE TIME,」。\nTHE TIME,で放送中のコーナー「広島!中高生ニュース」では広島県内で頑張る中学生や高校生を紹介します。\n今回は広島市東区にある広島桜が丘高校にお邪魔しました。\n\n『THE TIME,』\n■毎週月曜日～金曜日■\n放送時間：あさ5：20～8：00\n司会：安住紳一郎（TBSアナウンサー）\n\n過去の放送分は再生リスト「広島！中高生ニュース」から",
+        "title": "＃4　ミニチュア作家　萩谷幹　後編　＜KURASU 物語がつづく暮らし＞",
+        "description": "過去の時間を大切にすること、暮らしの変化に応えていくこと。 そうした時間の積み重ねから生まれる豊かな暮らし。 日々の生活・仕事から、暮らしへのこだわりを映し出します。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/a8E8GPRTNpM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a8E8GPRTNpM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a8E8GPRTNpM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/a8E8GPRTNpM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/cENIIe5gt3Y/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a8E8GPRTNpM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "cENIIe5gt3Y"
+          "videoId": "a8E8GPRTNpM"
+        },
+        "videoOwnerChannelTitle": "RCCテレビ",
+        "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K_RaID1cngw6YPvpDODSZwzvgcs",
+      "id": "VVVFeEdJZVZMbTZEQmRfZGQ3QUM0TC1BLmsyUzY3UkpSMkJB",
+      "snippet": {
+        "publishedAt": "2025-10-16T12:41:15Z",
+        "channelId": "UCExGIeVLm6DBd_dd7AC4L-A",
+        "title": "＜予告＞情熱サンフレッチェ 10月17日放送",
+        "description": "情熱サンフレッチェ　HP\nhttps://tv.rcc.jp/sanfrecce/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k2S67RJR2BA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k2S67RJR2BA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k2S67RJR2BA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k2S67RJR2BA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k2S67RJR2BA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RCCテレビ",
+        "playlistId": "UUExGIeVLm6DBd_dd7AC4L-A",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k2S67RJR2BA"
         },
         "videoOwnerChannelTitle": "RCCテレビ",
         "videoOwnerChannelId": "UCExGIeVLm6DBd_dd7AC4L-A"

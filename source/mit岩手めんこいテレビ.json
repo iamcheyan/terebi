@@ -2,40 +2,40 @@
   "channel_id": "UCw14eNQAUDqCg-fX3Uvd07w",
   "channel_name": "menkoichannel",
   "original_name": "mit岩手めんこいテレビ",
-  "updated_at": "2025-10-16T00:02:13.512363",
+  "updated_at": "2025-10-17T00:02:08.148388",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "C3-DKd4WesD8KutpgxPOsDRlHCw",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LkxuNEluLUtiQVZj",
+      "etag": "zWgxounSNy0caQf-gbaV25X_qHg",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3Lm0tUlZraHMybE1v",
       "snippet": {
-        "publishedAt": "2025-10-15T13:34:31Z",
+        "publishedAt": "2025-10-16T11:54:32Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "23歳男性がクマに襲われけが　ランニング中に爪で引っかかれる　岩手県宮古市 (25/10/15 12:43)",
-        "description": "10月13日の夜、岩手県宮古市内でランニングをしていた男性がクマに襲われ、けがをしました。命に別条はないということです。\r\n\r\n13日午後8時ごろ、宮古市津軽石の津軽石川の水門の近くで、ランニングをしていた近くに住む23歳の男性がクマに襲われました。\r\n\r\n消防によりますと、男性は背中と左腕を爪で引っかかれるなどのけがをしていて、自力で帰宅した後、家族が呼んだ救急車で病院に運ばれましたが、命に別条はないということです。\r\n\r\n現場は、三陸鉄道の津軽石駅から北東に800ｍほどの国道45号線付近でした。\r\n\r\n警察が周辺の警戒にあたっています。",
+        "title": "JR東日本が活用する生成AIの体験会　企業向けDX推進イベント　岩手県 (25/10/16 20:53)",
+        "description": "DX（デジタルトランスフォーメーション）を岩手県内の企業に推進しようと、JR東日本盛岡支社が、自社で活用する生成AIなどのデジタル技術を体験してもらうイベントを開きました。\r\n\r\n10月16日に盛岡市のキオクシアアイーナで開かれたイベントは、JR東日本盛岡支社が初めて企画したもので、県内企業のDXの担当者などが訪れていました。\r\n\r\nJR東日本盛岡支社は、東京都の企業が開発した生成AIを搭載した「Qast」と呼ばれるシステムを2024年10月から導入していて、社員個人の経験やノウハウを全体で共有することに活用しています。\r\n\r\n16日は「Qast」のブースが設置され、参加者はチャット機能で質問を繰り返しながらAIに回答してもらう作業を体験していました。\r\n\r\n盛岡支社では「Qast」を導入してから、調べものの時間が大幅に短縮し、導入前に比べて超過勤務の時間が45％削減できたということです。\r\n\r\nJR盛岡支社　経営戦略ユニット　安達暁春さん\r\n「今までだと、社内の調べものを誰かに聞かなければならない。その手間がなくなって、とても成果につながっていると思う」\r\n\r\n参加者からは「JRでこういうことやっていると、具体的に見せていただいて、もっとDX化を進めていかなければならないと感じた」といった声が聞かれました。\r\n\r\nこのイベントは17日もキオクシアアイーナで開かれていて、誰でも参加することができます。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ln4In-KbAVc/default.jpg",
+            "url": "https://i.ytimg.com/vi/m-RVkhs2lMo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ln4In-KbAVc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/m-RVkhs2lMo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ln4In-KbAVc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/m-RVkhs2lMo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Ln4In-KbAVc/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/m-RVkhs2lMo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Ln4In-KbAVc/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/m-RVkhs2lMo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Ln4In-KbAVc"
+          "videoId": "m-RVkhs2lMo"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
@@ -53,38 +53,33 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "f3ql3iEdE0tXytSJEqudfcwdOSc",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3Lm9BZFZiM3Fkc0ZV",
+      "etag": "mXLqYQ7PDDeie7OPXM8YpQC6QYU",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LkpsaFdLcktlODZB",
       "snippet": {
-        "publishedAt": "2025-10-15T13:30:37Z",
+        "publishedAt": "2025-10-16T11:30:39Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "パトカー追跡中の車が建物に次々衝突「キー。キュルキュル。ドン」　車を置いて2人逃走　岩手県盛岡市 (25/10/15 21:05)",
-        "description": "10月14日未明、岩手県盛岡市でパトカーから追跡されていた乗用車が、周辺の店舗などに衝突しました。\r\n住民によると、乗用車に乗っていた2人がその場から立ち去っていて、警察が行方を追っています。\r\n\r\n松澤凱斗アナウンサー\r\n「車はこの写真館に突っ込んだ後、あちらのアパートにも突っ込んでいったということです」\r\n\r\n14日午前0時20分ごろ、盛岡市みたけの市道で、巡回中のパトカーから職務質問のために停止を求められた乗用車がそれに応じることなく逃走し、その後、周辺の建物に衝突しました。\r\n\r\n現場近くの住民によりますと、乗用車は写真店の建物に衝突した後、隣のアパートにも衝突して停止し、その後、車に乗っていた2人が現場から立ち去ったということです。\r\n\r\n周辺住民\r\n「キー。キュルキュル。ドンみたいな感じで聞こえた。窓から外を見たときに、2人ほど逃げていく姿を見た」\r\n\r\n現場はＩＧＲ厨川駅から西に約400ｍの店舗や住宅が立ち並ぶ地域です。\r\n\r\n警察は「パトカーでの追跡や捜査は適切に行われていた」としていて、車を置いて立ち去った人物の行方を追っています。",
+        "title": "高校駅伝　一関学院（男子）・花巻東（女子）優勝　師走の都大路へ　岩手県 (25/10/16 20:30)",
+        "description": "師走の都大路を駆け抜ける全国高校駅伝の岩手県予選が10月16日に行われ、男子は一関学院、女子は花巻東が優勝しました。\r\n\r\n全国高校駅伝岩手県予選は16日に花巻市で行われ、男女合わせて25チーム（男子16チーム・女子9チーム）が出場しました。\r\n\r\n42.195kmを7人でつなぐ男子は、一関学院が2時間9分53秒のタイムで、2年連続34回目の優勝を果たしました。\r\n\r\n一方、ハーフマラソン（21.0975kｍ）の距離を5人でつなぐ女子は、花巻東が全員区間トップの力走を見せ、1時間13分13秒のタイムで、4年連続16回目の優勝を決めました。\r\n\r\n2校が出場する全国大会は、12月21日に京都府で行われます。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/oAdVb3qdsFU/default.jpg",
+            "url": "https://i.ytimg.com/vi/JlhWKrKe86A/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/oAdVb3qdsFU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JlhWKrKe86A/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/oAdVb3qdsFU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/JlhWKrKe86A/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/oAdVb3qdsFU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/JlhWKrKe86A/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/oAdVb3qdsFU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "menkoichannel",
@@ -92,7 +87,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "oAdVb3qdsFU"
+          "videoId": "JlhWKrKe86A"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
@@ -100,33 +95,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hPLfxaM2txf6R3GNCaSKMfhyrko",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LktibWE3T3VwSlhF",
+      "etag": "pe2bSPY4xHSFIgL5K9wSWRMmRKA",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LjhVY04xUlVqYUgw",
       "snippet": {
-        "publishedAt": "2025-10-15T12:15:33Z",
+        "publishedAt": "2025-10-16T11:24:49Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "女子児童盗撮の元小学校教諭に有罪判決　懲役2年執行猶予4年　盛岡地裁　岩手県 (25/10/15 21:13)",
-        "description": "勤務先の小学校の女子トイレに侵入し、女子児童を盗撮した罪などに問われた24歳の元教員の裁判で、盛岡地方裁判所（岩手県）は、懲役2年・執行猶予4年の有罪判決を言い渡しました。\r\n\r\n判決を受けたのは、岩手県紫波町内の小学校の元教員・早野広暉被告（24）です。\r\n\r\n判決によりますと、早野被告は2025年5月、勤務先の小学校の女子トイレにある汚物入れにスマートフォンを取りつけ女子児童を盗撮したほか、児童の着替えなどを盗撮した動画を収めたマイクロＳＤカードを所持しました。\r\n\r\n10月15日の判決公判で、盛岡地裁の小坂茂之裁判官は「教諭という立場を悪用した犯行は、厳しく非難されなければならない」と指摘。\r\nその一方で「犯行の重大性を自覚している」などとして早野被告に懲役2年・執行猶予4年の有罪判決を言い渡しました。\r\n\r\n判決後、早野被告の弁護士は「控訴はしない」とコメントしています。",
+        "title": "「もりおか味と工芸展」開催　盛岡市の食と技を一堂に　岩手県 (25/10/16 20:21)",
+        "description": "岩手県盛岡市の食や工芸品を集めた「もりおか味と工芸展」が、10月16日から市内のデパートで開かれています。会場は初日から多くの人でにぎわいました。\r\n\r\n高橋礼子アナウンサー\r\n「16日から始まったもりおか味と工芸展。なかには普段はお店では買えない会場限定の商品もあります」\r\n\r\nくるみだれをたっぷり塗った焼きたてのお茶もちや南部しぼりの鮮やかな着物などが並ぶ「もりおか味と工芸展」。\r\n盛岡市の食や工芸品の魅力を広く知ってもらおうと毎年開かれていて、2025年は盛岡市の事業者を中心に初出店2店舗を含む38店舗が出店しています。\r\n\r\nこのうち盛岡市の老舗菓子店・関口屋菓子舗では大粒の栗を白あんで包んだ蒸しまんじゅうを実演販売しています。\r\n季節限定のこの商品は細かく刻んだ栗を皮にも混ぜていて、この時期ならではの味を楽しめます。\r\n\r\n高橋礼子アナウンサー\r\n「白あんの甘さが控えめな分、ほくほくした栗の甘さが際立ちます。上品な味わいでとってもおいしいです」\r\n\r\nこのほか会場には今が旬のキノコやリンゴなども並んでいました。\r\n\r\n買い物客\r\n「『りすのチョコレートやさん』がすごくかわいくて。ご夫婦二人の手作りでクッキー缶が人気なので買った」\r\n「私16日がお誕生日。娘が『ケーキより和菓子が良いでしょ』って」\r\n\r\n一方、工芸品のコーナーでは糸を紡ぐところから全て手作業のホームスパン製品などが並んでいて、職人の技を体験できるワークショップも行われています。\r\n\r\n「もりおか味と工芸展」は盛岡市のカワトクで10月20日まで開かれています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Kbma7OupJXE/default.jpg",
+            "url": "https://i.ytimg.com/vi/8UcN1RUjaH0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Kbma7OupJXE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8UcN1RUjaH0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Kbma7OupJXE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8UcN1RUjaH0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Kbma7OupJXE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/8UcN1RUjaH0/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8UcN1RUjaH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "menkoichannel",
@@ -134,7 +134,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Kbma7OupJXE"
+          "videoId": "8UcN1RUjaH0"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
@@ -142,33 +142,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "Pwrq-_U8ZrS6dtqG05ayh3-v0uU",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LndINzUzc0Zoa2tF",
+      "etag": "g6Ot7YPvxG6t6kT515JOi4hl984",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LnZhaXc4UnRnZTBv",
       "snippet": {
-        "publishedAt": "2025-10-15T11:53:42Z",
+        "publishedAt": "2025-10-16T11:09:32Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "「40ｔ分貯水」大船渡市綾里地区に防火水槽のタンク設置　地域の消防力強化へ　岩手県 (25/10/15 20:53)",
-        "description": "2025年2月の山林火災で大きな被害を受けた岩手県大船渡市綾里地区の新たな動きです。\r\n消火用の設備が不足していた地域に10月15日、防火水槽のタンクが据え付けられました。\r\n\r\n大船渡市三陸町綾里に15日、トラックで運ばれてきた防火水槽のタンクは、金属製で長さは約9m、40ｔ分貯水できます。\r\n\r\n綾里地区にある八ヶ森トンネル東側の県有地では9月から、防火水槽の工事が行われていて、15日は4m掘られた場所にクレーンを使ってタンクが設置されました。\r\n\r\nこの防火水槽は、盛岡市の小山田工業所と奥州市の大和重機が、大船渡市に無償での設置を申し出て工事を行っています。\r\n\r\n2025年2月の山林火災では、八ヶ森トンネル周辺に水源がなかったことで、消火活動は困難を極めましたが、この防火水槽の設置により、消防車両1台で2時間40分の放水が可能になるということです。\r\n\r\n小山田工業所　小山田浩之社長\r\n「沿岸地区は、初期消火の施設がまだまだ少ない。水利の取れない場所での火災に備えて、防火水槽が役立てば」\r\n\r\n大船渡消防署　志田淳也警防主幹\r\n「山火事もそうだが、トンネルが近いので、車両火災などにも対応できるので、減災防災に有効」\r\n\r\nこの防火水槽は、11月上旬に完成予定で、市では同じ設備を市内の赤崎町にも設置する方針です。",
+        "title": "「アパホテル盛岡駅前」がオープン　インバウンドやビジネスの宿泊需要に対応　岩手県盛岡市 (25/10/16 20:08)",
+        "description": "ＪＲ盛岡駅近くに新たな施設が誕生です。ビジネスやインバウンドの宿泊需要に応えていこうと大手ホテルチェーン「アパホテル」が岩手県盛岡市内で初となるホテルをオープンしました。\r\n\r\n盛岡駅近くにオープンしたのは「アパホテル盛岡駅前」です。\r\n\r\n10月16日はアパグループの元谷一志社長などが出席しセレモニーが開かれ、テープカットをして開業を祝いました。\r\n\r\nＪＲ盛岡駅から徒歩1分の「アパホテル盛岡駅前」は、地上13階建て、261の客室が設けられ、1階には飲食店も入居しています。\r\n\r\nまた客室には今回初めて地震や津波の情報が外国語でテレビモニターに表示されるシステムが導入されました。\r\n\r\nアパグループ　元谷一志社長兼CEO\r\n「安心安全でご宿泊いただくのが大前提。今後も進化するアパホテルを堪能いただきながら観光を楽しんでいただければ」\r\n\r\nアパホテルでは2027年の春にも市内で2カ所目となるホテルを盛岡駅周辺に開業する予定です。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/wH753sFhkkE/default.jpg",
+            "url": "https://i.ytimg.com/vi/vaiw8Rtge0o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/wH753sFhkkE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vaiw8Rtge0o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/wH753sFhkkE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vaiw8Rtge0o/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/wH753sFhkkE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/vaiw8Rtge0o/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vaiw8Rtge0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "menkoichannel",
@@ -176,7 +181,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "wH753sFhkkE"
+          "videoId": "vaiw8Rtge0o"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
@@ -184,38 +189,33 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4ZjDy2dzKAPXPHEgwF-1fuVUFxE",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LmpaeGxPU1hRc2E4",
+      "etag": "AGmyAaFxRpdjPzjQCuHZ92sy-P0",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3Lld2WWlJdGFFTF84",
       "snippet": {
-        "publishedAt": "2025-10-15T10:47:42Z",
+        "publishedAt": "2025-10-16T11:07:28Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "創立60周年でゴルゴ松本さん「命の授業」　自動車販売会社の記念式典に登場　岩手県盛岡市 (25/10/15 19:46)",
-        "description": "全身を使って漢字を表現する芸風で知られる、お笑い芸人のゴルゴ松本さんが、岩手県盛岡市で開かれた自動車販売会社の創立60周年の式典に登場し、人生について熱く語りました。\r\n\r\n10月14日は、自動車販売会社のトーサイが、命名権を持っている盛岡市のトーサイクラシックホール岩手で創業60周年の記念式典を開き、全国の従業員約250人が集まりました。\r\n\r\nこの式典では、お笑い芸人のゴルゴ松本さんによる「命の授業」が行われました。\r\n\r\nゴルゴ松本さんは、10年以上前から全国で講演活動を行っていて、漢字についての知識を織り交ぜながら人生について熱く語っています。\r\n\r\nゴルゴ松本さん\r\n「一生懸命、命を懸けると読みますが、命はイコール心と言葉。命懸けよりまず心をかけなさい」\r\n\r\n14日の講演では「命」のほか、「絆」や「縁」などの漢字を取り上げながら、人のつながりの大切さを伝えていました。\r\n\r\nトーサイ東北営業部　後藤朋浩部長\r\n「話の中で感謝について述べられていましたけれど、感謝の気持ちを持って仕事をしていきたいと改めて思った」\r\n\r\nまた14日は、柏原哲郎社長とともに「祝う」の文字を体で表現するなど会場を盛り上げていました。",
+        "title": "配達灯油2196円／18L　岩手県生協連　4年連続で過去最高値更新 (25/10/16 20:05)",
+        "description": "岩手県生協連は10月16日、18Lあたりの灯油の配達価格を2196円に決めました。\r\nシーズン最初の価格としては4年連続で過去最高値を更新です。\r\n\r\n県生協連は16日、2025年度1回目の灯油委員会を開き、10月20日から11月22日までのシーズン最初の配達価格を協議しました。\r\n\r\n県生協連が毎年この時期に決める配達価格は、ほかの小売業者が価格を決める際の参考にしていることから、冬の灯油価格の指標となっています。\r\n\r\n協議の結果、円安の進行や中東情勢への警戒感などを背景に、配達価格は1Lあたり122円、18Lあたり2196円と、シーズン最初の配達価格としては4年連続で過去最高値を更新しました。\r\n\r\n県生協連　吉田敏恵専務理事\r\n「2000円（台の）灯油が、この4年ずっと続いている。どうしても為替や原油の状態で、そうならざるを得ない」\r\n\r\n県生協連は、今後について「この1カ月間でも、必要に応じて価格を変更する可能性がある」としています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jZxlOSXQsa8/default.jpg",
+            "url": "https://i.ytimg.com/vi/WvYiItaEL_8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jZxlOSXQsa8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WvYiItaEL_8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jZxlOSXQsa8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WvYiItaEL_8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/jZxlOSXQsa8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/WvYiItaEL_8/sddefault.jpg",
             "width": 640,
             "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jZxlOSXQsa8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
         "channelTitle": "menkoichannel",
@@ -223,7 +223,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "jZxlOSXQsa8"
+          "videoId": "WvYiItaEL_8"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
@@ -231,31 +231,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jMJDs_fDQm2AYzqCsrZc6e1RIto",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LjBpWTl0UEFvOURN",
+      "etag": "Yx0YPseILbdk0WIo4MuWMhiQjfI",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3Lm9mcXIxX21zY2gw",
       "snippet": {
-        "publishedAt": "2025-10-15T10:45:40Z",
+        "publishedAt": "2025-10-16T11:05:39Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "県立美術館で「澤田哲郎展」　初公開作品など310点展示　盛岡市出身の画家　岩手県 (25/10/15 19:45)",
-        "description": "岩手県盛岡市出身の画家・澤田哲郎の作品を集めた展覧会が、盛岡市の県立美術館で10月15日から始まりました。\r\n\r\n県立美術館で15日から開かれている「澤田哲郎展」。\r\n会場には、盛岡市出身の画家・澤田哲郎の初公開の作品を含む310点が展示されています。\r\n\r\n10代の頃から絵画の制作に没頭し、生涯で3万枚の絵を描くことを目指していた澤田哲郎。\r\n\r\n時代とともにテーマや画風が変化していったのが特徴で、第二次世界大戦後のシベリア抑留の経験からロシアで暮らす人々を描いたり、晩年は筆と墨を使って、抽象的な絵画を制作するなど常に独自の表現を追及し続けました。\r\n\r\n県立美術館　加藤俊明上席専門学芸員\r\n「生涯に何度も作風が変わっていった人なので、同じ展示室を見ていても『え、これ同じ人が描いたの』と思う。盛岡の地に、澤田哲郎という一人の偉大な作家がいたということを、彼のエネルギッシュな作品を見て感じてほしい」\r\n\r\n澤田哲郎の足跡をたどるこの展覧会は、盛岡市の県立美術館で11月30日まで開かれています。",
+        "title": "「流しの写真屋」渡辺克巳展　東京・新宿を撮影　岩手県盛岡市出身 (25/10/16 20:03)",
+        "description": "東京・新宿を舞台に写真を撮り続けた岩手県盛岡市出身の写真家・渡辺克巳さんの写真展が盛岡市で開かれています。\r\n\r\n県内初開催となる写真家・渡辺克巳さんの写真展。\r\n会場には渡辺さんの作品や愛用のカメラなど約90点が展示されています。\r\n\r\n盛岡市出身の渡辺さんは20歳で上京し「流しの写真屋」として東京・新宿の歓楽街を撮り続けました。\r\n\r\n展示されている作品は人物を撮影したものが中心で、高度経済成長期を懸命に生きていた当時の人々のいきいきとした表情が収められています。\r\n\r\n渡辺克巳写真展実行委員会　紀章さん\r\n「夜の新宿で働く人々に向けられた渡辺克巳さんの温かいまなざしを感じてほしい」\r\n\r\n盛岡市出身の写真家・渡辺克巳さんの写真展は、もりおか町家物語館で11月3日まで開かれています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0iY9tPAo9DM/default.jpg",
+            "url": "https://i.ytimg.com/vi/ofqr1_msch0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0iY9tPAo9DM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ofqr1_msch0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0iY9tPAo9DM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ofqr1_msch0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0iY9tPAo9DM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ofqr1_msch0/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -265,7 +265,7 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "0iY9tPAo9DM"
+          "videoId": "ofqr1_msch0"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
@@ -273,36 +273,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VU7Z7xO4DQT5gPoyl7Qh7ycazkI",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LlZZRXk2SDFRdllF",
+      "etag": "M1uri_dBoKR73lgORdvb1aq20Nc",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3Li1JcVhZd2tQa3l3",
       "snippet": {
-        "publishedAt": "2025-10-15T10:17:38Z",
+        "publishedAt": "2025-10-16T09:46:40Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "「奥州ロマン」収穫が最盛期に　シャキシャキ食感・強い甘みが特徴のリンゴ　岩手県奥州市 (25/10/15 19:16)",
-        "description": "リンゴの生産が盛んな岩手県奥州市の果樹園では、地域の名前を冠した品種「奥州ロマン」の収獲が最盛期を迎えています。\r\n\r\n奥州市江刺にある紅果園では、「奥州ロマン」を1ha分栽培していて、2025年は例年より5日ほど早く、10月11日から収獲を行っています。\r\n\r\n「奥州ロマン」は、シナノゴールドとつがるを掛け合わせた品種で、強い甘みとシャキシャキした食感が特徴のリンゴです。\r\n\r\n紅果園によりますと、2025年の奥州ロマンは、渇水の影響を受け実が小さくなっていて、収量は例年に比べて2割ほど減る見込みですが、例年通り甘くておいしいリンゴに仕上がっているということです。\r\n\r\n紅果園　高野豪さん\r\n「小さめだがとても甘いリンゴができた。その味を楽しんでほしい」\r\n\r\n紅果園では14種類のリンゴを栽培していて、10月下旬に「奥州ロマン」の収獲が終わると、11月から12月にかけては「ふじ」の収獲が行われるということです。",
+        "title": "【速報】露天風呂に血痕、クマの被害か　温泉で従業員行方不明　岩手県北上市＜情報更新＞ (25/10/16 14:46)",
+        "description": "またもクマに襲われたとみられています。\r\n10月16日午前、岩手県北上市和賀町の温泉旅館で、露天風呂を清掃していた60歳の男性従業員が行方不明となり、付近に血痕が見つかりました。\r\n警察がクマによる被害の可能性があるとみて捜索にあたっています。\r\n\r\n増子智絵美記者\r\n「ここから200ｍほど先の温泉でクマに襲われたとみられる男性が行方不明となりました。警察が規制を行い、中に入れないようにしています」\r\n\r\n16日午前11時15分ごろ、北上市和賀町岩崎新田の瀬美温泉で、露天風呂を清掃していた男性の姿が見えず、付近に血痕があると、支配人が警察に通報しました。\r\n\r\n警察によると、清掃は従業員の笹崎勝巳さん（60）が１人で行っていましたが、露天風呂では清掃道具が散乱し、血痕は柵の外へと続いていたということです。\r\n\r\nまた動物の毛も落ちていたことから、警察はクマに襲われた可能性が高いとみて、笹崎さんの捜索にあたっています。\r\n\r\n北上駅から車で約25分の瀬美温泉。露天風呂は建物の西側に位置し川に面しています。\r\n瀬美温泉は当面、営業を休止するということです。\r\n\r\n瀬美温泉を利用予定だった人\r\n「露天風呂が有名なのでよく使っていた。川沿いのお風呂なのでお湯もいいですし景色もいいところだったのでちょっと残念ですね」\r\n\r\n瀬美温泉から西に1.8ｋｍの場所では、10月8日、キノコ採りに出かけてクマに襲われたとみられる男性の遺体が見つかっていて、警察は同一個体の可能性もあるとみて調べることにしています。\r\n\r\n＜16日午後3時43分追記＞\r\n瀬美温泉によると、この事案を受けて正午ごろから営業を停止していて、宿泊客は全員帰っているということです。\r\n\r\n＜16日午後6時40分、以下の新たな情報を記事に追加しました＞\r\n・一報のあとの警察発表で行方不明の男性は60歳であることが判明\r\n・行方不明になっている従業員は笹崎勝巳さんと判明\r\n・露天風呂は建物の西側に位置し川に面している\r\n・現場には動物の毛も落ちていた\r\n・瀬美温泉は当面、営業を休止する\r\n・8日にも同一個体の可能性も1.8ｋｍ離れた場所で遺体発見されていて同一の個体の可能性\r\n\r\n（岩手めんこいテレビ）",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VYEy6H1QvYE/default.jpg",
+            "url": "https://i.ytimg.com/vi/-IqXYwkPkyw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VYEy6H1QvYE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-IqXYwkPkyw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VYEy6H1QvYE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-IqXYwkPkyw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/VYEy6H1QvYE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-IqXYwkPkyw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/VYEy6H1QvYE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-IqXYwkPkyw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -312,7 +312,7 @@
         "position": 6,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "VYEy6H1QvYE"
+          "videoId": "-IqXYwkPkyw"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
@@ -320,33 +320,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "C2PQ01yhwsmRLyfnFXrFyQLR94U",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LmdSY2dMUkhmdjNN",
+      "etag": "bOfMTT__MtUgIE4k1iZELf1xUdk",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LkZCbEVBZTBjT2dj",
       "snippet": {
-        "publishedAt": "2025-10-15T10:15:26Z",
+        "publishedAt": "2025-10-16T07:56:43Z",
         "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "インフルエンザ流行入り　2024年より約1カ月早く　岩手県 (25/10/15 19:15)",
-        "description": "10月12日までの1週間に、県が指定する医療機関で確認されたインフルエンザの新規患者数は、1医療機関あたり1.02人で、前の週を0.73ポイント上回りました。\r\n\r\nこのため県は流行開始の目安の「1」を上回ったとして、15日「流行シーズンに入った」と発表しました。\r\n2024年に比べ約1カ月早い流行入りです。\r\n\r\n保健所別では多い順に、二戸で8.00人、盛岡で1.11人、一関で1.00人などとなっています。\r\n\r\n県によりますと、学校の休業措置は9月以降、15日までに、県内の小学校と中学校であわせて4件確認されています。\r\n\r\n今後さらに感染が拡大する恐れがあるとして、県は手洗いやマスクの着用など感染予防対策の徹底を呼びかけています。\r\n\r\n※盛岡市保健所管内は盛岡市\r\n※県央保健所管内は八幡平市・滝沢市・雫石町・葛巻町・岩手町・紫波町・矢巾町\r\n※奥州保健所管内は奥州市・金ケ崎町\r\n※中部保健所管内は花巻市・遠野市・北上市・西和賀町\r\n※一関保健所管内は一関市・平泉町\r\n※宮古保健所管内は宮古市・山田町・岩泉町・田野畑村\r\n※釜石保健所管内は釜石市・大槌町\r\n※大船渡保健所管内は大船渡市・陸前高田市・住田町\r\n※久慈保健所管内は久慈市・普代村・野田村・洋野町\r\n※二戸保健所管内は二戸市・軽米町・九戸村・一戸町",
+        "title": "【独自】「おかえり　本当に頑張ったね」山田町6歳女児の母　伝えたい娘への言葉　震災14年半で身元判明　岩手県 (25/10/10 20:30)",
+        "description": "2023年に宮城県で発見された遺骨が、東日本大震災で行方不明となった岩手県山田町の女の子のものと判明したニュースの続報です。\r\n女の子の母親が10月9日に岩手めんこいテレビの取材に応じ、「本当におかえり」と娘への思いを語りました。\r\n\r\n捺星さんの母・山根千弓さん（49）\r\n「帰ってくるまで、一人で寂しい思いしながら、いたんだろうなと思うと、本当に『おかえり』って感じ」\r\n\r\n震災当時6歳だった山田町の山根捺星さんです。\r\n宮城県で見つかった遺骨が捺星さんのものと判明したことが、9日に明らかになりました。\r\n\r\n捺星さんの遺骨は、2023年2月に南三陸町にある建設会社が作業中に発見したもので、警察がDNA鑑定などを行った結果、9月に捺星さんの下あごの骨の一部と判明しました。\r\n\r\n捺星さんの母・千弓さんは9日に岩手めんこいテレビの電話取材に応じ、心境を語りました。\r\n\r\n捺星さんの母・山根千弓さん（49）\r\n「うれしい。見つからないって諦めていたので、まさかの連絡でうれしい気持ち」\r\n\r\n捺星さんは震災発生の当日、祖母と2人で自宅に居て、一緒に避難している途中津波に流されました。\r\n\r\n祖母は手を離してしまったことを、14年半ずっと悔やんでいたと言います。\r\n\r\n捺星さんの母・山根千弓さん（49）\r\n「全然、がれきを片付けても見つからないし、まさか宮城県まで行っているというのも、全然想像がつかなかった。（祖母は）手を離してしまったから、心の中で引っかかるものはずっとあったと思う。（身元の判明を）『よかった、よかった』って泣いていた」\r\n\r\n捺星さんは自閉症で、会話が難しいこともあったということですが、千弓さんは娘との思い出は忘れられないと話します。\r\n\r\n捺星さんの母・山根千弓さん（49）\r\n「しゃべれなくても『ママ、ママ』とは言えた。呼ばれたりとか、その時かな。色々いっぱいあるけど、楽しそうに笑っている姿を思い出す」\r\n\r\nQ：帰って来たら捺星さんに何と声をかけますか\r\n捺星さんの母・山根千弓さん（49）\r\n「『捺星、おかえり』ですよね。本当に頑張ったねっていう感じ」\r\n\r\n母の千弓さんは月命日である10月11日に遺骨を引き取る予定でしたが体調を崩したために整い次第、家族で迎えに行くということです。\r\n\r\nまた、自分たちのような行方不明の家族がいる人たちにも思いを届けてほしいと話していました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gRcgLRHfv3M/default.jpg",
+            "url": "https://i.ytimg.com/vi/FBlEAe0cOgc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gRcgLRHfv3M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FBlEAe0cOgc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gRcgLRHfv3M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FBlEAe0cOgc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gRcgLRHfv3M/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/FBlEAe0cOgc/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FBlEAe0cOgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "menkoichannel",
@@ -354,143 +359,7 @@
         "position": 7,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "gRcgLRHfv3M"
-        },
-        "videoOwnerChannelTitle": "menkoichannel",
-        "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "s6_NpV-2kOAtOW0Xkb6pv5lDXWE",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LnBOdmRyNTR2cmJV",
-      "snippet": {
-        "publishedAt": "2025-10-15T03:59:31Z",
-        "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "県遊技業協同組合が4団体に寄付金　防犯・福祉の活動に　岩手県 (25/10/15 12:58)",
-        "description": "岩手県内のパチンコ店が加盟している県遊技業協同組合が10月14日、防犯や福祉のために活動している団体に寄付金を贈りました。\r\n\r\n県遊技業協同組合では、社会貢献活動の一環として、毎年、各店舗が一斉に実施するファン感謝イベントの事業費の一部を県内の団体に寄付しています。\r\n\r\n14日は贈呈式が開かれ、工藤嘉理事長が県社会福祉協議会や県暴力団追放推進センターなど4つの団体に対し、寄付金20万円ずつの目録を手渡しました。\r\n\r\n寄付を受けた団体の代表者は「誰もが安心して暮らせるよう地域のために活用していく」と感謝の言葉を述べました。\r\n\r\n県遊技業協同組合　渡辺浩事務局長\r\n「県民の福祉、そして公益的な部分、安全安心、そういったものに役立てていただきたい」\r\n\r\n寄付は今回が23回目で、県遊技業協同組合では、今後もこの取り組みを続けたいとしています。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/pNvdr54vrbU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/pNvdr54vrbU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/pNvdr54vrbU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/pNvdr54vrbU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "menkoichannel",
-        "playlistId": "UUw14eNQAUDqCg-fX3Uvd07w",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "pNvdr54vrbU"
-        },
-        "videoOwnerChannelTitle": "menkoichannel",
-        "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "2j--8gqyCwkF1RHubKt1g_uRgH4",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LlBlS0R2Q1d2UWsw",
-      "snippet": {
-        "publishedAt": "2025-10-15T02:01:13Z",
-        "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "東北道ドライブにおすすめ！岩手山SAで味わう“主役が安比まいたけ”のきのこ雑炊　新登場のスープカレーも注目　岩手県八幡平市 (25/10/15 11:00)",
-        "description": "秋の行楽シーズンが到来しました。紅葉を楽しみながらのドライブにぴったりなのが、東北自動車道のサービスエリアで味わえる “秋限定メニュー”。岩手県八幡平市にある「岩手山サービスエリア」（上り線）を訪ねました。\r\n\r\n広々としたフードコート「GANJUSAN」では、9月11日から始まった「秋のきのこ合戦2025」が開催中。\r\n主役は、県内産の広葉樹のおがくずなどで育てられた「安比まいたけ」です。\r\n\r\n岩手山サービスエリア事業部長兼エリア総支配人　濱本修さん\r\n「肉厚で味がしっかりしている。東京のレストランの調理師にも人気で、だんだん有名になってきている」\r\n\r\n安比まいたけを使ったきのこ雑炊は、まいたけを2〜3分ほどゆでて食感を保ち、エノキやシメジとともに白だしで仕上げます。\r\nかつお節や昆布の豊潤な香りが広がる雑炊は、まいたけの旨みと絶妙に調和。温泉たまごを添えて、味の変化も楽しめます。\r\n\r\n「まずは安比まいたけだけを味わって、そのあと温泉玉を崩して召しあがっていくと味がまろやかになる」と話す濱本さん。\r\n\r\n優しい味わいの雑炊は、ほっと心もほどける優しい味わいです。\r\n秋のきのこ合戦2025安比まいたけの白だし雑炊は今だけのメニューです。\r\n\r\nもう一つの注目メニューが、10月1日にメニュー入りしたばかりの「スープカレー」です。\r\n岩手のブランド鶏「菜彩鶏」をグリルし、さらにバーナーで香ばしく焼き上げたこだわりの一品です。\r\n\r\n素揚げしたフレッシュな野菜と地元産のほうれん草が彩りを添え、スパイスの効いたスープが食欲をそそります。\r\n\r\n調理師\r\n「スパイスの後味がピリッとくるように、普通のカレーとは違う味付けです」\r\n\r\n大きめにカットした菜彩鶏や野菜の素揚げがゴロゴロと入った具材のボリューム感、ピリッとした辛さがクセになるスープカレーは、寒くなる季節にぴったりの温かメニューです。\r\n\r\n食事の後は、売店「東北旨いもん処」で、「たのはたミルクソフト」に猫型モナカをトッピングした「猫モナカソフト」がおすすめ。\r\n\r\n「私が猫が好きで猫のモナカを探していた。見つけて中にあんこを詰めた」と濱本さん。\r\n\r\n濃厚でクリーミーなソフトクリームと、和テイストの猫モナカが絶妙にマッチ。見た目もかわいらしく、旅の思い出にぴったりのスイーツです。\r\n\r\n秋の味覚を存分に楽しめる岩手山サービスエリア。ドライブの途中に立ち寄って、旬の味と癒しのひとときを過ごしてみてはいかがでしょうか。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/PeKDvCWvQk0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/PeKDvCWvQk0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/PeKDvCWvQk0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/PeKDvCWvQk0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/PeKDvCWvQk0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "menkoichannel",
-        "playlistId": "UUw14eNQAUDqCg-fX3Uvd07w",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "PeKDvCWvQk0"
-        },
-        "videoOwnerChannelTitle": "menkoichannel",
-        "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ZssJrvYq9A8mZhFBZGrDwabFjp0",
-      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3Ljd5ckJ6NFp2WDhJ",
-      "snippet": {
-        "publishedAt": "2025-10-14T20:30:50Z",
-        "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
-        "title": "子育てと仕事両立へ　育児・介護休業法改正　テレワークなど労働者が選択　制度改正を受け支援策の拡充に取り組む企業　岩手県 (25/10/15 05:30)",
-        "description": "10月1日から施行された改正育児・介護休業法についてお伝えします。\r\n育児・介護休業法は男女ともに仕事と育児を両立できるよう2025年4月にも改正されていましたが、10月からはさらに支援策が強化されています。\r\n\r\n岩手労働局雇用環境・均等室の井嶋俊幸室長に話を聞きました。\r\n\r\n岩手労働局　雇用環境・均等室　井嶋俊幸室長\r\n「子どもが3歳になるまで短時間勤務制度を使って働くということで仕事と育児の両立支援を行ってきたが、子どもがある程度大きくなったらフルタイムで働きたいとの声が増えてきたので支援制度を充実させた」\r\n\r\n今回の改正では、企業側に子育て支援策の導入と子どもを育てる労働者に対して個別に意向を確認することが義務化されています。\r\n\r\n岩手労働局　雇用環境・均等室　井嶋俊幸室長\r\n「制度を変えたり労働者とコミュニケーションをとったり、大変なことかと思うが、ぜひともそうした努力をしていただきたい」\r\n\r\n今回企業に義務化されたのは、子育て支援策の導入と労働者に個別の意向確認を行うことの2つです。\r\n\r\nでは、支援策の導入について具体的にどんなことが必要なのかというと…\r\n▼フレックスタイム制など始業時刻の変更▼短時間勤務制度▼休暇の付与▼保育施設の設置運営▼月10日以上のテレワーク\r\n企業にはこれら5つの中から2つ以上を選んで対応することが義務付けられています。\r\n\r\n対象となるのは3歳から小学校入学前の子どもを育てる労働者です。\r\n労働者自身が、企業が実施する支援策のうち1つを選択して利用することができます。\r\n少なくとも2つのうちから自分の環境に適した支援を選べるということになります。\r\n\r\nさらに3歳未満の子を育てる労働者に対しては、3歳の誕生日を迎える前の一定期間に利用可能な制度の内容を個別に説明し、意向を確認することが義務付けられています。\r\n\r\n制度の改正を受けて支援策の拡充に取り組む矢巾町の企業を取材しました。\r\n\r\n矢巾町に本社を置く建設設備業の信幸プロテックでは、制度の改正を受け養育両立支援休暇の付与と短時間勤務制度を選択し実施していますが、以前からテレワークも積極的に取り入れていて社員に対し手厚い支援が行われています。\r\n\r\n10月10日に開かれたオンライン会議に矢巾町内の自宅から参加した社員の佐々木規江さんは、結婚を機に短時間勤務制度を活用していて、働き方を選べるのは安心だと話します。\r\n\r\n佐々木規江さん\r\n「生活の変化、自分の体調の状況とかによって選択できるという働き方・業務の進め方があるのはやっぱり安心。お互いがリモートを使える環境づくりを意識としてつくっていきたい」\r\n\r\nまた10月14日は担当者が社労士と打ち合わせを行い、支援策を拡充させるためにどんなことができるか相談していました。\r\n\r\n村松直子専務取締役\r\n「（条件を）満たしているものもあったが、一切手を付けられていないものもあったので、そういったものに関しては拡充の余地があると考えた。職種とか性別に関わらずここでずっと働けそうだっていう安心感をもって働いてもらいたいし、みんなが利用しやすい制度・環境にしたい」\r\n\r\n制度の改正はたびたびありますが、こうした機会に自分の会社ではどんな取り組みが行われているのか知ることも大切です。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7yrBz4ZvX8I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7yrBz4ZvX8I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7yrBz4ZvX8I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/7yrBz4ZvX8I/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/7yrBz4ZvX8I/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "menkoichannel",
-        "playlistId": "UUw14eNQAUDqCg-fX3Uvd07w",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "7yrBz4ZvX8I"
+          "videoId": "FBlEAe0cOgc"
         },
         "videoOwnerChannelTitle": "menkoichannel",
         "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"

@@ -2,35 +2,35 @@
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "テレビ愛媛【公式】",
   "original_name": "EBCテレビ愛媛",
-  "updated_at": "2025-10-16T00:03:40.279849",
+  "updated_at": "2025-10-17T00:03:27.906265",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "aw1JoMS0q39w0pekDnRP4dOhsXE",
-      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LmlnLWw5Y1ZFbDY0",
+      "etag": "VWDqWhrzkW-6xY-aqfyN4r5SK7k",
+      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LjdQa0NUZ1o2UndB",
       "snippet": {
-        "publishedAt": "2025-10-15T10:39:53Z",
+        "publishedAt": "2025-10-16T10:36:56Z",
         "channelId": "UCSzVAEFIewUsDHFEkcdyw1w",
-        "title": "【サツマイモの日】旬のサツマイモを深掘り🍠",
-        "description": "▼「EBC Live News」HPはこちら\nhttps://www.ebc.co.jp/news/",
+        "title": "【内子町】山里の新米収穫祭は大盛況！",
+        "description": "内子町の御祓（みそぎ）地区で\n新米の収穫祭がありました。\nそこには故郷の風景を残す\n地元の思いがありました。\n\n＃内子町　＃御祓地区　＃新米　＃みそぎの里　＃後継者\n＃移住",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ig-l9cVEl64/default.jpg",
+            "url": "https://i.ytimg.com/vi/7PkCTgZ6RwA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ig-l9cVEl64/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7PkCTgZ6RwA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ig-l9cVEl64/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7PkCTgZ6RwA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ig-l9cVEl64/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/7PkCTgZ6RwA/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -40,7 +40,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ig-l9cVEl64"
+          "videoId": "7PkCTgZ6RwA"
         },
         "videoOwnerChannelTitle": "テレビ愛媛【公式】",
         "videoOwnerChannelId": "UCSzVAEFIewUsDHFEkcdyw1w"
@@ -48,33 +48,38 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "vzHtVYCwIatkwOh5qY3whzlqrbo",
-      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LldCXzM4amJwVXk4",
+      "etag": "gOv0rf86GKyTVrGIUbD1FWyZv5w",
+      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LmV2NHhQd1NfRnpr",
       "snippet": {
-        "publishedAt": "2025-10-15T10:36:52Z",
+        "publishedAt": "2025-10-16T10:32:45Z",
         "channelId": "UCSzVAEFIewUsDHFEkcdyw1w",
-        "title": "【過疎の町は今…】大洲・河辺小で恒例の合同運動会",
-        "description": "過疎化が進む大洲市の河辺地区。\n地元の小学校に通う子供は現在たったの2人です。\nそんな山あいの小学校が１年で一番盛り上がる\n秋の運動会が今年も行われました。",
+        "title": "【昭和１００年】#28 多彩な出し物が魅力の「南予 秋祭り」",
+        "description": "▼「EBC Live News」HPはこちら\nhttps://www.ebc.co.jp/news/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WB_38jbpUy8/default.jpg",
+            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WB_38jbpUy8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WB_38jbpUy8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/WB_38jbpUy8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "テレビ愛媛【公式】",
@@ -82,7 +87,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "WB_38jbpUy8"
+          "videoId": "ev4xPwS_Fzk"
         },
         "videoOwnerChannelTitle": "テレビ愛媛【公式】",
         "videoOwnerChannelId": "UCSzVAEFIewUsDHFEkcdyw1w"
@@ -90,31 +95,31 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q3D7Pj-KiNrlx7_UFTeLSY2pcTM",
-      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LjR0MG52MjZHcThn",
+      "etag": "M8GPcasyuvj0Qvne9Tvj1SNeVI0",
+      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3Li1yOWh0STdiT25B",
       "snippet": {
-        "publishedAt": "2025-10-15T10:32:48Z",
+        "publishedAt": "2025-10-16T10:32:01Z",
         "channelId": "UCSzVAEFIewUsDHFEkcdyw1w",
-        "title": "【芸術の秋】武田双雲さんが語る「書道の魅力」に迫る",
+        "title": "【媛さんぽ】松山市北条で大興奮の秋祭りに密着！",
         "description": "▼「EBC Live News」HPはこちら\nhttps://www.ebc.co.jp/news/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4t0nv26Gq8g/default.jpg",
+            "url": "https://i.ytimg.com/vi/-r9htI7bOnA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4t0nv26Gq8g/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-r9htI7bOnA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4t0nv26Gq8g/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-r9htI7bOnA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/4t0nv26Gq8g/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-r9htI7bOnA/sddefault.jpg",
             "width": 640,
             "height": 480
           }
@@ -124,54 +129,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "4t0nv26Gq8g"
-        },
-        "videoOwnerChannelTitle": "テレビ愛媛【公式】",
-        "videoOwnerChannelId": "UCSzVAEFIewUsDHFEkcdyw1w"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "M5G75rL5e9SOOG7CmNTNdgjfkLY",
-      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LktFMDhXVEE4ZV9r",
-      "snippet": {
-        "publishedAt": "2025-10-15T10:29:26Z",
-        "channelId": "UCSzVAEFIewUsDHFEkcdyw1w",
-        "title": "【ゆ～ばら！】しまなみ海道大島の“ポパイズクラブ”がつくる「オリーブ」",
-        "description": "特集は、内木アナと日本食研 伊藤さんが愛媛県食材を全力応援‼「えひめの食 盛り上げまっぷ」。お目当ての食材はしまなみ海道大島の「オリーブ」。地元住民グループ“ポパイズクラブ”を訪ねます。オリーブについて聞いた後は、二人も収穫をお手伝い。なかなか経験することができない生のオリーブをガブリ‼その味に驚愕します！",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KE08WTA8e_k/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KE08WTA8e_k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KE08WTA8e_k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/KE08WTA8e_k/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/KE08WTA8e_k/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "テレビ愛媛【公式】",
-        "playlistId": "UUSzVAEFIewUsDHFEkcdyw1w",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "KE08WTA8e_k"
+          "videoId": "-r9htI7bOnA"
         },
         "videoOwnerChannelTitle": "テレビ愛媛【公式】",
         "videoOwnerChannelId": "UCSzVAEFIewUsDHFEkcdyw1w"

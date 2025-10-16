@@ -2,40 +2,40 @@
   "channel_id": "UCzeRR8rMI8IkjqGx_MFlUjQ",
   "channel_name": "テレビ金沢NEWS",
   "original_name": "KTKテレビ金沢",
-  "updated_at": "2025-10-16T00:04:21.978842",
+  "updated_at": "2025-10-17T00:04:05.243824",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "mYBAURs1GwAQrX0jbaUpr18Kb78",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLlVPazZsWVVNSVZV",
+      "etag": "KwjmxJC-I31T5JDnHoz2YmOUWDU",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLk5tdkV1MGhiQ1Vv",
       "snippet": {
-        "publishedAt": "2025-10-15T10:26:14Z",
+        "publishedAt": "2025-10-16T10:24:37Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【ニュースまとめ】10月15日放送分 前金沢市長の山野之義氏 石川県知事選出馬の意向固める など",
-        "description": "【2025.10.15 OA】\n00:00 前金沢市長の山野之義氏 来年の石川県知事選出馬の意向固める\n04:51 能登のしんきんと被災事業者がタッグ 名産詰めたギフトボックス販売開始\n08:44 災害復旧の進捗状況を共有 ｢金沢港未来会議｣ 東京で開催\n09:24 国際電話による振り込め詐欺 対策は“国際電話をブロック”金沢で呼び掛け\n10:40 部活をおむすびで応援 石川・星稜高演劇部はプレゼントに笑顔\n11:21 ｢やっぱり家を守りたい｣ 金沢・神明宮で厄除け“あぶりもち神事”始まる\n12:07 北陸の“池坊”華道家の生け花展始まる 407点の力作並ぶ\n13:10 【お天気どうなる】16日 加賀では“激しい雨”能登では“非常に激しい雨”\n\n#能登半島地震 #奥能登豪雨 #テレビ金沢 #ニュース",
+        "title": "【ニュースまとめ】10月16日放送分 前金沢市長の山野之義氏 石川県知事選出馬を正式表明 など",
+        "description": "【2025.10.16 OA】\n00:00 前金沢市長の山野之義氏 石川県知事選出馬を正式表明\n01:32 【記者解説】一気に対決ムードの石川県知事選 注目ポイントは\n04:56 被災地の雇用維持を支援 産業雇用安定助成金 支援期間延長へ\n06:06 賃上げ実施の中小企業にむけた支援制度 石川県が説明会\n06:58 横行する水晶の無断採掘 背景にインターネットでの高値売買\n09:42 能登は16日昼過ぎまで“非常に激しい雨”に　加賀は夕方まで“激しい雨”\n10:44 “科学の楽しさ”能登の子どもたちに 石川・七尾市で大学職員が実験教室\n11:44 【特集】石川の支援学校生徒が手作りカフェ運営 地域交流しながら成長の糧に\n19:10 【お天気どうなる】17日は“貴重な晴れ” 19日からは本格的な秋を感じる気温に\n\n#能登半島地震 #奥能登豪雨 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UOk6lYUMIVU/default.jpg",
+            "url": "https://i.ytimg.com/vi/NmvEu0hbCUo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UOk6lYUMIVU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NmvEu0hbCUo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UOk6lYUMIVU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NmvEu0hbCUo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/UOk6lYUMIVU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/NmvEu0hbCUo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/UOk6lYUMIVU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NmvEu0hbCUo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "UOk6lYUMIVU"
+          "videoId": "NmvEu0hbCUo"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -53,36 +53,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "hWsocMsOTU9-27aCPZs0x84pFEU",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLm94MTU5WDFFUVRB",
+      "etag": "JhblSjfWdfY96NlHsRmEASNzI_k",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLi1QWDlTV0kwenZz",
       "snippet": {
-        "publishedAt": "2025-10-15T10:25:59Z",
+        "publishedAt": "2025-10-16T10:20:51Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【｢やっぱり家を守りたい｣】金沢・神明宮で厄除け“あぶりもち神事”始まる　買い求める人で列 #shorts",
-        "description": "【2025.10.15 OA】\n300年以上続く伝統の厄除け行事「あぶりもち神事」が、金沢市の神明宮で15日から始まりました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/ktfb68c7b14936410f8c5c87e9fbc0ad30\n\n金沢市野町の神明宮で、毎年春と秋に行われる「あぶりもち神事」。\n\n加賀藩二代藩主前田利長が、厄除けのために清めた餅をふるまったことが始まりとされていて、お祓いに使う「御幣」を模した炙り餅は、家に飾れば家内安全、食べれば無病息災とされています。\n\n買い求めた人は：\n「やっぱり家を守りたいので、家族を守りたいので」\n「元気に過ごせるのを祈って、というのと、やっぱりご利益があります」\n「お餅はおいしい、ペロっと食べちゃう」\n「(Q. 次も来ますか？) もちろんです。次、春です」\n\n秋のあぶりもち神事は、17日まで行われます。\n\n#あぶりもち #あぶりもち神事 #厄除け #神明宮 #石川 #テレビ金沢 #ニュース",
+        "title": "【特集】｢心落ち着いた豊かな店に｣　石川の支援学校生徒が手作りカフェ運営　地域交流しながら成長の糧に #shorts",
+        "description": "【2025.10.16 OA】\n接客から調理まで、いしかわ特別支援学校の生徒が一から運営するカフェが定期的に開かれています。地域と交流しながら成長していく生徒の姿を追いました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kt58339e74e4eb4381a6f0fce235a96e7f\n\n「いらっしゃいませ」\n\nここは、いしかわ特別支援学校の新しい校舎の一角。\n\n接客をするのは、軽度の知的障害をもつ高等部の生徒たちです。\n\n高等部の新校舎は、障害の有無に関係なく、共に学ぶインクルーシブ教育の観点から、ことし4月に金沢向陽高校の敷地内に完成。\n\n月に数回、向陽高校の生徒や地域の人を招いて、カフェを開いています。\n\n「あっ、少々。レシート忘れてますよ～」\n「失礼いたしました」\n「お渡ししますね」\n\nコミュニケーションを取るのが苦手だったり、言葉の理解につまづくこともありますが、地域と交流しながら一歩一歩、学んでいく生徒たちの挑戦です。\n\nカフェの運営の中心メンバーとなるのは、一般企業への就労を目指すビルクリーニング班の生徒たち。\n\n普段は、校内の清掃をメインに、学習をしています。\n\n2年生の中井太陽さん。\n\nいしかわ特別支援学校高等部2年・中井 太陽 さん：\n「新校舎が建ってから、建てば建つほど清掃しますし、無理なところは飛ばしてやってました」\n\nカフェ本番まで、あと5日。\n\n「作業内容の確認をします。チラシ作成… 商品準備」\n\n最終準備を行う生徒たち。\n\n太陽さんは、みんなをまとめるリーダーを務めます。\n\nというのも…\n\nいしかわ特別支援学校の先生：\n「来週のカフェ、みんないますか。3年生いないですね」\n\n本番では、これまで中心となってきた3年生たちが校外学習で不在に。\n\n太陽さんら2年生が、はじめてカフェの運営を取り仕切ることになったのです。\n\n高等部3年生：\n「インスタグラムの文章をもらいました。考えてきてくれたので」\n「『絆花カフェを開きます。ぜひお越しください』みたいな文章いただきました」\n\nチラシの作成から材料の仕入れまで、カフェは毎回、生徒たちが一から準備します。\n\nいしかわ特別支援学校高等部1年・吉川 颯真 さん：\n「大変です。リンゴジュースを入れるところを頑張りたいです」\n\nそして迎えた、カフェ本番。\n\n担当する役割は、その日に先生の指示で決まります。\n\n「注文を安井さんが取ります。レジを中井さんにやってもらう」\n\n太陽さんが担当するのは、初めて挑戦するレジ係。\n\nお金を扱う重要なポジションを任せられ、直前まで練習を重ねます。\n\nいしかわ特別支援学校高等部2年・中井 太陽 さん：\n「練習通りに、うまくいけばいいんですけどね」\n\nそして午前10時半。\n\n「じゃあ、オープンします」\n「いらっしゃいませ！」\n\nオープンと同時に、続々とお客さんが訪れます。\n\n「アイスコーヒー4杯で、520円になります」\n\n大勢のお客さんに戸惑いながらも、慎重に金額を確認し、ここまで順調にこなせています。\n\n「ありがとうございました」\n「いらっしゃいませ！」\n\n一方、ホール係は、大勢のお客さんの対応に追われていました。\n\n「3番のお客さま～」\n\n積極的に声をかけますが、注文した人を見つけられず、立ち止まってしまいます。\n\n来店客：\n「3番は？3番はお菓子のとこ」\n\nお客さんや先生と協力して、なんとか届けることができました。\n\n\n\n来店客：\n「生徒さんたちも頑張っているしね」\n「毎回来ています」\n\nオープンから1時間。\n\nレジ係の太陽さん。自ら反省点を見つけたそうで…\n\nいしかわ特別支援学校2年・中井 太陽 さん：\n「問題はお釣りの渡し方。ばあってやるのがダメでした」\n\nそれは、つり銭の渡し方について。\n\n次のお客さんには、丁寧な渡し方をしようと反省していました。\n\n「お釣りとレシートです」\n\n自分で気づき、着実に成長しています。\n\nそして学校は、昼休みの時間に。\n\n「注文どうする？」\n「とりあえずは、ブラックのコーヒーでいいや」\n「琉葵もえらいね、仕事頑張ってて」\n\n学校に隣接する、金沢向陽高校の生徒たちです。\n\n金沢向陽高校の生徒：\n「いつも仲良くしてるし、なんかそういう障害とかを感じないぐらい頑張ってるのを見て、すごいと思う」\n\n誰もがつながれる場所に…\n\nそんな思いがこもったこのカフェには、優しい時間が流れていきます。\n\nいしかわ特別支援学校高等部2年・中井 太陽 さん：\n「サクサクっと、レジに慣れていきました。心の落ち着きですかね。今までバーって、ガーってやってました。(次は)心落ち着いた豊かな店にする」\n\n3年生がいなくても、自分でできることを見つけた日。\n\n周囲の助けを借りながら小さな挑戦を積み重ね、生徒たちはこれからも一歩ずつ、着実に成長していきます。\n\n#特別支援学校 #支援学校 #カフェ #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ox159X1EQTA/default.jpg",
+            "url": "https://i.ytimg.com/vi/-PX9SWI0zvs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ox159X1EQTA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-PX9SWI0zvs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ox159X1EQTA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-PX9SWI0zvs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/ox159X1EQTA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-PX9SWI0zvs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/ox159X1EQTA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-PX9SWI0zvs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -92,7 +92,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ox159X1EQTA"
+          "videoId": "-PX9SWI0zvs"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -100,36 +100,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "xovMKwr-YQ91eX6YF9d4xmF-ilA",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLlJIcUZMUTU4WTFv",
+      "etag": "IPnEU6JeDeyyChFMGNs0Qv0dyL8",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLjJHQ1JZZzdnWERZ",
       "snippet": {
-        "publishedAt": "2025-10-15T10:25:07Z",
+        "publishedAt": "2025-10-16T10:18:23Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【部活を“おむすびで応援”】大谷翔平選手の背番号ちなみ全国17校選出　石川・星稜高演劇部はプレゼントに笑顔 #shorts",
-        "description": "【2025.10.15 OA】\n子どもたちに笑顔を届けます。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/kte8916d7e68424c71b29455769af00080\n\n15日、星稜高校演劇部に届けられたのは…\n\n「やばっ！」\n\nバラエティに富んだおむすびです。\n\n部活動に励む子どもたちを応援しようと、コンビニ大手「ファミリーマート」が、おむすびを届けるこのプロジェクト。\n\n対象となったのは、おむすびアンバサダーを務める大谷翔平選手の背番号にちなみ、全国で17校だけ。\n\nその1校に選ばれた部員たちには、大谷選手からのメッセージも披露され、笑顔があふれていました。\n\n#大谷翔平 #ファミリーマート #おむすび #おにぎり #部活動 #星稜高校 #石川 #テレビ金沢 #ニュース",
+        "title": "【特集】｢心落ち着いた豊かな店に｣　石川の支援学校生徒が手作りカフェ運営　地域交流しながら成長の糧に",
+        "description": "【2025.10.16 OA】\n接客から調理まで、いしかわ特別支援学校の生徒が一から運営するカフェが定期的に開かれています。地域と交流しながら成長していく生徒の姿を追いました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kt58339e74e4eb4381a6f0fce235a96e7f\n\n「いらっしゃいませ」\n\nここは、いしかわ特別支援学校の新しい校舎の一角。\n\n接客をするのは、軽度の知的障害をもつ高等部の生徒たちです。\n\n高等部の新校舎は、障害の有無に関係なく、共に学ぶインクルーシブ教育の観点から、ことし4月に金沢向陽高校の敷地内に完成。\n\n月に数回、向陽高校の生徒や地域の人を招いて、カフェを開いています。\n\n「あっ、少々。レシート忘れてますよ～」\n「失礼いたしました」\n「お渡ししますね」\n\nコミュニケーションを取るのが苦手だったり、言葉の理解につまづくこともありますが、地域と交流しながら一歩一歩、学んでいく生徒たちの挑戦です。\n\nカフェの運営の中心メンバーとなるのは、一般企業への就労を目指すビルクリーニング班の生徒たち。\n\n普段は、校内の清掃をメインに、学習をしています。\n\n2年生の中井太陽さん。\n\nいしかわ特別支援学校高等部2年・中井 太陽 さん：\n「新校舎が建ってから、建てば建つほど清掃しますし、無理なところは飛ばしてやってました」\n\nカフェ本番まで、あと5日。\n\n「作業内容の確認をします。チラシ作成… 商品準備」\n\n最終準備を行う生徒たち。\n\n太陽さんは、みんなをまとめるリーダーを務めます。\n\nというのも…\n\nいしかわ特別支援学校の先生：\n「来週のカフェ、みんないますか。3年生いないですね」\n\n本番では、これまで中心となってきた3年生たちが校外学習で不在に。\n\n太陽さんら2年生が、はじめてカフェの運営を取り仕切ることになったのです。\n\n高等部3年生：\n「インスタグラムの文章をもらいました。考えてきてくれたので」\n「『絆花カフェを開きます。ぜひお越しください』みたいな文章いただきました」\n\nチラシの作成から材料の仕入れまで、カフェは毎回、生徒たちが一から準備します。\n\nいしかわ特別支援学校高等部1年・吉川 颯真 さん：\n「大変です。リンゴジュースを入れるところを頑張りたいです」\n\nそして迎えた、カフェ本番。\n\n担当する役割は、その日に先生の指示で決まります。\n\n「注文を安井さんが取ります。レジを中井さんにやってもらう」\n\n太陽さんが担当するのは、初めて挑戦するレジ係。\n\nお金を扱う重要なポジションを任せられ、直前まで練習を重ねます。\n\nいしかわ特別支援学校高等部2年・中井 太陽 さん：\n「練習通りに、うまくいけばいいんですけどね」\n\nそして午前10時半。\n\n「じゃあ、オープンします」\n「いらっしゃいませ！」\n\nオープンと同時に、続々とお客さんが訪れます。\n\n「アイスコーヒー4杯で、520円になります」\n\n大勢のお客さんに戸惑いながらも、慎重に金額を確認し、ここまで順調にこなせています。\n\n「ありがとうございました」\n「いらっしゃいませ！」\n\n一方、ホール係は、大勢のお客さんの対応に追われていました。\n\n「3番のお客さま～」\n\n積極的に声をかけますが、注文した人を見つけられず、立ち止まってしまいます。\n\n来店客：\n「3番は？3番はお菓子のとこ」\n\nお客さんや先生と協力して、なんとか届けることができました。\n\n\n\n来店客：\n「生徒さんたちも頑張っているしね」\n「毎回来ています」\n\nオープンから1時間。\n\nレジ係の太陽さん。自ら反省点を見つけたそうで…\n\nいしかわ特別支援学校2年・中井 太陽 さん：\n「問題はお釣りの渡し方。ばあってやるのがダメでした」\n\nそれは、つり銭の渡し方について。\n\n次のお客さんには、丁寧な渡し方をしようと反省していました。\n\n「お釣りとレシートです」\n\n自分で気づき、着実に成長しています。\n\nそして学校は、昼休みの時間に。\n\n「注文どうする？」\n「とりあえずは、ブラックのコーヒーでいいや」\n「琉葵もえらいね、仕事頑張ってて」\n\n学校に隣接する、金沢向陽高校の生徒たちです。\n\n金沢向陽高校の生徒：\n「いつも仲良くしてるし、なんかそういう障害とかを感じないぐらい頑張ってるのを見て、すごいと思う」\n\n誰もがつながれる場所に…\n\nそんな思いがこもったこのカフェには、優しい時間が流れていきます。\n\nいしかわ特別支援学校高等部2年・中井 太陽 さん：\n「サクサクっと、レジに慣れていきました。心の落ち着きですかね。今までバーって、ガーってやってました。(次は)心落ち着いた豊かな店にする」\n\n3年生がいなくても、自分でできることを見つけた日。\n\n周囲の助けを借りながら小さな挑戦を積み重ね、生徒たちはこれからも一歩ずつ、着実に成長していきます。\n\n#特別支援学校 #支援学校 #カフェ #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RHqFLQ58Y1o/default.jpg",
+            "url": "https://i.ytimg.com/vi/2GCRYg7gXDY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RHqFLQ58Y1o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2GCRYg7gXDY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RHqFLQ58Y1o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2GCRYg7gXDY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RHqFLQ58Y1o/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/2GCRYg7gXDY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RHqFLQ58Y1o/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2GCRYg7gXDY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -139,7 +139,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "RHqFLQ58Y1o"
+          "videoId": "2GCRYg7gXDY"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -147,36 +147,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "3_9eW5VbfGTzAqNJk9dHkauLMbI",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLlc5Yk5Wa2ZINE04",
+      "etag": "xZmk0ndIu8DOu2XjxhmkdLaJMbw",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLk5UTGtlcGxsaENJ",
       "snippet": {
-        "publishedAt": "2025-10-15T10:21:12Z",
+        "publishedAt": "2025-10-16T10:08:13Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【部活を“おむすびで応援”】大谷翔平選手の背番号ちなみ全国17校選出　石川・星稜高演劇部はプレゼントに笑顔",
-        "description": "【2025.10.15 OA】\n子どもたちに笑顔を届けます。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/kte8916d7e68424c71b29455769af00080\n\n15日、星稜高校演劇部に届けられたのは…\n\n「やばっ！」\n\nバラエティに富んだおむすびです。\n\n部活動に励む子どもたちを応援しようと、コンビニ大手「ファミリーマート」が、おむすびを届けるこのプロジェクト。\n\n対象となったのは、おむすびアンバサダーを務める大谷翔平選手の背番号にちなみ、全国で17校だけ。\n\nその1校に選ばれた部員たちには、大谷選手からのメッセージも披露され、笑顔があふれていました。\n\n#大谷翔平 #ファミリーマート #おむすび #おにぎり #部活動 #星稜高校 #石川 #テレビ金沢 #ニュース",
+        "title": "【“雇う側は苦しく”】最低賃金引き上げ　賃上げ実施の中小企業にむけた支援制度　石川県が説明会 #shorts",
+        "description": "【2025.10.16 OA】\n最低賃金の引き上げに伴い、賃上げを実施する中小企業へ向けた、石川県の支援制度の説明会が行われました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kta9e800c4df2141589ee82808d97b44d7\n\n石川県は、生産性向上へむけたシステムを導入する中小企業などに、最大100万円を補助する他、被災した小規模事業者に対しては、賃上げした人数1人あたり5万円、最大50万円の支援を行うなど、2つの支援策を実施します。\n\n16日は、商工会の担当者らが、石川県から説明を受けました。\n\n参加者：\n「おしなべて全般の賃金の押し上げに、つながっているわけなんですね。そういうところで企業の場合は、その財源をどこから持ってくるか、いわゆるどうしようもない状況にある」\n\n石川県の担当者：\n［事業者の皆さまが、より理解を深めていただいて、1社でも多くご利用いただきたいと」\n\n事業者からの申請受付は、17日から行われるということです。\n\n#最低賃金 #支援制度 #支援策 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/W9bNVkfH4M8/default.jpg",
+            "url": "https://i.ytimg.com/vi/NTLkepllhCI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/W9bNVkfH4M8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NTLkepllhCI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/W9bNVkfH4M8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NTLkepllhCI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/W9bNVkfH4M8/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/NTLkepllhCI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/W9bNVkfH4M8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NTLkepllhCI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -186,7 +186,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "W9bNVkfH4M8"
+          "videoId": "NTLkepllhCI"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -194,36 +194,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "yLT_V69MaoZcT32IwvEFK38hpCc",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLk1BVGd6cy1zMkdB",
+      "etag": "RmTOachFvFLpgC3po_hSD5jqmss",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLjFjNnVGWHFVMW00",
       "snippet": {
-        "publishedAt": "2025-10-15T10:18:11Z",
+        "publishedAt": "2025-10-16T10:08:11Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【｢やっぱり家を守りたい｣】金沢・神明宮で厄除け“あぶりもち神事”始まる　買い求める人で列",
-        "description": "【2025.10.15 OA】\n300年以上続く伝統の厄除け行事「あぶりもち神事」が、金沢市の神明宮で15日から始まりました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/ktfb68c7b14936410f8c5c87e9fbc0ad30\n\n金沢市野町の神明宮で、毎年春と秋に行われる「あぶりもち神事」。\n\n加賀藩二代藩主前田利長が、厄除けのために清めた餅をふるまったことが始まりとされていて、お祓いに使う「御幣」を模した炙り餅は、家に飾れば家内安全、食べれば無病息災とされています。\n\n買い求めた人は：\n「やっぱり家を守りたいので、家族を守りたいので」\n「元気に過ごせるのを祈って、というのと、やっぱりご利益があります」\n「お餅はおいしい、ペロっと食べちゃう」\n「(Q. 次も来ますか？) もちろんです。次、春です」\n\n秋のあぶりもち神事は、17日まで行われます。\n\n#あぶりもち #あぶりもち神事 #厄除け #神明宮 #石川 #テレビ金沢 #ニュース",
+        "title": "【横行する水晶の無断採掘】石川で盗掘の紫水晶｢加賀紫｣　背景にインターネットでの高値売買 #shorts",
+        "description": "【2025.10.16 OA】\n今月5日、石川県小松市の山中で土砂崩れが発生し、男性が巻き込まれ死亡した事故。現場の山は盗掘が後を絶たず、ネット上で水晶の売買が行われている「水晶山」と呼ばれる山でした。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kt9a2bcf11448c41bd8ba410076d52ca5b\n\n今月5日。\n\n石川県小松市金平町の山間部で発生した土砂崩れで、30代の男性が巻き込まれ死亡した事故。\n\n男性が山へ入った目的は「水晶」でした。\n\n重盛 友登 記者：\n「小松市の現場に来ています。こちらでは、この水晶を採りに来る人が後を絶たないといいます」\n\n小松市では江戸後期から金や銅の採掘が盛んに行われた他、周辺で採れる紫水晶は「加賀紫」と呼ばれ、重宝されてきました。\n\n所有者に許可をもらい、山の中を案内してもらうと…\n\nリポート・重盛 友登 記者：\n「こちら白く光っているのは水晶でしょうか。あっ、その奥にもありますね。ここ一帯にたくさんありますね」\n\n「これや、これ水晶や、これを取りに来るんや」\n\n30分も立たないうちに、これだけの水晶が見つかりました。\n\n小松市金平町町内会・出口 重隆 会長：\n「水晶山って言うんやここ、2年前から10メートル掘られている。興味があってくるからね、まだまだ来ると思うわ、これ」\n\nさらに今、この金平町一帯で採れた水晶が、インターネット上では数千円から、中には4万円を超える価格で、売買されているといいます。\n\n町の人は、こうした実態も、盗掘を助長しかねないと話します。\n\n小松市金平町町内会・出口 重隆 会長：\n「ネットで流れたみたい。高値で売れるっていうので、今後、やっぱ持ち主と相談して、森林組合とも相談して、看板なり建てようと思う」\n\n小松市では2016年に、不法な採取や持ち出しを防ぐ、保護条例を定めてますが…\n\n小松市文化振興課・下濱 貴子 さん：\n「今後、地域の皆さまの方からの意見や要望も踏まえながら、市としても関係機関や地元の皆さまと協力して、立入禁止の明示や無断採取防止の警告看板など、必要な安全対策や防止策について、協議を進めていきたい」\n\n今後、市のホームページなどでも再発防止を呼び掛けるなど、対策の徹底を図っていきたいとしています。\n\n#水晶 #盗掘 #紫水晶 #加賀紫 #鉱物 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MATgzs-s2GA/default.jpg",
+            "url": "https://i.ytimg.com/vi/1c6uFXqU1m4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MATgzs-s2GA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1c6uFXqU1m4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MATgzs-s2GA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1c6uFXqU1m4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/MATgzs-s2GA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/1c6uFXqU1m4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/MATgzs-s2GA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1c6uFXqU1m4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -233,7 +233,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "MATgzs-s2GA"
+          "videoId": "1c6uFXqU1m4"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -241,36 +241,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "MOYjgrYuwiOlhtsEVV1z81UNIvM",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLjBKMWMyTE9Cdk1F",
+      "etag": "l3GyZzgBv4bBYvVeLBVUbwi-HpY",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLjNQT2dLNmE3QlA0",
       "snippet": {
-        "publishedAt": "2025-10-15T10:13:51Z",
+        "publishedAt": "2025-10-16T10:06:26Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【ライブ】石川県発最新情報ニュースまとめ（2025年10月15日）｜テレビ金沢 公式ch",
-        "description": "10月15日にテレビ金沢で放送した石川県内のニュースについてまとめました。\n\n▼最新情報はテレビ金沢公式チャンネルで随時更新　チャンネル登録はこちらから\n https://www.youtube.com/channel/UCzeRR8rMI8IkjqGx_MFlUjQ?sub_confirmation=1\n\n【となりのテレ金ちゃん】2025年10月15日放送\n\n\n#能登半島地震 #テレビ金沢 #ニュース",
+        "title": "【ライブ】石川県発最新情報ニュースまとめ（2025年10月16日）｜テレビ金沢 公式ch",
+        "description": "10月16日にテレビ金沢で放送した石川県内のニュースについてまとめました。\n\n▼最新情報はテレビ金沢公式チャンネルで随時更新　チャンネル登録はこちらから\n https://www.youtube.com/channel/UCzeRR8rMI8IkjqGx_MFlUjQ?sub_confirmation=1\n\n【となりのテレ金ちゃん】2025年10月16日放送\n\n\n#能登半島地震 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0J1c2LOBvME/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/3POgK6a7BP4/default_live.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0J1c2LOBvME/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/3POgK6a7BP4/mqdefault_live.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0J1c2LOBvME/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/3POgK6a7BP4/hqdefault_live.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/0J1c2LOBvME/sddefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/3POgK6a7BP4/sddefault_live.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/0J1c2LOBvME/maxresdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/3POgK6a7BP4/maxresdefault_live.jpg",
             "width": 1280,
             "height": 720
           }
@@ -280,7 +280,7 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "0J1c2LOBvME"
+          "videoId": "3POgK6a7BP4"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -288,36 +288,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "R_KU48WPphCTMcsTUZuPExSDDWk",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLmh4LVBaUEZZLXpn",
+      "etag": "0cu_LH2rVEfbSzEuqD3Vw4uHZxM",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLlV0NWFTSlhJMDJv",
       "snippet": {
-        "publishedAt": "2025-10-15T10:13:28Z",
+        "publishedAt": "2025-10-16T10:04:11Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【お天気どうなる】16日 加賀では“激しい雨”　能登では“非常に激しい雨”の見込み",
-        "description": "【2025.10.15 OA】\n市川 栞 キャスター：\nここからは気象予報士の小野さんです。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/ktd578208e52ed4c1ab8366955dbeb95fd\n\n小野 和久 気象予報士：\nお願いします。あす16日からの天気のポイントです。\n\n小野：\nあす16日は、加賀では激しい雨が、能登では非常に激しい雨の降る所があるでしょう。雨は昼前から強まる見込みです。\n\n16日朝9時の 予想天気図です。\n\n小野：\n前線を伴った低気圧が北陸地方を通過する見込みです。低気圧や前線に向かって、暖かく湿った空気が流れ込むため、石川県内は大気の状態が不安定になるでしょう。\n\n雨と風の予想です。\n\n小野：\nあす16日朝にかけては、雨の中心は日本海です。朝7時以降、お昼にかけて、能登地方に強い雨が予想されています。正午以降は、強い雨の範囲は加賀地方に広がるでしょう。\n\n気象台の予想雨量です。\n\n小野：\n予想されるあす16日の1時間雨量は、多い所で加賀で40ミリ、能登で50ミリ、24時間雨量は、16日夕方6時までに、多い所で、加賀・能登ともに100ミリの見込みです。土砂災害などに注意・警戒してください。\n\n気象台の週間予報です。\n\n小野：\nあさって17日は晴れますが、18日・土曜日、19日・日曜日は、再び雨が降るでしょう。週明けは、曇りの日が続くでしょう。19日から一気に気温が下がり、季節が進むでしょう。\n\n市川：\nあす16日の雨の降り方に注意しましょう。\n\n#お天気 #気象予報士 #石川 #テレビ金沢 #ニュース",
+        "title": "【お天気どうなる】17日は“貴重な晴れ”　19日からは本格的な秋を感じる気温に",
+        "description": "【2025.10.16 OA】\n吉道 さゆり キャスター：\nここからは気象予報士の小野さんです。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/kt70ce2da7e5c04d0ea9b8ff1015e10f81\n\n小野 和久 気象予報士：\nお願いします。あす17日からの天気のポイントです。\n\n小野：\nあす17日は貴重な晴れです。19日・日曜日からは、本格的な秋を感じる気温になるでしょう。\n\nきょう16日の雨雲の動きです。\n\n小野：\n強い雨の範囲が加賀地方に移ってきています。きょう16日、1時間に降った雨量が、宝達志水とかほくで、10月の観測史上最大でした。16日午後6時現在、志賀町に洪水警報、金沢市に大雨警報が発表されています。\n\nあす17日朝9時の 予想天気図です。\n\n小野：\n石川県内は高気圧に覆われます。一方、大陸に次の前線が見えます。\n\nあさって18日の予想天気図です。\n\n小野：\n前線が日本海に進んできます。前線の後ろには、本格的な秋の空気が控えています。\n\n気象台の週間予報です。\n\n小野：\n雨や曇りの日が多いでしょう。前線が通過する19日・日曜日から、一気に気温が下がります。ただ、来週のこの気温で、平年並みに近い数字です。\n\n吉道：\n今までが暖かすぎたんですよね。このまま季節が進むんでしょうか。\n\n小野：\nきょう16日に気象台から発表された1か月予報です。\n\n小野：\n11月14日までの傾向です。気温については、来週は平年並みですが、その後は、高めの傾向に戻るでしょう。雨量は、ほぼ平年並みの見込みです。\n\n吉道：\nあす17日の晴れを、大切に使いたいですね。\n\n#お天気 #気象予報士 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hx-PZPFY-zg/default.jpg",
+            "url": "https://i.ytimg.com/vi/Ut5aSJXI02o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hx-PZPFY-zg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ut5aSJXI02o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hx-PZPFY-zg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ut5aSJXI02o/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/hx-PZPFY-zg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ut5aSJXI02o/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/hx-PZPFY-zg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Ut5aSJXI02o/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -327,7 +327,7 @@
         "position": 6,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "hx-PZPFY-zg"
+          "videoId": "Ut5aSJXI02o"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -335,36 +335,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "4rveyWU1WAC3qK6xcVol0YbSU8U",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLkpGdWZLMUFBSF9Z",
+      "etag": "DgXG11hDEpTBwxYbBFpRLIc51jc",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLlNleVRUT25DMEVV",
       "snippet": {
-        "publishedAt": "2025-10-15T10:12:44Z",
+        "publishedAt": "2025-10-16T09:52:42Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【国際電話による振り込め詐欺】対策は“国際電話をブロック”　金沢で被害防止呼び掛け #shorts",
-        "description": "【2025.10.15 OA】\nプラスから始まる番号で掛かってくる国際電話での詐欺被害を防ごうと、金沢市で被害防止が呼び掛けられました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kteffcbc4cbdf54b9aba051342f3e4af5b\n\n「振り込め詐欺にご注意ください」\n\n15日、金沢市内で行われていたのは、国際電話による詐欺被害防止の呼びかけです。\n\n石川県警によりますと、ことしに入ってから9月末までで県内での特殊詐欺は164件、被害額は去年の4倍以上となる約9億3000万円に上っていて、そのうち約2割が国際電話による詐欺の被害です。\n\n「今、家に国際電話がかからないようにする手続きっていうのがあるんです」\n\n警察官が案内していたのは「国際電話不取り扱い受付センター」。\n\n固定電話に掛かってくる国際電話を、無料で利用休止することができるサービスで、訪れた人の中には、その場で申し込みをする人の姿もありました。\n\n申し込みをした人：\n「何回もかかってきます。友達に聞いても、よくあるってこと言ってました。いい機会だなと思って」\n\n国際電話の休止サービスは、電話や郵便などさまざまな方法で、簡単に申し込めるということです。\n\n#国際電話 #振り込め詐欺 #詐欺被害 #石川 #テレビ金沢 #ニュース",
+        "title": "【横行する水晶の無断採掘】石川で盗掘の紫水晶｢加賀紫｣　背景にインターネットでの高値売買",
+        "description": "【2025.10.16 OA】\n今月5日、石川県小松市の山中で土砂崩れが発生し、男性が巻き込まれ死亡した事故。現場の山は盗掘が後を絶たず、ネット上で水晶の売買が行われている「水晶山」と呼ばれる山でした。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kt9a2bcf11448c41bd8ba410076d52ca5b\n\n今月5日。\n\n石川県小松市金平町の山間部で発生した土砂崩れで、30代の男性が巻き込まれ死亡した事故。\n\n男性が山へ入った目的は「水晶」でした。\n\n重盛 友登 記者：\n「小松市の現場に来ています。こちらでは、この水晶を採りに来る人が後を絶たないといいます」\n\n小松市では江戸後期から金や銅の採掘が盛んに行われた他、周辺で採れる紫水晶は「加賀紫」と呼ばれ、重宝されてきました。\n\n所有者に許可をもらい、山の中を案内してもらうと…\n\nリポート・重盛 友登 記者：\n「こちら白く光っているのは水晶でしょうか。あっ、その奥にもありますね。ここ一帯にたくさんありますね」\n\n「これや、これ水晶や、これを取りに来るんや」\n\n30分も立たないうちに、これだけの水晶が見つかりました。\n\n小松市金平町町内会・出口 重隆 会長：\n「水晶山って言うんやここ、2年前から10メートル掘られている。興味があってくるからね、まだまだ来ると思うわ、これ」\n\nさらに今、この金平町一帯で採れた水晶が、インターネット上では数千円から、中には4万円を超える価格で、売買されているといいます。\n\n町の人は、こうした実態も、盗掘を助長しかねないと話します。\n\n小松市金平町町内会・出口 重隆 会長：\n「ネットで流れたみたい。高値で売れるっていうので、今後、やっぱ持ち主と相談して、森林組合とも相談して、看板なり建てようと思う」\n\n小松市では2016年に、不法な採取や持ち出しを防ぐ、保護条例を定めてますが…\n\n小松市文化振興課・下濱 貴子 さん：\n「今後、地域の皆さまの方からの意見や要望も踏まえながら、市としても関係機関や地元の皆さまと協力して、立入禁止の明示や無断採取防止の警告看板など、必要な安全対策や防止策について、協議を進めていきたい」\n\n今後、市のホームページなどでも再発防止を呼び掛けるなど、対策の徹底を図っていきたいとしています。\n\n#水晶 #盗掘 #紫水晶 #加賀紫 #鉱物 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JFufK1AAH_Y/default.jpg",
+            "url": "https://i.ytimg.com/vi/SeyTTOnC0EU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JFufK1AAH_Y/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SeyTTOnC0EU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JFufK1AAH_Y/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SeyTTOnC0EU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/JFufK1AAH_Y/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/SeyTTOnC0EU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/JFufK1AAH_Y/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SeyTTOnC0EU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -374,7 +374,7 @@
         "position": 7,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "JFufK1AAH_Y"
+          "videoId": "SeyTTOnC0EU"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -382,36 +382,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "R_jXJhCIFTRoSULs6WSGL0vmbhw",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLlJ2dU91NXl3VUJN",
+      "etag": "rdP6f7QWhNc6N8jPwPqlzBjqzfA",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLkdtNTMzdzhEdXhJ",
       "snippet": {
-        "publishedAt": "2025-10-15T10:11:39Z",
+        "publishedAt": "2025-10-16T09:49:43Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【国際電話による振り込め詐欺】対策は“国際電話をブロック”　金沢で被害防止呼び掛け",
-        "description": "【2025.10.15 OA】\nプラスから始まる番号で掛かってくる国際電話での詐欺被害を防ごうと、金沢市で被害防止が呼び掛けられました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kteffcbc4cbdf54b9aba051342f3e4af5b\n\n「振り込め詐欺にご注意ください」\n\n15日、金沢市内で行われていたのは、国際電話による詐欺被害防止の呼びかけです。\n\n石川県警によりますと、ことしに入ってから9月末までで県内での特殊詐欺は164件、被害額は去年の4倍以上となる約9億3000万円に上っていて、そのうち約2割が国際電話による詐欺の被害です。\n\n「今、家に国際電話がかからないようにする手続きっていうのがあるんです」\n\n警察官が案内していたのは「国際電話不取り扱い受付センター」。\n\n固定電話に掛かってくる国際電話を、無料で利用休止することができるサービスで、訪れた人の中には、その場で申し込みをする人の姿もありました。\n\n申し込みをした人：\n「何回もかかってきます。友達に聞いても、よくあるってこと言ってました。いい機会だなと思って」\n\n国際電話の休止サービスは、電話や郵便などさまざまな方法で、簡単に申し込めるということです。\n\n#国際電話 #振り込め詐欺 #詐欺被害 #石川 #テレビ金沢 #ニュース",
+        "title": "【“雇う側は苦しく”】最低賃金引き上げ　賃上げ実施の中小企業にむけた支援制度　石川県が説明会",
+        "description": "【2025.10.16 OA】\n最低賃金の引き上げに伴い、賃上げを実施する中小企業へ向けた、石川県の支援制度の説明会が行われました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kta9e800c4df2141589ee82808d97b44d7\n\n石川県は、生産性向上へむけたシステムを導入する中小企業などに、最大100万円を補助する他、被災した小規模事業者に対しては、賃上げした人数1人あたり5万円、最大50万円の支援を行うなど、2つの支援策を実施します。\n\n16日は、商工会の担当者らが、石川県から説明を受けました。\n\n参加者：\n「おしなべて全般の賃金の押し上げに、つながっているわけなんですね。そういうところで企業の場合は、その財源をどこから持ってくるか、いわゆるどうしようもない状況にある」\n\n石川県の担当者：\n［事業者の皆さまが、より理解を深めていただいて、1社でも多くご利用いただきたいと」\n\n事業者からの申請受付は、17日から行われるということです。\n\n#最低賃金 #支援制度 #支援策 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RvuOu5ywUBM/default.jpg",
+            "url": "https://i.ytimg.com/vi/Gm533w8DuxI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RvuOu5ywUBM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gm533w8DuxI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RvuOu5ywUBM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gm533w8DuxI/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RvuOu5ywUBM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gm533w8DuxI/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RvuOu5ywUBM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gm533w8DuxI/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -421,7 +421,7 @@
         "position": 8,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "RvuOu5ywUBM"
+          "videoId": "Gm533w8DuxI"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -429,36 +429,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "NHxGHI53i9Y885B6pXiVDDzHZX8",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLkk0TU1kcDFZMFRF",
+      "etag": "9cQG8oDDq_GFVb0qsDYuSHo5vqs",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLkhfNjZleTJjSkVv",
       "snippet": {
-        "publishedAt": "2025-10-15T09:55:12Z",
+        "publishedAt": "2025-10-16T09:40:59Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【小さな箱に込めた復興への思い】能登のしんきんと被災事業者がタッグ　名産品詰めたギフトボックス販売開始 #shorts",
-        "description": "【2025.10.15 OA】\n能登半島地震や奥能登豪雨で被災した事業者の支援につなげようと、能登の名産品を詰め合わせたギフトボックスの販売が、15日から始まりました。小さな箱に込められた復興への大きな思いを取材しました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/ktaccbf02a607445eba14d00bde8eb2d8a\n\n15日から販売がはじまったギフトボックスの中には、門前そばに輪島朝市のわかめ焼き菓子…\n\n能登の名産品がぎっしり。\n\n能登の金融機関と被災した事業者がタッグを組んだ、特別なギフトボックスです。\n\n興能信用金庫の池端克哉さん。\n\n今回この商品の企画に携わった1人です。\n\n興能信用金庫・池端 克哉 さん：\n「何かしらの問題を抱えながら、今でも営業している事業者さんが多いと思います」\n\n興能信用金庫では、地震や豪雨の影響で取引のあった3300事業者のうち、1割以上が廃業。\n\n春の時点で9割近くの店が営業再開にこぎつけましたが、この半年間で経営難に陥り、再開後に廃業する業者が増えてきているといいます。\n\nそんな窮地を救うべく生まれたのが…\n\n「ちょっと撮らせていただいてもいいですか」「ありがとうございます。すごい素敵な感じで」\n\nギフトボックス「noto tsumugu(ノト ツムグ)」。\n\n被災した事業者のPRにつなげようと、珠洲市のギフト店「今井商店」と共同開発したギフトボックスです。\n\n今井商店自身も、去年の震災で店が全壊。\n\n夫婦二人三脚で再開した店の中には、これまで扱っていなかったギフト以外のさまざまな商品が並んでいます。\n\n今井商店・今井 麻紀子 さん：\n「どうにかして作りはするんだけれども、それを販売する場所がないということで、じゃあ是非、うちの店で売りませんかと」\n\n売り場を失うなど、さまざまな事情を抱えた事業者の商品を、1つの箱に詰め込んだのが、このギフトボックスです。\n\n今井商店・今井 実 社長：\n「いいなと思ってもらえれば、いろんな会社がどんどん参画してもらえれば、もっと広がりが見せれるのではないかなと思っています」\n\nこの企画に参画した事業者からは、こんな声も…\n\n能登町宇出津の大脇昆布。\n\n営業再開後、復興需要が高まり、注文が殺到しているものの、家族経営のためPRや販路拡大に課題を感じていました。\n\n大脇昆布・大脇 弘子 さん：\n「おいしいものをギュッと詰めてくださることで、たくさんの魅力を、多くの方にお伝えできるのかなと思う。なかなか新しい商品というのが、すぐに作れない状態ではあるんですけど、いただけるチャンスを目いっぱい生かせるように、一緒に頑張っていきたいと思います」\n\n地域と共に歩む金融機関として、地域に寄り添い、そして生業の再建を目指して…\n\n興能信用金庫・池端 克哉 さん：\n「引き続き能登では、人口減少とかさまざまな問題が起こっておりますので、各事業者の個別の課題に応えられるよう支援していきたい」\n\nギフトボックスは、今井商店で毎月30セット限定で販売されるということです。\n\n#能登半島地震 #奥能登豪雨 #ギフトボックス #名産品 #信用金庫 #石川 #テレビ金沢 #ニュース",
+        "title": "【記者解説】一気に対決ムードの石川県知事選　前回は保守三つどもえ　情勢変化もあり注目ポイントは",
+        "description": "【2025.10.16 OA】\n吉道 さゆり キャスター：\n前金沢市長の山野之義さんの出馬表明で、石川県知事選は一気に慌ただしくなってきました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/politics/kta199ca16afff400f87c03ab9692691e7\n\n政治担当の平田さんです。\n\n平田 真彦 記者：\nよろしくお願いします\n\n吉道：\n前回、戦った2人が再び激突することになりましたね。\n\n平田：\n3年前は元参院議員の山田修路さんも出馬し、保守三つどもえの激戦でした。\n\nこちらは、前回の得票数です。\n\n平田：\n当選した馳さんが19万6000票あまり、山野さんは18万8000票あまりで、約8000票差の接戦でした。\n\n吉道：\n山田さんも17万票あまり。改めてみると石川が3つに割れた戦いでしたね。\n\n平田：\n石川県内一の大票田、金沢市では、山野さんが9万8000票を獲得し、馳さんと2万8000票の大差を付けました。\n\n吉道：\n馳さんが当選しましたが、金沢の票は山野さんが上だったわけですね。\n\n平田：\nただ、市長としての知名度、実績を訴えた山野さんですので、それから3年半の政治ブランクがどう影響するのか注目されます。\n\n吉道：\nそして、山野さんの出馬を受け、各党の動きも気になるところです。\n\n平田：まずは自民党です。現職の馳さんは、すでに石川県内の各政党へ推薦願を提出していて、自民党県連は11月上旬にも馳さんへの推薦を決めるとみられます。ただ、石川県連内には、山野さんとの距離が近い議員もいますので、その動向が気になります。\n\n平田：\nそして、焦点となるのが、非自民系の政党の対応です。これまで構図が見えてから判断すると慎重な姿勢をとってきましたが、17日以降、山野さんも各党に推薦を要請しますので、いよいよ本格的に議論が進むとみられます。立憲や国民は、連合石川と意思疎通をしながら、対応するとみられますが、前回の知事選で山田さんを支援した立憲がどう動くか注目です。\n\n吉道：\nそして、公明の連立離脱、その影響は考えられますか？\n\n平田：\n選挙協力を白紙とした公明党ですが、石川県内の組織票は3万票から4万票あるとみられています。今回の連立解消を受け、県本部でも、自民党と歩調をあわせるかというと微妙な情勢と言え「必ずしも馳さんを支援するとは限らなくなった」と話す人もいます。前回の知事選で、自主投票だった公明党の動きが、気になるところです。\n\n吉道：\n中央の政局の動きも絡んで、石川県知事選のゆくえも混とんとしてきました。\n\n#記者解説 #知事選挙 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/I4MMdp1Y0TE/default.jpg",
+            "url": "https://i.ytimg.com/vi/H_66ey2cJEo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/I4MMdp1Y0TE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H_66ey2cJEo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/I4MMdp1Y0TE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H_66ey2cJEo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/I4MMdp1Y0TE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/H_66ey2cJEo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/I4MMdp1Y0TE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/H_66ey2cJEo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -468,7 +468,7 @@
         "position": 9,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "I4MMdp1Y0TE"
+          "videoId": "H_66ey2cJEo"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -476,36 +476,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "T1aXUIuPQvCMlaxQB0DB09q5H3c",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLmdRTnQxOS1USWtF",
+      "etag": "O8H85SA9b_H6l2fvhxBJ4uu5a1g",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLlpndURUa3NwYkU0",
       "snippet": {
-        "publishedAt": "2025-10-15T09:54:17Z",
+        "publishedAt": "2025-10-16T09:31:46Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【小さな箱に込めた復興への思い】能登のしんきんと被災事業者がタッグ　名産品詰めたギフトボックス販売開始",
-        "description": "【2025.10.15 OA】\n能登半島地震や奥能登豪雨で被災した事業者の支援につなげようと、能登の名産品を詰め合わせたギフトボックスの販売が、15日から始まりました。小さな箱に込められた復興への大きな思いを取材しました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/ktaccbf02a607445eba14d00bde8eb2d8a\n\n15日から販売がはじまったギフトボックスの中には、門前そばに輪島朝市のわかめ焼き菓子…\n\n能登の名産品がぎっしり。\n\n能登の金融機関と被災した事業者がタッグを組んだ、特別なギフトボックスです。\n\n興能信用金庫の池端克哉さん。\n\n今回この商品の企画に携わった1人です。\n\n興能信用金庫・池端 克哉 さん：\n「何かしらの問題を抱えながら、今でも営業している事業者さんが多いと思います」\n\n興能信用金庫では、地震や豪雨の影響で取引のあった3300事業者のうち、1割以上が廃業。\n\n春の時点で9割近くの店が営業再開にこぎつけましたが、この半年間で経営難に陥り、再開後に廃業する業者が増えてきているといいます。\n\nそんな窮地を救うべく生まれたのが…\n\n「ちょっと撮らせていただいてもいいですか」「ありがとうございます。すごい素敵な感じで」\n\nギフトボックス「noto tsumugu(ノト ツムグ)」。\n\n被災した事業者のPRにつなげようと、珠洲市のギフト店「今井商店」と共同開発したギフトボックスです。\n\n今井商店自身も、去年の震災で店が全壊。\n\n夫婦二人三脚で再開した店の中には、これまで扱っていなかったギフト以外のさまざまな商品が並んでいます。\n\n今井商店・今井 麻紀子 さん：\n「どうにかして作りはするんだけれども、それを販売する場所がないということで、じゃあ是非、うちの店で売りませんかと」\n\n売り場を失うなど、さまざまな事情を抱えた事業者の商品を、1つの箱に詰め込んだのが、このギフトボックスです。\n\n今井商店・今井 実 社長：\n「いいなと思ってもらえれば、いろんな会社がどんどん参画してもらえれば、もっと広がりが見せれるのではないかなと思っています」\n\nこの企画に参画した事業者からは、こんな声も…\n\n能登町宇出津の大脇昆布。\n\n営業再開後、復興需要が高まり、注文が殺到しているものの、家族経営のためPRや販路拡大に課題を感じていました。\n\n大脇昆布・大脇 弘子 さん：\n「おいしいものをギュッと詰めてくださることで、たくさんの魅力を、多くの方にお伝えできるのかなと思う。なかなか新しい商品というのが、すぐに作れない状態ではあるんですけど、いただけるチャンスを目いっぱい生かせるように、一緒に頑張っていきたいと思います」\n\n地域と共に歩む金融機関として、地域に寄り添い、そして生業の再建を目指して…\n\n興能信用金庫・池端 克哉 さん：\n「引き続き能登では、人口減少とかさまざまな問題が起こっておりますので、各事業者の個別の課題に応えられるよう支援していきたい」\n\nギフトボックスは、今井商店で毎月30セット限定で販売されるということです。\n\n#能登半島地震 #奥能登豪雨 #ギフトボックス #名産品 #信用金庫 #石川 #テレビ金沢 #ニュース",
+        "title": "【現職・馳氏と因縁の対決へ】前金沢市長の山野之義氏　石川県知事選2度目の挑戦を正式表明",
+        "description": "【2025.10.16 OA】\n来年3月の石川県知事選挙に向けて、前金沢市長の山野之義氏が、正式に出馬を表明しました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/politics/kt0cb6199ee2464ec1b3848cd5d062557b\n\n知事選に出馬表明 前金沢市長・山野之義氏：\n「来年3月の石川県知事選挙に挑戦をしたい。能登半島地震があったことによって石川全体が少し、メンタルの面で少し、落ち込んでいるところがある。もっと前向きになっていける、夢や希望が持てるビジョンを作っていくことが必要」\n\n16日、正式に知事選挙への出馬を表明した前金沢市長の山野之義氏。\n\n地震や豪雨からの能登の復興を第一に考え、一次産業の振興にも取り組みたいと語りました。\n\n前回の2022年の知事選では、馳氏と元参院議員の山田修路氏との保守分裂の激戦を展開しましたが、今回の挑戦については…\n\n前金沢市長・山野之義氏：\n「出馬すると決意したら、落ちるなんて全く思いません。この思いを市政、県政の中で活かしていくんだ、そんな思いしかありません、当選するという強い思いで選挙戦に望みたいと思います」\n\n山野氏は17日以降、順次、石川県内の各政党に推薦を要請するということです。\n\n知事選挙を巡っては、現職の馳浩氏が再選を目指し出馬を表明していて、選挙戦になることが確実な情勢となっています。\n\n#山野之義 #馳浩 #知事選挙 #石川県知事選挙 #出馬 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gQNt19-TIkE/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZguDTkspbE4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gQNt19-TIkE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZguDTkspbE4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gQNt19-TIkE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZguDTkspbE4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/gQNt19-TIkE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZguDTkspbE4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/gQNt19-TIkE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZguDTkspbE4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -515,7 +515,7 @@
         "position": 10,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "gQNt19-TIkE"
+          "videoId": "ZguDTkspbE4"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -523,36 +523,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "a3sDQAZ1UiUcTsd5oQuAXqb8Wyk",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLkF2REVZbndnMlNn",
+      "etag": "TDNDrPwwEronYRlz04D7-s8c290",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLkVrR2l3ZS1pYkhj",
       "snippet": {
-        "publishedAt": "2025-10-15T09:53:20Z",
+        "publishedAt": "2025-10-16T07:21:30Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【出馬の意向固める】来年3月の石川県知事選　前金沢市長の山野之義氏　前回激突の2人再び対決で政党の反応は #shorts",
-        "description": "【2025.10.15 OA】\n来年3月の知事選挙へ、前金沢市長の山野之義氏が出馬の意向を固めました。すでに現職の馳浩氏が出馬を表明しており、選挙戦が確実な情勢となっています。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/politics/ktd8614487ddf24d989aa0770badc0cd40\n\n10月5日。前金沢市長の山野之義氏が、とある場所に現れた。傍らには国民民主党石川県連の幹事長の姿も…\n\n山野 之義 氏：\n「何もかも終わってからなら、いいですけれど」\n国民民主党石川県連・粟森 慨 幹事長：\n「儀式、終わってからなら」\n\n訪問先は、石川県議会の非自民系会派「未来石川」の会長のもと。\n\n前回の知事選で、馳知事の対立候補を推した県議である。\n\n石川県議会会派｢未来石川｣会長・吉田 修 県議：\n「これからの政治についてどう思っているかという話を、お互いに胸襟を開いてお話をしました」\n\nそして15日。\n\n前金沢市長・山野 之義 氏：\n「出馬の意向を固めたというところです。石川県の責任者になる方はどなたであろうが、やはり能登の復興というのは、一番に思うのではないかと思いますので、その思いは強く持っています」\n\n知事選への出馬の意向を明らかにした。\n\n山野氏は、現在63歳。大手通信会社の顧問を務めている。\n\n2022年の知事選では、市長3期目の途中で辞職して出馬。\n\n馳氏と参議院議員だった山田修路氏と、保守分裂の激戦を展開した。\n\nその際の出馬表明は、告示まで1か月足らず。\n\n各政党、勢力の支持をほぼ受けられなかったため、今回は時期を早めて、出馬の意向を固めたという。\n\n前金沢市長・山野 之義 氏：\n「前回たくさんの方に怒られました。遅いにもほどがあると。たくさんの支援者の方からお叱りを頂いたので、今回決断をするならば、この10月から11月に意思表示をするべきだと言われていましたので」\n\n知事選を巡っては、すでに現職の馳浩氏が9月議会で出馬を表明。\n\n首長を会長とする市町の後援会を発足する他、すでに各党各派に推薦を要請している。\n\nこの日、山野氏出馬の一報を受けて馳氏は…\n\n石川県知事 現職・馳 浩 氏\n「選挙があるという前提で、4年前から県政に取り組んできていますので、石川県の成長戦略を作り、そして実行していく。これについては10年計画でやっていくというビジョンをもって取り組んでいますので、引き続きやる気満々で取り組んでいきたい」\n\nその馳氏の出身母体の自民党は、前回の知事選では支持が割れている。\n\n前回、馳氏を支持した県議や国会議員は、山野氏の出馬に身構える。\n\n自民党石川県連・下沢 佳充 幹事長：\n「個人の判断なんで、おそらく現職よりも、ご自身なら相当立派なことができるという思いなのか、リベンジということなのか、それはどうぞ、ご本人に聞いてください」\n\n自民党・小森 卓郎 衆院議員：\n「激しい選挙戦になりうるんだと思っていますし、しっかり固めていかなければと思います」\n\n自民党石川県連・福村 章 最高顧問\n「党員である以上は、ましては県会議員である以上は、一致結束、従っていただかなければいけないと思います」\n\n一方、山野氏と共に、幹事長が行動するなど、知事選への関与の動きがみられる国民民主党だが、知事選の対応については未定だとしている。\n\n国民民主党石川県連・小竹 凱 代表：\n「党の立場と個人の立場がありますから、党ですべて縛るというわけでもありませんし、県連としてはまだ何も決まっていない状況ですので、党としてすでに決定したということではありません」\n\nまた、前回は別の候補を支持した、立憲民主党も慎重に対応する方針だ。\n\n立憲民主党石川県連・近藤 和也 代表：\n「やはり出られたとなると、相当激しい選挙になるなという思いです。どちらがこの石川県のためになるのか、特に能登の被災地のためになるのかと、当然、連合石川とも話はしなければいけないと思いますので」\n\n一気に対決ムードに入った知事選挙。\n\n山野氏は、16日午後に正式に出馬を表明し、その後、自民、公明を皮切りに、各政党、勢力に推薦を要請するとしている。\n\n#石川県知事選 #知事選挙 #馳浩 #山野之義 #石川 #テレビ金沢 #ニュース",
+        "title": "【被災地の雇用維持を支援】在籍しながら他企業に出向“産業雇用安定助成金”　支援期間1年間延長へ #shorts",
+        "description": "【2025.10.16 OA】\n能登半島地震で被災した事業者の雇用維持を図る産業雇用安定助成金の支援期間が、延長される見通しとなりました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kt1748888f30fb4808b5e02ef93967886d\n\n産業雇用安定助成金は、被災した企業に籍を置いたまま、別の企業に出向する在籍型出向について、賃金の一部を助成する制度です。\n\n石川県では、和倉温泉の再建に数年かかる見通しであることなどから、国に対して期間の延長などを要望していました。\n\n16日の会見で馳知事は、この助成制度の期間について、来年1年間、延長される見通しであるとしました。\n\nまた、制度の適用には、これまで週3日以上の出向が条件となっていましたが、週1日以上に緩和されるということです。\n\n石川県・馳 浩 知事：\n「和倉温泉は石川県にとって文化です。大事な文化の一翼を担う人材を、みすみす他の地域にスカウトされるわけにはいきません」\n\n産業雇用安定助成金の延長と要件の緩和については、17日の厚生労働省の労働政策審議会で審議される予定です。\n\n#能登半島地震 #産業雇用安定助成金 #助成金 #助成制度 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/AvDEYnwg2Sg/default.jpg",
+            "url": "https://i.ytimg.com/vi/EkGiwe-ibHc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/AvDEYnwg2Sg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EkGiwe-ibHc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/AvDEYnwg2Sg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EkGiwe-ibHc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/AvDEYnwg2Sg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/EkGiwe-ibHc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/AvDEYnwg2Sg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EkGiwe-ibHc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -562,7 +562,7 @@
         "position": 11,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "AvDEYnwg2Sg"
+          "videoId": "EkGiwe-ibHc"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -570,36 +570,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "moIR3fdAMhj0-helXIOgl1e1aUs",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLkpDWkFzQ0NtT2pv",
+      "etag": "Fm_8C02o2235Ag4RwaPLl5Ibt2Q",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLjFuTF8xN3IxdXJv",
       "snippet": {
-        "publishedAt": "2025-10-15T09:45:41Z",
+        "publishedAt": "2025-10-16T07:20:58Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【出馬の意向固める】来年3月の石川県知事選　前金沢市長の山野之義氏　前回激突の2人再び対決で政党の反応は",
-        "description": "【2025.10.15 OA】\n来年3月の知事選挙へ、前金沢市長の山野之義氏が出馬の意向を固めました。すでに現職の馳浩氏が出馬を表明しており、選挙戦が確実な情勢となっています。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/politics/ktd8614487ddf24d989aa0770badc0cd40\n\n10月5日。前金沢市長の山野之義氏が、とある場所に現れた。傍らには国民民主党石川県連の幹事長の姿も…\n\n山野 之義 氏：\n「何もかも終わってからなら、いいですけれど」\n国民民主党石川県連・粟森 慨 幹事長：\n「儀式、終わってからなら」\n\n訪問先は、石川県議会の非自民系会派「未来石川」の会長のもと。\n\n前回の知事選で、馳知事の対立候補を推した県議である。\n\n石川県議会会派｢未来石川｣会長・吉田 修 県議：\n「これからの政治についてどう思っているかという話を、お互いに胸襟を開いてお話をしました」\n\nそして15日。\n\n前金沢市長・山野 之義 氏：\n「出馬の意向を固めたというところです。石川県の責任者になる方はどなたであろうが、やはり能登の復興というのは、一番に思うのではないかと思いますので、その思いは強く持っています」\n\n知事選への出馬の意向を明らかにした。\n\n山野氏は、現在63歳。大手通信会社の顧問を務めている。\n\n2022年の知事選では、市長3期目の途中で辞職して出馬。\n\n馳氏と参議院議員だった山田修路氏と、保守分裂の激戦を展開した。\n\nその際の出馬表明は、告示まで1か月足らず。\n\n各政党、勢力の支持をほぼ受けられなかったため、今回は時期を早めて、出馬の意向を固めたという。\n\n前金沢市長・山野 之義 氏：\n「前回たくさんの方に怒られました。遅いにもほどがあると。たくさんの支援者の方からお叱りを頂いたので、今回決断をするならば、この10月から11月に意思表示をするべきだと言われていましたので」\n\n知事選を巡っては、すでに現職の馳浩氏が9月議会で出馬を表明。\n\n首長を会長とする市町の後援会を発足する他、すでに各党各派に推薦を要請している。\n\nこの日、山野氏出馬の一報を受けて馳氏は…\n\n石川県知事 現職・馳 浩 氏\n「選挙があるという前提で、4年前から県政に取り組んできていますので、石川県の成長戦略を作り、そして実行していく。これについては10年計画でやっていくというビジョンをもって取り組んでいますので、引き続きやる気満々で取り組んでいきたい」\n\nその馳氏の出身母体の自民党は、前回の知事選では支持が割れている。\n\n前回、馳氏を支持した県議や国会議員は、山野氏の出馬に身構える。\n\n自民党石川県連・下沢 佳充 幹事長：\n「個人の判断なんで、おそらく現職よりも、ご自身なら相当立派なことができるという思いなのか、リベンジということなのか、それはどうぞ、ご本人に聞いてください」\n\n自民党・小森 卓郎 衆院議員：\n「激しい選挙戦になりうるんだと思っていますし、しっかり固めていかなければと思います」\n\n自民党石川県連・福村 章 最高顧問\n「党員である以上は、ましては県会議員である以上は、一致結束、従っていただかなければいけないと思います」\n\n一方、山野氏と共に、幹事長が行動するなど、知事選への関与の動きがみられる国民民主党だが、知事選の対応については未定だとしている。\n\n国民民主党石川県連・小竹 凱 代表：\n「党の立場と個人の立場がありますから、党ですべて縛るというわけでもありませんし、県連としてはまだ何も決まっていない状況ですので、党としてすでに決定したということではありません」\n\nまた、前回は別の候補を支持した、立憲民主党も慎重に対応する方針だ。\n\n立憲民主党石川県連・近藤 和也 代表：\n「やはり出られたとなると、相当激しい選挙になるなという思いです。どちらがこの石川県のためになるのか、特に能登の被災地のためになるのかと、当然、連合石川とも話はしなければいけないと思いますので」\n\n一気に対決ムードに入った知事選挙。\n\n山野氏は、16日午後に正式に出馬を表明し、その後、自民、公明を皮切りに、各政党、勢力に推薦を要請するとしている。\n\n#石川県知事選 #知事選挙 #馳浩 #山野之義 #石川 #テレビ金沢 #ニュース",
+        "title": "【被災地の雇用維持を支援】在籍しながら他企業に出向“産業雇用安定助成金”　支援期間1年間延長へ",
+        "description": "【2025.10.16 OA】\n能登半島地震で被災した事業者の雇用維持を図る産業雇用安定助成金の支援期間が、延長される見通しとなりました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/society/kt1748888f30fb4808b5e02ef93967886d\n\n産業雇用安定助成金は、被災した企業に籍を置いたまま、別の企業に出向する在籍型出向について、賃金の一部を助成する制度です。\n\n石川県では、和倉温泉の再建に数年かかる見通しであることなどから、国に対して期間の延長などを要望していました。\n\n16日の会見で馳知事は、この助成制度の期間について、来年1年間、延長される見通しであるとしました。\n\nまた、制度の適用には、これまで週3日以上の出向が条件となっていましたが、週1日以上に緩和されるということです。\n\n石川県・馳 浩 知事：\n「和倉温泉は石川県にとって文化です。大事な文化の一翼を担う人材を、みすみす他の地域にスカウトされるわけにはいきません」\n\n産業雇用安定助成金の延長と要件の緩和については、17日の厚生労働省の労働政策審議会で審議される予定です。\n\n#能登半島地震 #産業雇用安定助成金 #助成金 #助成制度 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/JCZAsCCmOjo/default.jpg",
+            "url": "https://i.ytimg.com/vi/1nL_17r1uro/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/JCZAsCCmOjo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1nL_17r1uro/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/JCZAsCCmOjo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1nL_17r1uro/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/JCZAsCCmOjo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/1nL_17r1uro/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/JCZAsCCmOjo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1nL_17r1uro/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -609,7 +609,7 @@
         "position": 12,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "JCZAsCCmOjo"
+          "videoId": "1nL_17r1uro"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
@@ -617,83 +617,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "IbTBd2R-sG3bKJxJ3cFTZrRKqlI",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLnVXT3VOZ3FESzE0",
+      "etag": "L5vg2kS48NLKh1QkAIl44s_XoXg",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLm9SUlc4MnBkdUZn",
       "snippet": {
-        "publishedAt": "2025-10-15T07:06:17Z",
+        "publishedAt": "2025-10-16T02:59:12Z",
         "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【407点の力作並ぶ】北陸の“池坊”華道家の生け花展始まる　6年ぶりに石川で開催 #shorts",
-        "description": "【2025.10.15 OA】\n四季折々の草木で季節の彩りを表現する池坊の華道家による生け花展が、15日から金沢市の百貨店で始まりました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/culture/kt2a10e8fe28f648858d781c7247daefa5\n\n15日から始まった池坊北陸三県連合花展。\n\n石川で開催されるのは6年ぶりで、今回は北陸3県の会員の力作407点が並びます。\n\n日本の華道界の中で、中心的役割を担い続ける池坊は、生け花の根源とされています。\n\nこちらは次期家元、池坊専好さんの作品。\n\n13日に幕を閉じた万博をモチーフに、日本・アフリカ・イタリアをイメージした花々が、万博の名残惜しさを表現しています。\n\n実が赤色で染まるサンキライが生け込まれ、実りの秋を感じる作品です。\n\nまた、期間中には初めて、男性華道家による「おとこ花展」も開かれるということです。\n\nこの花展は期間中、2回、作品を入れ替え、今月20日まで開かれています。\n\n#池坊北陸三県連合花展 #生け花 #華道 #金沢エムザ #石川 #テレビ金沢 #ニュース",
+        "title": "【“科学の楽しさ”能登の子どもたちに】石川・七尾市で大学職員が教室　大学の特色いかした実験持ち寄る #shorts",
+        "description": "【2025.10.16 OA】\n能登の子どもたちに科学の楽しさを知ってもらおうと、全国の大学の技術職員が、石川県七尾市で実験教室を開きました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/ktf400ac1cfe9e4ec7aaab29217cc29446\n\n石川県七尾市の石崎小学校で行われた科学実験教室。\n\nこちらは、氷点下196度の世界を体験するコーナー。\n\n野菜を入れると…\n\n「1、2、3」\n\n一瞬で、凍ってしまいました。\n\n教えているのは、金沢大学をはじめ全国6大学の技術職員らで、各大学の特色をいかしたさまざまな実験を持ち寄りました。\n\n児童は：\n「ちょっと待っていたら、電気がついたところが楽しかったです」\n「お母さんに伝えようと思いました」\n\n鳥取大学理科支援プロジェクト担当・河尻 直幸 さん：\n「科学が身近な存在であると気づいていただいて、科学に興味をもってもらって、そこから学校の授業で理科を好きになってもらうところを一番に思っています」\n\n児童たちは、普段の授業では体験できない特別な実験を楽しんでいました。\n\n#科学 #実験 #科学実験 #大学 #楽しさ #能登 #石川 #テレビ金沢 #ニュース",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uWOuNgqDK14/default.jpg",
+            "url": "https://i.ytimg.com/vi/oRRW82pduFg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uWOuNgqDK14/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oRRW82pduFg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uWOuNgqDK14/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oRRW82pduFg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/uWOuNgqDK14/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/oRRW82pduFg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/uWOuNgqDK14/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "テレビ金沢NEWS",
-        "playlistId": "UUzeRR8rMI8IkjqGx_MFlUjQ",
-        "position": 13,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "uWOuNgqDK14"
-        },
-        "videoOwnerChannelTitle": "テレビ金沢NEWS",
-        "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "Rg9JI8K2f1tUwNRto_IQts7pR5I",
-      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLmplRGpDeXp1NEY4",
-      "snippet": {
-        "publishedAt": "2025-10-15T07:05:39Z",
-        "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
-        "title": "【407点の力作並ぶ】北陸の“池坊”華道家の生け花展始まる　6年ぶりに石川で開催",
-        "description": "【2025.10.15 OA】\n四季折々の草木で季節の彩りを表現する池坊の華道家による生け花展が、15日から金沢市の百貨店で始まりました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/culture/kt2a10e8fe28f648858d781c7247daefa5\n\n15日から始まった池坊北陸三県連合花展。\n\n石川で開催されるのは6年ぶりで、今回は北陸3県の会員の力作407点が並びます。\n\n日本の華道界の中で、中心的役割を担い続ける池坊は、生け花の根源とされています。\n\nこちらは次期家元、池坊専好さんの作品。\n\n13日に幕を閉じた万博をモチーフに、日本・アフリカ・イタリアをイメージした花々が、万博の名残惜しさを表現しています。\n\n実が赤色で染まるサンキライが生け込まれ、実りの秋を感じる作品です。\n\nまた、期間中には初めて、男性華道家による「おとこ花展」も開かれるということです。\n\nこの花展は期間中、2回、作品を入れ替え、今月20日まで開かれています。\n\n#池坊北陸三県連合花展 #生け花 #華道 #金沢エムザ #石川 #テレビ金沢 #ニュース",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jeDjCyzu4F8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jeDjCyzu4F8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jeDjCyzu4F8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/jeDjCyzu4F8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/jeDjCyzu4F8/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oRRW82pduFg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -703,7 +656,148 @@
         "position": 14,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "jeDjCyzu4F8"
+          "videoId": "oRRW82pduFg"
+        },
+        "videoOwnerChannelTitle": "テレビ金沢NEWS",
+        "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vN0YEgy1WNKmWo9Kn2i9GlkcU_w",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLklEaWpfMVlPSm5j",
+      "snippet": {
+        "publishedAt": "2025-10-16T02:58:40Z",
+        "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
+        "title": "【土砂災害などに注意警戒呼び掛け】能登は16日昼過ぎまで“非常に激しい雨”に　加賀は夕方まで“激しい雨” #shorts",
+        "description": "【2025.10.16 OA】\n石川県内は、16日の昼前から、雷を伴って激しい雨や非常に激しい雨が降るところがある見込みで、気象台では、土砂災害などに注意警戒するよう呼び掛けています。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/kt2d3340c162f043b6a4b8c71ab24efcd5\n\n16日の石川県内は、前線や暖かく湿った空気の影響で、大気の状態が不安定になっています。\n\n午前11時までの1時間には、輪島市門前で14.5ミリ、珠洲と輪島市三井で10.0ミリと、能登を中心に、やや強い雨が降っています。\n\n気象台によりますと、16日は雷を伴って、加賀は夕方まで激しい雨、能登は昼過ぎまで、非常に激しく降るところがある見込みです。\n\n16日に予想される1時間に降る雨量は、多いところで加賀で40ミリ、能登で50ミリ。\n\n17日正午までに予想される24時間に降る雨量は、多いところで加賀で90ミリ、能登で80ミリとなっています。\n\n気象台では16日昼前から夜遅くにかけて、土砂災害や低い土地の浸水、河川の増水に注意・警戒するよう呼び掛けています。\n\n#雨 #加賀 #能登 #土砂災害 #浸水 #増水 #注意 #警戒 #石川 #テレビ金沢 #ニュース",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IDij_1YOJnc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IDij_1YOJnc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IDij_1YOJnc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IDij_1YOJnc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IDij_1YOJnc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレビ金沢NEWS",
+        "playlistId": "UUzeRR8rMI8IkjqGx_MFlUjQ",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IDij_1YOJnc"
+        },
+        "videoOwnerChannelTitle": "テレビ金沢NEWS",
+        "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MizeWnF35pA3OVcnBnNlqp0RFtQ",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLjhtU2xmZjNJbW00",
+      "snippet": {
+        "publishedAt": "2025-10-16T02:58:31Z",
+        "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
+        "title": "【“科学の楽しさ”能登の子どもたちに】石川・七尾市で大学職員が教室　大学の特色いかした実験持ち寄る",
+        "description": "【2025.10.16 OA】\n能登の子どもたちに科学の楽しさを知ってもらおうと、全国の大学の技術職員が、石川県七尾市で実験教室を開きました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/ktf400ac1cfe9e4ec7aaab29217cc29446\n\n石川県七尾市の石崎小学校で行われた科学実験教室。\n\nこちらは、氷点下196度の世界を体験するコーナー。\n\n野菜を入れると…\n\n「1、2、3」\n\n一瞬で、凍ってしまいました。\n\n教えているのは、金沢大学をはじめ全国6大学の技術職員らで、各大学の特色をいかしたさまざまな実験を持ち寄りました。\n\n児童は：\n「ちょっと待っていたら、電気がついたところが楽しかったです」\n「お母さんに伝えようと思いました」\n\n鳥取大学理科支援プロジェクト担当・河尻 直幸 さん：\n「科学が身近な存在であると気づいていただいて、科学に興味をもってもらって、そこから学校の授業で理科を好きになってもらうところを一番に思っています」\n\n児童たちは、普段の授業では体験できない特別な実験を楽しんでいました。\n\n#科学 #実験 #科学実験 #大学 #楽しさ #能登 #石川 #テレビ金沢 #ニュース",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8mSlff3Imm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8mSlff3Imm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8mSlff3Imm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8mSlff3Imm4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8mSlff3Imm4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレビ金沢NEWS",
+        "playlistId": "UUzeRR8rMI8IkjqGx_MFlUjQ",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8mSlff3Imm4"
+        },
+        "videoOwnerChannelTitle": "テレビ金沢NEWS",
+        "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gz29qQVayHMsX6TNYLH6--qx77E",
+      "id": "VVV6ZVJSOHJNSThJa2pxR3hfTUZsVWpRLmFMa2RkTzI5dUdV",
+      "snippet": {
+        "publishedAt": "2025-10-16T02:53:14Z",
+        "channelId": "UCzeRR8rMI8IkjqGx_MFlUjQ",
+        "title": "【土砂災害などに注意警戒呼び掛け】能登は16日昼過ぎまで“非常に激しい雨”に　加賀は夕方まで“激しい雨”",
+        "description": "【2025.10.16 OA】\n石川県内は、16日の昼前から、雷を伴って激しい雨や非常に激しい雨が降るところがある見込みで、気象台では、土砂災害などに注意警戒するよう呼び掛けています。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/ktk/category/life/kt2d3340c162f043b6a4b8c71ab24efcd5\n\n16日の石川県内は、前線や暖かく湿った空気の影響で、大気の状態が不安定になっています。\n\n午前11時までの1時間には、輪島市門前で14.5ミリ、珠洲と輪島市三井で10.0ミリと、能登を中心に、やや強い雨が降っています。\n\n気象台によりますと、16日は雷を伴って、加賀は夕方まで激しい雨、能登は昼過ぎまで、非常に激しく降るところがある見込みです。\n\n16日に予想される1時間に降る雨量は、多いところで加賀で40ミリ、能登で50ミリ。\n\n17日正午までに予想される24時間に降る雨量は、多いところで加賀で90ミリ、能登で80ミリとなっています。\n\n気象台では16日昼前から夜遅くにかけて、土砂災害や低い土地の浸水、河川の増水に注意・警戒するよう呼び掛けています。\n\n#雨 #加賀 #能登 #土砂災害 #浸水 #増水 #注意 #警戒 #石川 #テレビ金沢 #ニュース",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aLkddO29uGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aLkddO29uGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aLkddO29uGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aLkddO29uGU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aLkddO29uGU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレビ金沢NEWS",
+        "playlistId": "UUzeRR8rMI8IkjqGx_MFlUjQ",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aLkddO29uGU"
         },
         "videoOwnerChannelTitle": "テレビ金沢NEWS",
         "videoOwnerChannelId": "UCzeRR8rMI8IkjqGx_MFlUjQ"

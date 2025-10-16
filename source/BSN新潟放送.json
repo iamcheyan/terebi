@@ -2,40 +2,40 @@
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送公式チャンネル",
   "original_name": "BSN新潟放送",
-  "updated_at": "2025-10-16T00:02:28.439732",
+  "updated_at": "2025-10-17T00:02:23.572443",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "QdoLJHWAxI7l0SVgzobt6rtgg9M",
-      "id": "VVVvQVFOS3hnZkUzMmFpNG1PWE5YdnVnLmJ4S3BudlZmLWhz",
+      "etag": "845r2yRPA3supnoAU9AdiW58MfI",
+      "id": "VVVvQVFOS3hnZkUzMmFpNG1PWE5YdnVnLnV6dnBxUUxiTGx3",
       "snippet": {
-        "publishedAt": "2025-10-15T10:08:03Z",
+        "publishedAt": "2025-10-16T02:47:33Z",
         "channelId": "UCoAQNKxgfE32ai4mOXNXvug",
-        "title": "なじラテ。10月18日（土）ひる12時10分「お仕事体験」新潟空港の裏側に三石アナが潜入！",
-        "description": "新潟空港の裏側に三石アナが潜入！こんなこと、経験したことない！！普段は見られない空港の裏側で、汗だくお仕事体験！！",
+        "title": "「Point  of view」～新潟で働く人が見た景色～　♯１８　株式会社 遠藤製作所",
+        "description": "新潟で働く人たちはどんな想いで仕事をしているのだろう。\nどんな景色を見て、働いているのだろう。\n新潟の企業で働く「人」に注目して、\n仕事の魅力・やりがいを掘り下げます。　　　　　　　　　　　　　　　　　　\n♯１８　遠藤製作所\n公式サイト　　https://endo-mfg.co.jp/\n採用情報　　    https://endo-mfg.co.jp/recruit/\n\n#PR #遠藤製作所 #EPON #医療機器 #ゴルフ #新潟 #燕 #製造",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bxKpnvVf-hs/default.jpg",
+            "url": "https://i.ytimg.com/vi/uzvpqQLbLlw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bxKpnvVf-hs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uzvpqQLbLlw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bxKpnvVf-hs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uzvpqQLbLlw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/bxKpnvVf-hs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/uzvpqQLbLlw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/bxKpnvVf-hs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uzvpqQLbLlw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,284 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "bxKpnvVf-hs"
-        },
-        "videoOwnerChannelTitle": "BSN新潟放送公式チャンネル",
-        "videoOwnerChannelId": "UCoAQNKxgfE32ai4mOXNXvug"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "0MSULNCEwzuH7FZbONSa46J2ay4",
-      "id": "VVVvQVFOS3hnZkUzMmFpNG1PWE5YdnVnLjQ2VkNfME5UbWdJ",
-      "snippet": {
-        "publishedAt": "2025-10-15T10:00:09Z",
-        "channelId": "UCoAQNKxgfE32ai4mOXNXvug",
-        "title": "なじラテ　10月18日（土）ひる12時10分「麦島 侑の手を握っていいですか？」妙高市　外国人観光客も大絶賛！こだわりのみそラーメン",
-        "description": "今回の「手を握っていいですか？」麦島くんは、妙高市をぶらり♪\n外国人観光客も大絶賛！こだわりのみそラーメン＆もちもち生地の大人気クレープ店も登場！！",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/46VC_0NTmgI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/46VC_0NTmgI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/46VC_0NTmgI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/46VC_0NTmgI/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "BSN新潟放送公式チャンネル",
-        "playlistId": "UUoAQNKxgfE32ai4mOXNXvug",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "46VC_0NTmgI"
-        },
-        "videoOwnerChannelTitle": "BSN新潟放送公式チャンネル",
-        "videoOwnerChannelId": "UCoAQNKxgfE32ai4mOXNXvug"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "2fJvh9eWiY8M6YZpZMhOkanpuPg",
-      "id": "VVVvQVFOS3hnZkUzMmFpNG1PWE5YdnVnLkw2Q2pIWk1PbHFB",
-      "snippet": {
-        "publishedAt": "2025-10-15T09:50:51Z",
-        "channelId": "UCoAQNKxgfE32ai4mOXNXvug",
-        "title": "なじラテ　10月18日（土）ひる12時10分「にいがたグルメ大捜査」新潟市秋葉区の人気店！地元で愛される！名物100円コッペパン",
-        "description": "今回の「にいがたグルメ大捜査」は、新潟市秋葉区で発見！\n地元で愛されるベーカリーの、名物100円コッペパン＆新感覚！もち麦で作る絶品リゾットが登場！グルメポリスの横山実郁がおいしさの秘密を徹底取材！！",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/L6CjHZMOlqA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/L6CjHZMOlqA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/L6CjHZMOlqA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/L6CjHZMOlqA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/L6CjHZMOlqA/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BSN新潟放送公式チャンネル",
-        "playlistId": "UUoAQNKxgfE32ai4mOXNXvug",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "L6CjHZMOlqA"
-        },
-        "videoOwnerChannelTitle": "BSN新潟放送公式チャンネル",
-        "videoOwnerChannelId": "UCoAQNKxgfE32ai4mOXNXvug"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "9US5mefl9C5CXOdtwhpBsiFGE9o",
-      "id": "VVVvQVFOS3hnZkUzMmFpNG1PWE5YdnVnLlhSd3RpZjlGcHg4",
-      "snippet": {
-        "publishedAt": "2025-10-15T07:39:13Z",
-        "channelId": "UCoAQNKxgfE32ai4mOXNXvug",
-        "title": "「そらなび」慶地の棚田　秋（十日町市） 2025年10月11日放送回",
-        "description": "十日町市北東部の東下組の山間地を開墾して作られた棚田。約100枚の田んぼが整然と並ぶ美しい風景は、小高い山の上にある展望台から眺めることができ人気となっています。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/XRwtif9Fpx8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/XRwtif9Fpx8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/XRwtif9Fpx8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/XRwtif9Fpx8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/XRwtif9Fpx8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BSN新潟放送公式チャンネル",
-        "playlistId": "UUoAQNKxgfE32ai4mOXNXvug",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "XRwtif9Fpx8"
-        },
-        "videoOwnerChannelTitle": "BSN新潟放送公式チャンネル",
-        "videoOwnerChannelId": "UCoAQNKxgfE32ai4mOXNXvug"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "fOp4ar5E39I4WvhsVhULWAaZ9E4",
-      "id": "VVVvQVFOS3hnZkUzMmFpNG1PWE5YdnVnLjAwUUdIUHdyRE9V",
-      "snippet": {
-        "publishedAt": "2025-10-15T07:15:01Z",
-        "channelId": "UCoAQNKxgfE32ai4mOXNXvug",
-        "title": "\"新潟絶景\" 結東の石垣田 #津南町結東#新潟#お米#秋#BSN#4Kドローン\"2022撮影\"",
-        "description": "「そらなび」結東の石垣田（津南町結東）2022年10月22日放送\n津南町の中心部から約20ｋｍに位置する結東地区。 山道を登った先に少し変わった棚田の風景が広がります。 土手の部分を土ではなく石を積み上げて石垣で固めた「石垣田」の棚田です。 かつて岩と石に覆われた地盤を明治期に先人たちが丹念に整備して石を積み上げて石垣を組み水田にしました。 10haの耕作地に約120枚の石垣田が階段状に並ぶ景観は美しく「つなぐ棚田遺産」に認定されています。 実りの秋を迎え黄金色に輝く美しい景観をお楽しみください。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/00QGHPwrDOU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/00QGHPwrDOU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/00QGHPwrDOU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/00QGHPwrDOU/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/00QGHPwrDOU/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BSN新潟放送公式チャンネル",
-        "playlistId": "UUoAQNKxgfE32ai4mOXNXvug",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "00QGHPwrDOU"
-        },
-        "videoOwnerChannelTitle": "BSN新潟放送公式チャンネル",
-        "videoOwnerChannelId": "UCoAQNKxgfE32ai4mOXNXvug"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "s8Ir_B1Wa3hCR_ppMc5rK3D0eTU",
-      "id": "VVVvQVFOS3hnZkUzMmFpNG1PWE5YdnVnLk5DdTMteGVhZ3Uw",
-      "snippet": {
-        "publishedAt": "2025-10-15T07:00:32Z",
-        "channelId": "UCoAQNKxgfE32ai4mOXNXvug",
-        "title": "\"新潟絶景\" 花坂の棚田 秋  #柏崎市高柳#新潟#棚田百選#お米#BSN#4Kドローン\"2022撮影\"",
-        "description": "「そらなび」花坂の棚田 秋（柏崎市高柳）2022年10月15日放送\n柏崎市の中心部から南へ約２３ｋｍの山間に広がる花坂の棚田。 実りの秋を迎え黄金色に染まります。 この花坂の棚田は【日本の棚田百選】に選ばれていますが、担い手不足のため耕作できない田んぼが増えてきています。 毎年この棚田で米作りをしている男性が「休耕田が増えてきているが、美しい花坂の棚田の風景を後世に残すためにも米作りを続けていきたい」と教えてくれました。 静かな山間に広がる美しい日本の原風景をお楽しみください。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/NCu3-xeagu0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/NCu3-xeagu0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/NCu3-xeagu0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/NCu3-xeagu0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/NCu3-xeagu0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BSN新潟放送公式チャンネル",
-        "playlistId": "UUoAQNKxgfE32ai4mOXNXvug",
-        "position": 5,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "NCu3-xeagu0"
-        },
-        "videoOwnerChannelTitle": "BSN新潟放送公式チャンネル",
-        "videoOwnerChannelId": "UCoAQNKxgfE32ai4mOXNXvug"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ZYp0EgyMmSTi-KPl_AF2wgCaJXs",
-      "id": "VVVvQVFOS3hnZkUzMmFpNG1PWE5YdnVnLjBNV2NPbjNlY0ln",
-      "snippet": {
-        "publishedAt": "2025-10-15T06:45:00Z",
-        "channelId": "UCoAQNKxgfE32ai4mOXNXvug",
-        "title": "\"新潟絶景\" 黄金色 おぐろの棚田群  #上越市安塚区#新潟#お米#BSN#4Kドローン\"2024撮影\"",
-        "description": "「そらなび」黄金色　おぐろの棚田群（上越市安塚区）2024年10月5日放送回\n「棚田ハイウェイ」と呼ばれている上越市の国道405号線沿いでは様々な棚田を見ることができます。\nその1つ「おぐろの棚田群」では実りの季節をむかえた黄金色の稲穂がパッチワークのような景色をみせてくれます。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0MWcOn3ecIg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0MWcOn3ecIg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0MWcOn3ecIg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/0MWcOn3ecIg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/0MWcOn3ecIg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "BSN新潟放送公式チャンネル",
-        "playlistId": "UUoAQNKxgfE32ai4mOXNXvug",
-        "position": 6,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "0MWcOn3ecIg"
+          "videoId": "uzvpqQLbLlw"
         },
         "videoOwnerChannelTitle": "BSN新潟放送公式チャンネル",
         "videoOwnerChannelId": "UCoAQNKxgfE32ai4mOXNXvug"

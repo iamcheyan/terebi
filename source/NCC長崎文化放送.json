@@ -2,40 +2,40 @@
   "channel_id": "UCWkqxFZQSdkR_q8kGz6p9mw",
   "channel_name": "NCC長崎文化放送",
   "original_name": "NCC長崎文化放送",
-  "updated_at": "2025-10-13T00:04:54.094662",
+  "updated_at": "2025-10-17T00:05:42.335888",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "Nydl3EdI2T-bpjo2rgO1pL01BUs",
-      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LkJ2VzhYd3JSSm1N",
+      "etag": "WLtC-r33CiiCQ725JTQJm04STas",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LktYQjU5Unh6ZEhF",
       "snippet": {
-        "publishedAt": "2025-10-12T02:01:13Z",
+        "publishedAt": "2025-10-16T11:20:24Z",
         "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
-        "title": "長崎市立手熊小学校 来年３月閉校 \"絆\"から生まれた｢ちゃんぽん麺｣",
-        "description": "来年３月に１５０年の歴史に幕を下ろす長崎市立手熊小学校。「閉校しても忘れないでほしい」と児童らが長崎市の老舗製麺所とタッグを組み世界初の「ちゃんぽん麺」が誕生。そこには地域との“絆”があった。",
+        "title": "「レーサーを志したのは小学３年生」　ボートレース大村でデビューする１８歳",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BvW8XwrRJmM/default.jpg",
+            "url": "https://i.ytimg.com/vi/KXB59RxzdHE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BvW8XwrRJmM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/KXB59RxzdHE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BvW8XwrRJmM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/KXB59RxzdHE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/BvW8XwrRJmM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/KXB59RxzdHE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/BvW8XwrRJmM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/KXB59RxzdHE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,1622 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "BvW8XwrRJmM"
+          "videoId": "KXB59RxzdHE"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A8-r3gFOJqM_tmp8_tm-_K9wThs",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LjNHS1ZWWlBCZWhV",
+      "snippet": {
+        "publishedAt": "2025-10-16T11:14:37Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "許可を得ずガールズバーで接待営業　容疑で経営者逮捕　風営法改正後「県内初」",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3GKVVZPBehU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3GKVVZPBehU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3GKVVZPBehU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3GKVVZPBehU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3GKVVZPBehU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3GKVVZPBehU"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kgm_uK2g1CbGbNMIalZ-iis207E",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13Lm5XcEhiWUNvVHJN",
+      "snippet": {
+        "publishedAt": "2025-10-16T11:13:32Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "「人気ＳＵＶなどで長崎を楽しんで」　長崎ヴェルカと松藤グループ 車両サプライ契約",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nWpHbYCoTrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nWpHbYCoTrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nWpHbYCoTrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nWpHbYCoTrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nWpHbYCoTrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nWpHbYCoTrM"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qdz5Gui0NZprh2vpS9uC5TntMuE",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LmpyeFBVbE9iWXc0",
+      "snippet": {
+        "publishedAt": "2025-10-16T11:11:37Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "名門・活水中学が生徒募集停止 少子化で生徒数は定員の４分の１に 閉校はせず「再開する可能性も…」",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jrxPUlObYw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jrxPUlObYw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jrxPUlObYw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jrxPUlObYw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jrxPUlObYw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jrxPUlObYw4"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1jR1F3UwmJJvapAA7rf31aoOvu4",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LkdYYlliWTNRMWlR",
+      "snippet": {
+        "publishedAt": "2025-10-16T11:10:29Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "救命にあたった医学生の「血染めの白衣」など　被爆資料を修復・保存　長崎大学クラファン寄付額２４８５万円",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GXbYbY3Q1iQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GXbYbY3Q1iQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GXbYbY3Q1iQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GXbYbY3Q1iQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GXbYbY3Q1iQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GXbYbY3Q1iQ"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I07lSQpCAf-boYiOPjZ0tYaewFU",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LjhvSml0X2Zzd0xj",
+      "snippet": {
+        "publishedAt": "2025-10-16T11:09:53Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "瓊浦高校 国スポ バドミントン少年男子で日本一　「全ての努力が無駄ではなかったと証明できた」",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8oJit_fswLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8oJit_fswLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8oJit_fswLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8oJit_fswLc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8oJit_fswLc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8oJit_fswLc"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rLpqe0VkbXMeAMNYED5TgnsRIQ0",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LjlZMjB1bWdVeDlr",
+      "snippet": {
+        "publishedAt": "2025-10-16T02:56:49Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "ＦＵＮＫＩＳＴ染谷西郷さんらのトークセッションも　「ピースフェス イサハヤ」",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Y20umgUx9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Y20umgUx9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Y20umgUx9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9Y20umgUx9k"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P-0_7LC8VsXYo-N69yOBh3HG5Ro",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LllQN1YwRk1MWmM0",
+      "snippet": {
+        "publishedAt": "2025-10-16T01:00:49Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "ＢＩＲＴＨ～長崎から生まれるモノがたり#222     シエルナガサキ③",
+        "description": "長崎県内で活躍する経営者やクリエイター・アーティストが『創造』し『誕生』した産物を切り口にした２分間のショートストーリー。\n\n2025/10/14放送分\nＢＩＲＴＨ～長崎から生まれるモノがたり～\nhttps://youtube.com/playlist?list=PLtKZFY8M6JSWGZo90UpvWKOnIYEsjOFu1&si=3t8XvaqK6ENQ2CoX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YP7V0FMLZc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YP7V0FMLZc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YP7V0FMLZc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YP7V0FMLZc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YP7V0FMLZc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YP7V0FMLZc4"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k5gOwwSr0lDYpF6l_FVTu4LNqsM",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LlpjRHJUTkhoOVRV",
+      "snippet": {
+        "publishedAt": "2025-10-15T12:37:44Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "犬を放し飼い…警察官ら２人にかみつかせけがさせた疑い ６８歳男を送検　周辺道路を歩き回り８年前から苦情",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZcDrTNHh9TU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZcDrTNHh9TU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZcDrTNHh9TU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZcDrTNHh9TU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZcDrTNHh9TU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZcDrTNHh9TU"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YRTLNAcf1jWfbTQALG2gPcD4d4w",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13Lkg4WGphOEp3bTRF",
+      "snippet": {
+        "publishedAt": "2025-10-15T12:33:36Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "小学生体育大会の種目変更に反応様々　「運動ができる子の活躍の場が・・・」と戸惑いの声も",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H8Xja8Jwm4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H8Xja8Jwm4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H8Xja8Jwm4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H8Xja8Jwm4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H8Xja8Jwm4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H8Xja8Jwm4E"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4lbIbbGvbPvSEcDLkYbiIKKgCEs",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LmtzSnRnMi15bjFv",
+      "snippet": {
+        "publishedAt": "2025-10-15T12:32:13Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "１９４７年設置の活水中学「来年度から生徒募集を停止」　１６日に記者会見",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ksJtg2-yn1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ksJtg2-yn1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ksJtg2-yn1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ksJtg2-yn1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ksJtg2-yn1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ksJtg2-yn1o"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4kY2DJN-S63USJbBn6qnyJo8e3k",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LnQzMFhDbWN5WGZv",
+      "snippet": {
+        "publishedAt": "2025-10-15T12:29:50Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "「歩いて来た」と話すも記憶があいまい　八郎岳で遭難の６０代男性は国道沿いの歩道にうずくまる",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t30XCmcyXfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t30XCmcyXfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t30XCmcyXfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t30XCmcyXfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t30XCmcyXfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t30XCmcyXfo"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QUS5j08ZMplfS-WILqiV-eMCGm8",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LmZ3SmxRblpHTEhN",
+      "snippet": {
+        "publishedAt": "2025-10-15T12:28:14Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "「安全性を重視した乗り物だと改めて感じた」　佐世保市長オスプレイに体験搭乗",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fwJlQnZGLHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fwJlQnZGLHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fwJlQnZGLHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fwJlQnZGLHM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fwJlQnZGLHM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fwJlQnZGLHM"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HUsn09mFCa-_Q22BvJBdQunrF8M",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LmhoLXBfcjJXekJj",
+      "snippet": {
+        "publishedAt": "2025-10-15T12:26:10Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "「市独自の判断で被爆者健康手帳交付を」　長崎原爆の被爆体験者らが要望",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hh-p_r2WzBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hh-p_r2WzBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hh-p_r2WzBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hh-p_r2WzBc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hh-p_r2WzBc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hh-p_r2WzBc"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O0QbcMe1WasLCTUIRuVsxutIxzM",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13Ll9nNzNWbzBQNGRF",
+      "snippet": {
+        "publishedAt": "2025-10-15T12:24:20Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "８００キロ以上のごみを回収　諫早市の海岸で清掃活動",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_g73Vo0P4dE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_g73Vo0P4dE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_g73Vo0P4dE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_g73Vo0P4dE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_g73Vo0P4dE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_g73Vo0P4dE"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "acVRbw7VDo8tma6bw7daRUYI0qc",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13Llo4and2WmlraFE0",
+      "snippet": {
+        "publishedAt": "2025-10-15T11:01:10Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "カッとばせ！ちんねんくん スタンドインへの道　第５打席YouTube",
+        "description": "「トコハピ/トコサタ１０ｔｈプロジェクト」チャレンジ企画！４５歳のちんねんさんは子どもの頃からの夢だったスタンドインホームランを目指しています。\n\n前回の中間試験で思うような結果が出なかったちんねんさん。\n「こんなはずじゃなかった・・・」\n\n悔しさを噛みしめて黙々とトレーニングに励みます。笑顔が少なくなったちんねんさんは「野球の楽しさ」を思い出すために佐世保市を拠点に活動する少年軟式野球チーム「戸尾ファイターズ」の練習場へ。\n\n長崎県№１の実力を誇る子どもたちと一緒に汗を流し楽しく野球と向き合うことが出来るのか？",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z8jwvZikhQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z8jwvZikhQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z8jwvZikhQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z8jwvZikhQ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z8jwvZikhQ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z8jwvZikhQ4"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PedAZ1L0WRdMj6md3MvBD-lRRiM",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LldQbTRuU3RocXFF",
+      "snippet": {
+        "publishedAt": "2025-10-15T11:01:05Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "テレビ初登場のネタが続々！21市町ジモトたび２ｎｄ小値賀町",
+        "description": "秋の小値賀はグルメに芸術、音楽がアツい！\n町にお化け屋敷!?お寺でヘビーメタル!?かっこよすぎる住職登場！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WPm4nSthqqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WPm4nSthqqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WPm4nSthqqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WPm4nSthqqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WPm4nSthqqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WPm4nSthqqE"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ai2U4PEZDvTg36KVFxSbyfOERL8",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13Lm50V3ZRVGVTY1p3",
+      "snippet": {
+        "publishedAt": "2025-10-15T08:35:09Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【LIVE配信】男子決勝 ウインターカップ2025 長崎県大会 ～第78回全国高等学校バスケットボール選手権大会～",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ntWvQTeScZw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ntWvQTeScZw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ntWvQTeScZw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ntWvQTeScZw/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ntWvQTeScZw/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ntWvQTeScZw"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9gXbLORZOiI6vEpQOsDv_s7fKbo",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LlNrVndqXzFuS05j",
+      "snippet": {
+        "publishedAt": "2025-10-15T08:32:53Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【LIVE配信】女子決勝 ウインターカップ2025 長崎県大会 ～第78回全国高等学校バスケットボール選手権大会～",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SkVwj_1nKNc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SkVwj_1nKNc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SkVwj_1nKNc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SkVwj_1nKNc/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SkVwj_1nKNc/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SkVwj_1nKNc"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lSOCB3jHAOqNEyiXgKw3Eb897fI",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13Lkk5ZHNib3M5aXdN",
+      "snippet": {
+        "publishedAt": "2025-10-15T08:08:39Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【高校野球】長崎日大が３季ぶり１７回目の優勝！７回勝ち越し打で長崎西に逆転 栄冠つかむ－秋の県大会決勝",
+        "description": "１０月１３日（月）行われた秋の高校野球長崎大会の決勝は長崎日大と長崎西が対戦。栄冠をつかんだのは…？",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I9dsbos9iwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I9dsbos9iwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I9dsbos9iwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I9dsbos9iwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I9dsbos9iwM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I9dsbos9iwM"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M8MkZUFP3bQUWEh0P_Z0aUhe_R8",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LmI3M1YxaFMtajRv",
+      "snippet": {
+        "publishedAt": "2025-10-14T11:34:22Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "放し飼いの犬に噛まれけが　重過失傷害容疑などで飼い主を逮捕　被害者は市職員と警察官　「飼い主への注意」のため訪問中に",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b73V1hS-j4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b73V1hS-j4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b73V1hS-j4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b73V1hS-j4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b73V1hS-j4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b73V1hS-j4o"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AbiajCdo3iPUiRSU5fxD4mYTyc4",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LnhDbFFHWWlPN1RV",
+      "snippet": {
+        "publishedAt": "2025-10-14T11:16:15Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "長崎市八郎岳に１３日に入山した６０代男性が遭難  警察が約６０人体制で捜索",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xClQGYiO7TU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xClQGYiO7TU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xClQGYiO7TU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xClQGYiO7TU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xClQGYiO7TU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xClQGYiO7TU"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Oc_ejp5jaOGoxyS7gC3WCNG-SUg",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LnFzUm1mbndLcHA4",
+      "snippet": {
+        "publishedAt": "2025-10-14T11:13:00Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "１泊１５０万円！スタジアムシティホテルに超豪華ロイヤルスイート登場",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qsRmfnwKpp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qsRmfnwKpp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qsRmfnwKpp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qsRmfnwKpp8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qsRmfnwKpp8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qsRmfnwKpp8"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Eu3mqQXJSApEcXaNAGwmB5HoTTI",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LmFwYjlkekxheVdB",
+      "snippet": {
+        "publishedAt": "2025-10-14T11:11:50Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "パワハラや長時間労働で警察官が自殺 遺族｢上司に求償を…｣控訴審始まる",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/apb9dzLayWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/apb9dzLayWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/apb9dzLayWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/apb9dzLayWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/apb9dzLayWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "apb9dzLayWA"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zU40nSdUwPVcp0FaCN9NQtl6mFA",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LmIwZWRmNm1Eay1V",
+      "snippet": {
+        "publishedAt": "2025-10-14T11:10:29Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "豚角煮・アジフライ・カステラ…セブン‐イレブンで１５日から「佐賀長崎フェア」開催",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b0edf6mDk-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b0edf6mDk-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b0edf6mDk-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b0edf6mDk-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b0edf6mDk-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b0edf6mDk-U"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iBblqbVo--BdBvTPrKuFOXEjg6E",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LmN5OExveWEyVEdF",
+      "snippet": {
+        "publishedAt": "2025-10-14T11:05:19Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "子狐も奮闘！若宮稲荷神社 秋の大祭｢竹ン芸｣白狐が秋空舞う",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cy8Loya2TGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cy8Loya2TGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cy8Loya2TGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cy8Loya2TGE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cy8Loya2TGE"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SkoVTrfDw6qgrDvTm3EJtHi0Prc",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13Lld5NDJSbmNtUXFB",
+      "snippet": {
+        "publishedAt": "2025-10-14T10:40:39Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【10月18日(土)トコサタPR 】あなたの母国の料理を教えて！お国めし",
+        "description": "長崎LOVEな外国人が母国料理を紹介する「お国めし」！美しい北欧の「世界一臭い」料理に島国のふわふわ新感覚スイーツとは▼９０店舗が神社でマルシェ！庭フェス中継",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wy42RncmQqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wy42RncmQqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wy42RncmQqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wy42RncmQqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wy42RncmQqA"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SsL1t-iS1EMpOYwtgp9SWHB362Q",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LmdXR1VKYXNwemlj",
+      "snippet": {
+        "publishedAt": "2025-10-14T10:36:55Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【10月17日(金）トコハピPR 】長与町で秋探し「イマンのイマ何歩」▼見頃！秋の大村コスモス中継",
+        "description": "特集…5千歩あるいて発見！足湯や珍スポーツ、粘土工芸が体験できるカフェ。絶景！大村湾の夕焼けも▼中継…約30万本のコスモスと秋パフェが人気のカフェ（大村市）",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gWGUJaspzic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gWGUJaspzic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gWGUJaspzic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gWGUJaspzic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gWGUJaspzic"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eaAVURPHlATQYNSqfqPCIbmzdrM",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LjRnVDcyNjFwcVpz",
+      "snippet": {
+        "publishedAt": "2025-10-14T10:14:44Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "ご当地スイーツ「シースクリーム」の味を　嚥下障害の人にも食べやすく",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4gT7261pqZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4gT7261pqZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4gT7261pqZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4gT7261pqZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4gT7261pqZs"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aRdRSMMPwiR8Ayh7qF7ZtNGugfQ",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LjMwOER3akFrOGY0",
+      "snippet": {
+        "publishedAt": "2025-10-14T03:00:29Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【高校野球】長崎西が2002年春以来47季ぶりの九州大会出場、決勝進出は70年ぶりー秋の県大会",
+        "description": "第157回九州地区高校野球県大会の準決勝第２試合は、３回戦で優勝候補の海星を破るなど強豪校を次々と倒す快進撃を見せる長崎西と同じ県立高校・大崎が対戦です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/308DwjAk8f4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/308DwjAk8f4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/308DwjAk8f4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/308DwjAk8f4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/308DwjAk8f4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "308DwjAk8f4"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5HlzhP6RaoVF9Cc-rVIMRTp8Nkg",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LjJFbGo3LUpvMW5N",
+      "snippet": {
+        "publishedAt": "2025-10-13T12:16:59Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【高校野球】九州大会出場懸け準決勝で長崎日大と九州文化が激突！今年夏の準決勝と同カードの因縁対決にー秋の県大会",
+        "description": "第157回九州地区高校野球県大会の準決勝第１試合は、今年夏の準決勝と同じカード。九州文化と長崎日大による激しい打ち合いとなりました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Elj7-Jo1nM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Elj7-Jo1nM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Elj7-Jo1nM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Elj7-Jo1nM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2Elj7-Jo1nM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2Elj7-Jo1nM"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M5AySztcsZXyYcvAP6pfbxJD8xU",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LnNuQXlPRE1Wcjc0",
+      "snippet": {
+        "publishedAt": "2025-10-13T12:14:44Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【長崎】スタジアムシティレストランがリニューアル",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/snAyODMVr74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/snAyODMVr74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/snAyODMVr74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/snAyODMVr74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/snAyODMVr74/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "snAyODMVr74"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2NXULy4FDj8kafSLbcQwcNjprho",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LnVHeGhQcGx1WVlV",
+      "snippet": {
+        "publishedAt": "2025-10-13T12:12:50Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【長崎】第２７回市民スポーツ・レクリエーション祭",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uGxhPpluYYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uGxhPpluYYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uGxhPpluYYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uGxhPpluYYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uGxhPpluYYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uGxhPpluYYU"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T95cueJm3BC2F6AGRCECHyM6Sis",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LnZ3cGFGbkllZzJV",
+      "snippet": {
+        "publishedAt": "2025-10-13T12:11:05Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "スポーツの秋を満喫！「スポ魂DAY in ココウォーク」",
+        "description": "１０月１１日（土）１２日（日）みらい長崎ココウォークで開かれた「スポ魂ＤＡＹ」。\r\nラダーゲッター、モルック、ボッチャなど室内外で楽しめる競技で盛り上がりました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vwpaFnIeg2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vwpaFnIeg2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vwpaFnIeg2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vwpaFnIeg2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vwpaFnIeg2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vwpaFnIeg2U"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zCYh4POeWIo1e1YwN0A-BOGTR7M",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13LnB6VXI1OXRmRHlN",
+      "snippet": {
+        "publishedAt": "2025-10-13T11:46:32Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【長崎】浜屋百貨店「全国選抜うまいもの大会」盛況",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pzUr59tfDyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pzUr59tfDyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pzUr59tfDyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pzUr59tfDyM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pzUr59tfDyM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pzUr59tfDyM"
+        },
+        "videoOwnerChannelTitle": "NCC長崎文化放送",
+        "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YXhORlzkfKneHYdWekqpHy3z7hY",
+      "id": "VVVXa3F4RlpRU2RrUl9xOGtHejZwOW13Li1hMnZ0c1kwV3pz",
+      "snippet": {
+        "publishedAt": "2025-10-13T11:34:32Z",
+        "channelId": "UCWkqxFZQSdkR_q8kGz6p9mw",
+        "title": "【長崎】平戸市長選告示 新人３人が立候補",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-a2vtsY0Wzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-a2vtsY0Wzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-a2vtsY0Wzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-a2vtsY0Wzs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-a2vtsY0Wzs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NCC長崎文化放送",
+        "playlistId": "UUWkqxFZQSdkR_q8kGz6p9mw",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-a2vtsY0Wzs"
         },
         "videoOwnerChannelTitle": "NCC長崎文化放送",
         "videoOwnerChannelId": "UCWkqxFZQSdkR_q8kGz6p9mw"
