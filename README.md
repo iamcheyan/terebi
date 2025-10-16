@@ -29,6 +29,42 @@
 
 3. チャンネルリストが表示され、ランダムに選択されたチャンネルの動画が再生されます。
 
+## 一発追加（追加→抓取→头像→缩略图）
+
+新脚本 `add_channel_interactive.py` 支持一条命令完成从“添加频道”到“抓取视频列表与头像并生成缩略图”的全流程。
+
+前提：
+- `WEB-INF/config.properties` 中已配置至少一个 `youtube.apikeyN=...`
+- 推荐使用项目自带 venv 运行（已内置 Pillow）
+
+用法：
+```bash
+# 交互输入频道URL
+/Users/tetsuya/Dev/Terebi/venv/bin/python add_channel_interactive.py
+
+# 或直接传参
+/Users/tetsuya/Dev/Terebi/venv/bin/python add_channel_interactive.py --url https://www.youtube.com/@shioneru
+
+# 可选：自定义显示名称与归类
+/Users/tetsuya/Dev/Terebi/venv/bin/python add_channel_interactive.py \
+  --url https://www.youtube.com/@mezamashitvchannel \
+  --name "めざましテレビチャンネル" \
+  --category "その他" \
+  --subcategory "その他チャンネル"
+```
+
+脚本会：
+- 覆盖/添加频道到 `japan_tv_youtube_channels.json`（不设置 skip，`cached:false`）
+- 解析频道ID并调用 YouTube Data API 抓取上传列表（默认最多 200 条），生成 `data/{名称}.json`
+- 下载频道头像到 `img/{名称}.jpg`
+- 生成前端用缩略图 `img/resized/{名称}.jpg`
+- 结束后提示刷新网页即可看到新频道及头像
+
+常见问题：
+- 提示 Pillow 未安装：请使用项目自带 venv，或在当前环境安装 `pillow`。
+- 头像仍显示占位图：确认已生成 `img/resized/{名称}.jpg`，并与 `channel.name` 大小写完全一致；刷新浏览器缓存。
+- 百分号编码的 handle（如 `%E3%82%81...`）：脚本会自动解码并用实际标题覆盖名称。
+
 ## 必要条件
 
 - Python 3.x
@@ -155,6 +191,12 @@ python tools/get_channel_videos.py --upload
 ```bash
 python tools/get_picture.py
 ```
+
+> 提示：若仅需批量下载/更新头像与缩略图，也可使用统一入口：
+> ```bash
+> python backend/runner.py avatars
+> python backend/runner.py resize-logos
+> ```
 
 ### 6. run.py
 

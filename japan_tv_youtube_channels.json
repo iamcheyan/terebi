@@ -35,6 +35,11 @@
                 "name": "FNNプライムオンライン",
                 "url": "https://www.youtube.com/@FNNnewsCH",
                 "cached": true
+            },
+            {
+                "name": "めざましテレビチャンネル",
+                "url": "https://www.youtube.com/@mezamashitvchannel",
+                "cached": false
             }
         ],
         "テレビ朝日系": [
@@ -609,6 +614,21 @@
                 "url": "https://www.youtube.com/@tsc2048",
                 "bakname": "テレビせとうち_TSC_",
                 "cached": true
+            },
+            {
+                "name": "BSS山陰放送ラッテチャンネル",
+                "url": "https://www.youtube.com/channel/UC5f3JQdmlT_7W1l1kpwzkJQ",
+                "cached": true
+            },
+            {
+                "name": "KRY山口放送公式チャンネル",
+                "url": "https://www.youtube.com/@KRYChannel",
+                "cached": true
+            },
+            {
+                "name": "KRY山口放送ニュース公式チャンネル",
+                "url": "https://www.youtube.com/@KRYNewsChannel",
+                "cached": false
             }
         ],
         "四国地方": [
@@ -799,12 +819,6 @@
         ],
         "その他チャンネル": [
             {
-                "name": "めざましテレビチャンネル",
-                "url": "https://www.youtube.com/@mezamashitvchannel",
-                "skip": true,
-                "cached": true
-            },
-            {
                 "name": "クレヨンしんちゃん公式チャンネル",
                 "url": "https://www.youtube.com/@kureshin_official",
                 "skip": true,
@@ -823,39 +837,29 @@
                 "cached": true
             },
             {
-                "name": "KRY山口放送公式チャンネル",
-                "url": "https://www.youtube.com/@(143) KRY山口放送公式チャンネル - YouTube",
-                "cached": true
-            },
-            {
-                "name": "BSS山陰放送ラッテチャンネル",
-                "url": "https://www.youtube.com/channel/UC5f3JQdmlT_7W1l1kpwzkJQ",
-                "cached": true
-            },
-            {
-                "name": "mezamashitvchannel",
-                "url": "https://www.youtube.com/@mezamashitvchannel",
-                "cached": false
-            },
-            {
                 "name": "TMSアニメ公式チャンネル【アニメ制作60周年】",
                 "url": ""
             },
             {
+                "name": "@iamcheyan",
+                "url": "https://www.youtube.com/@iamcheyan",
+                "cached": false,
+                "skip": true
+            },
+            {
+                "name": "しおねる",
+                "url": "https://www.youtube.com/@shioneru",
+                "cached": false
+            },
+            {
                 "name": "文部科学省",
-                "url": ""
+                "url": "https://www.youtube.com/@mextchannel",
+                "cached": false
             },
             {
-                "name": "山口放送_KRY_",
-                "url": ""
-            },
-            {
-                "name": "ドラえもん __ 藤子_F_不二雄チャンネル",
-                "url": ""
-            },
-            {
-                "name": "めざましテレビチャンネル",
-                "url": ""
+                "name": "TMSanimeJP",
+                "url": "https://www.youtube.com/@TMSanimeJP",
+                "cached": false
             }
         ]
     }

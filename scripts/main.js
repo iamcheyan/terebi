@@ -754,10 +754,38 @@ function createChannelButton(channel) {
     const avatarImg = document.createElement('img');
     avatarImg.src = `img/resized/${encodeURIComponent(channel.name)}.jpg`;
     avatarImg.onerror = async function() {
-        // 当使用name加载失败时，尝试使用bakname
+        // 当使用name加载失败时，优先尝试bakname
         if (channel.bakname && channel.bakname.trim() !== "") {
             this.src = `img/resized/${encodeURIComponent(channel.bakname)}.jpg`;
         } else {
+            // 其次：从URL中提取稳定标识（handle/UC.../user/c）作为文件名
+            try {
+                const url = channel.url || "";
+                let key = null;
+                // @handle
+                let m = url.match(/youtube\.com\/@([^/?#]+)/);
+                if (m) key = decodeURIComponent(m[1]);
+                // channel/UC...
+                if (!key) {
+                    m = url.match(/youtube\.com\/channel\/(UC[\w-]{20,})/);
+                    if (m) key = m[1];
+                }
+                // user/xxx
+                if (!key) {
+                    m = url.match(/youtube\.com\/user\/([^/?#]+)/);
+                    if (m) key = m[1];
+                }
+                // c/xxx
+                if (!key) {
+                    m = url.match(/youtube\.com\/c\/([^/?#]+)/);
+                    if (m) key = m[1];
+                }
+                if (key) {
+                    this.src = `img/resized/${encodeURIComponent(key)}.jpg`;
+                    return;
+                }
+            } catch (_) {}
+
             // 如果没有bakname或bakname也加载失败，尝试从频道列表中查找bakname
             try {
                 const response = await fetch('japan_tv_youtube_channels.json');
