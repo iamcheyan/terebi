@@ -384,6 +384,33 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
     # 检查频道是否已存在
     if check_channel_exists(url):
         print(f"⏭️ 频道已存在，跳过: {name}")
+        # 如果已存在但缺少数据文件，生成一个空的数据文件，避免前端404
+        data_path = DATA_DIR / f"{name}.json"
+        if not data_path.exists():
+            try:
+                empty = {
+                    "channel_id": "",
+                    "channel_name": name,
+                    "updated_at": datetime.now(timezone.utc).isoformat(),
+                    "videos": []
+                }
+                DATA_DIR.mkdir(exist_ok=True)
+                with open(data_path, "w", encoding="utf-8") as f:
+                    json.dump(empty, f, ensure_ascii=False, indent=2)
+                print(f"🧩 已补齐空数据文件: {data_path}")
+            except Exception:
+                pass
+        # 同时保证有占位头像
+        placeholder = IMG_RESIZED_DIR / "placeholder.jpg"
+        target_logo = IMG_RESIZED_DIR / f"{name}.jpg"
+        try:
+            IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
+            if placeholder.exists() and not target_logo.exists():
+                import shutil
+                shutil.copyfile(placeholder, target_logo)
+                print(f"🧩 已复制占位头像: {target_logo}")
+        except Exception:
+            pass
         return True
 
     # 添加到配置
@@ -399,6 +426,19 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
     keys = load_api_keys()
     if not keys:
         print("❌ 未在 WEB-INF/config.properties 中找到 youtube.apikey，无法抓取。仅完成添加到配置。")
+        # 仍然生成空的数据文件，避免前端404
+        out_path = save_data_file(name=name, channel_id="", channel_title=name, videos=[])
+        print(f"🧩 已生成空数据文件：{out_path}")
+        # 占位头像
+        try:
+            placeholder = IMG_RESIZED_DIR / "placeholder.jpg"
+            target_logo = IMG_RESIZED_DIR / f"{name}.jpg"
+            IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
+            if placeholder.exists() and not target_logo.exists():
+                import shutil
+                shutil.copyfile(placeholder, target_logo)
+        except Exception:
+            pass
         return True
 
     # 轮换 API Key 解析频道ID
@@ -411,6 +451,19 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
             break
     if not ch_id:
         print("❌ 无法解析频道ID，抓取终止。已完成添加到配置。")
+        # 仍然生成空的数据文件，避免前端404
+        out_path = save_data_file(name=name, channel_id="", channel_title=name, videos=[])
+        print(f"🧩 已生成空数据文件：{out_path}")
+        # 占位头像
+        try:
+            placeholder = IMG_RESIZED_DIR / "placeholder.jpg"
+            target_logo = IMG_RESIZED_DIR / f"{name}.jpg"
+            IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
+            if placeholder.exists() and not target_logo.exists():
+                import shutil
+                shutil.copyfile(placeholder, target_logo)
+        except Exception:
+            pass
         return True
 
     videos = fetch_channel_uploads(ch_id, api_key, max_count=200)

@@ -64,6 +64,7 @@
 ```
 
 脚本会：
+- **智能跳过**：检查频道是否已存在，存在则跳过，避免消耗API
 - 覆盖/添加频道到 `japan_tv_youtube_channels.json`（不设置 skip，`cached:false`）
 - 解析频道ID并调用 YouTube Data API 抓取上传列表（默认最多 200 条），生成 `data/{名称}.json`
 - 下载频道头像到 `img/{名称}.jpg`
