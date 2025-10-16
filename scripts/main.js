@@ -353,7 +353,7 @@ function isMobileDevice() {
 
 // 页面加载完成后初始化
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('页面已加载，初始化应用...');
+    console.log('ページが読み込まれ、アプリを初期化します...');
     
     // 初始化DOM元素引用
     statusElement = document.getElementById('status');
@@ -365,7 +365,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // 检查元素是否存在
     if (!statusElement || !videoContainer || !channelSelector || !channelCategories || !playerContainer) {
-        console.error('无法找到必要的DOM元素');
+        console.error('必要なDOM要素が見つかりません');
         return;
     }
     
@@ -394,7 +394,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (isMobileDevice()) {
         loadMobileStyles();
     } else {
-        console.log('PC端样式已加载');
+        console.log('PC向けスタイルを読み込みました');
     }
     
    
@@ -437,7 +437,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // 加载YouTube API
 function loadYouTubeAPI() {
-    console.log('加载YouTube API...');
+    console.log('YouTube APIを読み込み中...');
     let tag = document.createElement('script');
     tag.src = "https://www.youtube.com/iframe_api";
     let firstScriptTag = document.getElementsByTagName('script')[0];
@@ -446,10 +446,10 @@ function loadYouTubeAPI() {
 
 // YouTube API准备就绪时的回调函数
 function onYouTubeIframeAPIReady() {
-    console.log('YouTube API已加载完成');
+    console.log('YouTube APIの読み込みが完了しました');
     // 检查是否有待播放的视频
     if (pendingVideoId) {
-        console.log('播放待播放的视频:', pendingVideoId);
+        console.log('キューにある動画を再生:', pendingVideoId);
         const queuedVideo = pendingVideoId;
         pendingVideoId = null;
         playVideo(queuedVideo);
@@ -466,7 +466,7 @@ function loadMobileStyles() {
     
     // 添加移动端标记类
     document.documentElement.classList.add('mobile-device');
-    console.log('移动端样式已加载');
+    console.log('モバイル向けスタイルを読み込みました');
 
     // 处理移动端布局
     setTimeout(function() {
@@ -2151,16 +2151,16 @@ async function loadChannelStats() {
         
         // 显示加载状态
         openChannelStatsPanel();
-        updateStatsContent('正在加载频道数据...');
+        updateStatsContent('チャンネルデータを読み込み中...');
         
         // 获取频道列表数据
         const response = await fetch('japan_tv_youtube_channels.json');
         if (!response.ok) {
-            throw new Error('无法获取频道列表: ' + response.status);
+            throw new Error('チャンネル一覧を取得できません: ' + response.status);
         }
         
         const channelData = await response.json();
-        console.log('频道列表数据:', channelData);
+        console.log('チャンネルリストデータ:', channelData);
         
         // 收集所有频道信息
         const allChannels = [];
@@ -2180,7 +2180,7 @@ async function loadChannelStats() {
             });
         });
         
-        console.log(`找到 ${allChannels.length} 个频道`);
+        console.log(`チャンネルを ${allChannels.length} 件見つけました`);
         
         // 为每个频道尝试加载视频数据
         const channelPromises = allChannels.map(async (channel) => {
@@ -2222,7 +2222,7 @@ async function loadChannelStats() {
                     };
                 }
             } catch (error) {
-                console.error(`加载频道 ${channel.name} 数据失败:`, error);
+                console.error(`チャンネル ${channel.name} のデータ読み込みに失敗:`, error);
                 return {
                     channelName: channel.name,
                     videoCount: 0,
@@ -2249,8 +2249,8 @@ async function loadChannelStats() {
         displayChannelStats();
         
     } catch (error) {
-        console.error('加载频道统计数据失败:', error);
-        updateStatsContent('加载数据失败，请稍后重试。');
+        console.error('チャンネル統計データの読み込みに失敗:', error);
+        updateStatsContent('読み込みに失敗しました。しばらくしてからお試しください。');
     }
 }
 
