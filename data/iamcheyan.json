@@ -1,13 +1,31 @@
 {
   "channel_id": "UCd1_0KVuTR0i5YtFa3BUPhA",
   "channel_name": "澈言",
-  "updated_at": "2025-10-16T15:07:09.528127",
+  "updated_at": "2025-10-16T16:44:27.696118+00:00",
   "videos": [
     {
       "id": "nJZTpk1Lf_8",
       "title": "私に関するドキュメンタリー",
-      "thumbnail": "https://i.ytimg.com/vi/nJZTpk1Lf_8/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?time_continue=1&v=nJZTpk1Lf_8&embeds_referring_euri=https%3A%2F%2Fiamcheyan.com%2F&source_ve_path=Mjg2NjY"
+      "description": "2016年 中国における起業過程を記録したドキュメンタリー 起業・業務・執筆・生活を紹介 著作権：中国搜狐動画株式会社.",
+      "publishedAt": "2025-09-25T13:47:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nJZTpk1Lf_8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nJZTpk1Lf_8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nJZTpk1Lf_8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nJZTpk1Lf_8"
     }
   ]
 }
