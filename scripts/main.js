@@ -956,53 +956,61 @@ async function getChannelUploads(channelId, channelName) {
 
         // 首先尝试使用频道名称构建URL
         if (channelName) {
-            jsonUrl = new URL('data/' + encodeURIComponent(channelName) + '.json', window.location.href).pathname;
-            // console.log('调试信息 - 使用频道名称构建JSON URL:', jsonUrl);
-            
-            // 尝试获取JSON文件
+            // 构建候选文件名（优先顺序）
+            const candidates = [];
+            // 1) 完整显示名
+            candidates.push(channelName);
+            // 2) 去除全角括号后缀（如：めざましテレビチャンネル（フジテレビ） → めざましテレビチャンネル）
+            const baseName = channelName.replace(/（[^）]*）$/, '').trim();
+            if (baseName && baseName !== channelName) candidates.push(baseName);
+
+            // 3) 从配置中取 bakname 与 handle
             try {
-                let testResponse = await fetch(jsonUrl);
-                if (testResponse.ok) {
-                    console.log('调试信息 - 使用频道名称成功获取到JSON文件:', jsonUrl);
-                } else {
-                    throw new Error('使用频道名称无法获取JSON文件');
-                }
-            } catch (error) {
-                console.log('调试信息 - 使用频道名称获取失败，尝试使用bakname');
-                
-                // 如果使用频道名称失败，尝试获取bakname
                 const response = await fetch('japan_tv_youtube_channels.json');
                 const channelsData = await response.json();
-                
-                // 查找对应的频道信息
                 let foundChannel = null;
-                // 遍历所有地区
                 for (const region in channelsData) {
-                    // 遍历每个地区下的分类
                     for (const category in channelsData[region]) {
-                        // 遍历分类下的频道列表
                         const channels = channelsData[region][category];
+                        if (!Array.isArray(channels)) continue;
                         const found = channels.find(channel => 
-                            channel.url.includes(channelId) || 
-                            channel.name === channelName
+                            (channel.url && channelId && channel.url.includes(channelId)) || 
+                            channel.name === channelName || channel.name === baseName
                         );
-                        if (found) {
-                            foundChannel = found;
-                            break;
-                        }
+                        if (found) { foundChannel = found; break; }
                     }
                     if (foundChannel) break;
                 }
-
-                // console.log('调试信息 - 找到的频道信息:', foundChannel);
-
-                // 使用bakname构建新的URL
-                if (foundChannel && foundChannel.bakname && foundChannel.bakname.trim() !== "") {
-                    jsonUrl = new URL('data/' + encodeURIComponent(foundChannel.bakname) + '.json', window.location.href).pathname;
-                    // console.log('调试信息 - 使用bakname构建JSON URL:', jsonUrl);
-                } else {
-                    throw new Error('無効なチャンネル情報です');
+                if (foundChannel) {
+                    if (foundChannel.bakname && foundChannel.bakname.trim() !== '') {
+                        candidates.push(foundChannel.bakname.trim());
+                    }
+                    // 从URL提取 @handle
+                    if (foundChannel.url && foundChannel.url.includes('/@')) {
+                        const handle = decodeURIComponent(foundChannel.url.split('/@').pop().split(/[/?#]/)[0]);
+                        if (handle) candidates.push(handle);
+                    }
                 }
+            } catch (e) {
+                // 忽略配置加载失败，继续使用已有候选
+            }
+
+            // 依次尝试加载候选 JSON
+            let loaded = false;
+            for (const cand of candidates) {
+                const tryUrl = new URL('data/' + encodeURIComponent(cand) + '.json', window.location.href).pathname;
+                try {
+                    const resp = await fetch(tryUrl);
+                    if (resp.ok) {
+                        jsonUrl = tryUrl;
+                        loaded = true;
+                        break;
+                    }
+                } catch (_) { /* ignore */ }
+            }
+
+            if (!loaded) {
+                throw new Error('使用候选名称均无法获取JSON文件');
             }
         } else {
             throw new Error('チャンネル名が見つかりません');

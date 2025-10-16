@@ -37,8 +37,9 @@
         "cached": true
       },
       {
-        "name": "めざましテレビチャンネル",
+        "name": "めざましテレビチャンネル（フジテレビ）",
         "url": "https://www.youtube.com/@mezamashitvchannel",
+        "bakname": "mezamashitvchannel",
         "cached": false
       }
     ],
@@ -1013,13 +1014,6 @@
       {
         "name": "iamcheyan",
         "url": "https://www.youtube.com/@iamcheyan",
-        "bakname": "",
-        "cached": false,
-        "skip": false
-      },
-      {
-        "name": "めざましテレビチャンネル",
-        "url": "https://www.youtube.com/@めざましテレビチャンネル",
         "bakname": "",
         "cached": false,
         "skip": false
