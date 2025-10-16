@@ -13,7 +13,7 @@ import urllib.request
 from io import BytesIO
 
 try:
-    from PIL import Image  # 头像缩放（可选）
+    from PIL import Image  # 头像缩放
 except Exception:
     Image = None
 
@@ -53,6 +53,17 @@ def ensure_category(channels_data: dict, category: str, subcategory: str) -> Non
         channels_data[category][subcategory] = []
 
 
+def channel_exists(channels_data: dict, url: str) -> bool:
+    for group in channels_data.values():
+        if isinstance(group, dict):
+            for lst in group.values():
+                if isinstance(lst, list):
+                    for ch in lst:
+                        if ch.get("url") == url:
+                            return True
+    return False
+
+
 def upsert_channel(url: str, name: str, category: str, subcategory: str) -> bool:
     if not CHANNELS_FILE.exists():
         print(f"❌ 未找到配置文件: {CHANNELS_FILE}")
@@ -61,12 +72,12 @@ def upsert_channel(url: str, name: str, category: str, subcategory: str) -> bool
     with open(CHANNELS_FILE, "r", encoding="utf-8") as f:
         channels_data = json.load(f)
 
-    # 覆盖匹配URL的既有记录
+    # 尝试覆盖（按 URL 匹配并更新 name/cached 字段）
     replaced = False
-    for group in channels_data.values():
+    for group_key, group in channels_data.items():
         if not isinstance(group, dict):
             continue
-        for lst in group.values():
+        for sub_key, lst in group.items():
             if not isinstance(lst, list):
                 continue
             for ch in lst:
@@ -83,14 +94,20 @@ def upsert_channel(url: str, name: str, category: str, subcategory: str) -> bool
     ensure_category(channels_data, category, subcategory)
 
     if not replaced:
-        record = {"name": name, "url": url, "cached": False}
-        channels_data[category][subcategory].append(record)
+        record = {
+            "name": name,
+            "url": url,
+            "cached": False
+            # 不设置 skip，确保后续抓取时会被处理
+        }
+        channels = channels_data[category][subcategory]
+        channels.append(record)
 
     with open(CHANNELS_FILE, "w", encoding="utf-8") as f:
         json.dump(channels_data, f, ensure_ascii=False, indent=4)
 
     if replaced:
-        print(f"✅ 已覆盖频道: 名称='{name}', URL='{url}'（保持原位置）")
+        print(f"✅ 已覆盖频道: 名称='{name}', URL='{url}'（保持在原分类/子分类位置）")
     else:
         print(f"✅ 已添加频道: 名称='{name}', URL='{url}', 分类='{category}', 子分类='{subcategory}'")
     return True
@@ -121,18 +138,25 @@ def load_api_keys() -> List[str]:
 
 def http_get_json(url: str, params: dict) -> Optional[dict]:
     full = url + "?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(full, headers={"User-Agent": "Mozilla/5.0 (compatible; TerebiBot/1.0)"})
+    req = urllib.request.Request(full, headers={
+        "User-Agent": "Mozilla/5.0 (compatible; TerebiBot/1.0)"
+    })
     with urllib.request.urlopen(req, timeout=20) as resp:
         data = resp.read()
         return json.loads(data.decode("utf-8"))
 
 
 def resolve_channel_id(url: str, api_key: str) -> Tuple[Optional[str], Optional[str]]:
+    """返回 (channel_id, channel_title)。"""
     # 直接包含 UC 开头
     m = re.search(r"youtube\.com/channel/(UC[\w-]{20,})", url)
     if m:
         channel_id = m.group(1)
-        ch = http_get_json("https://www.googleapis.com/youtube/v3/channels", {"part": "snippet", "id": channel_id, "key": api_key})
+        # 获取标题
+        ch = http_get_json(
+            "https://www.googleapis.com/youtube/v3/channels",
+            {"part": "snippet", "id": channel_id, "key": api_key}
+        )
         title = None
         try:
             title = ch.get("items", [])[0]["snippet"]["title"]
@@ -140,9 +164,18 @@ def resolve_channel_id(url: str, api_key: str) -> Tuple[Optional[str], Optional[
             title = None
         return channel_id, title
 
-    # 通过 handle / user / c 搜索
+    # handle 或 user/c 统一用 search
     identifier = extract_handle_or_id(url)
-    sr = http_get_json("https://www.googleapis.com/youtube/v3/search", {"part": "snippet", "q": identifier, "type": "channel", "maxResults": 5, "key": api_key})
+    sr = http_get_json(
+        "https://www.googleapis.com/youtube/v3/search",
+        {
+            "part": "snippet",
+            "q": identifier,
+            "type": "channel",
+            "maxResults": 5,
+            "key": api_key,
+        }
+    )
     if not sr or not sr.get("items"):
         return None, None
     item = sr["items"][0]
@@ -157,7 +190,12 @@ def fetch_channel_uploads(channel_id: str, api_key: str, max_count: int = 200) -
     page_token = None
     results: List[dict] = []
     while True:
-        params = {"part": "snippet", "playlistId": playlist_id, "maxResults": 50, "key": api_key}
+        params = {
+            "part": "snippet",
+            "playlistId": playlist_id,
+            "maxResults": 50,
+            "key": api_key,
+        }
         if page_token:
             params["pageToken"] = page_token
         data = http_get_json(url, params)
@@ -169,6 +207,7 @@ def fetch_channel_uploads(channel_id: str, api_key: str, max_count: int = 200) -
             vid = rid.get("videoId")
             title = sn.get("title", "")
             thumbs = sn.get("thumbnails", {})
+            # 按质量优先
             thumb_url = (
                 (thumbs.get("maxres") or {}).get("url") or
                 (thumbs.get("standard") or {}).get("url") or
@@ -178,7 +217,12 @@ def fetch_channel_uploads(channel_id: str, api_key: str, max_count: int = 200) -
                 ""
             )
             if vid:
-                results.append({"id": vid, "title": title, "thumbnail": thumb_url, "url": f"https://www.youtube.com/watch?v={vid}"})
+                results.append({
+                    "id": vid,
+                    "title": title,
+                    "thumbnail": thumb_url,
+                    "url": f"https://www.youtube.com/watch?v={vid}",
+                })
                 if len(results) >= max_count:
                     break
         if len(results) >= max_count:
@@ -192,7 +236,12 @@ def fetch_channel_uploads(channel_id: str, api_key: str, max_count: int = 200) -
 def save_data_file(name: str, channel_id: str, channel_title: str, videos: List[dict]) -> Path:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     path = DATA_DIR / f"{name}.json"
-    payload = {"channel_id": channel_id, "channel_name": channel_title or name, "updated_at": datetime.now(timezone.utc).isoformat(), "videos": videos}
+    payload = {
+        "channel_id": channel_id,
+        "channel_name": channel_title or name,
+        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "videos": videos,
+    }
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
     return path
@@ -208,7 +257,12 @@ def pick_best_thumbnail(snippet: dict) -> Optional[str]:
 
 
 def download_channel_avatar(channel_id: str, api_key: str, save_name: str) -> Tuple[Optional[Path], Optional[Path]]:
-    ch = http_get_json("https://www.googleapis.com/youtube/v3/channels", {"part": "snippet", "id": channel_id, "key": api_key})
+    """下载频道头像并生成缩略图，返回 (原图路径, 缩略图路径)。"""
+    # 拉取频道信息以获取缩略图
+    ch = http_get_json(
+        "https://www.googleapis.com/youtube/v3/channels",
+        {"part": "snippet", "id": channel_id, "key": api_key}
+    )
     try:
         snippet = ch.get("items", [])[0]["snippet"]
     except Exception:
@@ -217,6 +271,7 @@ def download_channel_avatar(channel_id: str, api_key: str, save_name: str) -> Tu
     if not img_url:
         return None, None
 
+    # 下载图片
     try:
         req = urllib.request.Request(img_url, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=20) as resp:
@@ -229,18 +284,22 @@ def download_channel_avatar(channel_id: str, api_key: str, save_name: str) -> Tu
     raw_path = IMG_DIR / f"{save_name}.jpg"
     resized_path = IMG_RESIZED_DIR / f"{save_name}.jpg"
 
+    # 保存原图
     try:
         with open(raw_path, "wb") as f:
             f.write(content)
     except Exception:
         raw_path = None
 
+    # 生成缩略图
     try:
         if Image is None:
             return raw_path, None
         with Image.open(BytesIO(content)) as im:
+            # 转成RGB，等比缩放到 128x128 画布内，再居中铺满裁剪（方形）
             im = im.convert("RGB")
             size = 128
+            # 先按短边等比放大，后居中裁剪
             ratio = max(size / im.width, size / im.height)
             new_w, new_h = int(im.width * ratio), int(im.height * ratio)
             im = im.resize((new_w, new_h), Image.LANCZOS)
@@ -255,9 +314,9 @@ def download_channel_avatar(channel_id: str, api_key: str, save_name: str) -> Tu
 
 
 def main():
-    parser = argparse.ArgumentParser(description="添加频道→抓取→头像→缩略图（单频道）")
+    parser = argparse.ArgumentParser(description="仅添加频道到 japan_tv_youtube_channels.json（不抓取）")
     parser.add_argument("--url", help="YouTube频道URL（如 https://www.youtube.com/@handle）")
-    parser.add_argument("--name", help="显示名称（默认自动解码 handle/ID）")
+    parser.add_argument("--name", help="显示名称（默认用 handle/ID）")
     parser.add_argument("--category", default="その他", help="分类（默认: その他）")
     parser.add_argument("--subcategory", default="その他チャンネル", help="子分类（默认: その他チャンネル）")
     args = parser.parse_args()
@@ -275,8 +334,8 @@ def main():
         print("❌ URL 为空")
         sys.exit(1)
 
-    provided_name = (args.name or "").strip()
-    name = (provided_name or urllib.parse.unquote(extract_handle_or_id(url))).strip()
+    # 默认名称：从URL提取 handle/ID，并对百分号编码进行解码
+    name = (args.name or urllib.parse.unquote(extract_handle_or_id(url))).strip()
     if not name:
         print("❌ 无法确定频道名称，请使用 --name 指定")
         sys.exit(1)
@@ -286,14 +345,21 @@ def main():
     print(f"名称: {name}")
     print(f"分类/子分类: {args.category} / {args.subcategory}")
 
-    print("\n=== 正在读取 API Key 并解析频道ID ===")
+    ok = upsert_channel(url=url, name=name, category=args.category, subcategory=args.subcategory)
+    if not ok:
+        sys.exit(1)
+
+    # 抓取该URL对应频道并生成 data/{名称}.json
+    print("\n=== 正在读取 API Key 并抓取该频道 ===")
     keys = load_api_keys()
     if not keys:
         print("❌ 未在 WEB-INF/config.properties 中找到 youtube.apikey，无法抓取。仅完成添加到配置。")
-        upsert_channel(url=url, name=name, category=args.category, subcategory=args.subcategory)
+        print("请配置 API Key 后再运行本脚本。")
         sys.exit(0)
 
-    ch_id, ch_title, api_key = None, None, None
+    # 轮换 API Key 解析频道ID
+    ch_id, ch_title = None, None
+    api_key = None
     for k in keys:
         api_key = k
         ch_id, ch_title = resolve_channel_id(url, k)
@@ -301,23 +367,12 @@ def main():
             break
     if not ch_id:
         print("❌ 无法解析频道ID，抓取终止。已完成添加到配置。")
-        upsert_channel(url=url, name=name, category=args.category, subcategory=args.subcategory)
         sys.exit(0)
 
-    if not provided_name and ch_title:
-        pretty = re.sub(r"\s*-\s*YouTube\s*$", "", ch_title).strip()
-        if pretty:
-            name = pretty
-
-    # 写入/覆盖配置
-    if not upsert_channel(url=url, name=name, category=args.category, subcategory=args.subcategory):
-        sys.exit(1)
-
-    # 抓取与写入 data
     videos = fetch_channel_uploads(ch_id, api_key, max_count=200)
-    out_path = save_data_file(name=name, channel_id=ch_id, channel_title=(ch_title or name), videos=videos)
+    out_path = save_data_file(name=name, channel_id=ch_id, channel_title=ch_title or name, videos=videos)
 
-    # 下载头像与缩略图
+    # 下载并生成头像缩略图（不中断主流程）
     raw_img, resized_img = download_channel_avatar(channel_id=ch_id, api_key=api_key, save_name=name)
 
     print(f"\n✅ 抓取完成：{len(videos)} 条视频 → {out_path}")

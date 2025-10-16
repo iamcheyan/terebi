@@ -833,9 +833,29 @@
                 "cached": true
             },
             {
-                "name": "YUYUの日本語Podcast",
-                "url": "https://www.youtube.com/@yuyunihongopodcast",
+                "name": "mezamashitvchannel",
+                "url": "https://www.youtube.com/@mezamashitvchannel",
                 "cached": false
+            },
+            {
+                "name": "TMSアニメ公式チャンネル【アニメ制作60周年】",
+                "url": ""
+            },
+            {
+                "name": "文部科学省",
+                "url": ""
+            },
+            {
+                "name": "山口放送_KRY_",
+                "url": ""
+            },
+            {
+                "name": "ドラえもん __ 藤子_F_不二雄チャンネル",
+                "url": ""
+            },
+            {
+                "name": "めざましテレビチャンネル",
+                "url": ""
             }
         ]
     }
