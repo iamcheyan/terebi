@@ -297,21 +297,17 @@ function updatePageText() {
 
 // 设置语言
 function setLanguage(lang) {
-    if (i18n[lang]) {
-        currentLanguage = lang;
-        localStorage.setItem('language', lang);
+    // 固定为日语
+    const langToUse = 'ja';
+    if (i18n[langToUse]) {
+        currentLanguage = langToUse;
+        localStorage.setItem('language', langToUse);
         updatePageText();
         if (channelStatsData) {
             displayChannelStats();
         }
         
-        // 更新语言选择器的值
-        const languageSelect = document.getElementById('languageSelect');
-        if (languageSelect) {
-            languageSelect.value = lang;
-        }
-        
-        console.log('语言已切换到:', lang);
+        console.log('语言已固定为: ja');
         
         // 自动同步设置到云端
         autoSyncData();
@@ -320,23 +316,9 @@ function setLanguage(lang) {
 
 // 初始化语言
 function initLanguage() {
-    // 从本地存储加载语言设置
-    const savedLanguage = localStorage.getItem('language');
-    if (savedLanguage && i18n[savedLanguage]) {
-        currentLanguage = savedLanguage;
-    }
-    
-    // 设置语言选择器的初始值
-    const languageSelect = document.getElementById('languageSelect');
-    if (languageSelect) {
-        languageSelect.value = currentLanguage;
-        
-        // 添加语言切换事件监听器
-        languageSelect.addEventListener('change', function() {
-            setLanguage(this.value);
-        });
-    }
-    
+    // 固定语言为日语
+    currentLanguage = 'ja';
+    localStorage.setItem('language', 'ja');
     // 更新页面文本
     updatePageText();
     
@@ -1115,9 +1097,13 @@ function startRandomPlayback(videos) {
     // 保存视频列表到全局变量，以便在视频结束后使用
     window.videoPlaylist = videos;
     
-    // 随机选择一个视频
-    const randomIndex = Math.floor(Math.random() * videos.length);
-    const randomVideo = videos[randomIndex];
+    // 随机选择一个视频（避免与刚播放的视频重复）
+    const lastId = window.lastPlayedVideoId || null;
+    const candidateList = lastId && videos.length > 1
+        ? videos.filter(v => v.videoId !== lastId)
+        : videos;
+    const randomIndex = Math.floor(Math.random() * candidateList.length);
+    const randomVideo = candidateList[randomIndex];
     
     // 更新状态 - 显示频道URL
     statusElement.textContent = '再生中: ' + randomVideo.url;
@@ -1148,6 +1134,9 @@ function playVideo(videoId) {
         console.error('无效的视频ID');
         return;
     }
+    
+    // 记录刚请求播放的视频，用于下一次随机时避免重复
+    window.lastPlayedVideoId = videoId;
     
     // 隐藏加载动画
     const loadingElement = document.querySelector('.player-loading');
@@ -1393,11 +1382,15 @@ function onPlayerError(event) {
         }
     }
     
-    // 自动切换到下一个视频
+    // 自动切换到下一个视频（避免重复刚播放的视频）
     if (window.videoPlaylist && window.videoPlaylist.length > 0) {
         setTimeout(() => {
-            const randomIndex = Math.floor(Math.random() * window.videoPlaylist.length);
-            const nextVideo = window.videoPlaylist[randomIndex];
+            const lastId = window.lastPlayedVideoId || null;
+            const candidates = lastId && window.videoPlaylist.length > 1
+                ? window.videoPlaylist.filter(v => v.videoId !== lastId)
+                : window.videoPlaylist;
+            const randomIndex = Math.floor(Math.random() * candidates.length);
+            const nextVideo = candidates[randomIndex];
             console.log('自动切换到下一个视频:', nextVideo.title);
             statusElement.textContent = '再生中: ' + nextVideo.url;
             playVideo(nextVideo.videoId);
@@ -1423,8 +1416,12 @@ function onPlayerStateChange(event) {
     // 当视频结束时的原有逻辑
     else if (event.data == YT.PlayerState.ENDED) {
         if (window.videoPlaylist && window.videoPlaylist.length > 0) {
-            const randomIndex = Math.floor(Math.random() * window.videoPlaylist.length);
-            const nextVideo = window.videoPlaylist[randomIndex];
+            const lastId = window.lastPlayedVideoId || null;
+            const candidates = lastId && window.videoPlaylist.length > 1
+                ? window.videoPlaylist.filter(v => v.videoId !== lastId)
+                : window.videoPlaylist;
+            const randomIndex = Math.floor(Math.random() * candidates.length);
+            const nextVideo = candidates[randomIndex];
             statusElement.textContent = '再生中: ' + nextVideo.url;
             playVideo(nextVideo.videoId);
         }
@@ -1651,7 +1648,6 @@ function initSettings() {
     const settingsButton = document.getElementById('settingsButton');
     const footerVisibility = document.getElementById('footerVisibility');
     const defaultFullscreen = document.getElementById('defaultFullscreen');
-    const languageSelect = document.getElementById('languageSelect');
     darkModeToggle = document.getElementById('darkMode');
     const footer = document.querySelector('.footer');
     
@@ -1659,12 +1655,11 @@ function initSettings() {
         settingsButton: !!settingsButton,
         footerVisibility: !!footerVisibility,
         defaultFullscreen: !!defaultFullscreen,
-        languageSelect: !!languageSelect,
         darkModeToggle: !!darkModeToggle,
         footer: !!footer
     });
     
-    if (!settingsButton || !footerVisibility || !defaultFullscreen || !languageSelect || !footer || !darkModeToggle) {
+    if (!settingsButton || !footerVisibility || !defaultFullscreen || !footer || !darkModeToggle) {
         console.error('设置相关元素未找到，将在500ms后重试');
         setTimeout(initSettings, 500);
         return;
@@ -1836,12 +1831,7 @@ function initSettings() {
         autoSyncData();
     });
     
-    // 语言切换设置
-    languageSelect.addEventListener('change', function() {
-        const selectedLanguage = this.value;
-        setLanguage(selectedLanguage);
-        console.log('语言已切换到:', selectedLanguage);
-    });
+    // 语言固定为日语，无需监听选择器
     
     console.log('设置功能初始化完成');
 }
@@ -1853,7 +1843,6 @@ function loadSettings() {
     const footer = document.querySelector('.footer');
     const footerVisibility = document.getElementById('footerVisibility');
     const defaultFullscreen = document.getElementById('defaultFullscreen');
-    const languageSelect = document.getElementById('languageSelect');
     
     // 加载Footer显示设置
     const footerVisible = localStorage.getItem('footerVisibility');
@@ -1886,12 +1875,7 @@ function loadSettings() {
         console.log('已恢复默认全屏设置:', isDefaultFullscreen ? '启用' : '禁用');
     }
     
-    // 加载语言设置
-    const savedLanguage = localStorage.getItem('language');
-    if (savedLanguage && languageSelect) {
-        languageSelect.value = savedLanguage;
-        console.log('已恢复语言设置:', savedLanguage);
-    }
+    // 语言固定为日语，不从本地恢复选择器
 }
 
 // 修改原有的filterChannels函数，添加高亮功能
@@ -3012,6 +2996,7 @@ function updateStatsContent(message) {
 document.addEventListener('DOMContentLoaded', function() {
     initChannelStats();
     initViewHistory();
+    initTvSearch();
 });
 
 // === 观看历史功能 ===
@@ -3222,6 +3207,287 @@ function clearViewHistory() {
         } catch (error) {
             console.error('清空观看历史失败:', error);
         }
+    }
+}
+
+// === 电视节目搜索功能 ===
+
+// 初始化电视节目搜索功能
+function initTvSearch() {
+    const searchButton = document.getElementById('tvSearchButton');
+    const searchPanel = document.getElementById('tvSearchPanel');
+    const searchOverlay = document.getElementById('tvSearchOverlay');
+    const closeSearchBtn = document.getElementById('closeTvSearch');
+    const searchInput = document.getElementById('tvSearchInput');
+    const searchSubmitBtn = document.getElementById('tvSearchSubmit');
+    
+    // 初始化面板状态
+    if (searchPanel) {
+        searchPanel.setAttribute('inert', '');
+        console.log('电视节目搜索面板初始化完成');
+    }
+    
+    if (searchButton) {
+        searchButton.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            console.log('电视节目搜索按钮被点击');
+            openTvSearchPanel();
+        });
+    }
+    
+    if (closeSearchBtn) {
+        closeSearchBtn.addEventListener('click', function() {
+            closeTvSearchPanel();
+        });
+    }
+    
+    if (searchOverlay) {
+        searchOverlay.addEventListener('click', function() {
+            closeTvSearchPanel();
+        });
+    }
+    
+    if (searchSubmitBtn) {
+        searchSubmitBtn.addEventListener('click', function() {
+            performTvSearch();
+        });
+    }
+    
+    if (searchInput) {
+        searchInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                performTvSearch();
+            }
+        });
+    }
+    
+    // ESC键关闭面板
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            const panel = document.getElementById('tvSearchPanel');
+            if (panel && panel.classList.contains('show')) {
+                closeTvSearchPanel();
+            }
+        }
+    });
+}
+
+// 打开电视节目搜索面板
+function openTvSearchPanel() {
+    const panel = document.getElementById('tvSearchPanel');
+    const overlay = document.getElementById('tvSearchOverlay');
+    
+    if (panel && overlay) {
+        // 先显示面板
+        panel.classList.add('show');
+        overlay.classList.add('show');
+        document.body.style.overflow = 'hidden';
+        document.body.setAttribute('data-modal-open', 'true');
+        
+        // 移除 inert 属性使面板可交互
+        panel.removeAttribute('inert');
+        
+        // 聚焦到搜索输入框
+        const searchInput = document.getElementById('tvSearchInput');
+        if (searchInput) {
+            setTimeout(() => {
+                searchInput.focus();
+            }, 100);
+        }
+        
+        console.log('电视节目搜索面板已打开');
+    }
+}
+
+// 关闭电视节目搜索面板
+function closeTvSearchPanel() {
+    const panel = document.getElementById('tvSearchPanel');
+    const overlay = document.getElementById('tvSearchOverlay');
+    
+    if (panel && overlay) {
+        panel.classList.remove('show');
+        overlay.classList.remove('show');
+        document.body.style.overflow = '';
+        document.body.removeAttribute('data-modal-open');
+        
+        // 添加 inert 属性使面板不可交互
+        panel.setAttribute('inert', '');
+        
+        console.log('电视节目搜索面板已关闭');
+    }
+}
+
+// 执行电视节目搜索
+function performTvSearch() {
+    const searchInput = document.getElementById('tvSearchInput');
+    const searchResults = document.getElementById('tvSearchResults');
+    
+    if (!searchInput || !searchResults) return;
+    
+    const query = searchInput.value.trim();
+    if (!query) {
+        showNotification('请输入搜索关键词', 'error');
+        return;
+    }
+    
+    console.log('搜索电视节目:', query);
+    
+    // 显示加载状态
+    searchResults.innerHTML = '<div class="search-no-results"><h4>搜索中...</h4><p>正在遍历所有频道数据...</p></div>';
+    
+    // 开始实际搜索
+    searchTvPrograms(query);
+}
+
+// 搜索电视节目
+async function searchTvPrograms(query) {
+    const searchResults = document.getElementById('tvSearchResults');
+    const keyword = query.toLowerCase();
+    
+    try {
+        // 读取频道配置
+        const resp = await fetch('japan_tv_youtube_channels.json');
+        if (!resp.ok) throw new Error('无法获取频道列表');
+        const channelsData = await resp.json();
+
+        // 展开为扁平化频道数组
+        const allChannels = [];
+        for (const region in channelsData) {
+            const categories = channelsData[region];
+            for (const category in categories) {
+                const list = categories[category];
+                if (Array.isArray(list)) {
+                    for (const ch of list) {
+                        allChannels.push(ch);
+                    }
+                }
+            }
+        }
+
+        // 工具：根据频道构造候选文件名
+        const buildCandidates = (channel) => {
+            const candidates = [];
+            if (channel && channel.name) {
+                candidates.push(channel.name);
+                const baseName = channel.name.replace(/（[^）]*）$/, '').trim();
+                if (baseName && baseName !== channel.name) candidates.push(baseName);
+            }
+            if (channel && channel.bakname) {
+                const b = String(channel.bakname).trim();
+                if (b) candidates.push(b);
+            }
+            if (channel && channel.url && channel.url.includes('/@')) {
+                const handle = decodeURIComponent(channel.url.split('/@').pop().split(/[/?#]/)[0]);
+                if (handle) candidates.push(handle);
+            }
+            // 去重保持顺序
+            return [...new Set(candidates)];
+        };
+
+        // 工具：尝试加载某频道的JSON
+        const loadChannelJson = async (channel) => {
+            const candidates = buildCandidates(channel);
+            for (const cand of candidates) {
+                const url = new URL('data/' + encodeURIComponent(cand) + '.json', window.location.href).pathname;
+                try {
+                    const r = await fetch(url);
+                    if (r.ok) {
+                        const data = await r.json();
+                        return { data, source: url, resolvedName: cand };
+                    }
+                } catch (_) { /* 忽略 */ }
+            }
+            return null;
+        };
+
+        // 并发处理（限速）
+        const concurrency = 6;
+        const results = [];
+        let index = 0;
+        
+        const workers = new Array(concurrency).fill(0).map(async () => {
+            while (index < allChannels.length) {
+                const current = allChannels[index++];
+                const loaded = await loadChannelJson(current);
+                if (!loaded) continue;
+                const channelName = current.name || (loaded.data && loaded.data.channel_name) || '未知频道';
+                const videos = Array.isArray(loaded.data.videos) ? loaded.data.videos : [];
+                for (const v of videos) {
+                    if (!v || !v.title) continue;
+                    const t = String(v.title);
+                    if (t.toLowerCase().includes(keyword)) {
+                        results.push({
+                            title: t,
+                            channel: channelName,
+                            description: '',
+                            videoId: v.id,
+                            thumbnail: v.thumbnail,
+                            url: v.url
+                        });
+                    }
+                }
+            }
+        });
+        
+        await Promise.all(workers);
+        
+        // 如果没有结果
+        if (results.length === 0) {
+            searchResults.innerHTML = '<div class="search-no-results"><h4>未找到相关节目</h4><p>请尝试其他关键词</p></div>';
+            return;
+        }
+        
+        // 简单按标题长度排序（更相关的在前），也可以不排序
+        results.sort((a, b) => a.title.length - b.title.length);
+        displaySearchResults(results);
+    } catch (error) {
+        console.error('搜索电视节目失败:', error);
+        searchResults.innerHTML = '<div class="search-no-results"><h4>搜索失败</h4><p>请稍后重试</p></div>';
+    }
+}
+
+// 显示搜索结果
+function displaySearchResults(results) {
+    const searchResults = document.getElementById('tvSearchResults');
+    
+    if (!results || results.length === 0) {
+        searchResults.innerHTML = '<div class="search-no-results"><h4>未找到相关节目</h4><p>请尝试其他关键词</p></div>';
+        return;
+    }
+    
+    let html = '';
+    results.forEach(result => {
+        const thumb = result.thumbnail || '';
+        html += `
+            <div class="search-result-item" onclick="playSearchResult('${result.videoId}')">
+                <div class="search-result-thumb">
+                    <img src="${thumb}" alt="thumb" loading="lazy" referrerpolicy="no-referrer"/>
+                </div>
+                <div class="search-result-meta">
+                    <div class="search-result-title">${result.title}</div>
+                    <div class="search-result-channel">${result.channel}</div>
+                    <div class="search-result-description">${result.description || ''}</div>
+                </div>
+            </div>
+        `;
+    });
+    
+    searchResults.innerHTML = html;
+}
+
+// 播放搜索结果
+function playSearchResult(videoId) {
+    console.log('播放搜索结果:', videoId);
+    
+    // 关闭搜索面板
+    closeTvSearchPanel();
+    
+    // 调用现有播放逻辑
+    if (typeof playVideo === 'function') {
+        playVideo(videoId);
+    } else {
+        showNotification('正在播放: ' + videoId, 'success');
     }
 }
 

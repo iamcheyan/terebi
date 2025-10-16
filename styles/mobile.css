@@ -378,6 +378,25 @@ html.mobile-device .channel-button .channel-name {
     white-space: nowrap;
 }
 
+/* 电视节目搜索 - 移动端结果卡片优化 */
+html.mobile-device .search-result-item {
+    gap: 10px;
+}
+
+html.mobile-device .search-result-thumb {
+    flex-basis: 120px;
+    width: 120px;
+}
+
+html.mobile-device .search-result-title {
+    font-size: 15px;
+}
+
+html.mobile-device .search-result-channel,
+html.mobile-device .search-result-description {
+    font-size: 13px;
+}
+
 html.mobile-device .channel-button.active {
     /* background: linear-gradient(to bottom, #2a6ac1, #1e5aa3); */
     /* border-color: rgba(255, 255, 255, 0.2); */

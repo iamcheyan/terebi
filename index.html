@@ -127,10 +127,20 @@
             </a>
         </div> -->
         <div class="view-history">
-            <button id="viewHistoryButton" class="icon-button" title="观看历史" aria-label="观看历史">
+            <button id="viewHistoryButton" class="icon-button" title="視聴履歴" aria-label="視聴履歴">
                 <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <circle cx="12" cy="12" r="10"></circle>
                     <polyline points="12 6 12 12 16 14"></polyline>
+                </svg>
+            </button>
+        </div>
+        <div class="tv-search">
+            <button id="tvSearchButton" class="icon-button" title="テレビ番組検索" aria-label="テレビ番組検索">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                    <line x1="8" y1="21" x2="16" y2="21"></line>
+                    <line x1="12" y1="17" x2="12" y2="21"></line>
+                    <circle cx="12" cy="8" r="2"></circle>
                 </svg>
             </button>
         </div>
@@ -143,7 +153,7 @@
             </button>
         </div>
         <div class="settings">
-            <button id="settingsButton" class="icon-button" title="设置" aria-label="设置">
+            <button id="settingsButton" class="icon-button" title="設定" aria-label="設定">
                 <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                     <circle cx="12" cy="12" r="3"></circle>
                     <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1 1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
@@ -193,10 +203,10 @@
                                     </svg>
                                 </button>
                                 <a id="currentVideoTitleLink" href="#" target="_blank" class="program-title-link">
-                                    <span id="currentVideoTitle" class="program-title">未选择节目</span>
+                            <span id="currentVideoTitle" class="program-title">未選択</span>
                                 </a>
                             </div>
-                            <div id="currentChannelName" class="channel-name" style="display: none;">未选择频道</div>
+                            <div id="currentChannelName" class="channel-name" style="display: none;">未選択</div>
                             <div id="currentChannelUrl" class="channel-url">https://www.youtube.com/</div>
                         </div>
                         <div class="footer-info">
@@ -212,9 +222,7 @@
                 </footer>
             </div>
             <div class="right-column">
-                <div class="channel-list-title">
-                    チャンネルリスト
-                </div>
+                <div class="channel-list-title">チャンネルリスト</div>
                 
                 <!-- 添加搜索输入框 -->
                 <input type="text" id="channelSearch" placeholder="チャンネルを検索..." onkeyup="filterChannels()">
@@ -297,15 +305,11 @@
                 <h4 data-i18n="interface_settings">界面设置</h4>
                 <div class="setting-item">
                     <label for="languageSelect" class="language-setting">
+                        <!-- 言語選択は削除し、日本語固定 -->
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="language">语言</span>
-                            <span class="setting-desc" data-i18n="language_desc">选择界面显示语言</span>
+                            <span class="setting-title">言語</span>
+                            <span class="setting-desc">日本語のみ</span>
                         </div>
-                        <select id="languageSelect" class="language-select">
-                            <option value="ja" data-i18n="japanese">日本語</option>
-                            <option value="en" data-i18n="english">English</option>
-                            <option value="zh" data-i18n="chinese">中文</option>
-                        </select>
                     </label>
                 </div>
                 <div class="setting-item">
@@ -313,8 +317,8 @@
                         <input type="checkbox" id="footerVisibility">
                         <span class="checkmark"></span>
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="show_footer">显示底部信息栏</span>
-                            <span class="setting-desc" data-i18n="show_footer_desc">控制页面底部视频信息的显示</span>
+                            <span class="setting-title">下部情報バーを表示</span>
+                            <span class="setting-desc">ページ下部の動画情報の表示を制御</span>
                         </div>
                     </label>
                 </div>
@@ -323,22 +327,22 @@
                         <input type="checkbox" id="defaultFullscreen">
                         <span class="checkmark"></span>
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="default_fullscreen">默认进入全屏模式</span>
-                            <span class="setting-desc" data-i18n="default_fullscreen_desc">页面加载时自动进入全屏播放</span>
+                            <span class="setting-title">デフォルトでフルスクリーンモード</span>
+                            <span class="setting-desc">ページ読み込み時に自動的にフルスクリーン再生</span>
                         </div>
                     </label>
                 </div>
             </div>
             
             <div class="settings-section">
-                <h4 data-i18n="playback_settings">播放设置</h4>
+                <h4 data-i18n="playback_settings">再生設定</h4>
                 <div class="setting-item">
                     <label for="autoPlay">
                         <input type="checkbox" id="autoPlay" checked>
                         <span class="checkmark"></span>
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="auto_play">自动播放</span>
-                            <span class="setting-desc" data-i18n="auto_play_desc">选择频道后自动开始播放视频</span>
+                            <span class="setting-title" data-i18n="auto_play">自動再生</span>
+                            <span class="setting-desc" data-i18n="auto_play_desc">チャンネル選択後に自動的に動画再生を開始</span>
                         </div>
                     </label>
                 </div>
@@ -347,8 +351,8 @@
                         <input type="checkbox" id="autoNext">
                         <span class="checkmark"></span>
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="auto_next">自动切换下一个</span>
-                            <span class="setting-desc" data-i18n="auto_next_desc">当前视频结束后自动播放下一个</span>
+                            <span class="setting-title" data-i18n="auto_next">自動的に次へ</span>
+                            <span class="setting-desc" data-i18n="auto_next_desc">現在の動画終了後に自動的に次を再生</span>
                         </div>
                     </label>
                 </div>
@@ -357,8 +361,8 @@
                         <input type="checkbox" id="loopPlayback">
                         <span class="checkmark"></span>
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="loop_playback">循环播放</span>
-                            <span class="setting-desc" data-i18n="loop_playback_desc">播放列表结束后重新开始</span>
+                            <span class="setting-title" data-i18n="loop_playback">ループ再生</span>
+                            <span class="setting-desc" data-i18n="loop_playback_desc">プレイリスト終了後に最初から再開</span>
                         </div>
                     </label>
                 </div>
@@ -367,22 +371,22 @@
                         <input type="checkbox" id="compactMode">
                         <span class="checkmark"></span>
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="compact_mode">紧凑模式</span>
-                            <span class="setting-desc" data-i18n="compact_mode_desc">减少界面间距，显示更多内容</span>
+                            <span class="setting-title" data-i18n="compact_mode">コンパクトモード</span>
+                            <span class="setting-desc" data-i18n="compact_mode_desc">インターフェースの間隔を減らし、より多くのコンテンツを表示</span>
                         </div>
                     </label>
                 </div>
             </div>
             
             <div class="settings-section">
-                <h4 data-i18n="advanced_settings">高级设置</h4>
+                <h4 data-i18n="advanced_settings">詳細設定</h4>
                 <div class="setting-item">
                     <label for="debugMode">
                         <input type="checkbox" id="debugMode">
                         <span class="checkmark"></span>
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="debug_mode">调试模式</span>
-                            <span class="setting-desc" data-i18n="debug_mode_desc">显示详细的调试信息</span>
+                            <span class="setting-title" data-i18n="debug_mode">デバッグモード</span>
+                            <span class="setting-desc" data-i18n="debug_mode_desc">詳細なデバッグ情報を表示</span>
                         </div>
                     </label>
                 </div>
@@ -391,8 +395,8 @@
                         <input type="checkbox" id="cacheVideos" checked>
                         <span class="checkmark"></span>
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="cache_videos">缓存视频信息</span>
-                            <span class="setting-desc" data-i18n="cache_videos_desc">缓存频道视频列表以提高加载速度</span>
+                            <span class="setting-title" data-i18n="cache_videos">動画をキャッシュ</span>
+                            <span class="setting-desc" data-i18n="cache_videos_desc">チャンネル動画リストをキャッシュして読み込み速度を向上</span>
                         </div>
                     </label>
                 </div>
@@ -404,8 +408,8 @@
                             <line x1="14" y1="11" x2="14" y2="17"></line>
                         </svg>
                         <div class="setting-info">
-                            <span class="setting-title" data-i18n="clear_cache">清除缓存</span>
-                            <span class="setting-desc" data-i18n="clear_cache_desc">清除所有本地缓存数据（包括收藏、设置等）</span>
+                            <span class="setting-title" data-i18n="clear_cache">キャッシュをクリア</span>
+                            <span class="setting-desc" data-i18n="clear_cache_desc">すべてのローカルキャッシュデータをクリア（お気に入り、設定など）</span>
                         </div>
                     </button>
                 </div>
@@ -490,7 +494,7 @@
 
 <!-- 观看历史面板 -->
 <div id="viewHistoryPanel" class="view-history-panel">
-    <button id="closeViewHistory" class="close-btn" aria-label="关闭观看历史">
+    <button id="closeViewHistory" class="close-btn" aria-label="視聴履歴を閉じる">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <line x1="18" y1="6" x2="6" y2="18"></line>
             <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -498,30 +502,30 @@
     </button>
     <div class="view-history-content">
         <div class="history-header">
-            <h3 data-i18n="view_history">观看历史</h3>
+            <h3 data-i18n="view_history">視聴履歴</h3>
             <div class="history-actions">
-                <button id="clearHistoryBtn" class="clear-history-btn" title="清空历史记录">
+                <button id="clearHistoryBtn" class="clear-history-btn" title="履歴をクリア">
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M3 6h18M19 6v14a2 2 0 01-2 2H7a2 2 0 01-2-2V6m3 0V4a2 2 0 012-2h4a2 2 0 012 2v2"></path>
                     </svg>
-                    <span data-i18n="clear_history_btn">清空历史</span>
+                    <span data-i18n="clear_history_btn">履歴をクリア</span>
                 </button>
             </div>
         </div>
         
         <div class="history-stats">
-            <span data-i18n="history_count_label">总记录数：</span>
+            <span data-i18n="history_count_label">総記録数：</span>
             <span id="historyCount">0</span>
         </div>
         
         <!-- 全部/收藏切换标签 -->
         <div class="history-filter-tabs">
             <button class="history-filter-tab active" data-filter="all" onclick="switchHistoryFilter('all')">
-                <span class="tab-text" data-i18n="history_all">全部</span>
+                <span class="tab-text" data-i18n="history_all">すべて</span>
             </button>
             <button class="history-filter-tab" data-filter="favorites" onclick="switchHistoryFilter('favorites')">
                 <span class="tab-icon">⭐</span>
-                <span class="tab-text" data-i18n="history_favorites">收藏</span>
+                <span class="tab-text" data-i18n="history_favorites">お気に入り</span>
                 <span class="favorites-count" id="historyFavoritesCount">0</span>
             </button>
         </div>
@@ -534,6 +538,36 @@
 
 <!-- 观看历史面板遮罩层 -->
 <div id="viewHistoryOverlay" class="view-history-overlay" role="presentation"></div>
+
+<!-- 电视节目搜索面板 -->
+<div id="tvSearchPanel" class="tv-search-panel">
+    <button id="closeTvSearch" class="close-btn" aria-label="テレビ番組検索を閉じる">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+    </button>
+    <div class="tv-search-content">
+        <div class="search-header">
+            <h3>テレビ番組検索</h3>
+        </div>
+        <div class="search-input-container">
+            <input type="text" id="tvSearchInput" placeholder="番組名で検索（例：ちいかわ）" autocomplete="off">
+            <button id="tvSearchSubmit" class="search-submit-btn" aria-label="検索">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+            </button>
+        </div>
+        <div id="tvSearchResults" class="search-results">
+            <!-- 搜索结果将在这里显示 -->
+        </div>
+    </div>
+</div>
+
+<!-- 电视节目搜索面板遮罩层 -->
+<div id="tvSearchOverlay" class="tv-search-overlay" role="presentation"></div>
 
 <!-- Firebase SDK -->
 <script type="module">
