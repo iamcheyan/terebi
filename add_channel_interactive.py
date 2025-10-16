@@ -14,6 +14,8 @@ import os
 import sys
 import urllib.parse
 import urllib.request
+import re
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import List, Optional, Tuple
@@ -235,6 +237,94 @@ def resolve_channel_id(url: str, api_key: str) -> Tuple[Optional[str], Optional[
     return None, None
 
 
+def resolve_channel_id_via_html(url: str) -> Tuple[Optional[str], Optional[str]]:
+    """在无API情况下，通过抓取频道页HTML提取 channelId 和标题。
+    适配 @handle 与 /channel/UC... 链接。
+    """
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            html = resp.read().decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"❌ HTML抓取失败: {e}")
+        return None, None
+
+    # 直接从HTML中匹配 channelId
+    m = re.search(r'"channelId"\s*:\s*"(UC[\w-]{22})"', html)
+    channel_id = m.group(1) if m else None
+
+    # 抓取标题（优先 og:title，其次 <title>）
+    title = None
+    m_title = re.search(r'<meta[^>]+property=["\']og:title["\'][^>]+content=["\']([^"\']+)["\']', html)
+    if m_title:
+        title = m_title.group(1).strip()
+    else:
+        m_title2 = re.search(r"<title>(.*?)</title>", html, re.S)
+        if m_title2:
+            title = re.sub(r"\s+\-\s+YouTube$", "", m_title2.group(1).strip())
+
+    return channel_id, title
+
+
+def fetch_channel_uploads_via_rss(channel_id: str, max_count: int = 200) -> List[dict]:
+    """无需API，使用YouTube官方RSS获取视频列表。
+    参考: https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}
+    """
+    if not channel_id:
+        return []
+    feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+    try:
+        req = urllib.request.Request(feed_url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            xml_text = resp.read()
+    except Exception as e:
+        print(f"❌ RSS获取失败: {e}")
+        return []
+
+    try:
+        root = ET.fromstring(xml_text)
+    except Exception as e:
+        print(f"❌ RSS解析失败: {e}")
+        return []
+
+    ns = {
+        'atom': 'http://www.w3.org/2005/Atom',
+        'media': 'http://search.yahoo.com/mrss/'
+    }
+    entries = root.findall('atom:entry', ns)
+
+    videos: List[dict] = []
+    for entry in entries[:max_count]:
+        video_id = (entry.find('yt:videoId', {'yt': 'http://www.youtube.com/xml/schemas/2015'}) or {}).text if entry is not None else None
+        if not video_id:
+            # 备用：从 link href 中解析 v 参数
+            link_el = entry.find('atom:link', ns)
+            href = link_el.get('href') if link_el is not None else ''
+            q = urllib.parse.urlparse(href).query
+            qs = urllib.parse.parse_qs(q)
+            video_id = (qs.get('v') or [''])[0]
+
+        title_el = entry.find('atom:title', ns)
+        published_el = entry.find('atom:published', ns)
+        media_group = entry.find('media:group', ns)
+        thumb_url = None
+        if media_group is not None:
+            thumb = media_group.find('media:thumbnail', ns)
+            if thumb is not None:
+                thumb_url = thumb.get('url')
+
+        videos.append({
+            "id": video_id or "",
+            "title": (title_el.text if title_el is not None else ""),
+            "description": "",
+            "publishedAt": (published_el.text if published_el is not None else ""),
+            "thumbnails": {"default": {"url": thumb_url}} if thumb_url else {},
+            "url": f"https://www.youtube.com/watch?v={video_id}" if video_id else ""
+        })
+
+    return videos
+
+
 def fetch_channel_uploads(channel_id: str, api_key: str, max_count: int = 200) -> List[dict]:
     """获取频道上传的视频列表"""
     videos = []
@@ -422,11 +512,50 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
     print(f"✅ 已添加到配置: {name}")
 
     # 抓取该URL对应频道并生成 data/{名称}.json
-    print("=== 正在读取 API Key 并抓取该频道 ===")
+    print("=== 正在读取 API Key 并抓取该频道（带HTML/RSS回退） ===")
     keys = load_api_keys()
+    # 先尝试无需API的HTML解析获取 channelId
+    ch_id_html, ch_title_html = resolve_channel_id_via_html(url)
+    if ch_id_html:
+        # 无API：用RSS抓取视频
+        videos = fetch_channel_uploads_via_rss(ch_id_html, max_count=200)
+        out_path = save_data_file(name=name, channel_id=ch_id_html, channel_title=ch_title_html or name, videos=videos)
+        # 头像：尝试从HTML提取 og:image
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                html = resp.read().decode("utf-8", errors="ignore")
+            m_img = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html)
+            if m_img and Image is not None:
+                # 下载并生成缩略图
+                try:
+                    req2 = urllib.request.Request(m_img.group(1), headers={"User-Agent": "Mozilla/5.0"})
+                    with urllib.request.urlopen(req2, timeout=20) as resp2:
+                        content = resp2.read()
+                    IMG_DIR.mkdir(parents=True, exist_ok=True)
+                    IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
+                    raw_path = IMG_DIR / f"{name}.jpg"
+                    with open(raw_path, "wb") as f:
+                        f.write(content)
+                    with Image.open(BytesIO(content)) as im:
+                        im = im.convert("RGB")
+                        size = 128
+                        ratio = max(size / im.width, size / im.height)
+                        new_w, new_h = int(im.width * ratio), int(im.height * ratio)
+                        im = im.resize((new_w, new_h), Image.LANCZOS)
+                        left = (new_w - size) // 2
+                        top = (new_h - size) // 2
+                        im = im.crop((left, top, left + size, top + size))
+                        im.save(IMG_RESIZED_DIR / f"{name}.jpg", format="JPEG", quality=88, optimize=True)
+                except Exception:
+                    pass
+        except Exception:
+            pass
+        print(f"✅ 抓取完成（RSS）：{len(videos)} 条视频 → {out_path}")
+        return True
+
     if not keys:
-        print("❌ 未在 WEB-INF/config.properties 中找到 youtube.apikey，无法抓取。仅完成添加到配置。")
-        # 仍然生成空的数据文件，避免前端404
+        print("❌ 未找到 API Key，且HTML解析失败。仅完成添加到配置并生成空数据。")
         out_path = save_data_file(name=name, channel_id="", channel_title=name, videos=[])
         print(f"🧩 已生成空数据文件：{out_path}")
         # 占位头像
@@ -450,6 +579,13 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
         if ch_id:
             break
     if not ch_id:
+        # 再次尝试HTML解析 + RSS（API失败可能403/配额/限制）
+        ch_id_html, ch_title_html = resolve_channel_id_via_html(url)
+        if ch_id_html:
+            videos = fetch_channel_uploads_via_rss(ch_id_html, max_count=200)
+            out_path = save_data_file(name=name, channel_id=ch_id_html, channel_title=ch_title_html or name, videos=videos)
+            print(f"✅ 抓取完成（RSS）：{len(videos)} 条视频 → {out_path}")
+            return True
         print("❌ 无法解析频道ID，抓取终止。已完成添加到配置。")
         # 仍然生成空的数据文件，避免前端404
         out_path = save_data_file(name=name, channel_id="", channel_title=name, videos=[])
