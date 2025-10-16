@@ -42,8 +42,11 @@
 # 交互输入频道URL
 /Users/tetsuya/Dev/Terebi/venv/bin/python add_channel_interactive.py
 
-# 或直接传参
+# 单个频道
 /Users/tetsuya/Dev/Terebi/venv/bin/python add_channel_interactive.py --url https://www.youtube.com/@shioneru
+
+# 批量添加多个频道（自动确认）
+/Users/tetsuya/Dev/Terebi/venv/bin/python add_channel_interactive.py --url @handle1 @handle2 @handle3 --yes
 
 # 可选：自定义显示名称与归类
 /Users/tetsuya/Dev/Terebi/venv/bin/python add_channel_interactive.py \
@@ -51,6 +54,13 @@
   --name "めざましテレビチャンネル" \
   --category "その他" \
   --subcategory "その他チャンネル"
+
+# 批量添加到指定分类
+/Users/tetsuya/Dev/Terebi/venv/bin/python add_channel_interactive.py \
+  --url @handle1 @handle2 @handle3 \
+  --category "地方放送局" \
+  --subcategory "九州地方" \
+  --yes
 ```
 
 脚本会：
