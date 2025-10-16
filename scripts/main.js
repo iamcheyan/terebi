@@ -523,7 +523,7 @@ function loadMobileStyles() {
 // 获取频道列表
 async function fetchChannelList(autoSelectRandom = false) {
     try {
-        statusElement.textContent = '正在获取频道列表...';
+        statusElement.textContent = 'チャンネル一覧を取得しています...';
         
         const response = await fetch('japan_tv_youtube_channels.json');
         if (!response.ok) {
@@ -559,7 +559,7 @@ async function fetchChannelList(autoSelectRandom = false) {
         
         if (channelIdParam) {
             // 如果URL中有channelId参数，优先使用该频道
-            console.log('从URL参数获取频道ID:', channelIdParam);
+            console.log('URLパラメータのチャンネルIDを取得:', channelIdParam);
             statusElement.textContent = 'URLパラメータからチャンネルを読み込んでいます...';
             
             // 查找匹配的频道名称
@@ -572,7 +572,7 @@ async function fetchChannelList(autoSelectRandom = false) {
             }
             
             if (foundChannel) {
-                console.log('找到匹配的频道:', foundChannel.name);
+                console.log('一致するチャンネルを発見:', foundChannel.name);
                 statusElement.textContent = 'チャンネルを読み込んでいます: ' + foundChannel.name;
                 
                 setTimeout(() => {
@@ -584,7 +584,7 @@ async function fetchChannelList(autoSelectRandom = false) {
                             
                             setTimeout(() => {
                                 btn.click();
-                                console.log('自动触发URL参数指定频道的点击事件:', foundChannel.name);
+                                console.log('URL指定チャンネルのクリックを自動実行:', foundChannel.name);
                             }, 30);
                         }
                     });
@@ -593,7 +593,7 @@ async function fetchChannelList(autoSelectRandom = false) {
                 getChannelUploads(channelIdParam, foundChannel.name);
             } else {
                 // 如果找不到匹配的频道名称，直接使用参数中的ID
-                console.log('未找到匹配频道名称，直接使用ID:', channelIdParam);
+                console.log('一致するチャンネル名が見つからないためIDを直接使用:', channelIdParam);
                 statusElement.textContent = 'チャンネルIDを直接使用しています: ' + channelIdParam;
                 getChannelUploads(channelIdParam, 'チャンネル');
             }
@@ -619,7 +619,7 @@ async function fetchChannelList(autoSelectRandom = false) {
                                 // 30毫秒后自动触发点击事件
                                 setTimeout(() => {
                                     btn.click();
-                                    console.log('自动触发上次观看频道的点击事件:', channelInfo.name);
+                                    console.log('前回視聴チャンネルのクリックを自動実行:', channelInfo.name);
                                 }, 30);
                             }
                         });
@@ -1028,7 +1028,7 @@ async function getChannelUploads(channelId, channelName) {
             // 过滤掉不可播放的视频
             const videoItems = videoListData.videos
                 .filter(video => {
-                    // 过滤条件：排除私有视频、已删除视频和无效视频
+            // 条件: 非公開/削除/無効な動画を除外
                     if (!video.id || !video.title || !video.url) {
                         return false;
                     }
@@ -1047,14 +1047,14 @@ async function getChannelUploads(channelId, channelName) {
                     
                     for (const invalidTitle of invalidTitles) {
                         if (title.includes(invalidTitle)) {
-                            console.log('过滤掉不可播放的视频:', video.title);
+                            console.log('再生不可の動画を除外:', video.title);
                             return false;
                         }
                     }
                     
                     // 检查缩略图是否有效（排除默认的占位图）
                     if (video.thumbnail && video.thumbnail.includes('no_thumbnail')) {
-                        console.log('过滤掉没有缩略图的视频:', video.title);
+                        console.log('サムネイルが無効な動画を除外:', video.title);
                         return false;
                     }
                     
@@ -1072,7 +1072,7 @@ async function getChannelUploads(channelId, channelName) {
                 return;
             }
             
-            console.log(`过滤后的视频数量: ${videoItems.length} / ${videoListData.videos.length}`);
+            console.log(`フィルタ後の動画数: ${videoItems.length} / ${videoListData.videos.length}`);
             
             videoContainer.style.display = 'none';
             startRandomPlayback(videoItems);
@@ -1082,7 +1082,7 @@ async function getChannelUploads(channelId, channelName) {
         statusElement.textContent = 'このチャンネルには再生可能な動画がありません';
         
     } catch (error) {
-        console.error('错误:', error);
+        console.error('エラー:', error);
         statusElement.textContent = '動画リストの取得に失敗しました: ' + error.message;
     }
 }
@@ -1131,7 +1131,7 @@ function getActivePlayer() {
 // 播放视频
 function playVideo(videoId) {
     if (!videoId) {
-        console.error('无效的视频ID');
+        console.error('無効な動画IDです');
         return;
     }
     
@@ -1171,7 +1171,7 @@ function playVideo(videoId) {
                 channelName: channelName
             });
         } catch (error) {
-            console.error('添加到观看历史失败:', error);
+            console.error('視聴履歴への追加に失敗:', error);
         }
         
         // 更新页脚中的视频信息 - 添加元素存在性检查
@@ -1255,7 +1255,7 @@ function playVideo(videoId) {
     
     // 检查 YT 对象是否已定义
     if (typeof YT === 'undefined' || !YT.Player) {
-        console.log('YouTube API 尚未加载完成，等待加载...');
+        console.log('YouTube APIの読み込みを待機中...');
         pendingVideoId = videoId;
         return;
     }
@@ -1264,7 +1264,7 @@ function playVideo(videoId) {
 
     if (activePlayer) {
         if (!playerReady) {
-            console.log('播放器尚未就绪，记录待播放视频');
+        console.log('プレーヤーは準備中のため、再生待ちに登録');
             pendingVideoId = videoId;
             return;
         }
@@ -1274,12 +1274,12 @@ function playVideo(videoId) {
             pendingVideoId = null;
             return;
         } catch (loadError) {
-            console.warn('现有播放器加载视频失败，尝试重新初始化', loadError);
+            console.warn('既存プレーヤーの読み込みに失敗。再初期化を試みます', loadError);
             if (typeof activePlayer.destroy === 'function') {
                 try {
                     activePlayer.destroy();
                 } catch (destroyError) {
-                    console.warn('销毁旧播放器时发生问题', destroyError);
+                    console.warn('旧プレーヤーの破棄時に問題が発生', destroyError);
                 }
             }
             player = null;
@@ -1391,7 +1391,9 @@ function onPlayerError(event) {
                 : window.videoPlaylist;
             const randomIndex = Math.floor(Math.random() * candidates.length);
             const nextVideo = candidates[randomIndex];
-            console.log('自动切换到下一个视频:', nextVideo.title);
+    console.log('次の動画へ自動切替:', nextVideo.title);
+            console.log('次の動画へ自動切替:', nextVideo.title);
+            console.log('次の動画へ自動切替:', nextVideo.title);
             statusElement.textContent = '再生中: ' + nextVideo.url;
             playVideo(nextVideo.videoId);
         }, 1500); // 等待1.5秒后切换
@@ -1474,7 +1476,7 @@ function updateFullscreenButtonVisual(button, isActive) {
 function setFullscreenMode(isActive, options = {}) {
     const container = document.querySelector('.container');
     if (!container) {
-        console.warn('未找到容器元素，无法切换全屏布局');
+        console.warn('コンテナ要素が見つからず、フルスクリーン切替ができません');
         return;
     }
 
@@ -1533,14 +1535,14 @@ document.addEventListener('DOMContentLoaded', function() {
             toggleFullscreen(fullscreenButton, { persist: true });
         });
 
-        console.log('全屏按钮事件监听已添加，并根据偏好初始化状态');
+        console.log('フルスクリーンボタンのリスナーを追加し、設定で初期化しました');
     } else {
-        console.warn('未找到全屏按钮元素');
+        console.warn('フルスクリーンボタンが見つかりません');
     }
 });
 
 // 添加调试信息
-console.log('DOMContentLoaded イベントリスナーが追加されました');
+console.log('DOMContentLoaded リスナーを追加しました');
 
 function prefersDarkMode() {
     if (typeof window === 'undefined' || !window.matchMedia) {
@@ -1643,7 +1645,7 @@ function initializeTheme() {
 
 // 初始化设置功能
 function initSettings() {
-    console.log('开始初始化设置功能...');
+    console.log('設定機能の初期化を開始...');
     
     const settingsButton = document.getElementById('settingsButton');
     const footerVisibility = document.getElementById('footerVisibility');
@@ -1651,7 +1653,7 @@ function initSettings() {
     darkModeToggle = document.getElementById('darkMode');
     const footer = document.querySelector('.footer');
     
-    console.log('设置元素检查:', {
+    console.log('設定関連要素のチェック:', {
         settingsButton: !!settingsButton,
         footerVisibility: !!footerVisibility,
         defaultFullscreen: !!defaultFullscreen,
@@ -1660,7 +1662,7 @@ function initSettings() {
     });
     
     if (!settingsButton || !footerVisibility || !defaultFullscreen || !footer || !darkModeToggle) {
-        console.error('设置相关元素未找到，将在500ms后重试');
+        console.error('設定関連の要素が見つかりません。500ms後に再試行します');
         setTimeout(initSettings, 500);
         return;
     }
@@ -1673,7 +1675,7 @@ function initSettings() {
         initialOverlay.classList.remove('show');
         // 使用 inert 属性替代 aria-hidden
         initialPanel.setAttribute('inert', '');
-        console.log('设置面板初始化完成');
+        console.log('設定パネルの初期化が完了しました');
     }
 
     // 从本地存储加载设置
@@ -1691,12 +1693,12 @@ function initSettings() {
     settingsButton.addEventListener('click', function(e) {
         e.preventDefault();
         e.stopPropagation();
-        console.log('设置按钮被点击');
+        console.log('設定ボタンがクリックされました');
         
         const panel = document.getElementById('settingsPanel');
         const overlay = document.getElementById('settingsOverlay');
         
-        console.log('面板元素检查:', {
+        console.log('パネル要素の確認:', {
             panel: !!panel,
             overlay: !!overlay,
             panelClasses: panel ? panel.className : 'N/A',
@@ -1705,25 +1707,25 @@ function initSettings() {
         
         if (panel && overlay) {
             const isVisible = panel.classList.contains('show');
-            console.log('面板当前状态:', isVisible ? '显示' : '隐藏');
+            console.log('パネルの現在状態:', isVisible ? '表示' : '非表示');
             if (isVisible) {
                 closeSettingsPanel();
             } else {
                 openSettingsPanel();
             }
         } else {
-            console.error('无法找到设置面板或遮罩元素');
+            console.error('設定パネルまたはオーバーレイが見つかりません');
         }
     });
     
     // 关闭设置面板
     function closeSettingsPanel() {
-        console.log('开始关闭设置面板');
+        console.log('設定パネルのクローズを開始');
         const panel = document.getElementById('settingsPanel');
         const overlay = document.getElementById('settingsOverlay');
         const playerContainer = document.getElementById('playerContainer');
         
-        console.log('面板元素检查:', {
+        console.log('パネル要素の確認:', {
             panel: !!panel,
             overlay: !!overlay,
             playerContainer: !!playerContainer
@@ -1742,20 +1744,20 @@ function initSettings() {
             if (playerContainer) {
                 playerContainer.classList.remove('settings-open');
             }
-            console.log('设置面板已关闭');
+            console.log('設定パネルを閉じました');
         } else {
-            console.error('无法找到面板或遮罩元素');
+            console.error('パネルまたはオーバーレイが見つかりません');
         }
     }
     
     // 打开设置面板
     function openSettingsPanel() {
-        console.log('开始打开设置面板');
+        console.log('設定パネルのオープンを開始');
         const panel = document.getElementById('settingsPanel');
         const overlay = document.getElementById('settingsOverlay');
         const playerContainer = document.getElementById('playerContainer');
         
-        console.log('打开面板元素检查:', {
+        console.log('オープン時の要素確認:', {
             panel: !!panel,
             overlay: !!overlay,
             playerContainer: !!playerContainer
@@ -1770,24 +1772,24 @@ function initSettings() {
             // 移除 inert 属性使面板可交互
             panel.removeAttribute('inert');
             
-            console.log('设置面板已打开，当前类名:', panel.className);
+            console.log('設定パネルを開きました。現在のクラス:', panel.className);
             
             // 添加播放器容器的设置面板打开状态class
             if (playerContainer) {
                 playerContainer.classList.add('settings-open');
             }
         } else {
-            console.error('无法找到设置面板或遮罩元素');
+            console.error('設定パネルまたはオーバーレイが見つかりません');
         }
     }
     
     // 关闭按钮事件
     const closeBtn = document.getElementById('closeSettings');
     if (closeBtn) {
-        console.log('找到关闭按钮，添加事件监听器');
+        console.log('閉じるボタンを検出。イベントを追加');
         closeBtn.addEventListener('click', closeSettingsPanel);
     } else {
-        console.error('未找到关闭按钮元素');
+        console.error('閉じるボタン要素が見つかりません');
     }
     
     // 点击遮罩关闭设置面板
@@ -3327,16 +3329,16 @@ function performTvSearch() {
     
     const query = searchInput.value.trim();
     if (!query) {
-        showNotification('请输入搜索关键词', 'error');
+        showNotification('検索キーワードを入力してください', 'error');
         return;
     }
-    
-    console.log('搜索电视节目:', query);
-    
-    // 显示加载状态
-    searchResults.innerHTML = '<div class="search-no-results"><h4>搜索中...</h4><p>正在遍历所有频道数据...</p></div>';
-    
-    // 开始实际搜索
+
+    console.log('テレビ番組を検索:', query);
+
+    // ロード中の状態を表示
+    searchResults.innerHTML = '<div class="search-no-results"><h4>検索中...</h4><p>全チャンネルデータを検索しています...</p></div>';
+
+    // 実際の検索を開始
     searchTvPrograms(query);
 }
 
@@ -3348,7 +3350,7 @@ async function searchTvPrograms(query) {
     try {
         // 读取频道配置
         const resp = await fetch('japan_tv_youtube_channels.json');
-        if (!resp.ok) throw new Error('无法获取频道列表');
+        if (!resp.ok) throw new Error('チャンネル一覧を取得できません');
         const channelsData = await resp.json();
 
         // 展开为扁平化频道数组
@@ -3434,7 +3436,7 @@ async function searchTvPrograms(query) {
         
         // 如果没有结果
         if (results.length === 0) {
-            searchResults.innerHTML = '<div class="search-no-results"><h4>未找到相关节目</h4><p>请尝试其他关键词</p></div>';
+            searchResults.innerHTML = '<div class="search-no-results"><h4>該当する番組が見つかりません</h4><p>別のキーワードでお試しください</p></div>';
             return;
         }
         
@@ -3442,8 +3444,8 @@ async function searchTvPrograms(query) {
         results.sort((a, b) => a.title.length - b.title.length);
         displaySearchResults(results);
     } catch (error) {
-        console.error('搜索电视节目失败:', error);
-        searchResults.innerHTML = '<div class="search-no-results"><h4>搜索失败</h4><p>请稍后重试</p></div>';
+        console.error('番組検索に失敗:', error);
+        searchResults.innerHTML = '<div class="search-no-results"><h4>検索に失敗しました</h4><p>しばらくしてからもう一度お試しください</p></div>';
     }
 }
 
@@ -3452,7 +3454,7 @@ function displaySearchResults(results) {
     const searchResults = document.getElementById('tvSearchResults');
     
     if (!results || results.length === 0) {
-        searchResults.innerHTML = '<div class="search-no-results"><h4>未找到相关节目</h4><p>请尝试其他关键词</p></div>';
+        searchResults.innerHTML = '<div class="search-no-results"><h4>該当する番組が見つかりません</h4><p>別のキーワードでお試しください</p></div>';
         return;
     }
     

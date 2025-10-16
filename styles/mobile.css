@@ -397,6 +397,71 @@ html.mobile-device .search-result-description {
     font-size: 13px;
 }
 
+/* 电视节目搜索面板 - 移动端全屏适配 */
+html.mobile-device .tv-search-panel {
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    right: 0;
+    top: 0;
+    border-left: none;
+    border-radius: 0;
+}
+
+html.mobile-device .tv-search-content {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+html.mobile-device .tv-search-content .search-header {
+    padding: 8px 0 12px 0;
+    margin-bottom: 0;
+}
+
+/* 输入框与按钮触控优化（避免 iOS 缩放） */
+html.mobile-device .search-input-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+html.mobile-device #tvSearchInput {
+    height: 44px;
+    font-size: 16px; /* iOS 防缩放 */
+    padding: 0 14px;
+    border-radius: 10px;
+    flex: 1;
+}
+
+html.mobile-device #tvSearchSubmit {
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+}
+
+/* 结果列表滚动区域 */
+html.mobile-device .search-results {
+    margin-top: 12px;
+    padding-bottom: 16px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* 结果卡片触控面积与排版 */
+html.mobile-device .search-result-item {
+    padding: 12px;
+    border-radius: 10px;
+}
+
+/* 关闭按钮更易点按 */
+html.mobile-device #closeTvSearch.close-btn {
+    width: 40px;
+    height: 40px;
+}
+
 html.mobile-device .channel-button.active {
     /* background: linear-gradient(to bottom, #2a6ac1, #1e5aa3); */
     /* border-color: rgba(255, 255, 255, 0.2); */
@@ -951,3 +1016,8 @@ html.mobile-device .notification {
     font-size: 13px !important;
     padding: 14px 18px !important;
 }
+
+html.mobile-device .search-input-container {
+    margin-bottom: 10px;
+}
+
