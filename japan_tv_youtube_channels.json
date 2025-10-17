@@ -890,22 +890,10 @@
         ],
         "旅行・観光": [
             {
-                "name": "Unique Japan Travel / 日常に旅を",
-                "url": "https://www.youtube.com/@UniqueJapanTravel",
-                "cached": true,
-                "bakname": "UniqueJapanTravel"
-            },
-            {
                 "name": "はりまや気ままに旅チャンネル",
                 "url": "https://www.youtube.com/@Harimaya884",
                 "cached": true,
                 "bakname": "Harimaya884"
-            },
-            {
-                "name": "スーツ 旅行 / Suit Travel",
-                "url": "https://www.youtube.com/@SuitTravel",
-                "cached": true,
-                "bakname": "SuitTravel"
             },
             {
                 "name": "富山の遊び場!TV",
@@ -916,12 +904,6 @@
             }
         ],
         "交通・鉄道": [
-            {
-                "name": "ひろき / 鉄道Channel",
-                "url": "https://www.youtube.com/@hiroki_railway",
-                "cached": true,
-                "bakname": "hiroki_railway"
-            },
             {
                 "name": "今日の予土線",
                 "url": "https://www.youtube.com/@今日の予土線TheYodoLineTo",
@@ -955,28 +937,10 @@
                 "bakname": "yuuka_chan815"
             },
             {
-                "name": "いけちゃん / ikechan",
-                "url": "https://www.youtube.com/@ikechan0920",
-                "cached": true,
-                "bakname": "ikechan0920"
-            },
-            {
-                "name": "いけちる / ikechill",
-                "url": "https://www.youtube.com/@ikechan0920sub",
-                "cached": true,
-                "bakname": "ikechan0920sub"
-            },
-            {
                 "name": "パンタさん",
                 "url": "https://www.youtube.com/@pantasan",
                 "cached": true,
                 "bakname": "pantasan"
-            },
-            {
-                "name": "CUL DRAMA / カルドラマ",
-                "url": "https://www.youtube.com/@culdrama",
-                "cached": true,
-                "bakname": "culdrama"
             },
             {
                 "name": "Sunchannel",
@@ -1030,37 +994,12 @@
                 "cached": true
             },
             {
-                "name": "yuyunihongopodcast",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "TMSアニメ公式チャンネル【アニメ制作60周年】",
-                "url": "",
-                "cached": false
-            },
-            {
                 "name": "KRYNewsChannel",
                 "url": "",
                 "cached": true
             },
             {
                 "name": "福岡TNC ニュース",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "文部科学省",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "newtestchannel456",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "山口放送_KRY_",
                 "url": "",
                 "cached": true
             },
@@ -1075,11 +1014,6 @@
                 "cached": true
             },
             {
-                "name": "testchannel123",
-                "url": "",
-                "cached": true
-            },
-            {
                 "name": "shioneru",
                 "url": "",
                 "cached": true
@@ -1090,82 +1024,12 @@
                 "cached": true
             },
             {
-                "name": "ドラえもん __ 藤子_F_不二雄チャンネル",
-                "url": "",
-                "cached": true
-            },
-            {
                 "name": "今日の予土線TheYodoLineTo",
                 "url": "",
                 "cached": true
             },
             {
                 "name": "めざましテレビチャンネル",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "Hiko-zone_ヒコぞーん_",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "ひろき _ 鉄道Channel",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "Jiro_ just Japanese",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "富山の遊び場_TV",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "いけちゃん _ ikechan",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "いけちる _ ikechill",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "文部科学省_MEXT_",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "海海日語新幹線 _ 每天30分聽日語",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "AI Polyglot _ 多言語 聞き流し",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "Unique Japan Travel _ 日常に旅を",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "交通新聞 電子版_交通新聞社_",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "CUL DRAMA _ カルドラマ",
-                "url": "",
-                "cached": true
-            },
-            {
-                "name": "スーツ 旅行 _ Suit Travel",
                 "url": "",
                 "cached": true
             }
