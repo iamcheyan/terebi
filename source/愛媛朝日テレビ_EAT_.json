@@ -2,40 +2,40 @@
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "eat愛媛朝日テレビ",
   "original_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2025-10-17T00:00:28.190603",
+  "updated_at": "2025-10-18T00:01:32.329802",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "VZB6v9eIr1qqgSWJ5RHW3ps6hBo",
-      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLlFNdjBjZTVMdUVR",
+      "etag": "B34qe-ZiApsq_39-Z7E_pP4e_Lo",
+      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLjQ5ZjZmSHJRLVFN",
       "snippet": {
-        "publishedAt": "2025-10-16T12:00:49Z",
+        "publishedAt": "2025-10-17T12:00:08Z",
         "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
-        "title": "#labomba かかったら#踊ってしまう#愛媛大学社会共創学部",
+        "title": "#ブギウギ してる#カメラマン と#湯川愛理#アナウンサー",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QMv0ce5LuEQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QMv0ce5LuEQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QMv0ce5LuEQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/QMv0ce5LuEQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/QMv0ce5LuEQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "QMv0ce5LuEQ"
+          "videoId": "49f6fHrQ-QM"
         },
         "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
         "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"
@@ -53,83 +53,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "sRXdcMDr4zvkSQQphKDFvaATiLA",
-      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLkF3QVVpSHhNYVdv",
+      "etag": "TCbaW3hVN755Xxay_LSlKIZ-AVg",
+      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLnFrbzh3YjlqTUgw",
       "snippet": {
-        "publishedAt": "2025-10-16T10:15:02Z",
+        "publishedAt": "2025-10-17T00:01:07Z",
         "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
-        "title": "⚾ 2025秋四国大会直前！愛媛代表監督に聞く！",
-        "description": "10月18日に開幕する秋の高校野球 四国大会！\n松山聖陵、西条、新田…県勢の調子はどうなんでしょう？\nホワイトボード大沢が大会に向けての意気込みも含め\n愛媛県代表3校の監督に聞きました！\n\n\n\n#愛媛朝日テレビ　#eat　#高校野球　#愛媛大会　#白球青春\n#秋の高校野球　#秋大会　#県大会　#四国大会　#甲子園　#選抜\n#ホワイトボード大沢　#大沢やすのり　#松山聖陵　#西条　#新田",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/AwAUiHxMaWo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/AwAUiHxMaWo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/AwAUiHxMaWo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/AwAUiHxMaWo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/AwAUiHxMaWo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "eat愛媛朝日テレビ",
-        "playlistId": "UUOItj2DCO5Pj-eJKnLrbz6g",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "AwAUiHxMaWo"
-        },
-        "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
-        "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "_EAWM_Wf1qXbNmXDOxlhEGHLvbI",
-      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLjdzV0pqWmh1VkJn",
-      "snippet": {
-        "publishedAt": "2025-10-16T10:00:23Z",
-        "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
-        "title": "#湯川愛理#アナウンサー が#はちゃめちゃわちゃライフ !#踊ってみた",
+        "title": "#BMSG #ブギウギ しちゃう#カメラマン",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7sWJjZhuVBg/default.jpg",
+            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7sWJjZhuVBg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7sWJjZhuVBg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/7sWJjZhuVBg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/7sWJjZhuVBg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -139,101 +92,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "7sWJjZhuVBg"
-        },
-        "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
-        "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ectOUH8x16HDqA3bMqjUQFC9ZXk",
-      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLnQxQXR2SkJlVmpz",
-      "snippet": {
-        "publishedAt": "2025-10-16T04:42:56Z",
-        "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
-        "title": "#MONTAGEMRUGADA かかったら#踊ってしまう#カメラマン",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/t1AtvJBeVjs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/t1AtvJBeVjs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/t1AtvJBeVjs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/t1AtvJBeVjs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/t1AtvJBeVjs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "eat愛媛朝日テレビ",
-        "playlistId": "UUOItj2DCO5Pj-eJKnLrbz6g",
-        "position": 3,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "t1AtvJBeVjs"
-        },
-        "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
-        "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "UzESYrYm14YJA5LwV3sgxpXL5L0",
-      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLjlBM2xDbjllSlgw",
-      "snippet": {
-        "publishedAt": "2025-10-16T00:00:20Z",
-        "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
-        "title": "#labomba かかったら#踊ってしまう#愛媛の背中男 with#愛媛大学社会共創学部",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/9A3lCn9eJX0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/9A3lCn9eJX0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/9A3lCn9eJX0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/9A3lCn9eJX0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/9A3lCn9eJX0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "eat愛媛朝日テレビ",
-        "playlistId": "UUOItj2DCO5Pj-eJKnLrbz6g",
-        "position": 4,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "9A3lCn9eJX0"
+          "videoId": "qko8wb9jMH0"
         },
         "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
         "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"

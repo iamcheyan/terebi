@@ -1,0 +1,102 @@
+{
+  "channel_id": "UCL2DLwqqYxa0Q5DcGoQGbrw",
+  "channel_name": "文部科学省/mextchannel",
+  "original_name": "文部科学省（MEXT）",
+  "updated_at": "2025-10-18T00:01:17.143976",
+  "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mvgHKdyLQMUn4wQOsViLW1FudVo",
+      "id": "VVVMMkRMd3FxWXhhMFE1RGNHb1FHYnJ3LjlHSWVFLVNUYW80",
+      "snippet": {
+        "publishedAt": "2025-10-17T05:03:48Z",
+        "channelId": "UCL2DLwqqYxa0Q5DcGoQGbrw",
+        "title": "これからの学びのスタンダード～学習者用デジタル教科書を活用した学びの変化～",
+        "description": "学習者用デジタル教科書については、本動画のほか、ガイドブックや教員向け研修資料等を作成しております。\n是非合わせてご覧ください。\n\n○活用のガイドブック\nhttps://www.mext.go.jp/content/20230530_mxt_kyokasyo01_000030062_42.pdf\n\n○教員向け研修資料\nhttps://www.mext.go.jp/content/20230530_mxt_kyokasyo01_000030062_10.pdf\n\n○その他事例集・研修動画等\nhttps://www.mext.go.jp/a_menu/shotou/kyoukasho/seido/1407731.htm\n\n#文部科学省　#教育",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9GIeE-STao4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9GIeE-STao4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9GIeE-STao4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9GIeE-STao4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9GIeE-STao4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "文部科学省/mextchannel",
+        "playlistId": "UUL2DLwqqYxa0Q5DcGoQGbrw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9GIeE-STao4"
+        },
+        "videoOwnerChannelTitle": "文部科学省/mextchannel",
+        "videoOwnerChannelId": "UCL2DLwqqYxa0Q5DcGoQGbrw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8wHnQoKq_T3uiQxRtFIOuYHZVeE",
+      "id": "VVVMMkRMd3FxWXhhMFE1RGNHb1FHYnJ3LkQ1UEhkMGwtS0tr",
+      "snippet": {
+        "publishedAt": "2025-10-17T04:57:39Z",
+        "channelId": "UCL2DLwqqYxa0Q5DcGoQGbrw",
+        "title": "あべ文部科学大臣記者会見（令和7年10月17日）：文部科学省",
+        "description": "令和7年10月17日に行われたあべ文部科学大臣の記者会見の模様です。\n※YouTubeの字幕表示機能については、精度に限界があり、必ずしも発言内容と一­­­致するものではございません。\n【キーワード】\n・教師を取り巻く環境整備特別部会における緊急声明（案）が示された経緯と今後の対応\n・HTV-Xの打ち上げへの期待と物資輸送技術の開発への支援\n・「学士・修士５年一貫制度」のねらい\n・秋の例大祭時の靖国神社への参拝\n・維新の会「政策協議メモ」に記載の教育政策に対する受け止め",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D5PHd0l-KKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D5PHd0l-KKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D5PHd0l-KKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D5PHd0l-KKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D5PHd0l-KKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "文部科学省/mextchannel",
+        "playlistId": "UUL2DLwqqYxa0Q5DcGoQGbrw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D5PHd0l-KKk"
+        },
+        "videoOwnerChannelTitle": "文部科学省/mextchannel",
+        "videoOwnerChannelId": "UCL2DLwqqYxa0Q5DcGoQGbrw"
+      }
+    }
+  ]
+}

@@ -2,40 +2,40 @@
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "【福島放送公式】 ときまるTV",
   "original_name": "KFB福島放送",
-  "updated_at": "2025-10-17T00:04:27.841969",
+  "updated_at": "2025-10-18T00:03:23.092296",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "I2rNytRSUoEzHcHCs7ITNDRKVcE",
-      "id": "VVUzMnBGMUJaTHRlTnFJYVhVVnM3U2xnLmtpZWZOOTVTaUdn",
+      "etag": "23kmNfjxZXpCf3AfOmjVXvoQLNs",
+      "id": "VVUzMnBGMUJaTHRlTnFJYVhVVnM3U2xnLnBxSzJsUTJHemtz",
       "snippet": {
-        "publishedAt": "2025-10-16T09:48:03Z",
+        "publishedAt": "2025-10-17T08:01:03Z",
         "channelId": "UC32pF1BZLteNqIaXUVs7Slg",
-        "title": "後輩ADちゃんを探せ〜👀@乃木坂46(nogizaka46) #ダンシングAD #乃木坂46 #福島放送 #帰り道は遠回りしたくなる #西野七瀬",
+        "title": "もうすでに楽しみです🥰✨@CUTIE STREET #福島放送 #ダンシングAD #かわいいだけじゃだめですか? #cutiestreet #KFBまつり",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kiefN95SiGg/default.jpg",
+            "url": "https://i.ytimg.com/vi/pqK2lQ2Gzks/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kiefN95SiGg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pqK2lQ2Gzks/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kiefN95SiGg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pqK2lQ2Gzks/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/kiefN95SiGg/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/pqK2lQ2Gzks/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/kiefN95SiGg/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pqK2lQ2Gzks/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "kiefN95SiGg"
+          "videoId": "pqK2lQ2Gzks"
         },
         "videoOwnerChannelTitle": "【福島放送公式】 ときまるTV",
         "videoOwnerChannelId": "UC32pF1BZLteNqIaXUVs7Slg"
