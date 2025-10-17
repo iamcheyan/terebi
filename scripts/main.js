@@ -384,6 +384,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // 加载YouTube API
     loadYouTubeAPI();
     
+    // 检查URL参数
+    checkUrlParameters();
+    
     // 获取上次观看的频道信息
     const lastWatchedChannel = localStorage.getItem('lastWatchedChannel');
     
@@ -1128,12 +1131,41 @@ function getActivePlayer() {
     return null;
 }
 
+// URL参数处理函数
+function checkUrlParameters() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const videoId = urlParams.get('v');
+    
+    if (videoId) {
+        console.log('URL参数中检测到视频ID:', videoId);
+        // 延迟执行，等待频道列表加载完成
+        setTimeout(() => {
+            playVideo(videoId);
+        }, 2000);
+    }
+}
+
+// 更新URL参数
+function updateUrlParameter(videoId) {
+    if (!videoId) return;
+    
+    const url = new URL(window.location);
+    url.searchParams.set('v', videoId);
+    
+    // 使用replaceState避免在历史记录中创建新条目
+    window.history.replaceState({}, '', url);
+    console.log('URL已更新:', url.toString());
+}
+
 // 播放视频
 function playVideo(videoId) {
     if (!videoId) {
         console.error('無効な動画IDです');
         return;
     }
+    
+    // 更新URL参数
+    updateUrlParameter(videoId);
     
     // 记录刚请求播放的视频，用于下一次随机时避免重复
     window.lastPlayedVideoId = videoId;
@@ -3347,6 +3379,8 @@ async function searchTvPrograms(query) {
     const searchResults = document.getElementById('tvSearchResults');
     const keyword = query.toLowerCase();
     
+    console.log('开始搜索:', keyword);
+    
     try {
         // 读取频道配置
         const resp = await fetch('japan_tv_youtube_channels.json');
@@ -3396,6 +3430,7 @@ async function searchTvPrograms(query) {
                     const r = await fetch(url);
                     if (r.ok) {
                         const data = await r.json();
+                        console.log('成功加载频道数据:', cand, '视频数量:', data.videos?.length || 0);
                         return { data, source: url, resolvedName: cand };
                     }
                 } catch (_) { /* 忽略 */ }
@@ -3419,6 +3454,7 @@ async function searchTvPrograms(query) {
                     if (!v || !v.title) continue;
                     const t = String(v.title);
                     if (t.toLowerCase().includes(keyword)) {
+                        console.log('找到匹配视频:', t);
                         results.push({
                             title: t,
                             channel: channelName,
@@ -3433,6 +3469,8 @@ async function searchTvPrograms(query) {
         });
         
         await Promise.all(workers);
+        
+        console.log('搜索完成，找到结果数量:', results.length);
         
         // 如果没有结果
         if (results.length === 0) {
