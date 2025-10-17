@@ -3406,6 +3406,7 @@ async function searchTvPrograms(query) {
             const candidates = [];
             if (channel && channel.name) {
                 candidates.push(channel.name);
+                // 修复正则表达式，使用正确的括号
                 const baseName = channel.name.replace(/（[^）]*）$/, '').trim();
                 if (baseName && baseName !== channel.name) candidates.push(baseName);
             }
@@ -3424,17 +3425,57 @@ async function searchTvPrograms(query) {
         // 工具：尝试加载某频道的JSON
         const loadChannelJson = async (channel) => {
             const candidates = buildCandidates(channel);
+            
+            // 特别调试めざまし频道
+            if (channel.name && channel.name.includes('めざまし')) {
+                console.log('めざまし频道候选文件名:', candidates);
+            }
+            
             for (const cand of candidates) {
                 const url = new URL('data/' + encodeURIComponent(cand) + '.json', window.location.href).pathname;
+                
+                // 特别调试めざまし频道
+                if (channel.name && channel.name.includes('めざまし')) {
+                    console.log('尝试加载めざまし频道文件:', url);
+                }
+                
                 try {
                     const r = await fetch(url);
                     if (r.ok) {
                         const data = await r.json();
                         console.log('成功加载频道数据:', cand, '视频数量:', data.videos?.length || 0);
                         return { data, source: url, resolvedName: cand };
+                    } else {
+                        // 特别调试めざまし频道
+                        if (channel.name && channel.name.includes('めざまし')) {
+                            console.log('めざまし频道文件加载失败:', url, '状态:', r.status);
+                        }
                     }
-                } catch (_) { /* 忽略 */ }
+                } catch (error) {
+                    // 特别调试めざまし频道
+                    if (channel.name && channel.name.includes('めざまし')) {
+                        console.log('めざまし频道文件加载错误:', url, error);
+                    }
+                }
             }
+            
+            // 如果所有候选文件名都失败，尝试直接加载mezamashitvchannel.json
+            if (channel.name && channel.name.includes('めざまし')) {
+                console.log('尝试直接加载mezamashitvchannel.json');
+                try {
+                    const r = await fetch('data/mezamashitvchannel.json');
+                    if (r.ok) {
+                        const data = await r.json();
+                        console.log('成功加载mezamashitvchannel.json，视频数量:', data.videos?.length || 0);
+                        return { data, source: 'data/mezamashitvchannel.json', resolvedName: 'mezamashitvchannel' };
+                    } else {
+                        console.log('mezamashitvchannel.json加载失败，状态:', r.status);
+                    }
+                } catch (error) {
+                    console.log('mezamashitvchannel.json加载错误:', error);
+                }
+            }
+            
             return null;
         };
 
@@ -3442,19 +3483,38 @@ async function searchTvPrograms(query) {
         const concurrency = 6;
         const results = [];
         let index = 0;
+        let processedChannels = 0;
+        
+        console.log('开始处理频道，总数量:', allChannels.length);
         
         const workers = new Array(concurrency).fill(0).map(async () => {
             while (index < allChannels.length) {
                 const current = allChannels[index++];
+                processedChannels++;
+                
+                // 特别检查めざまし频道
+                if (current.name && current.name.includes('めざまし')) {
+                    console.log('正在处理めざまし频道:', current.name);
+                }
+                
                 const loaded = await loadChannelJson(current);
                 if (!loaded) continue;
+                
                 const channelName = current.name || (loaded.data && loaded.data.channel_name) || '未知频道';
                 const videos = Array.isArray(loaded.data.videos) ? loaded.data.videos : [];
+                
+                // 特别检查めざまし频道的搜索结果
+                if (channelName.includes('めざまし')) {
+                    console.log('めざまし频道视频数量:', videos.length);
+                    const keywordMatches = videos.filter(v => v.title && v.title.toLowerCase().includes(keyword));
+                    console.log('めざまし频道匹配数量:', keywordMatches.length);
+                }
+                
                 for (const v of videos) {
                     if (!v || !v.title) continue;
                     const t = String(v.title);
                     if (t.toLowerCase().includes(keyword)) {
-                        console.log('找到匹配视频:', t);
+                        console.log('找到匹配视频:', t, '来自频道:', channelName);
                         results.push({
                             title: t,
                             channel: channelName,
@@ -3469,6 +3529,7 @@ async function searchTvPrograms(query) {
         });
         
         await Promise.all(workers);
+        console.log('处理完成，已处理频道数:', processedChannels);
         
         console.log('搜索完成，找到结果数量:', results.length);
         

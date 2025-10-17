@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>搜索功能调试</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .test-section {
+            background: #f0f0f0;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        .test-button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        .test-button:hover {
+            background: #0056b3;
+        }
+        .result {
+            background: #e8f4fd;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <h1>搜索功能调试</h1>
+    
+    <div class="test-section">
+        <h3>测试1: 直接检查mezamashitvchannel.json文件</h3>
+        <button class="test-button" onclick="testDirectFile()">检查文件内容</button>
+        <div id="directResult" class="result"></div>
+    </div>
+    
+    <div class="test-section">
+        <h3>测试2: 模拟搜索功能</h3>
+        <button class="test-button" onclick="testSearchFunction()">模拟搜索"チャリメラ"</button>
+        <div id="searchResult" class="result"></div>
+    </div>
+    
+    <div class="test-section">
+        <h3>测试3: 检查频道配置</h3>
+        <button class="test-button" onclick="testChannelConfig()">检查频道配置</button>
+        <div id="configResult" class="result"></div>
+    </div>
+
+    <script>
+        async function testDirectFile() {
+            const resultDiv = document.getElementById('directResult');
+            resultDiv.textContent = '正在检查文件...';
+            
+            try {
+                const response = await fetch('data/mezamashitvchannel.json');
+                if (!response.ok) {
+                    resultDiv.textContent = '文件加载失败: ' + response.status;
+                    return;
+                }
+                
+                const data = await response.json();
+                const videos = data.videos || [];
+                const chiikawaVideos = videos.filter(v => v.title && v.title.includes('ちいかわ'));
+                const charimeraVideos = videos.filter(v => v.title && v.title.includes('チャリメラ'));
+                
+                resultDiv.textContent = `文件加载成功！
+频道名称: ${data.channel_name}
+总视频数: ${videos.length}
+ちいかわ相关视频: ${chiikawaVideos.length}
+チャリメラ相关视频: ${charimeraVideos.length}
+
+チャリメラ视频详情:
+${charimeraVideos.map(v => `- ${v.title} (ID: ${v.id})`).join('\n')}`;
+            } catch (error) {
+                resultDiv.textContent = '错误: ' + error.message;
+            }
+        }
+        
+        async function testSearchFunction() {
+            const resultDiv = document.getElementById('searchResult');
+            resultDiv.textContent = '正在模拟搜索...';
+            
+            try {
+                // 模拟搜索逻辑
+                const keyword = 'チャリメラ';
+                const response = await fetch('data/mezamashitvchannel.json');
+                if (!response.ok) {
+                    resultDiv.textContent = '文件加载失败: ' + response.status;
+                    return;
+                }
+                
+                const data = await response.json();
+                const videos = data.videos || [];
+                const matches = videos.filter(v => v.title && v.title.toLowerCase().includes(keyword.toLowerCase()));
+                
+                resultDiv.textContent = `搜索关键词: ${keyword}
+找到匹配: ${matches.length} 个
+匹配结果:
+${matches.map(v => `- ${v.title} (ID: ${v.id})`).join('\n')}`;
+            } catch (error) {
+                resultDiv.textContent = '错误: ' + error.message;
+            }
+        }
+        
+        async function testChannelConfig() {
+            const resultDiv = document.getElementById('configResult');
+            resultDiv.textContent = '正在检查频道配置...';
+            
+            try {
+                const response = await fetch('japan_tv_youtube_channels.json');
+                if (!response.ok) {
+                    resultDiv.textContent = '配置加载失败: ' + response.status;
+                    return;
+                }
+                
+                const data = await response.json();
+                let mezamashiChannel = null;
+                
+                for (const region in data) {
+                    for (const category in data[region]) {
+                        if (Array.isArray(data[region][category])) {
+                            for (const ch of data[region][category]) {
+                                if (ch.name && ch.name.includes('めざまし')) {
+                                    mezamashiChannel = ch;
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                }
+                
+                if (mezamashiChannel) {
+                    resultDiv.textContent = `找到めざまし频道配置:
+名称: ${mezamashiChannel.name}
+备用名称: ${mezamashiChannel.bakname}
+URL: ${mezamashiChannel.url}
+
+候选文件名:
+- ${mezamashiChannel.name}.json
+- ${mezamashiChannel.bakname}.json
+
+实际存在的文件: data/mezamashitvchannel.json`;
+                } else {
+                    resultDiv.textContent = '未找到めざまし频道配置';
+                }
+            } catch (error) {
+                resultDiv.textContent = '错误: ' + error.message;
+            }
+        }
+    </script>
+</body>
+</html>

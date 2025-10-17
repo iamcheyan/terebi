@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试主应用搜索</title>
+</head>
+<body>
+    <h1>测试主应用搜索</h1>
+    <button onclick="testMainSearch()">测试主应用搜索逻辑</button>
+    <div id="result"></div>
+
+    <script>
+        async function testMainSearch() {
+            const resultDiv = document.getElementById('result');
+            resultDiv.textContent = '开始测试主应用搜索逻辑...';
+            
+            try {
+                console.log('开始测试主应用搜索逻辑...');
+                
+                // 模拟主应用的搜索逻辑
+                const keyword = 'チャリメラ';
+                console.log('搜索关键词:', keyword);
+                
+                // 读取频道配置
+                const resp = await fetch('japan_tv_youtube_channels.json');
+                if (!resp.ok) throw new Error('チャンネル一覧を取得できません');
+                const channelsData = await resp.json();
+                console.log('频道配置加载成功');
+
+                // 展开为扁平化频道数组
+                const allChannels = [];
+                for (const region in channelsData) {
+                    const categories = channelsData[region];
+                    for (const category in categories) {
+                        const list = categories[category];
+                        if (Array.isArray(list)) {
+                            for (const ch of list) {
+                                allChannels.push(ch);
+                            }
+                        }
+                    }
+                }
+                console.log('总频道数:', allChannels.length);
+
+                // 工具：根据频道构造候选文件名
+                const buildCandidates = (channel) => {
+                    const candidates = [];
+                    if (channel && channel.name) {
+                        candidates.push(channel.name);
+                        // 修复正则表达式，使用正确的括号
+                        const baseName = channel.name.replace(/（[^）]*）$/, '').trim();
+                        if (baseName && baseName !== channel.name) candidates.push(baseName);
+                    }
+                    if (channel && channel.bakname) {
+                        const b = String(channel.bakname).trim();
+                        if (b) candidates.push(b);
+                    }
+                    if (channel && channel.url && channel.url.includes('/@')) {
+                        const handle = decodeURIComponent(channel.url.split('/@').pop().split(/[/?#]/)[0]);
+                        if (handle) candidates.push(handle);
+                    }
+                    // 去重保持顺序
+                    return [...new Set(candidates)];
+                };
+
+                // 工具：尝试加载某频道的JSON
+                const loadChannelJson = async (channel) => {
+                    const candidates = buildCandidates(channel);
+                    
+                    // 特别调试めざまし频道
+                    if (channel.name && channel.name.includes('めざまし')) {
+                        console.log('めざまし频道候选文件名:', candidates);
+                    }
+                    
+                    for (const cand of candidates) {
+                        const url = new URL('data/' + encodeURIComponent(cand) + '.json', window.location.href).pathname;
+                        
+                        // 特别调试めざまし频道
+                        if (channel.name && channel.name.includes('めざまし')) {
+                            console.log('尝试加载めざまし频道文件:', url);
+                        }
+                        
+                        try {
+                            const r = await fetch(url);
+                            if (r.ok) {
+                                const data = await r.json();
+                                console.log('成功加载频道数据:', cand, '视频数量:', data.videos?.length || 0);
+                                return { data, source: url, resolvedName: cand };
+                            } else {
+                                // 特别调试めざまし频道
+                                if (channel.name && channel.name.includes('めざまし')) {
+                                    console.log('めざまし频道文件加载失败:', url, '状态:', r.status);
+                                }
+                            }
+                        } catch (error) {
+                            // 特别调试めざまし频道
+                            if (channel.name && channel.name.includes('めざまし')) {
+                                console.log('めざまし频道文件加载错误:', url, error);
+                            }
+                        }
+                    }
+                    return null;
+                };
+
+                // 查找めざまし频道
+                const mezamashiChannel = allChannels.find(ch => ch.name && ch.name.includes('めざまし'));
+                if (!mezamashiChannel) {
+                    throw new Error('未找到めざまし频道');
+                }
+                
+                console.log('找到めざまし频道:', mezamashiChannel);
+
+                // 加载めざまし频道数据
+                const loaded = await loadChannelJson(mezamashiChannel);
+                if (!loaded) {
+                    throw new Error('无法加载めざまし频道数据');
+                }
+
+                const videos = Array.isArray(loaded.data.videos) ? loaded.data.videos : [];
+                console.log('めざまし频道视频数量:', videos.length);
+
+                // 搜索匹配的视频
+                const keywordMatches = videos.filter(v => v.title && v.title.toLowerCase().includes(keyword.toLowerCase()));
+                console.log('めざまし频道匹配数量:', keywordMatches.length);
+
+                if (keywordMatches.length > 0) {
+                    resultDiv.innerHTML = `搜索成功！找到 ${keywordMatches.length} 个匹配结果:<br>` + 
+                        keywordMatches.map(v => `- ${v.title} (ID: ${v.id})`).join('<br>');
+                } else {
+                    resultDiv.innerHTML = `搜索完成，但没有找到匹配的视频。<br>总视频数: ${videos.length}`;
+                }
+                
+            } catch (error) {
+                console.error('测试失败:', error);
+                resultDiv.textContent = '测试失败: ' + error.message;
+            }
+        }
+    </script>
+</body>
+</html>
