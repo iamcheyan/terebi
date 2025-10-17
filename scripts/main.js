@@ -3440,9 +3440,20 @@ async function searchTvPrograms(query) {
             return;
         }
         
+        // 去重：基于videoId进行去重，保留第一个出现的
+        const uniqueResults = [];
+        const seenVideoIds = new Set();
+        
+        for (const result of results) {
+            if (!seenVideoIds.has(result.videoId)) {
+                seenVideoIds.add(result.videoId);
+                uniqueResults.push(result);
+            }
+        }
+        
         // 简单按标题长度排序（更相关的在前），也可以不排序
-        results.sort((a, b) => a.title.length - b.title.length);
-        displaySearchResults(results);
+        uniqueResults.sort((a, b) => a.title.length - b.title.length);
+        displaySearchResults(uniqueResults);
     } catch (error) {
         console.error('番組検索に失敗:', error);
         searchResults.innerHTML = '<div class="search-no-results"><h4>検索に失敗しました</h4><p>しばらくしてからもう一度お試しください</p></div>';
