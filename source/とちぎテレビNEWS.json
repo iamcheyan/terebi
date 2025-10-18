@@ -2,40 +2,40 @@
   "channel_id": "UC_SN3bimHrEFQ0qe-5X5zFw",
   "channel_name": "とちテレNEWS",
   "original_name": "とちぎテレビNEWS",
-  "updated_at": "2025-10-17T00:04:47.370791",
+  "updated_at": "2025-10-19T00:04:58.399514",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "AvR97zOTM1KqoaaFTwrhK_7unIg",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LjJ1N2tWMC1janJB",
+      "etag": "cwbPL6pjtyW_vONZPNAaik4do9Y",
+      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LkowWi1tMDBYMXNZ",
       "snippet": {
-        "publishedAt": "2025-10-16T02:17:50Z",
+        "publishedAt": "2025-10-17T01:26:03Z",
         "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "栃木を導くリーディング企業　企業支援　宇都宮市が取り組むこと",
-        "description": "",
+        "title": "自治会活性化のカギは？宇都宮市河内地区の挑戦を大調査【キャスターがゆく！】 (2025年10月16日)",
+        "description": "キャスターがゆく！コーナー、今回は飯島誠キャスターが「自治会」について調査しました。\r\n\r\nきっかけは取材活動している時に頂いた「自治会・子供会のイベント参加者が少ない。活性化の何かよいアイデアはない？」という声でした。\r\n\r\n実際、栃木県内の市町の自治会加入率は年々下がっています。「活性化へのアイデア」を探るため、今回は宇都宮市河内地区を取材しました。自治会加入率は６１．４％です。\r\n\r\n（河内地区自治会連合会　永井寛会長）「自治会の課題として、ひとつは高齢者が役員を務められなくなってやめていく、二つ目はリーダー不在、三つ目は若い人に自治会加入のメリットを感じてもらえないことがあります」\r\n\r\n河内地区の自治会対抗体育祭の参加自治会は５１のうち１９に減ってしまいました。そこでこの際、子ども、高齢者、障がいのある人など、誰でも楽しめるものに転換しようと、個人参加型「体力テスト」形式に、内容・方式を全面的に変えてしまったんです。\r\n\r\n河内地区には強みがありました。子どもたち、若い人の自主的な参加です。おととし地域の正式な組織として「笑結(えむすび)」というグループになりました。\r\n\r\n（笑結メンバーの中学生、猪瀬誠心さん）「メンバーみんな、イベントを作る喜びの味を占めてしまいました」\r\n\r\n新しいイベント「スポーツフェス」は１０月１１日開催。あいにくの雨にもかかわらず、３００人集まりました。参加者から象徴的な言葉が・・・\r\n\r\n（参加者）「参加する義務がないので気軽に来ることができますね」\r\n\r\n宇都宮大地域デザイン科学部（コミュニティ政策）の石井大一朗教授は、河内地区の素晴らしい点として、１つは小中学校単位の広い組織での活動なので「新しい出会い」「ゆるい関係性での付き合い」ができる、もう１つは小中学生の頃から活動に参加できる環境があるので、大人になっても地域のために活動できる意欲を持ってもらえる点を挙げています。\r\n\r\n　（飯島キャスター）「地域コミュニティの新しい形、大変勉強になりました！」",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2u7kV0-cjrA/default.jpg",
+            "url": "https://i.ytimg.com/vi/J0Z-m00X1sY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2u7kV0-cjrA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/J0Z-m00X1sY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2u7kV0-cjrA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/J0Z-m00X1sY/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/2u7kV0-cjrA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/J0Z-m00X1sY/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/2u7kV0-cjrA/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/J0Z-m00X1sY/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "2u7kV0-cjrA"
+          "videoId": "J0Z-m00X1sY"
         },
         "videoOwnerChannelTitle": "とちテレNEWS",
         "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
@@ -53,36 +53,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "uFiDWqNqdcXdQdy5pJwE_JtwQsY",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LkFpOGdkWmVaQUNv",
+      "etag": "nsozjDCH6PFQPbtiCF-D3x5W0ng",
+      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LnpVTWFBOGlhWVZn",
       "snippet": {
-        "publishedAt": "2025-10-16T02:11:03Z",
+        "publishedAt": "2025-10-17T01:19:56Z",
         "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "森三中の大島美幸さん　日光市で一日警察署長に",
-        "description": "１０月１１日から全国で始まった地域安全運動に合わせ、日光市では１５日、地域住民に広く安全を呼びかけようと、大田原市出身のお笑いタレントが一日警察署長を務めて犯罪被害防止を呼びかけました。\r\n\r\n日光警察署の一日警察署長に任命されたのは、お笑いトリオ「森三中」のメンバーで大田原市出身の大島美幸さんです。\r\n\r\n大島さんは１５日、初めに市内にある商業施設を訪れると、犯罪被害防止を啓発するグッズを手に、来店者一人ひとりに丁寧に声をかけながら配布を行いました。\r\n\r\n続いて訪れた行政センターで、大島さんは日光警察署の泉田康行署長から委嘱状を受け取ったあと、子どもたちにパトカーや白バイの形をした消しゴムを配布して防犯を呼びかけました。\r\n\r\nこの日、一日署長として最後に行ったのは防犯教室です。\r\n\r\n中宮祠小中学校と日光中学校の児童生徒に、ＳＮＳの安全な使い方や、フィルタリングの重要性を、自身の体験を交えながらクイズ形式で伝えました。\r\n\r\n子どもたちは大島さんの話に真剣に耳を傾けながら、安全なスマホの使い方について学んでいました。",
+        "title": "死体遺棄事件の発端か　少年６人逮捕　強盗傷害の疑い",
+        "description": "さくら市の警察署を訪れた男２人の車のトランクから男性の遺体が見つかった事件で逮捕された２人のうち１人に暴行し、金を奪った疑いで１６日、少年６人が逮捕されました。\r\n\r\n警察はこの強盗傷害事件が死体遺棄事件の発端になったとみて調べを進めています。\r\n\r\n強盗傷害の疑いで逮捕されたのは、宇都宮市と鹿沼市に住む会社員や高校生などの１７歳と１８歳の少年６人です。\r\n\r\n６人は、死体遺棄の疑いで既に逮捕されている無職の野本　直希容疑者２３歳に対し、９月１３日午前３時頃、宇都宮市西原町のパチンコ店の駐車場で、集団で暴行を加え、現金およそ５万５千円を奪った疑いが持たれています。\r\n\r\nこの事件の３日後に、さくら警察署を車で訪れ、１８歳の少年の遺体を遺棄したとして、野本容疑者ら男２人が逮捕されています。\r\n\r\n６人と亡くなった１８歳の少年は知人関係で金品目的の強盗傷害事件の共犯者と見られ、少年らは野本容疑者と面識はなかったということです。\r\n　　　\r\n警察は６人の認否について明らかにしていません。\r\n\r\n野本容疑者は当時１人で少年らと何らかのトラブルがあったとみられます。\r\n　　\r\n警察は、野本容疑者の供述などからこの強盗傷害事件が死体遺棄事件の発端になったとみて捜査を進めています。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ai8gdZeZACo/default.jpg",
+            "url": "https://i.ytimg.com/vi/zUMaA8iaYVg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ai8gdZeZACo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zUMaA8iaYVg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ai8gdZeZACo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zUMaA8iaYVg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Ai8gdZeZACo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/zUMaA8iaYVg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Ai8gdZeZACo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zUMaA8iaYVg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -92,7 +92,7 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Ai8gdZeZACo"
+          "videoId": "zUMaA8iaYVg"
         },
         "videoOwnerChannelTitle": "とちテレNEWS",
         "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
@@ -100,36 +100,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "gUY9Q5mKZ6vMTqxAFjhmo9Q-uzM",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LkY1SVBqbTFkZnNV",
+      "etag": "TUHRwGAeUKhPcUhXqeCfDEE-lqo",
+      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3Lm5KblY1WE9RaTNr",
       "snippet": {
-        "publishedAt": "2025-10-16T01:23:57Z",
+        "publishedAt": "2025-10-17T01:18:47Z",
         "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "オリエンテーリング大会で行方不明　大会主催者が説明会　那須塩原",
-        "description": "栃木県那須塩原市で開かれたオリエンテーリング大会で参加者の８０代の男性の行方が分からなくなっていること受けて大会の主催者は１４日、説明会を開いて今後の安全対策について考えを明らかにしました。\r\n\r\n行方不明になっているのは、埼玉県に住む８０代の男性です。\r\n\r\n男性は１０月４日に那須塩原市湯本塩原の山林で開催された、地図を使って指定された地点をたどりゴールまでのタイムを競うオリエンテーリングの大会に参加して行方不明になりました。\r\n\r\n主催者である日本オリエンテーリング協会の関係者で行われた捜索では、男性が持っていたとみられる大会の地図が見つかりましたが、男性の発見には至らず、協会としての捜索は一旦の区切りを付けることが、すでに決まっています。\r\n\r\n今後は、プロの協力も視野に有志での捜索に引き継ぐということです。\r\n\r\n今回の事態を受けて協会では１４日、参加者の安全確保に向けた説明会をオンラインで開きました。\r\n\r\nはじめに協会の村越　真副会長が男性が行方不明になった要因として考えられることを話しました。\r\n\r\n協会では今後の安全対策として、主催者側が競技を行うエリアの境界近くでパトロールを行い、参加者側には緊急のためのホイッスルや通信手段となるスマートフォンなどを携帯して競技に参加してもらえるよう協力を呼びかけていくということです。",
+        "title": "高額ポケカを不正購入　５千万円被害か　警視庁",
+        "description": "他人名義のクレジットカード情報を使い高額なポケモンカードを不正に購入したとして警視庁は１６日までに栃木市の男を再逮捕しました。\r\n\r\n私電磁的記録不正作出及び供用と窃盗などの疑いで再逮捕されたのは栃木市大宮町の自称物販業、中沢　友来容疑者２４歳です。\r\n\r\n中沢容疑者は今年３月、何者かと共謀してトレーディングカードの販売サイトで他人のクレジットカード情報を入力してポケモンカード４枚、販売価格合わせておよそ１６３万円を不正に購入した疑いが持たれています。\r\n\r\nカードは転売されていました。\r\n\r\n警視庁の調べに対し、中沢容疑者は、黙秘しているということです。\r\n\r\n中沢容疑者は、クレジットカード会社のコールセンターに名義人を装って電話し、利用限度額の引き上げと登録されていた電話番号を自分の番号に変更する手続きをしていました。\r\n\r\n警視庁は９月、同じ手口でカード３枚を不正に購入したとして中沢容疑者を逮捕していました。\r\n\r\n去年３月から今年９月におよそ５千万円分の被害があったとみられます。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/F5IPjm1dfsU/default.jpg",
+            "url": "https://i.ytimg.com/vi/nJnV5XOQi3k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/F5IPjm1dfsU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nJnV5XOQi3k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/F5IPjm1dfsU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nJnV5XOQi3k/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/F5IPjm1dfsU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/nJnV5XOQi3k/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/F5IPjm1dfsU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nJnV5XOQi3k/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -139,7 +139,7 @@
         "position": 2,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "F5IPjm1dfsU"
+          "videoId": "nJnV5XOQi3k"
         },
         "videoOwnerChannelTitle": "とちテレNEWS",
         "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
@@ -147,36 +147,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "mKL84l5546E1AWrZxhGT0EdmxQY",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LmpyTllKUFp6b1NV",
+      "etag": "Kl7kcZoqRqkjJNcfyjoFXyXzQjw",
+      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LkFlaXBiUHpnWnY4",
       "snippet": {
-        "publishedAt": "2025-10-16T01:22:57Z",
+        "publishedAt": "2025-10-17T01:17:28Z",
         "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "「アールスメロン」出荷始まる　益子町",
-        "description": "栃木県益子町の農場で、この秋実った高級品種の「アールスメロン」の出荷が始まっています。\r\n\r\n日本を代表する高級メロンの代名詞、「アールスメロン」が栽培されているのは益子町にある「道の駅ましこ」です。\r\n\r\n「道の駅ましこ」が直営する農場では益子焼にも使われる品質の良い土と、使われなくなったビニールハウスを再利用して、４年ほど前からアールスメロンの栽培が行われています。\r\n　　\r\n収穫時期を迎え１０月からは出荷作業がピークを迎えています。\r\n\r\nアールスメロンは皮に細かくて深さのある網目模様が入り果肉は舌ざわりもなめらかで果汁が多く、甘みが強いのが特徴です。\r\n\r\n町ではメロンの新たなブランド作りをしようと地域おこし協力隊や地域留学生などの若者を栃木県外から呼び込み栽培に力を入れています。\r\n\r\n農場では、収穫されたばかりのメロンが大きさや見た目ごとに選別され、道の駅に並べられました。\r\n\r\nアールスメロンは１１月上旬まで道の駅に並ぶ予定で今週末と来週末には、メロンの収穫体験も予定されています。",
+        "title": "リンゴ病　Ａ群溶血性レンサ球菌咽頭炎　警報レベル　栃木県",
+        "description": "栃木県内の１０月１２日までの感染症の流行状況が発表され、リンゴ病と、Ａ群溶血性レンサ球菌咽頭炎が引き続き一部の地域で警報レベルとなっています。\r\n\r\n「伝染性紅斑」いわゆるリンゴ病は、子どもを中心に発症し、妊婦が感染すると流産や死産に繋がる恐れもあります。\r\n\r\n報告のあった患者の数は１６人で、前の週から５人減り栃木県の北部のみが警報レベルとなっています。\r\n\r\nＡ群溶血性レンサ球菌咽頭炎は、発熱や全身の倦怠感、鼻や喉などに痛みが見られ、舌がイチゴ状に腫れあがることがあります。\r\n\r\n小学生の子どもを中心に冬と、春から初夏にかけて２つの時期に流行します。\r\n\r\n患者の数は１０６人で、前の週から２４人増え、先週に続き県の北部で警報レベルとなっています。\r\n\r\nまた、４週前に流行に入ったインフルエンザは、先週から７人増えて３７人でした。\r\n\r\n定点医療機関あたりの報告数は０・７９人と、流行の目安である１を下回りましたが今後も全国的に患者の数が増えると予想されるため、県では予防対策を心がけるよう呼びかけています。\r\n\r\n新型コロナウイルスは先週から２０人減って２１１人で、定点医療機関当たりの報告数は４・４９人でした。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jrNYJPZzoSU/default.jpg",
+            "url": "https://i.ytimg.com/vi/AeipbPzgZv8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jrNYJPZzoSU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AeipbPzgZv8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jrNYJPZzoSU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AeipbPzgZv8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/jrNYJPZzoSU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/AeipbPzgZv8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/jrNYJPZzoSU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AeipbPzgZv8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -186,7 +186,7 @@
         "position": 3,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "jrNYJPZzoSU"
+          "videoId": "AeipbPzgZv8"
         },
         "videoOwnerChannelTitle": "とちテレNEWS",
         "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
@@ -194,36 +194,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "0ztnar_PsA6RSwYKpOw0lsBc0-o",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3Ljh0MDYxOEpweWxF",
+      "etag": "3Vd5ZDBb37dIwwRQWgdX-0DukqM",
+      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LkRoVG0wUU9vNFl3",
       "snippet": {
-        "publishedAt": "2025-10-16T01:12:02Z",
+        "publishedAt": "2025-10-17T00:58:53Z",
         "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "勤務先の高校で女性盗撮　教諭を懲戒免職処分　栃木県教育委員会",
-        "description": "栃木県教育委員会は１５日、勤務する県立高校で女性を盗撮したとして３８歳の男性教諭を懲戒免職処分にしたと発表しました。\r\n\r\n懲戒免職処分になったのは性的姿態撮影処罰法違反などの罪で９月に起訴された県立高校の教諭古口大輔被告３８歳です。\r\n\r\n起訴状や栃木県教育委員会によりますと古口被告は、去年４月からことし７月にかけて、勤務する高校の女子トイレや女子更衣室に侵入して、天井に小型カメラを設置し盗撮を行ったとしています。\r\n\r\n栃木県教育委員会の聞き取りに対して古口被告は行為に及んだ理由として「仕事のストレスがあった。スリルや達成感を楽しんでいた。自分の技術でカメラを改造して盗撮できることに満足していた」と話したということです。\r\n\r\nそして懲戒処分を受けたことについては「色々な方にご迷惑をおかけして申し訳ない。職場でこんなことをして皆さんの信頼を失ってしまった。今となっては遅いが強く後悔しているしっかりと罪を償いたい」と話していたということです。\r\n\r\nまた栃木県教育委員会は、ことし６月、酒を飲んだ状態でＳＮＳのやりとりをした知人の男性とトラブルになり包丁を持ち出し自家用車を運転して男性の自宅に向かったなどとして、県立高校の増山泰美教諭５９歳を６カ月の停職処分としました。\r\n\r\n増山教諭は「軽はずみな行動で色々な方に多大なご迷惑をおかけし申し訳ない」と話し１５日付で依願退職しました。\r\n\r\n栃木県教育委員会の中村教育長は「今回複数の事案が立て続けに発生したことは忸怩たる思い。深くお詫び申し上げます。再発防止に向けた取り組みの充実と信頼の回復に努めて参ります」とコメントしました。",
+        "title": "「流鏑馬」神事 勇壮に　日光東照宮秋の大祭始まる",
+        "description": "日光東照宮の秋の大祭が１６日から始まり、馬の上から弓矢で的を射る勇壮な「流鏑馬」の神事が行われました。\r\n\r\n流鏑馬は、疾走する馬にまたがりながら、およそ５５センチ四方の３つの的を射る伝統の行事です。戦後の復興に向けて多くの人たちを励まそうと１９５３年（昭和２８年）から始まり、春と秋の年２回行われています。\r\n\r\n鎌倉時代や江戸時代の装束に身を包んだ１０人の射手が、参道に設けられたおよそ２５０メートルの馬場を駆け上がり「陰・陽・射」という勇ましい掛け声とともに次々に矢を放ちました。\r\n\r\n雨が降る中、人と馬が一体となって的が射抜かれると、沿道から大きな歓声と拍手が上がりました。\r\n\r\n全ての的を射抜いた射手には、神職から御神禄と呼ばれる褒美の白い布が授けられます。\r\n\r\n１７日は鎧武者などが参道を練り歩く大祭のハイライト「百物揃千人武者行列」が行われます。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8t0618JpylE/default.jpg",
+            "url": "https://i.ytimg.com/vi/DhTm0QOo4Yw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8t0618JpylE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DhTm0QOo4Yw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8t0618JpylE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DhTm0QOo4Yw/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/8t0618JpylE/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/DhTm0QOo4Yw/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/8t0618JpylE/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DhTm0QOo4Yw/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -233,7 +233,7 @@
         "position": 4,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "8t0618JpylE"
+          "videoId": "DhTm0QOo4Yw"
         },
         "videoOwnerChannelTitle": "とちテレNEWS",
         "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
@@ -241,36 +241,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "L41GmuQS_9jK24fd2I2HYx5kxP8",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LnB5c1VMeUJDek1J",
+      "etag": "7lA1exzmLjkK1UXBlsqVHY0OHlk",
+      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LnNoY1RldG1SWXd3",
       "snippet": {
-        "publishedAt": "2025-10-16T00:26:08Z",
+        "publishedAt": "2025-10-17T00:30:05Z",
         "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "歌心りえさん「とちぎ未来大使」に就任　那須塩原出身の歌手",
-        "description": "栃木県内外で活躍する著名な人に栃木県の魅力を発信してもらう「とちぎ未来大使」に１５日、那須塩原市出身の歌手が就任しました。\r\n\r\nとちぎ未来大使に就任したのは、那須塩原市出身の歌手・歌心りえさんです。県庁で行われた委嘱式で、福田富一知事から歌心さんにとちぎ未来大使の委嘱状と「歌手」という肩書の書かれたＰＲ用のパネル名刺が手渡されました。\r\n\r\n福田知事から「未来大使、よろしくお願いします」とエールが贈られると、歌心さんは「日本だけでなく、韓国の方にも発信できたら」と笑顔で応えていました。\r\n\r\n委嘱式では、歌心さんの生歌も披露され、福田知事をはじめ、同席した人たちは澄んだ美しい歌声に聴き入っていました。\r\n\r\n歌心さんは、１９９５年に姉と共に歌手デビュー。その後、ソロ活動を経て２０２４年４月、日本代表歌手として韓国の歌番組に出演し、番組が韓国で人気となり大ブレーク、日本でも一躍脚光を浴び注目を集めています。\r\n\r\nことし４月には、日本の２つの大手レコード会社からソロメジャーデビューを果たし、６月からは宇都宮市を皮切りに全国ツアーを行っています。",
+        "title": "レースでの意気込みを語る　宇都宮ジャパンカップに出場する選手らが市長を表敬訪問",
+        "description": "世界のトップ選手が集結する、自転車ロードレースの国際大会「宇都宮ジャパンカップサイクルロードレース」が１７日開幕するのを前に１６日、選手が宇都宮市の佐藤栄一市長を表敬訪問し、意気込みを語りました。\r\n\r\n「宇都宮ジャパンカップサイクルロードレース」は、国際自転車競技連合ＵＣＩが公認する国際大会で、世界トップカテゴリーのワールドチームが参戦するアジア最高峰の大会です。\r\n\r\n大会が開幕するのを前に１６日、２年前の大会で優勝したベルギーの「アンテルマルシェ・ワンティ」のアイケ・フィスベーク監督と今村駿介選手、それにイタリアの「ソリューションテック・ヴィーニファンティーニ」所属で、１４回目の出場となる新城幸也選手など８人が、宇都宮市役所を訪れました。\r\n\r\n佐藤市長は「このレースは本物の走りが見られると人気です。安全で真剣な走りができるよう準備していますので、選手の皆さんは十分に力を発揮してください」と歓迎しました。フィスベーク監督は「レースを楽しみにしています。強いチームを連れてきたので期待してください」と話しました。\r\n\r\n大会は世界１９のチームから１００人を超える選手が出場し、１７日はチームプレゼンテーション、１８日には宇都宮市の中心部で「クリテリウム」、そして、１９日に森林公園で「ロードレース」が行われます。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pysULyBCzMI/default.jpg",
+            "url": "https://i.ytimg.com/vi/shcTetmRYww/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pysULyBCzMI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/shcTetmRYww/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pysULyBCzMI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/shcTetmRYww/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/pysULyBCzMI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/shcTetmRYww/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/pysULyBCzMI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/shcTetmRYww/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -280,7 +280,7 @@
         "position": 5,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "pysULyBCzMI"
+          "videoId": "shcTetmRYww"
         },
         "videoOwnerChannelTitle": "とちテレNEWS",
         "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
@@ -288,36 +288,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "T69IgD5tCJvR355aa2QPdrwiJBs",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LnRmUXpIOXhtaVlv",
+      "etag": "HxDgaPCv86vgnmC6dAHQ-O7ABG8",
+      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LmFQeV8zUDFUb2hB",
       "snippet": {
-        "publishedAt": "2025-10-16T00:22:41Z",
+        "publishedAt": "2025-10-17T00:28:00Z",
         "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "ヤングケアラー相談ＬＩＮＥで気軽に　２４時間受け付け運用開始",
-        "description": "家族の介護や世話を日常的に行っている若者、いわゆる「ヤングケアラー」が気軽に相談できるコミュニケーションアプリが新たに開設され、栃木県は１５日から運用をスタートさせました。\r\n\r\n栃木県が新たに開設したのは、インターネットアプリのＬＩＮＥを活用した「とちぎヤングケアラーチャンネル」です。\r\n\r\nヤングケアラーが気軽に話せるＬＩＮＥチャンネルで、家族のケアや学校、将来などといった悩みを過去にヤングケアラーだった人や心理士、看護師、社会福祉士などの専門家に相談することができます。\r\n\r\nヤングケアラー協会が運営し、相談メッセージは２４時間受け付けていて、祝日と年末年始を除いた平日の午前１１時から午後８時に返信されるということです。\r\n\r\n県が２０２２年に実施した調査によりますと、「世話をしている家族がいる」と答えたのは、小学６年生で１２・０％、中学２年生で８・２％、高校生で５・０％に上っていて、いずれも国の調査より割合が高かったということです。\r\n\r\n栃木県はＱＲコードを読み取るか、ＬＩＮＥのホーム画面で「とちぎヤングケアラーチャンネル」と検索し、友だち登録をしてから利用してほしいと話しています。",
+        "title": "スポーツの全国大会で優勝した中・高校生をたたえる　２団体と１０人に栃木県知事表彰",
+        "description": "２０２５年度に行われたスポーツの全国大会で優勝した、中学生と高校生が１６日、福田富一栃木県知事から表彰を受けました。\r\n\r\n知事表彰を受けたのは、２つの団体と１０人の中学生と高校生です。また、選手を優勝に導いた指導者にも表彰状が手渡されました。\r\n\r\n団体で表彰されたのは、全国ジュニアゲートボール大会女子１部クラスで優勝した作新学院高校と、全国定時制通信制体育大会のソフトテニスで女子団体で優勝した、科学技術学園高校と学悠館高校の栃木県選抜チームです。\r\n\r\n個人では、佐野市城東中学校２年の猪熊愛心選手が、全国中学生空手道選手権の女子組手で優勝し、今回、中学生でただ一人表彰されました。ほかにも佐野日大高校３年の後藤結愛選手が、インターハイの水泳女子１００メートルバタフライで優勝し、この種目では栃木県選手として初めての栄冠を獲得しました。\r\n\r\n福田知事は「皆さんの活躍は県民に勇気、感動、希望を与えてくれました。次の夢や目標に向かって力強く挑戦を続けてください」と選手たちをたたえました。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/tfQzH9xmiYo/default.jpg",
+            "url": "https://i.ytimg.com/vi/aPy_3P1TohA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/tfQzH9xmiYo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aPy_3P1TohA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/tfQzH9xmiYo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aPy_3P1TohA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/tfQzH9xmiYo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/aPy_3P1TohA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/tfQzH9xmiYo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aPy_3P1TohA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -327,289 +327,7 @@
         "position": 6,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "tfQzH9xmiYo"
-        },
-        "videoOwnerChannelTitle": "とちテレNEWS",
-        "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "ZtjP7wK4_W221TGh6wfwXg2Slfs",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LlM4akNKMXhQWldR",
-      "snippet": {
-        "publishedAt": "2025-10-15T00:53:53Z",
-        "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "足利市　そば打ちサークルの高齢者が炊き出しの訓練　「自分たちにできることを」非常時に備え",
-        "description": "足利市では１４日、大規模な災害が起こった際の炊き出しの訓練が行われました。\r\n\r\n訓練を行ったのは、足利市のシルバー人材センターの会員らでつくる、そば打ちサークル「令和会」のメンバーおよそ２０人です。「令和会」は、２０１９年１０月の東日本台風で県内が大きな被害を受けた際、被災者およそ８０人にそばの炊き出しを行っていて、非常時に備えて去年から訓練を始めました。\r\n\r\n訓練は、そば作りから提供するまでの工程を役割を分担しながら実施し、災害時にインフラが使えなくなることも想定して持ち寄った灯油式バーナーなどでお湯を沸かしました。訓練参加者は、避難所に見立てた会議室で提供する順番を番号で管理したり、声をかけあったりして効率的な作業の手順を確認していました。\r\n\r\nそして、避難者役として集まった会員の家族や知り合いに、およそ１５０食のもりそばを振る舞いました。\r\n\r\n訪れた人は「（味が）最高です」「そばの香りがしておいしい」と笑顔を見せ、この取り組みについては「（炊き出しがあると）気持ちが違いますよね。災害時はカップ麺などになってしまうので」と評価していました。\r\n\r\n２回目の訓練参加となったメンバーは「１回目の訓練では夢中で言われたことをやっていたが、今回は『こうしたらいい』と少しわかるようになりました」と話し、「令和会」の一員でそば打ちを教えている門奈誠司さんは「なるべく高齢者も社会参加して、災害ボランティアとして活躍できたら」と意欲を見せました。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/S8jCJ1xPZWQ/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/S8jCJ1xPZWQ/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/S8jCJ1xPZWQ/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/S8jCJ1xPZWQ/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/S8jCJ1xPZWQ/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "とちテレNEWS",
-        "playlistId": "UU_SN3bimHrEFQ0qe-5X5zFw",
-        "position": 7,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "S8jCJ1xPZWQ"
-        },
-        "videoOwnerChannelTitle": "とちテレNEWS",
-        "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "sMlk8p2qLUNroLq5zq8vrOTh0Wo",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3Lk42anluMzBxNGhr",
-      "snippet": {
-        "publishedAt": "2025-10-15T00:48:42Z",
-        "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "債券投資と投資信託を正しく学ぶ　「資産運用セミナー」　ライトキューブ宇都宮で開催",
-        "description": "債券投資や投資信託など「資産運用」について正しく知ってもらおうと１３日、宇都宮市内でセミナーが開かれました。\r\n\r\n宇都宮市のライトキューブ宇都宮で開かれた「資産運用セミナー」は、宇都宮市陽東に営業所がある投資信託相談プラザと、とちぎテレビが主催し、およそ４０人が参加ました。\r\n\r\n２０２４年から新ＮＩＳＡが始まったほか、このところ日経平均株価が最高値を更新していることもあって、資産運用に関心が高まり、関係する相談も増えているといいます。\r\n\r\nセミナーでは、リスクが少ないとされる債券投資と投資信託を中心に、仕組みや用語といった基礎から、運用のメリットやデメリットなどについて専門家が講演しました。\r\n\r\n参加した人たちは、退職金の運用や正しい資産活用についてメモを取るなどして、熱心に耳を傾けていました。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/N6jyn30q4hk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/N6jyn30q4hk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/N6jyn30q4hk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/N6jyn30q4hk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/N6jyn30q4hk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "とちテレNEWS",
-        "playlistId": "UU_SN3bimHrEFQ0qe-5X5zFw",
-        "position": 8,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "N6jyn30q4hk"
-        },
-        "videoOwnerChannelTitle": "とちテレNEWS",
-        "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "qLyQPCk0aGaG4iY1Pp5QzhlvXTI",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3Lm56QnpPRWNWNEgw",
-      "snippet": {
-        "publishedAt": "2025-10-15T00:47:27Z",
-        "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "自民党裏金事件　栃木３区選出の簗議員は「不起訴相当」　覆す証拠なし",
-        "description": "自民党旧安倍派の政治資金パーティー裏金事件で東京第５検察審査会は、１４日までに東京地検特捜部が政治資金規正法違反の疑いで起訴猶予となった衆議院栃木３区選出の簗和生議員を「不起訴相当」としました。\r\n９月２６日付けです。\r\n\r\n自民党などによりますと簗氏側の政治資金収支報告書の不記載額は２０２２年分までの５年間で合わせて１千７４６万円で、去年１２月に特捜部が簗氏を起訴猶予としていました。\r\n\r\n検審は不起訴を覆す証拠がないとしました。\r\n\r\n一方、同じ容疑で不起訴とされていた兵庫県選挙区の加田裕之参議院議員を「不起訴不当」と議決し、検察が再び捜査します。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/nzBzOEcV4H0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/nzBzOEcV4H0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/nzBzOEcV4H0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/nzBzOEcV4H0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/nzBzOEcV4H0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "とちテレNEWS",
-        "playlistId": "UU_SN3bimHrEFQ0qe-5X5zFw",
-        "position": 9,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "nzBzOEcV4H0"
-        },
-        "videoOwnerChannelTitle": "とちテレNEWS",
-        "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "jXQJVn6Ap2LY3E9NWJ8cqDVREKY",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3Li1zQ3FSZ2FPWXZF",
-      "snippet": {
-        "publishedAt": "2025-10-15T00:46:59Z",
-        "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "地域の「防災人材」育成・活用を！栃木県が検討委員会初会合 防災士らの人材バンクや防災教育も",
-        "description": "ゲリラ豪雨や台風など災害が頻繁に発生する中、地域の防災の担い手となる人材を育て活用していくための検討委員会の初会合が１４日、県庁で開かれました。\r\n\r\nこの検討会は、栃木県の地域防災力の強化に向けて県が設置したもので、外部の有識者ら１２人の委員で構成されています。\r\n\r\n委員長には、宇都宮大学地域デザイン科学部の石井大一朗教授が就き、１回目の開催となった今回の会議では地域の防災を担う人材の現状と課題、それに方向性のイメージなどが話し合われました。\r\n\r\n（県危機管理防災局・大森豊局長）「自主防災組織だったり，防災士や消防団がどのように機能して地域や人を守っているか、きちんと精査されていない部分もある。多くの人が防災を理解したうえで自分が何をすべきか感じてもらえるよう環境作りをする、いいきっかけになるのではないか」\r\n\r\n県が去年７月、県民などを対象に行った「栃木県に関するイメージ調査」では「災害が少ない」が１位で防災意識が高まりにくい状況にある一方、気候変動の影響などで災害は頻発化・激甚化しています。\r\n\r\nそのため、県は３年後に宇都宮市の県総合運動公園に新たな「防災教育施設」を完成させる予定です。\r\n\r\n会議では全ての社員が「防災士」の資格を持っている宇都宮市の宇都宮電子や、国の防災功労者の内閣総理大臣賞を受賞した上三川町の石田地区自主防災会の取り組みが紹介されました。\r\n\r\n一方、県内に５千２００人余りいる防災士の活躍の場が少ないことや、学校で防災教育を実施する上で教員の４割近くが「知識の不足」を挙げている現状も明らかになりました。\r\n\r\n検討委員会では今後、アドバイザーや専門家を含めた「地域防災人材バンク」を設置することや１０年後、２０年後を支える小中学生の防災教育などについて協議していく方針です。\r\n\r\n（石田大一朗委員長）「これまでの取り組みを共有することができ、次回以降は互いの連携や協働、強みをどう生かしていくかが協議のポイントになる。例えば小学校の先生が避難訓練を実施するときに、誰に相談したらより良くできるか、そうした人が身近にいるかなどについても、検討していかなければならない」\r\n\r\n次の会合は１２月ごろ開かれる予定です。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-sCqRgaOYvE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-sCqRgaOYvE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-sCqRgaOYvE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-sCqRgaOYvE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/-sCqRgaOYvE/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "とちテレNEWS",
-        "playlistId": "UU_SN3bimHrEFQ0qe-5X5zFw",
-        "position": 10,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-sCqRgaOYvE"
-        },
-        "videoOwnerChannelTitle": "とちテレNEWS",
-        "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "CTR-5If99Qd9qyXvbFvfmnjyBBI",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LkhyRzE5UEljZkhn",
-      "snippet": {
-        "publishedAt": "2025-10-15T00:45:51Z",
-        "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "白鴎大学足利高校の生徒らインターハイ優勝など知事に報告",
-        "description": "全国高校総体・インターハイの種目で優勝した選手が１４日、栃木県庁を訪れ福田富一知事に結果を報告しました。\r\n\r\n県庁を訪れたのは白鴎大学足利高校の陸上競技部２年の石原南菜選手とボクシング部３年の小林栄絢選手、それに同じく１年の伊藤瑠那選手の３人です。\r\n\r\n足利市出身の石原選手は今年７月に広島県で行われたインターハイの女子１００ｍハードルで大会と高校生の新記録となる１３秒３０のタイムで優勝を飾ると９月香港で開かれた２０歳以下の東アジア選手権では金メダルを獲得。\r\nまた１０月滋賀県で開かれた国民スポーツ大会ではタイムをさらに０秒０１縮めて頂点に輝きました。\r\n\r\n鹿沼市出身の小林選手は今年７月に岡山県で開かれたインターハイのボクシング男子ライトフライ級に出場し前回大会の決勝で敗れた相手を下し高校生活最後の大会を優勝で締めくくりました。\r\n\r\nまた、福島県会津若松市出身の伊藤選手は、今月２２日にバーレーンで開幕するアジアユースゲームズのボクシング女子５０キログラム級に出場し、前回大会の３位を上回る成績を狙います。\r\n\r\n福田知事は「感謝の気持ちを忘れずそれぞれの種目で頑張って」と選手３人を激励しました。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HrG19PIcfHg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HrG19PIcfHg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HrG19PIcfHg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HrG19PIcfHg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HrG19PIcfHg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "とちテレNEWS",
-        "playlistId": "UU_SN3bimHrEFQ0qe-5X5zFw",
-        "position": 11,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "HrG19PIcfHg"
-        },
-        "videoOwnerChannelTitle": "とちテレNEWS",
-        "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "X8fH5L9OJldnmJGP3Ljmxg_VDAY",
-      "id": "VVVfU04zYmltSHJFRlEwcWUtNVg1ekZ3LnRrYzBCSUdsUGJz",
-      "snippet": {
-        "publishedAt": "2025-10-15T00:40:33Z",
-        "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
-        "title": "１２年ぶり保守系新人の一騎打ち　那珂川町長選が告示",
-        "description": "任期満了に伴う那珂川町の町長選挙が１４日告示され、新人２人が立候補し、一騎打ちの選挙戦に突入しました。\r\n\r\n那珂川町の町長選挙に立候補したのは、届け出順に、いずれも新人で前の町議会議員の鈴木繁氏６１歳と益子純恵氏４６歳の２人です。\r\n\r\n元町議会議長の鈴木氏は、那珂川町小川の選挙事務所前で出陣式を行い、支持者およそ２５０人が集まりました。鈴木氏は那珂川町出身で２０１４年の町議会議員選挙で初当選し、３期目の途中まで務めました。\r\n\r\n現職の福島泰夫町長から後継指名を受けていて、「築こうあなたと未来の那珂川町」をキャッチフレーズに５つの分野を公約の柱に掲げています。町の最重要課題には少子高齢化をあげ、移住・定住政策の強化に取り組むとしていて町外から移り住んだ人に対して固定資産税や土地の購入費の負担を軽減する施策の実現などを訴えています。\r\n\r\n前町議会議長の益子氏は、那珂川町馬頭の後援会事務所前で第一声をあげ、地元の県議会議員や、町議会議員５人などおよそ１５０人が集まりました。大田原市出身の益子氏は、２０１７年の町議会議員の補欠選挙で初当選し３期目の途中まで務めました。\r\n\r\nオール那珂川町体制で新しい風を吹かせたいとして、人口減少対策や子育て・教育環境の整備など８つの分野を公約に掲げています。このうち町民が時刻表にとらわれず必要な時に使用できるデマンドタクシーを、ＡＩの活用を視野にニーズに合った運行を目指すとしています。また子育ての拠点となる複合施設の整備を訴えています。\r\n\r\n那珂川町長選挙は１５日から期日前投票が始まり、１９日に投開票されます。",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/tkc0BIGlPbs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/tkc0BIGlPbs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/tkc0BIGlPbs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/tkc0BIGlPbs/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/tkc0BIGlPbs/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "とちテレNEWS",
-        "playlistId": "UU_SN3bimHrEFQ0qe-5X5zFw",
-        "position": 12,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "tkc0BIGlPbs"
+          "videoId": "aPy_3P1TohA"
         },
         "videoOwnerChannelTitle": "とちテレNEWS",
         "videoOwnerChannelId": "UC_SN3bimHrEFQ0qe-5X5zFw"

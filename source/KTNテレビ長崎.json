@@ -2,40 +2,40 @@
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
   "original_name": "KTNテレビ長崎",
-  "updated_at": "2025-10-18T00:02:19.686467",
+  "updated_at": "2025-10-19T00:01:38.577290",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "CBtwrP-wI62U2y1dKRPXkIN5YrY",
-      "id": "VVVGVkkxNFlLeHg0MkNaUFJ5WlhfZzBBLll5TlpFUVhCQ3dR",
+      "etag": "IzjltK4-iv1n7WtlOo714IaYcYU",
+      "id": "VVVGVkkxNFlLeHg0MkNaUFJ5WlhfZzBBLmFDeG45Qng5UnRR",
       "snippet": {
-        "publishedAt": "2025-10-17T10:01:07Z",
+        "publishedAt": "2025-10-18T03:00:00Z",
         "channelId": "UCFVI14YKxx42CZPRyZX_g0A",
-        "title": "長濱ねるさんが中学校で特別授業　世界に視野を広げることの魅力を伝える",
-        "description": "ながさきピース文化祭のイベントで長崎市を訪れた長濱ねるさんが、長崎市内の片淵中学校で教壇に立ち、英語を学んで世界に視野を広げることの魅力を伝えました。\n参加した27人の3年生にとってはサプライズの登場でした。\n（2025年10月6日放送）\n\n長濱ねるさんが中学校の先生になった！英語の特別授業で教壇に立つ\n「今いる場所だけが全てじゃない」中学時代は米国にホームステイ。これまで旅したのは20カ国。\nhttps://www.fnn.jp/articles/-/941980【FNNプライムオンライン】",
+        "title": "大学時代から顔なじみ！ 長崎ヴェルカの熊谷航選手、山口斗颯選手が今季への思いを語る！【VELCA】",
+        "description": "いよいよB1リーグが開幕！\n大学時代から顔なじみ！\n熊谷航選手、山口斗颯選手が今季への思いを語る。\n今年のシーズンはココが違う！\n\n原点回帰！「HASIT」。\n（2025年10月放送）",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/YyNZEQXBCwQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/aCxn9Bx9RtQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/YyNZEQXBCwQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aCxn9Bx9RtQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/YyNZEQXBCwQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aCxn9Bx9RtQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/YyNZEQXBCwQ/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/aCxn9Bx9RtQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/YyNZEQXBCwQ/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/aCxn9Bx9RtQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "YyNZEQXBCwQ"
+          "videoId": "aCxn9Bx9RtQ"
+        },
+        "videoOwnerChannelTitle": "KTNテレビ長崎",
+        "videoOwnerChannelId": "UCFVI14YKxx42CZPRyZX_g0A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tXDcixf0lYjX0MNzi0mS24gKK9M",
+      "id": "VVVGVkkxNFlLeHg0MkNaUFJ5WlhfZzBBLmJtOWNNUzh4aTBV",
+      "snippet": {
+        "publishedAt": "2025-10-18T01:00:50Z",
+        "channelId": "UCFVI14YKxx42CZPRyZX_g0A",
+        "title": "運動器疾患について～腰の内視鏡治療～【週刊健康マガジン】",
+        "description": "腰痛は、加齢性によってかかる疾患のひとつで、日常生活に様々な支障をきたしますが、代表的な原因として「腰部脊柱管狭窄症」や「腰椎椎間板ヘルニア」などがあります。\n\n飲み薬や注射などによる保存治療で症状を抑えることができますが、完全に治すことは難しいため、外科治療が考えられます。\n\n年齢や体力などを理由に治療を諦めていた患者さんも、内視鏡を使った体への負担が少ない治療が可能になってきていますので、一度整形外科でお尋ねください。\n\n虹が丘病院　整形外科　山田周太 さん\n（2025年10月17日放送）",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bm9cMS8xi0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bm9cMS8xi0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bm9cMS8xi0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bm9cMS8xi0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bm9cMS8xi0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KTNテレビ長崎",
+        "playlistId": "UUFVI14YKxx42CZPRyZX_g0A",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bm9cMS8xi0U"
         },
         "videoOwnerChannelTitle": "KTNテレビ長崎",
         "videoOwnerChannelId": "UCFVI14YKxx42CZPRyZX_g0A"

@@ -2,37 +2,42 @@
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "テレビ愛媛【公式】",
   "original_name": "EBCテレビ愛媛",
-  "updated_at": "2025-10-17T00:03:27.906265",
+  "updated_at": "2025-10-19T00:03:38.260217",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "VWDqWhrzkW-6xY-aqfyN4r5SK7k",
-      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LjdQa0NUZ1o2UndB",
+      "etag": "y-0XGeMl5_CBKrpry2Z2T_2OskM",
+      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3Lm9pVGNnRlkzci1N",
       "snippet": {
-        "publishedAt": "2025-10-16T10:36:56Z",
+        "publishedAt": "2025-10-18T10:01:23Z",
         "channelId": "UCSzVAEFIewUsDHFEkcdyw1w",
-        "title": "【内子町】山里の新米収穫祭は大盛況！",
-        "description": "内子町の御祓（みそぎ）地区で\n新米の収穫祭がありました。\nそこには故郷の風景を残す\n地元の思いがありました。\n\n＃内子町　＃御祓地区　＃新米　＃みそぎの里　＃後継者\n＃移住",
+        "title": "【ゆ～ばら！】「オリーブ」や「真鯛」を使って内木アナと日本食研 伊藤さんが料理に挑戦！",
+        "description": "先週に引き続き、特集は内木アナと日本食研 伊藤さんが県内食材を全力応援！「えひめの食 盛り上げまっぷ」。お目当ての食材は、しまなみ海道 大島の“ポパイズクラブ”がつくる「オリーブ」。オリジナルの「オリーブオイル」や、おおきな「真鯛」を使って、お料理に挑戦します！",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7PkCTgZ6RwA/default.jpg",
+            "url": "https://i.ytimg.com/vi/oiTcgFY3r-M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7PkCTgZ6RwA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oiTcgFY3r-M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7PkCTgZ6RwA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oiTcgFY3r-M/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/7PkCTgZ6RwA/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/oiTcgFY3r-M/sddefault.jpg",
             "width": 640,
             "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oiTcgFY3r-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "テレビ愛媛【公式】",
@@ -40,96 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "7PkCTgZ6RwA"
-        },
-        "videoOwnerChannelTitle": "テレビ愛媛【公式】",
-        "videoOwnerChannelId": "UCSzVAEFIewUsDHFEkcdyw1w"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "gOv0rf86GKyTVrGIUbD1FWyZv5w",
-      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3LmV2NHhQd1NfRnpr",
-      "snippet": {
-        "publishedAt": "2025-10-16T10:32:45Z",
-        "channelId": "UCSzVAEFIewUsDHFEkcdyw1w",
-        "title": "【昭和１００年】#28 多彩な出し物が魅力の「南予 秋祭り」",
-        "description": "▼「EBC Live News」HPはこちら\nhttps://www.ebc.co.jp/news/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/ev4xPwS_Fzk/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "テレビ愛媛【公式】",
-        "playlistId": "UUSzVAEFIewUsDHFEkcdyw1w",
-        "position": 1,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "ev4xPwS_Fzk"
-        },
-        "videoOwnerChannelTitle": "テレビ愛媛【公式】",
-        "videoOwnerChannelId": "UCSzVAEFIewUsDHFEkcdyw1w"
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "M8GPcasyuvj0Qvne9Tvj1SNeVI0",
-      "id": "VVVTelZBRUZJZXdVc0RIRkVrY2R5dzF3Li1yOWh0STdiT25B",
-      "snippet": {
-        "publishedAt": "2025-10-16T10:32:01Z",
-        "channelId": "UCSzVAEFIewUsDHFEkcdyw1w",
-        "title": "【媛さんぽ】松山市北条で大興奮の秋祭りに密着！",
-        "description": "▼「EBC Live News」HPはこちら\nhttps://www.ebc.co.jp/news/",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/-r9htI7bOnA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/-r9htI7bOnA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/-r9htI7bOnA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/-r9htI7bOnA/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "テレビ愛媛【公式】",
-        "playlistId": "UUSzVAEFIewUsDHFEkcdyw1w",
-        "position": 2,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "-r9htI7bOnA"
+          "videoId": "oiTcgFY3r-M"
         },
         "videoOwnerChannelTitle": "テレビ愛媛【公式】",
         "videoOwnerChannelId": "UCSzVAEFIewUsDHFEkcdyw1w"

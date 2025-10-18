@@ -2,40 +2,40 @@
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "tuy6ch",
   "original_name": "TUYテレビユー山形",
-  "updated_at": "2025-10-17T00:03:29.933400",
+  "updated_at": "2025-10-19T00:03:40.422543",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "DnAosQAMZ6K5ZohAr0puJ5mN7os",
-      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3LlE3UWJmZFA2Vm1V",
+      "etag": "ERhXOrY-bkMREPHFVj-S8fAifKI",
+      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3LmhTY01VajNmOWZz",
       "snippet": {
-        "publishedAt": "2025-10-16T11:30:09Z",
+        "publishedAt": "2025-10-18T08:30:24Z",
         "channelId": "UCTWatTAOnFVB0vwIetZCTHw",
-        "title": "郷土の味に大満足！ 中学生が町を代表する秋の特産品 \"アケビ\" を学ぶ！ （山形・朝日町）",
-        "description": "（Nスタやまがた10月16日放送）\n山形県朝日町の中学校では郷土愛を育んでもらおうと地元の講師を招いて地域の魅力を学んでいます。きょう（16日）は食べ物がテーマ。町を代表する秋の特産品について学びました。\n詳細はNEWS DIGでも\nhttps://newsdig.tbs.co.jp/articles/-/2233009?display=1\n#ニュース #tuy #山形県 #山形 #テレビユー山形 #news #中学校 #朝日町 #アケビ #特産品 #郷土愛 #秋の味覚",
+        "title": "バスタブのあるバス停…？山形市のちょっと珍しい光景を巡る！",
+        "description": "フルーツポンチのように、色とりどり！魅力あふれる話題を、フレキシブルにお届けします。\nhttps://www.tuy.co.jp/ponchi/\n\n#どよーびぽんち#大塚美咲#tuy",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Q7QbfdP6VmU/default.jpg",
+            "url": "https://i.ytimg.com/vi/hScMUj3f9fs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Q7QbfdP6VmU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hScMUj3f9fs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Q7QbfdP6VmU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hScMUj3f9fs/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Q7QbfdP6VmU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/hScMUj3f9fs/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Q7QbfdP6VmU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/hScMUj3f9fs/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,237 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "Q7QbfdP6VmU"
+          "videoId": "hScMUj3f9fs"
+        },
+        "videoOwnerChannelTitle": "tuy6ch",
+        "videoOwnerChannelId": "UCTWatTAOnFVB0vwIetZCTHw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FpXjE0rsQECMlRp8fZ8FBtsDvnI",
+      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3LmhqaWtxQ3FKY1g4",
+      "snippet": {
+        "publishedAt": "2025-10-18T07:17:26Z",
+        "channelId": "UCTWatTAOnFVB0vwIetZCTHw",
+        "title": "LIVE映像　山形空港｜Live streaming from YAMAGATA AIRPORT",
+        "description": "＃Livecamera ＃ライブカメラ ＃Yamagata\n＃山形空港＃YAMAGATAAIRPORT＃ライブカメラ＃Livecamera＃山形＃Yamagata＃Japan\n\n【山形県内のその他の情報カメラ】\n・庄内空港\nhttps://www.youtube.com/embed/GuLNONiUJjM?si=80d9UBwXqve_NCvB",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hjikqCqJcX8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hjikqCqJcX8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hjikqCqJcX8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hjikqCqJcX8/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hjikqCqJcX8/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tuy6ch",
+        "playlistId": "UUTWatTAOnFVB0vwIetZCTHw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hjikqCqJcX8"
+        },
+        "videoOwnerChannelTitle": "tuy6ch",
+        "videoOwnerChannelId": "UCTWatTAOnFVB0vwIetZCTHw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hHLewivwhQ6xV28FjA7qU-tYs-M",
+      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3Lkd1TE5PTmlVSmpN",
+      "snippet": {
+        "publishedAt": "2025-10-18T07:16:41Z",
+        "channelId": "UCTWatTAOnFVB0vwIetZCTHw",
+        "title": "LIVE映像　庄内空港｜Live streaming from SHONAI AIRPORT",
+        "description": "＃庄内空港＃SHONAIAIRPORT＃空港＃ライブカメラ＃Livecamera＃山形＃Yamagata＃Japan\n\n【山形県内のその他の情報カメラ】\n・山形空港\nhttps://www.youtube.com/embed/hjikqCqJcX8?si=teuSGzciGNUlysm5",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GuLNONiUJjM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GuLNONiUJjM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GuLNONiUJjM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GuLNONiUJjM/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GuLNONiUJjM/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tuy6ch",
+        "playlistId": "UUTWatTAOnFVB0vwIetZCTHw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GuLNONiUJjM"
+        },
+        "videoOwnerChannelTitle": "tuy6ch",
+        "videoOwnerChannelId": "UCTWatTAOnFVB0vwIetZCTHw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VeNypMRBsGoIB8aLYeWng_QOjyc",
+      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3LjJIc3cxaDBCdmZj",
+      "snippet": {
+        "publishedAt": "2025-10-17T11:04:07Z",
+        "channelId": "UCTWatTAOnFVB0vwIetZCTHw",
+        "title": "めざせ花園　山形中央VS山形南　全国高校ラグビー大会山形県大会決勝迫る　気合十分の2校の意気込みは（山形）",
+        "description": "（Nスタやまがた10月17日放送）\n高校ラガーマン憧れの「花園」出場をかけた県高校ラグビーの決勝があさってに迫りました。対戦するのは山形中央と山形南。運命の一戦を前に対戦する２校の意気込みを取材しました。\n詳細はNEWS DIGでも\nhttps://newsdig.tbs.co.jp/articles/-/2235281?display=1\n#山形 #テレビユー山形 #tuy #news #ニュース #花園 #全国 #決勝 #運命の一戦 #ラグビー #意気込み #山形中央 #山形南",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Hsw1h0Bvfc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Hsw1h0Bvfc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Hsw1h0Bvfc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Hsw1h0Bvfc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2Hsw1h0Bvfc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tuy6ch",
+        "playlistId": "UUTWatTAOnFVB0vwIetZCTHw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2Hsw1h0Bvfc"
+        },
+        "videoOwnerChannelTitle": "tuy6ch",
+        "videoOwnerChannelId": "UCTWatTAOnFVB0vwIetZCTHw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YLZNCU16Gib51Qae8E7f7VWw13s",
+      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3LlJHNGlORjJsYnhj",
+      "snippet": {
+        "publishedAt": "2025-10-17T10:00:53Z",
+        "channelId": "UCTWatTAOnFVB0vwIetZCTHw",
+        "title": "山形！中高生ニュース「山形県立左沢高等学校　総合的な探究の時間」",
+        "description": "「THE TIME,」で放送中のコーナー「山形！中高生ニュース」（毎朝6：30～）\n山形県内の学生たちの頑張りやユニークな活動などを紹介します！\n\n今回は「山形県立左沢高等学校　総合的な探究の時間」\n\n『THE TIME,』\n■毎週月曜日～金曜日■\n放送時間：あさ5：20～8：00\n司会：安住紳一郎（TBSアナウンサー）\n\n過去の放送分は再生リストから！\n\n#山形中高生ニュース ＃中高生ニュース  #TUY #THETIME",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RG4iNF2lbxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RG4iNF2lbxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RG4iNF2lbxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RG4iNF2lbxc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "tuy6ch",
+        "playlistId": "UUTWatTAOnFVB0vwIetZCTHw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RG4iNF2lbxc"
+        },
+        "videoOwnerChannelTitle": "tuy6ch",
+        "videoOwnerChannelId": "UCTWatTAOnFVB0vwIetZCTHw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yE2lZu-bZyoXe8kT35njxkodzZ8",
+      "id": "VVVUV2F0VEFPbkZWQjB2d0lldFpDVEh3LkZiSHdsb2phcm40",
+      "snippet": {
+        "publishedAt": "2025-10-17T08:02:37Z",
+        "channelId": "UCTWatTAOnFVB0vwIetZCTHw",
+        "title": "若手社員のリアルが聞ける！？TUYオープンカンパニー参加者募集！動画も要チェック！",
+        "description": "テレビの仕事に興味ありませんか！？TUYオープンカンパニー開催決定！\n\n【実施概要】\n　◇会社案内＆若手社員の一日説明ほか\n　◇11月19日（web）、12月16日（web）、1月31日（リアル/山形市）\n　◇詳細と応募は「マイナビ2027」から！\n　◇お問合せは「TUY総務部 023-624-8111」まで！\n\n＃テレビユー山形＃TUY＃オープンカンパニー＃山形＃テレビ局＃テレビの仕事",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FbHwlojarn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FbHwlojarn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FbHwlojarn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FbHwlojarn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FbHwlojarn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tuy6ch",
+        "playlistId": "UUTWatTAOnFVB0vwIetZCTHw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FbHwlojarn4"
         },
         "videoOwnerChannelTitle": "tuy6ch",
         "videoOwnerChannelId": "UCTWatTAOnFVB0vwIetZCTHw"

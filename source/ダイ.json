@@ -1,0 +1,55 @@
+{
+  "channel_id": "UCOBIa0KTNgnHdzvg1VTar4w",
+  "channel_name": "ダイ",
+  "original_name": "ダイ",
+  "updated_at": "2025-10-19T00:01:27.894580",
+  "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AjyeyYJ91us2EpHtUyquxTIlhRM",
+      "id": "VVVPQklhMEtUTmduSGR6dmcxVlRhcjR3Lmxuclp5bTJac3Z3",
+      "snippet": {
+        "publishedAt": "2025-10-18T10:01:26Z",
+        "channelId": "UCOBIa0KTNgnHdzvg1VTar4w",
+        "title": "【寝過ごし厳禁⁉︎】金曜限定の伯備線最終列車に乗ってみた",
+        "description": "岡山発の伯備線普通列車は総社や備中高梁,新見,米子といった主要駅が基本的に行先となっています。\nそのため寝過ごして終点まで行っても大概なんとかなります。\nしかし毎週金曜日には夜間集中工事により伯備線最終列車の一部区間が運休となり、山間部の無人駅までしか運転されません…\nしかも運休区間の振替輸送は実施しないとのことで、寝過ごし厳禁な列車となっています。\n\n旅行の様子をリアルタイムで更新中！\nInstagram: jrjk1020\n\n#終電",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lnrZym2Zsvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lnrZym2Zsvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lnrZym2Zsvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lnrZym2Zsvw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lnrZym2Zsvw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ダイ",
+        "playlistId": "UUOBIa0KTNgnHdzvg1VTar4w",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lnrZym2Zsvw"
+        },
+        "videoOwnerChannelTitle": "ダイ",
+        "videoOwnerChannelId": "UCOBIa0KTNgnHdzvg1VTar4w"
+      }
+    }
+  ]
+}

@@ -2,40 +2,40 @@
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "eat愛媛朝日テレビ",
   "original_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2025-10-18T00:01:32.329802",
+  "updated_at": "2025-10-19T00:00:38.934940",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "B34qe-ZiApsq_39-Z7E_pP4e_Lo",
-      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLjQ5ZjZmSHJRLVFN",
+      "etag": "e2Vlm_YomSqsu1htsUaOyZIzRoY",
+      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLlFaNWgtQVZnUkk0",
       "snippet": {
-        "publishedAt": "2025-10-17T12:00:08Z",
+        "publishedAt": "2025-10-18T12:00:49Z",
         "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
-        "title": "#ブギウギ してる#カメラマン と#湯川愛理#アナウンサー",
+        "title": "#にんじゃりばんばん かかったら#踊ってしまう#撮影クルー",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/default.jpg",
+            "url": "https://i.ytimg.com/vi/QZ5h-AVgRI4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZ5h-AVgRI4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZ5h-AVgRI4/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZ5h-AVgRI4/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/49f6fHrQ-QM/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QZ5h-AVgRI4/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "49f6fHrQ-QM"
+          "videoId": "QZ5h-AVgRI4"
         },
         "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
         "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"
@@ -53,46 +53,46 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "TCbaW3hVN755Xxay_LSlKIZ-AVg",
-      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLnFrbzh3YjlqTUgw",
+      "etag": "xf3Yo_PohUAzfUxMItiugjfuPnk",
+      "id": "VVVPSXRqMkRDTzVQai1lSktuTHJiejZnLk00QzY0ODhtNlpv",
       "snippet": {
-        "publishedAt": "2025-10-17T00:01:07Z",
+        "publishedAt": "2025-10-18T00:00:26Z",
         "channelId": "UCOItj2DCO5Pj-eJKnLrbz6g",
-        "title": "#BMSG #ブギウギ しちゃう#カメラマン",
+        "title": "誰の頭に当たるのを待っていますか？",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/default.jpg",
+            "url": "https://i.ytimg.com/vi/M4C6488m6Zo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M4C6488m6Zo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M4C6488m6Zo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/M4C6488m6Zo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/qko8wb9jMH0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/M4C6488m6Zo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
         "channelTitle": "eat愛媛朝日テレビ",
         "playlistId": "UUOItj2DCO5Pj-eJKnLrbz6g",
-        "position": 2,
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "qko8wb9jMH0"
+          "videoId": "M4C6488m6Zo"
         },
         "videoOwnerChannelTitle": "eat愛媛朝日テレビ",
         "videoOwnerChannelId": "UCOItj2DCO5Pj-eJKnLrbz6g"

@@ -2,40 +2,40 @@
   "channel_id": "UCwVMadMSXOS0AMuW_3nlyRQ",
   "channel_name": "SBC信越放送",
   "original_name": "SBC信越放送",
-  "updated_at": "2025-10-17T00:02:55.328104",
+  "updated_at": "2025-10-19T00:02:57.046073",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "13SKw1-BduCTYXplqnBrr9AH-EE",
-      "id": "VVV3Vk1hZE1TWE9TMEFNdVdfM25seVJRLm5Na0NPT3h6emNV",
+      "etag": "ZfIbTIOFvgJD6UOY5BRSomRcrOc",
+      "id": "VVV3Vk1hZE1TWE9TMEFNdVdfM25seVJRLnVITm5OaG5kUGZv",
       "snippet": {
-        "publishedAt": "2025-10-16T06:50:01Z",
+        "publishedAt": "2025-10-16T23:16:29Z",
         "channelId": "UCwVMadMSXOS0AMuW_3nlyRQ",
-        "title": "ハロウィンパーティーで作りたい、鶏肉煮込みと生ハムチーズおばけ今年のボージョレ・ヌーヴォーのお得な情報も！",
-        "description": "２０２５年１０月１６日（木）放送\n\n\nハッピーイオン\nリポーター：恵理\nずくだせテレビにて毎週木曜日放送中\n\n暮らしに役立つイオンのお得な情報をお届け。\nファッションやグルメ、生活用品など、\n楽しくわかりやすく紹介しています。\n#ハッピーイオン　#イオン　#トップバリュ　#ホームコーディ　#恵理",
+        "title": "【大好評開催中】東山魁夷館３５周年記念展「永遠の海 ― 私は、いま、波の音を聴いている」",
+        "description": "長野県立美術館\n2025年10月4日（土）～ 2025年11月16日（日）\n\nhttps://sbc21.co.jp/higashiyama35/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nMkCOOxzzcU/default.jpg",
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nMkCOOxzzcU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nMkCOOxzzcU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/nMkCOOxzzcU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/nMkCOOxzzcU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "nMkCOOxzzcU"
+          "videoId": "uHNnNhndPfo"
         },
         "videoOwnerChannelTitle": "SBC信越放送",
         "videoOwnerChannelId": "UCwVMadMSXOS0AMuW_3nlyRQ"

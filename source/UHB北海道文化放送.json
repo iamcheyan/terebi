@@ -2,40 +2,40 @@
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送 公式",
   "original_name": "UHB北海道文化放送",
-  "updated_at": "2025-10-17T00:01:36.894931",
+  "updated_at": "2025-10-19T00:01:40.277681",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "ptKt-xdxkRCneJnL-HA1AOuF__U",
-      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3LlA3eklSLVVZZTBv",
+      "etag": "iuTVAS7laRpgGlc_DVGkdgS-zvc",
+      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3LnVGSW4xRDRXU1Rj",
       "snippet": {
-        "publishedAt": "2025-10-16T10:00:44Z",
+        "publishedAt": "2025-10-18T02:30:51Z",
         "channelId": "UCBJbV6hW2sfcA2ugwKFBmxw",
-        "title": "みんテレ　10月17日（金）放送",
-        "description": "・旅の達人がおすすめ！ \"絶景\" 紅葉シーズンへ「ニセコ」の穴場スポット\n・熱狂！クライマックスシリーズ「ファイナルステージ」現地から試合直前情報\n・\"6年ぶり\" 炭火焼のサンマ復活！「まるごと根室直送市」",
+        "title": "いっとこ！：10月25日（土）放送",
+        "description": "秋の札幌、誰かを誘って歩きたい狸小路エリアのカフェを巡ります。",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P7zIR-UYe0o/default.jpg",
+            "url": "https://i.ytimg.com/vi/uFIn1D4WSTc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P7zIR-UYe0o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uFIn1D4WSTc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P7zIR-UYe0o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uFIn1D4WSTc/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/P7zIR-UYe0o/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/uFIn1D4WSTc/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/P7zIR-UYe0o/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uFIn1D4WSTc/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,54 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "P7zIR-UYe0o"
+          "videoId": "uFIn1D4WSTc"
+        },
+        "videoOwnerChannelTitle": "UHB北海道文化放送 公式",
+        "videoOwnerChannelId": "UCBJbV6hW2sfcA2ugwKFBmxw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B1yiUs8AdczbdmRi0HxLZeXGCVw",
+      "id": "VVVCSmJWNmhXMnNmY0EydWd3S0ZCbXh3LlFUUzhtUFZaNUs4",
+      "snippet": {
+        "publishedAt": "2025-10-17T10:00:45Z",
+        "channelId": "UCBJbV6hW2sfcA2ugwKFBmxw",
+        "title": "みんテレ　10月20日（月）放送",
+        "description": "・ファイターズ全力応援！熱狂のCSファイナル　目を離せない一投一打！名シーンたっぷり！\n・冷え込み強まる…札幌の初雪どうなる？タイヤ交換いつがいい？\n・みやぶれ！特殊詐欺…最新手口知ってだまされない",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QTS8mPVZ5K8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QTS8mPVZ5K8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QTS8mPVZ5K8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QTS8mPVZ5K8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QTS8mPVZ5K8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UHB北海道文化放送 公式",
+        "playlistId": "UUBJbV6hW2sfcA2ugwKFBmxw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QTS8mPVZ5K8"
         },
         "videoOwnerChannelTitle": "UHB北海道文化放送 公式",
         "videoOwnerChannelId": "UCBJbV6hW2sfcA2ugwKFBmxw"

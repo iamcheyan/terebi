@@ -40,7 +40,7 @@
                 "name": "めざましテレビチャンネル（フジテレビ）",
                 "url": "https://www.youtube.com/@mezamashitvchannel",
                 "bakname": "mezamashitvchannel",
-                "cached": false
+                "cached": true
             }
         ],
         "テレビ朝日系": [
@@ -1030,6 +1030,141 @@
             },
             {
                 "name": "めざましテレビチャンネル",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "SuitTravel",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "yuyunihongopodcast",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "スーツ 旅行 _ Suit Travel",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "富山の遊び場_TV",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "いけちゃん _ ikechan",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "ikechan0920sub",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "TMSアニメ公式チャンネル【アニメ制作60周年】",
+                "url": "",
+                "cached": false
+            },
+            {
+                "name": "Unique Japan Travel _ 日常に旅を",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "culdrama",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "AI Polyglot _ 多言語 聞き流し",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "hiroki_railway",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "Hiko-zone_ヒコぞーん_",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "海海日語新幹線 _ 每天30分聽日語",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "CUL DRAMA _ カルドラマ",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "文部科学省",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "newtestchannel456",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "UniqueJapanTravel",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "山口放送_KRY_",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "testchannel123",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "Jiro_ just Japanese",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "ikechan0920",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "文部科学省_MEXT_",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "ドラえもん __ 藤子_F_不二雄チャンネル",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "いけちる _ ikechill",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "交通新聞 電子版_交通新聞社_",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "ひろき _ 鉄道Channel",
+                "url": "",
+                "cached": true
+            },
+            {
+                "name": "めざましテレビチャンネル_フジテレビ_",
                 "url": "",
                 "cached": true
             }

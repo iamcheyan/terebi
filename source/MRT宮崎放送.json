@@ -2,40 +2,40 @@
   "channel_id": "UCET0Zu3i8I0mwh2yDDy6vfQ",
   "channel_name": "ＭＲＴ宮崎放送",
   "original_name": "MRT宮崎放送",
-  "updated_at": "2025-10-18T00:03:52.912683",
+  "updated_at": "2025-10-19T00:04:35.803617",
   "videos": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "GZpUjLmhML9rSpRhK3htYOB3rj8",
-      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLmRPdW9tdG1MRkQw",
+      "etag": "2TH1xsUk22wBKPJbyQEMSwXo_BU",
+      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLkFzYXJfWGN6U0tV",
       "snippet": {
-        "publishedAt": "2025-10-17T10:01:10Z",
+        "publishedAt": "2025-10-18T07:25:01Z",
         "channelId": "UCET0Zu3i8I0mwh2yDDy6vfQ",
-        "title": "「旬で彩る しあわせごはん」2025年10月17日放送",
-        "description": "MRT宮崎放送「旬で彩る しあわせごはん」\n毎週金曜 夕方6：55～放送\n2025年10月17日「塩豚とキャベツの豆スープ」",
+        "title": "MRT宮崎放送│宮崎医療最前線24「橘病院」",
+        "description": "MRT宮崎放送│宮崎医療最前線24「橘病院」\n\n2025年10月18日（土）午後3時30分～放送\n日々進化する県内の地域医療の世界。 県内各地の役立つ医療を紹介！",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/dOuomtmLFD0/default.jpg",
+            "url": "https://i.ytimg.com/vi/Asar_XczSKU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dOuomtmLFD0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Asar_XczSKU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/dOuomtmLFD0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Asar_XczSKU/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/dOuomtmLFD0/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Asar_XczSKU/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/dOuomtmLFD0/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Asar_XczSKU/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -45,7 +45,7 @@
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "dOuomtmLFD0"
+          "videoId": "Asar_XczSKU"
         },
         "videoOwnerChannelTitle": "ＭＲＴ宮崎放送",
         "videoOwnerChannelId": "UCET0Zu3i8I0mwh2yDDy6vfQ"
@@ -53,36 +53,36 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "qEQRprQ5CBoMZCtgrWvw-sjP8eU",
-      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLmFXZlNWZEVHTXVv",
+      "etag": "PHTFWMQ3K9_dNqjYNDhFgPILv4w",
+      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLkR6OFRnejdhc19N",
       "snippet": {
-        "publishedAt": "2025-10-17T08:21:03Z",
+        "publishedAt": "2025-10-18T07:25:00Z",
         "channelId": "UCET0Zu3i8I0mwh2yDDy6vfQ",
-        "title": "Check！「積水ハウス Room tour」│第49回　2025年10月17日放送 生活感のない家",
-        "description": "MRTテレビ 「Check！」\n第49回　2025年10月17日放送 生活感のない家",
+        "title": "MRT宮崎放送│宮崎医療最前線24「丸田病院」",
+        "description": "MRT宮崎放送│宮崎医療最前線24「丸田病院」\n\n2025年10月18日（土）午後3時30分～放送\n日々進化する県内の地域医療の世界。 県内各地の役立つ医療を紹介！",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/aWfSVdEGMuo/default.jpg",
+            "url": "https://i.ytimg.com/vi/Dz8Tgz7as_M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/aWfSVdEGMuo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Dz8Tgz7as_M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/aWfSVdEGMuo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Dz8Tgz7as_M/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/aWfSVdEGMuo/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/Dz8Tgz7as_M/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/aWfSVdEGMuo/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Dz8Tgz7as_M/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -92,7 +92,195 @@
         "position": 1,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "aWfSVdEGMuo"
+          "videoId": "Dz8Tgz7as_M"
+        },
+        "videoOwnerChannelTitle": "ＭＲＴ宮崎放送",
+        "videoOwnerChannelId": "UCET0Zu3i8I0mwh2yDDy6vfQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ENBh5Q6MYfccNF7mbmRVGHjWduE",
+      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLlppeVVPZ1FsdlRJ",
+      "snippet": {
+        "publishedAt": "2025-10-18T07:25:00Z",
+        "channelId": "UCET0Zu3i8I0mwh2yDDy6vfQ",
+        "title": "MRT宮崎放送│宮崎医療最前線24「新城眼科」",
+        "description": "MRT宮崎放送│宮崎医療最前線24「新城眼科」\n\n2025年10月18日（土）午後3時30分～放送\n日々進化する県内の地域医療の世界。 県内各地の役立つ医療を紹介！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZiyUOgQlvTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZiyUOgQlvTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZiyUOgQlvTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZiyUOgQlvTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZiyUOgQlvTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ＭＲＴ宮崎放送",
+        "playlistId": "UUET0Zu3i8I0mwh2yDDy6vfQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZiyUOgQlvTI"
+        },
+        "videoOwnerChannelTitle": "ＭＲＴ宮崎放送",
+        "videoOwnerChannelId": "UCET0Zu3i8I0mwh2yDDy6vfQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gn2MzukEsJDxzZWuCXRruukv3XU",
+      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLl9iZnhZdkRaZ1RF",
+      "snippet": {
+        "publishedAt": "2025-10-18T07:25:00Z",
+        "channelId": "UCET0Zu3i8I0mwh2yDDy6vfQ",
+        "title": "MRT宮崎放送│宮崎医療最前線24「髙宮病院」",
+        "description": "MRT宮崎放送│宮崎医療最前線24「髙宮病院」\n\n2025年10月18日（土）午後3時30分～放送\n日々進化する県内の地域医療の世界。 県内各地の役立つ医療を紹介！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_bfxYvDZgTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_bfxYvDZgTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_bfxYvDZgTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_bfxYvDZgTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_bfxYvDZgTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ＭＲＴ宮崎放送",
+        "playlistId": "UUET0Zu3i8I0mwh2yDDy6vfQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_bfxYvDZgTE"
+        },
+        "videoOwnerChannelTitle": "ＭＲＴ宮崎放送",
+        "videoOwnerChannelId": "UCET0Zu3i8I0mwh2yDDy6vfQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CkpqES8W9Vm-AMTH85C7GvPpqaQ",
+      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLmsySHdhVUNBOXhB",
+      "snippet": {
+        "publishedAt": "2025-10-18T07:25:00Z",
+        "channelId": "UCET0Zu3i8I0mwh2yDDy6vfQ",
+        "title": "MRT宮崎放送│宮崎医療最前線24「メディポリス国際陽子線治療センター」",
+        "description": "MRT宮崎放送│宮崎医療最前線24「メディポリス国際陽子線治療センター」\n\n2025年10月18日（土）午後3時30分～放送\n日々進化する県内の地域医療の世界。 県内各地の役立つ医療を紹介！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k2HwaUCA9xA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k2HwaUCA9xA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k2HwaUCA9xA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k2HwaUCA9xA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k2HwaUCA9xA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ＭＲＴ宮崎放送",
+        "playlistId": "UUET0Zu3i8I0mwh2yDDy6vfQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k2HwaUCA9xA"
+        },
+        "videoOwnerChannelTitle": "ＭＲＴ宮崎放送",
+        "videoOwnerChannelId": "UCET0Zu3i8I0mwh2yDDy6vfQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xPmsqzqHFf2VszlSnOB4hTbHnog",
+      "id": "VVVFVDBadTNpOEkwbXdoMnlERHk2dmZRLmxDRzlNeFUySWRj",
+      "snippet": {
+        "publishedAt": "2025-10-18T07:25:00Z",
+        "channelId": "UCET0Zu3i8I0mwh2yDDy6vfQ",
+        "title": "MRT宮崎放送│宮崎医療最前線24「延岡共立病院」",
+        "description": "MRT宮崎放送│宮崎医療最前線24「延岡共立病院」\n\n2025年10月18日（土）午後3時30分～放送\n日々進化する県内の地域医療の世界。 県内各地の役立つ医療を紹介！",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lCG9MxU2Idc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lCG9MxU2Idc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lCG9MxU2Idc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lCG9MxU2Idc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lCG9MxU2Idc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ＭＲＴ宮崎放送",
+        "playlistId": "UUET0Zu3i8I0mwh2yDDy6vfQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lCG9MxU2Idc"
         },
         "videoOwnerChannelTitle": "ＭＲＴ宮崎放送",
         "videoOwnerChannelId": "UCET0Zu3i8I0mwh2yDDy6vfQ"
