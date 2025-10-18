@@ -532,20 +532,39 @@ async function fetchChannelList(autoSelectRandom = false) {
         const urlParams = new URLSearchParams(window.location.search);
         const showTvStations = urlParams.get('tv') === '1';
         
-        let response;
+        let channelData = {};
+        
         if (showTvStations) {
-            response = await fetch('data/tv_stations.json');
-            document.title = 'Terebi - テレビ局';
+            // 加载电视台数据
+            const tvResponse = await fetch('data/tv_stations.json');
+            if (!tvResponse.ok) {
+                throw new Error('无法获取电视台数据: ' + tvResponse.status);
+            }
+            const tvData = await tvResponse.json();
+            
+            // 加载普通YouTube频道数据
+            const youtubeResponse = await fetch('data/youtube_channels.json');
+            if (!youtubeResponse.ok) {
+                throw new Error('无法获取YouTube频道数据: ' + youtubeResponse.status);
+            }
+            const youtubeData = await youtubeResponse.json();
+            
+            // 合并数据
+            channelData = {
+                ...tvData,
+                ...youtubeData
+            };
+            
+            document.title = 'Terebi - 全チャンネル';
         } else {
-            response = await fetch('data/youtube_channels.json');
+            // 只加载普通YouTube频道数据
+            const response = await fetch('data/youtube_channels.json');
+            if (!response.ok) {
+                throw new Error('无法获取频道列表: ' + response.status);
+            }
+            channelData = await response.json();
             document.title = 'Terebi - YouTubeチャンネル';
         }
-        
-        if (!response.ok) {
-            throw new Error('无法获取频道列表: ' + response.status);
-        }
-        
-        const channelData = await response.json();
         console.log('原始JSON数据:', channelData);
         
         // 显示频道选择器
@@ -816,8 +835,25 @@ function createChannelButton(channel) {
                 const urlParams = new URLSearchParams(window.location.search);
                 const showTvStations = urlParams.get('tv') === '1';
                 
-                const response = await fetch(showTvStations ? 'data/tv_stations.json' : 'data/youtube_channels.json');
-                const channelsData = await response.json();
+                let channelsData;
+                if (showTvStations) {
+                    // 加载电视台数据
+                    const tvResponse = await fetch('data/tv_stations.json');
+                    const tvData = await tvResponse.json();
+                    
+                    // 加载普通YouTube频道数据
+                    const youtubeResponse = await fetch('data/youtube_channels.json');
+                    const youtubeData = await youtubeResponse.json();
+                    
+                    // 合并数据
+                    channelsData = {
+                        ...tvData,
+                        ...youtubeData
+                    };
+                } else {
+                    const response = await fetch('data/youtube_channels.json');
+                    channelsData = await response.json();
+                }
                 
                 // 查找对应的频道信息
                 let foundChannel = null;
@@ -1011,8 +1047,25 @@ async function getChannelUploads(channelId, channelName) {
                 const urlParams = new URLSearchParams(window.location.search);
                 const showTvStations = urlParams.get('tv') === '1';
                 
-                const response = await fetch(showTvStations ? 'data/tv_stations.json' : 'data/youtube_channels.json');
-                const channelsData = await response.json();
+                let channelsData;
+                if (showTvStations) {
+                    // 加载电视台数据
+                    const tvResponse = await fetch('data/tv_stations.json');
+                    const tvData = await tvResponse.json();
+                    
+                    // 加载普通YouTube频道数据
+                    const youtubeResponse = await fetch('data/youtube_channels.json');
+                    const youtubeData = await youtubeResponse.json();
+                    
+                    // 合并数据
+                    channelsData = {
+                        ...tvData,
+                        ...youtubeData
+                    };
+                } else {
+                    const response = await fetch('data/youtube_channels.json');
+                    channelsData = await response.json();
+                }
                 let foundChannel = null;
                 
                 // 处理两种数据结构
@@ -2263,12 +2316,34 @@ async function loadChannelStats() {
         const urlParams = new URLSearchParams(window.location.search);
         const showTvStations = urlParams.get('tv') === '1';
         
-        const response = await fetch(showTvStations ? 'data/tv_stations.json' : 'data/youtube_channels.json');
-        if (!response.ok) {
-            throw new Error('チャンネル一覧を取得できません: ' + response.status);
+        let channelData;
+        if (showTvStations) {
+            // 加载电视台数据
+            const tvResponse = await fetch('data/tv_stations.json');
+            if (!tvResponse.ok) {
+                throw new Error('テレビ局データを取得できません: ' + tvResponse.status);
+            }
+            const tvData = await tvResponse.json();
+            
+            // 加载普通YouTube频道数据
+            const youtubeResponse = await fetch('data/youtube_channels.json');
+            if (!youtubeResponse.ok) {
+                throw new Error('YouTubeチャンネルデータを取得できません: ' + youtubeResponse.status);
+            }
+            const youtubeData = await youtubeResponse.json();
+            
+            // 合并数据
+            channelData = {
+                ...tvData,
+                ...youtubeData
+            };
+        } else {
+            const response = await fetch('data/youtube_channels.json');
+            if (!response.ok) {
+                throw new Error('チャンネル一覧を取得できません: ' + response.status);
+            }
+            channelData = await response.json();
         }
-        
-        const channelData = await response.json();
         console.log('チャンネルリストデータ:', channelData);
         
         // 收集所有频道信息
@@ -3484,11 +3559,23 @@ async function searchTvPrograms(query) {
         let channelsData;
         if (showTvStations) {
             // 加载电视台数据
-            const resp = await fetch('data/tv_stations.json');
-            if (!resp.ok) throw new Error('テレビ局データを取得できません');
-            channelsData = await resp.json();
-            console.log('加载电视台数据');
-            document.title = 'Terebi - テレビ局';
+            const tvResp = await fetch('data/tv_stations.json');
+            if (!tvResp.ok) throw new Error('テレビ局データを取得できません');
+            const tvData = await tvResp.json();
+            
+            // 加载普通YouTube频道数据
+            const youtubeResp = await fetch('data/youtube_channels.json');
+            if (!youtubeResp.ok) throw new Error('YouTubeチャンネルデータを取得できません');
+            const youtubeData = await youtubeResp.json();
+            
+            // 合并数据
+            channelsData = {
+                ...tvData,
+                ...youtubeData
+            };
+            
+            console.log('加载合并数据（电视台+YouTube频道）');
+            document.title = 'Terebi - 全チャンネル';
         } else {
             // 默认加载普通油管频道数据
             const resp = await fetch('data/youtube_channels.json');
