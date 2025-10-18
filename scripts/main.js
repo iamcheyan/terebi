@@ -823,17 +823,30 @@ function createChannelButton(channel) {
                 let foundChannel = null;
                 // 遍历所有地区
                 for (const region in channelsData) {
-                    // 遍历每个地区下的分类
-                    for (const category in channelsData[region]) {
-                        // 遍历分类下的频道列表
-                        const channels = channelsData[region][category];
-                        const found = channels.find(ch => 
+                    const content = channelsData[region];
+                    if (Array.isArray(content)) {
+                        // 扁平结构：直接处理频道数组
+                        const found = content.find(ch => 
                             ch.url === channel.url || 
                             ch.name === channel.name
                         );
                         if (found && found.bakname && found.bakname.trim() !== "") {
                             this.src = `img/resized/${encodeURIComponent(found.bakname)}.jpg`;
                             return;
+                        }
+                    } else {
+                        // 嵌套结构：处理子分类
+                        for (const category in content) {
+                            const channels = content[category];
+                            if (!Array.isArray(channels)) continue;
+                            const found = channels.find(ch => 
+                                ch.url === channel.url || 
+                                ch.name === channel.name
+                            );
+                            if (found && found.bakname && found.bakname.trim() !== "") {
+                                this.src = `img/resized/${encodeURIComponent(found.bakname)}.jpg`;
+                                return;
+                            }
                         }
                     }
                 }
@@ -1001,17 +1014,30 @@ async function getChannelUploads(channelId, channelName) {
                 const response = await fetch(showTvStations ? 'data/tv_stations.json' : 'data/youtube_channels.json');
                 const channelsData = await response.json();
                 let foundChannel = null;
+                
+                // 处理两种数据结构
                 for (const region in channelsData) {
-                    for (const category in channelsData[region]) {
-                        const channels = channelsData[region][category];
-                        if (!Array.isArray(channels)) continue;
-                        const found = channels.find(channel => 
+                    const content = channelsData[region];
+                    if (Array.isArray(content)) {
+                        // 扁平结构：直接处理频道数组
+                        const found = content.find(channel => 
                             (channel.url && channelId && channel.url.includes(channelId)) || 
                             channel.name === channelName || channel.name === baseName
                         );
                         if (found) { foundChannel = found; break; }
+                    } else {
+                        // 嵌套结构：处理子分类
+                        for (const category in content) {
+                            const channels = content[category];
+                            if (!Array.isArray(channels)) continue;
+                            const found = channels.find(channel => 
+                                (channel.url && channelId && channel.url.includes(channelId)) || 
+                                channel.name === channelName || channel.name === baseName
+                            );
+                            if (found) { foundChannel = found; break; }
+                        }
+                        if (foundChannel) break;
                     }
-                    if (foundChannel) break;
                 }
                 if (foundChannel) {
                     if (foundChannel.bakname && foundChannel.bakname.trim() !== '') {
