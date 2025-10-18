@@ -528,7 +528,19 @@ async function fetchChannelList(autoSelectRandom = false) {
     try {
         statusElement.textContent = 'チャンネル一覧を取得しています...';
         
-        const response = await fetch('japan_tv_youtube_channels.json');
+        // 检查URL参数，决定加载哪个数据源
+        const urlParams = new URLSearchParams(window.location.search);
+        const showTvStations = urlParams.get('tv') === '1';
+        
+        let response;
+        if (showTvStations) {
+            response = await fetch('data/tv_stations.json');
+            document.title = 'Terebi - テレビ局';
+        } else {
+            response = await fetch('data/youtube_channels.json');
+            document.title = 'Terebi - YouTubeチャンネル';
+        }
+        
         if (!response.ok) {
             throw new Error('无法获取频道列表: ' + response.status);
         }
@@ -544,20 +556,31 @@ async function fetchChannelList(autoSelectRandom = false) {
         
         // 遍历所有分类
         Object.entries(channelData).forEach(([category, content]) => {
-            Object.values(content).forEach(channels => {
-                channels.forEach(channel => {
+            if (Array.isArray(content)) {
+                // 扁平结构：直接处理频道数组
+                content.forEach(channel => {
                     if (channel.name && channel.url && channel.url.trim() !== '') {
                         allChannels.push(channel);
                     }
                 });
-            });
+            } else {
+                // 嵌套结构：处理子分类
+                Object.values(content).forEach(channels => {
+                    if (Array.isArray(channels)) {
+                        channels.forEach(channel => {
+                            if (channel.name && channel.url && channel.url.trim() !== '') {
+                                allChannels.push(channel);
+                            }
+                        });
+                    }
+                });
+            }
         });
         
         statusElement.textContent = 'チャンネルリストの読み込みが完了しました。チャンネルを選択してください';
         channelSelector.style.display = 'block';
         
         // 检查URL参数中是否有channelId
-        const urlParams = new URLSearchParams(window.location.search);
         const channelIdParam = urlParams.get('channelId');
         
         if (channelIdParam) {
@@ -686,36 +709,52 @@ function displayChannelSelector(channelData) {
         const channelList = document.createElement('div');
         channelList.className = 'channel-list';
         
-        // 处理所有分类
-        Object.entries(content).forEach(([subCategory, channels]) => {
-            // 创建子分类容器
-            const subCategoryContainer = document.createElement('div');
-            subCategoryContainer.className = 'subcategory-container';
-            
-            const subCategoryTitle = document.createElement('h4');
-            subCategoryTitle.textContent = subCategory;
-            subCategoryTitle.className = 'network-title';
-            subCategoryContainer.appendChild(subCategoryTitle);
-            
-            // 创建频道组容器
+        // 检查数据结构：如果是扁平结构（直接是频道数组）
+        if (Array.isArray(content)) {
+            // 扁平结构：直接处理频道数组
             const channelsGroup = document.createElement('div');
             channelsGroup.className = 'channels-group';
             
-            channels.forEach(channel => {
+            content.forEach(channel => {
                 if (channel.name && channel.url) {
                     const channelButton = createChannelButton(channel);
                     channelsGroup.appendChild(channelButton);
                 }
             });
             
-            // 将频道组添加到子分类容器
-            subCategoryContainer.appendChild(channelsGroup);
-            
-            // 只有当有频道时才添加该子分类
-            if (channelsGroup.children.length > 0) {
-                channelList.appendChild(subCategoryContainer);
-            }
-        });
+            channelList.appendChild(channelsGroup);
+        } else {
+            // 嵌套结构：处理子分类
+            Object.entries(content).forEach(([subCategory, channels]) => {
+                // 创建子分类容器
+                const subCategoryContainer = document.createElement('div');
+                subCategoryContainer.className = 'subcategory-container';
+                
+                const subCategoryTitle = document.createElement('h4');
+                subCategoryTitle.textContent = subCategory;
+                subCategoryTitle.className = 'network-title';
+                subCategoryContainer.appendChild(subCategoryTitle);
+                
+                // 创建频道组容器
+                const channelsGroup = document.createElement('div');
+                channelsGroup.className = 'channels-group';
+                
+                channels.forEach(channel => {
+                    if (channel.name && channel.url) {
+                        const channelButton = createChannelButton(channel);
+                        channelsGroup.appendChild(channelButton);
+                    }
+                });
+                
+                // 将频道组添加到子分类容器
+                subCategoryContainer.appendChild(channelsGroup);
+                
+                // 只有当有频道时才添加该子分类
+                if (channelsGroup.children.length > 0) {
+                    channelList.appendChild(subCategoryContainer);
+                }
+            });
+        }
         
         // 只有当有频道时才添加该区域
         if (channelList.children.length > 0) {
@@ -773,7 +812,11 @@ function createChannelButton(channel) {
 
             // 如果没有bakname或bakname也加载失败，尝试从频道列表中查找bakname
             try {
-                const response = await fetch('japan_tv_youtube_channels.json');
+                // 检查URL参数，决定加载哪个数据源
+                const urlParams = new URLSearchParams(window.location.search);
+                const showTvStations = urlParams.get('tv') === '1';
+                
+                const response = await fetch(showTvStations ? 'data/tv_stations.json' : 'data/youtube_channels.json');
                 const channelsData = await response.json();
                 
                 // 查找对应的频道信息
@@ -951,7 +994,11 @@ async function getChannelUploads(channelId, channelName) {
 
             // 3) 从配置中取 bakname 与 handle
             try {
-                const response = await fetch('japan_tv_youtube_channels.json');
+                // 检查URL参数，决定加载哪个数据源
+                const urlParams = new URLSearchParams(window.location.search);
+                const showTvStations = urlParams.get('tv') === '1';
+                
+                const response = await fetch(showTvStations ? 'data/tv_stations.json' : 'data/youtube_channels.json');
                 const channelsData = await response.json();
                 let foundChannel = null;
                 for (const region in channelsData) {
@@ -2186,7 +2233,11 @@ async function loadChannelStats() {
         updateStatsContent('チャンネルデータを読み込み中...');
         
         // 获取频道列表数据
-        const response = await fetch('japan_tv_youtube_channels.json');
+        // 检查URL参数，决定加载哪个数据源
+        const urlParams = new URLSearchParams(window.location.search);
+        const showTvStations = urlParams.get('tv') === '1';
+        
+        const response = await fetch(showTvStations ? 'data/tv_stations.json' : 'data/youtube_channels.json');
         if (!response.ok) {
             throw new Error('チャンネル一覧を取得できません: ' + response.status);
         }
@@ -2197,19 +2248,37 @@ async function loadChannelStats() {
         // 收集所有频道信息
         const allChannels = [];
         Object.entries(channelData).forEach(([groupName, groupContent]) => {
-            Object.entries(groupContent).forEach(([categoryName, channels]) => {
-                channels.forEach(channel => {
+            if (Array.isArray(groupContent)) {
+                // 扁平结构：直接处理频道数组
+                groupContent.forEach(channel => {
                     if (channel.name && channel.url && channel.url.trim() !== '') {
                         allChannels.push({
                             name: channel.name,
                             url: channel.url,
                             group: groupName,
-                            category: categoryName,
+                            category: groupName, // 扁平结构中分类就是组名
                             bakname: channel.bakname
                         });
                     }
                 });
-            });
+            } else {
+                // 嵌套结构：处理子分类
+                Object.entries(groupContent).forEach(([categoryName, channels]) => {
+                    if (Array.isArray(channels)) {
+                        channels.forEach(channel => {
+                            if (channel.name && channel.url && channel.url.trim() !== '') {
+                                allChannels.push({
+                                    name: channel.name,
+                                    url: channel.url,
+                                    group: groupName,
+                                    category: categoryName,
+                                    bakname: channel.bakname
+                                });
+                            }
+                        });
+                    }
+                });
+            }
         });
         
         console.log(`チャンネルを ${allChannels.length} 件見つけました`);
@@ -3382,10 +3451,26 @@ async function searchTvPrograms(query) {
     console.log('开始搜索:', keyword);
     
     try {
-        // 读取频道配置
-        const resp = await fetch('japan_tv_youtube_channels.json');
-        if (!resp.ok) throw new Error('チャンネル一覧を取得できません');
-        const channelsData = await resp.json();
+        // 检查URL参数，决定加载哪个数据源
+        const urlParams = new URLSearchParams(window.location.search);
+        const showTvStations = urlParams.get('tv') === '1';
+        
+        let channelsData;
+        if (showTvStations) {
+            // 加载电视台数据
+            const resp = await fetch('data/tv_stations.json');
+            if (!resp.ok) throw new Error('テレビ局データを取得できません');
+            channelsData = await resp.json();
+            console.log('加载电视台数据');
+            document.title = 'Terebi - テレビ局';
+        } else {
+            // 默认加载普通油管频道数据
+            const resp = await fetch('data/youtube_channels.json');
+            if (!resp.ok) throw new Error('YouTubeチャンネルデータを取得できません');
+            channelsData = await resp.json();
+            console.log('加载普通油管频道数据');
+            document.title = 'Terebi - YouTubeチャンネル';
+        }
 
         // 展开为扁平化频道数组
         const allChannels = [];
