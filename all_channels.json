@@ -1407,7 +1407,22 @@
         "type": "youtube"
       }
     ],
-    "旅行・観光": [],
+    "旅行・観光": [
+      {
+        "name": "yukirin_u",
+        "url": "https://www.youtube.com/@yukirin_u",
+        "bakname": "yukirin_u",
+        "cached": true,
+        "skip": false
+      },
+      {
+        "name": "SanyuanJAPAN2015",
+        "url": "https://www.youtube.com/@SanyuanJAPAN2015",
+        "bakname": "SanyuanJAPAN2015",
+        "cached": false,
+        "skip": false
+      }
+    ],
     "交通・鉄道": [],
     "テック・ガジェット": [],
     "エンタメ・Vlog": [],
@@ -1484,16 +1499,30 @@
         "type": "youtube"
       },
       {
-        "name": "yukirin_u",
-        "url": "https://www.youtube.com/@yukirin_u",
-        "bakname": "yukirin_u",
-        "cached": true,
+        "name": "123JAPAN",
+        "url": "https://www.youtube.com/@123JAPAN",
+        "bakname": "123JAPAN",
+        "cached": false,
         "skip": false
       },
       {
-        "name": "SanyuanJAPAN2015",
-        "url": "https://www.youtube.com/@SanyuanJAPAN2015",
-        "bakname": "SanyuanJAPAN2015",
+        "name": "ゆきりぬきゅんチャンネル",
+        "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%8D%E3%82%85%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+        "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%8D%E3%82%85%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+        "cached": false,
+        "skip": false
+      },
+      {
+        "name": "ゆきりぬのゲーム部屋",
+        "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E9%83%A8%E5%B1%8B",
+        "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E9%83%A8%E5%B1%8B",
+        "cached": false,
+        "skip": false
+      },
+      {
+        "name": "ゆきりぬえとせとら",
+        "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89",
+        "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89",
         "cached": false,
         "skip": false
       }

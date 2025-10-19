@@ -489,6 +489,84 @@ def pick_best_thumbnail(snippet: dict) -> Optional[str]:
     return None
 
 
+def download_channel_avatar_from_url(url: str, save_name: str) -> Tuple[Optional[Path], Optional[Path]]:
+    """从频道URL下载头像并生成缩略图，返回 (原图路径, 缩略图路径)"""
+    try:
+        # 抓取频道页面HTML
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            html = resp.read().decode("utf-8", errors="ignore")
+        
+        # 查找头像图片URL
+        patterns = [
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+            r'"avatar":\s*{\s*"thumbnails":\s*\[.*?"url":\s*"([^"]+)"',
+            r'"avatar":\s*{\s*"thumbnails":\s*\[.*?"url":\s*"([^"]+)"',
+        ]
+        
+        avatar_url = None
+        for pattern in patterns:
+            match = re.search(pattern, html)
+            if match:
+                avatar_url = match.group(1)
+                break
+        
+        if not avatar_url:
+            print(f"⚠️ 无法从HTML中提取头像URL: {url}")
+            return None, None
+        
+        print(f"✅ 找到头像URL: {avatar_url}")
+        
+        # 下载头像
+        req2 = urllib.request.Request(avatar_url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req2, timeout=20) as resp2:
+            content = resp2.read()
+        
+        IMG_DIR.mkdir(parents=True, exist_ok=True)
+        IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
+        raw_path = IMG_DIR / f"{save_name}.jpg"
+        resized_path = IMG_RESIZED_DIR / f"{save_name}.jpg"
+        
+        # 保存原图
+        try:
+            with open(raw_path, "wb") as f:
+                f.write(content)
+        except Exception:
+            raw_path = None
+        
+        # 生成缩略图
+        try:
+            if Image is None:
+                print("⚠️ 未安装Pillow，无法生成缩略图")
+                # 如果没有Pillow，直接复制原图作为缩略图
+                if raw_path:
+                    with open(resized_path, "wb") as f:
+                        f.write(content)
+                return raw_path, resized_path if raw_path else None
+            
+            with Image.open(BytesIO(content)) as im:
+                # 转成RGB，等比缩放到 128x128 画布内，再居中铺满裁剪（方形）
+                im = im.convert("RGB")
+                size = 128
+                # 先按短边等比放大，后居中裁剪
+                ratio = max(size / im.width, size / im.height)
+                new_w, new_h = int(im.width * ratio), int(im.height * ratio)
+                im = im.resize((new_w, new_h), Image.LANCZOS)
+                left = (new_w - size) // 2
+                top = (new_h - size) // 2
+                im = im.crop((left, top, left + size, top + size))
+                im.save(resized_path, format="JPEG", quality=88, optimize=True)
+        except Exception as e:
+            print(f"⚠️ 生成缩略图失败: {e}")
+            resized_path = None
+        
+        return raw_path, resized_path
+        
+    except Exception as e:
+        print(f"❌ 下载头像失败: {e}")
+        return None, None
+
+
 def download_channel_avatar(channel_id: str, api_key: str, save_name: str) -> Tuple[Optional[Path], Optional[Path]]:
     """下载频道头像并生成缩略图，返回 (原图路径, 缩略图路径)"""
     # 拉取频道信息以获取缩略图
@@ -599,43 +677,23 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str,
     # 抓取该URL对应频道并生成 data/{名称}.json
     print("=== 正在读取 API Key 并抓取该频道（带HTML/RSS回退） ===")
     keys = load_api_keys()
+    
+    # 先尝试下载头像（无论是否有API Key）
+    print("=== 正在下载频道头像 ===")
+    raw_img, resized_img = download_channel_avatar_from_url(url, bakname)
+    if raw_img:
+        print(f"✅ 已下载头像：{raw_img}")
+    if resized_img:
+        print(f"✅ 已生成缩略图：{resized_img}")
+    else:
+        print("⚠️ 未生成缩略图（可能未安装 Pillow 或下载失败）")
+    
     # 先尝试无需API的HTML解析获取 channelId
     ch_id_html, ch_title_html = resolve_channel_id_via_html(url)
     if ch_id_html:
         # 无API：用RSS抓取视频
         videos = fetch_channel_uploads_via_rss(ch_id_html, max_count=200)
         out_path = save_data_file(name=name, channel_id=ch_id_html, channel_title=ch_title_html or name, videos=videos, bakname=bakname)
-        # 头像：尝试从HTML提取 og:image
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=20) as resp:
-                html = resp.read().decode("utf-8", errors="ignore")
-            m_img = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html)
-            if m_img and Image is not None:
-                # 下载并生成缩略图
-                try:
-                    req2 = urllib.request.Request(m_img.group(1), headers={"User-Agent": "Mozilla/5.0"})
-                    with urllib.request.urlopen(req2, timeout=20) as resp2:
-                        content = resp2.read()
-                    IMG_DIR.mkdir(parents=True, exist_ok=True)
-                    IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
-                    raw_path = IMG_DIR / f"{bakname}.jpg"
-                    with open(raw_path, "wb") as f:
-                        f.write(content)
-                    with Image.open(BytesIO(content)) as im:
-                        im = im.convert("RGB")
-                        size = 128
-                        ratio = max(size / im.width, size / im.height)
-                        new_w, new_h = int(im.width * ratio), int(im.height * ratio)
-                        im = im.resize((new_w, new_h), Image.LANCZOS)
-                        left = (new_w - size) // 2
-                        top = (new_h - size) // 2
-                        im = im.crop((left, top, left + size, top + size))
-                        im.save(IMG_RESIZED_DIR / f"{bakname}.jpg", format="JPEG", quality=88, optimize=True)
-                except Exception:
-                    pass
-        except Exception:
-            pass
         print(f"✅ 抓取完成（RSS）：{len(videos)} 条视频 → {out_path}")
         return True
 
@@ -690,16 +748,16 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str,
     videos = fetch_channel_uploads(ch_id, api_key, max_count=200)
     out_path = save_data_file(name=name, channel_id=ch_id, channel_title=ch_title or name, videos=videos, bakname=bakname)
 
-    # 下载并生成头像缩略图（不中断主流程）
-    raw_img, resized_img = download_channel_avatar(channel_id=ch_id, api_key=api_key, save_name=bakname)
+    # 如果之前没有成功下载头像，尝试使用API方式下载
+    if not (IMG_RESIZED_DIR / f"{bakname}.jpg").exists():
+        print("=== 尝试使用API下载头像 ===")
+        raw_img, resized_img = download_channel_avatar(channel_id=ch_id, api_key=api_key, save_name=bakname)
+        if raw_img:
+            print(f"✅ 已下载头像：{raw_img}")
+        if resized_img:
+            print(f"✅ 已生成缩略图：{resized_img}")
 
     print(f"✅ 抓取完成：{len(videos)} 条视频 → {out_path}")
-    if raw_img:
-        print(f"✅ 已下载头像：{raw_img}")
-    if resized_img:
-        print(f"✅ 已生成缩略图：{resized_img}")
-    else:
-        print("⚠️ 未生成缩略图（可能未安装 Pillow 或下载失败）")
     
     return True
 
@@ -904,10 +962,7 @@ def main():
         print(f"名称: {name}")
         print(f"分类/子分类: {args.category} / {args.subcategory}")
 
-        if input("\n确认添加？(y/N): ").lower() != 'y':
-            print("已取消")
-            return
-
+        print("🔄 自动执行添加/更新...")
         process_single_channel(url, name, args.category, args.subcategory)
 
 
