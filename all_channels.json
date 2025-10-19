@@ -1312,6 +1312,97 @@
                 "cached": true,
                 "skip": false,
                 "type": "youtube"
+            },
+            {
+                "name": "YUYUの日本語Podcast",
+                "url": "",
+                "cached": true,
+                "bakname": "yuyu_japanese_podcast",
+                "type": "youtube"
+            },
+            {
+                "name": "KRYNewsChannel",
+                "url": "",
+                "cached": true,
+                "bakname": "KRYNewsChannel",
+                "type": "youtube"
+            },
+            {
+                "name": "福岡TNC ニュース",
+                "url": "",
+                "cached": true,
+                "bakname": "fukuoka_tnc_news",
+                "type": "youtube"
+            },
+            {
+                "name": "shio_vanilla",
+                "url": "",
+                "cached": true,
+                "bakname": "shio_vanilla",
+                "type": "youtube"
+            },
+            {
+                "name": "TMSanimeJP",
+                "url": "",
+                "cached": true,
+                "bakname": "TMSanimeJP",
+                "type": "youtube"
+            },
+            {
+                "name": "shioneru",
+                "url": "",
+                "cached": true,
+                "bakname": "shioneru",
+                "type": "youtube"
+            },
+            {
+                "name": "mextchannel",
+                "url": "",
+                "cached": true,
+                "bakname": "mextchannel",
+                "type": "youtube"
+            },
+            {
+                "name": "今日の予土線TheYodoLineTo",
+                "url": "",
+                "cached": true,
+                "bakname": "yodo_line_today",
+                "type": "youtube"
+            },
+            {
+                "name": "めざましテレビチャンネル",
+                "url": "",
+                "cached": true,
+                "bakname": "mezamashi_tv",
+                "type": "youtube"
+            },
+            {
+                "name": "123JAPAN",
+                "url": "https://www.youtube.com/@123JAPAN",
+                "bakname": "123JAPAN",
+                "cached": false,
+                "skip": false
+            },
+            {
+                "name": "ゆきりぬきゅんチャンネル",
+                "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%8D%E3%82%85%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+                "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%8D%E3%82%85%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+                "cached": false,
+                "skip": false
+            },
+            {
+                "name": "ゆきりぬのゲーム部屋",
+                "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E9%83%A8%E5%B1%8B",
+                "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E9%83%A8%E5%B1%8B",
+                "cached": false,
+                "skip": false
+            },
+            {
+                "name": "ゆきりぬえとせとら",
+                "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89",
+                "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89",
+                "cached": false,
+                "skip": false
             }
         ]
     },
@@ -1434,97 +1525,6 @@
                 "cached": true,
                 "skip": false,
                 "type": "youtube"
-            },
-            {
-                "name": "YUYUの日本語Podcast",
-                "url": "",
-                "cached": true,
-                "bakname": "yuyu_japanese_podcast",
-                "type": "youtube"
-            },
-            {
-                "name": "KRYNewsChannel",
-                "url": "",
-                "cached": true,
-                "bakname": "KRYNewsChannel",
-                "type": "youtube"
-            },
-            {
-                "name": "福岡TNC ニュース",
-                "url": "",
-                "cached": true,
-                "bakname": "fukuoka_tnc_news",
-                "type": "youtube"
-            },
-            {
-                "name": "shio_vanilla",
-                "url": "",
-                "cached": true,
-                "bakname": "shio_vanilla",
-                "type": "youtube"
-            },
-            {
-                "name": "TMSanimeJP",
-                "url": "",
-                "cached": true,
-                "bakname": "TMSanimeJP",
-                "type": "youtube"
-            },
-            {
-                "name": "shioneru",
-                "url": "",
-                "cached": true,
-                "bakname": "shioneru",
-                "type": "youtube"
-            },
-            {
-                "name": "mextchannel",
-                "url": "",
-                "cached": true,
-                "bakname": "mextchannel",
-                "type": "youtube"
-            },
-            {
-                "name": "今日の予土線TheYodoLineTo",
-                "url": "",
-                "cached": true,
-                "bakname": "yodo_line_today",
-                "type": "youtube"
-            },
-            {
-                "name": "めざましテレビチャンネル",
-                "url": "",
-                "cached": true,
-                "bakname": "mezamashi_tv",
-                "type": "youtube"
-            },
-            {
-                "name": "123JAPAN",
-                "url": "https://www.youtube.com/@123JAPAN",
-                "bakname": "123JAPAN",
-                "cached": false,
-                "skip": false
-            },
-            {
-                "name": "ゆきりぬきゅんチャンネル",
-                "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%8D%E3%82%85%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
-                "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%8D%E3%82%85%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
-                "cached": false,
-                "skip": false
-            },
-            {
-                "name": "ゆきりぬのゲーム部屋",
-                "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E9%83%A8%E5%B1%8B",
-                "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E9%83%A8%E5%B1%8B",
-                "cached": false,
-                "skip": false
-            },
-            {
-                "name": "ゆきりぬえとせとら",
-                "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89",
-                "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%88%E3%81%A8%E3%81%9B%E3%81%A8%E3%82%89",
-                "cached": false,
-                "skip": false
             }
         ]
     }
