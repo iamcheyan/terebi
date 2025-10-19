@@ -1,8 +1,80 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
-  "channel_name": "RKKオフィシャルチャンネル あるぽtv　熊本放送",
-  "updated_at": "2025-03-07T23:18:07.993800",
+  "channel_name": "RKK熊本放送",
+  "updated_at": "2025-10-20T01:58:06.561964",
   "videos": [
+    {
+      "id": "9KtP9dnqFUk",
+      "title": "めざせ！くまもとの若き匠たち 第75回",
+      "description": "",
+      "publishedAt": "2025-10-19T14:15:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9KtP9dnqFUk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9KtP9dnqFUk"
+    },
+    {
+      "id": "QUWbR50lzK0",
+      "title": "未来をつくるヒーローたち 第12話",
+      "description": "",
+      "publishedAt": "2025-10-19T07:30:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QUWbR50lzK0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QUWbR50lzK0"
+    },
+    {
+      "id": "Rr0YmSSlwyE",
+      "title": "【番宣】１０月２５日（土）からふる",
+      "description": "",
+      "publishedAt": "2025-10-18T08:30:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rr0YmSSlwyE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rr0YmSSlwyE"
+    },
+    {
+      "id": "iXqJ0Wm49VI",
+      "title": "【番宣】１０月２１日（火）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-10-17T07:47:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iXqJ0Wm49VI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iXqJ0Wm49VI"
+    },
+    {
+      "id": "DQNr_TBc1Hw",
+      "title": "【番宣】１０月２０日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-10-17T07:44:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DQNr_TBc1Hw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DQNr_TBc1Hw"
+    },
+    {
+      "id": "L7G3KK0a0BU",
+      "title": "【番宣】１０月１８日（土）RKKまつり とくばん☆TV",
+      "description": "",
+      "publishedAt": "2025-10-17T05:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L7G3KK0a0BU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L7G3KK0a0BU"
+    },
     {
       "id": "uaYCBL-7P94",
       "title": "【番宣】３月１１日（火）ゲツキン！",

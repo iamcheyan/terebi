@@ -1,9 +1,188 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "original_name": "MBC南日本放送",
-  "updated_at": "2025-10-20T01:12:45.485042",
+  "updated_at": "2025-10-20T01:58:11.445046",
   "videos": [
+    {
+      "id": "ECUnadVPsXQ",
+      "title": "知名町・シニキニャ浜【かごしまドローンTRIP】",
+      "description": "",
+      "publishedAt": "2025-10-19T14:15:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ECUnadVPsXQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ECUnadVPsXQ"
+    },
+    {
+      "id": "fE4-pf03_YQ",
+      "title": "ふくしのラジオ!　EP#132　『鹿屋の福祉まつりは、福祉の万博？』",
+      "description": "",
+      "publishedAt": "2025-10-19T13:43:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fE4-pf03_YQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fE4-pf03_YQ"
+    },
+    {
+      "id": "JFUaywWaOh4",
+      "title": "10/19『ひなぎく保育園』のわんぱく君・わんぱくちゃんを紹介！【MBCテレビ『わんぱくてれび』",
+      "description": "",
+      "publishedAt": "2025-10-19T07:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JFUaywWaOh4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JFUaywWaOh4"
+    },
+    {
+      "id": "qz8BoJR0u-A",
+      "title": "#かごしま『あなたのそばで県議会（北薩地域）を開催します　ほか』（2025年10月19日放送）",
+      "description": "",
+      "publishedAt": "2025-10-19T02:50:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qz8BoJR0u-A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qz8BoJR0u-A"
+    },
+    {
+      "id": "-3XmjmUIgYY",
+      "title": "JA南さつまのみかん(2025年10月19日放送)",
+      "description": "",
+      "publishedAt": "2025-10-19T02:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-3XmjmUIgYY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-3XmjmUIgYY"
+    },
+    {
+      "id": "ZWrklfNLSYA",
+      "title": "#38【実録⑦】スマホの通知で試合終了。",
+      "description": "",
+      "publishedAt": "2025-10-18T11:06:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZWrklfNLSYA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZWrklfNLSYA"
+    },
+    {
+      "id": "2Aw1vzMgOeM",
+      "title": "陶山賢治の風まかせ　ゲスト：南洲哲学研究会の代表・山城洋一さん③",
+      "description": "",
+      "publishedAt": "2025-10-18T09:06:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Aw1vzMgOeM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Aw1vzMgOeM"
+    },
+    {
+      "id": "O8hJm55TBp4",
+      "title": "MBC南日本放送『kagoshima SDGs 17colors』エコアクアファーム",
+      "description": "",
+      "publishedAt": "2025-10-18T08:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O8hJm55TBp4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O8hJm55TBp4"
+    },
+    {
+      "id": "DYBfLX3nqJc",
+      "title": "第54回　宇宙が身近に！的川先生の宇宙ラジオ",
+      "description": "",
+      "publishedAt": "2025-10-18T04:42:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DYBfLX3nqJc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DYBfLX3nqJc"
+    },
+    {
+      "id": "66vgQUnLxrk",
+      "title": "【10/15(水)放送】てゲてゲ『開幕戦に挑む「フラーゴラッド鹿児島」に注目！』",
+      "description": "",
+      "publishedAt": "2025-10-17T08:51:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/66vgQUnLxrk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=66vgQUnLxrk"
+    },
+    {
+      "id": "bDXVm64G4p8",
+      "title": "昭和の音旅　#152 指宿地方「薩摩のたばこ」その3",
+      "description": "",
+      "publishedAt": "2025-10-17T08:55:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bDXVm64G4p8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bDXVm64G4p8"
+    },
+    {
+      "id": "jc_DOdoul7s",
+      "title": "うんまかレシピ「鶏とごぼうの炊き込みご飯」",
+      "description": "",
+      "publishedAt": "2025-10-17T07:45:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jc_DOdoul7s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jc_DOdoul7s"
+    },
+    {
+      "id": "PDhKxBnPXgw",
+      "title": "この人に聞く　濵田酒造6代目・濵田光太郎新社長「本格焼酎を國酒に」鹿児島から世界へ届ける「だいやめ文化」(2025年10月16日放送)",
+      "description": "",
+      "publishedAt": "2025-10-17T05:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PDhKxBnPXgw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PDhKxBnPXgw"
+    },
+    {
+      "id": "WyUkSmdt4yI",
+      "title": "【亀ちゃんのかごしま撮った！】「焼酎づくりは生きがい」濵田酒造こだわりの焼酎仕込み いちき串木野市（2025年10月16日放送）",
+      "description": "",
+      "publishedAt": "2025-10-17T04:51:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WyUkSmdt4yI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WyUkSmdt4yI"
+    },
+    {
+      "id": "FZMQ8vZB8-s",
+      "title": "高校生がロボットカーで最速を競う「マイコンカーラリー大会」コースに合わせプログラミング　鹿児島(MBCニューズナウ 2025年10月16日放送）",
+      "description": "",
+      "publishedAt": "2025-10-17T04:50:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FZMQ8vZB8-s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FZMQ8vZB8-s"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "e9m3DVx5y1yJmr53HSotDKhBjvY",

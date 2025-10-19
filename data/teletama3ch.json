@@ -1,8 +1,44 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
-  "channel_name": "テレ玉",
-  "updated_at": "2025-03-08T23:05:11.133199",
+  "channel_name": "テレ玉（テレビ埼玉）",
+  "updated_at": "2025-10-20T01:57:16.549529",
   "videos": [
+    {
+      "id": "WR3iASbeSwY",
+      "title": "【あなたのじまんはなんですか？】所沢航空記念公園とYOT-TOKO編",
+      "description": "",
+      "publishedAt": "2025-10-19T15:01:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WR3iASbeSwY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WR3iASbeSwY"
+    },
+    {
+      "id": "2uwQ6nqI0k4",
+      "title": "山岳信仰の聖地を行く！～鶴岡市朝日～【ワクワク！やまが旅】",
+      "description": "",
+      "publishedAt": "2025-10-18T01:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2uwQ6nqI0k4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2uwQ6nqI0k4"
+    },
+    {
+      "id": "j2MG66pOXnQ",
+      "title": "【パCS戦評】「達、福島すごいなぁ、、」ソフトバンクが王手で迎えたファイナルS第3戦、第1、２戦の振り返り（福岡ソフトバンクホークスvs日本ハムファイターズ）",
+      "description": "",
+      "publishedAt": "2025-10-18T00:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/j2MG66pOXnQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=j2MG66pOXnQ"
+    },
     {
       "id": "OiLy_e4htkQ",
       "title": "米沢でラーメンめぐり！～米沢市【ワクワク！やまが旅】",

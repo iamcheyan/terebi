@@ -1256,13 +1256,6 @@
                 "type": "youtube"
             },
             {
-                "name": "パンタさん",
-                "url": "https://www.youtube.com/@pantasan",
-                "cached": true,
-                "bakname": "pantasan",
-                "type": "youtube"
-            },
-            {
                 "name": "Sunchannel",
                 "url": "https://www.youtube.com/@sunchannel1810",
                 "cached": true,
@@ -1514,7 +1507,14 @@
                 "cached": true,
                 "type": "youtube",
                 "bakname": "shioneru"
-            }
+            },
+            {
+              "name": "パンタさん",
+              "url": "https://www.youtube.com/@pantasan",
+              "cached": true,
+              "bakname": "pantasan",
+              "type": "youtube"
+          }
         ],
         "テック・ガジェット": [],
         "エンタメ・Vlog": [],

@@ -139,7 +139,7 @@ def get_channel_id_from_url(url):
 
 
 def process_channel_rss(info):
-    """使用RSS方式处理频道"""
+    """使用RSS方式处理频道，实现增量更新"""
     print(f'\n=== RSS方式处理频道: {info["name"]} ===')
     
     # 获取频道ID
@@ -154,13 +154,21 @@ def process_channel_rss(info):
     
     data_filename = os.path.join(PROJECT_ROOT, 'data', f'{safe_name}.json')
     
-    if not channel_id and os.path.exists(data_filename):
+    # 读取现有数据
+    existing_data = None
+    existing_videos = []
+    existing_video_ids = set()
+    
+    if os.path.exists(data_filename):
         try:
             with open(data_filename, 'r', encoding='utf-8') as f:
-                cached_data = json.load(f)
-            channel_id = cached_data.get('channel_id')
-        except Exception:
-            pass
+                existing_data = json.load(f)
+            existing_videos = existing_data.get('videos', [])
+            existing_video_ids = {video.get('id', '') for video in existing_videos if video.get('id')}
+            channel_id = existing_data.get('channel_id') or channel_id
+            print(f"📁 找到现有数据文件，包含 {len(existing_videos)} 个视频")
+        except Exception as e:
+            print(f"⚠️ 读取现有数据失败: {e}")
     
     if not channel_id:
         print(f"⚠️ 无法获取频道ID，跳过: {info['name']}")
@@ -168,22 +176,38 @@ def process_channel_rss(info):
     
     print(f"✅ 找到频道ID: {channel_id}")
     
-    # 使用RSS获取视频
+    # 使用RSS获取最新视频
     rss_videos = fetch_channel_videos_via_rss(channel_id, max_count=200)
     if rss_videos:
         print(f"✅ RSS获取到 {len(rss_videos)} 个视频")
         
-        # 保存RSS数据
-        rss_data = {
-            "channel_id": channel_id,
-            "channel_name": info["name"],
-            "updated_at": datetime.now().isoformat(),
-            "videos": rss_videos,
-        }
+        # 过滤出新的视频
+        new_videos = []
+        for video in rss_videos:
+            video_id = video.get('id', '')
+            if video_id and video_id not in existing_video_ids:
+                new_videos.append(video)
         
-        with open(data_filename, 'w', encoding='utf-8') as f:
-            json.dump(rss_data, f, ensure_ascii=False, indent=2)
-        print(f"✅ RSS数据已保存到: {data_filename}")
+        print(f"🆕 发现 {len(new_videos)} 个新视频")
+        
+        if new_videos:
+            # 合并新旧视频，新视频在前
+            all_videos = new_videos + existing_videos
+            
+            # 准备保存的数据
+            rss_data = {
+                "channel_id": channel_id,
+                "channel_name": info["name"],
+                "updated_at": datetime.now().isoformat(),
+                "videos": all_videos,
+            }
+            
+            with open(data_filename, 'w', encoding='utf-8') as f:
+                json.dump(rss_data, f, ensure_ascii=False, indent=2)
+            print(f"✅ 增量更新完成，总共 {len(all_videos)} 个视频，新增 {len(new_videos)} 个")
+        else:
+            print("ℹ️ 没有新视频，数据保持不变")
+        
         return True
     else:
         print("⚠️ RSS未获取到视频数据")

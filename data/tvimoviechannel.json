@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
-  "channel_name": "テレビ岩手公式チャンネル",
-  "updated_at": "2025-03-07T23:18:07.654832",
+  "channel_name": "TVIテレビ岩手",
+  "updated_at": "2025-10-20T01:57:04.716350",
   "videos": [
+    {
+      "id": "0iVguKeCTf0",
+      "title": "今日の５きげんテレビ（10月20日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-10-19T15:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0iVguKeCTf0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0iVguKeCTf0"
+    },
+    {
+      "id": "cEHKpRZ733M",
+      "title": "５きげんクッキング ～サバとアンチョビのレモンアラビアータ～",
+      "description": "",
+      "publishedAt": "2025-10-17T09:17:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cEHKpRZ733M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cEHKpRZ733M"
+    },
+    {
+      "id": "zW1EF0UIAM8",
+      "title": "盛岡市に夜限定のドーナツ屋さんがオープン！",
+      "description": "",
+      "publishedAt": "2025-10-17T08:58:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zW1EF0UIAM8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zW1EF0UIAM8"
+    },
     {
       "id": "lCR8oSagGbg",
       "title": "５きげんクッキング ～アメリカンクッキー～",

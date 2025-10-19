@@ -1,8 +1,32 @@
 {
   "channel_id": "UCL2DLwqqYxa0Q5DcGoQGbrw",
-  "channel_name": "文部科学省/mextchannel",
-  "updated_at": "2025-10-16T15:36:03.437340+00:00",
+  "channel_name": "文部科学省（MEXT）",
+  "updated_at": "2025-10-20T01:58:18.717651",
   "videos": [
+    {
+      "id": "9GIeE-STao4",
+      "title": "これからの学びのスタンダード～学習者用デジタル教科書を活用した学びの変化～",
+      "description": "",
+      "publishedAt": "2025-10-17T05:03:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9GIeE-STao4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9GIeE-STao4"
+    },
+    {
+      "id": "D5PHd0l-KKk",
+      "title": "あべ文部科学大臣記者会見（令和7年10月17日）：文部科学省",
+      "description": "",
+      "publishedAt": "2025-10-17T04:57:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D5PHd0l-KKk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D5PHd0l-KKk"
+    },
     {
       "id": "OKm9Ml7hhuw",
       "title": "20250820_特別支援教育での端末活用【R7第２回ギガスタプチ学習会特別企画】",

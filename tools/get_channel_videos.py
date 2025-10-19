@@ -538,23 +538,61 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False):
             all_videos, has_new_videos = get_channel_videos_with_limit(channel_id, videos_per_channel)
             
             if all_videos:
-                # 准备要保存的数据
-                channel_name = get_channel_info(channel_id)
-                data = {
-                    'channel_id': channel_id,
-                    'channel_name': channel_name,
-                    'original_name': info["name"],
-                    'updated_at': datetime.now().isoformat(),
-                    'videos': all_videos
-                }
-                
-                # 保存数据
+                # 读取现有数据（如果存在）
                 filename = os.path.join(PROJECT_ROOT, 'data', f'{safe_name}.json')
+                existing_videos = []
+                existing_video_ids = set()
                 
-                with open(filename, 'w', encoding='utf-8') as f:
-                    json.dump(data, f, ensure_ascii=False, indent=2)
+                if os.path.exists(filename):
+                    try:
+                        with open(filename, 'r', encoding='utf-8') as f:
+                            existing_data = json.load(f)
+                        existing_videos = existing_data.get('videos', [])
+                        # 兼容API和RSS两种数据格式
+                        existing_video_ids = set()
+                        for video in existing_videos:
+                            video_id = video.get('id', '')  # RSS格式
+                            if not video_id:
+                                video_id = video.get('snippet', {}).get('resourceId', {}).get('videoId', '')  # API格式
+                            if video_id:
+                                existing_video_ids.add(video_id)
+                        print(f"📁 找到现有数据，包含 {len(existing_videos)} 个视频")
+                    except Exception as e:
+                        print(f"⚠️ 读取现有数据失败: {e}")
                 
-                print(f'视频数据已保存到: {filename}')
+                # 过滤出新的视频
+                new_videos = []
+                for video in all_videos:
+                    # API方式获取视频ID
+                    video_id = video.get('snippet', {}).get('resourceId', {}).get('videoId', '')
+                    if video_id and video_id not in existing_video_ids:
+                        new_videos.append(video)
+                
+                print(f"🆕 发现 {len(new_videos)} 个新视频")
+                
+                if new_videos or not os.path.exists(filename):
+                    # 合并新旧视频，新视频在前
+                    all_videos_merged = new_videos + existing_videos
+                    
+                    # 准备要保存的数据
+                    channel_name = get_channel_info(channel_id)
+                    data = {
+                        'channel_id': channel_id,
+                        'channel_name': channel_name,
+                        'original_name': info["name"],
+                        'updated_at': datetime.now().isoformat(),
+                        'videos': all_videos_merged
+                    }
+                    
+                    with open(filename, 'w', encoding='utf-8') as f:
+                        json.dump(data, f, ensure_ascii=False, indent=2)
+                    
+                    if new_videos:
+                        print(f'✅ 增量更新完成，总共 {len(all_videos_merged)} 个视频，新增 {len(new_videos)} 个')
+                    else:
+                        print(f'✅ 数据已保存到: {filename}')
+                else:
+                    print("ℹ️ 没有新视频，数据保持不变")
                 
                 # 处理文件
                 try:

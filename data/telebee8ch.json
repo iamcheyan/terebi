@@ -1,8 +1,44 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
-  "channel_name": "テレビ西日本TNC",
-  "updated_at": "2025-03-07T23:18:08.455929",
+  "channel_name": "TNCテレビ西日本",
+  "updated_at": "2025-10-20T01:58:02.677355",
   "videos": [
+    {
+      "id": "bVsU3Y3Sb50",
+      "title": "【公式】「子どもの湿疹は乾燥から始まる～？」（10月19日放送）｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2025-10-19T00:00:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bVsU3Y3Sb50/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bVsU3Y3Sb50"
+    },
+    {
+      "id": "a9uSoHpzCr0",
+      "title": "【公式】ドキュメント九州「エイサーに心打たれて」（2025年10月26日OA）",
+      "description": "",
+      "publishedAt": "2025-10-18T22:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a9uSoHpzCr0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a9uSoHpzCr0"
+    },
+    {
+      "id": "sQIQB6nsEnc",
+      "title": "【公式】「はじめてのヨーグルト」（10月17日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2025-10-17T03:01:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sQIQB6nsEnc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sQIQB6nsEnc"
+    },
     {
       "id": "caJxSLqNGVs",
       "title": "【公式】3月14(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
