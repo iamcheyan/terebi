@@ -109,7 +109,7 @@
 
 脚本会：
 - **智能跳过**：检查频道是否已存在，存在则跳过，避免消耗API
-- 覆盖/添加频道到 `japan_tv_youtube_channels.json`（不设置 skip，`cached:false`）
+- 覆盖/添加频道到 `all_channels.json`（不设置 skip，`cached:false`）
 - 解析频道ID并调用 YouTube Data API 抓取上传列表（默认最多 200 条），生成 `data/{名称}.json`
 - 下载频道头像到 `img/{名称}.jpg`
 - 生成前端用缩略图 `img/resized/{名称}.jpg`
@@ -135,7 +135,7 @@
 
 ### 1. check_name.py
 
-**用途**: `japan_tv_youtube_channels.json`設定ファイルと`data`ディレクトリ内の実際のデータファイルの整合性を確認します。
+**用途**: `all_channels.json`設定ファイルと`data`ディレクトリ内の実際のデータファイルの整合性を確認します。
 
 **設計理由**: 多数のYouTubeチャンネルデータを管理する際、設定ファイルと実際のデータの同期を確保する必要があります。
 
@@ -150,7 +150,7 @@ python tools/check_name.py
 
 ### 2. clear_channel.py
 
-**用途**: `japan_tv_youtube_channels.json`設定ファイルから、対応する画像がないチャンネルをクリーンアップします。
+**用途**: `all_channels.json`設定ファイルから、対応する画像がないチャンネルをクリーンアップします。
 
 **設計理由**: チャンネル画像は表示インターフェースの重要な要素です。画像ファイルがないチャンネルがあると、フロントエンドの表示に問題が生じる可能性があります。
 

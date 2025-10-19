@@ -11,7 +11,7 @@
             {
                 "name": "日テレNEWS",
                 "url": "https://www.youtube.com/@ntv_news",
-                "cached": true,
+                "cached": false,
                 "bakname": "ntv_news",
                 "type": "tv"
             },
@@ -36,14 +36,14 @@
             {
                 "name": "フジテレビ公式",
                 "url": "https://www.youtube.com/@fujitv",
-                "cached": true,
+                "cached": false,
                 "bakname": "fujitv",
                 "type": "tv"
             },
             {
                 "name": "FNNプライムオンライン",
                 "url": "https://www.youtube.com/@FNNnewsCH",
-                "cached": true,
+                "cached": false,
                 "bakname": "FNNnewsCH",
                 "type": "tv"
             },
@@ -66,7 +66,7 @@
             {
                 "name": "ANNnewsCH",
                 "url": "https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "channel_UCGCZAYq5Xxo"
             },
@@ -82,14 +82,14 @@
             {
                 "name": "テレ東公式 TV TOKYO",
                 "url": "https://www.youtube.com/user/TVTOKYO",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "TVTOKYO"
             },
             {
                 "name": "テレ東BIZ",
                 "url": "https://www.youtube.com/@tvtokyobiz",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "tvtokyobiz"
             },
@@ -107,7 +107,7 @@
             {
                 "name": "HBC北海道放送",
                 "url": "https://www.youtube.com/@HBChokkaido",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "HBChokkaido"
             },
@@ -151,14 +151,14 @@
             {
                 "name": "RAB青森放送",
                 "url": "https://www.youtube.com/channel/UCk_jA9Y8pb50Ab2EzV_KhLw",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "channel_UCk_jA9Y8pb5"
             },
             {
                 "name": "ATV青森テレビ",
                 "url": "https://www.youtube.com/@ATV6ch",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "ATV6ch"
             },
@@ -179,7 +179,7 @@
             {
                 "name": "テレビ岩手TVIニュースチャンネル",
                 "url": "https://www.youtube.com/@tvinewsch",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "tvinewsch"
             },
@@ -193,7 +193,7 @@
             {
                 "name": "IAT岩手朝日テレビ",
                 "url": "https://www.youtube.com/@IwateAsahiTV",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "IwateAsahiTV"
             },
@@ -207,7 +207,7 @@
             {
                 "name": "MMTミヤギテレビ",
                 "url": "https://www.youtube.com/@miyateleNEWSNNN",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "miyateleNEWSNNN"
             },
@@ -228,7 +228,7 @@
             {
                 "name": "仙台放送ニュースチャンネル",
                 "url": "https://www.youtube.com/channel/UClElfQ7F1QndkPEFuqrDCLQ",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "channel_UClElfQ7F1Qn"
             },
@@ -270,7 +270,7 @@
             {
                 "name": "YTS山形テレビ",
                 "url": "https://www.youtube.com/@YTS5ch",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "YTS5ch"
             },
@@ -322,7 +322,7 @@
             {
                 "name": "tvkテレビ神奈川",
                 "url": "https://www.youtube.com/@tvk3ch",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "tvk3ch"
             },
@@ -394,7 +394,7 @@
             {
                 "name": "NST新潟総合テレビ",
                 "url": "https://www.youtube.com/@nst-tv",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "nst-tv"
             },
@@ -457,7 +457,7 @@
             {
                 "name": "HAB北陸朝日放送",
                 "url": "https://www.youtube.com/@habmigochannel",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "habmigochannel"
             },
@@ -478,14 +478,14 @@
             {
                 "name": "YBS山梨放送",
                 "url": "https://www.youtube.com/channel/UCL3peEBSiAkEMDuxNkffbvw",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "channel_UCL3peEBSiAk"
             },
             {
                 "name": "UTYテレビ山梨",
                 "url": "https://www.youtube.com/channel/UCk2oG--VyYST4SYyQkeadjA",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "channel_UCk2oG--VyYS"
             },
@@ -521,7 +521,7 @@
                 "name": "静岡朝日テレビニュース",
                 "url": "https://www.youtube.com/@satv_official",
                 "skip": true,
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "satv_official"
             },
@@ -585,7 +585,7 @@
             {
                 "name": "テレビ愛知",
                 "url": "https://www.youtube.com/@tvaichi10ch",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "tvaichi10ch"
             },
@@ -664,14 +664,14 @@
             {
                 "name": "奈良テレビNEWS",
                 "url": "https://www.youtube.com/@tvn_news9",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "tvn_news9"
             },
             {
                 "name": "KBS京都",
                 "url": "https://www.youtube.com/@kbskyoto",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "kbskyoto"
             },
@@ -701,7 +701,7 @@
             {
                 "name": "RCC中国放送",
                 "url": "https://www.youtube.com/channel/UCExGIeVLm6DBd_dd7AC4L-A",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "channel_UCExGIeVLm6D"
             },
@@ -743,7 +743,7 @@
             {
                 "name": "yab山口ニュース",
                 "url": "https://www.youtube.com/@yab_news",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "yab_news"
             },
@@ -778,7 +778,7 @@
             {
                 "name": "RSK山陽放送",
                 "url": "https://www.youtube.com/@rsk4243",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "rsk4243"
             },
@@ -806,7 +806,7 @@
             {
                 "name": "BSS山陰放送ラッテチャンネル",
                 "url": "https://www.youtube.com/channel/UC5f3JQdmlT_7W1l1kpwzkJQ",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "channel_UC5f3JQdmlT_"
             },
@@ -820,7 +820,7 @@
             {
                 "name": "KRY山口放送ニュース公式チャンネル",
                 "url": "https://www.youtube.com/@KRYNewsChannel",
-                "cached": false,
+                "cached": true,
                 "type": "tv",
                 "bakname": "KRYNewsChannel"
             }
@@ -843,7 +843,7 @@
             {
                 "name": "EBCテレビ愛媛",
                 "url": "https://www.youtube.com/channel/UCSzVAEFIewUsDHFEkcdyw1w",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "channel_UCSzVAEFIewU"
             },
@@ -871,7 +871,7 @@
             {
                 "name": "KUTVテレビ高知",
                 "url": "https://www.youtube.com/@kutv",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "kutv"
             },
@@ -894,7 +894,7 @@
             {
                 "name": "FBS福岡放送ニュース",
                 "url": "https://www.youtube.com/@fbsnews5",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "fbsnews5"
             },
@@ -908,7 +908,7 @@
             {
                 "name": "KBC九州朝日放送",
                 "url": "https://www.youtube.com/@KBCmovie",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "KBCmovie"
             },
@@ -929,7 +929,7 @@
             {
                 "name": "NIB長崎国際テレビ",
                 "url": "https://www.youtube.com/@NIB",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "NIB"
             },
@@ -943,7 +943,7 @@
             {
                 "name": "KTNテレビ長崎",
                 "url": "https://www.youtube.com/@KTN.nagasaki",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "KTN.nagasaki"
             },
@@ -985,7 +985,7 @@
             {
                 "name": "TOSテレビ大分",
                 "url": "https://www.youtube.com/@tostv4ch",
-                "cached": true,
+                "cached": false,
                 "type": "tv",
                 "bakname": "tostv4ch"
             },
@@ -1082,42 +1082,42 @@
             {
                 "name": "あかね的日本語教室",
                 "url": "https://www.youtube.com/channel/UCh-GhnQ7qDQmS6Bz3pGc1Mw",
-                "cached": true,
+                "cached": false,
                 "type": "youtube",
                 "bakname": "channel_UCh-GhnQ7qDQ"
             },
             {
                 "name": "AI Polyglot | 多言語 聞き流し",
                 "url": "https://www.youtube.com/@ai_polyglot",
-                "cached": false,
+                "cached": true,
                 "bakname": "ai_polyglot",
                 "type": "youtube"
             },
             {
                 "name": "Jiro, just Japanese",
                 "url": "https://www.youtube.com/@JiroJapanese",
-                "cached": false,
+                "cached": true,
                 "bakname": "JiroJapanese",
                 "type": "youtube"
             },
             {
                 "name": "あやの〻日本語学習チャンネル𓂃𖧷",
                 "url": "https://www.youtube.com/@am_japanese",
-                "cached": false,
+                "cached": true,
                 "bakname": "am_japanese",
                 "type": "youtube"
             },
             {
                 "name": "海海日語新幹線 | 每天30分聽日語",
                 "url": "https://www.youtube.com/@kai-Japanese-Shinkansen",
-                "cached": false,
+                "cached": true,
                 "bakname": "kai-Japanese-Shinkansen",
                 "type": "youtube"
             },
             {
                 "name": "UNCLE JIM 聽歌學日文 LearnJapanesebymusic",
                 "url": "https://www.youtube.com/@UNCLEJIMLearnJapanesebymusic",
-                "cached": false,
+                "cached": true,
                 "bakname": "UNCLEJIMLearnJapanesebymusic",
                 "type": "youtube"
             },
@@ -1125,14 +1125,14 @@
                 "name": "Speak Japanese Naturally",
                 "url": "https://www.youtube.com/@SpeakJapaneseNaturally",
                 "bakname": "SpeakJapaneseNaturally",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             },
             {
                 "name": "TokyoFuji_LanguageCollege",
                 "url": "https://www.youtube.com/@TokyoFuji_LanguageCollege",
-                "cached": false,
+                "cached": true,
                 "bakname": "TokyoFuji_LanguageCollege",
                 "type": "youtube"
             }
@@ -1143,7 +1143,7 @@
             {
                 "name": "文部科学省（MEXT）",
                 "url": "https://www.youtube.com/@mextchannel",
-                "cached": false,
+                "cached": true,
                 "type": "youtube",
                 "bakname": "mextchannel"
             }
@@ -1156,7 +1156,7 @@
                 "name": "Unique Japan Travel / 日常に旅を",
                 "url": "https://www.youtube.com/@UniqueJapanTravel",
                 "bakname": "UniqueJapanTravel",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             },
@@ -1164,14 +1164,14 @@
                 "name": "スーツ 旅行 / Suit Travel",
                 "url": "https://www.youtube.com/@SuitTravel",
                 "bakname": "SuitTravel",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             },
             {
                 "name": "はりまや気ままに旅チャンネル",
                 "url": "https://www.youtube.com/@Harimaya884",
-                "cached": false,
+                "cached": true,
                 "bakname": "Harimaya884",
                 "type": "youtube"
             },
@@ -1179,7 +1179,7 @@
                 "name": "富山の遊び場!TV",
                 "url": "https://www.youtube.com/@ToyamaTV",
                 "bakname": "ToyamaTV",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             }
@@ -1191,21 +1191,21 @@
                 "name": "ひろき / 鉄道Channel",
                 "url": "https://www.youtube.com/@hiroki_railway",
                 "bakname": "hiroki_railway",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             },
             {
                 "name": "今日の予土線",
                 "url": "https://www.youtube.com/@今日の予土線TheYodoLineTo",
-                "cached": false,
+                "cached": true,
                 "type": "youtube",
                 "bakname": "今日の予土線TheYodoLineTo"
             },
             {
                 "name": "交通新聞 電子版【交通新聞社】",
                 "url": "https://www.youtube.com/@kotsushinbun",
-                "cached": false,
+                "cached": true,
                 "bakname": "kotsushinbun",
                 "type": "youtube"
             }
@@ -1216,7 +1216,7 @@
             {
                 "name": "スマサポチャンネル",
                 "url": "https://www.youtube.com/@sumasapo",
-                "cached": false,
+                "cached": true,
                 "bakname": "sumasapo",
                 "type": "youtube"
             }
@@ -1228,7 +1228,7 @@
                 "name": "いけちゃん / ikechan",
                 "url": "https://www.youtube.com/@ikechan0920",
                 "bakname": "ikechan0920",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             },
@@ -1236,7 +1236,7 @@
                 "name": "いけちる / ikechill",
                 "url": "https://www.youtube.com/@ikechan0920sub",
                 "bakname": "ikechan0920sub",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             },
@@ -1244,56 +1244,56 @@
                 "name": "CUL DRAMA / カルドラマ",
                 "url": "https://www.youtube.com/@culdrama",
                 "bakname": "culdrama",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             },
             {
                 "name": "しおねる",
                 "url": "https://www.youtube.com/@shioneru",
-                "cached": false,
+                "cached": true,
                 "type": "youtube",
                 "bakname": "shioneru"
             },
             {
                 "name": "鈴木優香",
                 "url": "https://www.youtube.com/@yuuka_chan815",
-                "cached": false,
+                "cached": true,
                 "bakname": "yuuka_chan815",
                 "type": "youtube"
             },
             {
                 "name": "パンタさん",
                 "url": "https://www.youtube.com/@pantasan",
-                "cached": false,
+                "cached": true,
                 "bakname": "pantasan",
                 "type": "youtube"
             },
             {
                 "name": "Sunchannel",
                 "url": "https://www.youtube.com/@sunchannel1810",
-                "cached": false,
+                "cached": true,
                 "bakname": "sunchannel1810",
                 "type": "youtube"
             },
             {
                 "name": "ZAKI",
                 "url": "https://www.youtube.com/@zaki4835",
-                "cached": false,
+                "cached": true,
                 "bakname": "zaki4835",
                 "type": "youtube"
             },
             {
                 "name": "ダイ",
                 "url": "https://www.youtube.com/@ダイ",
-                "cached": false,
+                "cached": true,
                 "type": "youtube",
                 "bakname": "ダイ"
             },
             {
                 "name": "Abao Vision",
                 "url": "https://www.youtube.com/@abaovision",
-                "cached": false,
+                "cached": true,
                 "bakname": "abaovision",
                 "type": "youtube"
             },
@@ -1301,7 +1301,7 @@
                 "name": "GOALION TV",
                 "url": "https://www.youtube.com/@GOALIONTV",
                 "bakname": "GOALIONTV",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             },
@@ -1309,7 +1309,7 @@
                 "name": "Hiko-zone（ヒコぞーん）",
                 "url": "https://www.youtube.com/@Hiko-zone",
                 "bakname": "Hiko-zone",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             }
@@ -1365,7 +1365,7 @@
                 "name": "HikakinTV",
                 "url": "https://www.youtube.com/@HikakinTV",
                 "bakname": "HikakinTV",
-                "cached": false,
+                "cached": true,
                 "skip": false,
                 "type": "youtube"
             }
@@ -1379,7 +1379,7 @@
                 "name": "クレヨンしんちゃん公式チャンネル",
                 "url": "https://www.youtube.com/@kureshin_official",
                 "skip": true,
-                "cached": true,
+                "cached": false,
                 "bakname": "kureshin_official",
                 "type": "youtube"
             },
@@ -1482,6 +1482,13 @@
                 "cached": true,
                 "bakname": "mezamashi_tv",
                 "type": "youtube"
+            },
+            {
+                "name": "yukirin_u",
+                "url": "https://www.youtube.com/@yukirin_u",
+                "bakname": "yukirin_u",
+                "cached": true,
+                "skip": false
             }
         ]
     }

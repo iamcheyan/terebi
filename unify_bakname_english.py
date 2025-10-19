@@ -101,7 +101,7 @@ def main():
     # 处理两个配置文件
     files_to_process = [
         Path(__file__).parent / "data" / "youtube_channels.json",
-        Path(__file__).parent / "japan_tv_youtube_channels.json"
+        Path(__file__).parent / "all_channels.json"
     ]
     
     for file_path in files_to_process:

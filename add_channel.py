@@ -13,7 +13,7 @@ from urllib.parse import urlparse
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent
-CHANNELS_FILE = PROJECT_ROOT / "japan_tv_youtube_channels.json"
+CHANNELS_FILE = PROJECT_ROOT / "all_channels.json"
 DATA_DIR = PROJECT_ROOT / "data"
 IMG_DIR = PROJECT_ROOT / "img"
 

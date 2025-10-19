@@ -7,7 +7,7 @@ try:
     with open('../all_channels.json', 'r', encoding='utf-8') as f:
         channels_data = json.load(f)
 except Exception as e:
-    print(f"读取 japan_tv_youtube_channels.json 文件时出错: {e}")
+    print(f"读取 all_channels.json 文件时出错: {e}")
     exit(1)
 
 # 提取所有频道名称

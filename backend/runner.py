@@ -109,7 +109,7 @@ def main():
     p_process.add_argument("--file", help="仅处理指定文件的绝对路径")
     p_process.set_defaults(func=cmd_process)
 
-    p_mark = sub.add_parser("mark", help="更新 japan_tv_youtube_channels.json 的 cached 标记")
+    p_mark = sub.add_parser("mark", help="更新 all_channels.json 的 cached 标记")
     p_mark.set_defaults(func=cmd_mark)
 
     p_avatars = sub.add_parser("avatars", help="下载频道头像到 img/")

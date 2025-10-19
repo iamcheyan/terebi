@@ -7,7 +7,7 @@
 - Python 3.9+
 - 在项目根目录存在以下文件/目录：
   - `WEB-INF/config.properties`（包含 youtube.apikey1..n、ftp 配置等）
-  - `japan_tv_youtube_channels.json`
+  - `all_channels.json`
   - `tools/`、`data/`、`source/`、`img/`
 - 推荐在项目根目录执行命令：`python backend/runner.py ...`
 
@@ -25,7 +25,7 @@ python backend/runner.py fetch --auto-task --videos-per-channel 250 --yes
 python backend/runner.py process
 ```
 
-- 标记 `japan_tv_youtube_channels.json` 中频道的 cached 状态
+- 标记 `all_channels.json` 中频道的 cached 状态
 
 ```bash
 python backend/runner.py mark

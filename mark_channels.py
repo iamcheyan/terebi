@@ -17,7 +17,7 @@ def safe_filename(name):
 def mark_cached_status():
     """标记频道配置中的缓存状态"""
     PROJECT_ROOT = Path(__file__).resolve().parent
-    CHANNELS_FILE = PROJECT_ROOT / "japan_tv_youtube_channels.json"
+    CHANNELS_FILE = PROJECT_ROOT / "all_channels.json"
     DATA_DIR = PROJECT_ROOT / "data"
     
     # 读取频道配置文件

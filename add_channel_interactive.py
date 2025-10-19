@@ -22,7 +22,7 @@ from typing import List, Optional, Tuple
 
 # 项目根目录
 PROJECT_ROOT = Path(__file__).parent
-CONFIG_FILE = PROJECT_ROOT / "japan_tv_youtube_channels.json"
+CONFIG_FILE = PROJECT_ROOT / "all_channels.json"
 DATA_DIR = PROJECT_ROOT / "data"
 IMG_DIR = PROJECT_ROOT / "img"
 IMG_RESIZED_DIR = IMG_DIR / "resized"
@@ -135,9 +135,41 @@ def check_channel_exists(url: str) -> bool:
     return False
 
 
+def generate_bakname(url: str, name: str) -> str:
+    """生成频道的bakname"""
+    # 优先从URL提取handle
+    handle_or_id = extract_handle_or_id(url)
+    if handle_or_id and not handle_or_id.startswith("UC"):
+        # 如果是handle（不是channel ID），直接使用
+        return handle_or_id
+    
+    # 如果是channel ID，尝试从URL提取其他标识符
+    if "/@" in url:
+        handle = url.split("/@")[-1].split("?")[0].split("/")[0]
+        if handle:
+            return handle
+    
+    # 如果URL中有/c/路径，提取频道名
+    if "/c/" in url:
+        channel_name = url.split("/c/")[-1].split("?")[0].split("/")[0]
+        if channel_name:
+            return channel_name
+    
+    # 最后使用清理后的频道名称
+    import re
+    safe_name = re.sub(r'[^\w\-]', '_', name)
+    safe_name = re.sub(r'_+', '_', safe_name).strip('_')
+    if not safe_name:
+        safe_name = "channel"
+    return safe_name
+
+
 def upsert_channel(url: str, name: str, category: str, subcategory: str) -> bool:
     """添加或更新频道到配置"""
     config = load_config()
+    
+    # 生成bakname
+    bakname = generate_bakname(url, name)
     
     # 查找现有频道
     for cat_data in config.values():
@@ -152,11 +184,11 @@ def upsert_channel(url: str, name: str, category: str, subcategory: str) -> bool
                     subcat_data[i] = {
                         "name": name,
                         "url": url,
-                        "bakname": "",
+                        "bakname": bakname,
                         "cached": False,
                         "skip": False
                     }
-                    print(f"✅ 已更新频道: {name}")
+                    print(f"✅ 已更新频道: {name} (bakname: {bakname})")
                     return save_config(config)
     
     # 添加新频道
@@ -168,13 +200,13 @@ def upsert_channel(url: str, name: str, category: str, subcategory: str) -> bool
     new_channel = {
         "name": name,
         "url": url,
-        "bakname": "",
+        "bakname": bakname,
         "cached": False,
         "skip": False
     }
     
     config[category][subcategory].append(new_channel)
-    print(f"✅ 已添加频道: {name}")
+    print(f"✅ 已添加频道: {name} (bakname: {bakname})")
     return save_config(config)
 
 
@@ -532,15 +564,14 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str,
     print(f"URL: {url}")
     print(f"分类/子分类: {category} / {subcategory}")
 
+    # 生成bakname
+    bakname = generate_bakname(url, name)
+    
     # 检查频道是否已存在
     if check_channel_exists(url):
         print(f"⏭️ 频道已存在，但需要检查数据文件")
-        # 检查数据文件是否存在（优先使用bakname，否则使用安全的文件名）
-        # 这里需要从配置中获取bakname，暂时使用name生成安全文件名
-        safe_name = "".join(c for c in name if c.isalnum() or c in (' ', '-', '_', '.')).rstrip()
-        if not safe_name:
-            safe_name = "channel"
-        data_path = DATA_DIR / f"{safe_name}.json"
+        # 使用生成的bakname检查数据文件
+        data_path = DATA_DIR / f"{bakname}.json"
         if data_path.exists():
             # 检查数据文件是否包含视频数据
             try:
@@ -588,7 +619,7 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str,
                         content = resp2.read()
                     IMG_DIR.mkdir(parents=True, exist_ok=True)
                     IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
-                    raw_path = IMG_DIR / f"{name}.jpg"
+                    raw_path = IMG_DIR / f"{bakname}.jpg"
                     with open(raw_path, "wb") as f:
                         f.write(content)
                     with Image.open(BytesIO(content)) as im:
@@ -600,7 +631,7 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str,
                         left = (new_w - size) // 2
                         top = (new_h - size) // 2
                         im = im.crop((left, top, left + size, top + size))
-                        im.save(IMG_RESIZED_DIR / f"{name}.jpg", format="JPEG", quality=88, optimize=True)
+                        im.save(IMG_RESIZED_DIR / f"{bakname}.jpg", format="JPEG", quality=88, optimize=True)
                 except Exception:
                     pass
         except Exception:
@@ -615,7 +646,7 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str,
         # 占位头像
         try:
             placeholder = IMG_RESIZED_DIR / "placeholder.jpg"
-            target_logo = IMG_RESIZED_DIR / f"{name}.jpg"
+            target_logo = IMG_RESIZED_DIR / f"{bakname}.jpg"
             IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
             if placeholder.exists() and not target_logo.exists():
                 import shutil
@@ -647,7 +678,7 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str,
         # 占位头像
         try:
             placeholder = IMG_RESIZED_DIR / "placeholder.jpg"
-            target_logo = IMG_RESIZED_DIR / f"{name}.jpg"
+            target_logo = IMG_RESIZED_DIR / f"{bakname}.jpg"
             IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
             if placeholder.exists() and not target_logo.exists():
                 import shutil
@@ -660,7 +691,7 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str,
     out_path = save_data_file(name=name, channel_id=ch_id, channel_title=ch_title or name, videos=videos, bakname=bakname)
 
     # 下载并生成头像缩略图（不中断主流程）
-    raw_img, resized_img = download_channel_avatar(channel_id=ch_id, api_key=api_key, save_name=name)
+    raw_img, resized_img = download_channel_avatar(channel_id=ch_id, api_key=api_key, save_name=bakname)
 
     print(f"✅ 抓取完成：{len(videos)} 条视频 → {out_path}")
     if raw_img:

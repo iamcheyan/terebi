@@ -273,7 +273,7 @@ if __name__ == "__main__":
         with open('all_channels.json', 'w', encoding='utf-8') as f:
             json.dump(channels_data, f, ensure_ascii=False, indent=4)
             
-        # print("已更新japan_tv_youtube_channels.json中的状态")
+        # print("已更新all_channels.json中的状态")
         
     except Exception as e:
         print(f"更新状态时出错: {e}")

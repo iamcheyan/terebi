@@ -16,7 +16,7 @@ from typing import List, Dict, Optional
 # 配置
 DATA_DIR = Path("data")
 CHANNELS_FILE = DATA_DIR / "youtube_channels.json"
-JAPAN_CHANNELS_FILE = Path("japan_tv_youtube_channels.json")
+JAPAN_CHANNELS_FILE = Path("all_channels.json")
 
 def load_channels_from_file(file_path: Path) -> Dict:
     """加载频道配置文件"""
