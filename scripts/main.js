@@ -1,3 +1,21 @@
+// 全局错误处理 - 捕获跨域安全错误
+window.addEventListener('error', function(event) {
+    if (event.message && event.message.includes('SecurityError') && event.message.includes('$dialog')) {
+        console.warn('检测到跨域安全错误，这通常由浏览器扩展引起，已忽略:', event.message);
+        event.preventDefault();
+        event.stopPropagation();
+        return false;
+    }
+});
+
+// 捕获未处理的Promise拒绝
+window.addEventListener('unhandledrejection', function(event) {
+    if (event.reason && event.reason.message && event.reason.message.includes('SecurityError')) {
+        console.warn('捕获到未处理的跨域安全错误:', event.reason);
+        event.preventDefault();
+    }
+});
+
 // 简单的通知功能
 function showNotification(message, type = 'info') {
     console.log(`[${type.toUpperCase()}] ${message}`);
@@ -532,37 +550,28 @@ async function fetchChannelList(autoSelectRandom = false) {
         const urlParams = new URLSearchParams(window.location.search);
         const showTvStations = urlParams.get('tv') === '1';
         
+        // 加载合并后的数据
+        const response = await fetch('all_channels.json');
+        if (!response.ok) {
+            throw new Error('无法获取频道列表: ' + response.status);
+        }
+        const allChannelsData = await response.json();
+        
         let channelData = {};
         
         if (showTvStations) {
-            // 加载电视台数据
-            const tvResponse = await fetch('data/tv_stations.json');
-            if (!tvResponse.ok) {
-                throw new Error('无法获取电视台数据: ' + tvResponse.status);
-            }
-            const tvData = await tvResponse.json();
-            
-            // 加载普通YouTube频道数据
-            const youtubeResponse = await fetch('data/youtube_channels.json');
-            if (!youtubeResponse.ok) {
-                throw new Error('无法获取YouTube频道数据: ' + youtubeResponse.status);
-            }
-            const youtubeData = await youtubeResponse.json();
-            
-            // 合并数据
-            channelData = {
-                ...tvData,
-                ...youtubeData
-            };
-            
+            // 显示所有频道（电视台 + YouTube）
+            channelData = allChannelsData;
             document.title = 'Terebi - 全チャンネル';
         } else {
-            // 只加载普通YouTube频道数据
-            const response = await fetch('data/youtube_channels.json');
-            if (!response.ok) {
-                throw new Error('无法获取频道列表: ' + response.status);
+            // 只显示YouTube频道
+            channelData = {};
+            for (const [category, channels] of Object.entries(allChannelsData)) {
+                if (category === "全国放送局" || category === "地方放送局") {
+                    continue; // 跳过电视台频道
+                }
+                channelData[category] = channels;
             }
-            channelData = await response.json();
             document.title = 'Terebi - YouTubeチャンネル';
         }
         console.log('原始JSON数据:', channelData);
@@ -793,106 +802,18 @@ function createChannelButton(channel) {
     avatarContainer.className = 'channel-avatar';
     avatarContainer.style.display = 'flex'; // 确保初始状态为显示
     
-    // 创建头像图片
+    // 创建头像图片 - 只使用bakname
     const avatarImg = document.createElement('img');
-    avatarImg.src = `img/resized/${encodeURIComponent(channel.name)}.jpg`;
-    avatarImg.onerror = async function() {
-        // 当使用name加载失败时，优先尝试bakname
-        if (channel.bakname && channel.bakname.trim() !== "") {
-            this.src = `img/resized/${encodeURIComponent(channel.bakname)}.jpg`;
-        } else {
-            // 其次：从URL中提取稳定标识（handle/UC.../user/c）作为文件名
-            try {
-                const url = channel.url || "";
-                let key = null;
-                // @handle
-                let m = url.match(/youtube\.com\/@([^/?#]+)/);
-                if (m) key = decodeURIComponent(m[1]);
-                // channel/UC...
-                if (!key) {
-                    m = url.match(/youtube\.com\/channel\/(UC[\w-]{20,})/);
-                    if (m) key = m[1];
-                }
-                // user/xxx
-                if (!key) {
-                    m = url.match(/youtube\.com\/user\/([^/?#]+)/);
-                    if (m) key = m[1];
-                }
-                // c/xxx
-                if (!key) {
-                    m = url.match(/youtube\.com\/c\/([^/?#]+)/);
-                    if (m) key = m[1];
-                }
-                if (key) {
-                    this.src = `img/resized/${encodeURIComponent(key)}.jpg`;
-                    return;
-                }
-            } catch (_) {}
-
-            // 如果没有bakname或bakname也加载失败，尝试从频道列表中查找bakname
-            try {
-                // 检查URL参数，决定加载哪个数据源
-                const urlParams = new URLSearchParams(window.location.search);
-                const showTvStations = urlParams.get('tv') === '1';
-                
-                let channelsData;
-                if (showTvStations) {
-                    // 加载电视台数据
-                    const tvResponse = await fetch('data/tv_stations.json');
-                    const tvData = await tvResponse.json();
-                    
-                    // 加载普通YouTube频道数据
-                    const youtubeResponse = await fetch('data/youtube_channels.json');
-                    const youtubeData = await youtubeResponse.json();
-                    
-                    // 合并数据
-                    channelsData = {
-                        ...tvData,
-                        ...youtubeData
-                    };
-                } else {
-                    const response = await fetch('data/youtube_channels.json');
-                    channelsData = await response.json();
-                }
-                
-                // 查找对应的频道信息
-                let foundChannel = null;
-                // 遍历所有地区
-                for (const region in channelsData) {
-                    const content = channelsData[region];
-                    if (Array.isArray(content)) {
-                        // 扁平结构：直接处理频道数组
-                        const found = content.find(ch => 
-                            ch.url === channel.url || 
-                            ch.name === channel.name
-                        );
-                        if (found && found.bakname && found.bakname.trim() !== "") {
-                            this.src = `img/resized/${encodeURIComponent(found.bakname)}.jpg`;
-                            return;
-                        }
-                    } else {
-                        // 嵌套结构：处理子分类
-                        for (const category in content) {
-                            const channels = content[category];
-                            if (!Array.isArray(channels)) continue;
-                            const found = channels.find(ch => 
-                                ch.url === channel.url || 
-                                ch.name === channel.name
-                            );
-                            if (found && found.bakname && found.bakname.trim() !== "") {
-                                this.src = `img/resized/${encodeURIComponent(found.bakname)}.jpg`;
-                                return;
-                            }
-                        }
-                    }
-                }
-            } catch (error) {
-                console.error('获取频道列表失败:', error);
-            }
-            
-            // 如果所有尝试都失败，使用默认图片
-            this.src = 'img/resized/placeholder.jpg';
-        }
+    // 优先使用bakname
+    if (channel.bakname && channel.bakname.trim() !== "") {
+        avatarImg.src = `img/resized/${encodeURIComponent(channel.bakname)}.jpg`;
+    } else {
+        // 如果没有bakname，使用默认图片
+        avatarImg.src = 'img/resized/placeholder.jpg';
+    }
+    avatarImg.onerror = function() {
+        // 如果bakname加载失败，直接使用默认图片
+        this.src = 'img/resized/placeholder.jpg';
     };
     avatarImg.alt = channel.name;
     avatarContainer.appendChild(avatarImg);
@@ -1031,40 +952,33 @@ async function getChannelUploads(channelId, channelName) {
         // console.log('调试信息 - 频道ID:', channelId);
         // console.log('调试信息 - 频道名称:', channelName);
 
-        // 首先尝试使用频道名称构建URL
+        // 只使用bakname构建URL
         if (channelName) {
-            // 构建候选文件名（优先顺序）
             const candidates = [];
-            // 1) 完整显示名
-            candidates.push(channelName);
-            // 2) 去除全角括号后缀（如：めざましテレビチャンネル（フジテレビ） → めざましテレビチャンネル）
-            const baseName = channelName.replace(/（[^）]*）$/, '').trim();
-            if (baseName && baseName !== channelName) candidates.push(baseName);
-
-            // 3) 从配置中取 bakname 与 handle
+            
+            // 从配置中获取bakname
             try {
                 // 检查URL参数，决定加载哪个数据源
                 const urlParams = new URLSearchParams(window.location.search);
                 const showTvStations = urlParams.get('tv') === '1';
                 
+                // 加载合并后的数据
+                const response = await fetch('all_channels.json');
+                const allChannelsData = await response.json();
+                
                 let channelsData;
                 if (showTvStations) {
-                    // 加载电视台数据
-                    const tvResponse = await fetch('data/tv_stations.json');
-                    const tvData = await tvResponse.json();
-                    
-                    // 加载普通YouTube频道数据
-                    const youtubeResponse = await fetch('data/youtube_channels.json');
-                    const youtubeData = await youtubeResponse.json();
-                    
-                    // 合并数据
-                    channelsData = {
-                        ...tvData,
-                        ...youtubeData
-                    };
+                    // 显示所有频道（电视台 + YouTube）
+                    channelsData = allChannelsData;
                 } else {
-                    const response = await fetch('data/youtube_channels.json');
-                    channelsData = await response.json();
+                    // 只显示YouTube频道
+                    channelsData = {};
+                    for (const [category, channels] of Object.entries(allChannelsData)) {
+                        if (category === "全国放送局" || category === "地方放送局") {
+                            continue; // 跳过电视台频道
+                        }
+                        channelsData[category] = channels;
+                    }
                 }
                 let foundChannel = null;
                 
@@ -1075,7 +989,7 @@ async function getChannelUploads(channelId, channelName) {
                         // 扁平结构：直接处理频道数组
                         const found = content.find(channel => 
                             (channel.url && channelId && channel.url.includes(channelId)) || 
-                            channel.name === channelName || channel.name === baseName
+                            channel.name === channelName
                         );
                         if (found) { foundChannel = found; break; }
                     } else {
@@ -1085,25 +999,19 @@ async function getChannelUploads(channelId, channelName) {
                             if (!Array.isArray(channels)) continue;
                             const found = channels.find(channel => 
                                 (channel.url && channelId && channel.url.includes(channelId)) || 
-                                channel.name === channelName || channel.name === baseName
+                                channel.name === channelName
                             );
                             if (found) { foundChannel = found; break; }
                         }
                         if (foundChannel) break;
                     }
                 }
-                if (foundChannel) {
-                    if (foundChannel.bakname && foundChannel.bakname.trim() !== '') {
-                        candidates.push(foundChannel.bakname.trim());
-                    }
-                    // 从URL提取 @handle
-                    if (foundChannel.url && foundChannel.url.includes('/@')) {
-                        const handle = decodeURIComponent(foundChannel.url.split('/@').pop().split(/[/?#]/)[0]);
-                        if (handle) candidates.push(handle);
-                    }
+                if (foundChannel && foundChannel.bakname && foundChannel.bakname.trim() !== '') {
+                    candidates.push(foundChannel.bakname.trim());
                 }
             } catch (e) {
-                // 忽略配置加载失败，继续使用已有候选
+                // 忽略配置加载失败
+                console.warn('无法加载频道配置:', e);
             }
 
             // 依次尝试加载候选 JSON
@@ -1448,27 +1356,39 @@ function playVideo(videoId) {
     playerReady = false;
     pendingVideoId = null;
 
-    // 初始化播放器
-    player = new YT.Player('player', {
-        height: '100%',
-        width: '100%',
-        ...playerConfig,
-        events: {
-            'onReady': onPlayerReady,
-            'onStateChange': onPlayerStateChange,
-            'onError': onPlayerError,
-            'onApiChange': function(event) {
-                // 当字幕API准备就绪时
-                if (player.getOptions().indexOf('captions') !== -1) {
-                    // 启用字幕
-                    player.loadModule('captions');
-                    player.setOption('captions', 'track', {'languageCode': 'ja'});
-                    player.setOption('captions', 'reload', true);
-                    player.setOption('captions', 'fontSize', 2);
+    // 初始化播放器 - 添加错误处理
+    try {
+        player = new YT.Player('player', {
+            height: '100%',
+            width: '100%',
+            ...playerConfig,
+            events: {
+                'onReady': onPlayerReady,
+                'onStateChange': onPlayerStateChange,
+                'onError': onPlayerError,
+                'onApiChange': function(event) {
+                    try {
+                        // 当字幕API准备就绪时
+                        if (player && player.getOptions && player.getOptions().indexOf('captions') !== -1) {
+                            // 启用字幕
+                            player.loadModule('captions');
+                            player.setOption('captions', 'track', {'languageCode': 'ja'});
+                            player.setOption('captions', 'reload', true);
+                            player.setOption('captions', 'fontSize', 2);
+                        }
+                    } catch (captionError) {
+                        console.warn('字幕设置失败:', captionError);
+                    }
                 }
             }
+        });
+    } catch (playerError) {
+        console.error('播放器初始化失败:', playerError);
+        // 尝试使用安全的播放器初始化
+        if (typeof window.safePlayerInit === 'function') {
+            player = window.safePlayerInit(videoId, 'player');
         }
-    });
+    }
 }
 
 // 播放器准备就绪
@@ -2316,33 +2236,26 @@ async function loadChannelStats() {
         const urlParams = new URLSearchParams(window.location.search);
         const showTvStations = urlParams.get('tv') === '1';
         
+        // 加载合并后的数据
+        const response = await fetch('all_channels.json');
+        if (!response.ok) {
+            throw new Error('チャンネル一覧を取得できません: ' + response.status);
+        }
+        const allChannelsData = await response.json();
+        
         let channelData;
         if (showTvStations) {
-            // 加载电视台数据
-            const tvResponse = await fetch('data/tv_stations.json');
-            if (!tvResponse.ok) {
-                throw new Error('テレビ局データを取得できません: ' + tvResponse.status);
-            }
-            const tvData = await tvResponse.json();
-            
-            // 加载普通YouTube频道数据
-            const youtubeResponse = await fetch('data/youtube_channels.json');
-            if (!youtubeResponse.ok) {
-                throw new Error('YouTubeチャンネルデータを取得できません: ' + youtubeResponse.status);
-            }
-            const youtubeData = await youtubeResponse.json();
-            
-            // 合并数据
-            channelData = {
-                ...tvData,
-                ...youtubeData
-            };
+            // 显示所有频道（电视台 + YouTube）
+            channelData = allChannelsData;
         } else {
-            const response = await fetch('data/youtube_channels.json');
-            if (!response.ok) {
-                throw new Error('チャンネル一覧を取得できません: ' + response.status);
+            // 只显示YouTube频道
+            channelData = {};
+            for (const [category, channels] of Object.entries(allChannelsData)) {
+                if (category === "全国放送局" || category === "地方放送局") {
+                    continue; // 跳过电视台频道
+                }
+                channelData[category] = channels;
             }
-            channelData = await response.json();
         }
         console.log('チャンネルリストデータ:', channelData);
         
@@ -2384,45 +2297,31 @@ async function loadChannelStats() {
         
         console.log(`チャンネルを ${allChannels.length} 件見つけました`);
         
-        // 为每个频道尝试加载视频数据
+        // 为每个频道尝试加载视频数据 - 只使用bakname
         const channelPromises = allChannels.map(async (channel) => {
             try {
-                // 尝试加载频道的视频数据
-                const primaryName = channel.name;
-                const channelResponse = await fetch(`data/${encodeURIComponent(primaryName)}.json`);
-                if (channelResponse.ok) {
-                    const channelData = await channelResponse.json();
-                    return {
-                        channelName: channel.name,
-                        videoCount: channelData.videos ? channelData.videos.length : 0,
-                        updatedAt: channelData.updated_at,
-                        region: channel.group,
-                        category: channel.category
-                    };
-                } else {
-                    const fallbackName = channel.bakname;
-                    if (fallbackName) {
-                        const bakResponse = await fetch(`data/${encodeURIComponent(fallbackName)}.json`);
-                        if (bakResponse.ok) {
-                            const channelData = await bakResponse.json();
-                            return {
-                                channelName: channel.name,
-                                videoCount: channelData.videos ? channelData.videos.length : 0,
-                                updatedAt: channelData.updated_at,
-                                region: channel.group,
-                                category: channel.category
-                            };
-                        }
+                // 只使用bakname加载数据
+                if (channel.bakname && channel.bakname.trim() !== "") {
+                    const bakResponse = await fetch(`data/${encodeURIComponent(channel.bakname)}.json`);
+                    if (bakResponse.ok) {
+                        const channelData = await bakResponse.json();
+                        return {
+                            channelName: channel.name,
+                            videoCount: channelData.videos ? channelData.videos.length : 0,
+                            updatedAt: channelData.updated_at,
+                            region: channel.group,
+                            category: channel.category
+                        };
                     }
-                    
-                    return {
-                        channelName: channel.name,
-                        videoCount: 0,
-                        updatedAt: null,
-                        region: channel.group,
-                        category: channel.category
-                    };
                 }
+                
+                return {
+                    channelName: channel.name,
+                    videoCount: 0,
+                    updatedAt: null,
+                    region: channel.group,
+                    category: channel.category
+                };
             } catch (error) {
                 console.error(`チャンネル ${channel.name} のデータ読み込みに失敗:`, error);
                 return {
@@ -3556,31 +3455,26 @@ async function searchTvPrograms(query) {
         const urlParams = new URLSearchParams(window.location.search);
         const showTvStations = urlParams.get('tv') === '1';
         
+        // 加载合并后的数据
+        const response = await fetch('all_channels.json');
+        if (!response.ok) throw new Error('チャンネルデータを取得できません');
+        const allChannelsData = await response.json();
+        
         let channelsData;
         if (showTvStations) {
-            // 加载电视台数据
-            const tvResp = await fetch('data/tv_stations.json');
-            if (!tvResp.ok) throw new Error('テレビ局データを取得できません');
-            const tvData = await tvResp.json();
-            
-            // 加载普通YouTube频道数据
-            const youtubeResp = await fetch('data/youtube_channels.json');
-            if (!youtubeResp.ok) throw new Error('YouTubeチャンネルデータを取得できません');
-            const youtubeData = await youtubeResp.json();
-            
-            // 合并数据
-            channelsData = {
-                ...tvData,
-                ...youtubeData
-            };
-            
+            // 显示所有频道（电视台 + YouTube）
+            channelsData = allChannelsData;
             console.log('加载合并数据（电视台+YouTube频道）');
             document.title = 'Terebi - 全チャンネル';
         } else {
-            // 默认加载普通油管频道数据
-            const resp = await fetch('data/youtube_channels.json');
-            if (!resp.ok) throw new Error('YouTubeチャンネルデータを取得できません');
-            channelsData = await resp.json();
+            // 只显示YouTube频道
+            channelsData = {};
+            for (const [category, channels] of Object.entries(allChannelsData)) {
+                if (category === "全国放送局" || category === "地方放送局") {
+                    continue; // 跳过电视台频道
+                }
+                channelsData[category] = channels;
+            }
             console.log('加载普通油管频道数据');
             document.title = 'Terebi - YouTubeチャンネル';
         }
@@ -3599,25 +3493,14 @@ async function searchTvPrograms(query) {
             }
         }
 
-        // 工具：根据频道构造候选文件名
+        // 工具：根据频道构造候选文件名 - 只使用bakname
         const buildCandidates = (channel) => {
             const candidates = [];
-            if (channel && channel.name) {
-                candidates.push(channel.name);
-                // 修复正则表达式，使用正确的括号
-                const baseName = channel.name.replace(/（[^）]*）$/, '').trim();
-                if (baseName && baseName !== channel.name) candidates.push(baseName);
-            }
             if (channel && channel.bakname) {
                 const b = String(channel.bakname).trim();
                 if (b) candidates.push(b);
             }
-            if (channel && channel.url && channel.url.includes('/@')) {
-                const handle = decodeURIComponent(channel.url.split('/@').pop().split(/[/?#]/)[0]);
-                if (handle) candidates.push(handle);
-            }
-            // 去重保持顺序
-            return [...new Set(candidates)];
+            return candidates;
         };
 
         // 工具：尝试加载某频道的JSON
@@ -4094,3 +3977,4 @@ function autoSyncData() {
 
 // 使自动同步函数全局可用
 window.autoSyncData = autoSyncData;
+console.log('当前时间:', new Date().toISOString());
