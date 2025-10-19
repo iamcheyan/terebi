@@ -13,21 +13,65 @@
 
 ## ファイル構成
 
-- `index.jsp`: Webアプリケーションのメインページ。チャンネルリストの表示と動画の再生を行います。
-- `get_channel_videos.py`: YouTube APIを使用してチャンネル情報と動画リストを取得し、JSONファイルに保存します。
-- `japan_tv_youtube_channels.json`: 全国および地方の放送局のYouTubeチャンネル情報を含むJSONファイル。
+### 核心文件
+
+#### HTML文件：
+- ✅ `index.html` - 主页面
+- ✅ `about.html` - 关于页面
+
+#### Python脚本：
+- ✅ `app.py` - 主应用
+- ✅ `update.py` - 更新脚本
+- ✅ `scheduler.py` - 调度器
+- ✅ `add_channel.py` - 添加频道
+- ✅ `add_channel_interactive.py` - 交互式添加频道
+- ✅ `mark_channels.py` - 标记频道
+- ✅ `unify_bakname_english.py` - 统一bakname
+- ✅ `rss_bulk_fetch.py` - RSS批量获取
+
+#### 数据文件：
+- ✅ `all_channels.json` - 合并后的统一频道数据
+- ✅ `manifest.json` - 应用清单
+- ✅ `fix_cross_origin_error.js` - 跨域错误修复
+
+### 目录结构
+
+- `data/` - 频道数据JSON文件存储目录
+- `img/` - 频道头像和缩略图存储目录
+- `scripts/` - JavaScript脚本文件
+- `tools/` - 工具脚本目录
+- `backend/` - 后端服务文件
+- `venv/` - Python虚拟环境
 
 ## 使用方法
 
-1. `get_channel_videos.py` を実行して、チャンネル情報と動画リストを取得します。
+### 基本使用
+
+1. **启动Web服务器**：
    ```bash
-   python get_channel_videos.py
+   # 使用Python内置服务器
+   python -m http.server 8005
+   
+   # 或使用其他Web服务器
    ```
-   - `--only-uncached` オプションを使用すると、未キャッシュのチャンネルのみを処理します。
 
-2. Webサーバーを起動し、ブラウザで `index.jsp` を開きます。
+2. **访问应用**：
+   - 打开浏览器访问 `http://localhost:8005`
+   - 主页面：`index.html`
+   - 关于页面：`about.html`
 
-3. チャンネルリストが表示され、ランダムに選択されたチャンネルの動画が再生されます。
+3. **频道管理**：
+   - 使用 `add_channel_interactive.py` 添加新频道
+   - 使用 `update.py` 更新频道数据
+   - 使用 `mark_channels.py` 标记频道状态
+
+### 数据管理
+
+- **统一数据源**：所有频道数据现在统一存储在 `all_channels.json` 中
+- **频道分类**：通过 `type` 字段区分电视台 (`tv`) 和YouTube频道 (`youtube`)
+- **URL参数控制**：
+  - `?tv=1` - 显示所有频道（电视台 + YouTube）
+  - 无参数 - 只显示YouTube频道
 
 ## 一発追加（追加→抓取→头像→缩略图）
 

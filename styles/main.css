@@ -3259,3 +3259,63 @@ body.theme-light .user-menu-item.logout:hover {
     background: rgba(244, 67, 54, 0.08);
     color: #d32f2f;
 }
+
+/* === 问题频道样式 === */
+.problem-indicator {
+    color: #ff6b6b !important;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-left: 4px;
+}
+
+.channel-item.problematic {
+    border-left: 3px solid #ff6b6b;
+    background: rgba(255, 107, 107, 0.05);
+}
+
+.channel-item.problematic:hover {
+    background: rgba(255, 107, 107, 0.1);
+}
+
+/* 问题频道模式下的特殊样式 */
+body.problem-mode .channel-item {
+    border: 1px solid #ff6b6b;
+    margin-bottom: 8px;
+}
+
+body.problem-mode .channel-item:hover {
+    background: rgba(255, 107, 107, 0.1);
+    border-color: #ff5252;
+}
+
+body.problem-mode .channel-name {
+    color: #ff6b6b;
+    font-weight: bold;
+}
+
+/* 问题统计信息 */
+.problem-stats {
+    background: rgba(255, 107, 107, 0.1);
+    border: 1px solid #ff6b6b;
+    border-radius: 8px;
+    padding: 12px;
+    margin: 16px 0;
+    color: #ff6b6b;
+    font-weight: bold;
+}
+
+.problem-stats h3 {
+    margin: 0 0 8px 0;
+    color: #ff6b6b;
+}
+
+.problem-stats .stats-item {
+    display: flex;
+    justify-content: space-between;
+    margin: 4px 0;
+}
+
+.problem-stats .stats-item .count {
+    font-weight: bold;
+    color: #ff5252;
+}

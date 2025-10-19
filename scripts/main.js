@@ -549,6 +549,7 @@ async function fetchChannelList(autoSelectRandom = false) {
         // 检查URL参数，决定加载哪个数据源
         const urlParams = new URLSearchParams(window.location.search);
         const showTvStations = urlParams.get('tv') === '1';
+        const showProblematic = urlParams.get('problems') === '1';
         
         // 加载合并后的数据
         const response = await fetch('all_channels.json');
@@ -604,6 +605,12 @@ async function fetchChannelList(autoSelectRandom = false) {
                 });
             }
         });
+        
+        // 如果启用了问题频道筛选，只显示有问题的频道
+        if (showProblematic) {
+            allChannels = await filterProblematicChannels(allChannels);
+            document.title = 'Terebi - 問題チャンネル';
+        }
         
         statusElement.textContent = 'チャンネルリストの読み込みが完了しました。チャンネルを選択してください';
         channelSelector.style.display = 'block';
@@ -713,6 +720,35 @@ async function fetchChannelList(autoSelectRandom = false) {
 // 显示频道选择器
 function displayChannelSelector(channelData) {
     channelCategories.innerHTML = '';
+    
+    // 检查是否是问题频道模式
+    const urlParams = new URLSearchParams(window.location.search);
+    const showProblematic = urlParams.get('problems') === '1';
+    
+    if (showProblematic) {
+        // 添加问题模式样式
+        document.body.classList.add('problem-mode');
+        
+        // 添加问题统计信息
+        const problemStats = document.createElement('div');
+        problemStats.className = 'problem-stats';
+        problemStats.innerHTML = `
+            <h3>⚠️ 问题频道检测</h3>
+            <div class="stats-item">
+                <span>总问题频道数:</span>
+                <span class="count" id="totalProblems">计算中...</span>
+            </div>
+            <div class="stats-item">
+                <span>缺少JSON文件:</span>
+                <span class="count" id="missingJson">计算中...</span>
+            </div>
+            <div class="stats-item">
+                <span>缺少头像图片:</span>
+                <span class="count" id="missingImg">计算中...</span>
+            </div>
+        `;
+        channelCategories.appendChild(problemStats);
+    }
     
     // 确保已有的搜索框可见
     const existingSearchInput = document.getElementById('channelSearch');
@@ -828,6 +864,17 @@ function createChannelButton(channel) {
     channelName.textContent = channel.name;
     // 保存原始文本，用于搜索高亮后恢复
     channelName.setAttribute('data-original-text', channel.name);
+    
+    // 如果是问题频道，添加问题标识
+    if (channel.issues && channel.issues.length > 0) {
+        const problemIndicator = document.createElement('span');
+        problemIndicator.className = 'problem-indicator';
+        problemIndicator.textContent = ` ⚠️ (${channel.issueCount}个问题)`;
+        problemIndicator.style.color = '#ff6b6b';
+        problemIndicator.style.fontSize = '0.8em';
+        problemIndicator.title = channel.issues.join(', ');
+        channelName.appendChild(problemIndicator);
+    }
     
     // 组装DOM结构
     channelInfo.appendChild(channelName);
@@ -3978,3 +4025,89 @@ function autoSyncData() {
 // 使自动同步函数全局可用
 window.autoSyncData = autoSyncData;
 console.log('当前时间:', new Date().toISOString());
+
+// === 问题频道筛选功能 ===
+async function filterProblematicChannels(channels) {
+    console.log('🔍 开始筛选问题频道...');
+    const problematicChannels = [];
+    
+    for (const channel of channels) {
+        const issues = [];
+        
+        // 检查是否有JSON数据文件
+        try {
+            const jsonResponse = await fetch(`data/${encodeURIComponent(channel.bakname)}.json`);
+            if (!jsonResponse.ok) {
+                issues.push('缺少JSON数据文件');
+            } else {
+                const jsonData = await jsonResponse.json();
+                if (!jsonData.videos || jsonData.videos.length === 0) {
+                    issues.push('JSON文件为空或无效');
+                }
+            }
+        } catch (error) {
+            issues.push('JSON文件加载失败');
+        }
+        
+        // 检查是否有头像图片
+        try {
+            const imgResponse = await fetch(`img/resized/${encodeURIComponent(channel.bakname)}.jpg`);
+            if (!imgResponse.ok) {
+                issues.push('缺少头像图片');
+            }
+        } catch (error) {
+            issues.push('头像图片加载失败');
+        }
+        
+        // 检查是否是占位符数据
+        if (channel.bakname.includes('channel_') && channel.bakname.length > 20) {
+            issues.push('使用默认channel ID');
+        }
+        
+        // 检查频道名称是否包含特殊字符
+        if (channel.name.includes('_') || channel.name.includes('channel_')) {
+            issues.push('频道名称异常');
+        }
+        
+        // 如果有任何问题，添加到问题频道列表
+        if (issues.length > 0) {
+            problematicChannels.push({
+                ...channel,
+                issues: issues,
+                issueCount: issues.length
+            });
+        }
+    }
+    
+    console.log(`🔍 找到 ${problematicChannels.length} 个问题频道`);
+    
+    // 更新统计信息
+    updateProblemStats(problematicChannels);
+    
+    return problematicChannels;
+}
+
+// 更新问题统计信息
+function updateProblemStats(problematicChannels) {
+    const totalProblems = document.getElementById('totalProblems');
+    const missingJson = document.getElementById('missingJson');
+    const missingImg = document.getElementById('missingImg');
+    
+    if (totalProblems) {
+        totalProblems.textContent = problematicChannels.length;
+    }
+    
+    if (missingJson) {
+        const jsonIssues = problematicChannels.filter(ch => 
+            ch.issues.some(issue => issue.includes('JSON'))
+        ).length;
+        missingJson.textContent = jsonIssues;
+    }
+    
+    if (missingImg) {
+        const imgIssues = problematicChannels.filter(ch => 
+            ch.issues.some(issue => issue.includes('头像') || issue.includes('图片'))
+        ).length;
+        missingImg.textContent = imgIssues;
+    }
+}
