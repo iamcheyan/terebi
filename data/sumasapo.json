@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMXjwK6-rRw-la5SN5j0M6g",
   "channel_name": "スマサポチャンネル",
-  "updated_at": "2025-10-16T15:51:08.482319+00:00",
+  "updated_at": "2025-10-20T01:58:22.481720",
   "videos": [
+    {
+      "id": "8TA32wjWxwM",
+      "title": "【実機レビュー】万人向け! ソニーのXperia 10 VIIを使ってみた",
+      "description": "",
+      "publishedAt": "2025-10-18T10:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8TA32wjWxwM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8TA32wjWxwM"
+    },
     {
       "id": "497etrNbxJs",
       "title": "【実機レビュー】多機能ポータブルプロジェクターが凄かった件（Aladdin Poca）",

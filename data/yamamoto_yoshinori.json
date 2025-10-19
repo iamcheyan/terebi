@@ -1,9 +1,116 @@
 {
   "channel_id": "UC2ehDQSoVnrX95dHxLr0x8Q",
-  "channel_name": "Yamamoto Yoshinori - Topic",
-  "original_name": "山本義徳 筋トレ大学",
-  "updated_at": "2025-10-20T01:12:58.958793",
+  "channel_name": "山本義徳 筋トレ大学",
+  "updated_at": "2025-10-20T01:58:28.194482",
   "videos": [
+    {
+      "id": "7ea47bq1RT4",
+      "title": "404",
+      "description": "",
+      "publishedAt": "2020-03-22T10:28:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7ea47bq1RT4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7ea47bq1RT4"
+    },
+    {
+      "id": "ULFxCcwqMYA",
+      "title": "ペテルギウス",
+      "description": "",
+      "publishedAt": "2020-03-22T10:28:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ULFxCcwqMYA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ULFxCcwqMYA"
+    },
+    {
+      "id": "k10rZajTZkU",
+      "title": "セピア",
+      "description": "",
+      "publishedAt": "2020-03-22T10:28:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k10rZajTZkU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k10rZajTZkU"
+    },
+    {
+      "id": "roZC_xb4Xfk",
+      "title": "理想の世界",
+      "description": "",
+      "publishedAt": "2020-03-22T10:28:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/roZC_xb4Xfk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=roZC_xb4Xfk"
+    },
+    {
+      "id": "sQxmLoPttNM",
+      "title": "人生=笑顔+涙",
+      "description": "",
+      "publishedAt": "2020-03-22T10:28:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sQxmLoPttNM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sQxmLoPttNM"
+    },
+    {
+      "id": "AYng7Km8AMs",
+      "title": "ユメヲタツナ",
+      "description": "",
+      "publishedAt": "2020-03-22T10:28:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AYng7Km8AMs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AYng7Km8AMs"
+    },
+    {
+      "id": "HDVHUCIh2qg",
+      "title": "さよなら",
+      "description": "",
+      "publishedAt": "2020-03-22T10:28:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HDVHUCIh2qg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HDVHUCIh2qg"
+    },
+    {
+      "id": "SHgIbDLD5zU",
+      "title": "Catharsis",
+      "description": "",
+      "publishedAt": "2020-03-22T10:28:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SHgIbDLD5zU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SHgIbDLD5zU"
+    },
+    {
+      "id": "e8mCEZpCNvw",
+      "title": "ヲタヨリ",
+      "description": "",
+      "publishedAt": "2020-03-22T10:28:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e8mCEZpCNvw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e8mCEZpCNvw"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "EJja7fNv0zD_OXeLIdSnvy5Wz4w",
