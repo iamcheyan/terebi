@@ -1,111 +1,478 @@
 {
+  "channel_id": "UC_0tfCjB-pPNR8r9G9G1fTA",
   "channel_name": "TeNY新潟一番ニュース",
-  "updated_at": "2025-10-19T12:02:45.951248+00:00",
+  "original_name": "TeNY新潟一番ニュース",
+  "updated_at": "2025-10-20T01:12:54.473786",
   "videos": [
     {
-      "video_id": "zgvv7nNQs9g",
-      "title": "【過去最多】上越市長選に6人が立候補 投開票は今月26日《新潟》",
-      "url": "https://www.youtube.com/watch?v=zgvv7nNQs9g",
-      "published": "2025-10-19T10:09:30+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/zgvv7nNQs9g/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "Mwmykda03J8QYJ86otiil9tlu1o",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLnpndnY3bk5Rczln",
+      "snippet": {
+        "publishedAt": "2025-10-19T10:09:30Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "【過去最多】上越市長選に6人が立候補 投開票は今月26日《新潟》",
+        "description": "2025年10月19日放送\nTeNYテレビ新潟「バンキシャ」県内ニュースより\n------------------------------------------------\n任期満了に伴う上越市長選挙が19日告示され、過去最多の6人が立候補しました。\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news #選挙#上越 #最多 #立候補 #事件 #事故 #特集",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgvv7nNQs9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgvv7nNQs9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgvv7nNQs9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zgvv7nNQs9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zgvv7nNQs9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zgvv7nNQs9g"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     },
     {
-      "video_id": "pkfRdJd30is",
-      "title": "新潟県では10月　七五三の宮参りがピーク《新潟》",
-      "url": "https://www.youtube.com/watch?v=pkfRdJd30is",
-      "published": "2025-10-18T09:58:26+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/pkfRdJd30is/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "WDl6jLSNLSlWkhHvZV8u8XCJBjo",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLnBrZlJkSmQzMGlz",
+      "snippet": {
+        "publishedAt": "2025-10-18T09:58:26Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "新潟県では10月　七五三の宮参りがピーク《新潟》",
+        "description": "2025年10月18日放送\nTeNYテレビ新潟・「新潟一番」県内ニュースより\n------------------------------------------------\n子どもの健やかな成長を祝う、七五三の宮参りが新潟市の白山神社でピークを迎えています。\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news #七五三 #白山神社",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pkfRdJd30is/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pkfRdJd30is/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pkfRdJd30is/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pkfRdJd30is/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pkfRdJd30is/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pkfRdJd30is"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     },
     {
-      "video_id": "gnwS6stIBaI",
-      "title": "【事故】国道が崩落…76歳の男性が乗った車が約50メートル下に転落　雨で地盤ゆるんだか《新潟・津南》",
-      "url": "https://www.youtube.com/watch?v=gnwS6stIBaI",
-      "published": "2025-10-17T11:15:10+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/gnwS6stIBaI/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "VCyLUSABOriB1a22QXD0MUuYk9Y",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLmdud1M2c3RJQmFJ",
+      "snippet": {
+        "publishedAt": "2025-10-17T11:15:10Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "【事故】国道が崩落…76歳の男性が乗った車が約50メートル下に転落　雨で地盤ゆるんだか《新潟・津南》",
+        "description": "2025年10月17日放送\nTeNYテレビ新潟・「新潟一番」県内ニュースより\n\n------------------------------------------------\n17日朝、津南町の国道で道路が12メートルにわたって崩れ、車が道路下の谷に転落する事故がありました。運転していた男性は自ら通報し命に別条はありませんでしたが、県は16日の雨で地盤がゆるんだのが原因とみて復旧を急いでいます。\n\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news #国道 #崩落 #事故 #津南町",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gnwS6stIBaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gnwS6stIBaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gnwS6stIBaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gnwS6stIBaI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gnwS6stIBaI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gnwS6stIBaI"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     },
     {
-      "video_id": "iWUpCMT8kmI",
-      "title": "【相次ぐクマ出没】エサとなるクリや柿の実を三条市が無料処分　行政も対策に乗り出す《新潟》",
-      "url": "https://www.youtube.com/watch?v=iWUpCMT8kmI",
-      "published": "2025-10-17T11:01:31+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/iWUpCMT8kmI/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "cAiJr4s2LGMHZPooj2rLvTwyV1g",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLmlXVXBDTVQ4a21J",
+      "snippet": {
+        "publishedAt": "2025-10-17T11:01:31Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "【相次ぐクマ出没】エサとなるクリや柿の実を三条市が無料処分　行政も対策に乗り出す《新潟》",
+        "description": "2025年10月17日放送\nTeNYテレビ新潟・「新潟一番」県内ニュースより\n\n------------------------------------------------\nクマによる被害が全国で相次いでいて県内では今年度、11人が襲われてケガをしています。エサを求めて人里に出没するクマ。三条市では被害を防ごうとエサとなる柿やクリなどの処分を受け入れる取り組みを始めました。\n\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news #三条市#クリ #天気 #クマ #柿 #エサ #特集",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iWUpCMT8kmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iWUpCMT8kmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iWUpCMT8kmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iWUpCMT8kmI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iWUpCMT8kmI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iWUpCMT8kmI"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     },
     {
-      "video_id": "Xt6NFylThus",
-      "title": "【原発】柏崎刈羽原発の再稼働めぐり　県議会に早期稼働求める要望書　新潟経済同友会が提出",
-      "url": "https://www.youtube.com/watch?v=Xt6NFylThus",
-      "published": "2025-10-17T10:53:37+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/Xt6NFylThus/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "nrn0rL-8pBfzdN7wXLQuG0O0-JE",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLlh0Nk5GeWxUaHVz",
+      "snippet": {
+        "publishedAt": "2025-10-17T10:53:37Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "【原発】柏崎刈羽原発の再稼働めぐり　県議会に早期稼働求める要望書　新潟経済同友会が提出",
+        "description": "2025年10月17日放送\nTeNYテレビ新潟・「新潟一番」県内ニュースより\n\n------------------------------------------------\n柏崎刈羽原発の再稼働を巡る動きが活発になっています。企業経営者で作る新潟経済同友会が、県議会に早期の判断を求める要望書を提出しました。\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news #原発 #県議会 #再稼働 #特集",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xt6NFylThus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xt6NFylThus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xt6NFylThus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xt6NFylThus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xt6NFylThus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xt6NFylThus"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     },
     {
-      "video_id": "9PmyryDz4CU",
-      "title": "【秋の味覚】園児がサツマイモ収穫に挑戦　「いっぱいとれたよ」顔より大きい“ベニアズマ”《新潟》",
-      "url": "https://www.youtube.com/watch?v=9PmyryDz4CU",
-      "published": "2025-10-17T10:51:08+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/9PmyryDz4CU/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "WbiJ9RHpzdSylpZ0mdY4cOGW9Us",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLjlQbXlyeUR6NENV",
+      "snippet": {
+        "publishedAt": "2025-10-17T10:51:08Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "【秋の味覚】園児がサツマイモ収穫に挑戦　「いっぱいとれたよ」顔より大きい“ベニアズマ”《新潟》",
+        "description": "2025年10月17日放送\nTeNYテレビ新潟・「新潟一番」県内ニュースより\n\n------------------------------------------------\n子どもたちが秋の味覚の収穫に挑戦です。10月17日、柏崎市の園児たちが顔よりも大きなサツマイモ「ベニアズマ」のイモ掘りを体験しました。\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news #地震 #コメ #天気 #クマ #事件 #事故 #特集",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9PmyryDz4CU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9PmyryDz4CU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9PmyryDz4CU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9PmyryDz4CU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9PmyryDz4CU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9PmyryDz4CU"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     },
     {
-      "video_id": "ury65Zezfzs",
-      "title": "【ギモン調査班】新潟は28位「2025都道府県魅力度ランキング」　上を目指すカギは……",
-      "url": "https://www.youtube.com/watch?v=ury65Zezfzs",
-      "published": "2025-10-17T10:47:30+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/ury65Zezfzs/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "bLxDfOVAB4eCmEh0HHVUYoUPkJ8",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLnVyeTY1WmV6Znpz",
+      "snippet": {
+        "publishedAt": "2025-10-17T10:47:30Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "【ギモン調査班】新潟は28位「2025都道府県魅力度ランキング」　上を目指すカギは……",
+        "description": "2025年10月17日放送\nTeNYテレビ新潟・「新潟一番」県内ニュースより\n\n------------------------------------------------\n世の中のギモンを調査する「ギモン調査班」、今回は「都道府県魅力度ランキング」についてです。\n今月発表されたことしの結果は、新潟県は28位。\n「食」や「自然」など、たくさん魅力があるのに、なぜこの順位なのか。そして、上を目指すには何が必要なのか。調査しました。\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news #ギモン #魅力度 #天気 #ランキング #事件 #事故 #特集",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ury65Zezfzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ury65Zezfzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ury65Zezfzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ury65Zezfzs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ury65Zezfzs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ury65Zezfzs"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     },
     {
-      "video_id": "Fbad33lqXrw",
-      "title": "【新設】きっかけは子どもたちの声　見附市内の道の駅に新たな遊具を設置へ《新潟》",
-      "url": "https://www.youtube.com/watch?v=Fbad33lqXrw",
-      "published": "2025-10-17T10:45:54+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/Fbad33lqXrw/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "y43npYITRvmJgubUyBX81bF9dIg",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLkZiYWQzM2xxWHJ3",
+      "snippet": {
+        "publishedAt": "2025-10-17T10:45:54Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "【新設】きっかけは子どもたちの声　見附市内の道の駅に新たな遊具を設置へ《新潟》",
+        "description": "2025年10月17日放送\nTeNYテレビ新潟・「新潟一番」県内ニュースより\n\n------------------------------------------------\n子どもたちの声が形になります。見附市内の道の駅に新たな遊具が作られることになり4つのデザインから子どもたちの投票で決まります。どんな遊具が出来上がるのか。実は、設置のきっかけになったのも子どもたちの声でした。\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news #見附市 #遊具 #天気 #子ども #事件 #事故 #特集",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fbad33lqXrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fbad33lqXrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fbad33lqXrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fbad33lqXrw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fbad33lqXrw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fbad33lqXrw"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     },
     {
-      "video_id": "bk2IoLlEnYw",
-      "title": "【稲わらでアート】新潟市で「 わらアート祭り」上堰潟公園に“越後の幻獣”登場！",
-      "url": "https://www.youtube.com/watch?v=bk2IoLlEnYw",
-      "published": "2025-10-17T08:47:08+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/bk2IoLlEnYw/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "o-QO66e-wq5ThTqZ49tfvG0juFA",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLmJrMklvTGxFbll3",
+      "snippet": {
+        "publishedAt": "2025-10-17T08:47:08Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "【稲わらでアート】新潟市で「 わらアート祭り」上堰潟公園に“越後の幻獣”登場！",
+        "description": "2025年10月17日放送\nTeNYテレビ新潟・「新潟一番」より\n\n------------------------------------------------\n新潟市西蒲区の上堰潟公園では「わらアートまつり」が行われています。\n\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news #地震 #コメ #天気 #クマ #事件 #事故 #特集",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bk2IoLlEnYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bk2IoLlEnYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bk2IoLlEnYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bk2IoLlEnYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bk2IoLlEnYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bk2IoLlEnYw"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     },
     {
-      "video_id": "ZnncWMw_2hA",
-      "title": "【事件】粉ミルクの容器などに麻薬を隠しドイツから密輸しようとした疑い　ベトナム国籍の技能実習生の男を逮捕・起訴《新潟》",
-      "url": "https://www.youtube.com/watch?v=ZnncWMw_2hA",
-      "published": "2025-10-17T03:09:41+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/ZnncWMw_2hA/maxresdefault.jpg"
-    },
-    {
-      "video_id": "0Hhm4XDn2io",
-      "title": "【隠れた名品】行列のできるそば店　100年続く老舗の手打ちそば…おいしさを引き出す秘密は《新潟》",
-      "url": "https://www.youtube.com/watch?v=0Hhm4XDn2io",
-      "published": "2025-10-17T01:29:34+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/0Hhm4XDn2io/maxresdefault.jpg"
-    },
-    {
-      "video_id": "nI5Xsu6LKuE",
-      "title": "【特集】減少する“くだもの農家”　進む高齢化…産地の未来は《新潟》",
-      "url": "https://www.youtube.com/watch?v=nI5Xsu6LKuE",
-      "published": "2025-10-16T12:34:23+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/nI5Xsu6LKuE/maxresdefault.jpg"
-    },
-    {
-      "video_id": "mHtusMnrwqI",
-      "title": "【出会いストーリー】“宝もの”に出会える…手作りの品や石などを集めたイベントに密着《新潟》",
-      "url": "https://www.youtube.com/watch?v=mHtusMnrwqI",
-      "published": "2025-10-16T11:34:04+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/mHtusMnrwqI/maxresdefault.jpg"
-    },
-    {
-      "video_id": "Yw4hz7FvuiE",
-      "title": "【原発】「柏崎刈羽原発1・2号機の廃炉を検討」「県に1000億円の資金拠出」 東電・小早川社長が県議会で表明《新潟》",
-      "url": "https://www.youtube.com/watch?v=Yw4hz7FvuiE",
-      "published": "2025-10-16T11:31:31+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/Yw4hz7FvuiE/maxresdefault.jpg"
-    },
-    {
-      "video_id": "2iiCti3BpiM",
-      "title": "【事件】「殺す、服を脱げ」女子高校生を脅迫し自宅に連れ込みわいせつ行為の疑い　53歳の男を逮捕 《新潟》",
-      "url": "https://www.youtube.com/watch?v=2iiCti3BpiM",
-      "published": "2025-10-16T11:30:26+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/2iiCti3BpiM/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "a8leX-hW086u2c87CMVwwtPTt2E",
+      "id": "VVVfMHRmQ2pCLXBQTlI4cjlHOUcxZlRBLlpubmNXTXdfMmhB",
+      "snippet": {
+        "publishedAt": "2025-10-17T03:09:41Z",
+        "channelId": "UC_0tfCjB-pPNR8r9G9G1fTA",
+        "title": "【事件】粉ミルクの容器などに麻薬を隠しドイツから密輸しようとした疑い　ベトナム国籍の技能実習生の男を逮捕・起訴《新潟》",
+        "description": "2025年10月17日放送\nTeNYテレビ新潟・県内ニュースより\n\n------------------------------------------------\nサプリメントのボトルや粉ミルクの容器に隠しMDMAなどの麻薬を密輸しようとしたとしてベトナム国籍の技能実習生の男が逮捕・起訴されました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/teny/category/society/tef1d506145a0249f49322d22af9ae5f2b\n\n------------------------------------------------\nTeNYテレビ新潟のニュース公式チャンネルです。\n新潟県の最新ニュースや気になる話題、天気や防災情報など最新情報をお伝えします。地震や災害などの緊急時にはライブ配信も行う予定です。\n\n新潟の\"今\"を知りたい方は、ぜひチャンネル登録よろしくお願いします！\nhttp://www.youtube.com/channel/UC_0tfCjB-pPNR8r9G9G1fTA?sub_confirmation=1\n\n【最新ニュース配信中】\nTeNY公式ニュースサイト：\n　https://news.ntv.co.jp/n/teny\nX：https://twitter.com/TeNYnews\n　   https://twitter.com/TeNY4ch\nLINE：https://lin.ee/xIatEgs\ninstagram：https://www.instagram.com/tenynews/\nTikTok：https://www.tiktok.com/@tenynews4ch\n\n#新潟 #ニュース #新潟一番\n#テレビ新潟 #TeNY #news\n#密輸 #麻薬 #ドイツ \n#天気 #事件 #事故 #特集",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZnncWMw_2hA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZnncWMw_2hA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZnncWMw_2hA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZnncWMw_2hA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZnncWMw_2hA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TeNY新潟一番ニュース",
+        "playlistId": "UU_0tfCjB-pPNR8r9G9G1fTA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZnncWMw_2hA"
+        },
+        "videoOwnerChannelTitle": "TeNY新潟一番ニュース",
+        "videoOwnerChannelId": "UC_0tfCjB-pPNR8r9G9G1fTA"
+      }
     }
   ]
 }

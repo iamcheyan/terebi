@@ -1,0 +1,803 @@
+{
+  "全国放送局": {
+    "日本テレビ系": [
+      {
+        "name": "日テレ公式チャンネル",
+        "url": "https://www.youtube.com/@nittele",
+        "cached": true
+      },
+      {
+        "name": "日テレNEWS",
+        "url": "https://www.youtube.com/@ntv_news",
+        "cached": true
+      },
+      {
+        "name": "日テレスポーツ【公式】",
+        "url": "https://www.youtube.com/channel/UCWt0yfrBaUk148rxaOp4b4w",
+        "bakname": "日テレスポーツ_公式_",
+        "cached": true
+      }
+    ],
+    "TBS系": [
+      {
+        "name": "TBS公式 YouTuboo",
+        "url": "https://www.youtube.com/c/tbspr/featured/1000",
+        "cached": true
+      }
+    ],
+    "フジテレビ系": [
+      {
+        "name": "フジテレビ公式",
+        "url": "https://www.youtube.com/@fujitv",
+        "cached": true
+      },
+      {
+        "name": "FNNプライムオンライン",
+        "url": "https://www.youtube.com/@FNNnewsCH",
+        "cached": true
+      },
+      {
+        "name": "めざましテレビチャンネル（フジテレビ）",
+        "url": "https://www.youtube.com/@mezamashitvchannel",
+        "bakname": "mezamashitvchannel",
+        "cached": false
+      }
+    ],
+    "テレビ朝日系": [
+      {
+        "name": "テレビ朝日公式チャンネル",
+        "url": "https://www.youtube.com/@tvasahi",
+        "cached": true
+      },
+      {
+        "name": "ANNnewsCH",
+        "url": "https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ",
+        "cached": true
+      },
+      {
+        "name": "テレビ朝日スポーツ【公式】",
+        "url": "https://www.youtube.com/channel/UCI-w8qGuG4PlmZ25m9x_Q_A",
+        "bakname": "テレビ朝日スポーツ_公式_",
+        "cached": true
+      }
+    ],
+    "テレビ東京系": [
+      {
+        "name": "テレ東公式 TV TOKYO",
+        "url": "https://www.youtube.com/user/TVTOKYO",
+        "cached": true
+      },
+      {
+        "name": "テレ東BIZ",
+        "url": "https://www.youtube.com/@tvtokyobiz",
+        "cached": true
+      },
+      {
+        "name": "テレ東スポーツ",
+        "url": "https://www.youtube.com/@tvtokyosports",
+        "cached": true
+      }
+    ]
+  },
+  "地方放送局": {
+    "北海道地方": [
+      {
+        "name": "HBC北海道放送",
+        "url": "https://www.youtube.com/@HBChokkaido",
+        "cached": true
+      },
+      {
+        "name": "STV札幌テレビ放送",
+        "url": "https://www.youtube.com/@STVhokkaido",
+        "cached": true
+      },
+      {
+        "name": "HTB北海道テレビ",
+        "url": "https://www.youtube.com/@HTB6CH",
+        "cached": true
+      },
+      {
+        "name": "HTB Hokkaido News",
+        "url": "https://www.youtube.com/@htbnews",
+        "cached": true
+      },
+      {
+        "name": "UHB北海道文化放送",
+        "url": "https://www.youtube.com/@uhbhokkaido8ch",
+        "cached": true
+      },
+      {
+        "name": "TVhテレビ北海道",
+        "url": "https://www.youtube.com/@TVh7chHokkaido",
+        "cached": true
+      }
+    ],
+    "東北地方": [
+      {
+        "name": "RAB青森放送",
+        "url": "https://www.youtube.com/channel/UCk_jA9Y8pb50Ab2EzV_KhLw",
+        "cached": true
+      },
+      {
+        "name": "ATV青森テレビ",
+        "url": "https://www.youtube.com/@ATV6ch",
+        "cached": true
+      },
+      {
+        "name": "ABA青森朝日放送",
+        "url": "https://www.youtube.com/@AbanetCH",
+        "cached": true
+      },
+      {
+        "name": "TVIテレビ岩手",
+        "url": "https://www.youtube.com/@tvimoviechannel",
+        "cached": true
+      },
+      {
+        "name": "テレビ岩手TVIニュースチャンネル",
+        "url": "https://www.youtube.com/@tvinewsch",
+        "cached": true
+      },
+      {
+        "name": "IBC岩手放送",
+        "url": "https://www.youtube.com/@ibc6ch",
+        "cached": true
+      },
+      {
+        "name": "IAT岩手朝日テレビ",
+        "url": "https://www.youtube.com/@IwateAsahiTV",
+        "cached": true
+      },
+      {
+        "name": "mit岩手めんこいテレビ",
+        "url": "https://www.youtube.com/@menkoichannel",
+        "cached": true
+      },
+      {
+        "name": "MMTミヤギテレビ",
+        "url": "https://www.youtube.com/@miyateleNEWSNNN",
+        "cached": true
+      },
+      {
+        "name": "tbc東北放送",
+        "url": "https://www.youtube.com/@tbc1260_official",
+        "cached": true
+      },
+      {
+        "name": "KHB東日本放送",
+        "url": "https://www.youtube.com/@khb",
+        "cached": true
+      },
+      {
+        "name": "仙台放送ニュースチャンネル",
+        "url": "https://www.youtube.com/channel/UClElfQ7F1QndkPEFuqrDCLQ",
+        "cached": true
+      },
+      {
+        "name": "ABS秋田放送",
+        "url": "https://www.youtube.com/@ABS4ch",
+        "cached": true
+      },
+      {
+        "name": "AAB秋田朝日放送",
+        "url": "https://www.youtube.com/@aab5ch",
+        "cached": true
+      },
+      {
+        "name": "AKT秋田テレビ",
+        "url": "https://www.youtube.com/@akt5868",
+        "cached": true
+      },
+      {
+        "name": "YBC山形放送",
+        "url": "https://www.youtube.com/@yamagatahoso",
+        "cached": true
+      },
+      {
+        "name": "TUYテレビユー山形",
+        "url": "https://www.youtube.com/@tuy6ch",
+        "cached": true
+      },
+      {
+        "name": "YTS山形テレビ",
+        "url": "https://www.youtube.com/@YTS5ch",
+        "cached": true
+      },
+      {
+        "name": "FCT福島中央テレビ",
+        "url": "https://www.youtube.com/@fctchannel",
+        "cached": true
+      },
+      {
+        "name": "FCT福島中央テレビNEWS",
+        "url": "https://www.youtube.com/@fct_news",
+        "cached": true
+      },
+      {
+        "name": "TUFテレビユー福島",
+        "url": "https://www.youtube.com/@TUFchannel",
+        "cached": true
+      },
+      {
+        "name": "KFB福島放送",
+        "url": "https://www.youtube.com/@TV-qm8xe",
+        "cached": true
+      },
+      {
+        "name": "FTV福島テレビ",
+        "url": "https://www.youtube.com/@ftv-news",
+        "bakname": "福テレ公式チャンネル",
+        "skip": true,
+        "cached": false
+      }
+    ],
+    "関東地方": [
+      {
+        "name": "TOKYO MX（東京メトロポリタンテレビジョン）",
+        "url": "https://www.youtube.com/tokyomx",
+        "bakname": "TOKYO MX_東京メトロポリタンテレビジョン_",
+        "cached": true
+      },
+      {
+        "name": "tvkテレビ神奈川",
+        "url": "https://www.youtube.com/@tvk3ch",
+        "cached": true
+      },
+      {
+        "name": "チバテレ（千葉テレビ放送）",
+        "url": "https://www.youtube.com/channel/UCMoWRXDR4-S_R8479Ru0HjQ",
+        "bakname": "チバテレ_千葉テレビ放送_",
+        "cached": true
+      },
+      {
+        "name": "テレ玉（テレビ埼玉）",
+        "url": "https://www.youtube.com/@teletama3ch",
+        "bakname": "テレ玉_テレビ埼玉_",
+        "cached": true
+      },
+      {
+        "name": "テレ玉NEWS（テレビ埼玉）",
+        "url": "https://www.youtube.com/@teletama_news",
+        "bakname": "テレ玉NEWS_テレビ埼玉_",
+        "cached": true
+      },
+      {
+        "name": "群馬テレビ",
+        "url": "https://www.youtube.com/@GTV",
+        "cached": true
+      },
+      {
+        "name": "とちぎテレビ",
+        "url": "https://www.youtube.com/@TochigitvJp3ch",
+        "cached": true
+      },
+      {
+        "name": "とちぎテレビNEWS",
+        "url": "https://www.youtube.com/@tochitele_news",
+        "cached": true
+      }
+    ],
+    "中部地方": [
+      {
+        "name": "TeNYテレビ新潟",
+        "url": "https://www.youtube.com/@TeNY4ch",
+        "cached": true
+      },
+      {
+        "name": "TeNY新潟一番ニュース",
+        "url": "https://www.youtube.com/@TeNYNEWS",
+        "cached": true
+      },
+      {
+        "name": "BSN新潟放送",
+        "url": "https://www.youtube.com/@ohbsn",
+        "cached": true
+      },
+      {
+        "name": "NST新潟総合テレビ",
+        "url": "https://www.youtube.com/@nst-tv",
+        "cached": true
+      },
+      {
+        "name": "I LOVE NIIGATA!!",
+        "url": "https://www.youtube.com/@daisuki-niigata",
+        "bakname": "I LOVE NIIGATA__",
+        "cached": true
+      },
+      {
+        "name": "UX新潟テレビ21",
+        "url": "https://www.youtube.com/@UXTV5ch",
+        "cached": true
+      },
+      {
+        "name": "The Niigata Television Network 21",
+        "url": "https://www.youtube.com/@UXTV",
+        "cached": true
+      },
+      {
+        "name": "KNB北日本放送",
+        "url": "https://www.youtube.com/@knb_official",
+        "cached": true
+      },
+      {
+        "name": "チューリップテレビ（TUT）",
+        "url": "https://www.youtube.com/@bansenTUT",
+        "bakname": "チューリップテレビ_TUT_",
+        "cached": true
+      },
+      {
+        "name": "BBT富山テレビ",
+        "url": "https://www.youtube.com/@toyama_tv",
+        "cached": true
+      },
+      {
+        "name": "KTKテレビ金沢",
+        "url": "https://www.youtube.com/@tv_kanazawa",
+        "cached": true
+      },
+      {
+        "name": "MRO北陸放送",
+        "url": "https://www.youtube.com/@mro_ishikawa",
+        "cached": true
+      },
+      {
+        "name": "HAB北陸朝日放送",
+        "url": "https://www.youtube.com/@habmigochannel",
+        "cached": true
+      },
+      {
+        "name": "石川テレビ（ITC）",
+        "url": "https://www.youtube.com/@ishikawaTV-channel",
+        "bakname": "石川テレビ_ITC_",
+        "cached": true
+      },
+      {
+        "name": "FBC福井放送",
+        "url": "https://www.youtube.com/@FBC",
+        "cached": true
+      },
+      {
+        "name": "YBS山梨放送",
+        "url": "https://www.youtube.com/channel/UCL3peEBSiAkEMDuxNkffbvw",
+        "cached": true
+      },
+      {
+        "name": "UTYテレビ山梨",
+        "url": "https://www.youtube.com/channel/UCk2oG--VyYST4SYyQkeadjA",
+        "cached": true
+      },
+      {
+        "name": "SBC信越放送",
+        "url": "https://www.youtube.com/@6sbc",
+        "cached": true
+      },
+      {
+        "name": "TSBテレビ信州",
+        "url": "https://www.youtube.com/@4chtsb",
+        "cached": true
+      },
+      {
+        "name": "abn長野朝日放送",
+        "url": "https://www.youtube.com/@abn5ch",
+        "cached": true
+      },
+      {
+        "name": "NBS長野放送",
+        "url": "https://www.youtube.com/@NBS8ch",
+        "cached": true
+      },
+      {
+        "name": "静岡朝日テレビニュース",
+        "url": "https://www.youtube.com/@satv_official",
+        "skip": true,
+        "cached": true
+      },
+      {
+        "name": "SDT静岡第一テレビ",
+        "url": "https://www.youtube.com/@daiichi-tvnews",
+        "cached": true
+      },
+      {
+        "name": "SBS静岡放送",
+        "url": "https://www.youtube.com/@SBSnews6",
+        "cached": true
+      },
+      {
+        "name": "テレビ静岡（テレしず）",
+        "url": "https://www.youtube.com/@teleshizu8ch",
+        "bakname": "テレビ静岡_テレしず_",
+        "cached": true
+      },
+      {
+        "name": "中京テレビ",
+        "url": "https://www.youtube.com/@CHUKYOTV_NEWS",
+        "cached": true
+      },
+      {
+        "name": "CBCテレビ",
+        "url": "https://www.youtube.com/@cbctv_news",
+        "bakname": "CBC公式チャンネル",
+        "skip": true,
+        "cached": false
+      },
+      {
+        "name": "東海テレビ",
+        "url": "https://www.youtube.com/@newsone4365",
+        "cached": true
+      },
+      {
+        "name": "メ～テレ（名古屋テレビ放送）",
+        "url": "https://www.youtube.com/@MeiteleCH",
+        "bakname": "メ_テレ_名古屋テレビ放送_",
+        "cached": true
+      },
+      {
+        "name": "Nagoya TV News",
+        "url": "https://www.youtube.com/@NagoyaTVnewsCH",
+        "cached": true
+      },
+      {
+        "name": "テレビ愛知",
+        "url": "https://www.youtube.com/@tvaichi10ch",
+        "cached": true
+      },
+      {
+        "name": "ぎふチャン（岐阜放送）",
+        "url": "https://www.youtube.com/@%E3%81%8E%E3%81%B5%E3%83%81%E3%83%A3%E3%83%B3%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+        "bakname": "ぎふチャン_岐阜放送_",
+        "cached": true
+      },
+      {
+        "name": "三重テレビ",
+        "url": "https://www.youtube.com/@MieTV7",
+        "cached": true
+      }
+    ],
+    "近畿地方": [
+      {
+        "name": "読売テレビ（ytv）",
+        "url": "https://www.youtube.com/@ytv_news",
+        "bakname": "読売テレビ_ytv_",
+        "cached": true
+      },
+      {
+        "name": "毎日放送（MBS）",
+        "url": "https://www.youtube.com/@MBS",
+        "bakname": "毎日放送_MBS_",
+        "cached": true
+      },
+      {
+        "name": "関西テレビ（KTV）",
+        "url": "https://www.youtube.com/@ktvnews8",
+        "bakname": "関西テレビ_KTV_",
+        "cached": true
+      },
+      {
+        "name": "朝日放送テレビ（ABC）",
+        "url": "https://www.youtube.com/@abcasahi",
+        "bakname": "朝日放送テレビ_ABC_",
+        "cached": true
+      },
+      {
+        "name": "ABCTVnews",
+        "url": "https://www.youtube.com/@abc6ch",
+        "cached": true
+      },
+      {
+        "name": "テレビ大阪（TVO）",
+        "url": "https://www.youtube.com/@TVosaka7ch",
+        "bakname": "テレビ大阪_TVO_",
+        "cached": true
+      },
+      {
+        "name": "Television OSAKA NEWS",
+        "url": "https://www.youtube.com/@tvosakanews",
+        "cached": true
+      },
+      {
+        "name": "奈良テレビ放送（TVN）",
+        "url": "https://www.youtube.com/@naratv9",
+        "bakname": "奈良テレビ放送_TVN_",
+        "cached": true
+      },
+      {
+        "name": "奈良テレビNEWS",
+        "url": "https://www.youtube.com/@tvn_news9",
+        "cached": true
+      },
+      {
+        "name": "KBS京都",
+        "url": "https://www.youtube.com/@kbskyoto",
+        "cached": true
+      },
+      {
+        "name": "サテレビ",
+        "url": "https://www.youtube.com/@SuntvCoJp_ohsun",
+        "cached": true
+      },
+      {
+        "name": "びわ湖放送（BBC）",
+        "url": "https://www.youtube.com/@BBC_biwako",
+        "bakname": "びわ湖放送_BBC_",
+        "cached": true
+      },
+      {
+        "name": "テレビ和歌山（WTV）",
+        "url": "https://www.youtube.com/@telewaka5ch",
+        "bakname": "テレビ和歌山_WTV_",
+        "cached": true
+      }
+    ],
+    "中国地方": [
+      {
+        "name": "RCC中国放送",
+        "url": "https://www.youtube.com/channel/UCExGIeVLm6DBd_dd7AC4L-A",
+        "cached": true
+      },
+      {
+        "name": "広島ホームテレビ（HOME）",
+        "url": "https://www.youtube.com/@HiroshimaTVONDEMAND",
+        "bakname": "広島ホームテレビ_HOME_",
+        "cached": true
+      },
+      {
+        "name": "広テレ!NEWS",
+        "url": "https://www.youtube.com/@hiroshimatvnews",
+        "bakname": "広テレ_NEWS",
+        "cached": true
+      },
+      {
+        "name": "テレビ新広島（TSS）",
+        "url": "https://www.youtube.com/@tss3367",
+        "bakname": "テレビ新広島_TSS_",
+        "cached": true
+      },
+      {
+        "name": "テレビ山口（tys）",
+        "url": "https://www.youtube.com/@tysTVyamaguchi",
+        "bakname": "テレビ山口_tys_",
+        "cached": true
+      },
+      {
+        "name": "山口朝日放送（yab）",
+        "url": "https://www.youtube.com/@yab_beep",
+        "bakname": "山口朝日放送_yab_",
+        "cached": true
+      },
+      {
+        "name": "yab山口ニュース",
+        "url": "https://www.youtube.com/@yab_news",
+        "cached": true
+      },
+      {
+        "name": "日本海テレビ（NKT）",
+        "url": "https://www.youtube.com/@nihonkai-news",
+        "bakname": "日本海テレビ_NKT_",
+        "cached": true
+      },
+      {
+        "name": "山陰中央テレビ（TSK）",
+        "url": "https://www.youtube.com/@saninchuotv",
+        "bakname": "山陰中央テレビ_TSK_",
+        "cached": true
+      },
+      {
+        "name": "TSK news イット!",
+        "url": "https://www.youtube.com/@TSK_Sanin_news",
+        "bakname": "TSK news イット_",
+        "cached": true
+      },
+      {
+        "name": "岡山放送（OHK）",
+        "url": "https://www.youtube.com/@ohk163",
+        "bakname": "岡山放送_OHK_",
+        "cached": true
+      },
+      {
+        "name": "RSK山陽放送",
+        "url": "https://www.youtube.com/@rsk4243",
+        "cached": true
+      },
+      {
+        "name": "瀬戸内海放送（KSB）",
+        "url": "https://www.youtube.com/@ksb5ch",
+        "bakname": "瀬戸内海放送_KSB_",
+        "cached": true
+      },
+      {
+        "name": "西日本放送（RNC）",
+        "url": "https://www.youtube.com/@rnc_tvradio",
+        "bakname": "西日本放送_RNC_",
+        "cached": true
+      },
+      {
+        "name": "テレビせとうち（TSC）",
+        "url": "https://www.youtube.com/@tsc2048",
+        "bakname": "テレビせとうち_TSC_",
+        "cached": true
+      },
+      {
+        "name": "BSS山陰放送ラッテチャンネル",
+        "url": "https://www.youtube.com/channel/UC5f3JQdmlT_7W1l1kpwzkJQ",
+        "cached": true
+      },
+      {
+        "name": "KRY山口放送公式チャンネル",
+        "url": "https://www.youtube.com/@KRYChannel",
+        "cached": true
+      },
+      {
+        "name": "KRY山口放送ニュース公式チャンネル",
+        "url": "https://www.youtube.com/@KRYNewsChannel",
+        "cached": false
+      }
+    ],
+    "四国地方": [
+      {
+        "name": "四国放送（JRT）",
+        "url": "https://www.youtube.com/@jrt6239",
+        "bakname": "四国放送_JRT_",
+        "cached": true
+      },
+      {
+        "name": "RNB南海放送",
+        "url": "https://www.youtube.com/@RNBnewsch4",
+        "cached": true
+      },
+      {
+        "name": "EBCテレビ愛媛",
+        "url": "https://www.youtube.com/channel/UCSzVAEFIewUsDHFEkcdyw1w",
+        "cached": true
+      },
+      {
+        "name": "itvあいテレビ",
+        "url": "https://www.youtube.com/@itv6ch",
+        "cached": true
+      },
+      {
+        "name": "愛媛朝日テレビ（EAT）",
+        "url": "https://www.youtube.com/@ehimeasahiTV",
+        "bakname": "愛媛朝日テレビ_EAT_",
+        "cached": true
+      },
+      {
+        "name": "RKC高知放送",
+        "url": "https://www.youtube.com/@rkc5325",
+        "cached": true
+      },
+      {
+        "name": "KUTVテレビ高知",
+        "url": "https://www.youtube.com/@kutv",
+        "cached": true
+      },
+      {
+        "name": "高知さんさんテレビ（KSS）",
+        "url": "https://www.youtube.com/@sunsuntv",
+        "bakname": "高知さんさんテレビ_KSS_",
+        "cached": true
+      }
+    ],
+    "九州・沖縄地方": [
+      {
+        "name": "FBS福岡放送",
+        "url": "https://www.youtube.com/@fbs5ch",
+        "cached": true
+      },
+      {
+        "name": "FBS福岡放送ニュース",
+        "url": "https://www.youtube.com/@fbsnews5",
+        "cached": true
+      },
+      {
+        "name": "RKB毎日放送",
+        "url": "https://www.youtube.com/@rkbtv4",
+        "cached": true
+      },
+      {
+        "name": "KBC九州朝日放送",
+        "url": "https://www.youtube.com/@KBCmovie",
+        "cached": true
+      },
+      {
+        "name": "TNCテレビ西日本",
+        "url": "https://www.youtube.com/@telebee8ch",
+        "cached": true
+      },
+      {
+        "name": "TVQ九州放送",
+        "url": "https://www.youtube.com/@TVQ7ch",
+        "cached": true
+      },
+      {
+        "name": "NIB長崎国際テレビ",
+        "url": "https://www.youtube.com/@NIB",
+        "cached": true
+      },
+      {
+        "name": "NBC長崎放送",
+        "url": "https://www.youtube.com/@NBCnagasaki",
+        "cached": true
+      },
+      {
+        "name": "KTNテレビ長崎",
+        "url": "https://www.youtube.com/@KTN.nagasaki",
+        "cached": true
+      },
+      {
+        "name": "NCC長崎文化放送",
+        "url": "https://www.youtube.com/@ncctvnagasaki",
+        "cached": true
+      },
+      {
+        "name": "KKTくまもと県民テレビ",
+        "url": "https://www.youtube.com/@KKT",
+        "cached": true
+      },
+      {
+        "name": "RKK熊本放送",
+        "url": "https://www.youtube.com/@arupotv",
+        "cached": true
+      },
+      {
+        "name": "KAB熊本朝日放送",
+        "url": "https://www.youtube.com/@kabnews5983",
+        "cached": true
+      },
+      {
+        "name": "TKUテレビ熊本",
+        "url": "https://www.youtube.com/@TKUofficial",
+        "cached": true
+      },
+      {
+        "name": "TOSテレビ大分",
+        "url": "https://www.youtube.com/@tostv4ch",
+        "cached": true
+      },
+      {
+        "name": "OBS大分放送",
+        "url": "https://www.youtube.com/@Eobsobs3ch",
+        "cached": true
+      },
+      {
+        "name": "OAB大分朝日放送",
+        "url": "https://www.youtube.com/@oab8320",
+        "cached": true
+      },
+      {
+        "name": "MRT宮崎放送",
+        "url": "https://www.youtube.com/@MRTmiyazaki",
+        "cached": true
+      },
+      {
+        "name": "KYT鹿児島読売テレビ",
+        "url": "https://www.youtube.com/@KagoshimaNEWS_KYT",
+        "cached": true
+      },
+      {
+        "name": "MBC南日本放送",
+        "url": "https://www.youtube.com/@KagoshimaMBC",
+        "cached": true
+      },
+      {
+        "name": "KKB鹿児島放送",
+        "url": "https://www.youtube.com/@KKB5ch",
+        "cached": true
+      },
+      {
+        "name": "KTS鹿児島テレビ",
+        "url": "https://www.youtube.com/@ktspoyo",
+        "cached": true
+      },
+      {
+        "name": "OTV沖縄テレビ",
+        "url": "https://www.youtube.com/@otv-okinawa",
+        "cached": true
+      },
+      {
+        "name": "QAB琉球朝日放送",
+        "url": "https://www.youtube.com/@qab4524",
+        "cached": true
+      }
+    ]
+  }
+}

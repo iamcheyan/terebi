@@ -4,7 +4,7 @@ import re
 
 # 读取JSON文件
 print("正在读取频道配置文件...")
-with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as file:
+with open('../all_channels.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 获取img目录中的所有图片文件
@@ -61,7 +61,7 @@ if channels_to_remove:
 
 # 保存更新后的JSON文件
 print("\n正在保存更新后的频道配置文件...")
-with open('../japan_tv_youtube_channels.json', 'w', encoding='utf-8') as file:
+with open('../all_channels.json', 'w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
 print("频道清理完成!")

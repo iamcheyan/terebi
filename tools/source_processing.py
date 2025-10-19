@@ -3,6 +3,7 @@ import os
 from datetime import datetime
 import glob
 import sys
+import traceback
 
 def process_channel_json(input_file, output_dir):
     try:
@@ -203,10 +204,10 @@ if __name__ == "__main__":
             print(f"正在处理: {input_file}")
             process_channel_json(input_file, output_dir)
     
-    # 处理完后更新japan_tv_youtube_channels.json中的状态
+    # 处理完后更新all_channels.json中的状态
     try:
-        # 读取japan_tv_youtube_channels.json
-        with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as f:
+        # 读取all_channels.json
+        with open('all_channels.json', 'r', encoding='utf-8') as f:
             channels_data = json.load(f)
         
         # 获取data目录下所有json文件名(不含扩展名)
@@ -269,7 +270,7 @@ if __name__ == "__main__":
             print(f"已添加 {len(new_channels)} 个新频道到「その他チャンネル」分类")
                             
         # 保存更新后的文件
-        with open('../japan_tv_youtube_channels.json', 'w', encoding='utf-8') as f:
+        with open('all_channels.json', 'w', encoding='utf-8') as f:
             json.dump(channels_data, f, ensure_ascii=False, indent=4)
             
         # print("已更新japan_tv_youtube_channels.json中的状态")

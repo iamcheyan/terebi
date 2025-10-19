@@ -100,7 +100,7 @@ python get_channel_videos.py --force
 MAX_RESULTS = 50
 
 # 读取JSON文件（项目根）
-with open(os.path.join(PROJECT_ROOT, 'japan_tv_youtube_channels.json'), 'r', encoding='utf-8') as file:
+with open(os.path.join(PROJECT_ROOT, 'all_channels.json'), 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 初始化URL列表
@@ -158,16 +158,24 @@ def process_channels(channels_data, is_nested=True):
             continue
             
         if channel.get("url"):
-            # 提取URL中的关键字
-            match = re.search(r'(?:youtube\.com/(?:@|c/|channel/|user/)?)([^/]+)(?:/.*)?$', channel["url"])
-            if match:
-                keyword = match.group(1)
-                # 构建API URL
-                api_url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={urllib.parse.quote(keyword)}&type=channel&key={API_KEY}&maxResults=10"
-                result.append({
-                    "name": channel["name"],
-                    "url": api_url
-                })
+            # 优先使用bakname作为搜索关键词，如果没有则从URL提取
+            if channel.get("bakname") and channel.get("bakname").strip():
+                keyword = channel.get("bakname").strip()
+            else:
+                # 提取URL中的关键字作为备选
+                match = re.search(r'(?:youtube\.com/(?:@|c/|channel/|user/)?)([^/]+)(?:/.*)?$', channel["url"])
+                if match:
+                    keyword = match.group(1)
+                else:
+                    keyword = channel["name"]  # 最后使用频道名称
+            
+            # 构建API URL
+            api_url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={urllib.parse.quote(keyword)}&type=channel&key={API_KEY}&maxResults=10"
+            result.append({
+                "name": channel["name"],
+                "bakname": channel.get("bakname", ""),
+                "url": api_url
+            })
     
     return result
 
@@ -291,7 +299,10 @@ def save_videos_to_json(channel_id, original_name):
     }
     
     # 使用原始名称作为文件名
-    safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in original_name)
+    # 使用bakname作为文件名，如果没有bakname则使用频道名称
+    safe_name = info.get("bakname", "").strip()
+    if not safe_name:
+        safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in original_name)
     filename = os.path.join(source_dir, f'{safe_name}.json')
     
     with open(filename, 'w', encoding='utf-8') as f:
@@ -341,7 +352,10 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
     print(f'\n准备处理频道: {info["name"]}')
     
     # 检查缓存
-    safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in info["name"])
+    # 使用bakname作为文件名，如果没有bakname则使用频道名称
+    safe_name = info.get("bakname", "").strip()
+    if not safe_name:
+        safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in info["name"])
     data_filename = os.path.join(PROJECT_ROOT, 'data', f'{safe_name}.json')
     
     if os.path.exists(data_filename):
@@ -408,6 +422,13 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
     # 如果API请求失败，尝试切换API密钥
     if response is None or response.status_code != 200:
         print(f"请求失败: {info['url']}")
+        if response is not None:
+            print(f"状态码: {response.status_code}")
+            try:
+                error_data = response.json()
+                print(f"错误信息: {error_data}")
+            except:
+                print(f"响应内容: {response.text[:200]}")
         # 从URL中提取当前API密钥
         current_key = re.search(r'key=([^&]+)', info["url"]).group(1)
         new_key = try_switch_api_key(current_key)
@@ -436,7 +457,7 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                 }
                 
                 # 保存数据
-                filename = os.path.join(PROJECT_ROOT, 'source', f'{safe_name}.json')
+                filename = os.path.join(PROJECT_ROOT, 'data', f'{safe_name}.json')
                 
                 with open(filename, 'w', encoding='utf-8') as f:
                     json.dump(data, f, ensure_ascii=False, indent=2)

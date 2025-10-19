@@ -1,111 +1,102 @@
 {
+  "channel_id": "UCwVMadMSXOS0AMuW_3nlyRQ",
   "channel_name": "SBC信越放送",
-  "updated_at": "2025-10-19T12:03:00.391297+00:00",
+  "original_name": "SBC信越放送",
+  "updated_at": "2025-10-20T01:13:03.714413",
   "videos": [
     {
-      "video_id": "uHNnNhndPfo",
-      "title": "【大好評開催中】東山魁夷館３５周年記念展「永遠の海 ― 私は、いま、波の音を聴いている」",
-      "url": "https://www.youtube.com/watch?v=uHNnNhndPfo",
-      "published": "2025-10-16T23:16:29+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/uHNnNhndPfo/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "eiiGR-GA-O6baOU4wfjWnFstbeg",
+      "id": "VVV3Vk1hZE1TWE9TMEFNdVdfM25seVJRLm5hbTRaODBpVTQ4",
+      "snippet": {
+        "publishedAt": "2025-10-19T15:01:23Z",
+        "channelId": "UCwVMadMSXOS0AMuW_3nlyRQ",
+        "title": "長野から起業家を～NIB 長野イノベーションベースの挑戦～㊷",
+        "description": "長野県内の起業家を支援するNIB　長野イノベーションベースの取り組みを紹介する番組。「経営者が経営者を育てる。経営者同士が学びあう」を合言葉に長野県内の金融機関やメディアなどが設立に加わり発足した。\nNIBでは「10年以内に上場企業を最低3社輩出する」ことを目標にし、起業家や若手経営者などを対象にフォーラムや講演会などを開き応援している。\n番組ではNIBの月例会での講演を中心に紹介する。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nam4Z80iU48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nam4Z80iU48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nam4Z80iU48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nam4Z80iU48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nam4Z80iU48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBC信越放送",
+        "playlistId": "UUwVMadMSXOS0AMuW_3nlyRQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nam4Z80iU48"
+        },
+        "videoOwnerChannelTitle": "SBC信越放送",
+        "videoOwnerChannelId": "UCwVMadMSXOS0AMuW_3nlyRQ"
+      }
     },
     {
-      "video_id": "nMkCOOxzzcU",
-      "title": "ハロウィンパーティーで作りたい、鶏肉煮込みと生ハムチーズおばけ今年のボージョレ・ヌーヴォーのお得な情報も！",
-      "url": "https://www.youtube.com/watch?v=nMkCOOxzzcU",
-      "published": "2025-10-16T06:50:01+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/nMkCOOxzzcU/maxresdefault.jpg"
-    },
-    {
-      "video_id": "ggXlji_ZEf8",
-      "title": "YES！ものづくり　TRILL.②",
-      "url": "https://www.youtube.com/watch?v=ggXlji_ZEf8",
-      "published": "2025-10-10T04:00:57+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/ggXlji_ZEf8/maxresdefault.jpg"
-    },
-    {
-      "video_id": "csdx611DrIc",
-      "title": "ザ・たっちが蓼科高原の自然を満喫！",
-      "url": "https://www.youtube.com/watch?v=csdx611DrIc",
-      "published": "2025-10-10T00:04:49+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/csdx611DrIc/maxresdefault.jpg"
-    },
-    {
-      "video_id": "k4y3YLzP-Zc",
-      "title": "オープンしたばかりのイオンスタイル須坂を紹介県内最大級の鮮魚コーナーに商品をスキャンしてお買い物する“レジゴー”専門店フロアも充実！",
-      "url": "https://www.youtube.com/watch?v=k4y3YLzP-Zc",
-      "published": "2025-10-09T06:50:00+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/k4y3YLzP-Zc/maxresdefault.jpg"
-    },
-    {
-      "video_id": "_x8PEFN5EBY",
-      "title": "特殊詐欺被害防止 「国本刑事編 ～国本梨紗～2025　CM30秒ver.～」",
-      "url": "https://www.youtube.com/watch?v=_x8PEFN5EBY",
-      "published": "2025-10-06T07:53:49+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/_x8PEFN5EBY/maxresdefault.jpg"
-    },
-    {
-      "video_id": "rxgDcgyksxE",
-      "title": "特殊詐欺被害防止 「国本刑事編 ～国本梨紗～2025　CM15秒ver.～」",
-      "url": "https://www.youtube.com/watch?v=rxgDcgyksxE",
-      "published": "2025-10-06T07:53:34+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/rxgDcgyksxE/maxresdefault.jpg"
-    },
-    {
-      "video_id": "vBYNpdN_2u4",
-      "title": "特殊詐欺被害防止 「ホンモノ？ニセモノ？～美川憲一＆コロッケ2025　CM30秒ver.～」",
-      "url": "https://www.youtube.com/watch?v=vBYNpdN_2u4",
-      "published": "2025-10-06T07:45:01+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/vBYNpdN_2u4/maxresdefault.jpg"
-    },
-    {
-      "video_id": "erIZHDDU2cI",
-      "title": "特殊詐欺被害防止 「ホンモノ？ニセモノ？～美川憲一＆コロッケ2025　CM15秒ver.～」",
-      "url": "https://www.youtube.com/watch?v=erIZHDDU2cI",
-      "published": "2025-10-06T07:44:35+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/erIZHDDU2cI/maxresdefault.jpg"
-    },
-    {
-      "video_id": "p4_DvaehNS8",
-      "title": "【大好評開催中】東山魁夷館３５周年記念展「永遠の海 ― 私は、いま、波の音を聴いている」",
-      "url": "https://www.youtube.com/watch?v=p4_DvaehNS8",
-      "published": "2025-10-06T00:31:05+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/p4_DvaehNS8/maxresdefault.jpg"
-    },
-    {
-      "video_id": "AphFE-Kmp9U",
-      "title": "YES！ものづくり　TRILL.①",
-      "url": "https://www.youtube.com/watch?v=AphFE-Kmp9U",
-      "published": "2025-10-03T04:00:14+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/AphFE-Kmp9U/maxresdefault.jpg"
-    },
-    {
-      "video_id": "AlnscmGj4-M",
-      "title": "韓国ダンスウェアブランドのギュンギュン伸びるスーツや高級感のあるウールライクなスーツなど秋のビジネススタイルを紹介！",
-      "url": "https://www.youtube.com/watch?v=AlnscmGj4-M",
-      "published": "2025-10-02T06:50:00+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/AlnscmGj4-M/maxresdefault.jpg"
-    },
-    {
-      "video_id": "NgVex05RNxY",
-      "title": "軽くてこびりつきにくいフライパンや３つの肌触りと４種類のサイズのタオルなどホームコーディからベストヒット商品を紹介！",
-      "url": "https://www.youtube.com/watch?v=NgVex05RNxY",
-      "published": "2025-09-25T06:50:00+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/NgVex05RNxY/maxresdefault.jpg"
-    },
-    {
-      "video_id": "DUWaVY7JzMU",
-      "title": "長野から起業家を～NIB 長野イノベーションベースの挑戦～㊶",
-      "url": "https://www.youtube.com/watch?v=DUWaVY7JzMU",
-      "published": "2025-09-21T23:00:13+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/DUWaVY7JzMU/maxresdefault.jpg"
-    },
-    {
-      "video_id": "AmDyVJUju2M",
-      "title": "YES！ものづくり　パスカル②",
-      "url": "https://www.youtube.com/watch?v=AmDyVJUju2M",
-      "published": "2025-09-19T04:00:28+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/AmDyVJUju2M/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "aKGaRomsjC-ONZokXkJqBWAMOIU",
+      "id": "VVV3Vk1hZE1TWE9TMEFNdVdfM25seVJRLnVITm5OaG5kUGZv",
+      "snippet": {
+        "publishedAt": "2025-10-16T23:16:29Z",
+        "channelId": "UCwVMadMSXOS0AMuW_3nlyRQ",
+        "title": "【大好評開催中】東山魁夷館３５周年記念展「永遠の海 ― 私は、いま、波の音を聴いている」",
+        "description": "長野県立美術館\n2025年10月4日（土）～ 2025年11月16日（日）\n\nhttps://sbc21.co.jp/higashiyama35/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uHNnNhndPfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBC信越放送",
+        "playlistId": "UUwVMadMSXOS0AMuW_3nlyRQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uHNnNhndPfo"
+        },
+        "videoOwnerChannelTitle": "SBC信越放送",
+        "videoOwnerChannelId": "UCwVMadMSXOS0AMuW_3nlyRQ"
+      }
     }
   ]
 }

@@ -25,7 +25,7 @@ if not api_keys:
     raise ValueError("未能从配置文件中读取到任何API密钥，请检查配置文件路径和内容是否正确")
 
 # 读取JSON文件
-with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as file:
+with open('../all_channels.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # 初始化头像保存目录

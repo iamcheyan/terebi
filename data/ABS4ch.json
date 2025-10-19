@@ -1,111 +1,102 @@
 {
+  "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2025-10-19T12:02:30.418916+00:00",
+  "original_name": "ABS秋田放送",
+  "updated_at": "2025-10-20T01:12:49.573434",
   "videos": [
     {
-      "video_id": "uVQgZFldnsw",
-      "title": "【アーカイブ】第104回全国高校サッカー選手権 秋田県大会 準決勝",
-      "url": "https://www.youtube.com/watch?v=uVQgZFldnsw",
-      "published": "2025-10-18T07:27:03+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/uVQgZFldnsw/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "tb2cvc43C43IisEpp8qdHZIgNCo",
+      "id": "VVVWUnM4ZFltOU9ILV9nNFY4NEJmYlF3LnVWUWdaRmxkbnN3",
+      "snippet": {
+        "publishedAt": "2025-10-18T07:27:03Z",
+        "channelId": "UCVRs8dYm9OH-_g4V84BfbQw",
+        "title": "【アーカイブ】第104回全国高校サッカー選手権 秋田県大会 準決勝",
+        "description": "【アーカイブ】ABSあきたアプリ限定配信！\n\n会場　ソユースタジアム\n\n配信スケジュール\n配信予定日　10月18日（土）\n第一試合 10：25ごろ 秋 田 商  対  新 屋 ※10：30キックオフ\n第二試合 13：25ごろ 明 桜  対  西 目 ※13：30キックオフ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uVQgZFldnsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uVQgZFldnsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uVQgZFldnsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uVQgZFldnsw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uVQgZFldnsw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABS秋田放送",
+        "playlistId": "UUVRs8dYm9OH-_g4V84BfbQw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uVQgZFldnsw"
+        },
+        "videoOwnerChannelTitle": "ABS秋田放送",
+        "videoOwnerChannelId": "UCVRs8dYm9OH-_g4V84BfbQw"
+      }
     },
     {
-      "video_id": "fFkS4JRpLio",
-      "title": "住宅街にクマ２頭8時間 緊急銃猟実施出来ず",
-      "url": "https://www.youtube.com/watch?v=fFkS4JRpLio",
-      "published": "2025-10-17T22:43:51+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/fFkS4JRpLio/maxresdefault.jpg"
-    },
-    {
-      "video_id": "J9UlfuebToU",
-      "title": "【投稿映像】サイレン音に慣れた？ 農園で果実食べる巨大グマ",
-      "url": "https://www.youtube.com/watch?v=J9UlfuebToU",
-      "published": "2025-10-17T05:01:34+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/J9UlfuebToU/maxresdefault.jpg"
-    },
-    {
-      "video_id": "C17gC7johMw",
-      "title": "中学校で三味線ライブ 「迫力がすごい！」",
-      "url": "https://www.youtube.com/watch?v=C17gC7johMw",
-      "published": "2025-10-17T05:00:12+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/C17gC7johMw/maxresdefault.jpg"
-    },
-    {
-      "video_id": "Iobp6OpgI3s",
-      "title": "１０月１７日（金）秋田県内のニュースヘッドライン",
-      "url": "https://www.youtube.com/watch?v=Iobp6OpgI3s",
-      "published": "2025-10-17T04:27:13+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/Iobp6OpgI3s/maxresdefault.jpg"
-    },
-    {
-      "video_id": "H4idUQpSikg",
-      "title": "【特集】冬眠しないクマ 「柿につくと厄介」",
-      "url": "https://www.youtube.com/watch?v=H4idUQpSikg",
-      "published": "2025-10-17T00:45:40+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/H4idUQpSikg/maxresdefault.jpg"
-    },
-    {
-      "video_id": "T3-sdiVF4YU",
-      "title": "4時間居座りクマ捕獲 推定年齢8歳のオス",
-      "url": "https://www.youtube.com/watch?v=T3-sdiVF4YU",
-      "published": "2025-10-17T00:37:06+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/T3-sdiVF4YU/maxresdefault.jpg"
-    },
-    {
-      "video_id": "YX27WJLpwXg",
-      "title": "強姦致傷の罪 無罪主張の男に懲役10年求刑",
-      "url": "https://www.youtube.com/watch?v=YX27WJLpwXg",
-      "published": "2025-10-17T00:30:20+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/YX27WJLpwXg/maxresdefault.jpg"
-    },
-    {
-      "video_id": "FnfBe_Wacv4",
-      "title": "生成AIでアイドルわいせつ画像 秋田市の31歳男逮捕",
-      "url": "https://www.youtube.com/watch?v=FnfBe_Wacv4",
-      "published": "2025-10-17T00:22:38+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/FnfBe_Wacv4/maxresdefault.jpg"
-    },
-    {
-      "video_id": "TctiJ0mNf_8",
-      "title": "コンビニにタクシー突っ込む 大館市「事故でパニックになった」",
-      "url": "https://www.youtube.com/watch?v=TctiJ0mNf_8",
-      "published": "2025-10-17T00:02:05+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/TctiJ0mNf_8/maxresdefault.jpg"
-    },
-    {
-      "video_id": "ANMwuOjPnWo",
-      "title": "10月16日午前 秋田市千秋城下町にクマ居座り現場映像",
-      "url": "https://www.youtube.com/watch?v=ANMwuOjPnWo",
-      "published": "2025-10-16T14:58:36+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/ANMwuOjPnWo/maxresdefault.jpg"
-    },
-    {
-      "video_id": "ZbmnUWkgDpc",
-      "title": "秋田大学ラジオレポート　秋田大学祭について②",
-      "url": "https://www.youtube.com/watch?v=ZbmnUWkgDpc",
-      "published": "2025-10-16T08:00:39+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/ZbmnUWkgDpc/maxresdefault.jpg"
-    },
-    {
-      "video_id": "pFKxy5un4pY",
-      "title": "小学校で竿燈体験授業 「家でも挑戦したい！」",
-      "url": "https://www.youtube.com/watch?v=pFKxy5un4pY",
-      "published": "2025-10-16T07:00:49+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/pFKxy5un4pY/maxresdefault.jpg"
-    },
-    {
-      "video_id": "Ix8nUCkHs6I",
-      "title": "【投稿映像】秋田市大平台にクマ２頭 何かを食べている様子",
-      "url": "https://www.youtube.com/shorts/Ix8nUCkHs6I",
-      "published": "2025-10-16T04:30:34+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/Ix8nUCkHs6I/maxresdefault.jpg"
-    },
-    {
-      "video_id": "mzeksSbCZmk",
-      "title": "【投稿映像】女子高生を追いかけるイノシシ 由利本荘市中心部",
-      "url": "https://www.youtube.com/watch?v=mzeksSbCZmk",
-      "published": "2025-10-16T04:18:28+00:00",
-      "thumbnail_url": "https://img.youtube.com/vi/mzeksSbCZmk/maxresdefault.jpg"
+      "kind": "youtube#playlistItem",
+      "etag": "H_TO0uMrFHX3ecwgKsdB0MeYdl0",
+      "id": "VVVWUnM4ZFltOU9ILV9nNFY4NEJmYlF3LmZGa1M0SlJwTGlv",
+      "snippet": {
+        "publishedAt": "2025-10-17T22:43:51Z",
+        "channelId": "UCVRs8dYm9OH-_g4V84BfbQw",
+        "title": "住宅街にクマ２頭8時間 緊急銃猟実施出来ず",
+        "description": "潟上市の住宅街に約8時間とどまり続けた親子とみられるクマ。現場は金足農業高校近くの住宅街で、緊急銃猟の実施は見送られました。\n\n＃クマ＃潟上市＃居座り＃金足農業＃捕獲",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fFkS4JRpLio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fFkS4JRpLio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fFkS4JRpLio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fFkS4JRpLio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fFkS4JRpLio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABS秋田放送",
+        "playlistId": "UUVRs8dYm9OH-_g4V84BfbQw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fFkS4JRpLio"
+        },
+        "videoOwnerChannelTitle": "ABS秋田放送",
+        "videoOwnerChannelId": "UCVRs8dYm9OH-_g4V84BfbQw"
+      }
     }
   ]
 }

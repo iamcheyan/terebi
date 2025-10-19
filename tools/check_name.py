@@ -4,7 +4,7 @@ import glob
 
 # 打开 japan_tv_youtube_channels.json 文件
 try:
-    with open('../japan_tv_youtube_channels.json', 'r', encoding='utf-8') as f:
+    with open('../all_channels.json', 'r', encoding='utf-8') as f:
         channels_data = json.load(f)
 except Exception as e:
     print(f"读取 japan_tv_youtube_channels.json 文件时出错: {e}")
@@ -29,7 +29,7 @@ def extract_channel_names(data):
 for category, channels in channels_data.items():
     extract_channel_names(channels)
 
-print("japan_tv_youtube_channels.json 中的频道名称:")
+print("all_channels.json 中的频道名称:")
 print(f"共找到 {len(channel_names)} 个频道")
 for name in channel_names:
     print(name)
@@ -57,7 +57,7 @@ for name in data_files:
 missing_channels = [name for name in channel_names if name not in data_files]
 if missing_channels:
     print("\n" + "-" * 50 + "\n")
-    print(f"在 japan_tv_youtube_channels.json 中找到但在 data 目录中未找到的频道: {len(missing_channels)} 个")
+    print(f"在 all_channels.json 中找到但在 data 目录中未找到的频道: {len(missing_channels)} 个")
     for name in missing_channels:
         print(name)
 
@@ -65,6 +65,6 @@ if missing_channels:
 extra_channels = [name for name in data_files if name not in channel_names]
 if extra_channels:
     print("\n" + "-" * 50 + "\n")
-    print(f"在 data 目录中找到但在 japan_tv_youtube_channels.json 中未找到的频道: {len(extra_channels)} 个")
+    print(f"在 data 目录中找到但在 all_channels.json 中未找到的频道: {len(extra_channels)} 个")
     for name in extra_channels:
         print(name)

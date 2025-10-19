@@ -552,7 +552,7 @@ async function fetchChannelList(autoSelectRandom = false) {
         const showProblematic = urlParams.get('problems') === '1';
         
         // 加载合并后的数据
-        const response = await fetch('all_channels.json');
+        const response = await fetch('all_channels.json?v=202510192259');
         if (!response.ok) {
             throw new Error('无法获取频道列表: ' + response.status);
         }
@@ -1010,7 +1010,7 @@ async function getChannelUploads(channelId, channelName) {
                 const showTvStations = urlParams.get('tv') === '1';
                 
                 // 加载合并后的数据
-                const response = await fetch('all_channels.json');
+                const response = await fetch('all_channels.json?v=202510192259');
                 const allChannelsData = await response.json();
                 
                 let channelsData;
@@ -2284,7 +2284,7 @@ async function loadChannelStats() {
         const showTvStations = urlParams.get('tv') === '1';
         
         // 加载合并后的数据
-        const response = await fetch('all_channels.json');
+        const response = await fetch('all_channels.json?v=202510192259');
         if (!response.ok) {
             throw new Error('チャンネル一覧を取得できません: ' + response.status);
         }
@@ -3503,7 +3503,7 @@ async function searchTvPrograms(query) {
         const showTvStations = urlParams.get('tv') === '1';
         
         // 加载合并后的数据
-        const response = await fetch('all_channels.json');
+        const response = await fetch('all_channels.json?v=202510192259');
         if (!response.ok) throw new Error('チャンネルデータを取得できません');
         const allChannelsData = await response.json();
         
