@@ -227,8 +227,8 @@ python tools/get_channel_videos.py --videos-per-channel 200
 # すべてのプロンプトを自動確認
 python tools/get_channel_videos.py --yes
 
-# 処理後にFTPサーバーにアップロード
-python tools/get_channel_videos.py --upload
+# 基本使用（每个频道获取500个视频）
+python tools/get_channel_videos.py
 ```
 
 ### 5. get_picture.py

@@ -1,15 +1,14 @@
 import json
 import re
 import random
-import requests
 import os
 import urllib.parse
+import urllib.request
+import urllib.error
 from datetime import datetime
 import subprocess
 import traceback
 import argparse
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 import time
 import sys
 
@@ -346,7 +345,100 @@ def process_channels_in_groups():
                 continue
 
 # 处理单个频道的函数
-def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=False):
+def fetch_channel_videos_via_rss(channel_id, max_count=200):
+    """使用RSS方式获取频道视频列表"""
+    if not channel_id:
+        return []
+    
+    feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
+    try:
+        import urllib.request
+        import xml.etree.ElementTree as ET
+        
+        req = urllib.request.Request(feed_url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            xml_text = resp.read()
+    except Exception as e:
+        print(f"❌ RSS获取失败: {e}")
+        return []
+
+    try:
+        root = ET.fromstring(xml_text)
+    except Exception as e:
+        print(f"❌ RSS解析失败: {e}")
+        return []
+
+    ns = {
+        'atom': 'http://www.w3.org/2005/Atom',
+        'media': 'http://search.yahoo.com/mrss/'
+    }
+    entries = root.findall('atom:entry', ns)
+
+    videos = []
+    for entry in entries[:max_count]:
+        # 安全地获取video_id
+        video_id = None
+        try:
+            video_id_el = entry.find('yt:videoId', {'yt': 'http://www.youtube.com/xml/schemas/2015'})
+            if video_id_el is not None and hasattr(video_id_el, 'text'):
+                video_id = video_id_el.text
+        except Exception:
+            pass
+        
+        if not video_id:
+            # 备用：从 link href 中解析 v 参数
+            try:
+                link_el = entry.find('atom:link', ns)
+                if link_el is not None:
+                    href = link_el.get('href', '')
+                    q = urllib.parse.urlparse(href).query
+                    qs = urllib.parse.parse_qs(q)
+                    video_id = (qs.get('v') or [''])[0]
+            except Exception:
+                pass
+
+        # 安全地获取标题
+        title = ""
+        try:
+            title_el = entry.find('atom:title', ns)
+            if title_el is not None and hasattr(title_el, 'text'):
+                title = title_el.text
+        except Exception:
+            pass
+
+        # 安全地获取发布时间
+        published_at = ""
+        try:
+            published_el = entry.find('atom:published', ns)
+            if published_el is not None and hasattr(published_el, 'text'):
+                published_at = published_el.text
+        except Exception:
+            pass
+
+        # 安全地获取缩略图
+        thumb_url = None
+        try:
+            media_group = entry.find('media:group', ns)
+            if media_group is not None:
+                thumb = media_group.find('media:thumbnail', ns)
+                if thumb is not None:
+                    thumb_url = thumb.get('url')
+        except Exception:
+            pass
+
+        videos.append({
+            "id": video_id or "",
+            "title": title,
+            "description": "",
+            "publishedAt": published_at,
+            "thumbnails": {"default": {"url": thumb_url}} if thumb_url else {},
+            "url": f"https://www.youtube.com/watch?v={video_id}" if video_id else ""
+        })
+
+    return videos
+
+
+def process_channel(info, videos_per_channel=500, auto_confirm=False):
     global API_KEY
     
     print(f'\n准备处理频道: {info["name"]}')
@@ -474,17 +566,7 @@ def process_channel(info, videos_per_channel=500, auto_confirm=False, upload=Fal
                     processing_output = result.stdout
                     processing_has_new_videos = "没有新增视频" not in processing_output
                     
-                    # 如果启用了上传功能且有新增视频，执行上传操作
-                    if upload:
-                        if has_new_videos and processing_has_new_videos:
-                            data_file_path = os.path.join(PROJECT_ROOT, 'data', f'{safe_name}.json')
-                            try:
-                                subprocess.run([sys.executable, os.path.join(SCRIPT_DIR, 'update2ftp.py'), data_file_path], check=True)
-                                print(f"文件 {data_file_path} 已上传")
-                            except Exception as e:
-                                print(f"上传文件时出错: {str(e)}")
-                        else:
-                            print("没有真正的新增视频，跳过上传")
+                    # 处理完成
                 except Exception as e:
                     print(f"处理文件时出错: {str(e)}")
             else:
@@ -726,7 +808,7 @@ def process_source_files():
         traceback.print_exc()
         
 # 修改main函数，移除only_uncached参数
-def main(force_update=False, auto_task=False, videos_per_channel=500, upload=False):
+def main(force_update=False, auto_task=False, videos_per_channel=500):
     # 获取所有频道
     channels_to_process = shuffled_info.copy()
     
@@ -799,7 +881,7 @@ def main(force_update=False, auto_task=False, videos_per_channel=500, upload=Fal
         for info in group_channels:
             try:
                 # 在自动任务模式下自动确认
-                process_channel(info, videos_per_channel, auto_confirm=auto_task, upload=upload)
+                process_channel(info, videos_per_channel, auto_confirm=auto_task)
                 channels_processed += 1
             except Exception as e:
                 print(f"处理频道 {info['name']} 时出错: {str(e)}")
@@ -821,8 +903,6 @@ if __name__ == "__main__":
                       help='自动确认所有提示，不询问用户')
     parser.add_argument('--auto-task', action='store_true',
                       help='自动任务模式，优先处理未缓存频道，自动管理API配额')
-    parser.add_argument('--upload', '-u', action='store_true',
-                      help='处理完文件后自动上传')
     args = parser.parse_args()
     
     # 当请求大量视频时提示用户确认（除非是自动任务模式）
@@ -845,15 +925,15 @@ if __name__ == "__main__":
     
     # 自动任务模式
     if args.auto_task:
-        main(args.force, True, args.videos_per_channel, args.upload)
+        main(args.force, True, args.videos_per_channel)
     # 使用自定义视频数量
     elif args.videos_per_channel:
         for info in shuffled_info:
             try:
-                process_channel(info, args.videos_per_channel, args.yes, args.upload)
+                process_channel(info, args.videos_per_channel, args.yes)
             except Exception as e:
                 print(f"处理频道 {info['name']} 时出错: {str(e)}")
         process_source_files()
     # 使用原有逻辑
     else:
-        main(args.force, False, 500, args.upload)
+        main(args.force, False, 500)
