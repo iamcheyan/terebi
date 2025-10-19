@@ -1249,13 +1249,6 @@
                 "type": "youtube"
             },
             {
-                "name": "しおねる",
-                "url": "https://www.youtube.com/@shioneru",
-                "cached": true,
-                "type": "youtube",
-                "bakname": "shioneru"
-            },
-            {
                 "name": "鈴木優香",
                 "url": "https://www.youtube.com/@yuuka_chan815",
                 "cached": true,
@@ -1514,7 +1507,15 @@
                 "skip": false
             }
         ],
-        "交通・鉄道": [],
+        "交通・鉄道": [
+            {
+                "name": "しおねる",
+                "url": "https://www.youtube.com/@shioneru",
+                "cached": true,
+                "type": "youtube",
+                "bakname": "shioneru"
+            }
+        ],
         "テック・ガジェット": [],
         "エンタメ・Vlog": [],
         "その他チャンネル": [
