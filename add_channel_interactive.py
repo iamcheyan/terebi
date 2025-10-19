@@ -187,7 +187,16 @@ def http_get_json(url: str, params: dict) -> dict:
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=30) as resp:
-            return json.loads(resp.read().decode("utf-8"))
+            data = json.loads(resp.read().decode("utf-8"))
+            # 检查API响应中的错误
+            if "error" in data:
+                error_info = data["error"]
+                print(f"⚠️ API错误: {error_info.get('message', 'Unknown error')}")
+                if "quotaExceeded" in str(error_info):
+                    print("💡 提示: API配额已用完，请等待或使用其他API Key")
+                elif "forbidden" in str(error_info).lower():
+                    print("💡 提示: API Key可能无效或权限不足")
+            return data
     except Exception as e:
         print(f"❌ HTTP请求失败: {e}")
         return {}
@@ -249,9 +258,21 @@ def resolve_channel_id_via_html(url: str) -> Tuple[Optional[str], Optional[str]]
         print(f"❌ HTML抓取失败: {e}")
         return None, None
 
-    # 直接从HTML中匹配 channelId
-    m = re.search(r'"channelId"\s*:\s*"(UC[\w-]{22})"', html)
-    channel_id = m.group(1) if m else None
+    # 尝试多种方式查找channelId
+    patterns = [
+        r'"channelId"\s*:\s*"(UC[\w-]{22})"',
+        r'"externalId"\s*:\s*"(UC[\w-]{22})"',
+        r'"ucid"\s*:\s*"(UC[\w-]{22})"',
+        r'"channelId":"(UC[\w-]{22})"',
+        r'channelId.*?"(UC[\w-]{22})"',
+    ]
+    
+    channel_id = None
+    for pattern in patterns:
+        m = re.search(pattern, html)
+        if m:
+            channel_id = m.group(1)
+            break
 
     # 抓取标题（优先 og:title，其次 <title>）
     title = None
@@ -295,29 +316,61 @@ def fetch_channel_uploads_via_rss(channel_id: str, max_count: int = 200) -> List
 
     videos: List[dict] = []
     for entry in entries[:max_count]:
-        video_id = (entry.find('yt:videoId', {'yt': 'http://www.youtube.com/xml/schemas/2015'}) or {}).text if entry is not None else None
+        # 安全地获取video_id
+        video_id = None
+        try:
+            video_id_el = entry.find('yt:videoId', {'yt': 'http://www.youtube.com/xml/schemas/2015'})
+            if video_id_el is not None and hasattr(video_id_el, 'text'):
+                video_id = video_id_el.text
+        except Exception:
+            pass
+        
         if not video_id:
             # 备用：从 link href 中解析 v 参数
-            link_el = entry.find('atom:link', ns)
-            href = link_el.get('href') if link_el is not None else ''
-            q = urllib.parse.urlparse(href).query
-            qs = urllib.parse.parse_qs(q)
-            video_id = (qs.get('v') or [''])[0]
+            try:
+                link_el = entry.find('atom:link', ns)
+                if link_el is not None:
+                    href = link_el.get('href', '')
+                    q = urllib.parse.urlparse(href).query
+                    qs = urllib.parse.parse_qs(q)
+                    video_id = (qs.get('v') or [''])[0]
+            except Exception:
+                pass
 
-        title_el = entry.find('atom:title', ns)
-        published_el = entry.find('atom:published', ns)
-        media_group = entry.find('media:group', ns)
+        # 安全地获取标题
+        title = ""
+        try:
+            title_el = entry.find('atom:title', ns)
+            if title_el is not None and hasattr(title_el, 'text'):
+                title = title_el.text
+        except Exception:
+            pass
+
+        # 安全地获取发布时间
+        published_at = ""
+        try:
+            published_el = entry.find('atom:published', ns)
+            if published_el is not None and hasattr(published_el, 'text'):
+                published_at = published_el.text
+        except Exception:
+            pass
+
+        # 安全地获取缩略图
         thumb_url = None
-        if media_group is not None:
-            thumb = media_group.find('media:thumbnail', ns)
-            if thumb is not None:
-                thumb_url = thumb.get('url')
+        try:
+            media_group = entry.find('media:group', ns)
+            if media_group is not None:
+                thumb = media_group.find('media:thumbnail', ns)
+                if thumb is not None:
+                    thumb_url = thumb.get('url')
+        except Exception:
+            pass
 
         videos.append({
             "id": video_id or "",
-            "title": (title_el.text if title_el is not None else ""),
+            "title": title,
             "description": "",
-            "publishedAt": (published_el.text if published_el is not None else ""),
+            "publishedAt": published_at,
             "thumbnails": {"default": {"url": thumb_url}} if thumb_url else {},
             "url": f"https://www.youtube.com/watch?v={video_id}" if video_id else ""
         })
@@ -368,7 +421,7 @@ def fetch_channel_uploads(channel_id: str, api_key: str, max_count: int = 200) -
     return videos[:max_count]
 
 
-def save_data_file(name: str, channel_id: str, channel_title: str, videos: List[dict]) -> Path:
+def save_data_file(name: str, channel_id: str, channel_title: str, videos: List[dict], bakname: str = None) -> Path:
     """保存视频数据到JSON文件"""
     DATA_DIR.mkdir(exist_ok=True)
     
@@ -379,7 +432,15 @@ def save_data_file(name: str, channel_id: str, channel_title: str, videos: List[
         "videos": videos,
     }
     
-    out_path = DATA_DIR / f"{name}.json"
+    # 优先使用bakname，否则清理文件名中的特殊字符
+    if bakname:
+        safe_name = bakname
+    else:
+        safe_name = "".join(c for c in name if c.isalnum() or c in (' ', '-', '_', '.')).rstrip()
+        if not safe_name:
+            safe_name = "channel"
+    
+    out_path = DATA_DIR / f"{safe_name}.json"
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
     
@@ -453,7 +514,7 @@ def download_channel_avatar(channel_id: str, api_key: str, save_name: str) -> Tu
     return raw_path, resized_path
 
 
-def process_single_channel(url: str, name: str, category: str, subcategory: str) -> bool:
+def process_single_channel(url: str, name: str, category: str, subcategory: str, bakname: str = None) -> bool:
     """处理单个频道：添加到配置并抓取数据"""
     url = normalize_url(url)
     if not url:
@@ -473,43 +534,36 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
 
     # 检查频道是否已存在
     if check_channel_exists(url):
-        print(f"⏭️ 频道已存在，跳过: {name}")
-        # 如果已存在但缺少数据文件，生成一个空的数据文件，避免前端404
-        data_path = DATA_DIR / f"{name}.json"
-        if not data_path.exists():
+        print(f"⏭️ 频道已存在，但需要检查数据文件")
+        # 检查数据文件是否存在（优先使用bakname，否则使用安全的文件名）
+        # 这里需要从配置中获取bakname，暂时使用name生成安全文件名
+        safe_name = "".join(c for c in name if c.isalnum() or c in (' ', '-', '_', '.')).rstrip()
+        if not safe_name:
+            safe_name = "channel"
+        data_path = DATA_DIR / f"{safe_name}.json"
+        if data_path.exists():
+            # 检查数据文件是否包含视频数据
             try:
-                empty = {
-                    "channel_id": "",
-                    "channel_name": name,
-                    "updated_at": datetime.now(timezone.utc).isoformat(),
-                    "videos": []
-                }
-                DATA_DIR.mkdir(exist_ok=True)
-                with open(data_path, "w", encoding="utf-8") as f:
-                    json.dump(empty, f, ensure_ascii=False, indent=2)
-                print(f"🧩 已补齐空数据文件: {data_path}")
+                with open(data_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    video_count = len(data.get("videos", []))
+                    if video_count > 0:
+                        print(f"✅ 数据文件已存在（{video_count}条视频），完全跳过: {name}")
+                        return True
+                    else:
+                        print(f"⚠️ 数据文件存在但为空，需要重新抓取: {name}")
             except Exception:
-                pass
-        # 同时保证有占位头像
-        placeholder = IMG_RESIZED_DIR / "placeholder.jpg"
-        target_logo = IMG_RESIZED_DIR / f"{name}.jpg"
-        try:
-            IMG_RESIZED_DIR.mkdir(parents=True, exist_ok=True)
-            if placeholder.exists() and not target_logo.exists():
-                import shutil
-                shutil.copyfile(placeholder, target_logo)
-                print(f"🧩 已复制占位头像: {target_logo}")
-        except Exception:
-            pass
-        return True
-
-    # 添加到配置
-    ok = upsert_channel(url=url, name=name, category=category, subcategory=subcategory)
-    if not ok:
-        print(f"❌ 添加失败: {name}")
-        return False
-
-    print(f"✅ 已添加到配置: {name}")
+                print(f"⚠️ 数据文件损坏，需要重新抓取: {name}")
+        else:
+            print(f"❌ 频道已存在但缺少数据文件，开始抓取数据...")
+            # 继续执行抓取操作，不返回
+    else:
+        # 添加到配置
+        ok = upsert_channel(url=url, name=name, category=category, subcategory=subcategory)
+        if not ok:
+            print(f"❌ 添加失败: {name}")
+            return False
+        print(f"✅ 已添加到配置: {name}")
 
     # 抓取该URL对应频道并生成 data/{名称}.json
     print("=== 正在读取 API Key 并抓取该频道（带HTML/RSS回退） ===")
@@ -519,7 +573,7 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
     if ch_id_html:
         # 无API：用RSS抓取视频
         videos = fetch_channel_uploads_via_rss(ch_id_html, max_count=200)
-        out_path = save_data_file(name=name, channel_id=ch_id_html, channel_title=ch_title_html or name, videos=videos)
+        out_path = save_data_file(name=name, channel_id=ch_id_html, channel_title=ch_title_html or name, videos=videos, bakname=bakname)
         # 头像：尝试从HTML提取 og:image
         try:
             req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -556,7 +610,7 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
 
     if not keys:
         print("❌ 未找到 API Key，且HTML解析失败。仅完成添加到配置并生成空数据。")
-        out_path = save_data_file(name=name, channel_id="", channel_title=name, videos=[])
+        out_path = save_data_file(name=name, channel_id="", channel_title=name, videos=[], bakname=bakname)
         print(f"🧩 已生成空数据文件：{out_path}")
         # 占位头像
         try:
@@ -583,12 +637,12 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
         ch_id_html, ch_title_html = resolve_channel_id_via_html(url)
         if ch_id_html:
             videos = fetch_channel_uploads_via_rss(ch_id_html, max_count=200)
-            out_path = save_data_file(name=name, channel_id=ch_id_html, channel_title=ch_title_html or name, videos=videos)
+            out_path = save_data_file(name=name, channel_id=ch_id_html, channel_title=ch_title_html or name, videos=videos, bakname=bakname)
             print(f"✅ 抓取完成（RSS）：{len(videos)} 条视频 → {out_path}")
             return True
         print("❌ 无法解析频道ID，抓取终止。已完成添加到配置。")
         # 仍然生成空的数据文件，避免前端404
-        out_path = save_data_file(name=name, channel_id="", channel_title=name, videos=[])
+        out_path = save_data_file(name=name, channel_id="", channel_title=name, videos=[], bakname=bakname)
         print(f"🧩 已生成空数据文件：{out_path}")
         # 占位头像
         try:
@@ -603,7 +657,7 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
         return True
 
     videos = fetch_channel_uploads(ch_id, api_key, max_count=200)
-    out_path = save_data_file(name=name, channel_id=ch_id, channel_title=ch_title or name, videos=videos)
+    out_path = save_data_file(name=name, channel_id=ch_id, channel_title=ch_title or name, videos=videos, bakname=bakname)
 
     # 下载并生成头像缩略图（不中断主流程）
     raw_img, resized_img = download_channel_avatar(channel_id=ch_id, api_key=api_key, save_name=name)
@@ -619,14 +673,142 @@ def process_single_channel(url: str, name: str, category: str, subcategory: str)
     return True
 
 
+def load_youtube_channels() -> dict:
+    """加载youtube_channels.json文件"""
+    channels_file = DATA_DIR / "youtube_channels.json"
+    if not channels_file.exists():
+        print(f"❌ youtube_channels.json 文件不存在: {channels_file}")
+        return {}
+    
+    try:
+        with open(channels_file, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"❌ 读取 youtube_channels.json 失败: {e}")
+        return {}
+
+
+def test_api_keys() -> bool:
+    """测试API Key是否可用"""
+    keys = load_api_keys()
+    if not keys:
+        print("❌ 未找到API Key")
+        return False
+    
+    print("=== 测试API Key ===")
+    for i, key in enumerate(keys, 1):
+        print(f"测试API Key {i}...")
+        # 使用一个简单的API调用来测试
+        resp = http_get_json(
+            "https://www.googleapis.com/youtube/v3/channels",
+            {"part": "snippet", "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw", "key": key}
+        )
+        if resp and "items" in resp:
+            print(f"✅ API Key {i} 可用")
+            return True
+        else:
+            print(f"❌ API Key {i} 不可用")
+    
+    print("❌ 所有API Key都不可用")
+    return False
+
+
+def process_json_channels() -> None:
+    """处理youtube_channels.json中的频道，检查数据文件并初始化缺失的频道"""
+    channels_data = load_youtube_channels()
+    if not channels_data:
+        return
+    
+    print("=== 检测 youtube_channels.json 中的频道 ===")
+    
+    # 先测试API Key
+    if not test_api_keys():
+        print("⚠️ 警告: 所有API Key都不可用，将使用RSS方式抓取（可能数据不完整）")
+    
+    total_channels = 0
+    missing_channels = 0
+    processed_channels = 0
+    
+    for category, channels in channels_data.items():
+        if not isinstance(channels, list):
+            continue
+            
+        print(f"\n--- 检查分类: {category} ---")
+        
+        for channel in channels:
+            if not isinstance(channel, dict):
+                continue
+                
+            total_channels += 1
+            name = channel.get("name", "")
+            url = channel.get("url", "")
+            
+            if not name or not url:
+                continue
+                
+            # 检查数据文件是否存在（优先使用bakname，否则使用安全的文件名）
+            bakname = channel.get("bakname", "")
+            if bakname:
+                safe_name = bakname
+            else:
+                safe_name = "".join(c for c in name if c.isalnum() or c in (' ', '-', '_', '.')).rstrip()
+                if not safe_name:
+                    safe_name = "channel"
+            data_file = DATA_DIR / f"{safe_name}.json"
+            
+            if data_file.exists():
+                # 检查数据文件是否包含视频数据
+                try:
+                    with open(data_file, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+                        video_count = len(data.get("videos", []))
+                        if video_count > 0:
+                            print(f"✅ {name} - 数据文件已存在（{video_count}条视频），跳过")
+                            continue
+                        else:
+                            print(f"⚠️ {name} - 数据文件存在但为空，需要重新抓取")
+                except Exception:
+                    print(f"⚠️ {name} - 数据文件损坏，需要重新抓取")
+            
+            print(f"❌ {name} - 缺少数据文件，开始初始化...")
+            missing_channels += 1
+            
+            # 提取分类信息
+            category_name = category
+            subcategory_name = "その他チャンネル"  # 默认子分类
+            
+            # 处理频道
+            try:
+                if process_single_channel(url, name, category_name, subcategory_name, bakname):
+                    processed_channels += 1
+                    print(f"✅ {name} - 初始化完成")
+                else:
+                    print(f"❌ {name} - 初始化失败")
+            except Exception as e:
+                print(f"❌ {name} - 初始化失败: {e}")
+    
+    print(f"\n=== 处理完成 ===")
+    print(f"总频道数: {total_channels}")
+    print(f"缺少数据文件: {missing_channels}")
+    print(f"成功初始化: {processed_channels}")
+    if processed_channels > 0:
+        print("👉 请刷新网页查看新频道")
+
+
 def main():
     parser = argparse.ArgumentParser(description="添加YouTube频道到配置并抓取数据")
     parser.add_argument("--url", nargs="+", help="YouTube频道URL（支持多个，如 --url @handle1 @handle2）")
     parser.add_argument("--name", help="显示名称（默认用 handle/ID）")
     parser.add_argument("--category", default="その他", help="分类（默认: その他）")
     parser.add_argument("--subcategory", default="その他チャンネル", help="子分类（默认: その他チャンネル）")
+    parser.add_argument("--json", action="store_true", help="检测youtube_channels.json中的频道并初始化缺失的数据文件")
     parser.add_argument("--yes", "-y", action="store_true", help="自动确认，不询问")
     args = parser.parse_args()
+
+    if args.json:
+        # JSON模式：检测youtube_channels.json中的频道
+        process_json_channels()
+        return
 
     if args.url:
         # 批量添加模式
