@@ -1057,14 +1057,6 @@
     "日本語学習": {
         "その他チャンネル": [
             {
-                "name": "Ryuuu TV / 学日文看日本",
-                "url": "https://www.youtube.com/@RyuuuTV",
-                "bakname": "RyuuuTV",
-                "cached": false,
-                "skip": false,
-                "type": "youtube"
-            },
-            {
                 "name": "Sayuri Saying",
                 "url": "https://www.youtube.com/@SayuriSaying",
                 "bakname": "SayuriSaying",
@@ -1153,22 +1145,6 @@
     "旅行・観光": {
         "その他チャンネル": [
             {
-                "name": "Unique Japan Travel / 日常に旅を",
-                "url": "https://www.youtube.com/@UniqueJapanTravel",
-                "bakname": "UniqueJapanTravel",
-                "cached": true,
-                "skip": false,
-                "type": "youtube"
-            },
-            {
-                "name": "スーツ 旅行 / Suit Travel",
-                "url": "https://www.youtube.com/@SuitTravel",
-                "bakname": "SuitTravel",
-                "cached": true,
-                "skip": false,
-                "type": "youtube"
-            },
-            {
                 "name": "はりまや気ままに旅チャンネル",
                 "url": "https://www.youtube.com/@Harimaya884",
                 "cached": true,
@@ -1187,14 +1163,6 @@
     },
     "交通・鉄道": {
         "その他チャンネル": [
-            {
-                "name": "ひろき / 鉄道Channel",
-                "url": "https://www.youtube.com/@hiroki_railway",
-                "bakname": "hiroki_railway",
-                "cached": true,
-                "skip": false,
-                "type": "youtube"
-            },
             {
                 "name": "今日の予土線",
                 "url": "https://www.youtube.com/@今日の予土線TheYodoLineTo",
@@ -1224,30 +1192,6 @@
     },
     "エンタメ・Vlog": {
         "その他チャンネル": [
-            {
-                "name": "いけちゃん / ikechan",
-                "url": "https://www.youtube.com/@ikechan0920",
-                "bakname": "ikechan0920",
-                "cached": true,
-                "skip": false,
-                "type": "youtube"
-            },
-            {
-                "name": "いけちる / ikechill",
-                "url": "https://www.youtube.com/@ikechan0920sub",
-                "bakname": "ikechan0920sub",
-                "cached": true,
-                "skip": false,
-                "type": "youtube"
-            },
-            {
-                "name": "CUL DRAMA / カルドラマ",
-                "url": "https://www.youtube.com/@culdrama",
-                "bakname": "culdrama",
-                "cached": true,
-                "skip": false,
-                "type": "youtube"
-            },
             {
                 "name": "鈴木優香",
                 "url": "https://www.youtube.com/@yuuka_chan815",
@@ -1367,20 +1311,6 @@
                 "url": "https://www.youtube.com/@123JAPAN",
                 "bakname": "123JAPAN",
                 "cached": true,
-                "skip": false
-            },
-            {
-                "name": "ゆきりぬきゅんチャンネル",
-                "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%8D%E3%82%85%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
-                "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%8D%E3%82%85%E3%82%93%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
-                "cached": false,
-                "skip": false
-            },
-            {
-                "name": "ゆきりぬのゲーム部屋",
-                "url": "https://www.youtube.com/@%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E9%83%A8%E5%B1%8B",
-                "bakname": "%E3%82%86%E3%81%8D%E3%82%8A%E3%81%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E9%83%A8%E5%B1%8B",
-                "cached": false,
                 "skip": false
             },
             {
