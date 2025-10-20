@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-10-20T01:58:06.561964",
+  "updated_at": "2025-10-21T00:01:01.268301",
   "videos": [
+    {
+      "id": "W5EbIR8pOCQ",
+      "title": "【番宣】１０月２２日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-10-20T06:59:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W5EbIR8pOCQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W5EbIR8pOCQ"
+    },
+    {
+      "id": "AvoAf1uKL0I",
+      "title": "【番宣】１０月２２日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2025-10-20T05:11:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AvoAf1uKL0I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AvoAf1uKL0I"
+    },
     {
       "id": "9KtP9dnqFUk",
       "title": "めざせ！くまもとの若き匠たち 第75回",

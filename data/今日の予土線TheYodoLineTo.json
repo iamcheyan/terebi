@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-10-20T01:58:21.526733",
+  "updated_at": "2025-10-21T00:01:05.637647",
   "videos": [
+    {
+      "id": "p7OUUdACaE8",
+      "title": "251020 155505 大内第１踏切（すまいるえきちゃん号通過）",
+      "description": "",
+      "publishedAt": "2025-10-20T11:08:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p7OUUdACaE8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p7OUUdACaE8"
+    },
+    {
+      "id": "sA1SEQjBb_w",
+      "title": "251020 155151 大内第１踏切",
+      "description": "",
+      "publishedAt": "2025-10-20T11:08:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sA1SEQjBb_w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sA1SEQjBb_w"
+    },
     {
       "id": "51lteRjDYDg",
       "title": "今週の予土線 The Yodo Line Weekly 2025 10 19",

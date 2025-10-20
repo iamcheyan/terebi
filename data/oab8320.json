@@ -1,8 +1,116 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2025-10-20T01:58:09.621362",
+  "updated_at": "2025-10-21T00:01:00.339726",
   "videos": [
+    {
+      "id": "hcfSQsaqWms",
+      "title": "警察犬「ロッキー」がお手柄　行方不明の７０代男性を発見し、                 指導士とともに表彰",
+      "description": "",
+      "publishedAt": "2025-10-20T10:24:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hcfSQsaqWms/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hcfSQsaqWms"
+    },
+    {
+      "id": "SVYKhXFe7SI",
+      "title": "ホーバークラフト増便は延期　夜間運航訓練を優先　                                     来年７月には“１日１５便”目指す",
+      "description": "",
+      "publishedAt": "2025-10-20T10:24:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SVYKhXFe7SI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SVYKhXFe7SI"
+    },
+    {
+      "id": "y6hYmYG6SOo",
+      "title": "由布市長選　現職相馬氏が無投票で３選　インフラ整備など掲げる",
+      "description": "",
+      "publishedAt": "2025-10-20T10:24:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y6hYmYG6SOo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y6hYmYG6SOo"
+    },
+    {
+      "id": "ErTRW-aP2n8",
+      "title": "貸会議室大手ＴＫＰ　大分駅前に新拠点　                                                         貸会議室とコワーキングスペース融合",
+      "description": "",
+      "publishedAt": "2025-10-20T10:24:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ErTRW-aP2n8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ErTRW-aP2n8"
+    },
+    {
+      "id": "YCHfsR8-GKM",
+      "title": "親子で学ぶ「防災と天気」　竜巻や地震を体感できるイベントも",
+      "description": "",
+      "publishedAt": "2025-10-20T10:24:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YCHfsR8-GKM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YCHfsR8-GKM"
+    },
+    {
+      "id": "b57LhsgUC4A",
+      "title": "自動車の定期点検を呼びかけ　整備振興会が啓発キャンペーン「１年点検を」",
+      "description": "",
+      "publishedAt": "2025-10-20T10:24:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b57LhsgUC4A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b57LhsgUC4A"
+    },
+    {
+      "id": "89i_cW8QKDI",
+      "title": "村山富市元総理を悼み記帳所を開設　県庁と大分市役所に",
+      "description": "",
+      "publishedAt": "2025-10-20T10:24:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/89i_cW8QKDI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=89i_cW8QKDI"
+    },
+    {
+      "id": "1QaG1toohuM",
+      "title": "文化勲章受章のコシノジュンコさんが登壇　大分で竹工芸の可能性語る",
+      "description": "",
+      "publishedAt": "2025-10-20T03:17:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1QaG1toohuM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1QaG1toohuM"
+    },
+    {
+      "id": "OgGRm2GJOW8",
+      "title": "４歳男児に暴行　大分市の３５歳男を傷害容疑で逮捕",
+      "description": "",
+      "publishedAt": "2025-10-20T03:15:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OgGRm2GJOW8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OgGRm2GJOW8"
+    },
     {
       "id": "3zdFFQ7UNn4",
       "title": "明治安田Ｊリーグウォーキングで健康作りを目指す　４５０人が参加",

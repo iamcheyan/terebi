@@ -1,8 +1,80 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2025-10-20T01:57:41.523519",
+  "updated_at": "2025-10-21T00:00:27.961809",
   "videos": [
+    {
+      "id": "-u-KTsAztjI",
+      "title": "維新が高市氏への投票決定　女性初「高市総理」あす誕生へ",
+      "description": "",
+      "publishedAt": "2025-10-20T10:24:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-u-KTsAztjI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-u-KTsAztjI"
+    },
+    {
+      "id": "pdOMUbqJOSo",
+      "title": "橿原市で住宅全焼　３人の遺体発見　住人の親子か",
+      "description": "",
+      "publishedAt": "2025-10-20T10:24:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pdOMUbqJOSo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pdOMUbqJOSo"
+    },
+    {
+      "id": "OxCzkBnljwk",
+      "title": "無投票で４回目の当選　天理市　並河市長が初登庁",
+      "description": "",
+      "publishedAt": "2025-10-20T10:23:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OxCzkBnljwk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OxCzkBnljwk"
+    },
+    {
+      "id": "E8Cx2sxYpwo",
+      "title": "大神神社で秋の収穫を感謝　稲刈りの神事「抜穂祭」",
+      "description": "",
+      "publishedAt": "2025-10-20T10:22:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E8Cx2sxYpwo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E8Cx2sxYpwo"
+    },
+    {
+      "id": "gjCBLwLkipY",
+      "title": "奈良トヨタ　まほろばクリーンキャンペーン",
+      "description": "",
+      "publishedAt": "2025-10-20T10:22:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gjCBLwLkipY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gjCBLwLkipY"
+    },
+    {
+      "id": "GyHnCGTHdH0",
+      "title": "奈良県立図書情報館　福井さとこ絵本原画展",
+      "description": "",
+      "publishedAt": "2025-10-20T01:36:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GyHnCGTHdH0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GyHnCGTHdH0"
+    },
     {
       "id": "lj5IGkVVckg",
       "title": "教職員の対応を具体化　香芝市　いじめ防止などに向け基本方針　改正",

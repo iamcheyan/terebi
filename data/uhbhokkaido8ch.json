@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2025-10-20T01:57:02.476953",
+  "updated_at": "2025-10-21T00:01:03.339858",
   "videos": [
+    {
+      "id": "Zrk0L1cGcHk",
+      "title": "みんテレ　10月21日（火）放送",
+      "description": "",
+      "publishedAt": "2025-10-20T10:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Zrk0L1cGcHk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Zrk0L1cGcHk"
+    },
+    {
+      "id": "_nANctd81NA",
+      "title": "Yagien Ballpark　10月24日（金）放送",
+      "description": "",
+      "publishedAt": "2025-10-20T05:19:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_nANctd81NA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_nANctd81NA"
+    },
     {
       "id": "1NmkPUiFYoo",
       "title": "松岡の北の夕飲み　10月26日（日）夕方4時放送",
