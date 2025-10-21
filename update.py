@@ -210,8 +210,8 @@ def main():
     )
     
     # 默认命令（完整更新）
-    parser.add_argument("--videos-per-channel", type=int, default=500, 
-                       help="每个频道抓取的视频数量（默认: 500）")
+    parser.add_argument("--videos-per-channel", type=int, default=200, 
+                       help="每个频道抓取的视频数量（默认: 200，优化后减少API调用）")
     parser.add_argument("--auto-task", action="store_true", 
                        help="自动任务模式，按更新时间排序并管理配额，优先处理未缓存的频道")
     parser.add_argument("--yes", "-y", action="store_true", 

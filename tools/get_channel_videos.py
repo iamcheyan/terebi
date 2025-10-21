@@ -1005,9 +1005,9 @@ def main(force_update=False, auto_task=False, videos_per_channel=500):
     
     # 计算每个API密钥可以处理的频道数量（考虑配额限制）
     # 假设每个频道需要 (videos_per_channel/50) 次API调用，每个密钥每天有10,000单位配额
-    # 为安全起见，我们只使用配额的80%
+    # 为安全起见，我们只使用配额的50%，避免配额超限
     api_calls_per_channel = (videos_per_channel + 49) // 50
-    safe_quota_per_key = 8000  # 80% of 10,000
+    safe_quota_per_key = 5000  # 50% of 10,000，更保守的配额使用
     max_channels_per_key = safe_quota_per_key // api_calls_per_channel
     
     if auto_task:
@@ -1061,8 +1061,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='处理YouTube频道视频数据')
     parser.add_argument('--force', '-f', action='store_true',
                       help='强制更新所有频道，忽略时间检查')
-    parser.add_argument('--videos-per-channel', type=int, default=500,
-                      help='每个频道获取的视频数量，默认500')
+    parser.add_argument('--videos-per-channel', type=int, default=200,
+                      help='每个频道获取的视频数量，默认200（优化后减少API调用）')
     parser.add_argument('--yes', '-y', action='store_true',
                       help='自动确认所有提示，不询问用户')
     parser.add_argument('--auto-task', action='store_true',
