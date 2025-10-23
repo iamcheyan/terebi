@@ -1,8 +1,20 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2025-10-23T19:06:23.293162",
+  "updated_at": "2025-10-24T00:00:21.401137",
   "videos": [
+    {
+      "id": "yRTHZZ1XORE",
+      "title": "堀潤リポート　台風被害の八丈島、産業に大打撃　アシタバ加工工場は「解体・再建に2億円」　土産物店にも被害の余波が…",
+      "description": "",
+      "publishedAt": "2025-10-23T13:17:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yRTHZZ1XORE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yRTHZZ1XORE"
+    },
     {
       "id": "FSNUeSowTA0",
       "title": "東京出入国在留管理局が不法残留者と誤認定　外国人を6日間収容",
