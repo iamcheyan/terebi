@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
-  "channel_name": "kbskyoto",
-  "updated_at": "2025-03-07T23:18:07.733483",
+  "channel_name": "KBS京都",
+  "updated_at": "2025-10-23T19:05:50.302221",
   "videos": [
+    {
+      "id": "qeYAggE6Uvo",
+      "title": "【特集】ビールでまちを活性化！！NEXT AWARD受賞 与謝野発のローカルベンチャー／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2025-10-21T07:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qeYAggE6Uvo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qeYAggE6Uvo"
+    },
     {
       "id": "SnDcgqV88vQ",
       "title": "キュンと！「京都のAI最前線！」 | KBS京都テレビ（2025年2月28日放送分）",

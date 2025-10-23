@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7oQ9uMD7914CY7-ZheHrow",
-  "channel_name": "yabチャンネル",
-  "updated_at": "2025-03-08T23:05:11.128116",
+  "channel_name": "山口朝日放送（yab）",
+  "updated_at": "2025-10-23T19:06:32.412831",
   "videos": [
+    {
+      "id": "EjQwxXK8WKg",
+      "title": "【ｙａｂえほんプロジェクト】デジタル絵本「もう のこさんよ」",
+      "description": "",
+      "publishedAt": "2025-10-23T04:22:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EjQwxXK8WKg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EjQwxXK8WKg"
+    },
     {
       "id": "N3QFXGDqZDY",
       "title": "宇部市出身　ニシダの疑惑",

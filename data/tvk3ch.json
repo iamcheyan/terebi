@@ -1,8 +1,116 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2025-10-21T00:00:25.518504",
+  "updated_at": "2025-10-23T19:06:22.695803",
   "videos": [
+    {
+      "id": "MHEcWrKRKh8",
+      "title": "テレビ富士山（Mt.Fuji）",
+      "description": "",
+      "publishedAt": "2025-10-23T07:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MHEcWrKRKh8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MHEcWrKRKh8"
+    },
+    {
+      "id": "cFve30h59No",
+      "title": "Yokohama Live Cam 横浜定点ライブカメラ テレビ神奈川屋上",
+      "description": "",
+      "publishedAt": "2025-10-23T07:05:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cFve30h59No/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cFve30h59No"
+    },
+    {
+      "id": "tXNzXzsJV8Y",
+      "title": "カナフルTV　10月19日　今、私たちにできること！みんなで学ぶ「食品ロス」",
+      "description": "",
+      "publishedAt": "2025-10-22T04:01:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tXNzXzsJV8Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tXNzXzsJV8Y"
+    },
+    {
+      "id": "hwBkiu7UCdc",
+      "title": "かながわ旬菜ナビ　次回予告（10月26日放送）",
+      "description": "",
+      "publishedAt": "2025-10-22T03:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hwBkiu7UCdc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hwBkiu7UCdc"
+    },
+    {
+      "id": "Tll1_2MvIwQ",
+      "title": "tvk「クルマでいこう！」公式 藤トモEYE さらに進化! トヨタ GRヤリス 2025/10/12放送(#909)",
+      "description": "",
+      "publishedAt": "2025-10-21T09:00:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Tll1_2MvIwQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Tll1_2MvIwQ"
+    },
+    {
+      "id": "JoaNsDCPj08",
+      "title": "tvk「クルマでいこう！」公式 ボルボ EX30 Cross Country 2025/10/12放送(#909)",
+      "description": "",
+      "publishedAt": "2025-10-21T09:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JoaNsDCPj08/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JoaNsDCPj08"
+    },
+    {
+      "id": "p_8vr0a9740",
+      "title": "猫のひたいほどワイド #1643 潜入リポート・松永有紘「老舗が生んだ変わり種！？僕も知らない新たな日本酒」（秦野市）",
+      "description": "",
+      "publishedAt": "2025-10-21T02:11:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p_8vr0a9740/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p_8vr0a9740"
+    },
+    {
+      "id": "jXSnCOSVuf4",
+      "title": "猫のひたいほどワイド #1643 リポート大賞・白又敦「空気は薄いが身体は熱い！高地のようなトレーニング！？」（横浜市神奈川区）",
+      "description": "",
+      "publishedAt": "2025-10-21T02:08:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jXSnCOSVuf4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jXSnCOSVuf4"
+    },
+    {
+      "id": "-gJ6Zyag4dA",
+      "title": "猫のひたいほどワイド #1640 潜入リポート・松永有紘「ピーナッツは秦野から！？150年続く老舗の味」（秦野市）",
+      "description": "",
+      "publishedAt": "2025-10-21T02:07:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-gJ6Zyag4dA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-gJ6Zyag4dA"
+    },
     {
       "id": "57m9axRO8tg",
       "title": "猫のひたいほどワイド #1644 潜入リポート・大矢剛康「大矢船長と目指せ海賊王！ボトルシップ教室」（川崎市川崎区）",

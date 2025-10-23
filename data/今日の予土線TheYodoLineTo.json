@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-10-21T00:01:05.637647",
+  "updated_at": "2025-10-23T19:06:55.097856",
   "videos": [
+    {
+      "id": "48CrONJgDnM",
+      "title": "251022 115104 雨の大内駅",
+      "description": "",
+      "publishedAt": "2025-10-22T11:09:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/48CrONJgDnM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=48CrONJgDnM"
+    },
+    {
+      "id": "GT7aLYsBmXs",
+      "title": "251022 113503 雨の兼近第３踏切",
+      "description": "",
+      "publishedAt": "2025-10-22T11:07:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GT7aLYsBmXs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GT7aLYsBmXs"
+    },
+    {
+      "id": "lBt5RueBDpg",
+      "title": "251022 113116 雨の兼近第３踏切",
+      "description": "",
+      "publishedAt": "2025-10-22T11:06:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lBt5RueBDpg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lBt5RueBDpg"
+    },
+    {
+      "id": "3keNTJF26S0",
+      "title": "251021 175017 二名駅",
+      "description": "",
+      "publishedAt": "2025-10-21T11:53:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3keNTJF26S0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3keNTJF26S0"
+    },
+    {
+      "id": "oCNt42FGBUw",
+      "title": "251021 173357 深田駅",
+      "description": "",
+      "publishedAt": "2025-10-21T11:39:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oCNt42FGBUw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oCNt42FGBUw"
+    },
+    {
+      "id": "8D3RLVkVkJI",
+      "title": "251021 114524 伊予宮野下駅（新幹線行き違い）",
+      "description": "",
+      "publishedAt": "2025-10-21T11:32:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8D3RLVkVkJI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8D3RLVkVkJI"
+    },
     {
       "id": "p7OUUdACaE8",
       "title": "251020 155505 大内第１踏切（すまいるえきちゃん号通過）",

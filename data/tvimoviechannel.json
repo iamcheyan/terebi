@@ -1,8 +1,80 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-10-21T00:00:56.637209",
+  "updated_at": "2025-10-23T19:06:54.628536",
   "videos": [
+    {
+      "id": "NUApyQsXDvU",
+      "title": "５きげんクッキング ～カボチャのパウンドケーキ～",
+      "description": "",
+      "publishedAt": "2025-10-23T08:29:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NUApyQsXDvU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NUApyQsXDvU"
+    },
+    {
+      "id": "ctTx0Vr4xxU",
+      "title": "【LIVE】岩手・盛岡の公園　樹上にクマ2頭",
+      "description": "",
+      "publishedAt": "2025-10-22T20:25:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ctTx0Vr4xxU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ctTx0Vr4xxU"
+    },
+    {
+      "id": "5f4f3u_zlSw",
+      "title": "今日の５きげんテレビ（10月23日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-10-22T15:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5f4f3u_zlSw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5f4f3u_zlSw"
+    },
+    {
+      "id": "vJxXuFWbbJw",
+      "title": "５きげんクッキング ～紅葉ごはん～",
+      "description": "",
+      "publishedAt": "2025-10-22T09:44:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vJxXuFWbbJw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vJxXuFWbbJw"
+    },
+    {
+      "id": "lBc8jS3Ntow",
+      "title": "今昔さんぽ ～世界で唯一!牛専門の博物館～",
+      "description": "",
+      "publishedAt": "2025-10-21T09:59:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lBc8jS3Ntow/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lBc8jS3Ntow"
+    },
+    {
+      "id": "JvPy4Vuvt0Q",
+      "title": "５きげんクッキング ～カボチャグラタン～",
+      "description": "",
+      "publishedAt": "2025-10-21T09:40:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JvPy4Vuvt0Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JvPy4Vuvt0Q"
+    },
     {
       "id": "h_HPyphdsU8",
       "title": "５きげんクッキング ～青森県の郷土料理　けの汁～",
