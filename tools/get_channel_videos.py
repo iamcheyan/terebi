@@ -119,7 +119,7 @@ api_keys = []
 print("\n=== 可用的API密钥 ===")
 for key, value in config['DEFAULT'].items():
     if key.startswith('youtube.apikey'):
-        print(f"密钥 {key}: {value[:15]}...{value[-5:]}")  # 只显示密钥的一部分，保护安全
+        print(f"密钥 {key}: {value[:6]}...{value[-3:]}")  # 只显示密钥的前6和后3位，更短，保护安全
         api_keys.append(value)
 
 if not api_keys:

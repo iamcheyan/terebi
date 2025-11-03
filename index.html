@@ -299,6 +299,21 @@
                         </div>
                     </label>
                 </div>
+                <div class="setting-item setting-action">
+                    <button id="changelogBtn" class="changelog-btn">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                            <polyline points="14 2 14 8 20 8"></polyline>
+                            <line x1="16" y1="13" x2="8" y2="13"></line>
+                            <line x1="16" y1="17" x2="8" y2="17"></line>
+                            <polyline points="10 9 9 9 8 9"></polyline>
+                        </svg>
+                        <div class="setting-info">
+                            <span class="setting-title">更新日志</span>
+                            <span class="setting-desc">查看最近30天的频道更新记录</span>
+                        </div>
+                    </button>
+                </div>
             </div>
             
             <div class="settings-section">
@@ -568,6 +583,31 @@
 
 <!-- 电视节目搜索面板遮罩层 -->
 <div id="tvSearchOverlay" class="tv-search-overlay" role="presentation"></div>
+
+<!-- 更新日志面板 -->
+<div id="changelogPanel" class="changelog-panel">
+    <button id="closeChangelog" class="close-btn" aria-label="更新日志を閉じる">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+    </button>
+    <div class="changelog-content">
+        <div class="changelog-header">
+            <h3>🤖 自動更新ログ</h3>
+            <p class="changelog-subtitle">最近30日間のチャンネルデータ更新履歴</p>
+        </div>
+        <div id="changelogList" class="changelog-list">
+            <div class="changelog-loading">
+                <img class="loading-icon" width="24" height="24" src="img/svg/loading.svg" alt="loading">
+                <span>データを読み込んでいます...</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 更新日志面板遮罩层 -->
+<div id="changelogOverlay" class="changelog-overlay" role="presentation"></div>
 
 <!-- Firebase SDK -->
 <script type="module">
@@ -1150,6 +1190,173 @@
     };
     return i18n[lang]?.[key] || i18n['ja'][key];
   }
+</script>
+
+<!-- 更新日志功能脚本 -->
+<script>
+// 更新日志功能
+(function() {
+    const changelogBtn = document.getElementById('changelogBtn');
+    const changelogPanel = document.getElementById('changelogPanel');
+    const changelogOverlay = document.getElementById('changelogOverlay');
+    const closeChangelog = document.getElementById('closeChangelog');
+    const changelogList = document.getElementById('changelogList');
+    
+    // 获取URL参数
+    const urlParams = new URLSearchParams(window.location.search);
+    const showTV = urlParams.get('tv') === '1';
+    
+    // 打开更新日志面板
+    function openChangelogPanel() {
+        changelogPanel.classList.add('active');
+        changelogOverlay.classList.add('active');
+        document.body.style.overflow = 'hidden';
+        
+        // 加载更新日志
+        loadChangelog();
+    }
+    
+    // 关闭更新日志面板
+    function closeChangelogPanel() {
+        changelogPanel.classList.remove('active');
+        changelogOverlay.classList.remove('active');
+        document.body.style.overflow = '';
+    }
+    
+    // 加载更新日志
+    async function loadChangelog() {
+        try {
+            const response = await fetch('changelog.json?t=' + Date.now());
+            
+            if (!response.ok) {
+                throw new Error('更新日志文件不存在');
+            }
+            
+            const data = await response.json();
+            displayChangelog(data);
+            
+        } catch (error) {
+            console.error('加载更新日志失败:', error);
+            changelogList.innerHTML = `
+                <div class="changelog-error">
+                    <p>❌ 更新日志の読み込みに失敗しました</p>
+                    <p class="error-detail">${error.message}</p>
+                    <p class="error-hint">更新記録はまだ生成されていない可能性があります</p>
+                </div>
+            `;
+        }
+    }
+    
+    // 显示更新日志
+    function displayChangelog(data) {
+        if (!data.commits || data.commits.length === 0) {
+            changelogList.innerHTML = `
+                <div class="changelog-empty">
+                    <p>📝 最近30日間の更新記録はありません</p>
+                </div>
+            `;
+            return;
+        }
+        
+        // 根据?tv=1参数过滤数据
+        let filteredCommits = data.commits;
+        if (!showTV) {
+            // 不显示tv=1时，只显示YouTube类型的频道
+            filteredCommits = data.commits.map(commit => {
+                return {
+                    ...commit,
+                    files: commit.files.filter(file => file.type !== 'tv')
+                };
+            }).filter(commit => commit.files.length > 0);
+        }
+        
+        let html = `
+            <div class="changelog-stats">
+                <div class="stat-card">
+                    <span class="stat-number">${filteredCommits.length}</span>
+                    <span class="stat-label">更新回数</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number">${filteredCommits.reduce((sum, c) => sum + c.files.length, 0)}</span>
+                    <span class="stat-label">チャンネル</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number">${data.period}</span>
+                    <span class="stat-label">期間</span>
+                </div>
+            </div>
+            <div class="changelog-items">
+        `;
+        
+        filteredCommits.forEach(commit => {
+            if (commit.files.length === 0) return;
+            
+            html += `
+                <div class="changelog-item">
+                    <div class="commit-header">
+                        <span class="commit-date">📅 ${commit.date} JST</span>
+                        <span class="commit-hash">#${commit.hash}</span>
+                    </div>
+                    <div class="commit-message">${escapeHtml(commit.message)}</div>
+                    <div class="commit-files">
+            `;
+            
+            commit.files.forEach(file => {
+                const statusIcon = file.status === 'M' ? '📝' : file.status === 'A' ? '➕' : '❌';
+                const statusText = file.status === 'M' ? '更新' : file.status === 'A' ? '追加' : '削除';
+                const channelUrl = file.url || `https://www.youtube.com/channel/${file.channel}`;
+                
+                html += `
+                    <div class="file-item">
+                        <span class="file-status" title="${statusText}">${statusIcon}</span>
+                        <div class="file-info">
+                            <a href="${channelUrl}" target="_blank" class="file-name">
+                                ${escapeHtml(file.display_name || file.channel)}
+                            </a>
+                            <span class="file-category">${file.category} › ${file.subcategory}</span>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            html += `
+                    </div>
+                </div>
+            `;
+        });
+        
+        html += '</div>';
+        
+        changelogList.innerHTML = html;
+    }
+    
+    // HTML转义
+    function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    }
+    
+    // 事件监听
+    if (changelogBtn) {
+        changelogBtn.addEventListener('click', openChangelogPanel);
+    }
+    
+    if (closeChangelog) {
+        closeChangelog.addEventListener('click', closeChangelogPanel);
+    }
+    
+    if (changelogOverlay) {
+        changelogOverlay.addEventListener('click', closeChangelogPanel);
+    }
+    
+    // ESC键关闭
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && changelogPanel.classList.contains('active')) {
+            closeChangelogPanel();
+        }
+    });
+})();
 </script>
 
 <!-- 添加跨域错误修复脚本 -->

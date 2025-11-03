@@ -89,6 +89,10 @@ jobs:
           echo "7. 检查名称差异..."
           python backend/runner.py check-names
           
+          # 8. 生成更新日志
+          echo "8. 生成更新日志..."
+          python backend/generate_changelog.py
+          
           echo "=== 频道更新完成 ==="
       
       # 6. 提交并推送更改
