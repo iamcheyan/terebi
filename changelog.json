@@ -1,0 +1,49 @@
+{
+  "generated_at": "2025-11-03T16:33:48.765982",
+  "period": "最近30天",
+  "statistics": {
+    "total_commits": 1,
+    "total_files_changed": 3,
+    "channels_updated": 3
+  },
+  "commits": [
+    {
+      "hash": "a998353",
+      "date": "2025-11-03 16:11:47",
+      "timestamp": 1762153907,
+      "message": "🤖 自动更新频道数据 - 2025-11-03 07:11:47",
+      "files": [
+        {
+          "status": "M",
+          "path": "data/channel_UCGCZAYq5Xxo.json",
+          "channel": "channel_UCGCZAYq5Xxo",
+          "display_name": "ANNnewsCH",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "テレビ朝日系",
+          "url": "https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ"
+        },
+        {
+          "status": "M",
+          "path": "data/tbc1260_official.json",
+          "channel": "tbc1260_official",
+          "display_name": "tbc東北放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@tbc1260_official"
+        },
+        {
+          "status": "M",
+          "path": "data/tv_kanazawa.json",
+          "channel": "tv_kanazawa",
+          "display_name": "KTKテレビ金沢",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@tv_kanazawa"
+        }
+      ]
+    }
+  ]
+}
