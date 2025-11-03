@@ -97,22 +97,35 @@ def load_channels_info():
         with open(channels_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
             
-        # 创建频道名称到信息的映射
+        # 创建频道名称到信息的映射（同时支持 name 和 bakname）
         channel_map = {}
-        for category in data.get('categories', []):
-            for subcategory in category.get('subcategories', []):
-                for channel in subcategory.get('channels', []):
-                    channel_map[channel['name']] = {
+        
+        # 遍历所有分类（如：全国放送局、地方放送局等）
+        for category_name, subcategories in data.items():
+            # 遍历子分类（如：日本テレビ系、TBS系等）
+            for subcategory_name, channels in subcategories.items():
+                # 遍历频道列表
+                for channel in channels:
+                    info = {
                         'display_name': channel.get('displayName', channel['name']),
                         'type': channel.get('type', 'tv'),
-                        'category': category['name'],
-                        'subcategory': subcategory['name'],
+                        'category': category_name,
+                        'subcategory': subcategory_name,
                         'url': channel.get('url', '')
                     }
+                    
+                    # 使用 name 作为 key
+                    channel_map[channel['name']] = info
+                    
+                    # 如果有 bakname，也添加一个映射
+                    if 'bakname' in channel:
+                        channel_map[channel['bakname']] = info
         
         return channel_map
     except Exception as e:
         print(f"警告：加载频道信息失败: {e}")
+        import traceback
+        traceback.print_exc()
         return {}
 
 
