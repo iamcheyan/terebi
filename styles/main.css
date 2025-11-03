@@ -3616,3 +3616,34 @@ body.problem-mode .channel-name {
         gap: 8px;
     }
 }
+
+/* ==================== 更新日志链接样式 ==================== */
+
+/* 频道统计面板中的更新日志链接 */
+.changelog-link-container {
+    margin-top: 32px;
+    padding-top: 24px;
+    border-top: 1px solid var(--color-panel-border);
+    text-align: center;
+}
+
+.changelog-link {
+    font-size: 12px;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    transition: color 0.2s ease;
+    display: inline-block;
+    padding: 4px 0;
+    opacity: 0.6;
+}
+
+.changelog-link:hover {
+    color: var(--color-text-secondary);
+    opacity: 1;
+    text-decoration: underline;
+}
+
+/* 移除之前的更新日志按钮样式 */
+.changelog-btn {
+    display: none;
+}

@@ -299,21 +299,6 @@
                         </div>
                     </label>
                 </div>
-                <div class="setting-item setting-action">
-                    <button id="changelogBtn" class="changelog-btn">
-                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
-                            <polyline points="14 2 14 8 20 8"></polyline>
-                            <line x1="16" y1="13" x2="8" y2="13"></line>
-                            <line x1="16" y1="17" x2="8" y2="17"></line>
-                            <polyline points="10 9 9 9 8 9"></polyline>
-                        </svg>
-                        <div class="setting-info">
-                            <span class="setting-title">更新日志</span>
-                            <span class="setting-desc">查看最近30天的频道更新记录</span>
-                        </div>
-                    </button>
-                </div>
             </div>
             
             <div class="settings-section">
@@ -500,6 +485,11 @@
             <div id="regionStats" class="region-list">
                 <!-- 地区统计将在这里显示 -->
             </div>
+        </div>
+        
+        <!-- 更新日志链接 -->
+        <div class="changelog-link-container">
+            <a href="#" id="changelogLink" class="changelog-link">更新履歴を見る</a>
         </div>
     </div>
 </div>
@@ -1196,7 +1186,7 @@
 <script>
 // 更新日志功能
 (function() {
-    const changelogBtn = document.getElementById('changelogBtn');
+    const changelogLink = document.getElementById('changelogLink');
     const changelogPanel = document.getElementById('changelogPanel');
     const changelogOverlay = document.getElementById('changelogOverlay');
     const closeChangelog = document.getElementById('closeChangelog');
@@ -1207,7 +1197,8 @@
     const showTV = urlParams.get('tv') === '1';
     
     // 打开更新日志面板
-    function openChangelogPanel() {
+    function openChangelogPanel(e) {
+        if (e) e.preventDefault();
         changelogPanel.classList.add('active');
         changelogOverlay.classList.add('active');
         document.body.style.overflow = 'hidden';
@@ -1338,8 +1329,8 @@
     }
     
     // 事件监听
-    if (changelogBtn) {
-        changelogBtn.addEventListener('click', openChangelogPanel);
+    if (changelogLink) {
+        changelogLink.addEventListener('click', openChangelogPanel);
     }
     
     if (closeChangelog) {
