@@ -1736,6 +1736,12 @@ function setTheme(theme, persist = false) {
     if (darkModeToggle) {
         darkModeToggle.checked = isDark;
     }
+    
+    // 切换 logo 图片
+    const siteLogo = document.getElementById('siteLogo');
+    if (siteLogo) {
+        siteLogo.src = isDark ? 'static/logo.png' : 'static/logo_dark.png';
+    }
 
     if (persist) {
         try {
