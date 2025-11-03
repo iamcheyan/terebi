@@ -3621,9 +3621,6 @@ body.problem-mode .channel-name {
 
 /* 频道统计面板中的更新日志链接 */
 .changelog-link-container {
-    margin-top: 32px;
-    padding-top: 24px;
-    border-top: 1px solid var(--color-panel-border);
     text-align: center;
 }
 
