@@ -1,11 +1,11 @@
 name: 定时更新频道数据
 
-# 定时触发 - 每天北京时间 00:00 执行（UTC 时间 16:00）
+# 定时触发 - 每天东京时间 00:00 执行（UTC 时间 15:00）
 on:
   schedule:
     # cron 表达式：分 时 日 月 周
-    # 这里设置为每天 UTC 16:00（即北京时间 00:00）
-    - cron: '0 16 * * *'
+    # 这里设置为每天 UTC 15:00（即东京时间 00:00 JST）
+    - cron: '0 15 * * *'
   
   # 保留手动触发选项
   workflow_dispatch:
@@ -97,13 +97,13 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions Bot"
           
-          # 设置时区为北京时间
-          export TZ='Asia/Shanghai'
+          # 设置时区为东京时间
+          export TZ='Asia/Tokyo'
           
           # 检查是否有更改
           if [ -n "$(git status --porcelain)" ]; then
             git add .
-            git commit -m "🤖 自动更新频道数据 - $(date +'%Y-%m-%d %H:%M:%S') (北京时间)"
+            git commit -m "🤖 自動更新 - $(date +'%Y-%m-%d %H:%M:%S') JST"
             git push
             echo "✅ 数据已更新并推送"
           else
