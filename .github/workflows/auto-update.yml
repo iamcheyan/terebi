@@ -55,11 +55,41 @@ jobs:
       # 5. 执行更新脚本
       - name: 更新频道数据
         run: |
+          echo "=== 开始更新频道数据 ==="
+          
+          # 1. 抓取频道视频
+          echo "1. 抓取频道视频..."
           if [ "${{ github.event.inputs.force_update }}" == "true" ]; then
-            python update.py --auto-task --videos-per-channel 200 --yes --force
+            python backend/runner.py fetch --auto-task --videos-per-channel 200 --yes --force
           else
-            python update.py --auto-task --videos-per-channel 200 --yes
+            python backend/runner.py fetch --auto-task --videos-per-channel 200 --yes
           fi
+          
+          # 2. 处理数据
+          echo "2. 处理数据..."
+          python backend/runner.py process
+          
+          # 3. 更新缓存标记
+          echo "3. 更新缓存标记..."
+          python backend/runner.py mark
+          
+          # 4. 下载头像
+          echo "4. 下载频道头像..."
+          python backend/runner.py avatars || echo "头像下载出现问题，继续执行"
+          
+          # 5. 调整图片大小
+          echo "5. 调整图片大小..."
+          python backend/runner.py resize-logos
+          
+          # 6. 清理无效频道
+          echo "6. 清理无效频道..."
+          python backend/runner.py clear
+          
+          # 7. 检查名称差异
+          echo "7. 检查名称差异..."
+          python backend/runner.py check-names
+          
+          echo "=== 频道更新完成 ==="
       
       # 6. 提交并推送更改
       - name: 提交更新
