@@ -1,8 +1,32 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2025-10-23T19:06:42.339506",
+  "updated_at": "2025-11-03T15:59:44.304202",
   "videos": [
+    {
+      "id": "k4rg9HH29Mc",
+      "title": "【北陸３県イイトコどり～】ご当地どんぶり",
+      "description": "",
+      "publishedAt": "2025-10-30T10:33:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k4rg9HH29Mc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k4rg9HH29Mc"
+    },
+    {
+      "id": "5C0YeHFdDJI",
+      "title": "【旬景とやま】レモン彗星とコスモス",
+      "description": "",
+      "publishedAt": "2025-10-28T09:44:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5C0YeHFdDJI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5C0YeHFdDJI"
+    },
     {
       "id": "a2ZQI_yuL8M",
       "title": "【旬景とやま】弥陀ヶ原の紅葉",

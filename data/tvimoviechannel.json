@@ -1,8 +1,164 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-10-23T19:06:54.628536",
+  "updated_at": "2025-11-03T15:59:56.275061",
   "videos": [
+    {
+      "id": "SUWllvFwvJA",
+      "title": "５きげんクッキング ～ジャーマンさつまポテト～",
+      "description": "",
+      "publishedAt": "2025-10-31T08:51:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SUWllvFwvJA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SUWllvFwvJA"
+    },
+    {
+      "id": "wIa20_jvHN0",
+      "title": "今日の５きげんテレビ（10月31日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-10-30T15:01:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wIa20_jvHN0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wIa20_jvHN0"
+    },
+    {
+      "id": "0eHOK8oT5IE",
+      "title": "新企画！あがいん直売所",
+      "description": "",
+      "publishedAt": "2025-10-30T08:33:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0eHOK8oT5IE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0eHOK8oT5IE"
+    },
+    {
+      "id": "pNzXRe-1z6Y",
+      "title": "5きげん知恵袋~秋・真っ盛り！洋なし~",
+      "description": "",
+      "publishedAt": "2025-10-29T09:58:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pNzXRe-1z6Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pNzXRe-1z6Y"
+    },
+    {
+      "id": "0uKg6N_kkKs",
+      "title": "５きげんクッキング ～カボチャとキノコのパンキッシュ～",
+      "description": "",
+      "publishedAt": "2025-10-28T09:22:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0uKg6N_kkKs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0uKg6N_kkKs"
+    },
+    {
+      "id": "cyArRKRi4oY",
+      "title": "冬の前に｜ガーデニング倶楽部",
+      "description": "",
+      "publishedAt": "2025-10-28T09:07:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cyArRKRi4oY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cyArRKRi4oY"
+    },
+    {
+      "id": "zCGiNL0SZKk",
+      "title": "親子で楽しめる「リトル・ママフェスタ」潜入リポート！｜岩手・盛岡市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2025-10-28T02:43:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zCGiNL0SZKk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zCGiNL0SZKk"
+    },
+    {
+      "id": "9TlpFuqypwc",
+      "title": "５きげんクッキング ～カボチャのポタージュ～",
+      "description": "",
+      "publishedAt": "2025-10-27T09:50:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9TlpFuqypwc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9TlpFuqypwc"
+    },
+    {
+      "id": "QZv2PRxAldE",
+      "title": "もじゃさんがカーリングに挑戦！",
+      "description": "",
+      "publishedAt": "2025-10-27T09:38:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QZv2PRxAldE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QZv2PRxAldE"
+    },
+    {
+      "id": "yTplqsULl6s",
+      "title": "５きげんクッキング ～カボチャのポタージュ～",
+      "description": "",
+      "publishedAt": "2025-10-27T09:17:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yTplqsULl6s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yTplqsULl6s"
+    },
+    {
+      "id": "lrUdwBuCzv4",
+      "title": "肉で始まり肉で終わる！？ご当地フルコース in 奥州市｜岩手・奥州市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2025-10-27T04:22:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lrUdwBuCzv4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lrUdwBuCzv4"
+    },
+    {
+      "id": "hR9K2UAlVTk",
+      "title": "紅葉も楽しめるお食事処",
+      "description": "",
+      "publishedAt": "2025-10-24T10:18:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hR9K2UAlVTk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hR9K2UAlVTk"
+    },
+    {
+      "id": "gnH5i4AEF-M",
+      "title": "５きげんクッキング ～洋ナシのフィナンシェ～",
+      "description": "",
+      "publishedAt": "2025-10-24T09:19:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gnH5i4AEF-M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gnH5i4AEF-M"
+    },
     {
       "id": "NUApyQsXDvU",
       "title": "５きげんクッキング ～カボチャのパウンドケーキ～",

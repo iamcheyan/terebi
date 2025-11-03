@@ -1,8 +1,104 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2025-10-20T01:57:00.778975",
+  "updated_at": "2025-11-03T15:59:49.127708",
   "videos": [
+    {
+      "id": "Yx0yKPHZwb0",
+      "title": "【高校サッカー準決勝②】札幌光星×北海 第104回 全国高校サッカー選手権 北海道大会　10月27日13:30キックオフ",
+      "description": "",
+      "publishedAt": "2025-10-27T06:25:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yx0yKPHZwb0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yx0yKPHZwb0"
+    },
+    {
+      "id": "N_rd8wMSiJ4",
+      "title": "【高校サッカー準決勝①】札幌大谷×札幌創成　第104回 全国高校サッカー選手権 北海道大会 10月27日10:30キックオフ",
+      "description": "",
+      "publishedAt": "2025-10-27T03:36:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N_rd8wMSiJ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N_rd8wMSiJ4"
+    },
+    {
+      "id": "mfXOqGikfxw",
+      "title": "どさんこWEEKEND「専門家に聞く！がんゲノム医療の最前線」",
+      "description": "",
+      "publishedAt": "2025-10-25T01:25:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mfXOqGikfxw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mfXOqGikfxw"
+    },
+    {
+      "id": "7FqXWI3xP7M",
+      "title": "【大ほっかいどう祭 2025】これはそそられる…😋【大空町】",
+      "description": "",
+      "publishedAt": "2025-08-24T03:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7FqXWI3xP7M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7FqXWI3xP7M"
+    },
+    {
+      "id": "iGQy4Cq3YTY",
+      "title": "【大ほっかいどう祭 2025】こだわりのトルティーヤと深川産りんご100％使用のシードル🍎【深川市】",
+      "description": "",
+      "publishedAt": "2025-08-23T23:07:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iGQy4Cq3YTY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iGQy4Cq3YTY"
+    },
+    {
+      "id": "Lt13guvP8ec",
+      "title": "【大ほっかいどう祭 2025】え？！美味しいいか塩辛が無料でこんなに食べられるの？！【根室市】",
+      "description": "",
+      "publishedAt": "2025-08-23T22:59:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Lt13guvP8ec/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Lt13guvP8ec"
+    },
+    {
+      "id": "vztRhzumIeU",
+      "title": "【大ほっかいどう祭 2025】ウニ！和牛！おいしいグルメも盛りだくさん！#shorts",
+      "description": "",
+      "publishedAt": "2025-08-23T05:41:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vztRhzumIeU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vztRhzumIeU"
+    },
+    {
+      "id": "a_VwwAQHpgk",
+      "title": "【大ほっかいどう祭 2025】１０時オープンの様子はこちら！！さらににぎわっていますよ！#shorts",
+      "description": "",
+      "publishedAt": "2025-08-23T05:41:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a_VwwAQHpgk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a_VwwAQHpgk"
+    },
     {
       "id": "te7k0V5ui3Y",
       "title": "10月18日放送　Nisshoリフォーム特集 FCT編",

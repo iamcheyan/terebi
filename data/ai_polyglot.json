@@ -1,8 +1,188 @@
 {
   "channel_id": "UCXYTFOXjfQz_FVzCzqP9PXA",
   "channel_name": "AI Polyglot | 多言語 聞き流し",
-  "updated_at": "2025-10-24T00:00:20.218450",
+  "updated_at": "2025-11-03T15:59:08.300461",
   "videos": [
+    {
+      "id": "uPS1Sl0uwHk",
+      "title": "日语日常对话 | 听力练习 | 带平假名",
+      "description": "",
+      "publishedAt": "2025-11-03T06:47:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uPS1Sl0uwHk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uPS1Sl0uwHk"
+    },
+    {
+      "id": "Cyd1X4Jm9FQ",
+      "title": "日語日常對話 | 聽力練習 | 含平假名",
+      "description": "",
+      "publishedAt": "2025-11-03T06:46:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cyd1X4Jm9FQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cyd1X4Jm9FQ"
+    },
+    {
+      "id": "U0BS6Xn4Gvs",
+      "title": "Ungezwungene japanische Konversation | Hörverständnis | mit hiragana",
+      "description": "",
+      "publishedAt": "2025-11-03T06:46:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U0BS6Xn4Gvs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U0BS6Xn4Gvs"
+    },
+    {
+      "id": "r8x02Xw67r8",
+      "title": "Conversa informal em japonês | escuta natural | com hiragana",
+      "description": "",
+      "publishedAt": "2025-11-03T06:45:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r8x02Xw67r8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r8x02Xw67r8"
+    },
+    {
+      "id": "djdZvgWH5F8",
+      "title": "スペイン語のトラブルのフレーズ | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/djdZvgWH5F8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=djdZvgWH5F8"
+    },
+    {
+      "id": "G0jpOYgwCOA",
+      "title": "イタリア語のトラブルのフレーズ | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G0jpOYgwCOA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G0jpOYgwCOA"
+    },
+    {
+      "id": "Q5hZCQpKUoA",
+      "title": "캐주얼 일본어 대화 | 자연스러운 듣기 | 히라가나 병기",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q5hZCQpKUoA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q5hZCQpKUoA"
+    },
+    {
+      "id": "yS35pj9tI8M",
+      "title": "フランス語のトラブルのフレーズ | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yS35pj9tI8M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yS35pj9tI8M"
+    },
+    {
+      "id": "WVJy6j5ZYuY",
+      "title": "ドイツ語のトラブルのフレーズ | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WVJy6j5ZYuY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WVJy6j5ZYuY"
+    },
+    {
+      "id": "DOPGQwhYCOo",
+      "title": "ポルトガル語のトラブルのフレーズ | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DOPGQwhYCOo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DOPGQwhYCOo"
+    },
+    {
+      "id": "98yD6whD698",
+      "title": "中国語のトラブルのフレーズ | 音声学習 | ピンイン付き | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/98yD6whD698/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=98yD6whD698"
+    },
+    {
+      "id": "r4TDnUUu7d8",
+      "title": "台湾華語のトラブルのフレーズ | 音声学習 | ピンイン付き | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r4TDnUUu7d8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r4TDnUUu7d8"
+    },
+    {
+      "id": "-HtuBEiOmRg",
+      "title": "韓国語のトラブルのフレーズ | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-HtuBEiOmRg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-HtuBEiOmRg"
+    },
+    {
+      "id": "vSZOgS-PEuo",
+      "title": "ベトナム語のトラブルのフレーズ | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:44:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vSZOgS-PEuo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vSZOgS-PEuo"
+    },
+    {
+      "id": "WLoQC-B63RM",
+      "title": "インドネシア語のトラブルのフレーズ | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-03T06:43:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WLoQC-B63RM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WLoQC-B63RM"
+    },
     {
       "id": "u2S4XNwU7ms",
       "title": "300 Taiwanese everyday conversation words | Natural Listening | Must-Know | with Pinyin",

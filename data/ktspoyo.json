@@ -1,8 +1,56 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2025-10-23T19:07:05.266072",
+  "updated_at": "2025-11-03T16:00:06.430704",
   "videos": [
+    {
+      "id": "ghWihzW_3V4",
+      "title": "河内あづきの鹿児島あっちこっち　11月1日（土）",
+      "description": "",
+      "publishedAt": "2025-11-01T10:25:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ghWihzW_3V4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ghWihzW_3V4"
+    },
+    {
+      "id": "uRvGikjUGoY",
+      "title": "#502 　11月1日放送回　「楽しさを分かち合って♪」",
+      "description": "",
+      "publishedAt": "2025-11-01T08:30:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uRvGikjUGoY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uRvGikjUGoY"
+    },
+    {
+      "id": "2ytqf9VqVak",
+      "title": "かごんま未来ノート 第196回「同世代に笑いと学びを届けます　劇団とんぼ」",
+      "description": "",
+      "publishedAt": "2025-10-29T14:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2ytqf9VqVak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2ytqf9VqVak"
+    },
+    {
+      "id": "h3OMtjiZx8M",
+      "title": "♯501　10月25日放送回 　いつまでも笑顔で♪",
+      "description": "",
+      "publishedAt": "2025-10-25T08:30:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h3OMtjiZx8M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h3OMtjiZx8M"
+    },
     {
       "id": "pjU86c55jb0",
       "title": "かごんま未来ノート 第195回「伊集院の伝統を守り　受け継いでいく　神よろい作り普及会」",

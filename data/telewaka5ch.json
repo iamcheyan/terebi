@@ -1,8 +1,188 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2025-10-23T19:05:57.940638",
+  "updated_at": "2025-11-03T15:59:36.338824",
   "videos": [
+    {
+      "id": "9xoeC4yBDaQ",
+      "title": "暮らしのカルチャータイム　ガーデニング入門　～応用編～　第6回",
+      "description": "",
+      "publishedAt": "2025-11-03T06:46:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9xoeC4yBDaQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9xoeC4yBDaQ"
+    },
+    {
+      "id": "9NpH4lUmAUo",
+      "title": "和歌山de乾杯!072 和歌山市・矢沢ファンの店「MARIA」後編",
+      "description": "",
+      "publishedAt": "2025-11-01T14:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9NpH4lUmAUo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9NpH4lUmAUo"
+    },
+    {
+      "id": "9P-4VIT8C7o",
+      "title": "あのじゅうよ〜 第173回",
+      "description": "",
+      "publishedAt": "2025-11-01T14:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9P-4VIT8C7o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9P-4VIT8C7o"
+    },
+    {
+      "id": "AShX05cQsJo",
+      "title": "ワールド・ドリームサーカス 来場者1万人達成 和歌山市",
+      "description": "",
+      "publishedAt": "2025-11-01T09:41:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AShX05cQsJo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AShX05cQsJo"
+    },
+    {
+      "id": "5S5k40fnqmc",
+      "title": "和歌山で働こう！カンパニーガイド【西建工業株式会社】",
+      "description": "",
+      "publishedAt": "2025-10-31T15:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5S5k40fnqmc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5S5k40fnqmc"
+    },
+    {
+      "id": "aMHf7EFytgo",
+      "title": "和歌山で働こう！カンパニーガイド【海鮮食堂つなや】",
+      "description": "",
+      "publishedAt": "2025-10-31T15:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aMHf7EFytgo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aMHf7EFytgo"
+    },
+    {
+      "id": "IVptyYQ4_oU",
+      "title": "ハロウィンで楽しみながら防災を学ぶ 和歌山県串本町",
+      "description": "",
+      "publishedAt": "2025-10-31T10:03:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IVptyYQ4_oU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IVptyYQ4_oU"
+    },
+    {
+      "id": "spr8QG9eeyY",
+      "title": "かつらぎ町で火事 女性1人が死亡 和歌山県",
+      "description": "",
+      "publishedAt": "2025-10-31T09:48:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/spr8QG9eeyY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=spr8QG9eeyY"
+    },
+    {
+      "id": "E5deUd7TyQk",
+      "title": "全身の骨が埋葬状態で見つかる 太平洋戦争末期の沖縄戦 遺骨収集活動 和歌山県立医科大学",
+      "description": "",
+      "publishedAt": "2025-10-31T05:18:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E5deUd7TyQk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E5deUd7TyQk"
+    },
+    {
+      "id": "coQARIGh4X0",
+      "title": "WIB HERO'S 10月のゲスト 総集編",
+      "description": "",
+      "publishedAt": "2025-10-30T15:30:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/coQARIGh4X0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=coQARIGh4X0"
+    },
+    {
+      "id": "VqBMjULtS44",
+      "title": "公共ライドシェア（自家用有償旅客運送）和歌山県田辺市龍神村【紀南つうしん】",
+      "description": "",
+      "publishedAt": "2025-10-30T09:18:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VqBMjULtS44/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VqBMjULtS44"
+    },
+    {
+      "id": "RriFqdr0ckI",
+      "title": "韓国プロ野球チーム「kt wiz」上富田町でキャンプ 和歌山県",
+      "description": "",
+      "publishedAt": "2025-10-30T08:56:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RriFqdr0ckI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RriFqdr0ckI"
+    },
+    {
+      "id": "FkjN9NapUPM",
+      "title": "防災の取り組み通し 地域を考える 和歌山大学公開講座 和歌山県田辺市",
+      "description": "",
+      "publishedAt": "2025-10-30T08:47:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FkjN9NapUPM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FkjN9NapUPM"
+    },
+    {
+      "id": "JKvCqMYu22E",
+      "title": "日本維新の会 林佑美衆議院議員の離党認める 林氏は県総支部の組織運営に不満を示し 先月末 党本部に離党届を提出していた",
+      "description": "",
+      "publishedAt": "2025-10-29T11:33:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JKvCqMYu22E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JKvCqMYu22E"
+    },
+    {
+      "id": "oZC-_k24cfE",
+      "title": "和歌山バス「復刻デザイン」運行 和歌山県",
+      "description": "",
+      "publishedAt": "2025-10-29T11:20:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oZC-_k24cfE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oZC-_k24cfE"
+    },
     {
       "id": "kMxxRDx8k30",
       "title": "ドローンで弁当配達 国内初 人口集中地域含むルートで11月に実証実験 和歌山市",

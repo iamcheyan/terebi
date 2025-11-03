@@ -1,0 +1,88 @@
+name: 定时更新频道数据
+
+# 定时触发 - 每天北京时间 00:00 执行（UTC 时间 16:00）
+on:
+  schedule:
+    # cron 表达式：分 时 日 月 周
+    # 这里设置为每天 UTC 16:00（即北京时间 00:00）
+    - cron: '0 16 * * *'
+  
+  # 保留手动触发选项
+  workflow_dispatch:
+    inputs:
+      force_update:
+        description: '是否强制更新所有频道'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. 检出代码
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史记录
+      
+      # 2. 设置 Python 环境
+      - name: 设置 Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'  # 缓存 pip 依赖
+      
+      # 3. 安装依赖
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      # 4. 配置 API Key（从仓库 Secrets 中读取）
+      - name: 配置 YouTube API Key
+        run: |
+          mkdir -p WEB-INF
+          echo "[DEFAULT]" > WEB-INF/config.properties
+          echo "# YouTube API 配置" >> WEB-INF/config.properties
+          echo "youtube.apikey1=${{ secrets.YOUTUBE_API_KEY_1 }}" >> WEB-INF/config.properties
+          echo "youtube.apikey2=${{ secrets.YOUTUBE_API_KEY_2 }}" >> WEB-INF/config.properties
+          echo "youtube.apikey3=${{ secrets.YOUTUBE_API_KEY_3 }}" >> WEB-INF/config.properties
+          echo "youtube.apikey4=${{ secrets.YOUTUBE_API_KEY_4 }}" >> WEB-INF/config.properties
+          echo "youtube.apikey5=${{ secrets.YOUTUBE_API_KEY_5 }}" >> WEB-INF/config.properties
+      
+      # 5. 执行更新脚本
+      - name: 更新频道数据
+        run: |
+          if [ "${{ github.event.inputs.force_update }}" == "true" ]; then
+            python update.py --auto-task --videos-per-channel 200 --yes --force
+          else
+            python update.py --auto-task --videos-per-channel 200 --yes
+          fi
+      
+      # 6. 提交并推送更改
+      - name: 提交更新
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions Bot"
+          
+          # 检查是否有更改
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "🤖 自动更新频道数据 - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+            echo "✅ 数据已更新并推送"
+          else
+            echo "✅ 无数据变化，跳过提交"
+          fi
+      
+      # 7. 上传日志（可选）
+      - name: 上传日志文件
+        if: always()  # 即使失败也上传日志
+        uses: actions/upload-artifact@v4
+        with:
+          name: update-logs-${{ github.run_number }}
+          path: log/*.log
+          retention-days: 7  # 保留 7 天
+
