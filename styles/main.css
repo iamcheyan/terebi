@@ -3495,11 +3495,6 @@ body.problem-mode .channel-name {
     background: var(--color-channel-hover);
 }
 
-.file-status {
-    font-size: 18px;
-    flex-shrink: 0;
-}
-
 .file-item .channel-avatar {
     flex-shrink: 0;
     width: 40px;

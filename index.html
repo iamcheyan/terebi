@@ -1293,8 +1293,6 @@
             `;
             
             commit.files.forEach(file => {
-                const statusIcon = file.status === 'M' ? '📝' : file.status === 'A' ? '➕' : '❌';
-                const statusText = file.status === 'M' ? '更新' : file.status === 'A' ? '追加' : '削除';
                 const channelUrl = file.url || `https://www.youtube.com/channel/${file.channel}`;
                 
                 // 获取频道头像路径
@@ -1303,7 +1301,6 @@
                 
                 html += `
                     <div class="file-item">
-                        <span class="file-status" title="${statusText}">${statusIcon}</span>
                         <div class="channel-avatar">
                             <img src="${avatarPath}" alt="${escapeHtml(channelName)}" 
                                  onerror="this.style.display='none'">
