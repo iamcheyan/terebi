@@ -1174,7 +1174,8 @@
     
     // 获取URL参数
     const urlParams = new URLSearchParams(window.location.search);
-    const showTV = urlParams.get('tv') === '1';
+    // 默认显示所有频道（包括电视台），除非明确设置 tv=0
+    const showTV = urlParams.get('tv') !== '0';
     
     // 打开更新日志面板
     function openChangelogPanel(e) {

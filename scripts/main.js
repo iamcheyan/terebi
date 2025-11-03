@@ -594,7 +594,8 @@ async function fetchChannelList(autoSelectRandom = false) {
         
         // 检查URL参数，决定加载哪个数据源
         const urlParams = new URLSearchParams(window.location.search);
-        const showTvStations = urlParams.get('tv') === '1';
+        // 默认显示所有频道（包括电视台），除非明确设置 tv=0
+        const showTvStations = urlParams.get('tv') !== '0';
         const showProblematic = urlParams.get('problems') === '1';
         
         // 加载合并后的数据
@@ -1041,7 +1042,8 @@ async function getChannelUploads(channelId, channelName) {
             try {
                 // 检查URL参数，决定加载哪个数据源
                 const urlParams = new URLSearchParams(window.location.search);
-                const showTvStations = urlParams.get('tv') === '1';
+                // 默认显示所有频道（包括电视台），除非明确设置 tv=0
+        const showTvStations = urlParams.get('tv') !== '0';
                 
                 // 加载合并后的数据
                 const response = await fetch('all_channels.json?v=202510192259');
@@ -2267,7 +2269,8 @@ async function loadChannelStats() {
         // 获取频道列表数据
         // 检查URL参数，决定加载哪个数据源
         const urlParams = new URLSearchParams(window.location.search);
-        const showTvStations = urlParams.get('tv') === '1';
+        // 默认显示所有频道（包括电视台），除非明确设置 tv=0
+        const showTvStations = urlParams.get('tv') !== '0';
         
         // 加载合并后的数据
         const response = await fetch('all_channels.json?v=202510192259');
@@ -3465,7 +3468,8 @@ async function searchTvPrograms(query) {
     try {
         // 检查URL参数，决定加载哪个数据源
         const urlParams = new URLSearchParams(window.location.search);
-        const showTvStations = urlParams.get('tv') === '1';
+        // 默认显示所有频道（包括电视台），除非明确设置 tv=0
+        const showTvStations = urlParams.get('tv') !== '0';
         
         // 加载合并后的数据
         const response = await fetch('all_channels.json?v=202510192259');
