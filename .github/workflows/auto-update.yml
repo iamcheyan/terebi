@@ -97,10 +97,13 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions Bot"
           
+          # 设置时区为北京时间
+          export TZ='Asia/Shanghai'
+          
           # 检查是否有更改
           if [ -n "$(git status --porcelain)" ]; then
             git add .
-            git commit -m "🤖 自动更新频道数据 - $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "🤖 自动更新频道数据 - $(date +'%Y-%m-%d %H:%M:%S') (北京时间)"
             git push
             echo "✅ 数据已更新并推送"
           else
