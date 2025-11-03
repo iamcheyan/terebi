@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2025-11-03T16:00:00.067189",
+  "updated_at": "2025-11-03T15:23:33.750705",
   "videos": [
+    {
+      "id": "qOhnwcVgf60",
+      "title": "愛媛のニュース(11月03日)",
+      "description": "",
+      "publishedAt": "2025-11-03T11:35:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qOhnwcVgf60/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qOhnwcVgf60"
+    },
     {
       "id": "gs4EoaM-PYk",
       "title": "愛媛県「三浦保」愛基金 成果発表会2025▼2025/11/3（月・祝）",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2025-11-03T15:59:02.941015",
+  "updated_at": "2025-11-03T15:23:16.144923",
   "videos": [
+    {
+      "id": "FEELZAqxwJg",
+      "title": "#キテレツが咲く#TVer 配信中🌺",
+      "description": "",
+      "publishedAt": "2025-11-03T09:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FEELZAqxwJg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FEELZAqxwJg"
+    },
     {
       "id": "Ch823kzcpw8",
       "title": "#キテレツが咲く#TVer 配信中🌺",
