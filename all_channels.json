@@ -1445,18 +1445,6 @@
                 "bakname": "pantasan",
                 "type": "youtube"
             }
-        ],
-        "テック・ガジェット": [],
-        "エンタメ・Vlog": [],
-        "その他チャンネル": [
-            {
-                "name": "iamcheyan",
-                "url": "https://www.youtube.com/@iamcheyan",
-                "bakname": "iamcheyan",
-                "cached": true,
-                "skip": true,
-                "type": "youtube"
-            }
         ]
     }
 }
