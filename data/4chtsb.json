@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2025-11-03T16:00:04.041260",
+  "updated_at": "2025-11-04T15:24:37.327607",
   "videos": [
+    {
+      "id": "j9TYCfz4Dp4",
+      "title": "藤原アナの今日の格言！ #テレビ信州",
+      "description": "",
+      "publishedAt": "2025-11-04T07:09:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/j9TYCfz4Dp4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=j9TYCfz4Dp4"
+    },
+    {
+      "id": "QjKDNBSulYk",
+      "title": "【ライブ】第104回全国高校サッカー選手権大会 長野県大会決勝",
+      "description": "",
+      "publishedAt": "2025-11-04T02:39:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QjKDNBSulYk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QjKDNBSulYk"
+    },
     {
       "id": "MiSuCuofNpA",
       "title": "八ヶ岳で里山体験【里山ものがたり164話】",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2025-11-03T15:59:44.304202",
+  "updated_at": "2025-11-04T15:24:29.679097",
   "videos": [
+    {
+      "id": "gEfX9rZbKNw",
+      "title": "【旬景とやま】晩秋の有峰",
+      "description": "",
+      "publishedAt": "2025-11-04T10:22:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gEfX9rZbKNw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gEfX9rZbKNw"
+    },
     {
       "id": "k4rg9HH29Mc",
       "title": "【北陸３県イイトコどり～】ご当地どんぶり",

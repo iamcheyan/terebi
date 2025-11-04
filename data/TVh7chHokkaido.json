@@ -1,8 +1,20 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2025-11-03T15:23:30.531856",
+  "updated_at": "2025-11-04T15:24:38.224053",
   "videos": [
+    {
+      "id": "HC7wKwagC4Q",
+      "title": "ライブカメラ",
+      "description": "",
+      "publishedAt": "2025-10-31T04:45:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HC7wKwagC4Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HC7wKwagC4Q"
+    },
     {
       "id": "lBqM0K-Ko5o",
       "title": "ジャンプの家系！女子高校生スキージャンプ 櫻井羽奈選手＜後編＞",

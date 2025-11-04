@@ -1,8 +1,20 @@
 {
   "channel_id": "UCmGV3cjwDinrtulXJH6Yc4g",
   "channel_name": "KYT鹿児島読売テレビ",
-  "updated_at": "2025-10-23T19:06:43.510483",
+  "updated_at": "2025-11-04T15:24:31.021164",
   "videos": [
+    {
+      "id": "Wf0ujF_U9Q4",
+      "title": "ライブカメラ",
+      "description": "",
+      "publishedAt": "2025-11-04T00:24:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wf0ujF_U9Q4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wf0ujF_U9Q4"
+    },
     {
       "id": "LVNqkAtL2Hs",
       "title": "ライブカメラ",

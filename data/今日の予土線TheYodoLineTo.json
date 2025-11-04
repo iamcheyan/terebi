@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-11-03T15:23:37.125569",
+  "updated_at": "2025-11-04T15:24:46.050836",
   "videos": [
+    {
+      "id": "YtiViKA0zhg",
+      "title": "251104 175008 久々の鬼列車（二名駅）",
+      "description": "",
+      "publishedAt": "2025-11-04T10:47:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YtiViKA0zhg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YtiViKA0zhg"
+    },
+    {
+      "id": "Kkn4G0lii_w",
+      "title": "251104 173225 深田駅",
+      "description": "",
+      "publishedAt": "2025-11-04T10:41:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kkn4G0lii_w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kkn4G0lii_w"
+    },
     {
       "id": "K4fUfBFOj40",
       "title": "251103 153800 深田第５踏切",
