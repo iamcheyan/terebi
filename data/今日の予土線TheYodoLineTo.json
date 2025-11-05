@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-11-04T15:24:46.050836",
+  "updated_at": "2025-11-05T15:22:26.780784",
   "videos": [
+    {
+      "id": "rObGED4OnNw",
+      "title": "251105 135418 元宗踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2025-11-05T11:09:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rObGED4OnNw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rObGED4OnNw"
+    },
+    {
+      "id": "p7p8yg_xwCU",
+      "title": "251105 134932 元宗踏切（遅延列車通過）",
+      "description": "",
+      "publishedAt": "2025-11-05T11:08:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p7p8yg_xwCU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p7p8yg_xwCU"
+    },
+    {
+      "id": "yjRTI-I77Zc",
+      "title": "251105 134534 元宗踏切（列車遅延、通過せず）",
+      "description": "",
+      "publishedAt": "2025-11-05T11:03:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yjRTI-I77Zc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yjRTI-I77Zc"
+    },
+    {
+      "id": "QqG9Yr2z-nQ",
+      "title": "251105 134224 元宗踏切 ２",
+      "description": "",
+      "publishedAt": "2025-11-05T10:30:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QqG9Yr2z-nQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QqG9Yr2z-nQ"
+    },
+    {
+      "id": "6bFXXJtgKVk",
+      "title": "251105 133857 元宗踏切",
+      "description": "",
+      "publishedAt": "2025-11-05T09:55:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6bFXXJtgKVk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6bFXXJtgKVk"
+    },
     {
       "id": "YtiViKA0zhg",
       "title": "251104 175008 久々の鬼列車（二名駅）",

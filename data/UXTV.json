@@ -1,8 +1,188 @@
 {
   "channel_id": "UCmBnPrnbYpbUZ10TMIlY9YA",
   "channel_name": "The Niigata Television Network 21",
-  "updated_at": "2025-11-04T15:24:39.745700",
+  "updated_at": "2025-11-05T15:22:22.073364",
   "videos": [
+    {
+      "id": "hYrRhrb18qE",
+      "title": "住宅街に現れたクマを放水で捕獲、一時はこうちゃく状態に",
+      "description": "",
+      "publishedAt": "2025-11-05T13:01:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hYrRhrb18qE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hYrRhrb18qE"
+    },
+    {
+      "id": "Kp1Bk-vO6MU",
+      "title": "防災関連の商品も初登場、全国から約2000点の商品を取りそろえ「お歳暮」商戦スタート",
+      "description": "",
+      "publishedAt": "2025-11-05T12:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kp1Bk-vO6MU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kp1Bk-vO6MU"
+    },
+    {
+      "id": "qFSnYReF_Bo",
+      "title": "「フンボルトペンギン」の個体識別タグを交換、鳥インフルの感染対策徹底も",
+      "description": "",
+      "publishedAt": "2025-11-05T12:31:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qFSnYReF_Bo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qFSnYReF_Bo"
+    },
+    {
+      "id": "31pEpIO2kfc",
+      "title": "【紅葉スポット情報】水面に映る〝逆さ妙高〟周辺の木々も紅葉見ごろに",
+      "description": "",
+      "publishedAt": "2025-11-05T12:15:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/31pEpIO2kfc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=31pEpIO2kfc"
+    },
+    {
+      "id": "a0efFwd7SAQ",
+      "title": "JR東日本 改札に「顔認証導入」6日から新幹線改札で実証実験",
+      "description": "",
+      "publishedAt": "2025-11-05T11:51:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a0efFwd7SAQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a0efFwd7SAQ"
+    },
+    {
+      "id": "wXkBwmlvc6w",
+      "title": "11月になっても台風発生 今後の動向に注意を【気象予報士が解説｜新潟】",
+      "description": "",
+      "publishedAt": "2025-11-05T11:36:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wXkBwmlvc6w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wXkBwmlvc6w"
+    },
+    {
+      "id": "ld3wTtVu1X0",
+      "title": "【節約術】灯油価格の高止まり続くなか「石油ファンヒーター」2つの節約ポイントとは【新潟】スーパーJにいがた11月5日OA",
+      "description": "",
+      "publishedAt": "2025-11-05T10:25:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ld3wTtVu1X0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ld3wTtVu1X0"
+    },
+    {
+      "id": "KY7P0ohgO0c",
+      "title": "防災関連の商品も初登場、全国から約2000点の商品を取りそろえ「お歳暮」商戦スタート【新潟】スーパーJにいがた11月5日OA",
+      "description": "",
+      "publishedAt": "2025-11-05T10:18:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KY7P0ohgO0c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KY7P0ohgO0c"
+    },
+    {
+      "id": "LShWYDu1_JI",
+      "title": "「フンボルトペンギン」の個体識別タグを交換、鳥インフルの感染対策徹底も【新潟】スーパーJにいがた11月5日OA",
+      "description": "",
+      "publishedAt": "2025-11-05T10:15:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LShWYDu1_JI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LShWYDu1_JI"
+    },
+    {
+      "id": "KKhtd7DezrE",
+      "title": "【特集｜最終日に密着】柏崎市「そばよし」感謝の一杯！味を胸と腹に刻む【新潟】スーパーJにいがた11月5日OA",
+      "description": "",
+      "publishedAt": "2025-11-05T10:15:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KKhtd7DezrE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KKhtd7DezrE"
+    },
+    {
+      "id": "24wsftawp4w",
+      "title": "11月になっても台風発生 今後の動向に注意を【気象予報士が解説｜新潟】スーパーJにいがた11月5日OA",
+      "description": "",
+      "publishedAt": "2025-11-05T10:15:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/24wsftawp4w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=24wsftawp4w"
+    },
+    {
+      "id": "KoGfgGJbxKg",
+      "title": "【紅葉スポット情報】水面に映る〝逆さ妙高〟周辺の木々も紅葉見ごろに【新潟･妙高市】スーパーJにいがた11月5日OA",
+      "description": "",
+      "publishedAt": "2025-11-05T10:09:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KoGfgGJbxKg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KoGfgGJbxKg"
+    },
+    {
+      "id": "Wuvy7XrBdD0",
+      "title": "JR東日本 改札に「顔認証導入」6日から新幹線改札で実証実験【新潟】スーパーJにいがた11月5日OA",
+      "description": "",
+      "publishedAt": "2025-11-05T10:02:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wuvy7XrBdD0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wuvy7XrBdD0"
+    },
+    {
+      "id": "CtJmXZ8gC9U",
+      "title": "住宅街に現れたクマを放水で捕獲、一時はこうちゃく状態に【新潟･魚沼市】スーパーJにいがた11月5日OA",
+      "description": "",
+      "publishedAt": "2025-11-05T09:59:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CtJmXZ8gC9U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CtJmXZ8gC9U"
+    },
+    {
+      "id": "VBMl0SrB_io",
+      "title": "【拉致問題】高市総理「手段を選ぶつもりはない」拉致被害者の救出に向け 日朝首脳会談を打診",
+      "description": "",
+      "publishedAt": "2025-11-05T03:50:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VBMl0SrB_io/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VBMl0SrB_io"
+    },
     {
       "id": "4y158-S6b-M",
       "title": "残り35秒でドラマ！一進一退の熱戦（ウインターカップ2025新潟県予選会）",

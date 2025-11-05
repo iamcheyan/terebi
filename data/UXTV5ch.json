@@ -1,8 +1,20 @@
 {
   "channel_id": "UCqobPh0K_bFAWurWVQrLtKQ",
   "channel_name": "UX新潟テレビ21",
-  "updated_at": "2025-11-03T16:00:01.042290",
+  "updated_at": "2025-11-05T15:22:22.359527",
   "videos": [
+    {
+      "id": "e7GRR9iKZhQ",
+      "title": "#阿部酒造 蔵のひと -Kura no HITO-",
+      "description": "",
+      "publishedAt": "2025-11-05T06:32:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e7GRR9iKZhQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e7GRR9iKZhQ"
+    },
     {
       "id": "Ixy991QdvpY",
       "title": "トキとの共生を目指した米づくりを支援する「佐渡トキ応援お米プロジェクト」 稲刈り作業【Team ECO Project2025🌱】",

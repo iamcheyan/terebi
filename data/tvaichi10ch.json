@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2025-11-04T15:24:15.286518",
+  "updated_at": "2025-11-05T15:21:42.262849",
   "videos": [
+    {
+      "id": "aSjfEPEj2Mg",
+      "title": "【徹底解説】Japan Mobility Show 2025 注目展示を全て見せます！│クルマとミライ増刊号",
+      "description": "",
+      "publishedAt": "2025-11-05T09:35:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aSjfEPEj2Mg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aSjfEPEj2Mg"
+    },
+    {
+      "id": "XeaGTa6v6i0",
+      "title": "大沢あかねと森香澄　美しき忠清道の旅　まだ見ぬ韓国へ｜テレビ愛知",
+      "description": "",
+      "publishedAt": "2025-11-05T01:29:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XeaGTa6v6i0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XeaGTa6v6i0"
+    },
     {
       "id": "a984EdMOvr4",
       "title": "【ベルテクノ】停電に備えて開発された、企業内のデータセンター向けの温度成層型蓄熱槽を紹介【開発現場へ行こう #38】",
