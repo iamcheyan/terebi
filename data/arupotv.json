@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-11-05T15:22:16.467988",
+  "updated_at": "2025-11-06T15:25:22.722424",
   "videos": [
+    {
+      "id": "AYGjLBWBbZ0",
+      "title": "【番宣】１１月１３日（木）こんばんは熊本市",
+      "description": "",
+      "publishedAt": "2025-11-06T10:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AYGjLBWBbZ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AYGjLBWBbZ0"
+    },
+    {
+      "id": "vaLuc5x4S-I",
+      "title": "【番宣】１１月１２日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2025-11-06T01:09:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vaLuc5x4S-I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vaLuc5x4S-I"
+    },
     {
       "id": "I3lRwpFQXuQ",
       "title": "【番宣】１１月６日（木）NEWSゲツキン",
