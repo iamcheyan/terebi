@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-11-05T15:21:44.137946",
+  "updated_at": "2025-11-07T15:22:16.018006",
   "videos": [
+    {
+      "id": "fSU8XocRTAo",
+      "title": "第104回全国高校サッカー選手権大会　奈良大会　準決勝【高田商業　対　山辺】",
+      "description": "",
+      "publishedAt": "2025-11-07T03:41:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fSU8XocRTAo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fSU8XocRTAo"
+    },
+    {
+      "id": "8woa5Gt_QXk",
+      "title": "第104回全国高校サッカー選手権大会　奈良大会　準決勝【奈良育英　対　五條】",
+      "description": "",
+      "publishedAt": "2025-11-07T03:39:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8woa5Gt_QXk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8woa5Gt_QXk"
+    },
     {
       "id": "P6HtfJju1hA",
       "title": "【10月31日（金）放送】いきいきまちだより",

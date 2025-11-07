@@ -1,8 +1,20 @@
 {
   "channel_id": "UCqobPh0K_bFAWurWVQrLtKQ",
   "channel_name": "UX新潟テレビ21",
-  "updated_at": "2025-11-06T15:25:33.071441",
+  "updated_at": "2025-11-07T15:23:28.285953",
   "videos": [
+    {
+      "id": "vAvbYOR1xbY",
+      "title": "#麒麟山酒造 蔵のひと -Kura no HITO-",
+      "description": "",
+      "publishedAt": "2025-11-07T12:01:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vAvbYOR1xbY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vAvbYOR1xbY"
+    },
     {
       "id": "aZskgLXHbsU",
       "title": "#長谷川酒造 蔵のひと -Kura no HITO-",

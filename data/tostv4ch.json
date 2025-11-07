@@ -1,8 +1,20 @@
 {
   "channel_id": "UC0k0UP7RA9l-X_3t8jElXQQ",
   "channel_name": "TOSテレビ大分",
-  "updated_at": "2025-11-06T15:24:14.215617",
+  "updated_at": "2025-11-07T15:22:33.285682",
   "videos": [
+    {
+      "id": "YatsMJASHlE",
+      "title": "△本編はリンクから",
+      "description": "",
+      "publishedAt": "2025-11-07T12:01:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YatsMJASHlE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YatsMJASHlE"
+    },
     {
       "id": "fDhwkMRZ1YU",
       "title": "△本編はリンクから",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2025-11-06T15:25:34.609997",
+  "updated_at": "2025-11-07T15:23:29.059038",
   "videos": [
+    {
+      "id": "vAV7JQBuM7o",
+      "title": "愛媛のニュース(11月07日)",
+      "description": "",
+      "publishedAt": "2025-11-07T11:38:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vAV7JQBuM7o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vAV7JQBuM7o"
+    },
+    {
+      "id": "hElE1nDGS8E",
+      "title": "年間300ステージ　旅するミュージシャン阿部浩二",
+      "description": "",
+      "publishedAt": "2025-11-07T10:01:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hElE1nDGS8E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hElE1nDGS8E"
+    },
+    {
+      "id": "1OH2cdNiReg",
+      "title": "【謎】松山中央高校はなぜ中央？高校の名前の由来を解明！",
+      "description": "",
+      "publishedAt": "2025-11-07T10:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1OH2cdNiReg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1OH2cdNiReg"
+    },
     {
       "id": "SdKik-hFHn8",
       "title": "ステージに上がった“きょうだい児”の姉と妹 間もなく訪れる大きな転機 特別支援学校で劇団公演",

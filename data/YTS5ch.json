@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2025-11-06T15:24:56.365540",
+  "updated_at": "2025-11-07T15:22:32.106235",
   "videos": [
+    {
+      "id": "vxYRhxf6s9c",
+      "title": "【見逃し】高校生レストラン 山辺町から生中継 和田孝太郎アナウンサー",
+      "description": "",
+      "publishedAt": "2025-11-07T10:22:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vxYRhxf6s9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vxYRhxf6s9c"
+    },
     {
       "id": "HouYN_OFqTw",
       "title": "カラーテレビ商戦・フラワー長井線が開業・鳥海山に大蛇がいる！？ ～YTS山形テレビ「やまがた百景（昭和を顧みて）」～",
