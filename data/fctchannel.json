@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2025-11-05T15:22:08.336902",
+  "updated_at": "2025-11-08T15:19:59.390447",
   "videos": [
+    {
+      "id": "nEKQItT-r0g",
+      "title": "#ふぁびゅらじ【本編】いま",
+      "description": "",
+      "publishedAt": "2025-11-08T08:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nEKQItT-r0g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nEKQItT-r0g"
+    },
     {
       "id": "oQwWY4RECfo",
       "title": "おゆらじ   #36.5【番外編】置いといて",

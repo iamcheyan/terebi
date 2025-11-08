@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2025-11-07T15:23:28.005438",
+  "updated_at": "2025-11-08T15:20:16.319645",
   "videos": [
+    {
+      "id": "plQf-EchkdE",
+      "title": "いっとこ！：11月15日（土）放送",
+      "description": "",
+      "publishedAt": "2025-11-08T02:30:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/plQf-EchkdE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=plQf-EchkdE"
+    },
+    {
+      "id": "OvoT5Bg-ZmA",
+      "title": "Yagien Ballpark　11月14日（金）放送",
+      "description": "",
+      "publishedAt": "2025-11-07T16:15:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OvoT5Bg-ZmA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OvoT5Bg-ZmA"
+    },
     {
       "id": "gfatpv0RLZI",
       "title": "発見！タカトシランド 2025年11月14日（金）OA",

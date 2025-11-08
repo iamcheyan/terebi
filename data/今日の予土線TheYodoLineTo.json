@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-11-07T15:23:37.269786",
+  "updated_at": "2025-11-08T15:20:22.148323",
   "videos": [
+    {
+      "id": "5mPJFjxlcks",
+      "title": "251108 160503 宮野下第１踏切",
+      "description": "",
+      "publishedAt": "2025-11-08T11:28:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5mPJFjxlcks/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5mPJFjxlcks"
+    },
+    {
+      "id": "yY4Mye-B9hA",
+      "title": "251108 155918 ちょっと気になったので撮ってみた",
+      "description": "",
+      "publishedAt": "2025-11-08T10:50:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yY4Mye-B9hA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yY4Mye-B9hA"
+    },
+    {
+      "id": "kA3qwfaG7aI",
+      "title": "251108 155245 麓踏切 ２",
+      "description": "",
+      "publishedAt": "2025-11-08T10:13:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kA3qwfaG7aI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kA3qwfaG7aI"
+    },
+    {
+      "id": "Fjrd6dV3re4",
+      "title": "251108 154859 麓踏切（トロッコ列車通過）",
+      "description": "",
+      "publishedAt": "2025-11-08T09:51:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fjrd6dV3re4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fjrd6dV3re4"
+    },
+    {
+      "id": "D5s8Hocg1Io",
+      "title": "251108 154544 麓踏切",
+      "description": "",
+      "publishedAt": "2025-11-08T09:51:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D5s8Hocg1Io/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D5s8Hocg1Io"
+    },
+    {
+      "id": "-enbfyEbfT8",
+      "title": "251108 154332 麓踏切",
+      "description": "",
+      "publishedAt": "2025-11-08T09:47:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-enbfyEbfT8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-enbfyEbfT8"
+    },
     {
       "id": "8VKWKu83IV8",
       "title": "251107 100433 小井手踏切 ２",
