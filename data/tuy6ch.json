@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2025-11-08T15:20:13.350968",
+  "updated_at": "2025-11-09T15:19:15.606301",
   "videos": [
+    {
+      "id": "CKPEmxcTJ8k",
+      "title": "誰かの人生を明るく照らす",
+      "description": "",
+      "publishedAt": "2025-11-09T04:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CKPEmxcTJ8k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CKPEmxcTJ8k"
+    },
     {
       "id": "75dYYgN3c9E",
       "title": "紅葉に合うパン探し！秋らしいクロワッサン＆ミルフィーユのような食パン!?",
