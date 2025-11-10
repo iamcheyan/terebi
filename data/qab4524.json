@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2025-11-07T15:23:14.988718",
+  "updated_at": "2025-11-10T15:25:05.287285",
   "videos": [
+    {
+      "id": "h9gfV8cgpK8",
+      "title": "Listen160 友利あゆさん",
+      "description": "",
+      "publishedAt": "2025-11-10T08:06:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h9gfV8cgpK8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h9gfV8cgpK8"
+    },
     {
       "id": "2V04FnKHsqM",
       "title": "Vol.31「30歳 最高ど！」横目さん",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2025-11-04T15:24:35.711371",
+  "updated_at": "2025-11-10T15:25:06.735388",
   "videos": [
+    {
+      "id": "XoPaiQJ-Ivk",
+      "title": "【みらいWEEK】STVが、みらいと向き合う一週間。【TAKE ACTION！11/24 Mon.～30 Sun.】",
+      "description": "",
+      "publishedAt": "2025-11-10T03:06:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XoPaiQJ-Ivk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XoPaiQJ-Ivk"
+    },
     {
       "id": "gLN7uywTPXc",
       "title": "【生中継】札幌大谷高校×北海高校（第104回 全国高校サッカー選手権大会 北海道大会 決勝）",

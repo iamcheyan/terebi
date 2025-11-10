@@ -1,8 +1,188 @@
 {
   "channel_id": "UC_SN3bimHrEFQ0qe-5X5zFw",
   "channel_name": "とちぎテレビNEWS",
-  "updated_at": "2025-11-07T15:23:30.354845",
+  "updated_at": "2025-11-10T15:25:13.382445",
   "videos": [
+    {
+      "id": "B8NF2dxk_K8",
+      "title": "栃木ＳＣ　鹿児島に快勝",
+      "description": "",
+      "publishedAt": "2025-11-10T02:03:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B8NF2dxk_K8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B8NF2dxk_K8"
+    },
+    {
+      "id": "wQiYIzNpYXM",
+      "title": "市貝町長選挙　軽部氏初当選　新人同士の一騎打ち制す",
+      "description": "",
+      "publishedAt": "2025-11-10T02:03:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wQiYIzNpYXM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wQiYIzNpYXM"
+    },
+    {
+      "id": "9MJZBgo7KEU",
+      "title": "高校バスケ　ウインターカップ　男子は宇工　女子は矢板中央",
+      "description": "",
+      "publishedAt": "2025-11-10T02:02:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9MJZBgo7KEU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9MJZBgo7KEU"
+    },
+    {
+      "id": "BT6PNQen0dA",
+      "title": "宇都宮建設業協会　創立８０周年祝う",
+      "description": "",
+      "publishedAt": "2025-11-10T02:02:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BT6PNQen0dA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BT6PNQen0dA"
+    },
+    {
+      "id": "kr3WTkZpPG0",
+      "title": "明智平駐車場の閉鎖　渋滞１００分以上の短縮　いろは坂で社会実験",
+      "description": "",
+      "publishedAt": "2025-11-10T02:01:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kr3WTkZpPG0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kr3WTkZpPG0"
+    },
+    {
+      "id": "hDc35b82TB8",
+      "title": "栃木県内外の空手家が集う大会　宇都宮",
+      "description": "",
+      "publishedAt": "2025-11-10T01:59:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hDc35b82TB8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hDc35b82TB8"
+    },
+    {
+      "id": "yeUBenCNjrk",
+      "title": "栃木シティ　讃岐に逆転勝ちでJ3首位に再浮上",
+      "description": "",
+      "publishedAt": "2025-11-10T01:58:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yeUBenCNjrk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yeUBenCNjrk"
+    },
+    {
+      "id": "v7jWz3V6a-U",
+      "title": "足利市の「渋谷スクランブル交差点」　閉鎖前最後の一般公開",
+      "description": "",
+      "publishedAt": "2025-11-10T01:58:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v7jWz3V6a-U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v7jWz3V6a-U"
+    },
+    {
+      "id": "GOLkt5xxr-s",
+      "title": "立憲民主党・野田代表　栃木県に来県　宇都宮市の農家１０人と意見交換",
+      "description": "",
+      "publishedAt": "2025-11-10T01:56:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GOLkt5xxr-s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GOLkt5xxr-s"
+    },
+    {
+      "id": "cW_TrMk66LM",
+      "title": "春の高校バレー栃木県大会　足利大附と國學院栃木がそれぞれ頂点に",
+      "description": "",
+      "publishedAt": "2025-11-10T01:54:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cW_TrMk66LM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cW_TrMk66LM"
+    },
+    {
+      "id": "bGmyd58s9Rc",
+      "title": "高校サッカー栃木県大会　決勝戦は矢板中央と宇都宮短大附属",
+      "description": "",
+      "publishedAt": "2025-11-10T01:53:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bGmyd58s9Rc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bGmyd58s9Rc"
+    },
+    {
+      "id": "OnWhuAMFEto",
+      "title": "高校ラグビー栃木県大会　國學院栃木が２６大会連続で花園へ",
+      "description": "",
+      "publishedAt": "2025-11-10T01:50:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OnWhuAMFEto/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OnWhuAMFEto"
+    },
+    {
+      "id": "XriRkdFkU-Q",
+      "title": "栃木銀行　中間決算　増収増益",
+      "description": "",
+      "publishedAt": "2025-11-10T01:49:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XriRkdFkU-Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XriRkdFkU-Q"
+    },
+    {
+      "id": "DPDOyYxrgAw",
+      "title": "ラグビーで地域活性化へネットワーク　キックオフ会開かれる　宇都宮",
+      "description": "",
+      "publishedAt": "2025-11-10T01:48:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DPDOyYxrgAw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DPDOyYxrgAw"
+    },
+    {
+      "id": "S_Ywmg0_jp0",
+      "title": "ＬＲＴ沿線に公共交通の待合スペース「モビリティハブ」オープン　記念セレモニー開かれる 　宇都宮市",
+      "description": "",
+      "publishedAt": "2025-11-10T01:47:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S_Ywmg0_jp0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S_Ywmg0_jp0"
+    },
     {
       "id": "nd6XD0hMOZs",
       "title": "【キャスターがゆく！】ようこそ！Honda　HEAT　ラグビーのまち宇都宮へ",

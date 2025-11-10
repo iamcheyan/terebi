@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2025-11-07T15:22:43.980259",
+  "updated_at": "2025-11-10T15:24:38.156066",
   "videos": [
+    {
+      "id": "5TvBEKLyTgE",
+      "title": "【プラス1ダイジェスト】11/10(月) のニュース",
+      "description": "",
+      "publishedAt": "2025-11-10T10:07:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5TvBEKLyTgE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5TvBEKLyTgE"
+    },
     {
       "id": "cDcz9MS_BDo",
       "title": "【プラス1ダイジェスト】11/07(金) のニュース",

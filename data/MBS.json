@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2025-11-09T15:18:45.684278",
+  "updated_at": "2025-11-10T15:24:28.605429",
   "videos": [
+    {
+      "id": "9X4T29H5K5o",
+      "title": "無敵の内場勝則VS島田一の介",
+      "description": "",
+      "publishedAt": "2025-11-10T10:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9X4T29H5K5o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9X4T29H5K5o"
+    },
+    {
+      "id": "VhFoJPUMW0I",
+      "title": "ドラマフィル「ifの世界で恋がはじまる」ED主題歌版ver.予告映像【醍醐虎汰朗＆中川大輔】11/20START!!",
+      "description": "",
+      "publishedAt": "2025-11-09T22:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VhFoJPUMW0I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VhFoJPUMW0I"
+    },
     {
       "id": "1JImmoEt520",
       "title": "【予告映像解禁】山下幸輝＆松本怜生 W主演「プロパガンダゲーム」１１月１８日（火）初回放送",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2025-11-09T15:18:45.173031",
+  "updated_at": "2025-11-10T15:24:48.088774",
   "videos": [
+    {
+      "id": "Qjw04VAXmKA",
+      "title": "【フル】侍ジャパン宮崎合宿５日日",
+      "description": "",
+      "publishedAt": "2025-11-10T09:29:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Qjw04VAXmKA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Qjw04VAXmKA"
+    },
+    {
+      "id": "yJZXvHnZu4Y",
+      "title": "【サッカー日本代表新ユニフォーム発表】JFA・アディダス「サッカー日本代表 2026」キャンペーン共同発表会",
+      "description": "",
+      "publishedAt": "2025-11-10T09:21:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yJZXvHnZu4Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yJZXvHnZu4Y"
+    },
+    {
+      "id": "brznmGgSLI8",
+      "title": "イリア・マリニン 2位に40点超差で圧勝！ #テレ朝フィギュア",
+      "description": "",
+      "publishedAt": "2025-11-10T09:00:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/brznmGgSLI8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=brznmGgSLI8"
+    },
+    {
+      "id": "wngYGjYwM7c",
+      "title": "#りくりゅう GPシリーズ制覇をめざす？ #テレ朝フィギュア",
+      "description": "",
+      "publishedAt": "2025-11-10T08:01:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wngYGjYwM7c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wngYGjYwM7c"
+    },
     {
       "id": "q9rbax8SeKQ",
       "title": "【侍ジャパン】宮崎合宿3日目！岡本和真が合流！ライブBPも実施",
