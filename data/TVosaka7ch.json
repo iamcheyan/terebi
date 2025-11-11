@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-11-09T15:18:19.077291",
+  "updated_at": "2025-11-11T15:23:46.213784",
   "videos": [
+    {
+      "id": "ZJTYGcSiEtw",
+      "title": "【古今東西ゲーム】テレビ大阪アナウンサーの対決！",
+      "description": "",
+      "publishedAt": "2025-11-11T08:00:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZJTYGcSiEtw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZJTYGcSiEtw"
+    },
+    {
+      "id": "c03StkEmCD4",
+      "title": "「UNREAL-不条理雑貨店-」第6話 11/17（月）深夜1時11分",
+      "description": "",
+      "publishedAt": "2025-11-10T16:45:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c03StkEmCD4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c03StkEmCD4"
+    },
     {
       "id": "jD_Z5h5IwI8",
       "title": "食遺産File.222「ふわふわ豆腐まんじゅう」＠大阪府・茨木市",

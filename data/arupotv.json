@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-11-09T15:19:11.319260",
+  "updated_at": "2025-11-11T15:24:09.585383",
   "videos": [
+    {
+      "id": "zW-GiWWDtR0",
+      "title": "【番宣】１１月１３日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-11-11T04:17:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zW-GiWWDtR0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zW-GiWWDtR0"
+    },
+    {
+      "id": "T8v3cja5dTk",
+      "title": "【番宣】１１月１２日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-11-11T00:38:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T8v3cja5dTk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T8v3cja5dTk"
+    },
     {
       "id": "zezIQlGNYic",
       "title": "めざせ！くまもとの若き匠たち 第78回",

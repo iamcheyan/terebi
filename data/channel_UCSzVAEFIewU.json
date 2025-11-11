@@ -1,8 +1,104 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2025-11-08T15:19:33.118368",
+  "updated_at": "2025-11-11T15:23:45.221653",
   "videos": [
+    {
+      "id": "vklHhhuUtxo",
+      "title": "【グルメにアート】三津浜に新たな風",
+      "description": "",
+      "publishedAt": "2025-11-11T09:31:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vklHhhuUtxo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vklHhhuUtxo"
+    },
+    {
+      "id": "ffF7XGBxk0A",
+      "title": "【昭和１００年】#32 「若者のアイデア満載！芸術の秋は『学園祭』で大盛り上がり！」",
+      "description": "",
+      "publishedAt": "2025-11-11T09:28:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ffF7XGBxk0A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ffF7XGBxk0A"
+    },
+    {
+      "id": "6paNqZvWbQo",
+      "title": "【ベジ得】免疫力アップや冷え性の改善が期待できるショウガ",
+      "description": "",
+      "publishedAt": "2025-11-11T09:27:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6paNqZvWbQo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6paNqZvWbQo"
+    },
+    {
+      "id": "PLGPdeF3srw",
+      "title": "【台湾】大学生の交流で新たな架け橋を…",
+      "description": "",
+      "publishedAt": "2025-11-11T09:27:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PLGPdeF3srw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PLGPdeF3srw"
+    },
+    {
+      "id": "JK_1XpIUPFs",
+      "title": "【愛媛県美術館で開催！】田中達也展 みたてのくみたて",
+      "description": "",
+      "publishedAt": "2025-11-11T09:24:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JK_1XpIUPFs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JK_1XpIUPFs"
+    },
+    {
+      "id": "E0SMyokVS3M",
+      "title": "【媛っ子最強決定戦#3】久万高原町立久万小学校",
+      "description": "",
+      "publishedAt": "2025-11-11T09:20:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E0SMyokVS3M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E0SMyokVS3M"
+    },
+    {
+      "id": "1vBlvQKNPtI",
+      "title": "【ベジ得】栄養価の高い、健康志向の野菜として注目されている「菊芋」",
+      "description": "",
+      "publishedAt": "2025-11-11T09:17:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1vBlvQKNPtI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1vBlvQKNPtI"
+    },
+    {
+      "id": "G_qHpiwgCSo",
+      "title": "【Dream＋】女子相撲で全国に挑む小学生",
+      "description": "",
+      "publishedAt": "2025-11-11T09:16:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G_qHpiwgCSo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G_qHpiwgCSo"
+    },
     {
       "id": "-kR0i1haQ4U",
       "title": "【ゆる～く生配信】ゴルフドゥ！presents『第８回EBC 高校OBチーム対抗ゴルフ大会』～２０２５～",

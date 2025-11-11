@@ -1,9 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
-  "channel_name": "NTV News",
-  "original_name": "日テレNEWS",
-  "updated_at": "2025-11-10T15:25:27.753600",
+  "channel_name": "日テレNEWS",
+  "updated_at": "2025-11-11T15:23:43.328214",
   "videos": [
+    {
+      "id": "rfUT_8HSYT4",
+      "title": "Nebraska Enters Bye Week Riding Momentum Behind Big Ten Honorees QB TJ Lateef and RB Emmett Johnson",
+      "description": "",
+      "publishedAt": "2025-11-10T23:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rfUT_8HSYT4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rfUT_8HSYT4"
+    },
+    {
+      "id": "UrPjpkdUWYA",
+      "title": "Matt Rhule Press Conference: Emmett for Heisman? TJ Shines, Huskers Hit Bye Week, Recruiting Update",
+      "description": "",
+      "publishedAt": "2025-11-10T18:38:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UrPjpkdUWYA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UrPjpkdUWYA"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "8IunluIkFywuwPWq_19W5hQPvtA",

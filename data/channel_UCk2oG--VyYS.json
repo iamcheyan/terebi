@@ -1,8 +1,116 @@
 {
   "channel_id": "UCk2oG--VyYST4SYyQkeadjA",
   "channel_name": "UTYテレビ山梨",
-  "updated_at": "2025-11-10T15:24:45.887413",
+  "updated_at": "2025-11-11T15:23:37.160293",
   "videos": [
+    {
+      "id": "BI_YTQr4zCk",
+      "title": "「アートで地域とお寺をつなぎたい」　美術家が父から継いだ寺を自らリノベーション　根底に“宗教離れをとめたい”　山梨・海禅寺",
+      "description": "",
+      "publishedAt": "2025-11-11T12:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BI_YTQr4zCk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BI_YTQr4zCk"
+    },
+    {
+      "id": "qDAbyY-w3Ig",
+      "title": "空気の力で浮かせてウェハー運搬　ロボットハンド開発のハーモテックが最優秀賞　やまなし産業大賞",
+      "description": "",
+      "publishedAt": "2025-11-11T11:35:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qDAbyY-w3Ig/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qDAbyY-w3Ig"
+    },
+    {
+      "id": "VQLjVkcmOvE",
+      "title": "「きれいで見とれています」　紅葉×富士山×茅ぶき屋根　モミジやイチョウが色づき見頃　山梨・西湖いやしの里根場",
+      "description": "",
+      "publishedAt": "2025-11-11T11:31:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VQLjVkcmOvE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VQLjVkcmOvE"
+    },
+    {
+      "id": "ySaqDlV08Zc",
+      "title": "「100円ごはん」学生限定で提供　通常450円の朝定食が100円に　物価高に直面する学生を支援　山梨大学　#UTY NEWS DIG#ニュース #shorts#学生食堂#物価高#カレー#カレー指数",
+      "description": "",
+      "publishedAt": "2025-11-11T11:30:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ySaqDlV08Zc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ySaqDlV08Zc"
+    },
+    {
+      "id": "w4bowzA7nyE",
+      "title": "「庭に来るのは想定外」クマが住宅街の自宅の庭に　甲府周辺で今月6件の目撃情報　山梨",
+      "description": "",
+      "publishedAt": "2025-11-11T11:26:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/w4bowzA7nyE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=w4bowzA7nyE"
+    },
+    {
+      "id": "r0PW0vCJb5A",
+      "title": "河口湖ライブカメラ タイムラプス映像（2025年11月10日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2025-11-11T00:23:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r0PW0vCJb5A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r0PW0vCJb5A"
+    },
+    {
+      "id": "pilmTI1H0H4",
+      "title": "精進湖ライブカメラ タイムラプス映像（2025年11月10日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2025-11-11T00:22:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pilmTI1H0H4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pilmTI1H0H4"
+    },
+    {
+      "id": "97SyaRP2hFg",
+      "title": "西湖ライブカメラ タイムラプス映像（2025年11月10日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2025-11-11T00:21:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/97SyaRP2hFg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=97SyaRP2hFg"
+    },
+    {
+      "id": "NC96U43adsk",
+      "title": "山中湖ライブカメラ タイムラプス映像（2025年11月10日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2025-11-11T00:18:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NC96U43adsk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NC96U43adsk"
+    },
     {
       "id": "r_M-ViQkbQ4",
       "title": "「根こそぎ持っていかれた」バブル期の名車・日産シルビアS13　部品が盗まれ廃車同然に　被害額はおよそ250万円　#UTY NEWS DIG#ニュース #shorts#盗難#パーツ#日産#シルビア",
