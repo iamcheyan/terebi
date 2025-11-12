@@ -1,8 +1,32 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2025-11-09T15:19:19.221640",
+  "updated_at": "2025-11-12T15:25:51.843644",
   "videos": [
+    {
+      "id": "E4kNVfiwPbA",
+      "title": "【ピヨ卵ワイド　特集】ピヨピヨクリエーターズ",
+      "description": "",
+      "publishedAt": "2025-11-12T10:07:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E4kNVfiwPbA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E4kNVfiwPbA"
+    },
+    {
+      "id": "Tk5rEoC6Uyg",
+      "title": "姉弟でデフリンピック出場！",
+      "description": "",
+      "publishedAt": "2025-11-12T06:56:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Tk5rEoC6Uyg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Tk5rEoC6Uyg"
+    },
     {
       "id": "ESdvWgLMgH4",
       "title": "やまがたサンデー５　１１月９日放送分　輝く県民活躍大賞",

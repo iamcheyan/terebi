@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-11-07T15:22:16.018006",
+  "updated_at": "2025-11-12T15:24:55.629519",
   "videos": [
+    {
+      "id": "kpP6DnUuk6c",
+      "title": "【11月7日（金）放送】いきいきまちだより",
+      "description": "",
+      "publishedAt": "2025-11-12T03:00:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kpP6DnUuk6c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kpP6DnUuk6c"
+    },
+    {
+      "id": "AG5oS2XZePY",
+      "title": "大和ハウス工業 奈良支店　11月の相続対策・収益物件活用法セミナー",
+      "description": "",
+      "publishedAt": "2025-11-12T00:42:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AG5oS2XZePY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AG5oS2XZePY"
+    },
     {
       "id": "fSU8XocRTAo",
       "title": "第104回全国高校サッカー選手権大会　奈良大会　準決勝【高田商業　対　山辺】",

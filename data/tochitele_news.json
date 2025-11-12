@@ -1,8 +1,92 @@
 {
   "channel_id": "UC_SN3bimHrEFQ0qe-5X5zFw",
   "channel_name": "とちぎテレビNEWS",
-  "updated_at": "2025-11-11T15:24:20.389466",
+  "updated_at": "2025-11-12T15:25:54.447223",
   "videos": [
+    {
+      "id": "bxCpQ3SSSEw",
+      "title": "佐野市の６校で「クマ鈴」を配布　市内のクマ目撃情報３１件",
+      "description": "",
+      "publishedAt": "2025-11-12T00:46:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bxCpQ3SSSEw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bxCpQ3SSSEw"
+    },
+    {
+      "id": "DkZ0i0xLdYM",
+      "title": "高齢者の健康維持と社会参加　eスポーツの初授業　栃木県シルバー大学校",
+      "description": "",
+      "publishedAt": "2025-11-12T00:44:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DkZ0i0xLdYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DkZ0i0xLdYM"
+    },
+    {
+      "id": "o5nBZBXUVIw",
+      "title": "酪農を身近に感じて　那須塩原市の箒根学園２年生が乳しぼり体験",
+      "description": "",
+      "publishedAt": "2025-11-12T00:42:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o5nBZBXUVIw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o5nBZBXUVIw"
+    },
+    {
+      "id": "YFUuZyOkN0I",
+      "title": "奥日光の登山シーズンに終わり告げる　男体山の閉山祭",
+      "description": "",
+      "publishedAt": "2025-11-12T00:40:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YFUuZyOkN0I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YFUuZyOkN0I"
+    },
+    {
+      "id": "VxJW5YUyoQ8",
+      "title": "サイバーテロ対策などで３組織が連携　栃木県警が官民連携組織の合同総会開催",
+      "description": "",
+      "publishedAt": "2025-11-12T00:36:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VxJW5YUyoQ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VxJW5YUyoQ8"
+    },
+    {
+      "id": "oDSKroLgV_M",
+      "title": "獨協医科大学とマニーが包括連携協定　地域貢献や人材育成、医療発展に寄与を目指す",
+      "description": "",
+      "publishedAt": "2025-11-12T00:35:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oDSKroLgV_M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oDSKroLgV_M"
+    },
+    {
+      "id": "si3uJXQ1c0c",
+      "title": "中学生発案「Ｌｉｖｅ１１９」活用した訓練",
+      "description": "",
+      "publishedAt": "2025-11-12T00:35:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/si3uJXQ1c0c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=si3uJXQ1c0c"
+    },
     {
       "id": "89DY_x0g8jw",
       "title": "世界最高齢の現役女性理容師として認定された箱石シツイさん１０９歳に",

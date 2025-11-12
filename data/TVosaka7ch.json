@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-11-11T15:23:46.213784",
+  "updated_at": "2025-11-12T15:25:19.091476",
   "videos": [
+    {
+      "id": "Vv3DsL_cW7g",
+      "title": "上原美穂アナが体験！「OSAKAアート＆てづくりバザール」",
+      "description": "",
+      "publishedAt": "2025-11-12T08:25:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Vv3DsL_cW7g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Vv3DsL_cW7g"
+    },
     {
       "id": "ZJTYGcSiEtw",
       "title": "【古今東西ゲーム】テレビ大阪アナウンサーの対決！",
