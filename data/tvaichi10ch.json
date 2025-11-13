@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2025-11-12T15:24:54.568463",
+  "updated_at": "2025-11-13T15:24:34.243591",
   "videos": [
+    {
+      "id": "Jaw9mp2JRo4",
+      "title": "熱くなれ！ユニファイドスポーツ【クルマとミライ】",
+      "description": "",
+      "publishedAt": "2025-11-13T14:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Jaw9mp2JRo4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Jaw9mp2JRo4"
+    },
+    {
+      "id": "A1qPSlD1oAw",
+      "title": "【集合】あかせあかりの「灯りん隊」とは？｜アカリノコマド",
+      "description": "",
+      "publishedAt": "2025-11-13T12:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A1qPSlD1oAw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A1qPSlD1oAw"
+    },
     {
       "id": "D-gnlGolIqo",
       "title": "【LBS】伝統産業 金箔で新商品続々",

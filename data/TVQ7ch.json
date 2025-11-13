@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2025-11-10T15:25:09.334429",
+  "updated_at": "2025-11-13T15:24:54.564123",
   "videos": [
+    {
+      "id": "Pw5-cQZv-5M",
+      "title": "オーヤブグループ | カンパニーファイル（テレＱ2025年11月13日放送）",
+      "description": "",
+      "publishedAt": "2025-11-13T14:05:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Pw5-cQZv-5M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Pw5-cQZv-5M"
+    },
+    {
+      "id": "5vHsTjVDI9k",
+      "title": "【夢クルーズ】581 高祖神社(2025年11月13日放送)",
+      "description": "",
+      "publishedAt": "2025-11-13T12:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5vHsTjVDI9k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5vHsTjVDI9k"
+    },
     {
       "id": "Tc7STWC_o8A",
       "title": "【夢クルーズ】580 草野の伝統的町並み(2025年11月6日放送)",

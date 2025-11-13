@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2025-11-12T15:25:48.704702",
+  "updated_at": "2025-11-13T15:24:54.211612",
   "videos": [
+    {
+      "id": "cqy4dKJRXlQ",
+      "title": "北海道で至福のランチ！アナウンサーのランチ『アナメシ』特別編②",
+      "description": "",
+      "publishedAt": "2025-11-13T06:49:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cqy4dKJRXlQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cqy4dKJRXlQ"
+    },
+    {
+      "id": "gAhc02MNyPc",
+      "title": "北海道で至福のランチ！アナウンサーのランチ『アナメシ』特別編①",
+      "description": "",
+      "publishedAt": "2025-11-13T06:49:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gAhc02MNyPc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gAhc02MNyPc"
+    },
     {
       "id": "MUz37QzWm4U",
       "title": "イッテＱもテッペンも見てね　#登山 #信州",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-11-12T15:25:57.235194",
+  "updated_at": "2025-11-13T15:24:59.645071",
   "videos": [
+    {
+      "id": "E8-KZ6isgA4",
+      "title": "251113 135501 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2025-11-13T09:57:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E8-KZ6isgA4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E8-KZ6isgA4"
+    },
+    {
+      "id": "W0qITEfr-0I",
+      "title": "251113 135137 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2025-11-13T09:57:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W0qITEfr-0I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W0qITEfr-0I"
+    },
+    {
+      "id": "2Kbm_LeBF28",
+      "title": "251113 134240 中野踏切",
+      "description": "",
+      "publishedAt": "2025-11-13T09:26:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Kbm_LeBF28/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Kbm_LeBF28"
+    },
+    {
+      "id": "y34AVz9r6eM",
+      "title": "251113 133935 中野踏切",
+      "description": "",
+      "publishedAt": "2025-11-13T09:25:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y34AVz9r6eM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y34AVz9r6eM"
+    },
     {
       "id": "yEwXE3m4qqA",
       "title": "251112 173835 大内駅",

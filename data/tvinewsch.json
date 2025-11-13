@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2025-11-12T15:25:31.607732",
+  "updated_at": "2025-11-13T15:24:10.970036",
   "videos": [
+    {
+      "id": "uOj_pxhi-vM",
+      "title": "【プラス1ダイジェスト】11/13(木) のニュース",
+      "description": "",
+      "publishedAt": "2025-11-13T10:34:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uOj_pxhi-vM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uOj_pxhi-vM"
+    },
+    {
+      "id": "L1ATNmgINmw",
+      "title": "元気○（マル）らいふ　【ピラティス】（2025/11/12放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2025-11-13T04:27:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L1ATNmgINmw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L1ATNmgINmw"
+    },
     {
       "id": "O5uAa6j1gfw",
       "title": "【プラス1ダイジェスト】11/12(水) のニュース",

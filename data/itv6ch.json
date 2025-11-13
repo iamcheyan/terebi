@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2025-11-12T15:25:52.466443",
+  "updated_at": "2025-11-13T15:24:57.031441",
   "videos": [
+    {
+      "id": "-aZF88yk7QI",
+      "title": "愛媛のニュース(11月13日)",
+      "description": "",
+      "publishedAt": "2025-11-13T11:35:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-aZF88yk7QI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-aZF88yk7QI"
+    },
+    {
+      "id": "Rei6tAQeGmw",
+      "title": "準絶滅危惧種 『サギソウ』を救え！ 地域と企業が連携する保護活動",
+      "description": "",
+      "publishedAt": "2025-11-13T11:00:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rei6tAQeGmw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rei6tAQeGmw"
+    },
     {
       "id": "ekSRJE3jwZg",
       "title": "愛媛のニュース(11月12日)",
