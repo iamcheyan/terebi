@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2025-11-13T15:24:54.211612",
+  "updated_at": "2025-11-14T15:21:14.178670",
   "videos": [
+    {
+      "id": "t24uo9J1qeM",
+      "title": "いももちの作り方　#テレビ信州",
+      "description": "",
+      "publishedAt": "2025-11-14T08:18:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t24uo9J1qeM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t24uo9J1qeM"
+    },
+    {
+      "id": "F8A6oPdrK8E",
+      "title": "『アナメシ』北海道編Vlog前編　#北海道旅行 #冬グルメ #海鮮",
+      "description": "",
+      "publishedAt": "2025-11-14T08:06:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F8A6oPdrK8E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F8A6oPdrK8E"
+    },
     {
       "id": "cqy4dKJRXlQ",
       "title": "北海道で至福のランチ！アナウンサーのランチ『アナメシ』特別編②",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2025-11-13T15:24:54.564123",
+  "updated_at": "2025-11-14T15:21:15.929883",
   "videos": [
+    {
+      "id": "VHaCrAizZd0",
+      "title": "紙飛行機に関する雑学／テレＱ「はてなのてん」2025/2/1放送分より",
+      "description": "",
+      "publishedAt": "2025-11-14T09:00:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VHaCrAizZd0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VHaCrAizZd0"
+    },
+    {
+      "id": "AlRHmFJHZEM",
+      "title": "Zooっキュンアニマル大放出！（Zooっと家族 未公開映像）",
+      "description": "",
+      "publishedAt": "2025-11-14T08:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AlRHmFJHZEM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AlRHmFJHZEM"
+    },
     {
       "id": "Pw5-cQZv-5M",
       "title": "オーヤブグループ | カンパニーファイル（テレＱ2025年11月13日放送）",

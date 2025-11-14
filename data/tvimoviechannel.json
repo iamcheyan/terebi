@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-11-13T15:24:54.845587",
+  "updated_at": "2025-11-14T15:21:15.615860",
   "videos": [
+    {
+      "id": "k6OrX1lhtPk",
+      "title": "５きげんクッキング ～リンゴとショウガの 甘酒ホットスムージー～",
+      "description": "",
+      "publishedAt": "2025-11-14T09:33:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k6OrX1lhtPk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k6OrX1lhtPk"
+    },
+    {
+      "id": "ozDxiEicmPY",
+      "title": "あがいん直売所＃２～ 一関市で豆腐を売る ～",
+      "description": "",
+      "publishedAt": "2025-11-14T09:20:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ozDxiEicmPY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ozDxiEicmPY"
+    },
     {
       "id": "R96UDMJsWD8",
       "title": "今日の５きげんテレビ（11月14日）｜テレビ岩手",

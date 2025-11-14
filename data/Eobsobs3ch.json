@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2025-11-13T15:24:50.839239",
+  "updated_at": "2025-11-14T15:21:05.254810",
   "videos": [
+    {
+      "id": "EVZ-8gMuS6w",
+      "title": "別府ちゃんと学ぶ！お魚探検クッキング！第１弾「パリッとひらめき梅春巻き」レシピ",
+      "description": "",
+      "publishedAt": "2025-11-14T04:44:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EVZ-8gMuS6w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EVZ-8gMuS6w"
+    },
+    {
+      "id": "v38JiSZywQ0",
+      "title": "【大分市】アサイー工房 大分店（2025年10月29日放送分）",
+      "description": "",
+      "publishedAt": "2025-11-14T04:06:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v38JiSZywQ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v38JiSZywQ0"
+    },
     {
       "id": "NiOYNbKgPcA",
       "title": "【大分市】Roppin Coffee 羽屋焙煎所（2025年10月29日放送分）",
