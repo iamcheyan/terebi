@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2025-11-12T15:25:37.446350",
+  "updated_at": "2025-11-15T15:20:15.000095",
   "videos": [
+    {
+      "id": "8n7JjW5GrhI",
+      "title": "#おからじ【本編】何も言いたくない",
+      "description": "",
+      "publishedAt": "2025-11-15T12:19:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8n7JjW5GrhI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8n7JjW5GrhI"
+    },
     {
       "id": "ScfP7CQR-EY",
       "title": "#ふぁびゅらじ【番外編】エゴ",

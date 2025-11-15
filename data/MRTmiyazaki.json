@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2025-11-13T15:24:49.895124",
+  "updated_at": "2025-11-15T15:20:22.323085",
   "videos": [
+    {
+      "id": "FNjJ33bqRCQ",
+      "title": "MRTラジオ がライブ配信中！",
+      "description": "",
+      "publishedAt": "2025-11-15T06:57:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FNjJ33bqRCQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FNjJ33bqRCQ"
+    },
     {
       "id": "LKSHMC8fzwI",
       "title": "【第96回】だいちゃんと行く‼︎よりみちさんぽ〈家族のコミュニケーション、大切にしていることは？〉",
