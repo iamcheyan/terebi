@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2025-11-15T15:20:30.449984",
+  "updated_at": "2025-11-16T15:19:35.615103",
   "videos": [
+    {
+      "id": "5FlWtAS9WRQ",
+      "title": "誰かの人生を明るく照らす",
+      "description": "",
+      "publishedAt": "2025-11-16T04:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5FlWtAS9WRQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5FlWtAS9WRQ"
+    },
     {
       "id": "bBzEEFrxgfg",
       "title": "【最新グルメ！】山形市七日町で味わうスパイスカレー＆ステーキフォンデュ",

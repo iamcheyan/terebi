@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2025-11-14T15:21:07.435676",
+  "updated_at": "2025-11-16T15:19:31.532529",
   "videos": [
+    {
+      "id": "D_ub4DVQ82Y",
+      "title": "RKCアプリ漢字クイズ 11/10の問題 ～井出一崇アナウンサーのヒント～",
+      "description": "",
+      "publishedAt": "2025-11-16T15:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D_ub4DVQ82Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D_ub4DVQ82Y"
+    },
+    {
+      "id": "-a4ZTkB-6Ns",
+      "title": "「11/14(金)放送 きいてMIHOちゃんねる」",
+      "description": "",
+      "publishedAt": "2025-11-15T23:27:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-a4ZTkB-6Ns/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-a4ZTkB-6Ns"
+    },
     {
       "id": "XWQP_tZtDDA",
       "title": "「高知市でふるさとまつり始まる！初日の賑わいに密着！」2025年11月14日放送",
