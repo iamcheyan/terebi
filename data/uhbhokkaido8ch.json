@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2025-11-15T15:20:33.118962",
+  "updated_at": "2025-11-17T15:25:39.832748",
   "videos": [
+    {
+      "id": "thx-CiYdnOU",
+      "title": "みんテレ　11月18日（火）放送",
+      "description": "",
+      "publishedAt": "2025-11-17T10:01:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/thx-CiYdnOU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=thx-CiYdnOU"
+    },
+    {
+      "id": "NvZ58MvBk8I",
+      "title": "100人の関節リウマチ物語・後編",
+      "description": "",
+      "publishedAt": "2025-11-17T04:17:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NvZ58MvBk8I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NvZ58MvBk8I"
+    },
     {
       "id": "EzWkkt8lyI0",
       "title": "いっとこ！：11月22日（土）放送",

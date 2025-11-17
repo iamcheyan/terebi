@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-11-16T15:19:04.220399",
+  "updated_at": "2025-11-17T15:25:17.805231",
   "videos": [
+    {
+      "id": "2qZkzRaL2go",
+      "title": "「ふたりエスケープ」第8話 11/22（土）深夜0：55～",
+      "description": "",
+      "publishedAt": "2025-11-17T03:09:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2qZkzRaL2go/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2qZkzRaL2go"
+    },
     {
       "id": "YeQlZPOVGkk",
       "title": "食遺産File.223「あんかけ納豆ナポリタン」＠京都府・京都市右京区",

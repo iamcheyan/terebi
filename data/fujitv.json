@@ -1,8 +1,550 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
-  "channel_name": "フジテレビ公式",
-  "updated_at": "2025-11-15T15:19:55.926745",
+  "channel_name": "UC7_mFzmj89tqAqgpl5695QQ",
+  "original_name": "フジテレビ公式",
+  "updated_at": "2025-11-17T15:25:54.022492",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0lSW-Y9wBOFpPoyqCH3K3WY-u-Y",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLl80N29aRk52RW9F",
+      "snippet": {
+        "publishedAt": "2025-10-31T08:41:14Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "10月期火9ドラマ『新東京水上警察』はい知りません！",
+        "description": "【新東京水上警察】\n日本連ドラ史上初の「水上警察」\nライバルには「湾岸署」も登場！\n圧倒的スケールで描く、マリン×クライムエンターテインメント！\n\n【公式HP】https://www.fujitv.co.jp/suijo_keisatsu/\n【公式X】https://x.com/suijo_keisatsu\n【公式Instagram】https://www.instagram.com/suijo_keisatsu/\n【公式TikTok】https://www.tiktok.com/@suijo_keisatsu\n【公式Threads】https://www.threads.com/@suijo_keisatsu\n\n#新東京水上警察　#火9ドラマ　#火9　#水上警察　#湾岸署　#吉川英梨\n#佐藤隆太　#加藤シゲアキ　#山下美月　#中尾明慶　#齋藤璃佑　#松本怜生\n#山口紗弥加　#柿澤勇人　#長谷川純　#谷田歩　#小林隆　#皆川猿時　#椎名桔平",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_47oZFNvEoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_47oZFNvEoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_47oZFNvEoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_47oZFNvEoE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_47oZFNvEoE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_47oZFNvEoE"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jpVw8ceMwfjM2kbnp1xfJUL2OuM",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLkZLUnVLUWRLY1hr",
+      "snippet": {
+        "publishedAt": "2025-10-31T08:41:10Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "10月期火9ドラマ『新東京水上警察』ゆすりの日下部",
+        "description": "【新東京水上警察】\n日本連ドラ史上初の「水上警察」\nライバルには「湾岸署」も登場！\n圧倒的スケールで描く、マリン×クライムエンターテインメント！\n\n【公式HP】https://www.fujitv.co.jp/suijo_keisatsu/\n【公式X】https://x.com/suijo_keisatsu\n【公式Instagram】https://www.instagram.com/suijo_keisatsu/\n【公式TikTok】https://www.tiktok.com/@suijo_keisatsu\n【公式Threads】https://www.threads.com/@suijo_keisatsu\n\n#新東京水上警察　#火9ドラマ　#火9　#水上警察　#湾岸署　#吉川英梨\n#佐藤隆太　#加藤シゲアキ　#山下美月　#中尾明慶　#齋藤璃佑　#松本怜生\n#山口紗弥加　#柿澤勇人　#長谷川純　#谷田歩　#小林隆　#皆川猿時　#椎名桔平",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FKRuKQdKcXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FKRuKQdKcXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FKRuKQdKcXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FKRuKQdKcXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FKRuKQdKcXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FKRuKQdKcXk"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HkZ3ByUU2Lmo9Ed6qGRx22ak3mM",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLmt1V3Nuc1BoNzU4",
+      "snippet": {
+        "publishedAt": "2025-10-31T08:41:10Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "10月期火9ドラマ『新東京水上警察』わかった手配する",
+        "description": "【新東京水上警察】\n日本連ドラ史上初の「水上警察」\nライバルには「湾岸署」も登場！\n圧倒的スケールで描く、マリン×クライムエンターテインメント！\n\n【公式HP】https://www.fujitv.co.jp/suijo_keisatsu/\n【公式X】https://x.com/suijo_keisatsu\n【公式Instagram】https://www.instagram.com/suijo_keisatsu/\n【公式TikTok】https://www.tiktok.com/@suijo_keisatsu\n【公式Threads】https://www.threads.com/@suijo_keisatsu\n\n#新東京水上警察　#火9ドラマ　#火9　#水上警察　#湾岸署　#吉川英梨\n#佐藤隆太　#加藤シゲアキ　#山下美月　#中尾明慶　#齋藤璃佑　#松本怜生\n#山口紗弥加　#柿澤勇人　#長谷川純　#谷田歩　#小林隆　#皆川猿時　#椎名桔平",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kuWsnsPh758/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kuWsnsPh758/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kuWsnsPh758/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kuWsnsPh758/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kuWsnsPh758/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kuWsnsPh758"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DmEx9IYQqadWfV0n_5mrBI4LbLk",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLkZ3R0FmQlNHQnZF",
+      "snippet": {
+        "publishedAt": "2025-10-31T08:41:08Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "10月期火9ドラマ『新東京水上警察』仕切り直しじゃないですか",
+        "description": "【新東京水上警察】\n日本連ドラ史上初の「水上警察」\nライバルには「湾岸署」も登場！\n圧倒的スケールで描く、マリン×クライムエンターテインメント！\n\n【公式HP】https://www.fujitv.co.jp/suijo_keisatsu/\n【公式X】https://x.com/suijo_keisatsu\n【公式Instagram】https://www.instagram.com/suijo_keisatsu/\n【公式TikTok】https://www.tiktok.com/@suijo_keisatsu\n【公式Threads】https://www.threads.com/@suijo_keisatsu\n\n#新東京水上警察　#火9ドラマ　#火9　#水上警察　#湾岸署　#吉川英梨\n#佐藤隆太　#加藤シゲアキ　#山下美月　#中尾明慶　#齋藤璃佑　#松本怜生\n#山口紗弥加　#柿澤勇人　#長谷川純　#谷田歩　#小林隆　#皆川猿時　#椎名桔平",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FwGAfBSGBvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FwGAfBSGBvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FwGAfBSGBvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FwGAfBSGBvE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FwGAfBSGBvE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FwGAfBSGBvE"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MdIr3DHeO_HVJjsdYmAQM1dGz8Q",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLkkwcEU3MUswNS1n",
+      "snippet": {
+        "publishedAt": "2025-10-31T08:41:05Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "10月期火9ドラマ『新東京水上警察』皆川劇場",
+        "description": "【新東京水上警察】\n日本連ドラ史上初の「水上警察」\nライバルには「湾岸署」も登場！\n圧倒的スケールで描く、マリン×クライムエンターテインメント！\n\n【公式HP】https://www.fujitv.co.jp/suijo_keisatsu/\n【公式X】https://x.com/suijo_keisatsu\n【公式Instagram】https://www.instagram.com/suijo_keisatsu/\n【公式TikTok】https://www.tiktok.com/@suijo_keisatsu\n【公式Threads】https://www.threads.com/@suijo_keisatsu\n\n#新東京水上警察　#火9ドラマ　#火9　#水上警察　#湾岸署　#吉川英梨\n#佐藤隆太　#加藤シゲアキ　#山下美月　#中尾明慶　#齋藤璃佑　#松本怜生\n#山口紗弥加　#柿澤勇人　#長谷川純　#谷田歩　#小林隆　#皆川猿時　#椎名桔平",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I0pE71K05-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I0pE71K05-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0pE71K05-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I0pE71K05-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I0pE71K05-g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I0pE71K05-g"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "viYNNB5p_Pi0ASFXJblr9ZqbNWg",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLnBYVUNMQXc2b0xN",
+      "snippet": {
+        "publishedAt": "2025-10-31T08:41:04Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "10月期火9ドラマ『新東京水上警察』田所をゆする日下部",
+        "description": "【新東京水上警察】\n日本連ドラ史上初の「水上警察」\nライバルには「湾岸署」も登場！\n圧倒的スケールで描く、マリン×クライムエンターテインメント！\n\n【公式HP】https://www.fujitv.co.jp/suijo_keisatsu/\n【公式X】https://x.com/suijo_keisatsu\n【公式Instagram】https://www.instagram.com/suijo_keisatsu/\n【公式TikTok】https://www.tiktok.com/@suijo_keisatsu\n【公式Threads】https://www.threads.com/@suijo_keisatsu\n\n#新東京水上警察　#火9ドラマ　#火9　#水上警察　#湾岸署　#吉川英梨\n#佐藤隆太　#加藤シゲアキ　#山下美月　#中尾明慶　#齋藤璃佑　#松本怜生\n#山口紗弥加　#柿澤勇人　#長谷川純　#谷田歩　#小林隆　#皆川猿時　#椎名桔平",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pXUCLAw6oLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pXUCLAw6oLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pXUCLAw6oLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pXUCLAw6oLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pXUCLAw6oLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pXUCLAw6oLM"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QlbTePD9kBDjyQOKREm7qwy0s0M",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLlJqczk3b1VsZjNZ",
+      "snippet": {
+        "publishedAt": "2025-10-31T08:40:58Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "10月期火9ドラマ『新東京水上警察』チーム碇",
+        "description": "【新東京水上警察】\n日本連ドラ史上初の「水上警察」\nライバルには「湾岸署」も登場！\n圧倒的スケールで描く、マリン×クライムエンターテインメント！\n\n【公式HP】https://www.fujitv.co.jp/suijo_keisatsu/\n【公式X】https://x.com/suijo_keisatsu\n【公式Instagram】https://www.instagram.com/suijo_keisatsu/\n【公式TikTok】https://www.tiktok.com/@suijo_keisatsu\n【公式Threads】https://www.threads.com/@suijo_keisatsu\n\n#新東京水上警察　#火9ドラマ　#火9　#水上警察　#湾岸署　#吉川英梨\n#佐藤隆太　#加藤シゲアキ　#山下美月　#中尾明慶　#齋藤璃佑　#松本怜生\n#山口紗弥加　#柿澤勇人　#長谷川純　#谷田歩　#小林隆　#皆川猿時　#椎名桔平",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rjs97oUlf3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rjs97oUlf3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rjs97oUlf3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rjs97oUlf3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rjs97oUlf3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rjs97oUlf3Y"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UAxMutTb8YyaHVm4yoY0DzTIHN4",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLnZuM29VQ3ZCSGhJ",
+      "snippet": {
+        "publishedAt": "2025-10-30T13:54:01Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "【予告】第5話『小さい頃は、神様がいて』11月6日(木)よる10時放送「繊細すぎる天使」",
+        "description": "木曜劇場『小さい頃は、神様がいて』　第5話「繊細すぎる天使」\n11月6日（木）よる10時～10時54分放送\n脚本・岡田惠和　主演・北村有起哉　共演・仲間由紀恵\n主題歌・松任谷由実「天までとどけ」\n\n本作は、『最後から二番目の恋』シリーズなどで知られる脚本家・岡田惠和の最新作。\n完全オリジナル脚本となる本作は、二人の子を持つ小倉渉（おぐら・わたる／北村有起哉）と、その妻・あん（仲間由紀恵）を中心に、登場人物たちの人生模様をユーモラスかつ、温かくお届けするホームコメディー！\n\n＜第5話あらすじ＞\n「たそがれステイツ」に帰ってきた永島慎一（草刈正雄）とさとこ（阿川佐和子）。そして一緒に暮らし始めることになった孫の凛（和智柚葉）と真（山本弓月）のために、住人たちは「お帰り＆ようこそパーティー」を開く。凛と真が寝たあと、小倉渉（北村有起哉）とあん（仲間由紀恵）の息子・順（小瀧望）は、消防士になった理由などを一同に打ち明ける。その話を聞いて、何かが引っかかるあん。\n翌朝、慎一は気持ちがふさぎ込んでしまっていた。さとこは発破をかけるが、表情が優れないままラジオ体操に向かう慎一。そこへ「たそがれステイツ」の住人たちがにぎやかにやってくる。さとこが力強く声をかけ、慎一の顔にはようやく笑顔が。元気にラジオ体操をする一同。一方、樋口奈央（小野花梨）と高村志保（石井杏奈）の映画を撮ることにしたゆず（近藤華）は、二人に一日密着する。\nあんはその日の夜、同窓会があることを思い出す。「行けばいいじゃん」と軽く言う渉をにらみ付けるあん。その後、同窓会にまつわる女性の心情について会社で話を聞いた渉は、同窓会から帰ってきたあんに声をかけるが…。\nそんな中、翌朝さとこが起きると、凛が突然姿を消してしまい…！？\n\n≪出演者≫\n北村有起哉、小野花梨、石井杏奈、小瀧 望、近藤 華／阿川佐和子、草刈正雄／仲間由紀恵\n≪スタッフ≫\n脚本：岡田惠和（『最後から二番目の恋』シリーズ、『ひよっこ』、『ちゅらさん』他）\nプロデュース：田淵麻子（『愛してるって、言いたい』、『記憶』他）\n制作プロデュース：熊谷理恵（『明日はもっと、いい日になる』、『ミステリと言う勿れ』他）、渡邉美咲\n演出：酒井麻衣（『ストロベリームーン』、『美しい彼』シリーズ 他）、佐伯竜一\n\n【公式HP】https://www.fujitv.co.jp/chiikami2025/\n【公式X】https://x.com/chiikami2025\n【公式Instagram】https://www.instagram.com/chiikami2025/\n【公式TikTok】https://www.tiktok.com/@chiikami2025\n\n#ホームコメディ　#岡田惠和　#北村有起哉　#仲間由紀恵　#小野花梨　#石井杏奈　#小瀧望　#小さい頃は神様がいて　#フジテレビ　#松任谷由実　#天までとどけ　#阿川佐和子　#草刈正雄　#連続ドラマ　#木曜劇場",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vn3oUCvBHhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vn3oUCvBHhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vn3oUCvBHhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vn3oUCvBHhI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vn3oUCvBHhI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vn3oUCvBHhI"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RVseTDnvahQAPbmgx2xs9jAq_co",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLjNEUlMtSlhkWUhz",
+      "snippet": {
+        "publishedAt": "2025-10-29T13:54:01Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "10月水10『もしもこの世が舞台なら、楽屋はどこにあるのだろう』第6回11/5(水)60秒予告",
+        "description": "＜第6回あらすじ＞\nクベ版「夏の夜の夢」初日公演を終えたばかりのWS劇場。客席で久部三成（菅田将暉）に声を掛けたのは、日本を代表するシェイクスピア俳優・是尾礼三郎（浅野和之）だった。是尾は、久部が敬愛してやまない蜷川幸雄氏が演出した舞台にも数々出演している大御所俳優。久部は是尾との対面に深く感激する。是尾は「久しぶりに渋谷を歩いていたら、ここの前を通りかかりましてね」と前置きすると、クベ版「夏の夜の夢」に対して一定の評価を示す。\n\nその言葉に舞い上がる久部は、是尾を打ち上げ会場へ連れて行く。すると、手にメモをもった巫女の樹里（浜辺美波）の姿が。樹里のことが気になっている蓬莱省吾（神木隆之介）は樹里を打ち上げに誘う。しかし樹里の目には久部しか映っていない様子。そして、打ち上げ会場には、久部を見る目が変わった倖田リカ（二階堂ふみ）が待っていて…。\n\n【公式HP】https://www.fujitv.co.jp/moshi_gaku/\n【公式X】https://x.com/moshi_gaku\n【公式Instagram】https://www.instagram.com/moshi_gaku/\n\n#もし楽　＃もしがく　#三谷幸喜　#菅田将暉　#二階堂ふみ　#神木隆之介　#浜辺美波　#フジテレビ　#ドラマ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3DRS-JXdYHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3DRS-JXdYHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3DRS-JXdYHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3DRS-JXdYHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3DRS-JXdYHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3DRS-JXdYHs"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "COv7bywOhG7GGeEqiPc-sqQbg-c",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLmpONkNoNUJDXy1z",
+      "snippet": {
+        "publishedAt": "2025-10-28T12:53:00Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "10月期火9ドラマ『新東京水上警察』5話予告【11月4日夜9時】",
+        "description": "【新東京水上警察】5話予告【11月4日夜9時】\n日本連ドラ史上初の「水上警察」\nライバルには「湾岸署」も登場！\n圧倒的スケールで描く、マリン×クライムエンターテインメント！\n\n【公式HP】https://www.fujitv.co.jp/suijo_keisatsu/\n【公式X】https://x.com/suijo_keisatsu\n【公式Instagram】https://www.instagram.com/suijo_keisatsu/\n【公式TikTok】https://www.tiktok.com/@suijo_keisatsu\n【公式Threads】https://www.threads.com/@suijo_keisatsu\n\n#新東京水上警察　#火9ドラマ　#火9　#水上警察　#湾岸署　#吉川英梨\n#佐藤隆太　#加藤シゲアキ 　#山下美月　#中尾明慶　#齋藤璃佑　#松本怜生\n#山口紗弥加　#柿澤勇人　#長谷川純　#谷田歩　#小林隆　#皆川猿時　#椎名桔平",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jN6Ch5BC_-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jN6Ch5BC_-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jN6Ch5BC_-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jN6Ch5BC_-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jN6Ch5BC_-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jN6Ch5BC_-s"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5axsJxE4PRCWCFH6ibPg9hxBM_8",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLkJIcTVpTC15VVZF",
+      "snippet": {
+        "publishedAt": "2025-10-27T12:54:00Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "月9『絶対零度～情報犯罪緊急捜査～』 5話予告 ‐フジテレビ系 11月3日(月)よる9時",
+        "description": "沢口靖子主演！人気シリーズ『絶対零度』新章！\n5話は11月3日（月）よる9時放送\n二宮奈美、拉致られる！？\n仲間の命がかかった戦いにDICTが挑む――\n\n■あらすじ\n十一年前、都議会議員だった桐谷杏子（板谷由夏）は街頭で遊説中、突然ナイフを手にした男に襲われそうになる。\n混乱の中、警備にあたっていた二宮奈美（沢口靖子）が男を取り押さえ、杏子を救った。\n感謝を述べる杏子に対し、奈美は厳しい言葉を投げかける。\nそれが杏子、そして奈美の人生に影響を与えることとなる――これが二人の最初の出会いだった。\n時は現在。DICTでは、都内の一部で発生した早朝の一斉停電について会議が開かれていた。\n山内徹（横山裕）が発電所へのサイバー攻撃を報告するが、発信元は不明。\nその最中、室長・早見浩（松角洋平）が奈美の不在に気づく。直後、清水紗枝（黒島結菜）がパソコン画面に映る異変を指摘。\n同じ頃、杏子のもとに佐生新次郎（安田顕）が駆け込み、SNS上に奈美の拉致を告げる犯行声明が投稿されたことを伝える。\n声明には「DICTの一員が自らの安全を守れない」との嘲笑と\n「日没までに救出できなければ命の保証はない」との挑発的な文言。\n拘束された奈美の写真も瞬く間に拡散された。\nだが写真からの手がかりは乏しい。\n防犯カメラにはジョギング中の奈美の姿が映っていたが、一斉停電の影響でその後の映像は途絶えていた。\nDICTはサイバー攻撃と拉致事件の関連を疑い、山内は南方睦郎（一ノ瀬颯）とともに捜索に向かう。\n拉致された奈美は犯人（和田聰宏）と対峙。素顔を晒すも名乗らないその男は、奈美にアメを差し出し「ずっと見ていた」と告げる。\n\n■キャスト\n沢口靖子、安田顕、横山裕、黒島結菜、一ノ瀬颯、馬場園梓、金田哲、松角洋平、白本彩奈／板谷由夏ほか\n \n■脚本：鈴木洋介／市東さやか／阿部凌大\n\n■音楽：KOHTA YAMAMOTO\n\n■主題歌：十明「GRAY」(EMI Records/UNIVERSAL MUSIC)\n\n■プロデュース：成河広明（フジテレビ）■プロデューサー：足立遼太朗（フジテレビ）／髙丸雅隆／佃 敏史■演出：田中 亮（フジテレビ）／城宝秀則／都築淳一／木下高男\n\n【Tver】https://tver.jp/episodes/epod55wygf\n【HP】https://www.fujitv.co.jp/zettaireido/\n【X】https://x.com/zettai_0_jouhan\n【Instagram】https://www.instagram.com/zettai_0_jouhan/\n【TikTok】https://www.tiktok.com/@zettai_0_jouhan\n\n#沢口靖子　#安田顕　#横山裕　#黒島結菜　#一ノ瀬颯　#馬場園梓　#金田哲　#松角洋平　#白本彩奈　#板谷由夏　#絶対零度　#ドラマ　#フジテレビ　#月9　#新ドラマ　#秋ドラマ　#和田聰宏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BHq5iL-yUVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BHq5iL-yUVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BHq5iL-yUVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BHq5iL-yUVE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BHq5iL-yUVE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BHq5iL-yUVE"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "id": "OnhX2fdEGNc",
+      "title": "月9『絶対零度～情報犯罪緊急捜査～』 8話予告 ‐フジテレビ系 11月24日(月)よる9時",
+      "description": "",
+      "publishedAt": "2025-11-17T12:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OnhX2fdEGNc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OnhX2fdEGNc"
+    },
+    {
+      "id": "pl61K1AvLpU",
+      "title": "★11/23(日)25時55分放送！★『NEWS小山のおしゃキャン！どう？』PR",
+      "description": "",
+      "publishedAt": "2025-11-17T05:52:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pl61K1AvLpU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pl61K1AvLpU"
+    },
     {
       "id": "NpxqlBFxodM",
       "title": "11月22日(土)午後4時30分放送「絶景！鉄道写真部 in箱根登山電車」相葉◎×部/フジテレビ公式",
@@ -4832,6 +5374,72 @@
       "title": "秋の「冷凍食品」専門店で何を買う【しらべてみたら】",
       "thumbnail": "https://i.ytimg.com/vi/7PcCD1mLuso/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=7PcCD1mLuso"
+    },
+    {
+      "id": "_47oZFNvEoE",
+      "title": "10月期火9ドラマ『新東京水上警察』はい知りません！",
+      "thumbnail": "https://i.ytimg.com/vi/_47oZFNvEoE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_47oZFNvEoE"
+    },
+    {
+      "id": "FKRuKQdKcXk",
+      "title": "10月期火9ドラマ『新東京水上警察』ゆすりの日下部",
+      "thumbnail": "https://i.ytimg.com/vi/FKRuKQdKcXk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FKRuKQdKcXk"
+    },
+    {
+      "id": "kuWsnsPh758",
+      "title": "10月期火9ドラマ『新東京水上警察』わかった手配する",
+      "thumbnail": "https://i.ytimg.com/vi/kuWsnsPh758/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kuWsnsPh758"
+    },
+    {
+      "id": "FwGAfBSGBvE",
+      "title": "10月期火9ドラマ『新東京水上警察』仕切り直しじゃないですか",
+      "thumbnail": "https://i.ytimg.com/vi/FwGAfBSGBvE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FwGAfBSGBvE"
+    },
+    {
+      "id": "I0pE71K05-g",
+      "title": "10月期火9ドラマ『新東京水上警察』皆川劇場",
+      "thumbnail": "https://i.ytimg.com/vi/I0pE71K05-g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=I0pE71K05-g"
+    },
+    {
+      "id": "pXUCLAw6oLM",
+      "title": "10月期火9ドラマ『新東京水上警察』田所をゆする日下部",
+      "thumbnail": "https://i.ytimg.com/vi/pXUCLAw6oLM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pXUCLAw6oLM"
+    },
+    {
+      "id": "Rjs97oUlf3Y",
+      "title": "10月期火9ドラマ『新東京水上警察』チーム碇",
+      "thumbnail": "https://i.ytimg.com/vi/Rjs97oUlf3Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Rjs97oUlf3Y"
+    },
+    {
+      "id": "vn3oUCvBHhI",
+      "title": "【予告】第5話『小さい頃は、神様がいて』11月6日(木)よる10時放送「繊細すぎる天使」",
+      "thumbnail": "https://i.ytimg.com/vi/vn3oUCvBHhI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vn3oUCvBHhI"
+    },
+    {
+      "id": "3DRS-JXdYHs",
+      "title": "10月水10『もしもこの世が舞台なら、楽屋はどこにあるのだろう』第6回11/5(水)60秒予告",
+      "thumbnail": "https://i.ytimg.com/vi/3DRS-JXdYHs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3DRS-JXdYHs"
+    },
+    {
+      "id": "jN6Ch5BC_-s",
+      "title": "10月期火9ドラマ『新東京水上警察』5話予告【11月4日夜9時】",
+      "thumbnail": "https://i.ytimg.com/vi/jN6Ch5BC_-s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jN6Ch5BC_-s"
+    },
+    {
+      "id": "BHq5iL-yUVE",
+      "title": "月9『絶対零度～情報犯罪緊急捜査～』 5話予告 ‐フジテレビ系 11月3日(月)よる9時",
+      "thumbnail": "https://i.ytimg.com/vi/BHq5iL-yUVE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BHq5iL-yUVE"
     }
   ]
 }
