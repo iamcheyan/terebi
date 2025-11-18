@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2025-11-11T15:23:42.110067",
+  "updated_at": "2025-11-18T15:25:16.647641",
   "videos": [
+    {
+      "id": "atYdXZFROow",
+      "title": "RAB青森放送 のライブ映像",
+      "description": "",
+      "publishedAt": "2025-11-17T23:41:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/atYdXZFROow/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=atYdXZFROow"
+    },
     {
       "id": "PdopqXa9KNM",
       "title": "あたらしいむがしコ「さんこ狐」（鰺ヶ沢町）",

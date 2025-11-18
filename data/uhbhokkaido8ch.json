@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2025-11-17T15:25:39.832748",
+  "updated_at": "2025-11-18T15:26:10.236619",
   "videos": [
+    {
+      "id": "5aZ8OeJd1mU",
+      "title": "みんテレ　11月19日（水）放送",
+      "description": "",
+      "publishedAt": "2025-11-18T10:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5aZ8OeJd1mU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5aZ8OeJd1mU"
+    },
+    {
+      "id": "5yCiUKVdy1k",
+      "title": "FumuFumu　2025年11月18日放送",
+      "description": "",
+      "publishedAt": "2025-11-18T02:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5yCiUKVdy1k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5yCiUKVdy1k"
+    },
     {
       "id": "thx-CiYdnOU",
       "title": "みんテレ　11月18日（火）放送",

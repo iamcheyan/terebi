@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2025-11-17T15:25:05.950616",
+  "updated_at": "2025-11-18T15:25:33.935005",
   "videos": [
+    {
+      "id": "BDSaUnFWpgs",
+      "title": "【レシップ】路線バスの運行に関わる様々な機器を集中管理する運行支援システム、LIVU（ライブ）を紹介【開発現場へ行こう #40】",
+      "description": "",
+      "publishedAt": "2025-11-18T14:12:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BDSaUnFWpgs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BDSaUnFWpgs"
+    },
     {
       "id": "4tfrOqW4YP8",
       "title": "【LBS】だるまデザインで付加価値",

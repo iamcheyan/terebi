@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-11-17T15:25:17.805231",
+  "updated_at": "2025-11-18T15:25:33.411336",
   "videos": [
+    {
+      "id": "oCAWD7o9veU",
+      "title": "【NGワードゲーム】勝つのはどっち！？",
+      "description": "",
+      "publishedAt": "2025-11-18T10:01:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oCAWD7o9veU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oCAWD7o9veU"
+    },
     {
       "id": "2qZkzRaL2go",
       "title": "「ふたりエスケープ」第8話 11/22（土）深夜0：55～",

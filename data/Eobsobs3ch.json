@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2025-11-17T15:25:34.391872",
+  "updated_at": "2025-11-18T15:25:59.318745",
   "videos": [
+    {
+      "id": "WbAwxUyoCU0",
+      "title": "【由布市】Pizzeria 櫟の丘（2025年11月5日放送分）",
+      "description": "",
+      "publishedAt": "2025-11-18T01:56:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WbAwxUyoCU0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WbAwxUyoCU0"
+    },
     {
       "id": "yWxR9UFTPB8",
       "title": "【大分市】solnage（2025年10月29日放送分）",

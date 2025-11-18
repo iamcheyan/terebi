@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-11-17T15:25:37.891056",
+  "updated_at": "2025-11-18T15:26:07.954190",
   "videos": [
+    {
+      "id": "Y02Aasz5xG8",
+      "title": "今日の５きげんテレビ（11月19日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-11-18T15:01:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y02Aasz5xG8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y02Aasz5xG8"
+    },
+    {
+      "id": "kB3XM1gUCwg",
+      "title": "５きげんクッキング ～鶏レバーのクロスティーニ（トースト）～",
+      "description": "",
+      "publishedAt": "2025-11-18T09:01:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kB3XM1gUCwg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kB3XM1gUCwg"
+    },
+    {
+      "id": "PA5bc1qtYBk",
+      "title": "5きげん知恵袋 ～シーズン本番 リンゴ～",
+      "description": "",
+      "publishedAt": "2025-11-18T08:46:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PA5bc1qtYBk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PA5bc1qtYBk"
+    },
     {
       "id": "VR9dkvYKR8Y",
       "title": "今日の５きげんテレビ（11月18日）｜テレビ岩手",

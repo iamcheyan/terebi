@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-11-16T15:19:32.169893",
+  "updated_at": "2025-11-18T15:26:00.935842",
   "videos": [
+    {
+      "id": "PYHqIg3nlc8",
+      "title": "【番宣】１１月２４日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-11-18T08:21:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PYHqIg3nlc8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PYHqIg3nlc8"
+    },
+    {
+      "id": "Nip61XVnjuI",
+      "title": "【番宣】１１月２０日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-11-18T08:19:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nip61XVnjuI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nip61XVnjuI"
+    },
     {
       "id": "TDY3QL5BIxs",
       "title": "めざせ！くまもとの若き匠たち 第79回",

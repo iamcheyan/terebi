@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-11-17T15:25:43.970567",
+  "updated_at": "2025-11-18T15:26:17.748928",
   "videos": [
+    {
+      "id": "5ccoxDNYyvQ",
+      "title": "251118 120307 永野市第１踏切",
+      "description": "",
+      "publishedAt": "2025-11-18T11:29:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5ccoxDNYyvQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5ccoxDNYyvQ"
+    },
+    {
+      "id": "rnPZuyC9n3w",
+      "title": "251118 115307 永野市第１踏切 ２",
+      "description": "",
+      "publishedAt": "2025-11-18T11:15:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rnPZuyC9n3w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rnPZuyC9n3w"
+    },
+    {
+      "id": "J3_ZgBrnwhU",
+      "title": "251118 114914 永野市第１踏切",
+      "description": "",
+      "publishedAt": "2025-11-18T11:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J3_ZgBrnwhU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J3_ZgBrnwhU"
+    },
+    {
+      "id": "eoazWjeZ5Dg",
+      "title": "251118 113929 永野市第２踏切",
+      "description": "",
+      "publishedAt": "2025-11-18T10:27:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eoazWjeZ5Dg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eoazWjeZ5Dg"
+    },
+    {
+      "id": "kqVUmv2rYOQ",
+      "title": "251118 112413 出目駅",
+      "description": "",
+      "publishedAt": "2025-11-18T10:05:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kqVUmv2rYOQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kqVUmv2rYOQ"
+    },
+    {
+      "id": "6NCGxA_C5kA",
+      "title": "251118 111957 出目踏切",
+      "description": "",
+      "publishedAt": "2025-11-18T09:57:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6NCGxA_C5kA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6NCGxA_C5kA"
+    },
     {
       "id": "lUcgymouVYI",
       "title": "251117 175214 大内駅",
