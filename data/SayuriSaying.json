@@ -1,8 +1,20 @@
 {
   "channel_id": "UCqMY-cp1He6IAi1cIz-gX1g",
   "channel_name": "Sayuri Saying",
-  "updated_at": "2025-11-16T15:19:09.372339",
+  "updated_at": "2025-11-19T15:24:10.084824",
   "videos": [
+    {
+      "id": "b66hH0ZTheA",
+      "title": "If it’s long, we shorten it!",
+      "description": "",
+      "publishedAt": "2025-11-19T03:00:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b66hH0ZTheA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b66hH0ZTheA"
+    },
     {
       "id": "L_Fg9aMFHwM",
       "title": "… what do you really want?",

@@ -1,8 +1,188 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
   "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2025-11-18T15:25:35.513474",
+  "updated_at": "2025-11-19T15:23:31.658850",
   "videos": [
+    {
+      "id": "ragnSF2mXvI",
+      "title": "News@9  – Wednesday, November 19",
+      "description": "",
+      "publishedAt": "2025-11-19T13:01:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ragnSF2mXvI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ragnSF2mXvI"
+    },
+    {
+      "id": "_XFiptmFHBg",
+      "title": "MARKET PULSE PM NOV 19, 2025",
+      "description": "",
+      "publishedAt": "2025-11-19T11:01:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_XFiptmFHBg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_XFiptmFHBg"
+    },
+    {
+      "id": "e-xLltoDL4M",
+      "title": "[LIVE] Third Meeting Of The Fourth Session Of Fifteenth Parliament | November 19 | Afternoon session",
+      "description": "",
+      "publishedAt": "2025-11-19T10:39:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e-xLltoDL4M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e-xLltoDL4M"
+    },
+    {
+      "id": "2OdRfVY0kJE",
+      "title": "[LIVE] Third Meeting Of The Fourth Session Of Fifteenth Parliament | November 20 | Morning session",
+      "description": "",
+      "publishedAt": "2025-11-19T10:37:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2OdRfVY0kJE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2OdRfVY0kJE"
+    },
+    {
+      "id": "BS8ubmuQw9E",
+      "title": "Myanmar junta says raided online scam centre, arrested over 300",
+      "description": "",
+      "publishedAt": "2025-11-19T10:06:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BS8ubmuQw9E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BS8ubmuQw9E"
+    },
+    {
+      "id": "l7q02-uX7Fo",
+      "title": "IGB targets MAPS site for mega project, could mirror Mid Valley City",
+      "description": "",
+      "publishedAt": "2025-11-19T08:32:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l7q02-uX7Fo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l7q02-uX7Fo"
+    },
+    {
+      "id": "rDARCvAsi38",
+      "title": "Tunku Ismail meets three global sports icons, promises major changes",
+      "description": "",
+      "publishedAt": "2025-11-19T07:58:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rDARCvAsi38/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rDARCvAsi38"
+    },
+    {
+      "id": "I9M7QgxOXQ4",
+      "title": "Govt offers aid, financing to modernise pig farming systems",
+      "description": "",
+      "publishedAt": "2025-11-19T05:42:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I9M7QgxOXQ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I9M7QgxOXQ4"
+    },
+    {
+      "id": "Gyz3EPKWlVA",
+      "title": "[LIVE] Third Meeting Of The Fourth Session Of Fifteenth Parliament | November 19 | Morning session",
+      "description": "",
+      "publishedAt": "2025-11-19T05:18:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Gyz3EPKWlVA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Gyz3EPKWlVA"
+    },
+    {
+      "id": "umPBW7gLniI",
+      "title": "'I am one of you,' GRS candidate assures Darau voters",
+      "description": "",
+      "publishedAt": "2025-11-19T05:11:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/umPBW7gLniI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=umPBW7gLniI"
+    },
+    {
+      "id": "VFAmSl5B3Fs",
+      "title": "Fire in southern Japan evacuates 170, one missing",
+      "description": "",
+      "publishedAt": "2025-11-19T05:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VFAmSl5B3Fs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VFAmSl5B3Fs"
+    },
+    {
+      "id": "RsiacB2BuJI",
+      "title": "EPF growth surges, expert calls for dividend discipline",
+      "description": "",
+      "publishedAt": "2025-11-19T04:38:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RsiacB2BuJI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RsiacB2BuJI"
+    },
+    {
+      "id": "ltOZ58-WIRY",
+      "title": "Three killed in three vehicle crash in Senai",
+      "description": "",
+      "publishedAt": "2025-11-19T03:38:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ltOZ58-WIRY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ltOZ58-WIRY"
+    },
+    {
+      "id": "2R78HnD_CVM",
+      "title": "Anwar confirms reprimanding political secretary over support letter",
+      "description": "",
+      "publishedAt": "2025-11-19T03:36:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2R78HnD_CVM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2R78HnD_CVM"
+    },
+    {
+      "id": "BhAg8eFMmAM",
+      "title": "MARKET PULSE AM NOV 19, 2025",
+      "description": "",
+      "publishedAt": "2025-11-19T03:14:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BhAg8eFMmAM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BhAg8eFMmAM"
+    },
     {
       "id": "iGX6eaI9YlA",
       "title": "News@9  – Tuesday, November 18",

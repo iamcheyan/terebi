@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2025-11-18T15:25:59.318745",
+  "updated_at": "2025-11-19T15:24:49.952162",
   "videos": [
+    {
+      "id": "dbQTbYar36s",
+      "title": "【由布市】タベルサイノウ（2025年11月5日放送分）",
+      "description": "",
+      "publishedAt": "2025-11-19T02:39:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dbQTbYar36s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dbQTbYar36s"
+    },
     {
       "id": "WbAwxUyoCU0",
       "title": "【由布市】Pizzeria 櫟の丘（2025年11月5日放送分）",

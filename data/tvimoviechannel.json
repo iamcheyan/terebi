@@ -1,8 +1,56 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-11-18T15:26:07.954190",
+  "updated_at": "2025-11-19T15:25:00.272346",
   "videos": [
+    {
+      "id": "u9SQgWp3V3g",
+      "title": "今日の５きげんテレビ（11月20日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-11-19T15:01:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u9SQgWp3V3g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u9SQgWp3V3g"
+    },
+    {
+      "id": "NmMqmEdjXT0",
+      "title": "５きげんクッキング ～エビとブロッコリーのガーリック炒め～",
+      "description": "",
+      "publishedAt": "2025-11-19T10:32:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NmMqmEdjXT0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NmMqmEdjXT0"
+    },
+    {
+      "id": "K8GVbAHIdLY",
+      "title": "【LIVE】第25回商工会青年部全国大会 岩手大会　2日目｜2025年11月27日(木)",
+      "description": "",
+      "publishedAt": "2025-11-19T04:24:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K8GVbAHIdLY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K8GVbAHIdLY"
+    },
+    {
+      "id": "GrreWwV_YSM",
+      "title": "【LIVE】第25回商工会青年部全国大会 岩手大会　1日目｜2025年11月26日(水)",
+      "description": "",
+      "publishedAt": "2025-11-19T04:19:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GrreWwV_YSM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GrreWwV_YSM"
+    },
     {
       "id": "Y02Aasz5xG8",
       "title": "今日の５きげんテレビ（11月19日）｜テレビ岩手",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2025-11-18T15:25:39.397153",
+  "updated_at": "2025-11-19T15:24:15.401823",
   "videos": [
+    {
+      "id": "Iy6O0dbC_V8",
+      "title": "市街地を走る電動車「グリーンスローモビリティ」実証運行 和歌山市",
+      "description": "",
+      "publishedAt": "2025-11-19T09:33:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Iy6O0dbC_V8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Iy6O0dbC_V8"
+    },
+    {
+      "id": "fSFyzSdnq30",
+      "title": "マエオカスケッチ　「八幡工房 『井澤 正憲さん　井澤幸子さん』」 後編",
+      "description": "",
+      "publishedAt": "2025-11-19T02:36:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fSFyzSdnq30/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fSFyzSdnq30"
+    },
     {
       "id": "eouBuHBNsY8",
       "title": "和歌山県知事「県観光への影響 懸念」中国政府 日本への渡航自粛",
