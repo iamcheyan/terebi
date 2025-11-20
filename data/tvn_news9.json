@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2025-11-19T15:23:37.513207",
+  "updated_at": "2025-11-20T15:23:56.282302",
   "videos": [
+    {
+      "id": "5D4R207E5hk",
+      "title": "県内　インフルエンザ警報レベルに",
+      "description": "",
+      "publishedAt": "2025-11-20T10:55:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5D4R207E5hk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5D4R207E5hk"
+    },
+    {
+      "id": "G1Jf1KEs8cY",
+      "title": "安倍元総理銃撃事件　第１０回公判　山上被告「自分は生きているべきではなかった」",
+      "description": "",
+      "publishedAt": "2025-11-20T10:55:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G1Jf1KEs8cY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G1Jf1KEs8cY"
+    },
     {
       "id": "iqZRAX82YL0",
       "title": "東大寺　発掘調査で裏付け　かつての講堂は大仏殿に次ぐ規模",

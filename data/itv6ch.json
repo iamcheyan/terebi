@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2025-11-19T15:25:06.414658",
+  "updated_at": "2025-11-20T15:24:46.163289",
   "videos": [
+    {
+      "id": "r79qX89E_e0",
+      "title": "愛媛のニュース(11月20日)",
+      "description": "",
+      "publishedAt": "2025-11-20T11:35:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r79qX89E_e0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r79qX89E_e0"
+    },
+    {
+      "id": "D5GccBOyKmQ",
+      "title": "【うますぎる】かまどで炊いた新米と宇和島グルメのコラボが最強だった（みま米／じゃこ天）",
+      "description": "",
+      "publishedAt": "2025-11-20T10:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D5GccBOyKmQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D5GccBOyKmQ"
+    },
     {
       "id": "rZqQbxp2yko",
       "title": "愛媛のニュース(11月19日)",

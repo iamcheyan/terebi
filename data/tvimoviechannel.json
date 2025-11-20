@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-11-19T15:25:00.272346",
+  "updated_at": "2025-11-20T15:24:40.668848",
   "videos": [
+    {
+      "id": "FK5B62ZSO2E",
+      "title": "今日の５きげんテレビ（11月21日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-11-20T15:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FK5B62ZSO2E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FK5B62ZSO2E"
+    },
+    {
+      "id": "d7Xd4GsHDhQ",
+      "title": "５きげんクッキング ～焼き柿のカプレーゼ風～",
+      "description": "",
+      "publishedAt": "2025-11-20T08:44:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d7Xd4GsHDhQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d7Xd4GsHDhQ"
+    },
+    {
+      "id": "FYV035PX-N4",
+      "title": "冬のラーメン企画 第一弾 ~アツアツ激辛~",
+      "description": "",
+      "publishedAt": "2025-11-20T08:32:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FYV035PX-N4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FYV035PX-N4"
+    },
     {
       "id": "u9SQgWp3V3g",
       "title": "今日の５きげんテレビ（11月20日）｜テレビ岩手",

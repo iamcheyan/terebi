@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2025-11-19T15:24:59.821051",
+  "updated_at": "2025-11-20T15:24:39.948222",
   "videos": [
+    {
+      "id": "L0ZX1VOg6ak",
+      "title": "【明日への一歩】葵高校生活部",
+      "description": "",
+      "publishedAt": "2025-11-20T02:44:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L0ZX1VOg6ak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L0ZX1VOg6ak"
+    },
+    {
+      "id": "mBx1BK529Co",
+      "title": "【ふくしまSHOW】『猪苗代町』大特集！",
+      "description": "",
+      "publishedAt": "2025-11-20T01:14:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mBx1BK529Co/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mBx1BK529Co"
+    },
     {
       "id": "UxceV4Kiz0Q",
       "title": "【推しTIME,】葵高校　生活部",

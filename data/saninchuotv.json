@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2025-11-18T15:25:39.093015",
+  "updated_at": "2025-11-20T15:24:00.489619",
   "videos": [
+    {
+      "id": "1B9I1KfvkdY",
+      "title": "【ネゴ図鑑】#181～ロート製薬～",
+      "description": "",
+      "publishedAt": "2025-11-20T02:31:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1B9I1KfvkdY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1B9I1KfvkdY"
+    },
     {
       "id": "FyXCx2xEt8Q",
       "title": "【鳥取・倉吉】明治創業の名工が作る“一生ものの鉄道具”｜八島農具興業｜TAKUMI#20",
