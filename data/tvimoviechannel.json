@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-11-20T15:24:40.668848",
+  "updated_at": "2025-11-21T15:20:10.389151",
   "videos": [
+    {
+      "id": "06XdLv6dRR4",
+      "title": "５きげんクッキング ～コマツナとキノコの アンチョビバター～",
+      "description": "",
+      "publishedAt": "2025-11-21T09:17:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/06XdLv6dRR4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=06XdLv6dRR4"
+    },
+    {
+      "id": "QHNOz_AJiso",
+      "title": "いわて味技マルシェ ～らら・いわて～",
+      "description": "",
+      "publishedAt": "2025-11-21T08:48:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QHNOz_AJiso/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QHNOz_AJiso"
+    },
     {
       "id": "FK5B62ZSO2E",
       "title": "今日の５きげんテレビ（11月21日）｜テレビ岩手",

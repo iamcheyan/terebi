@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-11-20T15:24:52.566705",
+  "updated_at": "2025-11-21T15:20:17.139816",
   "videos": [
+    {
+      "id": "fM7BH8-ATXw",
+      "title": "251121 180349 近永駅",
+      "description": "",
+      "publishedAt": "2025-11-21T11:51:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fM7BH8-ATXw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fM7BH8-ATXw"
+    },
+    {
+      "id": "SchPNX5wVPE",
+      "title": "251121 174856 近永第３踏切",
+      "description": "",
+      "publishedAt": "2025-11-21T11:35:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SchPNX5wVPE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SchPNX5wVPE"
+    },
+    {
+      "id": "frkTDUeQf4s",
+      "title": "251121 173859 久々の鬼バス（地元スーパー「フジ」にて）",
+      "description": "",
+      "publishedAt": "2025-11-21T11:13:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/frkTDUeQf4s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=frkTDUeQf4s"
+    },
     {
       "id": "5f0Mr6OGdnE",
       "title": "251120 122322 務田踏切",

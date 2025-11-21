@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2025-11-19T15:23:25.670169",
+  "updated_at": "2025-11-21T15:19:48.673822",
   "videos": [
+    {
+      "id": "4okfPh1Z8rY",
+      "title": "【予告】おぎやはぎのハピキャン【エピソード53－3】",
+      "description": "",
+      "publishedAt": "2025-11-21T02:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4okfPh1Z8rY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4okfPh1Z8rY"
+    },
     {
       "id": "u3LTkZ9JG2s",
       "title": "【タクフェス第13弾『くちづけ』】過去映像であらすじを予習！",
