@@ -1,8 +1,188 @@
 {
   "channel_id": "UCXYTFOXjfQz_FVzCzqP9PXA",
   "channel_name": "AI Polyglot | 多言語 聞き流し",
-  "updated_at": "2025-11-21T15:19:52.696907",
+  "updated_at": "2025-11-22T15:19:29.502040",
   "videos": [
+    {
+      "id": "UZfb6WksmmI",
+      "title": "ロシア語のスモールトーク | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-22T12:16:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UZfb6WksmmI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UZfb6WksmmI"
+    },
+    {
+      "id": "8rQD-TT4lLg",
+      "title": "Spanish Small Talk | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-11-22T12:16:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8rQD-TT4lLg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8rQD-TT4lLg"
+    },
+    {
+      "id": "AlVjP1XTCV0",
+      "title": "Italian Small Talk | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-11-22T12:16:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AlVjP1XTCV0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AlVjP1XTCV0"
+    },
+    {
+      "id": "sIP8ALA_opg",
+      "title": "French Small Talk | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-11-22T12:16:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sIP8ALA_opg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sIP8ALA_opg"
+    },
+    {
+      "id": "IsXKDWEhIuY",
+      "title": "German Small Talk | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-11-22T12:16:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IsXKDWEhIuY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IsXKDWEhIuY"
+    },
+    {
+      "id": "BmZ2Z76-z6g",
+      "title": "Portugues Small Talk | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-11-22T12:16:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BmZ2Z76-z6g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BmZ2Z76-z6g"
+    },
+    {
+      "id": "mEfJh4xPELw",
+      "title": "Chinese Small Talk | Natural Listening | Must-Know | with Pinyin",
+      "description": "",
+      "publishedAt": "2025-11-22T12:16:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mEfJh4xPELw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mEfJh4xPELw"
+    },
+    {
+      "id": "-IKfRd5YMQc",
+      "title": "Taiwanese Small Talk | Natural Listening | Must-Know | with Pinyin",
+      "description": "",
+      "publishedAt": "2025-11-21T23:59:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-IKfRd5YMQc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-IKfRd5YMQc"
+    },
+    {
+      "id": "hRS9FEfORMY",
+      "title": "Korean Small Talk | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-11-21T23:59:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hRS9FEfORMY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hRS9FEfORMY"
+    },
+    {
+      "id": "XitXBF-_Cpo",
+      "title": "Vietnamese Small Talk | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-11-21T23:59:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XitXBF-_Cpo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XitXBF-_Cpo"
+    },
+    {
+      "id": "o_lq2PxAXXI",
+      "title": "Indonesian Small Talk | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-11-21T23:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o_lq2PxAXXI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o_lq2PxAXXI"
+    },
+    {
+      "id": "H2yYSONjxh4",
+      "title": "Russian Small Talk | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-11-21T23:58:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H2yYSONjxh4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H2yYSONjxh4"
+    },
+    {
+      "id": "9PuLRObtU-8",
+      "title": "インドネシア語初心者短文 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-21T21:27:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9PuLRObtU-8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9PuLRObtU-8"
+    },
+    {
+      "id": "F58JlPeiZKI",
+      "title": "インドネシア語初心者短文 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-21T21:27:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F58JlPeiZKI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F58JlPeiZKI"
+    },
+    {
+      "id": "PgCI003cCGc",
+      "title": "インドネシア語初心者短文 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-11-21T21:27:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PgCI003cCGc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PgCI003cCGc"
+    },
     {
       "id": "BMS_XoVzSDY",
       "title": "悪い日のフランス語フレーズ | 音声学習 | リスニング練習",

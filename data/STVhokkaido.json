@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2025-11-10T15:25:06.735388",
+  "updated_at": "2025-11-22T15:19:48.986620",
   "videos": [
+    {
+      "id": "Ogj2JSzN1kw",
+      "title": "「トレンド☆サプリ」#171　「ウィンドブレイカー」",
+      "description": "",
+      "publishedAt": "2025-11-22T13:00:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ogj2JSzN1kw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ogj2JSzN1kw"
+    },
     {
       "id": "XoPaiQJ-Ivk",
       "title": "【みらいWEEK】STVが、みらいと向き合う一週間。【TAKE ACTION！11/24 Mon.～30 Sun.】",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-11-19T15:23:36.814839",
+  "updated_at": "2025-11-22T15:19:33.432381",
   "videos": [
+    {
+      "id": "lbItTpuNuTY",
+      "title": "日本まんなか直送便「生産量日本一！！奈良の靴下の魅力に迫る」",
+      "description": "",
+      "publishedAt": "2025-11-22T01:01:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lbItTpuNuTY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lbItTpuNuTY"
+    },
     {
       "id": "BZY44Z2XUu8",
       "title": "【11月14日（金）放送】いきいきまちだより",
