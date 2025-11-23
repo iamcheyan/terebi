@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2025-11-21T15:20:06.651178",
+  "updated_at": "2025-11-23T15:20:37.330980",
   "videos": [
+    {
+      "id": "HI-OojPnXl0",
+      "title": "RKCアプリ漢字クイズ 11/24の問題 ～村山佐織アナウンサーのヒント～",
+      "description": "",
+      "publishedAt": "2025-11-23T15:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HI-OojPnXl0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HI-OojPnXl0"
+    },
     {
       "id": "_j_Sqmrn7wA",
       "title": "「フルーティーなスパークリング純米吟醸酒誕生！高知大学×司牡丹酒造が世界初の分析技術で日本酒を開発」2025/11/21放送",

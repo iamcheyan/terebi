@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2025-11-19T15:24:36.658509",
+  "updated_at": "2025-11-23T15:20:21.438352",
   "videos": [
+    {
+      "id": "EF6xqUr7cPI",
+      "title": "#こゆらじ【本編】マネージャー付き",
+      "description": "",
+      "publishedAt": "2025-11-22T15:28:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EF6xqUr7cPI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EF6xqUr7cPI"
+    },
     {
       "id": "sssQbiptD3c",
       "title": "#おからじ【番外編】神を味方につけるために",

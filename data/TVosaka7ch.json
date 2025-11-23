@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-11-22T15:19:30.198601",
+  "updated_at": "2025-11-23T15:19:44.908291",
   "videos": [
+    {
+      "id": "cR2k9aCBiGM",
+      "title": "食遺産File.224「鯛の梅しそ天丼 」＠和歌山県・有田市",
+      "description": "",
+      "publishedAt": "2025-11-23T03:45:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cR2k9aCBiGM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cR2k9aCBiGM"
+    },
+    {
+      "id": "PAaRF3ml_Xw",
+      "title": "「ふたりエスケープ」第9話 11/29（土）深夜0：55～",
+      "description": "",
+      "publishedAt": "2025-11-22T16:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PAaRF3ml_Xw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PAaRF3ml_Xw"
+    },
     {
       "id": "24ZTqrmbHE4",
       "title": "【よゐこ有野×甲子園】阪神タイガースのお膝元・甲子園周辺をモヤモヤ歩き／大阪の街の“攻略法”を探す街ブラ",
