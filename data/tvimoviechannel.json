@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-11-24T15:26:05.180835",
+  "updated_at": "2025-11-25T15:25:34.141089",
   "videos": [
+    {
+      "id": "lEnFLobgau8",
+      "title": "今日の５きげんテレビ（11月26日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-11-25T15:01:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lEnFLobgau8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lEnFLobgau8"
+    },
+    {
+      "id": "y6ALRDWurIs",
+      "title": "５きげんクッキング ～厚揚げと鶏ひき肉のトマト煮～",
+      "description": "",
+      "publishedAt": "2025-11-25T08:52:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y6ALRDWurIs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y6ALRDWurIs"
+    },
+    {
+      "id": "b9OL6YKu3Q4",
+      "title": "5きげん知恵袋 ～冬が旬の小松菜～",
+      "description": "",
+      "publishedAt": "2025-11-25T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b9OL6YKu3Q4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b9OL6YKu3Q4"
+    },
     {
       "id": "Df1sO4lgz-I",
       "title": "今日の５きげんテレビ（11月25日）｜テレビ岩手",

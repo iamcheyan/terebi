@@ -1,8 +1,20 @@
 {
   "channel_id": "UCqobPh0K_bFAWurWVQrLtKQ",
   "channel_name": "UX新潟テレビ21",
-  "updated_at": "2025-11-21T15:20:12.708145",
+  "updated_at": "2025-11-25T15:25:36.419674",
   "videos": [
+    {
+      "id": "eRduDOO04Dk",
+      "title": "1122 TeamECOProject",
+      "description": "",
+      "publishedAt": "2025-11-25T10:01:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eRduDOO04Dk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eRduDOO04Dk"
+    },
     {
       "id": "X3y9WRvZZE4",
       "title": "【TVerで配信中🎉】「新潟シランプリ2025～県民の県民による県民のためのおもしょい自慢～」PR",

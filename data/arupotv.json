@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-11-23T15:20:36.870911",
+  "updated_at": "2025-11-25T15:25:30.881001",
   "videos": [
+    {
+      "id": "XVEnbLUY1yc",
+      "title": "【番宣】１１月２７日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-11-25T06:32:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XVEnbLUY1yc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XVEnbLUY1yc"
+    },
+    {
+      "id": "w0On262XfFs",
+      "title": "【番宣】１１月２６日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-11-25T01:25:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/w0On262XfFs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=w0On262XfFs"
+    },
+    {
+      "id": "jZZBiIaXtJQ",
+      "title": "【番宣】１２月１０日（水）くまもとの焼酎 酒蔵めぐりでおもてなし",
+      "description": "",
+      "publishedAt": "2025-11-25T01:23:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jZZBiIaXtJQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jZZBiIaXtJQ"
+    },
     {
       "id": "d9yIm206Bdk",
       "title": "80話 文徳高 電気科1123",

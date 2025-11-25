@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2025-11-18T15:25:57.578222",
+  "updated_at": "2025-11-25T15:25:28.501665",
   "videos": [
+    {
+      "id": "t8ARDtEdFyE",
+      "title": "LOVE SWITCH　第4話「トラウマ」",
+      "description": "",
+      "publishedAt": "2025-11-24T16:45:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t8ARDtEdFyE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t8ARDtEdFyE"
+    },
     {
       "id": "0eJ6vkD19R8",
       "title": "「LOVE SWTCH」第3話「重なる想い」",
