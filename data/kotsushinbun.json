@@ -1,8 +1,20 @@
 {
   "channel_id": "UCZpJu6cXaHvfEdFGMx-NYRg",
   "channel_name": "交通新聞 電子版【交通新聞社】",
-  "updated_at": "2025-11-20T15:23:58.928441",
+  "updated_at": "2025-11-27T15:23:11.924048",
   "videos": [
+    {
+      "id": "n5iIbjz1Ytg",
+      "title": "JR東日本　顔認証改札機の実証実験　「ウォークスルー改札」実現へ",
+      "description": "",
+      "publishedAt": "2025-11-27T09:01:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n5iIbjz1Ytg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n5iIbjz1Ytg"
+    },
     {
       "id": "pZoYc-6ZlDg",
       "title": "東急・東急電鉄　特別企画列車「のるるんグリーンパーク」乗車イベントを開催",

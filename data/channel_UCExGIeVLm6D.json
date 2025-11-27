@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2025-11-25T15:25:10.106468",
+  "updated_at": "2025-11-27T15:23:13.647233",
   "videos": [
+    {
+      "id": "fnUD5-oGqRo",
+      "title": "RCCテレビ『元就。』2025年11月30日予告",
+      "description": "",
+      "publishedAt": "2025-11-27T09:31:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fnUD5-oGqRo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fnUD5-oGqRo"
+    },
+    {
+      "id": "hA5-htZ8fDs",
+      "title": "＜予告＞情熱サンフレッチェ 11月28日放送",
+      "description": "",
+      "publishedAt": "2025-11-27T05:46:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hA5-htZ8fDs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hA5-htZ8fDs"
+    },
     {
       "id": "jukw9H2wT1s",
       "title": "『元就。二百万一心！』 #232　2025年11月22日",

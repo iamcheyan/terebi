@@ -1,8 +1,68 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2025-11-25T15:25:22.347693",
+  "updated_at": "2025-11-27T15:23:25.656476",
   "videos": [
+    {
+      "id": "ZAnWU4AOf8Y",
+      "title": "「the CAMP」 #58　大自然の力【未公開バージョン】",
+      "description": "",
+      "publishedAt": "2025-11-27T14:01:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZAnWU4AOf8Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZAnWU4AOf8Y"
+    },
+    {
+      "id": "-okpqJvtu50",
+      "title": "「the CAMP」 #58　大自然の力　2025年11月27日放送分",
+      "description": "",
+      "publishedAt": "2025-11-27T14:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-okpqJvtu50/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-okpqJvtu50"
+    },
+    {
+      "id": "ii7vnITmKcs",
+      "title": "スポーツの力　湯沢翔北高校バスケットボール部 女子 主将 鈴木栞奈選手　2025年11月25日放送分",
+      "description": "",
+      "publishedAt": "2025-11-27T01:01:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ii7vnITmKcs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ii7vnITmKcs"
+    },
+    {
+      "id": "iy0fEUg9QK0",
+      "title": "ニッポン放送で見つけた秋田を紹介！①「土曜の情報缶詰どっかん！」♪東京こまち supported by SHOWROOM♪2025年11月22日放送",
+      "description": "",
+      "publishedAt": "2025-11-27T00:43:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iy0fEUg9QK0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iy0fEUg9QK0"
+    },
+    {
+      "id": "Co-3BAVInB8",
+      "title": "羽後町のビアカフェへ「土曜の情報缶詰どっかん！」☆CHACHA旅☆2025年11月22日放送",
+      "description": "",
+      "publishedAt": "2025-11-27T00:37:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Co-3BAVInB8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Co-3BAVInB8"
+    },
     {
       "id": "GTcFJMKqGSo",
       "title": "もっと健康なんだかんだ～教えてドクター～　第2回目「認知症」",

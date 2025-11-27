@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2025-11-26T15:21:42.147025",
+  "updated_at": "2025-11-27T15:23:31.795567",
   "videos": [
+    {
+      "id": "UR3eZeSFe9s",
+      "title": "②2025年11月27日放送：KTSライブニュース「かごたん」",
+      "description": "",
+      "publishedAt": "2025-11-27T10:47:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UR3eZeSFe9s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UR3eZeSFe9s"
+    },
     {
       "id": "EsKH5ZoqPwE",
       "title": "かごんま未来ノート 第200回「自然から学び生きていく力を育てる　NPO法人どんぐり自然学校」",

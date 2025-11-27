@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-11-26T15:21:48.324126",
+  "updated_at": "2025-11-27T15:23:36.620255",
   "videos": [
+    {
+      "id": "aoxuUCkUVLg",
+      "title": "今日の５きげんテレビ（11月28日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-11-27T15:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aoxuUCkUVLg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aoxuUCkUVLg"
+    },
+    {
+      "id": "-s6S7cS7MDk",
+      "title": "５きげんクッキング ～カボチャのチーズケーキ～",
+      "description": "",
+      "publishedAt": "2025-11-27T08:29:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-s6S7cS7MDk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-s6S7cS7MDk"
+    },
+    {
+      "id": "H6ecZYM6YO0",
+      "title": "今昔さんぽ～江刺で農業について学ぶ～",
+      "description": "",
+      "publishedAt": "2025-11-27T07:36:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H6ecZYM6YO0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H6ecZYM6YO0"
+    },
     {
       "id": "1MoeCN2J_kU",
       "title": "今日の５きげんテレビ（11月27日）｜テレビ岩手",
