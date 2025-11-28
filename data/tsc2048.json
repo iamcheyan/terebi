@@ -1,8 +1,56 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2025-11-27T15:22:57.528187",
+  "updated_at": "2025-11-28T15:23:03.291011",
   "videos": [
+    {
+      "id": "3mZUocIzLRg",
+      "title": "【LIVE】 岡山桃太郎空港　岡山市",
+      "description": "",
+      "publishedAt": "2025-11-28T08:52:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3mZUocIzLRg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3mZUocIzLRg"
+    },
+    {
+      "id": "W_Dgh_L6qCQ",
+      "title": "【LIVE】天気カメラ　岡山市",
+      "description": "",
+      "publishedAt": "2025-11-28T08:58:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W_Dgh_L6qCQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W_Dgh_L6qCQ"
+    },
+    {
+      "id": "O5nj51YWb2w",
+      "title": "【ピリサタ】カマタマーレ讃岐　2025年11月22日放送",
+      "description": "",
+      "publishedAt": "2025-11-28T07:10:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O5nj51YWb2w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O5nj51YWb2w"
+    },
+    {
+      "id": "5pwuLi-fA84",
+      "title": "【ピリサタ】アイ工務店　2025年11月22日放送",
+      "description": "",
+      "publishedAt": "2025-11-28T07:04:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5pwuLi-fA84/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5pwuLi-fA84"
+    },
     {
       "id": "sAK5Cn8FfV0",
       "title": "Ｆｉｌｅ５４　ひと手間加えた総菜で地域の食支える　魚宗フーズ（岡山市）",
