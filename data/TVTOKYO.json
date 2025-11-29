@@ -1,8 +1,32 @@
 {
   "channel_id": "UCrDj5t8Q9ZFSGft7a3PWl9g",
   "channel_name": "テレ東公式 TV TOKYO",
-  "updated_at": "2025-11-28T15:22:58.593409",
+  "updated_at": "2025-11-29T15:20:30.685801",
   "videos": [
+    {
+      "id": "FPF21rnjFq4",
+      "title": "【予告】新美の巨人たち",
+      "description": "",
+      "publishedAt": "2025-11-29T13:29:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FPF21rnjFq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FPF21rnjFq4"
+    },
+    {
+      "id": "pekmh7qVRzg",
+      "title": "【予告】出没！アド街ック天国　～一都三県 門前町～",
+      "description": "",
+      "publishedAt": "2025-11-29T12:50:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pekmh7qVRzg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pekmh7qVRzg"
+    },
     {
       "id": "_0BTwf-2Rtw",
       "title": "【予告】風景の足跡＃443",

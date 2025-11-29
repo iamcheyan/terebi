@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2025-11-28T15:22:53.260310",
+  "updated_at": "2025-11-29T15:20:29.341120",
   "videos": [
+    {
+      "id": "OXiNaoeAcLw",
+      "title": "#キテレツが咲く#TVer 配信中🌺",
+      "description": "",
+      "publishedAt": "2025-11-29T09:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OXiNaoeAcLw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OXiNaoeAcLw"
+    },
     {
       "id": "s4Tb1sRXV0Q",
       "title": "高知の天気　29日　寒暖差と空気の乾燥に注意　山岸拓気象予報士が解説",

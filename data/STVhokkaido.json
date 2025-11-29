@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2025-11-22T15:19:48.986620",
+  "updated_at": "2025-11-29T15:20:48.562203",
   "videos": [
+    {
+      "id": "Xs3WkAmGfcM",
+      "title": "【STVみらいWEEK】驚き再発見！リサイクル&リペアのみらい【どさんこWEEKEND】",
+      "description": "",
+      "publishedAt": "2025-11-29T01:30:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Xs3WkAmGfcM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Xs3WkAmGfcM"
+    },
     {
       "id": "Ogj2JSzN1kw",
       "title": "「トレンド☆サプリ」#171　「ウィンドブレイカー」",
