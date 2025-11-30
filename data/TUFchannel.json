@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2025-11-26T15:21:48.719511",
+  "updated_at": "2025-11-30T15:20:44.226956",
   "videos": [
+    {
+      "id": "o7rmg-4uW00",
+      "title": "TUFアプリ「たぷり」12月プレゼント！",
+      "description": "",
+      "publishedAt": "2025-11-30T15:01:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o7rmg-4uW00/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o7rmg-4uW00"
+    },
+    {
+      "id": "BD9ofIDtuGY",
+      "title": "「福島日産自動車×ステップ」12月プレゼント！",
+      "description": "",
+      "publishedAt": "2025-11-30T15:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BD9ofIDtuGY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BD9ofIDtuGY"
+    },
     {
       "id": "7kU1VzQA4GU",
       "title": "Dream Journey～夢をつむぐ旅～　#8 神山まるごと高専",

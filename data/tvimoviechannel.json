@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-11-28T15:23:36.023969",
+  "updated_at": "2025-11-30T15:20:44.426859",
   "videos": [
+    {
+      "id": "AM5vZdQ--FQ",
+      "title": "今日の５きげんテレビ（12月1日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-11-30T15:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AM5vZdQ--FQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AM5vZdQ--FQ"
+    },
     {
       "id": "s-8PH-4bGxI",
       "title": "北上市で新ネタ調査！ | まち探4",
