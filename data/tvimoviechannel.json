@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-11-30T15:20:44.426859",
+  "updated_at": "2025-12-01T15:25:44.560725",
   "videos": [
+    {
+      "id": "B5asZC1TaEI",
+      "title": "今日の５きげんテレビ（12月2日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-12-01T15:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B5asZC1TaEI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B5asZC1TaEI"
+    },
+    {
+      "id": "s3ZGz1-xrFk",
+      "title": "５きげんクッキング ～クリスマスブラウニー～",
+      "description": "",
+      "publishedAt": "2025-12-01T09:24:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s3ZGz1-xrFk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s3ZGz1-xrFk"
+    },
     {
       "id": "AM5vZdQ--FQ",
       "title": "今日の５きげんテレビ（12月1日）｜テレビ岩手",

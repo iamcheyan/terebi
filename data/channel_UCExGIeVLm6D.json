@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2025-11-27T15:23:13.647233",
+  "updated_at": "2025-12-01T15:25:21.136079",
   "videos": [
+    {
+      "id": "9FCq8QoA5gE",
+      "title": "RCCテレビ『元就。』2025年12月7日予告",
+      "description": "",
+      "publishedAt": "2025-12-01T01:25:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9FCq8QoA5gE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9FCq8QoA5gE"
+    },
+    {
+      "id": "pFHM7Phq414",
+      "title": "RCCテレビ『アインシュタインの出没！ひな壇団』2025年12月6日予告",
+      "description": "",
+      "publishedAt": "2025-12-01T01:22:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pFHM7Phq414/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pFHM7Phq414"
+    },
     {
       "id": "fnUD5-oGqRo",
       "title": "RCCテレビ『元就。』2025年11月30日予告",

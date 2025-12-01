@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2025-11-29T15:20:48.562203",
+  "updated_at": "2025-12-01T15:25:42.277752",
   "videos": [
+    {
+      "id": "uNT2GjKHlGo",
+      "title": "after TOMAKOMAI MIRAI FEST（2025ダイジェスト）",
+      "description": "",
+      "publishedAt": "2025-12-01T06:24:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uNT2GjKHlGo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uNT2GjKHlGo"
+    },
     {
       "id": "Xs3WkAmGfcM",
       "title": "【STVみらいWEEK】驚き再発見！リサイクル&リペアのみらい【どさんこWEEKEND】",
