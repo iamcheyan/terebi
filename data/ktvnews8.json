@@ -1,8 +1,423 @@
 {
   "channel_id": "UCQhaZjODkIjuv38d-i5TVRw",
-  "channel_name": "関西テレビ（KTV）",
-  "updated_at": "2025-12-01T15:24:56.767633",
+  "channel_name": "カンテレNEWS",
+  "original_name": "関西テレビ（KTV）",
+  "updated_at": "2025-12-02T15:26:51.198575",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lrHhVRJOEycFOR2XpIesIzIHuYc",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3LllmVHQxOGtGV1B3",
+      "snippet": {
+        "publishedAt": "2025-12-02T15:24:37Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "大阪・門真警察署保管の盗難車から窃盗か　偽造ナンバープレートなど　何者かが塀を乗り越えて侵入したとみて捜査",
+        "description": "大阪府門真警察署で、証拠品として保管されていた盗難車の中から、偽造ナンバープレートなどが盗まれていたことが分かりました。\r\n\r\n先月10日、門真市内で警察が不審な男を見つけ、職務質問したところ、男が逃走しました。\r\n\r\n付近には盗難車が残されていて、警察は薬物事件の証拠品として車を押収し、警察署内の駐車場で保管していました。\r\n\r\n1日、警察が改めて確認したところ、車内にあった偽造ナンバープレート数点や、車の窃盗などに使われる電子機器が盗まれていたということです。\r\n\r\n車の鍵はなく、ドアは施錠されていませんでした。\r\n\r\n警察は何者かが警察署の塀を乗り越えて侵入したとみて、窃盗や建造物侵入事件として捜査しています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YfTt18kFWPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YfTt18kFWPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YfTt18kFWPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YfTt18kFWPw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YfTt18kFWPw"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G0GDaeU7wF8zxkFLqfBggM51mK8",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3LjRQNXZSYkM1VWxJ",
+      "snippet": {
+        "publishedAt": "2025-12-01T03:13:42Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "東大阪の”無許可営業”ラウンジ　未成年の客に酒を提供か　捜査で発覚、実態解明進める　大阪府警",
+        "description": "東大阪市の繁華街で無許可で女性従業員らに接待させたとして摘発されたラウンジが、未成年の客に酒を提供していた疑いがあることがわかりました。\r\n\r\n東大阪市のラウンジ「アモーレ」の経営者平井大輔容疑者（26）は先月28日、大阪府公安委員会の許可を受けずに女性従業員らに客を接待させ、酒を提供するなどした疑いがもたれています。\r\n\r\n警察によると店は路上の客引きなどで客を集め、月に1000万円ほどを売り上げていたとみられます。\r\n\r\n警察の捜査で、この店が未成年の客に酒を提供していた疑いがあることがわかりました。\r\n\r\n調べに対し平井容疑者は店の無許可営業の容疑を認めていて、警察は実態解明を進めています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4P5vRbC5UlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4P5vRbC5UlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4P5vRbC5UlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4P5vRbC5UlI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4P5vRbC5UlI"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r7ZGDoOCGPRm4AGrnmNshMX3OsI",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3Lk43TDM1ZDlQaEln",
+      "snippet": {
+        "publishedAt": "2025-11-30T23:02:37Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "熊野川の伏流水と地元米で育む本州最南端の新酒！ 正月にぴったりの3000本の仕込み 和歌山・新宮市",
+        "description": "「本州最南端の酒蔵」として知られる和歌山県新宮市の酒造会社では、正月用の新酒作りが行われています。\r\n\r\n大きなタンクが並ぶ酒蔵では、発酵が進んだ「もろみ」を杜氏たちが長い櫂を使って丁寧にかき混ぜていきます。\r\n\r\nこの酒蔵は本州最南端にあり、地元の米と熊野川の伏流水を使って、11月上旬から新酒の仕込みを始めました。\r\n\r\nことしは猛暑が続き、温度管理が難しかったということですが、仕上がりは上々だということです。\r\n\r\n【杜氏・小林武司さん】「しぼりたてはフルーティーで美味しいですね。すごい飲みやすいです。ことしは美味しい酒ができたんで、是非お正月とかに飲んでくれたらうれしいです」\r\nこの酒蔵では新年に向けて、3000本の新酒が作られます。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N7L35d9PhIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N7L35d9PhIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N7L35d9PhIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N7L35d9PhIg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N7L35d9PhIg"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sH_7eXPgI6dyCWXAmOZTgZjMvVg",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3Lkc5Y0d2YzdKWm9Z",
+      "snippet": {
+        "publishedAt": "2025-11-28T03:27:51Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "小学生が手漉き和紙で卒業証書づくり　かつて盛んだった「畑和紙」の伝統つなぐ　京都・宮津市",
+        "description": "京都府宮津市では、小学生が伝統工芸品の和紙を使った卒業証書づくりに取り組んでいます。\r\n\r\n和紙づくりを体験する宮津市・日置小学校の6年生。この地域は100年ほど前には畑和紙と呼ばれる紙づくりが盛んでしたが徐々に減少し、いまではすっかり見ることがなくなりました。\r\n\r\n来年卒業する小学生たちは地元の職人から指導を受けながら、和紙を使って自分たちの卒業証書を作り、伝統の技を体験しました。\r\n\r\n【体験した小学生】\r\n「意外と漉く道具が重かった」\r\n【体験した小学生】\r\n「卒業証書として自分の経験として残していきたい」\r\n\r\n完成した卒業証書は、来年3月の卒業式で手渡されます。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G9cGvc7JZoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G9cGvc7JZoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G9cGvc7JZoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G9cGvc7JZoY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 60,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G9cGvc7JZoY"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W7DC4MzCN_UILEeG7FbUvZQgJjc",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3LktHb2hKcjFtZXBV",
+      "snippet": {
+        "publishedAt": "2025-11-28T03:23:47Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "冬の味覚「青首大根」出荷盛ん　おでん・鍋によし、おろしにしてもよし　ミネラル豊富で甘み　兵庫・たつの市",
+        "description": "兵庫県たつの市では冬の味覚の「青首大根」が出荷のピークを迎えています。\r\n\r\nたつの市特産の「青首大根」は海辺の干拓地を利用して育てられ、ミネラルが豊富で甘味があるのが特徴です。\r\n\r\n今年は天候に恵まれたおかげで生育が良く、例年より早い収穫となりました。\r\n冷え込む早朝から農家が出荷に追われ、近くの作業場に次々と積み上げられていきました。\r\n\r\n【御津町園芸組合　木田雅也組合長】\r\n「今年は台風の上陸がなく、きれいなものができて豊作です。おでんにしても良いし、おろしにしてもおいしいし、ダイコンは色んな味に染まりますからどんな料理にも合います」\r\n\r\nダイコンの収穫は来年3月中旬まで続き、京阪神方面へ出荷されるということです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KGohJr1mepU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KGohJr1mepU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KGohJr1mepU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KGohJr1mepU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 61,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KGohJr1mepU"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t_Zww94r68jNJB7TDrcr90TX7iU",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3LjRpSHh3Wm1jS0Fz",
+      "snippet": {
+        "publishedAt": "2025-11-28T03:12:41Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "藤井竜王がＪＲ姫路で一日駅長　特急はまかぜに出発進行　姫路は竜王戦４連勝で消えた第５局の開催地",
+        "description": "史上最年少で「永世竜王」の資格を得た将棋の藤井聡太六冠が、兵庫県姫路市で一日駅長を務めました。\r\n\r\n鉄道ファンとしても知られる藤井六冠はきょう＝28日、ＪＲ姫路駅を訪れ「特急はまかぜ」に出発進行を告げました。\r\n\r\n藤井六冠は「竜王戦」を4連勝してタイトルを防衛したため、5局目が予定されていた姫路市をきのう＝27日から訪れています。\r\n\r\n【藤井六冠の駅アナウンス】「姫路駅、一日駅長の藤井聡太です。お気を付けて行ってらっしゃいませ」\r\n\r\n史上最年少で「永世竜王」の資格を得た藤井六冠は、将棋を題材にした映画のロケ地を訪れたり、小学生との交流イベントに参加したりする予定です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4iHxwZmcKAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4iHxwZmcKAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4iHxwZmcKAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4iHxwZmcKAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 62,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4iHxwZmcKAs"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GSMei_IyGxya6vhwsCHIK-jNO9A",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3LjE5Tzg5MHRuUUhF",
+      "snippet": {
+        "publishedAt": "2025-11-27T16:13:55Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "和歌山・白浜町　砂浜に「防砂ネット」設置",
+        "description": "和歌山県白浜町の白良浜では、砂が飛ばされるのを防ぐため、防砂ネットの設置作業が行われました。\r\n\r\n27日、白良浜では白浜町の職員らが砂浜に木の杭を打ち込み、防砂ネットをひもで固定しました。白良浜の砂は、粒子が細かく、冬の強い風に飛ばされやすい特徴があります。そこで白浜町は砂が飛ばされるのを防ぐため、44年前から「防砂ネット」を設置していて、現在は、冬の訪れを告げる風物詩となっています。\r\n【白浜町・中松雅莉主査】「これを設置すると、地元の方はみなさん、冬が始まったと感じていただいている」\r\n防砂ネットは、来年3月中旬まで砂の飛散を防ぐということです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/19O890tnQHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/19O890tnQHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/19O890tnQHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/19O890tnQHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 63,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "19O890tnQHE"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "id": "sdH0e1hX_5Q",
+      "title": "【12/3(水)の天気】あすは一転 次第に真冬に　#news #天気",
+      "description": "",
+      "publishedAt": "2025-12-02T11:43:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sdH0e1hX_5Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sdH0e1hX_5Q"
+    },
+    {
+      "id": "yrqTix1k1NY",
+      "title": "京都の紅葉を50年以上撮り続ける写真家　出版した写真集は215冊にも　「偶然に出会う楽しみ。やめられない」｜newsランナー〈カンテレNEWS〉",
+      "description": "",
+      "publishedAt": "2025-12-02T11:37:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yrqTix1k1NY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yrqTix1k1NY"
+    },
+    {
+      "id": "svHCgoT_pfE",
+      "title": "震災当時「4時間並んで、缶詰8個だけ」元オリ・田口さんが神戸の小学校で特別授業　追悼のつどいの灯篭文字公募はじまる｜newsランナー〈カンテレNEWS〉",
+      "description": "",
+      "publishedAt": "2025-12-02T11:23:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/svHCgoT_pfE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=svHCgoT_pfE"
+    },
+    {
+      "id": "25FHEv9YB38",
+      "title": "山上被告「他の政治家では意味が弱いと思った」その理由について「安倍元首相は私の認識では統一教会と政治家のかかわりの中心にいる方」と説明　安倍元首相銃撃事件｜newsランナー〈カンテレNEWS〉",
+      "description": "",
+      "publishedAt": "2025-12-02T10:19:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/25FHEv9YB38/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=25FHEv9YB38"
+    },
+    {
+      "id": "mgzuGLv_CR0",
+      "title": "【解説】“日中問題”で支持率下がらずも高市総理を待ち受ける2つの壁　『夜の会食は一度も行かず』働き続ける高市総理 「働いて働いて…」が流行語大賞受賞｜旬感LIVE とれたてっ!〈カンテレNEWS〉",
+      "description": "",
+      "publishedAt": "2025-12-02T09:53:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mgzuGLv_CR0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mgzuGLv_CR0"
+    },
+    {
+      "id": "KeYXKS1vy7s",
+      "title": "”和歌山のウユニ塩湖”　田辺市の「天神崎」で安全啓発　撮影や釣りに夢中で満潮時に陸に戻れず救助要請など受け観光客などに　漁協なども看板で注意喚起",
+      "description": "",
+      "publishedAt": "2025-12-02T03:28:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KeYXKS1vy7s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KeYXKS1vy7s"
+    },
+    {
+      "id": "kb9ZyHAJiJo",
+      "title": "大阪・泉佐野市「赤ちゃんポスト」設置に向け　調査費など盛り込んだ補正予算案を市議会に提出",
+      "description": "",
+      "publishedAt": "2025-12-02T03:27:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kb9ZyHAJiJo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kb9ZyHAJiJo"
+    },
+    {
+      "id": "JAwVzatoXng",
+      "title": "パチンコの景品交換所で21万円窃盗　事件後、広島にいたところ男を逮捕　指名手配受け広島県警が連絡　堺・堺区",
+      "description": "",
+      "publishedAt": "2025-12-02T03:26:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JAwVzatoXng/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JAwVzatoXng"
+    },
+    {
+      "id": "v0F2C7qWOU4",
+      "title": "姫路市の神社でジャンボ干支「午」の飾り付け",
+      "description": "",
+      "publishedAt": "2025-12-01T15:49:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v0F2C7qWOU4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v0F2C7qWOU4"
+    },
+    {
+      "id": "yKLm6LplugU",
+      "title": "季節限定　舞鶴湾のかき小屋「美味星」まもなくオープン",
+      "description": "",
+      "publishedAt": "2025-12-01T15:40:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yKLm6LplugU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yKLm6LplugU"
+    },
     {
       "id": "e5AfMgOa3ok",
       "title": "【LIVE】京都ライブカメラ　三条大橋～四条大橋の鴨川周辺｜Kyoto, Japan｜Kamogawa River｜Sanjo Ohashi Bridge〈カンテレNEWS〉",
@@ -8090,6 +8505,48 @@
       "title": "悪質いじめ警察に即通報　いじめ発見時の教職員対応方法「いつ・どこで・何をするか」明確化　奈良・香芝市で全国初",
       "thumbnail": "https://i.ytimg.com/vi/YDzB1fvM4gg/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=YDzB1fvM4gg"
+    },
+    {
+      "id": "YfTt18kFWPw",
+      "title": "大阪・門真警察署保管の盗難車から窃盗か　偽造ナンバープレートなど　何者かが塀を乗り越えて侵入したとみて捜査",
+      "thumbnail": "https://i.ytimg.com/vi/YfTt18kFWPw/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YfTt18kFWPw"
+    },
+    {
+      "id": "4P5vRbC5UlI",
+      "title": "東大阪の”無許可営業”ラウンジ　未成年の客に酒を提供か　捜査で発覚、実態解明進める　大阪府警",
+      "thumbnail": "https://i.ytimg.com/vi/4P5vRbC5UlI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4P5vRbC5UlI"
+    },
+    {
+      "id": "N7L35d9PhIg",
+      "title": "熊野川の伏流水と地元米で育む本州最南端の新酒！ 正月にぴったりの3000本の仕込み 和歌山・新宮市",
+      "thumbnail": "https://i.ytimg.com/vi/N7L35d9PhIg/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N7L35d9PhIg"
+    },
+    {
+      "id": "G9cGvc7JZoY",
+      "title": "小学生が手漉き和紙で卒業証書づくり　かつて盛んだった「畑和紙」の伝統つなぐ　京都・宮津市",
+      "thumbnail": "https://i.ytimg.com/vi/G9cGvc7JZoY/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=G9cGvc7JZoY"
+    },
+    {
+      "id": "KGohJr1mepU",
+      "title": "冬の味覚「青首大根」出荷盛ん　おでん・鍋によし、おろしにしてもよし　ミネラル豊富で甘み　兵庫・たつの市",
+      "thumbnail": "https://i.ytimg.com/vi/KGohJr1mepU/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KGohJr1mepU"
+    },
+    {
+      "id": "4iHxwZmcKAs",
+      "title": "藤井竜王がＪＲ姫路で一日駅長　特急はまかぜに出発進行　姫路は竜王戦４連勝で消えた第５局の開催地",
+      "thumbnail": "https://i.ytimg.com/vi/4iHxwZmcKAs/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4iHxwZmcKAs"
+    },
+    {
+      "id": "19O890tnQHE",
+      "title": "和歌山・白浜町　砂浜に「防砂ネット」設置",
+      "thumbnail": "https://i.ytimg.com/vi/19O890tnQHE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=19O890tnQHE"
     }
   ]
 }

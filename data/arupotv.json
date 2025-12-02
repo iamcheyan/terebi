@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-11-29T15:20:47.598160",
+  "updated_at": "2025-12-02T15:26:13.343759",
   "videos": [
+    {
+      "id": "GMI9xxGJn-w",
+      "title": "【番宣】１２月５日（金）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-12-02T03:37:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GMI9xxGJn-w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GMI9xxGJn-w"
+    },
+    {
+      "id": "XSRIwx_TvRc",
+      "title": "【番宣】１２月４日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-12-02T03:34:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XSRIwx_TvRc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XSRIwx_TvRc"
+    },
     {
       "id": "ZvwnDdJO4Ws",
       "title": "【番宣】１２月６日（土）からふる",

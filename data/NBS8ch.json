@@ -1,8 +1,32 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2025-11-25T15:25:28.501665",
+  "updated_at": "2025-12-02T15:26:11.864998",
   "videos": [
+    {
+      "id": "1wdH4JU5jHE",
+      "title": "「土曜はこれダネッ！」＃ゆいスタグラム　高山村で紅葉ドライブ",
+      "description": "",
+      "publishedAt": "2025-12-02T11:11:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1wdH4JU5jHE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1wdH4JU5jHE"
+    },
+    {
+      "id": "RlpQOz-7ID4",
+      "title": "LOVE SWITCH 5話「共に暮らすなら」",
+      "description": "",
+      "publishedAt": "2025-12-01T16:45:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RlpQOz-7ID4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RlpQOz-7ID4"
+    },
     {
       "id": "t8ARDtEdFyE",
       "title": "LOVE SWITCH　第4話「トラウマ」",

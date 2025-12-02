@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-12-01T15:25:09.546965",
+  "updated_at": "2025-12-02T15:26:05.093381",
   "videos": [
+    {
+      "id": "HobJLCYtIZ0",
+      "title": "ジェムラインジャパン「リニューアル歳末＆HAPPY CHRISTMAS SALE」",
+      "description": "",
+      "publishedAt": "2025-12-02T02:14:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HobJLCYtIZ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HobJLCYtIZ0"
+    },
     {
       "id": "IQJ1_biKoVk",
       "title": "大和ハウス工業 奈良支店　12月の認知症に備えた資産管理の事前準備セミナー開催！",
