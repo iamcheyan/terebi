@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-11-30T15:20:30.845770",
+  "updated_at": "2025-12-03T15:26:57.840343",
   "videos": [
+    {
+      "id": "Ate036bXNkw",
+      "title": "【古今東西ゲーム】アナウンサー対決！",
+      "description": "",
+      "publishedAt": "2025-12-03T05:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ate036bXNkw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ate036bXNkw"
+    },
     {
       "id": "s603IBueEtU",
       "title": "食遺産File.225「さつまいもの肉じゃが」＠京都府・南丹市美山町",

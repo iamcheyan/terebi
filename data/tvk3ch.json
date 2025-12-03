@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2025-12-02T15:26:00.712682",
+  "updated_at": "2025-12-03T15:27:02.181542",
   "videos": [
+    {
+      "id": "eoLGUQwatnE",
+      "title": "【毎週ライブ】2025/12/3「関内デビル」水曜２０時の素材",
+      "description": "",
+      "publishedAt": "2025-12-03T11:37:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eoLGUQwatnE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eoLGUQwatnE"
+    },
+    {
+      "id": "viHcVyDOHr0",
+      "title": "かながわ旬菜ナビ　次回予告（12月7日放送）",
+      "description": "",
+      "publishedAt": "2025-12-03T03:01:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/viHcVyDOHr0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=viHcVyDOHr0"
+    },
     {
       "id": "g4M1a90iEA8",
       "title": "tvk「クルマでいこう！」公式 Japan Mobility Show 2025 2025/11/23放送(#915)",
