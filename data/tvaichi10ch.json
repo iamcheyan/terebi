@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2025-12-02T15:25:59.170952",
+  "updated_at": "2025-12-04T15:27:48.205222",
   "videos": [
+    {
+      "id": "pOpiASPlv4s",
+      "title": "レーシングカートが作る自動車業界のミライ【クルマとミライ】",
+      "description": "",
+      "publishedAt": "2025-12-04T15:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pOpiASPlv4s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pOpiASPlv4s"
+    },
     {
       "id": "PU3hntcsU7k",
       "title": "【今仙電機製作所】座席シートのリクライナー、背もたれ角度調整機構を紹介【開発現場へ行こう #42】",

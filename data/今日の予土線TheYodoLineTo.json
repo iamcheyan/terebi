@@ -1,8 +1,104 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-12-03T15:27:34.575757",
+  "updated_at": "2025-12-04T15:28:19.685966",
   "videos": [
+    {
+      "id": "Ubk_ri7i900",
+      "title": "251204 160454 近永第５踏切",
+      "description": "",
+      "publishedAt": "2025-12-04T12:45:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ubk_ri7i900/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ubk_ri7i900"
+    },
+    {
+      "id": "VKQVDOqxrQg",
+      "title": "251204 160310 近永第５踏切",
+      "description": "",
+      "publishedAt": "2025-12-04T12:30:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VKQVDOqxrQg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VKQVDOqxrQg"
+    },
+    {
+      "id": "U2w9ivSemoQ",
+      "title": "251204 155755 近永駅前にて「鬼バス」",
+      "description": "",
+      "publishedAt": "2025-12-04T12:03:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U2w9ivSemoQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U2w9ivSemoQ"
+    },
+    {
+      "id": "2mNAmq8Pgcg",
+      "title": "251204 155524 近永駅前にて「鬼バス」",
+      "description": "",
+      "publishedAt": "2025-12-04T11:51:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2mNAmq8Pgcg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2mNAmq8Pgcg"
+    },
+    {
+      "id": "EmhMyR9mS8E",
+      "title": "251204 155108 近永第３踏切",
+      "description": "",
+      "publishedAt": "2025-12-04T11:51:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EmhMyR9mS8E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EmhMyR9mS8E"
+    },
+    {
+      "id": "5iel4mLmJyg",
+      "title": "251204 153436 河渡踏切",
+      "description": "",
+      "publishedAt": "2025-12-04T11:37:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5iel4mLmJyg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5iel4mLmJyg"
+    },
+    {
+      "id": "JduFmXS5ORE",
+      "title": "251204 153121 河渡踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2025-12-04T11:27:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JduFmXS5ORE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JduFmXS5ORE"
+    },
+    {
+      "id": "3KJG04J6k84",
+      "title": "251204 152327 近永第１踏切",
+      "description": "",
+      "publishedAt": "2025-12-04T11:22:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3KJG04J6k84/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3KJG04J6k84"
+    },
     {
       "id": "MZmnN4kblXY",
       "title": "251203 173209 すまいるえきちゃん号（深田駅）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-12-03T15:27:25.088601",
+  "updated_at": "2025-12-04T15:28:11.302468",
   "videos": [
+    {
+      "id": "WrI1p5kxfLY",
+      "title": "今日の５きげんテレビ（12月5日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-12-04T15:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WrI1p5kxfLY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WrI1p5kxfLY"
+    },
+    {
+      "id": "tXrBvU4J3rM",
+      "title": "５きげんクッキング ～簡単！キーマカレー丼～",
+      "description": "",
+      "publishedAt": "2025-12-04T08:42:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tXrBvU4J3rM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tXrBvU4J3rM"
+    },
     {
       "id": "0bNYQxuqeo0",
       "title": "今日の５きげんテレビ（12月4日）｜テレビ岩手",
