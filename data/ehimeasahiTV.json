@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2025-12-04T15:27:26.173416",
+  "updated_at": "2025-12-05T15:24:30.965136",
   "videos": [
+    {
+      "id": "oMlTVTT0GyA",
+      "title": "#撮影の裏側",
+      "description": "",
+      "publishedAt": "2025-12-05T12:01:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oMlTVTT0GyA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oMlTVTT0GyA"
+    },
+    {
+      "id": "-DxtHgLahUw",
+      "title": "#insta360flow2pro 使ったら#irisout 踊りながらでも大丈夫な撮影",
+      "description": "",
+      "publishedAt": "2025-12-05T12:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-DxtHgLahUw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-DxtHgLahUw"
+    },
     {
       "id": "TXIYy0KA900",
       "title": "#iwantyouback で#大行進 #愛媛の背中男 を探せ",

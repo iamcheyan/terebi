@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2025-12-04T15:27:31.361874",
+  "updated_at": "2025-12-05T15:24:29.496708",
   "videos": [
+    {
+      "id": "FSpXgpjjq1A",
+      "title": "季節のいけばな１２月１日テーマ「外は木枯らし」",
+      "description": "",
+      "publishedAt": "2025-12-05T05:29:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FSpXgpjjq1A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FSpXgpjjq1A"
+    },
+    {
+      "id": "9Zr1BaN_gcY",
+      "title": "栗原心平の青森いただきまーす！１２月１日「エリンギとベーコンのクリームシチュー」",
+      "description": "",
+      "publishedAt": "2025-12-05T05:26:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9Zr1BaN_gcY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9Zr1BaN_gcY"
+    },
     {
       "id": "XfEyflx1nYE",
       "title": "あたらしいむがしコ「熊原川のカッパ」",

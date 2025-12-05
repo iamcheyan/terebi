@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2025-12-04T15:28:10.091298",
+  "updated_at": "2025-12-05T15:25:20.106799",
   "videos": [
+    {
+      "id": "6aUlgpLG60U",
+      "title": "【公式】12月12日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2025-12-05T11:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6aUlgpLG60U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6aUlgpLG60U"
+    },
+    {
+      "id": "mwhZK8a_cnY",
+      "title": "【公式】「はじめてのずりばい」（12月5日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2025-12-05T03:01:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mwhZK8a_cnY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mwhZK8a_cnY"
+    },
     {
       "id": "zTZSeohi32Y",
       "title": "【公式】2025年12月6日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",

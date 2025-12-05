@@ -1,8 +1,32 @@
 {
   "channel_id": "UCqobPh0K_bFAWurWVQrLtKQ",
   "channel_name": "UX新潟テレビ21",
-  "updated_at": "2025-12-04T15:28:14.770017",
+  "updated_at": "2025-12-05T15:25:25.267456",
   "videos": [
+    {
+      "id": "y0ektajqTFM",
+      "title": "#石本酒造 蔵のひと -Kura no HITO-",
+      "description": "",
+      "publishedAt": "2025-12-05T12:02:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y0ektajqTFM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y0ektajqTFM"
+    },
+    {
+      "id": "L3gmo7xvdls",
+      "title": "ハッピーイオン🌈トルティーヤで簡単タコス🌮",
+      "description": "",
+      "publishedAt": "2025-12-05T10:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L3gmo7xvdls/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L3gmo7xvdls"
+    },
     {
       "id": "4DxsN56YoAo",
       "title": "【夢のスタート！】🤖＃File_105は長岡工業高等学校ロボット部をピック！",

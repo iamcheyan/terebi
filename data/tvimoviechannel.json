@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-12-04T15:28:11.302468",
+  "updated_at": "2025-12-05T15:25:22.039900",
   "videos": [
+    {
+      "id": "lOaIjTypUJo",
+      "title": "５きげんクッキング ～イチゴのレアチーズサンド～",
+      "description": "",
+      "publishedAt": "2025-12-05T10:16:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lOaIjTypUJo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lOaIjTypUJo"
+    },
+    {
+      "id": "BNaRz0NduIg",
+      "title": "作家 阿部暁子さん講演会〜文学の国いわて〜｜岩手｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2025-12-05T05:57:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BNaRz0NduIg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BNaRz0NduIg"
+    },
     {
       "id": "WrI1p5kxfLY",
       "title": "今日の５きげんテレビ（12月5日）｜テレビ岩手",

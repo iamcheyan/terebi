@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2025-12-04T15:27:42.024577",
+  "updated_at": "2025-12-05T15:24:25.156538",
   "videos": [
+    {
+      "id": "5VqAXIRXqwk",
+      "title": "【見逃し】ひがしねウィンターフェスティバル　東根市から生中継　高坂瑠奈アナウンサー",
+      "description": "",
+      "publishedAt": "2025-12-05T10:13:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5VqAXIRXqwk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5VqAXIRXqwk"
+    },
     {
       "id": "BlTobrRpb2w",
       "title": "【山形に笑顔と驚きを！マジシャンTaishiの魔法】YTSゴジダス水曜情報局",

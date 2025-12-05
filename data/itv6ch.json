@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2025-12-04T15:28:15.226817",
+  "updated_at": "2025-12-05T15:25:28.124985",
   "videos": [
+    {
+      "id": "MM9ZwrRYhR0",
+      "title": "愛媛のニュース(12月05日)",
+      "description": "",
+      "publishedAt": "2025-12-05T11:35:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MM9ZwrRYhR0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MM9ZwrRYhR0"
+    },
+    {
+      "id": "c0UcKbqeJmU",
+      "title": "【地元民の謎】伊予鉄バスの行き先横にある「謎の番号」の意味を徹底調査！",
+      "description": "",
+      "publishedAt": "2025-12-05T10:01:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c0UcKbqeJmU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c0UcKbqeJmU"
+    },
     {
       "id": "nPDIIa5aiKs",
       "title": "愛媛のニュース(12月04日)",

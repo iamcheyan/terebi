@@ -1,8 +1,188 @@
 {
   "channel_id": "UCXYTFOXjfQz_FVzCzqP9PXA",
   "channel_name": "AI Polyglot | 多言語 聞き流し",
-  "updated_at": "2025-12-04T15:27:17.023353",
+  "updated_at": "2025-12-05T15:24:32.194828",
   "videos": [
+    {
+      "id": "CeJIpiKKk1E",
+      "title": "フランス語の友達トーク100 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-12-05T09:08:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CeJIpiKKk1E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CeJIpiKKk1E"
+    },
+    {
+      "id": "4G4PSI3fbPk",
+      "title": "ドイツ語の友達トーク100 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-12-05T09:08:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4G4PSI3fbPk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4G4PSI3fbPk"
+    },
+    {
+      "id": "vqiEHWTUZ3E",
+      "title": "ポルトガル語の友達トーク100 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-12-05T09:08:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vqiEHWTUZ3E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vqiEHWTUZ3E"
+    },
+    {
+      "id": "0VEtqSlokNY",
+      "title": "中国語の友達トーク100 | 音声学習 | ピンイン付き | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-12-05T09:08:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0VEtqSlokNY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0VEtqSlokNY"
+    },
+    {
+      "id": "HQ_0SLOqqB4",
+      "title": "台湾華語の友達トーク100 | 音声学習 | ピンイン付き | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-12-05T09:07:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HQ_0SLOqqB4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HQ_0SLOqqB4"
+    },
+    {
+      "id": "iRM7zOok9JQ",
+      "title": "韓国語の友達トーク100 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-12-05T09:07:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iRM7zOok9JQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iRM7zOok9JQ"
+    },
+    {
+      "id": "Oh9yLWlAcR8",
+      "title": "ベトナム語の友達トーク100 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-12-05T09:07:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Oh9yLWlAcR8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Oh9yLWlAcR8"
+    },
+    {
+      "id": "NqAJucqENng",
+      "title": "インドネシア語の友達トーク100 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-12-05T09:07:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NqAJucqENng/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NqAJucqENng"
+    },
+    {
+      "id": "iXz8PUVgVRU",
+      "title": "ロシア語の友達トーク100 | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2025-12-05T09:07:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iXz8PUVgVRU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iXz8PUVgVRU"
+    },
+    {
+      "id": "B_cz8COH9xg",
+      "title": "100 Spanish Friend Talks | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-12-05T09:07:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B_cz8COH9xg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B_cz8COH9xg"
+    },
+    {
+      "id": "-GmXVyXIYis",
+      "title": "100 Italian Friend Talks | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-12-05T09:07:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-GmXVyXIYis/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-GmXVyXIYis"
+    },
+    {
+      "id": "JxL9acL-SK4",
+      "title": "100 French Friend Talks | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-12-05T09:07:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JxL9acL-SK4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JxL9acL-SK4"
+    },
+    {
+      "id": "RTQGpZKwKoQ",
+      "title": "100 German Friend Talks | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-12-05T09:07:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RTQGpZKwKoQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RTQGpZKwKoQ"
+    },
+    {
+      "id": "UDqY1isGCvk",
+      "title": "100 Portugues Friend Talks | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2025-12-05T09:06:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UDqY1isGCvk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UDqY1isGCvk"
+    },
+    {
+      "id": "fRnd1XscFKU",
+      "title": "100 Chinese Friend Talks | Natural Listening | Must-Know | with Pinyin",
+      "description": "",
+      "publishedAt": "2025-12-05T09:06:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fRnd1XscFKU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fRnd1XscFKU"
+    },
     {
       "id": "FzjiVK73Mlw",
       "title": "100 Italian Pokémon Names | Natural Listening | Must-Know",
