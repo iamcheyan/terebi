@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2025-12-02T15:25:51.921099",
+  "updated_at": "2025-12-06T15:20:18.691495",
   "videos": [
+    {
+      "id": "9JFxP47k7nA",
+      "title": "【ゆ～ばら！】年末・大掃除の手間を楽しく!オススメお掃除グッズ!",
+      "description": "",
+      "publishedAt": "2025-12-06T09:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9JFxP47k7nA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9JFxP47k7nA"
+    },
     {
       "id": "vuuVSiVxfBU",
       "title": "【とべとべZOO】東大×とべ動物園で治療に光　ピースの持病・てんかんに挑む",

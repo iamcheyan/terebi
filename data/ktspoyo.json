@@ -1,8 +1,32 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2025-12-03T15:27:12.345974",
+  "updated_at": "2025-12-06T15:20:59.565714",
   "videos": [
+    {
+      "id": "wUBJrSAhNJg",
+      "title": "#507 　12月6日放送回　「保護犬と向き合う覚悟」",
+      "description": "",
+      "publishedAt": "2025-12-06T08:30:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wUBJrSAhNJg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wUBJrSAhNJg"
+    },
+    {
+      "id": "WoSLXUB778s",
+      "title": "河内あづきの鹿児島あっちこっち　12月6日（土）",
+      "description": "",
+      "publishedAt": "2025-12-06T08:25:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WoSLXUB778s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WoSLXUB778s"
+    },
     {
       "id": "YqxIRDrhmHw",
       "title": "かごんま未来ノート 第201回「アマモを再生し　未来の豊かな海をつくる　山川の海のゆりかごを守る会」",

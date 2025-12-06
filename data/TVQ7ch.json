@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2025-12-05T15:25:21.651993",
+  "updated_at": "2025-12-06T15:21:10.076511",
   "videos": [
+    {
+      "id": "SrILnRkMVSc",
+      "title": "12月13日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2025-12-06T12:00:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SrILnRkMVSc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SrILnRkMVSc"
+    },
+    {
+      "id": "AXnld30iuTY",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（12月13日（土）18:55～）",
+      "description": "",
+      "publishedAt": "2025-12-06T10:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AXnld30iuTY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AXnld30iuTY"
+    },
+    {
+      "id": "Xm8SzzfZRso",
+      "title": "卒業式に関する雑学（はてなのてん＃21）",
+      "description": "",
+      "publishedAt": "2025-12-06T09:35:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Xm8SzzfZRso/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Xm8SzzfZRso"
+    },
+    {
+      "id": "VA5L_sAby00",
+      "title": "【テレQ番宣】ぐっ！ジョブ（12月13日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2025-12-06T05:59:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VA5L_sAby00/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VA5L_sAby00"
+    },
     {
       "id": "WNajxAFQKGI",
       "title": "【テレQ番宣】ちょっと福岡行ってきました！（12月13日(土)20:00～）",

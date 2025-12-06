@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2025-12-05T15:24:58.786237",
+  "updated_at": "2025-12-06T15:20:42.767154",
   "videos": [
+    {
+      "id": "ISRGN0-9VCA",
+      "title": "あのじゅうよ〜 第177回",
+      "description": "",
+      "publishedAt": "2025-12-06T14:45:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ISRGN0-9VCA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ISRGN0-9VCA"
+    },
     {
       "id": "qRAjDXXo6FM",
       "title": "旧河西橋の一部 川に落下 和歌山市",
