@@ -1,8 +1,1196 @@
 {
   "channel_id": "UCiyk6cY1ux2HCDycnMTksdg",
-  "channel_name": "KYT鹿児島読売テレビ",
-  "updated_at": "2025-12-06T15:21:00.124546",
+  "channel_name": "鹿児島ニュース - KYT鹿児島読売テレビ",
+  "original_name": "KYT鹿児島読売テレビ",
+  "updated_at": "2025-12-07T15:22:13.310483",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TzbkAlq3pQGdMCTPTzmRsrdRX40",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLmdpMnFDNzdSUktF",
+      "snippet": {
+        "publishedAt": "2025-12-05T10:11:14Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "「かのやカンパチ」オーストラリアへ初輸出",
+        "description": "鹿屋市漁協のブランド「かのやカンパチ」が、環境配慮を評価されオーストラリアへ初輸出。MEL認証取得で安心品質をPRし、700ケース約5トンを出荷。年明けには現地でPR活動も予定し、販路拡大を目指します。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gi2qC77RRKE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gi2qC77RRKE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gi2qC77RRKE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gi2qC77RRKE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gi2qC77RRKE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gi2qC77RRKE"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HnVmDxVzvpuvghW4hcOvJ2EgqI0",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLk1GQUtWaDlRRGV3",
+      "snippet": {
+        "publishedAt": "2025-12-05T10:11:11Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "塩田知事「インバウンド影響残念」鹿児島―上海便　来月4往復欠航",
+        "description": "中国東方航空は来月、鹿児島―上海便の一部を欠航。対象は13日、17日、24日、27日の4往復。中国政府が日本渡航自粛を呼びかける中での対応。理由は不明で、県は航空会社と連絡を続け状況を注視。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MFAKVh9QDew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MFAKVh9QDew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MFAKVh9QDew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MFAKVh9QDew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MFAKVh9QDew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MFAKVh9QDew"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zK9bgT07UfcPlCV3bzVTE1yl62I",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLk5oM0ctcXBDX2h3",
+      "snippet": {
+        "publishedAt": "2025-12-05T10:11:09Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "インフル猛威　鹿児島で学校閉鎖相次ぐ　感染対策呼びかけ",
+        "description": "県内でインフルエンザ感染が急増し、流行発生注意報を発令中。先月30日までの1週間で1598人確認、前週比739人増。今週は幼稚園休園や小中学校など計38校で休校・学年閉鎖。県は基本的な感染対策を呼びかけています。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nh3G-qpC_hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nh3G-qpC_hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nh3G-qpC_hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nh3G-qpC_hw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nh3G-qpC_hw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Nh3G-qpC_hw"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t1utoKbPRsIK_Hc8pdam5LFext8",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLkVSRGxndXJWazFr",
+      "snippet": {
+        "publishedAt": "2025-12-05T10:11:06Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "保護者に感謝のネイル＆エステ　鹿児島城西高校で特別サロン",
+        "description": "鹿児島城西高校のトータルエステティック科3年生が「感謝のビューティサロン」を開催。保護者にネイルやハンドマッサージを施し、日頃の感謝を伝えました。生徒は資格試験に挑戦予定で、将来の夢に向けて技術を磨いています。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ERDlgurVk1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ERDlgurVk1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ERDlgurVk1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ERDlgurVk1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ERDlgurVk1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ERDlgurVk1k"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PQCiem_8sJUAN3nQaZmJtlyZORI",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLk9vZ3lJSWNMRlZB",
+      "snippet": {
+        "publishedAt": "2025-12-05T04:07:42Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "『理由は示さず』中国東方航空　鹿児島―上海便が1月4往復欠航へ　中国政府の渡航自粛呼びかけ背景か――",
+        "description": "高市総理の「台湾有事」に関する答弁をめぐり、中国政府が当面、日本への渡航を控えるよう呼びかける中、中国東方航空の鹿児島と上海を結ぶ国際定期便の一部が1月、欠航することが明らかになりました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/kyt/category/society/ky4e17cb12440e406d8d1c6a81e1ef4ffc\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OogyIIcLFVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OogyIIcLFVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OogyIIcLFVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OogyIIcLFVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OogyIIcLFVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OogyIIcLFVA"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iY7LQQjCke7L5HU2deaG3c7oMVo",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLkIyYXEtSVVTeE1Z",
+      "snippet": {
+        "publishedAt": "2025-12-05T02:52:13Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "理由は示さず』中国東方航空　鹿児島―上海便が1月4往復欠航へ　中国政府の渡航自粛呼びかけ背景か――",
+        "description": "中国政府が日本への渡航自粛を呼びかける中、中国東方航空は鹿児島―上海便の一部を来月欠航。対象は13日、17日、24日、27日の4往復。理由は不明で、県は航空会社と連絡を続け状況を注視。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B2aq-IUSxMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B2aq-IUSxMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B2aq-IUSxMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B2aq-IUSxMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B2aq-IUSxMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B2aq-IUSxMY"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j_wd5fCMubDoxxmlVQP3PmVpj60",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLkh4VzQxZ1BqTkdJ",
+      "snippet": {
+        "publishedAt": "2025-12-05T01:09:44Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "県内23地点で今季一番の冷え込み　4地点では氷点下を観測　紫尾山では雪",
+        "description": "冬型の気圧配置により県内ほとんどの地点で今シーズン一番の寒さとなり、4つの地点で氷点下、冬日となりました。5日も引き続き内陸部を中心に朝は冷え込みそうです。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/kyt/category/society/ky5f938355f8e1447589772dcfeb2850f2\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HxW41gPjNGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HxW41gPjNGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HxW41gPjNGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HxW41gPjNGI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HxW41gPjNGI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HxW41gPjNGI"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y0E-VIE9LZyTDLZsQ3ra0s2QE0U",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLlM5Uk8wN0JOTVFR",
+      "snippet": {
+        "publishedAt": "2025-12-03T02:55:18Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "曽於市で住宅と車庫全焼 火元は風呂場付近か",
+        "description": "2日夜、曽於市財部町北俣で住宅火災が発生。午後8時すぎ、住人の妻が「風呂場付近から火が出た」と通報。木造2階建て住宅と車庫、軽乗用車を全焼しましたが、ケガ人なし。まきで風呂を焚いていたとの情報があり、警察が原因を調査中。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S9RO07BNMQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S9RO07BNMQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S9RO07BNMQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S9RO07BNMQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S9RO07BNMQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 56,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S9RO07BNMQQ"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Inhsdp8je8iQJ7GVYHModytsURY",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLmhla3JYZ2JReElv",
+      "snippet": {
+        "publishedAt": "2025-12-02T09:47:56Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "鹿児島税関支署で年末特別警戒 密輸対策を強化",
+        "description": "鹿児島税関支署で年末特別警戒の出動式が行われ、職員18人が密輸対策を強化。不正薬物やテロ関連物資の取り締まりを徹底する方針。麻薬探知犬ニック号がデモで違法薬物を見事に嗅ぎ当て、国民の安心安全確保へ万全の態勢を強調しました。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hekrXgbQxIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hekrXgbQxIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hekrXgbQxIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hekrXgbQxIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hekrXgbQxIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 72,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hekrXgbQxIo"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jOinKAcml7WjOHRt4eo3tMyJr5s",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLlpGNTEwMHZERTlZ",
+      "snippet": {
+        "publishedAt": "2025-12-02T03:36:25Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "沖永良部島・知名町長選挙　 現職と新人が立候補　 投開票は12月7日",
+        "description": "任期満了に伴う、沖永良部島の知名町長選挙が2日告示され、これまでに新人と現職のあわせて2人が立候補しています。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/kyt/category/society/kyfac23baf95ad4042a15696d3d424ea95\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZF5100vDE9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZF5100vDE9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZF5100vDE9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZF5100vDE9Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZF5100vDE9Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 73,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZF5100vDE9Y"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_f3QSBbWjjXVlKbBEWhEOK2vmp8",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLi1MYnhYc3J0dmlj",
+      "snippet": {
+        "publishedAt": "2025-12-02T03:36:23Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "雌馬「未来」がデビュー　県無形民俗文化財「伊作流鏑馬」が奉納　400年以上続く伝統行事　日置市大汝牟遅神社",
+        "description": "日置市の神社で県の無形民俗文化財「伊作流鏑馬」が奉納されました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/kyt/category/society/ky90a4287a5ebb49c4a1d54a301c2a9e45\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-LbxXsrtvic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-LbxXsrtvic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-LbxXsrtvic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-LbxXsrtvic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-LbxXsrtvic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 74,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-LbxXsrtvic"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q_SQ858CTTiBUU0vXXEbevQvYYQ",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLnNDSnJjd3FxSF9Z",
+      "snippet": {
+        "publishedAt": "2025-12-02T03:06:58Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "知名町長選挙告示 新人と現職の一騎打ち 投票は12月7日",
+        "description": "沖永良部島・知名町長選挙がきょう告示され、新人の竹林植元氏（75）と現職の今井力夫氏（68）が立候補。いずれも無所属で、受付は午後5時まで。投開票は12月7日に行われます。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sCJrcwqqH_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sCJrcwqqH_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sCJrcwqqH_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sCJrcwqqH_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sCJrcwqqH_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 75,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sCJrcwqqH_Y"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cch9CvJaP7OdXWHrwjiaVoCG9g8",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLm5FdmI1b1V6am1F",
+      "snippet": {
+        "publishedAt": "2025-12-02T03:06:55Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "県無形民俗文化財『伊作流鏑馬』 新馬『未来』が初舞台",
+        "description": "日置市の大汝牟遅神社で県無形民俗文化財「伊作流鏑馬」が奉納。400年以上続く伝統行事で、9年ぶりに新しい馬「未来」がデビュー。沿道には多くの見物客が集まり、射手の矢が的に当たると歓声が上がりました。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓1\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nEvb5oUzjmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nEvb5oUzjmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nEvb5oUzjmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nEvb5oUzjmE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nEvb5oUzjmE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 76,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nEvb5oUzjmE"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m4tZ3kgLiHjFwU_rcHABEJAV_gU",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLlM1NHkzVVZVYTc0",
+      "snippet": {
+        "publishedAt": "2025-12-01T10:06:55Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "田子ノ浦部屋が出水市で合宿 子どもたちと交流イベントも",
+        "description": "出水市で田子ノ浦親方と弟子たちが子どもたちと交流するイベントを開催。綱引きや押し相撲で力士に挑戦し、勝った子どもたちは大喜び。特製ちゃんこ鍋も振る舞われ、親方は「地元を活性化し、将来弟子入りする子が出ればうれしい」と語りました。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S54y3UVUa74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S54y3UVUa74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S54y3UVUa74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S54y3UVUa74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S54y3UVUa74/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 92,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S54y3UVUa74"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qdLfT1nJJeznVyL6H9uv2cT6MWk",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLlozT2dZMTRZaXZJ",
+      "snippet": {
+        "publishedAt": "2025-12-01T10:06:52Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "神村学園が首位撃破！劇的3-2勝利でプレミア連勝",
+        "description": "高校サッカー・プレミアリーグWESTで神村学園が首位サガン鳥栖U-18に3-2で劇的勝利。細山田の先制、大空の決勝弾で連勝。守護神寺田がPKをセーブ、日髙もPK得点。U-17W杯帰りの竹野が復帰し「クロスやドリブルを発揮したい」と意気込み。次戦は14日ホームで岡山U-18。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z3OgY14YivI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z3OgY14YivI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z3OgY14YivI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z3OgY14YivI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z3OgY14YivI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 93,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z3OgY14YivI"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zy0xgqEHyg98UWNFfwiS6n2u5Ns",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLkhGSDhxOHlZbHVR",
+      "snippet": {
+        "publishedAt": "2025-12-01T03:10:27Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "【16年ぶり選挙】大崎町長選で新人中野伸一氏が勝利　投票率は67.28％",
+        "description": "任期満了に伴う大崎町長選挙は、30日、開票が行われ、新人の元・町の企画調整課長、中野 伸一さんが初当選を果たしました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/kyt/category/society/ky480185f1d46d4b69a9870ae4fd89a7a6\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HFH8q8yYluQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HFH8q8yYluQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HFH8q8yYluQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HFH8q8yYluQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HFH8q8yYluQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 94,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HFH8q8yYluQ"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ct6QDU_mHuyXMKs6q9YRmhoG2sg",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLmFFOHNxZFVheVZB",
+      "snippet": {
+        "publishedAt": "2025-12-01T03:10:24Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "「まちを育て発展させたい」県議補選 志布志市・曽於郡区 久井仁貴氏(35)が初当選",
+        "description": "議員の辞職に伴う県議会議員の志布志市・曽於郡区の補欠選挙は、新人2人が立候補していました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/kyt/category/society/kyf4beeb6b90b945028346796a057e98c9\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aE8sqdUayVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aE8sqdUayVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aE8sqdUayVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aE8sqdUayVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aE8sqdUayVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 95,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aE8sqdUayVA"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0SRs7wtrURLM3wWtNR3pSQdzinU",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLlZNM3NnZ25iUVow",
+      "snippet": {
+        "publishedAt": "2025-12-01T02:54:10Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "久井仁貴氏が県議会へ 志布志市・曽於郡区補選",
+        "description": "県議会議員の志布志市・曽於郡区補欠選挙で、元志布志市議の久井仁貴氏（35）が8577票を獲得し初当選。南利尋氏（61）は5903票。久井氏は「志布志市と大崎町の声を届け、まちを発展させたい」と抱負。投票率は45.45％。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓1\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VM3sggnbQZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VM3sggnbQZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VM3sggnbQZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VM3sggnbQZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VM3sggnbQZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 96,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VM3sggnbQZ0"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BKPXil7uTeRefryK7uN0obG0dBg",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLkR0RDhnOXRWcXlB",
+      "snippet": {
+        "publishedAt": "2025-12-01T02:54:07Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "大崎町長選挙16年ぶりの選挙戦 中野伸一氏が初当選",
+        "description": "任期満了に伴う大崎町長選挙は16年ぶりの選挙戦となり、新人で元町企画調整課長の中野伸一氏（58）が3026票で初当選。西高悟氏は2355票、草原正和氏780票、高谷秀男氏279票。投票率は67.28％で前回を6.41ポイント上回りました。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DtD8g9tVqyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DtD8g9tVqyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DtD8g9tVqyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DtD8g9tVqyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DtD8g9tVqyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 97,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DtD8g9tVqyA"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7R1MHriaGqnd1OoytOOpemWAFvI",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLmFHdUhlaEEtbS1B",
+      "snippet": {
+        "publishedAt": "2025-11-28T02:54:00Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "イースター航空　鹿児島－ソウル線を約5年半ぶり再開",
+        "description": "韓国のイースター航空が鹿児島－ソウル線の定期便を約5年半ぶりに再開。新型コロナで2020年から運休していたが、毎日1往復運航。大韓航空、チェジュ航空と合わせ3社体制で毎日3往復に。韓国では鹿児島の自然やゴルフ場が人気。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aGuHehA-m-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aGuHehA-m-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aGuHehA-m-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aGuHehA-m-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aGuHehA-m-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 116,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aGuHehA-m-A"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Dnr7htW_CRl4ozeB0UctgYMjNr0",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLm5GQnIxM2ktTEFF",
+      "snippet": {
+        "publishedAt": "2025-11-28T01:03:50Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "1等・前後賞計10億円が当たる「年末ジャンボ宝くじ」　宝くじ幸運アンバサダーがPR　塩田知事も購入",
+        "description": "1等と前後賞計10億円が当たる「年末ジャンボ宝くじ」。全国で販売が始まっています。27日は、宝くじ幸運アンバサダーが県庁を訪れ宝くじをPR。塩田知事も夢を買い求めました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/kyt/category/society/ky2f38cf1d7e8949e1a40a82a73f280692\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nFBr13i-LAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nFBr13i-LAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nFBr13i-LAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nFBr13i-LAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nFBr13i-LAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 117,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nFBr13i-LAE"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UModLFehXOb5M8B7xbIp32AgoW0",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLkpFMXlOOHBZeGI4",
+      "snippet": {
+        "publishedAt": "2025-11-27T03:35:32Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "「危なさ怖さが身に染みた！」鹿児島市で高齢者38人が交通安全教室　“無事に帰るまでが運転”",
+        "description": "鹿児島市の自動車学校で、高齢者を対象とした交通安全教室が開かれました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/kyt/category/society/kya5e087645b6946f8a9e8e3f1a7dc7dbd\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JE1yN8pYxb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JE1yN8pYxb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JE1yN8pYxb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JE1yN8pYxb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JE1yN8pYxb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 133,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JE1yN8pYxb8"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YT5j1g9RivocSCCxH8KHtg1rdkA",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLnRWMk5uYUNjU1ow",
+      "snippet": {
+        "publishedAt": "2025-11-27T03:35:29Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "桜島で今年160回目の爆発　霧島市方向に降灰　大きな噴石も",
+        "description": "27日未明、桜島が爆発し、噴煙が火口から3000メートルの高さまで上がりました。\n\nこの動画の記事を読む＞\nhttps://news.ntv.co.jp/n/kyt/category/society/ky600a570889d14e6a9e6fa5c43a189b63\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tV2NnaCcSZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tV2NnaCcSZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tV2NnaCcSZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tV2NnaCcSZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tV2NnaCcSZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 134,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tV2NnaCcSZ0"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wfACJPdWZjt_EzXGSylHVAvYESE",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLlpram8yNUJDSVhz",
+      "snippet": {
+        "publishedAt": "2025-11-27T03:02:04Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "桜島今年160回目の爆発　噴煙3000メートルに達する",
+        "description": "桜島で午前2時23分に爆発が発生し、噴煙は火口から3000メートルに達しました。噴石は火口から最大500メートル飛散。霧島市福山方向に降灰の恐れ。噴火警戒レベルは3で、火口から約2キロ範囲で噴石・火砕流に警戒が必要です。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓1\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zkjo25BCIXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zkjo25BCIXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zkjo25BCIXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zkjo25BCIXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zkjo25BCIXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 135,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zkjo25BCIXs"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7Zbje48BVD6bo7FusO_ME5jRZqg",
+      "id": "VVVpeWs2Y1kxdXgySENEeWNuTVRrc2RnLlBBUWJRc09vZkJj",
+      "snippet": {
+        "publishedAt": "2025-11-27T03:02:01Z",
+        "channelId": "UCiyk6cY1ux2HCDycnMTksdg",
+        "title": "鹿児島市で高齢者交通安全教室　死角の危険を体験",
+        "description": "鹿児島市の田上自動車学校で高齢者向け交通安全教室を開催。89歳までの38人が参加し、死角からバイクが飛び出す実習で安全確認の重要性を学習。県内の免許保持者の約3割が65歳以上で、事故防止へ意識向上を呼びかけています。\n\n【チャンネル登録お願いします！】\nKYT鹿児島読売テレビの公式チャンネル↓\nhttps://www.youtube.com/@KagoshimaNEWS_KYT\n鹿児島県内のニュース、スポーツなど様々な情報を\n発信しています！　\n\n#鹿児島　#ニュース　#KYT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PAQbQsOofBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PAQbQsOofBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PAQbQsOofBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PAQbQsOofBc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PAQbQsOofBc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "playlistId": "UUiyk6cY1ux2HCDycnMTksdg",
+        "position": 136,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PAQbQsOofBc"
+        },
+        "videoOwnerChannelTitle": "鹿児島ニュース - KYT鹿児島読売テレビ",
+        "videoOwnerChannelId": "UCiyk6cY1ux2HCDycnMTksdg"
+      }
+    },
+    {
+      "id": "d1gCCItOG38",
+      "title": "鹿児島で初開催　子どもの権利条約フォーラム2025",
+      "description": "",
+      "publishedAt": "2025-12-07T11:03:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d1gCCItOG38/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d1gCCItOG38"
+    },
     {
       "id": "0xGd5lUDANg",
       "title": "特集「かごしる！」鹿児島のラーメン文化 “ダイコンの漬物”に秘めたこだわり　時代の変化も…",
