@@ -1,8 +1,32 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2025-12-07T15:19:58.047685",
+  "updated_at": "2025-12-08T15:26:24.363098",
   "videos": [
+    {
+      "id": "YN0RrGinxlk",
+      "title": "マチコミ おでかけしまSHOW　「中山道御宿場印巡り ＃３上尾宿」",
+      "description": "",
+      "publishedAt": "2025-12-08T09:57:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YN0RrGinxlk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YN0RrGinxlk"
+    },
+    {
+      "id": "E8TaUthrSik",
+      "title": "2025「田んぼアート」in行田",
+      "description": "",
+      "publishedAt": "2025-12-08T09:55:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E8TaUthrSik/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E8TaUthrSik"
+    },
     {
       "id": "OXeEaG6L_2s",
       "title": "【あなたのじまんはなんですか？】ダイドードリンコアイスアリーナ編",

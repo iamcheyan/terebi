@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2025-12-07T15:19:49.186041",
+  "updated_at": "2025-12-08T15:26:49.116821",
   "videos": [
+    {
+      "id": "Kc-JsWl8hHs",
+      "title": "Huskers Stay Unbeaten with Blow Out Win Over Creighton",
+      "description": "",
+      "publishedAt": "2025-12-08T03:04:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kc-JsWl8hHs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kc-JsWl8hHs"
+    },
+    {
+      "id": "JHnfaA_fm6k",
+      "title": "Nebraska to Meet Utah in Las Vegas Bowl on New Years Eve",
+      "description": "",
+      "publishedAt": "2025-12-08T03:02:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JHnfaA_fm6k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JHnfaA_fm6k"
+    },
     {
       "id": "wJ3T1xYS9sU",
       "title": "Nebraska Sweeps Kansas State to Reach 14th Straight NCAA Regional",

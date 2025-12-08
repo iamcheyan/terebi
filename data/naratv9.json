@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-12-03T15:26:40.045188",
+  "updated_at": "2025-12-08T15:26:26.190271",
   "videos": [
+    {
+      "id": "iFLfFlQBsK0",
+      "title": "トラーチ「太陽光発電・蓄電池の魅力について」【ドキッ！と情報】",
+      "description": "",
+      "publishedAt": "2025-12-08T09:56:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iFLfFlQBsK0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iFLfFlQBsK0"
+    },
+    {
+      "id": "W66ixrgHHgc",
+      "title": "奈良市「住宅向け太陽光発電施設・蓄電池導入補助金について」【ドキッ！と情報】",
+      "description": "",
+      "publishedAt": "2025-12-08T09:53:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W66ixrgHHgc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W66ixrgHHgc"
+    },
     {
       "id": "7l-87TJySWQ",
       "title": "【11月28日（金）放送】いきいきまちだより",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2025-12-04T15:27:21.134413",
+  "updated_at": "2025-12-08T15:26:15.109788",
   "videos": [
+    {
+      "id": "11ZzsoIGSHM",
+      "title": "【プラス1ダイジェスト】12/8(月) のニュース",
+      "description": "",
+      "publishedAt": "2025-12-08T09:57:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/11ZzsoIGSHM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=11ZzsoIGSHM"
+    },
+    {
+      "id": "dBDdIytJ9_g",
+      "title": "【プラス1ダイジェスト】12/5(金) のニュース",
+      "description": "",
+      "publishedAt": "2025-12-08T09:54:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dBDdIytJ9_g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dBDdIytJ9_g"
+    },
+    {
+      "id": "19Mt8b5dyBY",
+      "title": "一躍脚光！忠犬立ハチ高（テレビ岩手ニュースプラス1 2025/12/5OA）",
+      "description": "",
+      "publishedAt": "2025-12-08T06:19:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/19Mt8b5dyBY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=19Mt8b5dyBY"
+    },
     {
       "id": "sv-QRyNe56U",
       "title": "【プラス1ダイジェスト】12/4(木) のニュース",
