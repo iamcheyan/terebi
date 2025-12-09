@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-12-08T15:27:17.065518",
+  "updated_at": "2025-12-09T15:28:15.509988",
   "videos": [
+    {
+      "id": "I39PkbG9j1Q",
+      "title": "251209 153618 兼近第１踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2025-12-09T09:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I39PkbG9j1Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I39PkbG9j1Q"
+    },
+    {
+      "id": "uwBME075-HQ",
+      "title": "251209 153246 兼近第１踏切 ２",
+      "description": "",
+      "publishedAt": "2025-12-09T09:30:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uwBME075-HQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uwBME075-HQ"
+    },
+    {
+      "id": "kJ0kLXt5OU0",
+      "title": "251209 152821 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2025-12-09T09:05:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kJ0kLXt5OU0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kJ0kLXt5OU0"
+    },
     {
       "id": "-iM4TXCiqNg",
       "title": "251208 114813 深田第２踏切",

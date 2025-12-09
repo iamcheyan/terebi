@@ -1,8 +1,44 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2025-12-08T15:27:08.493557",
+  "updated_at": "2025-12-09T15:28:07.073479",
   "videos": [
+    {
+      "id": "WDzzc2TbIEg",
+      "title": "【公式】「斉木駿介の1minute」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2025-12-09T03:00:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WDzzc2TbIEg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WDzzc2TbIEg"
+    },
+    {
+      "id": "GS0-4z9ed6o",
+      "title": "【公式】「斉木駿介／美術家」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2025-12-09T03:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GS0-4z9ed6o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GS0-4z9ed6o"
+    },
+    {
+      "id": "50HMG_KsMAc",
+      "title": "【公式】「匠の蔵～HISTORY OF MEISTER～ 」福島善三（5） | TNCテレビ西日本",
+      "description": "",
+      "publishedAt": "2025-12-09T03:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/50HMG_KsMAc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=50HMG_KsMAc"
+    },
     {
       "id": "QQQJ3W4QfMM",
       "title": "【公式】「うどん体操第3」投稿動画 第1弾｜テレビ西日本",
