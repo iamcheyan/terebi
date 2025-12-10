@@ -1,8 +1,140 @@
 {
   "channel_id": "UCYwPpbi6PqfY1KJbg4H6xwA",
   "channel_name": "群馬テレビ",
-  "updated_at": "2025-12-09T15:28:16.775126",
+  "updated_at": "2025-12-10T15:28:17.705694",
   "videos": [
+    {
+      "id": "qy4cZ9WF7R4",
+      "title": "【１２／１０】群馬のニュースをまとめてお伝えします▽妙義山の火災 鎮圧を発表　延焼の恐れなくなる　約３０万㎡を焼く　群馬・富岡市　ほか",
+      "description": "",
+      "publishedAt": "2025-12-10T10:47:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qy4cZ9WF7R4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qy4cZ9WF7R4"
+    },
+    {
+      "id": "IMxzD85NQa0",
+      "title": "手作りイルミネーション　点灯式に１５００人　群馬・太田市尾島庁舎(25/12/10)",
+      "description": "",
+      "publishedAt": "2025-12-10T10:30:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IMxzD85NQa0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IMxzD85NQa0"
+    },
+    {
+      "id": "9pAIfLq-sPE",
+      "title": "農業振興へ　若い担い手が活動や成果発表　群馬・前橋市(25/12/10)",
+      "description": "",
+      "publishedAt": "2025-12-10T10:25:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9pAIfLq-sPE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9pAIfLq-sPE"
+    },
+    {
+      "id": "f09Khta27FE",
+      "title": "冬の食卓飾るダイコンの収穫体験　群馬・沼田市(25/12/10)",
+      "description": "",
+      "publishedAt": "2025-12-10T10:22:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/f09Khta27FE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=f09Khta27FE"
+    },
+    {
+      "id": "rOwM6pY7AYc",
+      "title": "テキスタイルの理解へ　サテライト研究室を開設　群馬・伊勢崎市(25/12/10)",
+      "description": "",
+      "publishedAt": "2025-12-10T10:20:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rOwM6pY7AYc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rOwM6pY7AYc"
+    },
+    {
+      "id": "7jv4Pjb1g_Y",
+      "title": "「弁当の日」　中学生が自らお弁当づくり　群馬・高崎市(25/12/10)",
+      "description": "",
+      "publishedAt": "2025-12-10T10:19:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7jv4Pjb1g_Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7jv4Pjb1g_Y"
+    },
+    {
+      "id": "SNT1JPg1ME8",
+      "title": "ガソリン値下がり続く　群馬県内平均は１６０円７０銭(25/12/10)",
+      "description": "",
+      "publishedAt": "2025-12-10T10:16:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SNT1JPg1ME8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SNT1JPg1ME8"
+    },
+    {
+      "id": "2d5oSkdF3Dk",
+      "title": "受験シーズン到来！受験生にエールを　早稲田ゼミ 佐藤 誉さん(25/12/10)",
+      "description": "",
+      "publishedAt": "2025-12-10T10:15:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2d5oSkdF3Dk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2d5oSkdF3Dk"
+    },
+    {
+      "id": "Ss3rsfgDCv4",
+      "title": "妙義山の火災 鎮圧を発表　延焼の恐れなくなる　約３０万㎡を焼く　群馬・富岡市(25/12/10)",
+      "description": "",
+      "publishedAt": "2025-12-10T10:04:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ss3rsfgDCv4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ss3rsfgDCv4"
+    },
+    {
+      "id": "sK1eeEArfFI",
+      "title": "【つながる３５市町村】みどり市から生中継！わたらせ渓谷鐵道のイルミネーション(25/12/9)",
+      "description": "",
+      "publishedAt": "2025-12-10T02:16:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sK1eeEArfFI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sK1eeEArfFI"
+    },
+    {
+      "id": "sVoLHHAdl4U",
+      "title": "【がるスポ】オートレーサーＳ級ランキング１位　青山周平選手＝伊勢崎所属＝(25/12/8)",
+      "description": "",
+      "publishedAt": "2025-12-10T02:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sVoLHHAdl4U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sVoLHHAdl4U"
+    },
     {
       "id": "gkXzgAAilmM",
       "title": "【１２／９】群馬のニュースをまとめてお伝えします▽妙義山の火災　鎮火せず　１０日も消火活動続く　群馬・富岡市　ほか",

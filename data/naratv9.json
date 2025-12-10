@@ -1,8 +1,44 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-12-08T15:26:26.190271",
+  "updated_at": "2025-12-10T15:27:54.018294",
   "videos": [
+    {
+      "id": "0r7bBc1NMdI",
+      "title": "【30秒番宣】生中継！第890回　春日若宮おん祭",
+      "description": "",
+      "publishedAt": "2025-12-10T10:38:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0r7bBc1NMdI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0r7bBc1NMdI"
+    },
+    {
+      "id": "b6wlldiZmFk",
+      "title": "【12月5日（金）放送】いきいきまちだより",
+      "description": "",
+      "publishedAt": "2025-12-10T03:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b6wlldiZmFk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b6wlldiZmFk"
+    },
+    {
+      "id": "iARj8_zlNlE",
+      "title": "【生中継】第890回　春日若宮おん祭",
+      "description": "",
+      "publishedAt": "2025-12-10T02:29:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iARj8_zlNlE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iARj8_zlNlE"
+    },
     {
       "id": "iFLfFlQBsK0",
       "title": "トラーチ「太陽光発電・蓄電池の魅力について」【ドキッ！と情報】",

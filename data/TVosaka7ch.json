@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-12-07T15:19:35.875729",
+  "updated_at": "2025-12-10T15:27:49.986269",
   "videos": [
+    {
+      "id": "F1reNaY7MJU",
+      "title": "【検証】アナウンサーならどんな要求にも確実に応えて原稿読めるはず！",
+      "description": "",
+      "publishedAt": "2025-12-10T09:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F1reNaY7MJU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F1reNaY7MJU"
+    },
     {
       "id": "wSl27R6Ba5g",
       "title": "食遺産File.226「ブロッコリーの肉アパッツァ」＠和歌山県・和歌山市",

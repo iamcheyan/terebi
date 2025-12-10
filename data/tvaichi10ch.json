@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2025-12-09T15:27:49.481829",
+  "updated_at": "2025-12-10T15:27:45.071196",
   "videos": [
+    {
+      "id": "Hxy_CbTKxBI",
+      "title": "【LBS】ヤマトが島の課題解決へ",
+      "description": "",
+      "publishedAt": "2025-12-10T12:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hxy_CbTKxBI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hxy_CbTKxBI"
+    },
     {
       "id": "mARR-S4IWsA",
       "title": "【テクノホライゾン】X線検査装置TI-Xシリーズを紹介【開発現場へ行こう #43】",

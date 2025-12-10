@@ -1,8 +1,32 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2025-12-03T15:27:06.631365",
+  "updated_at": "2025-12-10T15:28:00.663552",
   "videos": [
+    {
+      "id": "W-qi_K-znl8",
+      "title": "おゆらじ  #37.5【番外編】フォエバー",
+      "description": "",
+      "publishedAt": "2025-12-10T08:00:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W-qi_K-znl8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W-qi_K-znl8"
+    },
+    {
+      "id": "1s5zycJ2RKs",
+      "title": "#37【本編】さんぽできないさんぽ",
+      "description": "",
+      "publishedAt": "2025-12-10T07:51:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1s5zycJ2RKs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1s5zycJ2RKs"
+    },
     {
       "id": "FU4lrwwlmQA",
       "title": "#おまらじ【番外編】秘密のポーズ",

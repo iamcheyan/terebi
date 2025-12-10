@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2025-12-06T15:21:01.072233",
+  "updated_at": "2025-12-10T15:28:04.600789",
   "videos": [
+    {
+      "id": "SGXdyUE8qVQ",
+      "title": "【GO!GO! CookingZX】そば！パート２",
+      "description": "",
+      "publishedAt": "2025-12-10T05:38:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SGXdyUE8qVQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SGXdyUE8qVQ"
+    },
     {
       "id": "SymOTXUtfTM",
       "title": "「アフタートーク」放課後の☆ドッキング",
