@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-12-10T15:27:54.018294",
+  "updated_at": "2025-12-11T15:27:44.037415",
   "videos": [
+    {
+      "id": "cvmt4I4vikE",
+      "title": "奈良テレビ放送サブチャンネルの見方",
+      "description": "",
+      "publishedAt": "2025-12-11T02:15:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cvmt4I4vikE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cvmt4I4vikE"
+    },
     {
       "id": "0r7bBc1NMdI",
       "title": "【30秒番宣】生中継！第890回　春日若宮おん祭",

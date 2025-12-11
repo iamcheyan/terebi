@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-12-10T15:28:10.256127",
+  "updated_at": "2025-12-11T15:28:09.478100",
   "videos": [
+    {
+      "id": "u1XhQBij6ys",
+      "title": "今日の５きげんテレビ（12月12日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-12-11T15:01:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u1XhQBij6ys/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u1XhQBij6ys"
+    },
+    {
+      "id": "HPiXcIccG2U",
+      "title": "5きげん知恵袋 ～イチゴ&ミカン～",
+      "description": "",
+      "publishedAt": "2025-12-11T09:05:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HPiXcIccG2U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HPiXcIccG2U"
+    },
+    {
+      "id": "Q8akMaPXx7Y",
+      "title": "５きげんクッキング ～タラの大根なます和え～",
+      "description": "",
+      "publishedAt": "2025-12-11T09:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q8akMaPXx7Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q8akMaPXx7Y"
+    },
     {
       "id": "lEIfFkzM1hE",
       "title": "今日の５きげんテレビ（12月11日）｜テレビ岩手",

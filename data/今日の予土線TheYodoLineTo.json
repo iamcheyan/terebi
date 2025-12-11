@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-12-10T15:28:16.716974",
+  "updated_at": "2025-12-11T15:28:15.747098",
   "videos": [
+    {
+      "id": "npQsqRWC2wQ",
+      "title": "251211 115019 一足早いクリスマス飾りつけ（伊予宮野下駅）",
+      "description": "",
+      "publishedAt": "2025-12-11T10:49:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/npQsqRWC2wQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=npQsqRWC2wQ"
+    },
+    {
+      "id": "p7dGGGa3Tps",
+      "title": "251211 114452 新幹線行き違い（伊予宮野下駅）",
+      "description": "",
+      "publishedAt": "2025-12-11T10:48:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p7dGGGa3Tps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p7dGGGa3Tps"
+    },
     {
       "id": "rqQx44VeOtw",
       "title": "251210 135122 垣内踏切（かっぱ列車通過）",

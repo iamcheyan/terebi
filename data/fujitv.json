@@ -1,8 +1,152 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2025-12-10T15:27:41.832331",
+  "updated_at": "2025-12-11T15:27:57.242395",
   "videos": [
+    {
+      "id": "Go9QxHLSJQY",
+      "title": "【予告】最終回『小さい頃は、神様がいて』12月18日(木)よる10時放送「寒波だよ、全員集合！」",
+      "description": "",
+      "publishedAt": "2025-12-11T13:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Go9QxHLSJQY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Go9QxHLSJQY"
+    },
+    {
+      "id": "0Q3N0dL7gFs",
+      "title": "【この世界は1ダフル】今年活躍しまくった有名人のヒミツ大連発SP！",
+      "description": "",
+      "publishedAt": "2025-12-11T13:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0Q3N0dL7gFs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0Q3N0dL7gFs"
+    },
+    {
+      "id": "gt7NCnhRIpw",
+      "title": "10月期火9ドラマ『新東京水上警察』空回り",
+      "description": "",
+      "publishedAt": "2025-12-11T08:01:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gt7NCnhRIpw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gt7NCnhRIpw"
+    },
+    {
+      "id": "e-iMNI2oB9U",
+      "title": "10月期火9ドラマ『新東京水上警察』礼子キレる",
+      "description": "",
+      "publishedAt": "2025-12-11T08:01:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e-iMNI2oB9U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e-iMNI2oB9U"
+    },
+    {
+      "id": "cPBB5eDhL_U",
+      "title": "10月期火9ドラマ『新東京水上警察』海技職員としての矜持",
+      "description": "",
+      "publishedAt": "2025-12-11T08:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cPBB5eDhL_U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cPBB5eDhL_U"
+    },
+    {
+      "id": "Tn_1JWsmGKE",
+      "title": "10月期火9ドラマ『新東京水上警察』豚汁無料券",
+      "description": "",
+      "publishedAt": "2025-12-11T08:00:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Tn_1JWsmGKE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Tn_1JWsmGKE"
+    },
+    {
+      "id": "JavXXIkJhNE",
+      "title": "10月期火9ドラマ『新東京水上警察』台風さん",
+      "description": "",
+      "publishedAt": "2025-12-11T08:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JavXXIkJhNE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JavXXIkJhNE"
+    },
+    {
+      "id": "IZqkcb7LuXM",
+      "title": "10月期火9ドラマ『新東京水上警察』経費で落ちますか",
+      "description": "",
+      "publishedAt": "2025-12-11T08:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IZqkcb7LuXM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IZqkcb7LuXM"
+    },
+    {
+      "id": "6Fx-UX0CP5c",
+      "title": "10月期火9ドラマ『新東京水上警察』日下部と三上",
+      "description": "",
+      "publishedAt": "2025-12-11T08:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6Fx-UX0CP5c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6Fx-UX0CP5c"
+    },
+    {
+      "id": "R0svwYocwOs",
+      "title": "1月新水10ドラマ『ラムネモンキー』2026年1月14日スタート",
+      "description": "",
+      "publishedAt": "2025-12-11T05:26:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R0svwYocwOs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R0svwYocwOs"
+    },
+    {
+      "id": "pNXAnrqDgtw",
+      "title": "「プロフェッショナル　保険調査員・天音蓮」15秒ティザー解禁！！",
+      "description": "",
+      "publishedAt": "2025-12-10T23:01:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pNXAnrqDgtw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pNXAnrqDgtw"
+    },
+    {
+      "id": "2nXapWrq8rw",
+      "title": "「プロフェッショナル　保険調査員・天音蓮」30秒ティザー解禁！！",
+      "description": "",
+      "publishedAt": "2025-12-10T23:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2nXapWrq8rw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2nXapWrq8rw"
+    },
     {
       "id": "QBLSS1wi_QI",
       "title": "10月水10ドラマ『もしもこの世が舞台なら、楽屋はどこにあるのだろう』最終回12/17(水)60秒予告",

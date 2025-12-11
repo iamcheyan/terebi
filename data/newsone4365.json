@@ -1,8 +1,32 @@
 {
   "channel_id": "UCbscuGVoILLewd22RFnHpOw",
   "channel_name": "東海テレビ",
-  "updated_at": "2025-12-07T15:20:46.270910",
+  "updated_at": "2025-12-11T15:28:16.844621",
   "videos": [
+    {
+      "id": "9VZBtP1PAnY",
+      "title": "高校生応援番組『青春ＲＥＣ～今だけの１シーン～』2025年12月16日（火）24時15分放送",
+      "description": "",
+      "publishedAt": "2025-12-11T03:21:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9VZBtP1PAnY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9VZBtP1PAnY"
+    },
+    {
+      "id": "aCG_1XXBxDM",
+      "title": "Ｆｕｔｕｒｅ Ｒｏａｄ　～愛知から世界へ！夢追うジュニアアスリート～　2025年12月10日放送",
+      "description": "",
+      "publishedAt": "2025-12-11T01:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aCG_1XXBxDM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aCG_1XXBxDM"
+    },
     {
       "id": "NtU6mI6tv70",
       "title": "ＷＡＹＳ～医療の道を拓くひと～2025年12月7日放送",

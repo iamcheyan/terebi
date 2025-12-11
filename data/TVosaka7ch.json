@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-12-10T15:27:49.986269",
+  "updated_at": "2025-12-11T15:27:56.756177",
   "videos": [
+    {
+      "id": "FRT1k3ptZ_c",
+      "title": "【テレビ大阪】12月13日(土)夜6時58分　冬の味覚対決カニVSふぐ＆レトロ洋食「誰も知らんキング」",
+      "description": "",
+      "publishedAt": "2025-12-11T05:12:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FRT1k3ptZ_c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FRT1k3ptZ_c"
+    },
     {
       "id": "F1reNaY7MJU",
       "title": "【検証】アナウンサーならどんな要求にも確実に応えて原稿読めるはず！",

@@ -1,9 +1,128 @@
 {
   "channel_id": "UC1wYVW1ckPFokkVJMkZfZUw",
-  "channel_name": "UC1wYVW1ckPFokkVJMkZfZUw",
-  "original_name": "FBC福井放送",
-  "updated_at": "2025-11-14T15:22:59.008394",
+  "channel_name": "FBC福井放送",
+  "updated_at": "2025-12-11T15:27:59.408308",
   "videos": [
+    {
+      "id": "mZh5aq90VSU",
+      "title": "Quem Sabe Onde Está Jimmy Hoffa? (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:05:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mZh5aq90VSU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mZh5aq90VSU"
+    },
+    {
+      "id": "LxlJUDW6vSk",
+      "title": "Estamos Te Vendo (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:04:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LxlJUDW6vSk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LxlJUDW6vSk"
+    },
+    {
+      "id": "GTvBJ56M0qg",
+      "title": "A Voz da Revolução (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:04:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GTvBJ56M0qg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GTvBJ56M0qg"
+    },
+    {
+      "id": "oFgnWBcsUNs",
+      "title": "Qual o Som da Sua Arma? (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:03:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oFgnWBcsUNs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oFgnWBcsUNs"
+    },
+    {
+      "id": "pUD0b2jeVd8",
+      "title": "Roubo a Banco (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:03:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pUD0b2jeVd8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pUD0b2jeVd8"
+    },
+    {
+      "id": "I8G-QOM1l5o",
+      "title": "Me Diga Quem Ganha (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:02:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I8G-QOM1l5o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I8G-QOM1l5o"
+    },
+    {
+      "id": "a9C3WJXx0UY",
+      "title": "Cabana Terminal (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:02:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a9C3WJXx0UY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a9C3WJXx0UY"
+    },
+    {
+      "id": "Xj0Aq0NstWw",
+      "title": "A Cosmologia Corporativista do Senhor Arthur Jansen (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:02:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Xj0Aq0NstWw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Xj0Aq0NstWw"
+    },
+    {
+      "id": "wMDCar2zfrM",
+      "title": "Assaltos e Batidas (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:02:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wMDCar2zfrM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wMDCar2zfrM"
+    },
+    {
+      "id": "1165OiqV0hQ",
+      "title": "Você pra Mim É Lucro (Ao Vivo)",
+      "description": "",
+      "publishedAt": "2025-12-11T10:02:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1165OiqV0hQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1165OiqV0hQ"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "QGbERdcIb6oLyw57Gs1XyMcLEuw",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2025-12-09T15:28:11.109911",
+  "updated_at": "2025-12-11T15:28:11.571387",
   "videos": [
+    {
+      "id": "Sk3R9pazYCk",
+      "title": "長年お世話になりました　～山形の老舗デパート 173年の歴史に幕～",
+      "description": "",
+      "publishedAt": "2025-12-11T09:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Sk3R9pazYCk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Sk3R9pazYCk"
+    },
+    {
+      "id": "710EwfFIgTU",
+      "title": "クマから子どもを守れ！　～スクールタクシー実証運行スタート～",
+      "description": "",
+      "publishedAt": "2025-12-11T03:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/710EwfFIgTU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=710EwfFIgTU"
+    },
     {
       "id": "dM8JTCaJ9Oc",
       "title": "【ピヨ卵ワイド　特集】ピヨピヨクリエーターズ＜２０＞",

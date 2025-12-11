@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-12-08T15:27:05.462792",
+  "updated_at": "2025-12-11T15:28:06.149325",
   "videos": [
+    {
+      "id": "1ImgIp9Gh0Y",
+      "title": "【番宣】１２月１８日（木）こんばんは熊本市",
+      "description": "",
+      "publishedAt": "2025-12-11T10:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1ImgIp9Gh0Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1ImgIp9Gh0Y"
+    },
+    {
+      "id": "R54Y0BDEhV8",
+      "title": "【番宣】１２月１５日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-12-11T09:55:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R54Y0BDEhV8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R54Y0BDEhV8"
+    },
+    {
+      "id": "mSsyGqB0tLo",
+      "title": "【番宣】１２月１１日（木）こんばんは熊本市",
+      "description": "",
+      "publishedAt": "2025-12-11T05:47:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mSsyGqB0tLo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mSsyGqB0tLo"
+    },
     {
       "id": "o7HQlfuXp-4",
       "title": "【RKKの休憩室#194 】煽り運転でホッコリさせてみよう実験",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2025-12-10T15:27:51.020830",
+  "updated_at": "2025-12-11T15:27:40.509042",
   "videos": [
+    {
+      "id": "nhP3G23fNuw",
+      "title": "民間ロケット・カイロス3号機 来年2/25打ち上げで調整 和歌山県串本町",
+      "description": "",
+      "publishedAt": "2025-12-11T10:35:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nhP3G23fNuw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nhP3G23fNuw"
+    },
+    {
+      "id": "MOjNyALl-LQ",
+      "title": "初心者向けやさしいゴルフレッスン④youtube",
+      "description": "",
+      "publishedAt": "2025-12-11T05:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MOjNyALl-LQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MOjNyALl-LQ"
+    },
     {
       "id": "VOU84jxX300",
       "title": "和歌山県 官公庁で冬のボーナス 平均86万7855円 総額138億円",

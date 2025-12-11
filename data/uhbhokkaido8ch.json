@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2025-12-10T15:28:12.396266",
+  "updated_at": "2025-12-11T15:28:11.263284",
   "videos": [
+    {
+      "id": "i--mCMINWRY",
+      "title": "みんテレ　12月12日（金）放送",
+      "description": "",
+      "publishedAt": "2025-12-11T10:01:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i--mCMINWRY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i--mCMINWRY"
+    },
+    {
+      "id": "xZLNg-HTaEk",
+      "title": "FumuFumu　2025年12月11日放送",
+      "description": "",
+      "publishedAt": "2025-12-11T02:30:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xZLNg-HTaEk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xZLNg-HTaEk"
+    },
     {
       "id": "dWQPpLz415s",
       "title": "みんテレ　12月11日（木）放送",
