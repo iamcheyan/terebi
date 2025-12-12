@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2025-12-11T15:27:50.962733",
+  "updated_at": "2025-12-12T15:25:36.488353",
   "videos": [
+    {
+      "id": "eCje0BTQUV0",
+      "title": "どん兵衛 片手にメリークリスマス！NMB48×どん兵衛　オンライントークショー",
+      "description": "",
+      "publishedAt": "2025-12-12T12:22:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eCje0BTQUV0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eCje0BTQUV0"
+    },
+    {
+      "id": "MOwvoC11GR0",
+      "title": "この２人が揃った！ついに見られる伝説ネタ",
+      "description": "",
+      "publishedAt": "2025-12-12T10:00:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MOwvoC11GR0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MOwvoC11GR0"
+    },
     {
       "id": "47xNhFkL_QE",
       "title": "プラレール博 in OSAKA ～会場での楽しみ方～",

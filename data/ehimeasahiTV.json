@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2025-12-11T15:27:49.803061",
+  "updated_at": "2025-12-12T15:25:39.222467",
   "videos": [
+    {
+      "id": "5a8r3OjSDhM",
+      "title": "#今治看護専門学校 では前の方何かが違う#シルエット",
+      "description": "",
+      "publishedAt": "2025-12-12T12:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5a8r3OjSDhM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5a8r3OjSDhM"
+    },
+    {
+      "id": "7_zMPGMVDes",
+      "title": "#今治看護専門学校 でもピョンピョンハダ",
+      "description": "",
+      "publishedAt": "2025-12-12T00:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7_zMPGMVDes/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7_zMPGMVDes"
+    },
     {
       "id": "NFvsnqqcZYI",
       "title": "#今治看護専門学校 でもメケメケハダ",

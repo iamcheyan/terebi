@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2025-12-11T15:28:11.571387",
+  "updated_at": "2025-12-12T15:26:32.060578",
   "videos": [
+    {
+      "id": "KAlXi2YxVZg",
+      "title": "食と農の現在・未来　～作り手と食べ手で共に食の未来を考える～",
+      "description": "",
+      "publishedAt": "2025-12-12T03:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KAlXi2YxVZg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KAlXi2YxVZg"
+    },
     {
       "id": "Sk3R9pazYCk",
       "title": "長年お世話になりました　～山形の老舗デパート 173年の歴史に幕～",
