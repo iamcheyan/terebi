@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2025-12-12T15:25:47.781612",
+  "updated_at": "2025-12-13T15:20:39.784384",
   "videos": [
+    {
+      "id": "pvQwffKC7B8",
+      "title": "金沢　こもづくり体験会",
+      "description": "",
+      "publishedAt": "2025-12-13T10:01:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pvQwffKC7B8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pvQwffKC7B8"
+    },
+    {
+      "id": "wvmb5CsjpWw",
+      "title": "ダイヤ改正で北陸新幹線「かがやき」臨時便を増便へ",
+      "description": "",
+      "publishedAt": "2025-12-13T10:01:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wvmb5CsjpWw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wvmb5CsjpWw"
+    },
     {
       "id": "5WX1pJqfgTE",
       "title": "「複合災害」輪島市町野町　仮設商店街の営業始まる",

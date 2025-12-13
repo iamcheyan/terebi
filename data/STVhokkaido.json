@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2025-12-02T15:26:14.343244",
+  "updated_at": "2025-12-13T15:21:03.292239",
   "videos": [
+    {
+      "id": "fgM2Lv_HLDs",
+      "title": "【どさんこWEEKEND】コープさっぽろ　簡単アレンジレシピ",
+      "description": "",
+      "publishedAt": "2025-12-13T01:25:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fgM2Lv_HLDs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fgM2Lv_HLDs"
+    },
+    {
+      "id": "Aa2sQlIucPU",
+      "title": "【どさんこWEEKEND】スッゴイ気になるので行ってみました（ネスカフェ ドルチェ グスト ネオ）",
+      "description": "",
+      "publishedAt": "2025-12-13T01:25:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Aa2sQlIucPU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Aa2sQlIucPU"
+    },
     {
       "id": "h63Xam3xLcc",
       "title": "ライブカメラ  岩見沢(STV札幌テレビ放送)北海道岩見沢市 /Live Camera Iwamizawa , Hokkaido",

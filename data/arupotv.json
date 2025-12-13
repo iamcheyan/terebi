@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-12-12T15:26:20.194796",
+  "updated_at": "2025-12-13T15:21:02.502956",
   "videos": [
+    {
+      "id": "XPHLR6h3QhE",
+      "title": "【番宣】１２月２０日（土）からふる",
+      "description": "",
+      "publishedAt": "2025-12-13T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XPHLR6h3QhE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XPHLR6h3QhE"
+    },
+    {
+      "id": "ATuzUUM9knM",
+      "title": "ミライのタネ_第１回",
+      "description": "",
+      "publishedAt": "2025-12-13T08:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ATuzUUM9knM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ATuzUUM9knM"
+    },
     {
       "id": "gd9QsNU2e68",
       "title": "【SDGs】2025年11月17日「うたせ船 出航！サンクスツアー」",

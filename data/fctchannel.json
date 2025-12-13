@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2025-12-10T15:28:00.663552",
+  "updated_at": "2025-12-13T15:20:56.080967",
   "videos": [
+    {
+      "id": "e7GnMUgQP0o",
+      "title": "#38【本編】尖ったテレビ局",
+      "description": "",
+      "publishedAt": "2025-12-13T08:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e7GnMUgQP0o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e7GnMUgQP0o"
+    },
     {
       "id": "W-qi_K-znl8",
       "title": "おゆらじ  #37.5【番外編】フォエバー",

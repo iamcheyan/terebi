@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2025-12-12T15:26:33.066285",
+  "updated_at": "2025-12-13T15:21:08.421996",
   "videos": [
+    {
+      "id": "g2PPOI5sAy4",
+      "title": "愛媛のニュース(12月13日)",
+      "description": "",
+      "publishedAt": "2025-12-13T11:31:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g2PPOI5sAy4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g2PPOI5sAy4"
+    },
+    {
+      "id": "FQsNvXpGmqY",
+      "title": "【アーカイブえひめ】携帯電話めぐる親子の攻防 ポケベルにカーナビ、そしてピッチ 情報通信機器を振り返ります",
+      "description": "",
+      "publishedAt": "2025-12-12T22:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FQsNvXpGmqY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FQsNvXpGmqY"
+    },
     {
       "id": "gmpbbAEzlkQ",
       "title": "愛媛のニュース(12月12日)",
