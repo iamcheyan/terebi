@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2025-12-13T15:20:53.458150",
+  "updated_at": "2025-12-14T15:21:28.435295",
   "videos": [
+    {
+      "id": "zWZI3wMivOw",
+      "title": "あだまっこ体操！　2025年12月14日放送分",
+      "description": "",
+      "publishedAt": "2025-12-13T21:30:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zWZI3wMivOw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zWZI3wMivOw"
+    },
     {
       "id": "stERExzSA38",
       "title": "とびまめっ!!　～日本酒づくりの裏側に迫る！酒蔵見学企画2～　2025年12月12日放送分",

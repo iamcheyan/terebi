@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-12-12T15:26:28.136448",
+  "updated_at": "2025-12-14T15:21:41.075423",
   "videos": [
+    {
+      "id": "cTcsRWhcWD8",
+      "title": "今日の５きげんテレビ（12月15日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-12-14T15:01:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cTcsRWhcWD8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cTcsRWhcWD8"
+    },
     {
       "id": "FS4GfSOKNZ0",
       "title": "冬と言ってもお花｜ガーデニング倶楽部",

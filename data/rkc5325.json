@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2025-12-12T15:26:21.150648",
+  "updated_at": "2025-12-14T15:21:37.637569",
   "videos": [
+    {
+      "id": "qfr4h2Rfbvk",
+      "title": "RKCアプリ漢字クイズ 12/15の問題 ～土佐かつお師匠のヒント～",
+      "description": "",
+      "publishedAt": "2025-12-14T15:01:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qfr4h2Rfbvk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qfr4h2Rfbvk"
+    },
+    {
+      "id": "NKwtSdV56SQ",
+      "title": "「HANABUSA」ぐるぐるこうち × 高知グルメ",
+      "description": "",
+      "publishedAt": "2025-12-14T01:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NKwtSdV56SQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NKwtSdV56SQ"
+    },
     {
       "id": "nhLKjSLKvtA",
       "title": "「高知県視覚障害者協会に点字カレンダーを寄贈」2025/12/12放送",
