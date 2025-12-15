@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2025-12-08T15:27:04.384986",
+  "updated_at": "2025-12-15T15:27:30.616286",
   "videos": [
+    {
+      "id": "NGmKS8cfOvE",
+      "title": "【別府市】スイーツ専門店 ひまわり（2025年12月3日放送分）",
+      "description": "",
+      "publishedAt": "2025-12-15T04:50:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NGmKS8cfOvE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NGmKS8cfOvE"
+    },
+    {
+      "id": "8cy07Jkk3X8",
+      "title": "【OBS】まほ画伯ワールドツアー「眞步畫伯世界巡迴～日本與台灣 色彩的橋樑～」",
+      "description": "",
+      "publishedAt": "2025-12-15T03:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8cy07Jkk3X8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8cy07Jkk3X8"
+    },
     {
       "id": "YMNjMmBlscQ",
       "title": "【別府市】亜李蘭 離宮 杉乃井ホテル店（2025年12月3日放送分）",

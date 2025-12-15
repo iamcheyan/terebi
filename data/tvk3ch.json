@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2025-12-13T15:20:36.416382",
+  "updated_at": "2025-12-15T15:27:05.146359",
   "videos": [
+    {
+      "id": "osM6DuIdwz4",
+      "title": "カナフルTV　次回予告（12月21日放送）",
+      "description": "",
+      "publishedAt": "2025-12-15T04:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/osM6DuIdwz4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=osM6DuIdwz4"
+    },
+    {
+      "id": "IyfpOb7LxXU",
+      "title": "横浜市会「新春語り初め」１月３日午後５時３０分放送　#shorts",
+      "description": "",
+      "publishedAt": "2025-12-15T02:28:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IyfpOb7LxXU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IyfpOb7LxXU"
+    },
     {
       "id": "LyJwn8Pqd1A",
       "title": "ハマナビ　2025年12月13日放送　サーキュラーが広がる ヨコハマ！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2025-12-13T15:20:48.245599",
+  "updated_at": "2025-12-15T15:27:10.753660",
   "videos": [
+    {
+      "id": "aPBzBnnWc-s",
+      "title": "【プラス1ダイジェスト】12/15(月) のニュース",
+      "description": "",
+      "publishedAt": "2025-12-15T10:05:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aPBzBnnWc-s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aPBzBnnWc-s"
+    },
     {
       "id": "E-nzaGWO79g",
       "title": "newsプラス１特集　～食料クライシス・生産地岩手からの報告～（2025/12/13 放送）",
