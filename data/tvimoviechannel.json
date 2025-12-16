@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-12-15T15:27:37.265503",
+  "updated_at": "2025-12-16T15:28:01.808775",
   "videos": [
+    {
+      "id": "htbPrVFPl6E",
+      "title": "今日の５きげんテレビ（12月17日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-12-16T15:01:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/htbPrVFPl6E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=htbPrVFPl6E"
+    },
+    {
+      "id": "7MjTfy29Lw0",
+      "title": "５きげんクッキング ～カレーミートボールパスタ～",
+      "description": "",
+      "publishedAt": "2025-12-16T09:21:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7MjTfy29Lw0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7MjTfy29Lw0"
+    },
+    {
+      "id": "ZfC8lv0CguM",
+      "title": "ジェラート店「ベルテーラ」の新たな挑戦｜岩手・花巻市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2025-12-16T05:49:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZfC8lv0CguM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZfC8lv0CguM"
+    },
     {
       "id": "mXfUtbB2maU",
       "title": "今日の５きげんテレビ（12月16日）｜テレビ岩手",

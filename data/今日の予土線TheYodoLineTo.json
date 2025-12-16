@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-12-15T15:27:45.563395",
+  "updated_at": "2025-12-16T15:28:08.561615",
   "videos": [
+    {
+      "id": "fKzZKCMrcCw",
+      "title": "251216 173755 すまいるえきちゃん号（大内駅）",
+      "description": "",
+      "publishedAt": "2025-12-16T10:24:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fKzZKCMrcCw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fKzZKCMrcCw"
+    },
+    {
+      "id": "t2262GradDg",
+      "title": "251216 171629 宮野下第２踏切",
+      "description": "",
+      "publishedAt": "2025-12-16T10:24:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t2262GradDg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t2262GradDg"
+    },
+    {
+      "id": "tlT8O4QYTWc",
+      "title": "251216 171107 宮野下第３踏切",
+      "description": "",
+      "publishedAt": "2025-12-16T09:55:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tlT8O4QYTWc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tlT8O4QYTWc"
+    },
     {
       "id": "MlRFg429qQQ",
       "title": "251215 120340 ちいさなちいさな鉄橋（水路）",

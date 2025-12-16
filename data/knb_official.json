@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2025-12-13T15:20:58.791731",
+  "updated_at": "2025-12-16T15:27:54.906858",
   "videos": [
+    {
+      "id": "WsrAYlqsSvc",
+      "title": "【旬景とやま】初冬の二上山",
+      "description": "",
+      "publishedAt": "2025-12-16T10:20:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WsrAYlqsSvc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WsrAYlqsSvc"
+    },
     {
       "id": "uIQGe8bfCxM",
       "title": "【北陸３県イイトコどり～】お歳暮にいかが",
