@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-12-16T15:27:58.979825",
+  "updated_at": "2025-12-17T15:27:32.067205",
   "videos": [
+    {
+      "id": "xMimufIerbA",
+      "title": "【番宣】１２月１９日（金）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2025-12-17T07:34:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xMimufIerbA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xMimufIerbA"
+    },
     {
       "id": "NwDaC3cy6p0",
       "title": "【番宣】１２月１８日（木）NEWSゲツキン",
