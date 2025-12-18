@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2025-12-17T15:26:58.366234",
+  "updated_at": "2025-12-18T15:25:46.981143",
   "videos": [
+    {
+      "id": "tIZIej2kxRQ",
+      "title": "【プラス1ダイジェスト】12/18(木) のニュース",
+      "description": "",
+      "publishedAt": "2025-12-18T10:02:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tIZIej2kxRQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tIZIej2kxRQ"
+    },
+    {
+      "id": "fJNRmZcQ0c0",
+      "title": "元気○（マル）らいふ　【絶対ダメ！飲酒運転】（2025/12/17放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2025-12-18T07:07:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fJNRmZcQ0c0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fJNRmZcQ0c0"
+    },
     {
       "id": "VFwVGbZfpY4",
       "title": "【プラス1ダイジェスト】12/17(水) のニュース",

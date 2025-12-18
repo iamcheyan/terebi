@@ -1,8 +1,20 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2025-12-16T15:27:10.263498",
+  "updated_at": "2025-12-18T15:25:53.796869",
   "videos": [
+    {
+      "id": "YjgYFRcEtmo",
+      "title": "【ライブ配信】久慈情報カメラ",
+      "description": "",
+      "publishedAt": "2025-12-18T09:12:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YjgYFRcEtmo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YjgYFRcEtmo"
+    },
     {
       "id": "ewlOYZtu6UQ",
       "title": "【Go！Go！いわて】12月20日（土）予告",

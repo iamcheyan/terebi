@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2025-12-17T15:27:14.912932",
+  "updated_at": "2025-12-18T15:25:44.982563",
   "videos": [
+    {
+      "id": "Tw3ccuAgcWk",
+      "title": "街なかでもラリージャパン大盛り上がり【クルマとミライ】",
+      "description": "",
+      "publishedAt": "2025-12-18T14:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Tw3ccuAgcWk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Tw3ccuAgcWk"
+    },
     {
       "id": "6q2FCQMoJZY",
       "title": "【LBS】エンタメ通じ北海道の「食」発信",
