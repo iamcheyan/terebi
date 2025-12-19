@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwVMadMSXOS0AMuW_3nlyRQ",
   "channel_name": "SBC信越放送",
-  "updated_at": "2025-12-17T15:27:32.744573",
+  "updated_at": "2025-12-19T15:26:15.527353",
   "videos": [
+    {
+      "id": "pIoIGDgbJ_4",
+      "title": "YES！ものづくり　トライアン①",
+      "description": "",
+      "publishedAt": "2025-12-19T04:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pIoIGDgbJ_4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pIoIGDgbJ_4"
+    },
+    {
+      "id": "7617WByHQ90",
+      "title": "YES！ものづくり　トライアン②",
+      "description": "",
+      "publishedAt": "2025-12-19T04:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7617WByHQ90/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7617WByHQ90"
+    },
     {
       "id": "qGbyL_bEKt0",
       "title": "【LIVE】諏訪湖の「いま」を配信します｜ライブ｜諏訪湖｜御神渡り｜LakeSuwa | SuwaCity | Nagano | GodCrossing",

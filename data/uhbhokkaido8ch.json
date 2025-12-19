@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2025-12-18T15:26:07.472527",
+  "updated_at": "2025-12-19T15:26:22.814181",
   "videos": [
+    {
+      "id": "ZYme_R8lsu0",
+      "title": "みんテレ　12月22日（月）放送",
+      "description": "",
+      "publishedAt": "2025-12-19T10:01:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZYme_R8lsu0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZYme_R8lsu0"
+    },
+    {
+      "id": "HfSGyKXEJxI",
+      "title": "ホクレンミライスマイルpresentsとなりのヒーロー【12月27日（土）ごご4時放送】",
+      "description": "",
+      "publishedAt": "2025-12-19T03:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HfSGyKXEJxI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HfSGyKXEJxI"
+    },
     {
       "id": "eRiXWgBBB5s",
       "title": "みんテレ　12月19日（金）放送",

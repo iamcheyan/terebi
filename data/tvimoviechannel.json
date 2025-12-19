@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-12-18T15:26:06.359965",
+  "updated_at": "2025-12-19T15:26:20.074624",
   "videos": [
+    {
+      "id": "TlBj6EXWuLw",
+      "title": "５きげんクッキング ～パイナップルスペアリブ～",
+      "description": "",
+      "publishedAt": "2025-12-19T08:57:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TlBj6EXWuLw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TlBj6EXWuLw"
+    },
     {
       "id": "6n66iw5iATU",
       "title": "今日の５きげんテレビ（12月19日）｜テレビ岩手",

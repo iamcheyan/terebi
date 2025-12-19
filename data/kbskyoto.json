@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2025-12-16T15:27:29.588962",
+  "updated_at": "2025-12-19T15:25:32.515345",
   "videos": [
+    {
+      "id": "thOwAkWpekg",
+      "title": "【京都市会】令和7年11月市会 / 代表質問",
+      "description": "",
+      "publishedAt": "2025-12-19T01:55:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/thOwAkWpekg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=thOwAkWpekg"
+    },
     {
       "id": "sMU6B_e2WUc",
       "title": "【特集】ノーベル化学賞の研究を製品化　期待・気体の材料／きょうと経済テラス キュンと！",
