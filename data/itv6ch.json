@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2025-12-19T15:26:25.135571",
+  "updated_at": "2025-12-20T15:21:08.359416",
   "videos": [
+    {
+      "id": "SYE81u_BqHQ",
+      "title": "愛媛のニュース(12月20日)",
+      "description": "",
+      "publishedAt": "2025-12-20T11:31:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SYE81u_BqHQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SYE81u_BqHQ"
+    },
     {
       "id": "3ATK2opRpzI",
       "title": "国内初の推進器「リニアジェット」とは 新しい高速船「SeaMAX」 建造の様子やその仕組みを詳しく取材しました【愛媛】",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2025-12-19T15:25:37.494566",
+  "updated_at": "2025-12-20T15:20:48.801546",
   "videos": [
+    {
+      "id": "n1V9YgUW3Is",
+      "title": "あのじゅうよ〜 第179回",
+      "description": "",
+      "publishedAt": "2025-12-20T14:30:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n1V9YgUW3Is/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n1V9YgUW3Is"
+    },
     {
       "id": "DYvu5XLxGto",
       "title": "エンペラーペンギン親子の部屋 大掃除 ペンギン飼育数が日本一のアドベンチャーワールド 和歌山県白浜町",

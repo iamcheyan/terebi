@@ -1,8 +1,20 @@
 {
   "channel_id": "UC5cpRf7BIMj9DKebtJxR8Ig",
   "channel_name": "NIB長崎国際テレビ",
-  "updated_at": "2025-12-17T15:27:16.505356",
+  "updated_at": "2025-12-20T15:20:42.439759",
   "videos": [
+    {
+      "id": "YZuMbSLPgcE",
+      "title": "ブラマヨ吉田の大村漫遊記3",
+      "description": "",
+      "publishedAt": "2025-12-20T09:01:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YZuMbSLPgcE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YZuMbSLPgcE"
+    },
     {
       "id": "AGcYPM5XQVo",
       "title": "【開通】西九州自動車道 松浦IC～平戸ICが開通｜所要時間6分短縮・企業立地や雇用創出に期待　#長崎",

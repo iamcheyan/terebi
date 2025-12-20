@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-12-19T15:26:20.074624",
+  "updated_at": "2025-12-20T15:21:05.559403",
   "videos": [
+    {
+      "id": "MG75rNBFpl8",
+      "title": "モリオカ マエガタ クリスマスマーケット2025",
+      "description": "",
+      "publishedAt": "2025-12-20T07:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MG75rNBFpl8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MG75rNBFpl8"
+    },
     {
       "id": "TlBj6EXWuLw",
       "title": "５きげんクッキング ～パイナップルスペアリブ～",

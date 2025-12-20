@@ -1,8 +1,80 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2025-12-19T15:26:20.419927",
+  "updated_at": "2025-12-20T15:21:05.774580",
   "videos": [
+    {
+      "id": "088CJhlh1pI",
+      "title": "アイライフスタイル ♯29 「くつろぎのガレージ」（テレQ 2025年12月20日放送）",
+      "description": "",
+      "publishedAt": "2025-12-20T11:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/088CJhlh1pI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=088CJhlh1pI"
+    },
+    {
+      "id": "83Bs_EXltEo",
+      "title": "【テレQ番宣】ちょっと福岡行ってきました！（1月10日(土)20:00～",
+      "description": "",
+      "publishedAt": "2025-12-20T11:54:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/83Bs_EXltEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=83Bs_EXltEo"
+    },
+    {
+      "id": "IozgLqY3Tfc",
+      "title": "1月10日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2025-12-20T11:53:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IozgLqY3Tfc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IozgLqY3Tfc"
+    },
+    {
+      "id": "PZxWIeI6qvs",
+      "title": "【福岡の筋肉芸人・D兄さんに筋肉の見せ方をアドバイスするなかやまきんに君】はてなのてん未公開トーク",
+      "description": "",
+      "publishedAt": "2025-12-20T09:55:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PZxWIeI6qvs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PZxWIeI6qvs"
+    },
+    {
+      "id": "6k4vgTmBVxw",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（1月10日（土）18:30～）1時間30分SP",
+      "description": "",
+      "publishedAt": "2025-12-20T09:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6k4vgTmBVxw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6k4vgTmBVxw"
+    },
+    {
+      "id": "3mcX_BnCkkc",
+      "title": "ブリちゃっぷ（年末年始に役立つブリレシピ）／土曜のド！（テレＱ2025年12月20日放送）",
+      "description": "",
+      "publishedAt": "2025-12-20T02:29:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3mcX_BnCkkc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3mcX_BnCkkc"
+    },
     {
       "id": "S7zdJSE2yE0",
       "title": "豚骨ラーメンの「麺の硬さ」に関する雑学（はてなのてん＃24）",
