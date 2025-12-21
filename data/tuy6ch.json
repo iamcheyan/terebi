@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2025-12-20T15:21:05.383553",
+  "updated_at": "2025-12-21T15:21:34.162111",
   "videos": [
+    {
+      "id": "qsvIYzXdiCg",
+      "title": "山形学院感謝の会",
+      "description": "",
+      "publishedAt": "2025-12-21T04:00:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qsvIYzXdiCg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qsvIYzXdiCg"
+    },
     {
       "id": "eUmfH50KmUc",
       "title": "今年１年頑張った！！年末ご褒美スポット巡り",

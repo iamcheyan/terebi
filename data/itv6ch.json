@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2025-12-20T15:21:08.359416",
+  "updated_at": "2025-12-21T15:21:37.493271",
   "videos": [
+    {
+      "id": "ufZ4Px15_9g",
+      "title": "愛媛のニュース(12月21日)",
+      "description": "",
+      "publishedAt": "2025-12-21T11:32:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ufZ4Px15_9g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ufZ4Px15_9g"
+    },
+    {
+      "id": "PwSVFv-C97U",
+      "title": "松山―広島結ぶ新高速船が公開 国内初「リニアジェット」推進器搭載で燃費や快適性が向上 12月19日から運航開始！",
+      "description": "",
+      "publishedAt": "2025-12-20T21:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PwSVFv-C97U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PwSVFv-C97U"
+    },
     {
       "id": "SYE81u_BqHQ",
       "title": "愛媛のニュース(12月20日)",
