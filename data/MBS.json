@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2025-12-20T15:20:40.264001",
+  "updated_at": "2025-12-22T15:24:48.008330",
   "videos": [
+    {
+      "id": "N3OfNvyFs9w",
+      "title": "酒井藍からのムチャぶりに焦りまくる島田ｗ",
+      "description": "",
+      "publishedAt": "2025-12-22T10:00:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N3OfNvyFs9w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N3OfNvyFs9w"
+    },
+    {
+      "id": "2QM4C-pWPR8",
+      "title": "「MBSマンスリーリポート」2026年１月４日放送",
+      "description": "",
+      "publishedAt": "2025-12-22T09:24:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2QM4C-pWPR8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2QM4C-pWPR8"
+    },
     {
       "id": "5Gru3JvnYmA",
       "title": "【MIRAI JAM】SHE　2025年12月13日放送",

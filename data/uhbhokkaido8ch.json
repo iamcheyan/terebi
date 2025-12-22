@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2025-12-20T15:21:07.168438",
+  "updated_at": "2025-12-22T15:25:10.600178",
   "videos": [
+    {
+      "id": "mDEb9SxKevE",
+      "title": "みんテレ　12月23日（火）放送",
+      "description": "",
+      "publishedAt": "2025-12-22T10:01:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mDEb9SxKevE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mDEb9SxKevE"
+    },
+    {
+      "id": "Cpj7VsFsFPU",
+      "title": "発見！タカトシランド 2026年1月9日（金）OA",
+      "description": "",
+      "publishedAt": "2025-12-22T05:50:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cpj7VsFsFPU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cpj7VsFsFPU"
+    },
     {
       "id": "geYH2z8zN6U",
       "title": "いっとこ！：12月27日（土）放送",

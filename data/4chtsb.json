@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2025-12-19T15:26:19.164747",
+  "updated_at": "2025-12-22T15:25:08.498714",
   "videos": [
+    {
+      "id": "WERuco5lNbI",
+      "title": "2026年1月31日（土）！　#テレビ信州",
+      "description": "",
+      "publishedAt": "2025-12-22T08:57:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WERuco5lNbI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WERuco5lNbI"
+    },
+    {
+      "id": "tntQHVFOkJQ",
+      "title": "2026年1月31日（土）開催！　マイチャン。まつり",
+      "description": "",
+      "publishedAt": "2025-12-22T07:14:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tntQHVFOkJQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tntQHVFOkJQ"
+    },
     {
       "id": "Xx0p7XHO7R8",
       "title": "19日(金)よる7時放送です！　#箱根駅伝",
