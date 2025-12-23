@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2025-12-22T15:24:40.603568",
+  "updated_at": "2025-12-23T15:25:59.481762",
   "videos": [
+    {
+      "id": "uDCZswvIkLU",
+      "title": "WTV NEWS 6　竹本キャスター年内最後の出演",
+      "description": "",
+      "publishedAt": "2025-12-23T09:48:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uDCZswvIkLU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uDCZswvIkLU"
+    },
     {
       "id": "A9sEiFH3Bjc",
       "title": "613ヵ所の水道管で漏水の疑い 人工衛星で調査 和歌山市",
