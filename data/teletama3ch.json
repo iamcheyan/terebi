@@ -1,8 +1,32 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2025-12-23T15:25:30.916061",
+  "updated_at": "2025-12-24T15:24:29.517336",
   "videos": [
+    {
+      "id": "sK_rzhfTtqs",
+      "title": "第2回 Juice CUP",
+      "description": "",
+      "publishedAt": "2025-12-24T15:01:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sK_rzhfTtqs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sK_rzhfTtqs"
+    },
+    {
+      "id": "ENUSaJW3AUc",
+      "title": "Episode12　最終回　結太朗へのサプライズ【縁結び士 結太朗の縁むすびまっせ！シーズン２】",
+      "description": "",
+      "publishedAt": "2025-12-24T12:45:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ENUSaJW3AUc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ENUSaJW3AUc"
+    },
     {
       "id": "vtOvkVyDeRM",
       "title": "【プロ野球】「スコアブックの書き方４」#ツジハツ!! #辻発彦 #プロ野球 #埼玉西武",

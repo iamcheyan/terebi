@@ -1,8 +1,599 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
-  "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2025-12-23T15:25:26.358380",
+  "channel_name": "NST Online",
+  "original_name": "NST新潟総合テレビ",
+  "updated_at": "2025-12-24T15:25:48.917954",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NJu_US-drvxPFwZlYDG4K2rJP00",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmZoeUFyZjI4emVv",
+      "snippet": {
+        "publishedAt": "2025-12-24T15:22:55Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Suri Narudin laid to rest",
+        "description": "The remains of entrepreneur Suri Narudin were laid to rest in Rembau at 8.15pm today.\n\nHer body was earlier claimed by family members from the Rembau Hospital Forensic Medical Unit and buried at the Kampung Air Hitam Chembong Muslim Cemetery, with relatives, friends and volunteers present.\n\nPolice confirmed earlier today that the body found buried near a vacant house in Kampung Batu 4 Pedas last week was Suri’s, with her identity verified through fingerprint and DNA analysis.\n\nSTORYLINK: https://www.nst.com.my/news/nation/2025/12/1343952/suri-narudin-laid-rest\n\n----------------------------------\n#NST #NSTTV#SuriNarudin #Rembau #murder #BodyInBag #NegriSembilan #police #Crime #DNA #MalaysiaNews #NST #News\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fhyArf28zeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fhyArf28zeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fhyArf28zeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fhyArf28zeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fhyArf28zeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fhyArf28zeo"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BdpiYThYZ9KJRu4QkATtJqx624Q",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkNTbUxyYXZtMFA0",
+      "snippet": {
+        "publishedAt": "2025-12-22T02:47:58Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Najib fails in house arrest bid, to remain in Kajang Prison",
+        "description": "Datuk Seri Najib Razak will remain in Kajang Prison to complete his jail sentence for misappropriating RM42 million from SRC International Sdn Bhd.\n\n---------------------------------\n#NST #NSTTV #NajibRazak #SRCInternational #malaysiapolitics \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CSmLravm0P4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CSmLravm0P4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CSmLravm0P4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CSmLravm0P4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CSmLravm0P4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CSmLravm0P4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ttsOlvUpBjxpm1ppT1lrWPF-GXE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm0tUmFjd3hVVmNv",
+      "snippet": {
+        "publishedAt": "2025-12-22T01:50:04Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Najib arrives at court ahead of house arrest decision",
+        "description": "Former prime minister Datuk Seri Najib Razak arrived at the Kuala Lumpur High Court at 8.40am on December 22.\n\nHe was seen travelling in a Proton X70 sport utility vehicle (SUV), accompanied by several vehicles from the Malaysian Prisons Department and the Royal Malaysia Police (PDRM).\n\nAlso present to show support were his wife, Datin Seri Rosmah Mansor, and their son, Datuk Mohamad Nizar.\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m-RacwxUVco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m-RacwxUVco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m-RacwxUVco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m-RacwxUVco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m-RacwxUVco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m-RacwxUVco"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QvTXwvEwpYIEeRnEuE4P1b__rCw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjItN0tKbGgwVThV",
+      "snippet": {
+        "publishedAt": "2025-12-22T01:37:02Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "'Justice for Bossku': Najib supporters rally at court ahead of house arrest decision",
+        "description": "Over 100 supporters of Datuk Seri Najib Razak have gathered at the court complex here in anticipation of his arrival where he will today know if he will serve the remainder of his six-year jail term under house arrest. \n\nRead more: https://www.nst.com.my/news/nation/2025/12/1342194/justice-bossku-najib-supporters-rally-court-ahead-house-arrest-decision\n\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline #NajibRazak\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2-7KJlh0U8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2-7KJlh0U8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2-7KJlh0U8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2-7KJlh0U8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2-7KJlh0U8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2-7KJlh0U8U"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xaDbsUPD2hlJZI-LoTJ-M5GLJ8A",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk9qMjZjUUFlaGE4",
+      "snippet": {
+        "publishedAt": "2025-12-17T03:00:35Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM DEC 17, 2025",
+        "description": "Bursa Malaysia opened lower on Wednesday, tracking the poor sentiment on Wall Street amid a lack of fresh leads.\n\nMarket sentiment remains mixed as investors continue to digest the latest employment figures.\n\nThe FBM KLCI is expected to hover within the range of 1,630 and 1,645 today.\n\nIn the cryptocurrency market, Bitcoin rose to RM359,609.\n\nFollowing the trend, Ethereum increased to RM12,120, while Solana traded at RM529.\n\nThat is it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oj26cQAeha8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oj26cQAeha8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oj26cQAeha8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oj26cQAeha8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oj26cQAeha8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 85,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Oj26cQAeha8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "odKz_tQL35vX1OZjvWoYLwxUdzo",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLi1neVhHYnBCUmc4",
+      "snippet": {
+        "publishedAt": "2025-12-17T01:59:29Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Woman stabbed to death, elderly mother slashed in Baling",
+        "description": "A woman was killed and her elderly mother seriously injured after a man allegedly stabbed and slashed them at their home in Kampung Baru Bakai in Baling on Dec 16.\n\nBaling police chief Superintendent Brandon Richard Joe said the incident occurred about 6.30pm, with both victims found inside their home.\n\nThe body was sent to Sultanah Bahiyah Hospital in Alor Star for a post-mortem, while the injured victim was rushed to Kulim Hospital for further treatment.\n\nBrandon said a man had been arrested to assist investigations and will be remanded at the Baling magistrate's court soon.\n\nThe case is being investigated under Section 302 of the Penal Code for murder and Section 307 for attempted murder.\n\nRead more at:\nhttps://www.nst.com.my/news/regional/2025/12/1338852/woman-stabbed-death-elderly-mother-slashed-baling\n\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline #Baling #BalingCrime #MalaysiaCrime #StabbingCase #WomanKilled #ElderlyInjured #DomesticViolence #FamilyTragedy #PoliceInvestigation #KedahNews #RegionalNews #BreakingNewsMalaysia #CrimeAlert #PublicSafety\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gyXGbpBRg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gyXGbpBRg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gyXGbpBRg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-gyXGbpBRg8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-gyXGbpBRg8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 86,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-gyXGbpBRg8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3JSJgMdRbXJIqJXgJjWgwbYyOkk",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkgtdVIwOXRnVUxB",
+      "snippet": {
+        "publishedAt": "2025-12-15T03:00:14Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM DEC 15, 2025",
+        "description": "Bursa Malaysia opened lower today, slipping below the 1,640 level in line with the weaker performance on Wall Street.\n\nThe index is expected to move within the 1,630 to 1,645 range for the day.\n\nSentoria Group emerged as the most actively traded stock today, opening at one and a half sen before rising to two and a half sen, with 7.9 million shares traded.\n\nIn the cryptocurrency market, Bitcoin is trending higher to around RM363,899, while Ethereum is rising to about RM12,626.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H-uR09tgULA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H-uR09tgULA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H-uR09tgULA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H-uR09tgULA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H-uR09tgULA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 117,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H-uR09tgULA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HZfuS_Ur4UEA7-bi7dWPOQXAP-g",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk55emlLeUU0MVFB",
+      "snippet": {
+        "publishedAt": "2025-12-15T02:13:54Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Father and son gunmen kill 15 at Jewish festival on Australia's Bondi Beach",
+        "description": "A father-and-son pair armed with long-barrelled guns shot dead 15 people, including a 10-year-old girl, at Sydney’s Bondi Beach on Sunday. \n\nAuthorities have classified the attack as an antisemitic terrorist incident targeting a Jewish Hanukkah celebration attended by more than 1,000 people.\n\nThe shooting at Australia’s most famous surf beach triggered panic among crowds at the tourist hotspot.\n\nThe youngest victim died in a children’s hospital, while the oldest was 87. Forty-two others were hospitalised, including two police officers. \n\nThe following morning, personal belongings abandoned during the escape littered the beach. \n\nThe attack has drawn international condemnation, as Australia observes a national day of mourning with flags flown at half-mast, Prime Minister Anthony Albanese said.\n\nRead more at:\nhttps://www.nst.com.my/world/world/2025/12/1337222/father-and-son-gunmen-kill-15-jewish-festival-australias-bondi-beach\n\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline  #BondiBeach #Sydney #Australia #JewishFestival #BondiBeachshooting #Antisemitic #TerroristAttack \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NyziKyE41QA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NyziKyE41QA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NyziKyE41QA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NyziKyE41QA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NyziKyE41QA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 118,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NyziKyE41QA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4mgZUDjB7kcUwfakIpJ1aWFu7Xw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLngwbTZCaU1XRmJB",
+      "snippet": {
+        "publishedAt": "2025-12-12T03:01:12Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM DEC 12, 2025",
+        "description": "Bursa Malaysia’s 30-stock index opened in the red before rebounding in early trade.\n\nThe FBM KLCI dipped to about 1,622 and edged higher, tracking Wall Street’s positive performance.\n\nIt is likely to trend within the 1,620 and 1,630 range today.\n\nIn the cryptocurrency market, Bitcoin rose to RM379,086.\n\nEthereum dropped to RM13,306 and Solana traded higher at RM563.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x0m6BiMWFbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x0m6BiMWFbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x0m6BiMWFbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x0m6BiMWFbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x0m6BiMWFbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 148,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x0m6BiMWFbA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x6f-VBPUgxnXNtGeOXosf0gtwqU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlpwZjFLZjJhbDk0",
+      "snippet": {
+        "publishedAt": "2025-12-12T02:03:56Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Stronger safeguards earn Malaysia global watchdog's top ranking",
+        "description": "Malaysia has been upgraded to Financial Action Task Force’s (FATF) top follow-up category, reflecting stronger defences against money laundering and terrorism financing.\n\nFATF said Malaysia now has a better grasp of its risks and has improved laws, coordination and financial supervision over the past decade, especially after reforms following 1MDB.\n\nThe report still flags gaps in understanding cross-border crime, money laundering prosecutions and the use of mutual legal assistance.\n\nBank Negara Malaysia said the upgrade boosts global confidence in Malaysia’s financial system and supports investment.\n\nExperts agreed the move reflects stronger institutions, though they noted more work is needed on enforcement and oversight.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zpf1Kf2al94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zpf1Kf2al94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zpf1Kf2al94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zpf1Kf2al94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zpf1Kf2al94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 149,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zpf1Kf2al94"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "id": "_twr3mzqY7k",
+      "title": "News@9, Dec 24, 2025",
+      "description": "",
+      "publishedAt": "2025-12-24T13:01:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_twr3mzqY7k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_twr3mzqY7k"
+    },
+    {
+      "id": "3G-_rOpNa2k",
+      "title": "MARKET PULSE PM DEC 24, 2025",
+      "description": "",
+      "publishedAt": "2025-12-24T11:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3G-_rOpNa2k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3G-_rOpNa2k"
+    },
+    {
+      "id": "xclLHyOgvDA",
+      "title": "Chegubard submits report on senior military officer's bank accounts to MACC",
+      "description": "",
+      "publishedAt": "2025-12-24T09:27:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xclLHyOgvDA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xclLHyOgvDA"
+    },
+    {
+      "id": "mvbvM02OqPs",
+      "title": "Chegubard: Muhyiddin should step down over son-in-law case",
+      "description": "",
+      "publishedAt": "2025-12-24T09:25:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mvbvM02OqPs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mvbvM02OqPs"
+    },
+    {
+      "id": "pgCTSCE5Omc",
+      "title": "Valiram family expands prime real estate holdings with RM1.1bil TRX acquisition",
+      "description": "",
+      "publishedAt": "2025-12-24T07:25:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pgCTSCE5Omc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pgCTSCE5Omc"
+    },
+    {
+      "id": "nth5H20h1Dc",
+      "title": "3 cars damaged by fire in Petaling Jaya",
+      "description": "",
+      "publishedAt": "2025-12-24T07:20:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nth5H20h1Dc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nth5H20h1Dc"
+    },
+    {
+      "id": "XsODX4hQQHo",
+      "title": "#SHOWBIZ: Falling star: Mayday's Ashin takes 2m tumble during 'F3' Shanghai reunion",
+      "description": "",
+      "publishedAt": "2025-12-24T04:05:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XsODX4hQQHo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XsODX4hQQHo"
+    },
+    {
+      "id": "ycmAB06iU1E",
+      "title": "Five killed as Mexican Navy plane on humanitarian mission crashes off Texas coast",
+      "description": "",
+      "publishedAt": "2025-12-24T03:52:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ycmAB06iU1E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ycmAB06iU1E"
+    },
+    {
+      "id": "ppCfcROr4V8",
+      "title": "Fresh leads spark MACC probe into ex-minister",
+      "description": "",
+      "publishedAt": "2025-12-24T03:05:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ppCfcROr4V8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ppCfcROr4V8"
+    },
+    {
+      "id": "rHaCpJ6zGZQ",
+      "title": "MARKET PULSE AM DEC 24, 2025",
+      "description": "",
+      "publishedAt": "2025-12-24T03:01:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rHaCpJ6zGZQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rHaCpJ6zGZQ"
+    },
     {
       "id": "3L19GIMTKl8",
       "title": "News@9, Dec 23, 2025",
@@ -21785,6 +22376,66 @@
       "title": "Namewee surrenders to police amid murder investigation",
       "thumbnail": "https://i.ytimg.com/vi/Xdki-3tZtto/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Xdki-3tZtto"
+    },
+    {
+      "id": "fhyArf28zeo",
+      "title": "Suri Narudin laid to rest",
+      "thumbnail": "https://i.ytimg.com/vi/fhyArf28zeo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fhyArf28zeo"
+    },
+    {
+      "id": "CSmLravm0P4",
+      "title": "Najib fails in house arrest bid, to remain in Kajang Prison",
+      "thumbnail": "https://i.ytimg.com/vi/CSmLravm0P4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CSmLravm0P4"
+    },
+    {
+      "id": "m-RacwxUVco",
+      "title": "Najib arrives at court ahead of house arrest decision",
+      "thumbnail": "https://i.ytimg.com/vi/m-RacwxUVco/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m-RacwxUVco"
+    },
+    {
+      "id": "2-7KJlh0U8U",
+      "title": "'Justice for Bossku': Najib supporters rally at court ahead of house arrest decision",
+      "thumbnail": "https://i.ytimg.com/vi/2-7KJlh0U8U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2-7KJlh0U8U"
+    },
+    {
+      "id": "Oj26cQAeha8",
+      "title": "MARKET PULSE AM DEC 17, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/Oj26cQAeha8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Oj26cQAeha8"
+    },
+    {
+      "id": "-gyXGbpBRg8",
+      "title": "Woman stabbed to death, elderly mother slashed in Baling",
+      "thumbnail": "https://i.ytimg.com/vi/-gyXGbpBRg8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-gyXGbpBRg8"
+    },
+    {
+      "id": "H-uR09tgULA",
+      "title": "MARKET PULSE AM DEC 15, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/H-uR09tgULA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=H-uR09tgULA"
+    },
+    {
+      "id": "NyziKyE41QA",
+      "title": "Father and son gunmen kill 15 at Jewish festival on Australia's Bondi Beach",
+      "thumbnail": "https://i.ytimg.com/vi/NyziKyE41QA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NyziKyE41QA"
+    },
+    {
+      "id": "x0m6BiMWFbA",
+      "title": "MARKET PULSE AM DEC 12, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/x0m6BiMWFbA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x0m6BiMWFbA"
+    },
+    {
+      "id": "Zpf1Kf2al94",
+      "title": "Stronger safeguards earn Malaysia global watchdog's top ranking",
+      "thumbnail": "https://i.ytimg.com/vi/Zpf1Kf2al94/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Zpf1Kf2al94"
     }
   ]
 }

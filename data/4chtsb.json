@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2025-12-22T15:25:08.498714",
+  "updated_at": "2025-12-24T15:24:48.776597",
   "videos": [
+    {
+      "id": "sLgXWV9-568",
+      "title": "#踊ってみた",
+      "description": "",
+      "publishedAt": "2025-12-24T05:09:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sLgXWV9-568/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sLgXWV9-568"
+    },
     {
       "id": "WERuco5lNbI",
       "title": "2026年1月31日（土）！　#テレビ信州",

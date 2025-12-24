@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2025-12-21T15:21:22.253145",
+  "updated_at": "2025-12-24T15:24:37.562957",
   "videos": [
+    {
+      "id": "9d5m6bw4nDU",
+      "title": "#SP 【番外編？】表裏一体（ゲスト：ふくしまFM北村茉倫さん)",
+      "description": "",
+      "publishedAt": "2025-12-24T08:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9d5m6bw4nDU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9d5m6bw4nDU"
+    },
     {
       "id": "DMXzmt_NKos",
       "title": "おゆらじ超スペシャル神回★ # SP【本編】ベントラーベントラー(ゲスト：ヨネダ2000)",

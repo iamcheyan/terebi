@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-12-19T15:25:49.628959",
+  "updated_at": "2025-12-24T15:24:25.310887",
   "videos": [
+    {
+      "id": "csUwlGtXaCs",
+      "title": "【12月19日（金）放送】いきいきまちだより",
+      "description": "",
+      "publishedAt": "2025-12-24T03:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/csUwlGtXaCs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=csUwlGtXaCs"
+    },
+    {
+      "id": "fY0Zdn2sE-E",
+      "title": "天然温泉でほっこり冬旅",
+      "description": "",
+      "publishedAt": "2025-12-24T00:45:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fY0Zdn2sE-E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fY0Zdn2sE-E"
+    },
     {
       "id": "DWOHNtTmaXk",
       "title": "ドキッと情報「さくらサーカス奈良公演 in 平城宮跡歴史公園」",

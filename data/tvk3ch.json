@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2025-12-23T15:25:22.555621",
+  "updated_at": "2025-12-24T15:24:10.052041",
   "videos": [
+    {
+      "id": "Vvg-lhDzImQ",
+      "title": "カナフルTV　12月21日　夜景写真家と巡る！ヨルノカナガワ調査隊",
+      "description": "",
+      "publishedAt": "2025-12-24T04:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Vvg-lhDzImQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Vvg-lhDzImQ"
+    },
+    {
+      "id": "u5PhDTFn8ww",
+      "title": "かながわ旬菜ナビ　次回予告（12月28日放送）",
+      "description": "",
+      "publishedAt": "2025-12-24T03:01:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u5PhDTFn8ww/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u5PhDTFn8ww"
+    },
     {
       "id": "SYWpZ5_fbWE",
       "title": "tvk「クルマでいこう！」公式 クルマのコトバ 急速充電器の規格 2025/12/14放送(#918)",
