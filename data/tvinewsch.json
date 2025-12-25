@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2025-12-24T15:24:30.529075",
+  "updated_at": "2025-12-25T15:22:53.555902",
   "videos": [
+    {
+      "id": "O-qPDPEZCrs",
+      "title": "【プラス1ダイジェスト】12/25(木) のニュース",
+      "description": "",
+      "publishedAt": "2025-12-25T10:12:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O-qPDPEZCrs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O-qPDPEZCrs"
+    },
+    {
+      "id": "IwkRV0fz9ps",
+      "title": "元気○（マル）らいふ　【冬の肌トラブル】（2025/12/24放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2025-12-25T04:18:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IwkRV0fz9ps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IwkRV0fz9ps"
+    },
     {
       "id": "1nYy1JCfrNU",
       "title": "【プラス1ダイジェスト】12/24(水) のニュース",

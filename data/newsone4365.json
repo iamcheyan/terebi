@@ -1,8 +1,32 @@
 {
   "channel_id": "UCbscuGVoILLewd22RFnHpOw",
   "channel_name": "東海テレビ",
-  "updated_at": "2025-12-24T15:24:57.886785",
+  "updated_at": "2025-12-25T15:23:17.810040",
   "videos": [
+    {
+      "id": "V2rBY3yb2DA",
+      "title": "愛知県議会だより～令和７年１２月定例議会から～",
+      "description": "",
+      "publishedAt": "2025-12-25T02:30:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V2rBY3yb2DA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V2rBY3yb2DA"
+    },
+    {
+      "id": "kYX26R7AEVo",
+      "title": "Ｆｕｔｕｒｅ Ｒｏａｄ　～愛知から世界へ！夢追うジュニアアスリート～　2025年12月24日放送",
+      "description": "",
+      "publishedAt": "2025-12-25T01:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kYX26R7AEVo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kYX26R7AEVo"
+    },
     {
       "id": "gHvYo0vSVQI",
       "title": "PR　カミのみぞ知る～三つ星シェフが地元・愛知で人生賭けた挑戦～2025年12月29日（月）午後4時55分放送",

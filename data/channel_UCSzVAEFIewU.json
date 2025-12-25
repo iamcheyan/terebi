@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2025-12-24T15:24:20.490965",
+  "updated_at": "2025-12-25T15:22:49.848239",
   "videos": [
+    {
+      "id": "mGYVwvPRiuQ",
+      "title": "令和7年度　県内一斉ライブ授業　愛顔つながる日「えひめ いじめＳＴＯＰ！デイplus」",
+      "description": "",
+      "publishedAt": "2025-12-25T01:37:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mGYVwvPRiuQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mGYVwvPRiuQ"
+    },
     {
       "id": "dhJ19aBy6g4",
       "title": "きょうの俳句＜令和7年11月放送＞ 兼題「木枯」（後半）",

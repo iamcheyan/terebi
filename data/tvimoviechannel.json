@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2025-12-24T15:24:49.140367",
+  "updated_at": "2025-12-25T15:23:11.398147",
   "videos": [
+    {
+      "id": "0DxdVSdONKs",
+      "title": "今日の５きげんテレビ（12月26日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2025-12-25T15:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0DxdVSdONKs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0DxdVSdONKs"
+    },
+    {
+      "id": "BBA_AptsG4Y",
+      "title": "５きげんクッキング ～柚子柿大根～",
+      "description": "",
+      "publishedAt": "2025-12-25T08:52:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BBA_AptsG4Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BBA_AptsG4Y"
+    },
+    {
+      "id": "mhipeCvRWkw",
+      "title": "5きげん知恵袋 ～ミカン×オレンジ～",
+      "description": "",
+      "publishedAt": "2025-12-25T08:41:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mhipeCvRWkw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mhipeCvRWkw"
+    },
     {
       "id": "IRHiWpsC9rg",
       "title": "今日の５きげんテレビ（12月25日）｜テレビ岩手",

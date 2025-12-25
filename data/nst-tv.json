@@ -1,9 +1,80 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
-  "channel_name": "NST Online",
-  "original_name": "NST新潟総合テレビ",
-  "updated_at": "2025-12-24T15:25:48.917954",
+  "channel_name": "NST新潟総合テレビ",
+  "updated_at": "2025-12-25T15:22:47.363899",
   "videos": [
+    {
+      "id": "dksvJEos-PM",
+      "title": "News@9 - Dec 25, 2025",
+      "description": "",
+      "publishedAt": "2025-12-25T13:01:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dksvJEos-PM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dksvJEos-PM"
+    },
+    {
+      "id": "mMU1ommIR5U",
+      "title": "Timeline: Datuk Seri Najib Razak’s 1MDB case",
+      "description": "",
+      "publishedAt": "2025-12-25T11:38:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mMU1ommIR5U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mMU1ommIR5U"
+    },
+    {
+      "id": "UBPMo8DfZyw",
+      "title": "Perlis assembly speaker declares three seats as vacant",
+      "description": "",
+      "publishedAt": "2025-12-25T07:23:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UBPMo8DfZyw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UBPMo8DfZyw"
+    },
+    {
+      "id": "xpxRKzRB_Uo",
+      "title": "Christmas festivities see KL city centre marred by littering",
+      "description": "",
+      "publishedAt": "2025-12-25T05:18:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xpxRKzRB_Uo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xpxRKzRB_Uo"
+    },
+    {
+      "id": "AsJDDtaiWQY",
+      "title": "Najib's 1MDB trial verdict Friday",
+      "description": "",
+      "publishedAt": "2025-12-25T02:27:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AsJDDtaiWQY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AsJDDtaiWQY"
+    },
+    {
+      "id": "WoIPt2d5xzY",
+      "title": "Carols that unite: Youths spread Christmas cheer across cultures",
+      "description": "",
+      "publishedAt": "2025-12-24T10:45:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WoIPt2d5xzY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WoIPt2d5xzY"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "NJu_US-drvxPFwZlYDG4K2rJP00",

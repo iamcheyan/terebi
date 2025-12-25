@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-12-24T15:24:57.017271",
+  "updated_at": "2025-12-25T15:23:17.380935",
   "videos": [
+    {
+      "id": "lqamF1WQUi8",
+      "title": "251225 170846 宮野下第１踏切",
+      "description": "",
+      "publishedAt": "2025-12-25T10:58:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lqamF1WQUi8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lqamF1WQUi8"
+    },
+    {
+      "id": "OcGnBEP8eUU",
+      "title": "251225 155201 キハ54ダブル（伊予宮野下駅）",
+      "description": "",
+      "publishedAt": "2025-12-25T10:51:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OcGnBEP8eUU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OcGnBEP8eUU"
+    },
     {
       "id": "OwMB4i7yex8",
       "title": "251224 155337 増田踏切 ２",
