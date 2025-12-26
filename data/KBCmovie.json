@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2025-12-24T15:24:06.285721",
+  "updated_at": "2025-12-26T15:23:23.985180",
   "videos": [
+    {
+      "id": "BQQCtQpp7aw",
+      "title": "島田洋七の朝から言わせろ～アヒージョ食べたらアチーよ～",
+      "description": "",
+      "publishedAt": "2025-12-26T09:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BQQCtQpp7aw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BQQCtQpp7aw"
+    },
     {
       "id": "_-bSsCeodgg",
       "title": "音楽のじかん #20「自分の武器を見つけよう」",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2025-12-24T15:24:10.052041",
+  "updated_at": "2025-12-26T15:23:31.321433",
   "videos": [
+    {
+      "id": "FpiYQHsLE3A",
+      "title": "かながわ旬菜ナビ 「三浦ダイコン物語」 2025/12/21放送",
+      "description": "",
+      "publishedAt": "2025-12-26T09:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FpiYQHsLE3A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FpiYQHsLE3A"
+    },
+    {
+      "id": "D97TtieChz8",
+      "title": "tvk「新車情報」公式　トヨタ　マークⅡ　1990年10月13日放送",
+      "description": "",
+      "publishedAt": "2025-12-26T09:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D97TtieChz8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D97TtieChz8"
+    },
     {
       "id": "Vvg-lhDzImQ",
       "title": "カナフルTV　12月21日　夜景写真家と巡る！ヨルノカナガワ調査隊",

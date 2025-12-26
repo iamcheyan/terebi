@@ -1,8 +1,68 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2025-12-25T15:22:49.409596",
+  "updated_at": "2025-12-26T15:24:02.427205",
   "videos": [
+    {
+      "id": "_RCUGiBWKk4",
+      "title": "【LBS】「故郷の味」で働く環境改善",
+      "description": "",
+      "publishedAt": "2025-12-26T12:01:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_RCUGiBWKk4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_RCUGiBWKk4"
+    },
+    {
+      "id": "_mTCTxNDVy8",
+      "title": "雪組大劇場公演「ボー・ブランメル～美しすぎた男～」「Prayer～祈り～」【岡田愛マリーの待てば歌劇のヅカ日和】",
+      "description": "",
+      "publishedAt": "2025-12-26T11:01:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_mTCTxNDVy8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_mTCTxNDVy8"
+    },
+    {
+      "id": "vvC7ZzOs4Dk",
+      "title": "SKE48鎌田菜月の「コワイハナシ」",
+      "description": "",
+      "publishedAt": "2025-12-26T10:01:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vvC7ZzOs4Dk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vvC7ZzOs4Dk"
+    },
+    {
+      "id": "LVQgpI3T1vE",
+      "title": "#科学実験 #ヒーロー #カガーク 爆鳴気実験の復習！🫧シャボン玉が大きくなるとどうなる！？ #サイエンス #理科",
+      "description": "",
+      "publishedAt": "2025-12-26T10:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LVQgpI3T1vE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LVQgpI3T1vE"
+    },
+    {
+      "id": "2fvb6wgPaH8",
+      "title": "SKE48佐藤佳穂の「コワイハナシ」",
+      "description": "",
+      "publishedAt": "2025-12-25T17:05:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2fvb6wgPaH8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2fvb6wgPaH8"
+    },
     {
       "id": "IUsn0-koqAI",
       "title": "「悔しさ」が原動力！トヨタの新たな挑戦【クルマとミライ】",

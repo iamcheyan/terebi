@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-12-25T15:23:08.302363",
+  "updated_at": "2025-12-26T15:24:27.122604",
   "videos": [
+    {
+      "id": "dhtOvUnA3rE",
+      "title": "【番宣】１２月３１日（水）ソラクマ～ふるさとをみつめて～",
+      "description": "",
+      "publishedAt": "2025-12-26T02:27:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dhtOvUnA3rE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dhtOvUnA3rE"
+    },
+    {
+      "id": "rso8MXep2Bs",
+      "title": "【番宣】１月７日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2025-12-26T01:08:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rso8MXep2Bs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rso8MXep2Bs"
+    },
     {
       "id": "GgZsCtXf99c",
       "title": "【番宣】１月４日（日）第６回ＲＫＫ女子ゴルフスキンズマッチ",

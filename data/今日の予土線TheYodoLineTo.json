@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2025-12-25T15:23:17.380935",
+  "updated_at": "2025-12-26T15:24:49.769554",
   "videos": [
+    {
+      "id": "NUFDFzk0uuI",
+      "title": "251226 114918 雪のちらつく小井手踏切",
+      "description": "",
+      "publishedAt": "2025-12-26T11:28:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NUFDFzk0uuI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NUFDFzk0uuI"
+    },
+    {
+      "id": "mHXVttnUTa8",
+      "title": "251226 114325 雪のちらつく小井手踏切",
+      "description": "",
+      "publishedAt": "2025-12-26T11:26:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mHXVttnUTa8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mHXVttnUTa8"
+    },
+    {
+      "id": "7Ux_X3Rnv9M",
+      "title": "251226 114003 雪のちらつく小井手踏切 ２",
+      "description": "",
+      "publishedAt": "2025-12-26T11:26:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7Ux_X3Rnv9M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7Ux_X3Rnv9M"
+    },
+    {
+      "id": "6qqfIqB0mw0",
+      "title": "251226 113644 雪のちらつく小井手踏切",
+      "description": "",
+      "publishedAt": "2025-12-26T10:53:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6qqfIqB0mw0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6qqfIqB0mw0"
+    },
     {
       "id": "lqamF1WQUi8",
       "title": "251225 170846 宮野下第１踏切",
