@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2025-12-26T15:23:31.321433",
+  "updated_at": "2025-12-27T15:21:04.207684",
   "videos": [
+    {
+      "id": "HXNuQcyVO04",
+      "title": "ハマナビ　次回予告（1月1日放送）",
+      "description": "",
+      "publishedAt": "2025-12-27T09:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HXNuQcyVO04/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HXNuQcyVO04"
+    },
+    {
+      "id": "IirSXppmU7k",
+      "title": "ハマナビ　2025年12月27日放送　食べて笑って汗かいて！ハマナビ2025総集編",
+      "description": "",
+      "publishedAt": "2025-12-27T09:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IirSXppmU7k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IirSXppmU7k"
+    },
     {
       "id": "FpiYQHsLE3A",
       "title": "かながわ旬菜ナビ 「三浦ダイコン物語」 2025/12/21放送",
