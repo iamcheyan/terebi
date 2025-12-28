@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2025-12-27T15:20:50.516333",
+  "updated_at": "2025-12-28T15:21:44.182588",
   "videos": [
+    {
+      "id": "SFq0AECsqUM",
+      "title": "ヤースーの「コワイハナシ」",
+      "description": "",
+      "publishedAt": "2025-12-27T15:50:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SFq0AECsqUM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SFq0AECsqUM"
+    },
     {
       "id": "CeX4BgyC0tw",
       "title": "【食べ歩き】年末年始のおでかけにぴったり♪おちょぼさん参道（岐阜県海津市）【あまドラ～天野っちのドライブしよう！！～】",
