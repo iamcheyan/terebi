@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2025-12-26T15:24:05.504228",
+  "updated_at": "2025-12-29T15:25:46.589937",
   "videos": [
+    {
+      "id": "RhbVKi2BKOI",
+      "title": "愛媛の戦後８０年、次世代へのバトン～高校生が伝えるメディアリテラシー",
+      "description": "",
+      "publishedAt": "2025-12-29T01:05:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RhbVKi2BKOI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RhbVKi2BKOI"
+    },
     {
       "id": "tQp8JqPHwdM",
       "title": "【昭和１００年】#39「昭和最後の年末年始」",
