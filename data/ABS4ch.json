@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2025-12-29T15:26:00.725447",
+  "updated_at": "2025-12-30T15:25:34.852337",
   "videos": [
+    {
+      "id": "P35oxvgusn4",
+      "title": "【知っトク医療のツボ】食習慣とも関係 逆流性食道炎",
+      "description": "",
+      "publishedAt": "2025-12-30T15:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P35oxvgusn4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P35oxvgusn4"
+    },
+    {
+      "id": "eKmjoIfQ9FA",
+      "title": "【秋田の年始行事】八郎潟町 一日市裸参り",
+      "description": "",
+      "publishedAt": "2025-12-30T06:00:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eKmjoIfQ9FA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eKmjoIfQ9FA"
+    },
     {
       "id": "ytnGLHnuKNw",
       "title": "【知っトク医療のツボ】暴飲暴食も原因に 胃潰瘍",

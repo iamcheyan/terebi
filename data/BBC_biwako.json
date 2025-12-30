@@ -1,8 +1,20 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2025-12-29T15:25:53.072536",
+  "updated_at": "2025-12-30T15:25:16.993838",
   "videos": [
+    {
+      "id": "7mD1SBLO_NA",
+      "title": "石山寺でお餅飾り",
+      "description": "",
+      "publishedAt": "2025-12-30T09:44:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7mD1SBLO_NA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7mD1SBLO_NA"
+    },
     {
       "id": "w10tjR7L1ec",
       "title": "20251228「三井の晩鐘」すす払い",
