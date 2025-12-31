@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2025-12-30T15:25:34.852337",
+  "updated_at": "2025-12-31T15:24:12.486734",
   "videos": [
+    {
+      "id": "OpQrqgUfD_k",
+      "title": "【秋田の年始行事】鹿角市 大日堂舞楽",
+      "description": "",
+      "publishedAt": "2025-12-31T00:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OpQrqgUfD_k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OpQrqgUfD_k"
+    },
+    {
+      "id": "cM5JbBnRkXE",
+      "title": "酒井㏌湯沢市 地元コラボTシャツ＆FMアナに大感動SP",
+      "description": "",
+      "publishedAt": "2025-12-30T23:01:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cM5JbBnRkXE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cM5JbBnRkXE"
+    },
     {
       "id": "P35oxvgusn4",
       "title": "【知っトク医療のツボ】食習慣とも関係 逆流性食道炎",

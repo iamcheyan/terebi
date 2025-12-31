@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2025-12-23T15:26:34.954493",
+  "updated_at": "2025-12-31T15:24:30.800123",
   "videos": [
+    {
+      "id": "VuW-CtuVchg",
+      "title": "TUFアプリ「たぷり」1月プレゼント！",
+      "description": "",
+      "publishedAt": "2025-12-31T15:01:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VuW-CtuVchg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VuW-CtuVchg"
+    },
+    {
+      "id": "Nk7C7YmrtOY",
+      "title": "「福島日産自動車×ステップ」1月プレゼント！",
+      "description": "",
+      "publishedAt": "2025-12-31T15:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nk7C7YmrtOY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nk7C7YmrtOY"
+    },
     {
       "id": "fvcz5dgWM4o",
       "title": "【映像】おでん「髪と台詞」　福島・白河市【カメラめせん㊷】",

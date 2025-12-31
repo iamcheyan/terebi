@@ -1,8 +1,20 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2025-12-27T15:20:55.402424",
+  "updated_at": "2025-12-31T15:24:02.333077",
   "videos": [
+    {
+      "id": "ubgEhv_wans",
+      "title": "海ごみなぜ 2 ～長崎で探求する若者たち～",
+      "description": "",
+      "publishedAt": "2025-12-31T08:01:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ubgEhv_wans/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ubgEhv_wans"
+    },
     {
       "id": "p8QlwAIZZbQ",
       "title": "井上博明前監督の「真実のバレー」で日本一へ　技術よりも大切な“感謝”を胸に西彼杵高校が春高に挑む",

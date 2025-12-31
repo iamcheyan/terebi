@@ -1,8 +1,32 @@
 {
   "channel_id": "UCrEU0b3lpZyrFh7VImwWkxA",
   "channel_name": "テレビ朝日公式チャンネル",
-  "updated_at": "2025-12-30T15:25:54.461792",
+  "updated_at": "2025-12-31T15:24:41.293188",
   "videos": [
+    {
+      "id": "rG1eyq55NQQ",
+      "title": "【くりぃむクイズ　ミラクル9】１月７日（水）よる７時　2時間SP",
+      "description": "",
+      "publishedAt": "2025-12-31T10:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rG1eyq55NQQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rG1eyq55NQQ"
+    },
+    {
+      "id": "9_PHqUDMLtg",
+      "title": "テレビアニメ【ドラえもん】2026年1月10日（土）放送 予告動画",
+      "description": "",
+      "publishedAt": "2025-12-31T00:57:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9_PHqUDMLtg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9_PHqUDMLtg"
+    },
     {
       "id": "MUTB-Ldo6Sk",
       "title": "【私の幸福時間】2025/12/16（火）～12/25（木）放送 No.931～937 福岡県",

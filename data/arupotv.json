@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2025-12-30T15:25:43.662255",
+  "updated_at": "2025-12-31T15:24:25.532382",
   "videos": [
+    {
+      "id": "PI-HUYXSu2E",
+      "title": "【番宣】１月１０日（土）ミライのタネ",
+      "description": "",
+      "publishedAt": "2025-12-31T15:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PI-HUYXSu2E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PI-HUYXSu2E"
+    },
+    {
+      "id": "8oNWE55mEGQ",
+      "title": "【番宣】１月１２日（月）第２４回ＲＫＫ学童駅伝大会",
+      "description": "",
+      "publishedAt": "2025-12-31T15:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8oNWE55mEGQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8oNWE55mEGQ"
+    },
     {
       "id": "-Nr0DqakcrI",
       "title": "【番宣】１月７日（水）NEWSゲツキン",

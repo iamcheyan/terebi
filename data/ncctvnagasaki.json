@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWkqxFZQSdkR_q8kGz6p9mw",
   "channel_name": "NCC長崎文化放送",
-  "updated_at": "2025-12-29T15:26:08.239168",
+  "updated_at": "2025-12-31T15:24:23.172681",
   "videos": [
+    {
+      "id": "FrJWhVRwljQ",
+      "title": "ライジング2026",
+      "description": "",
+      "publishedAt": "2025-12-31T15:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FrJWhVRwljQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FrJWhVRwljQ"
+    },
     {
       "id": "2A76tFB3knE",
       "title": "「核兵器のない世界への道のりは、ないとは思わない」  ロシア大使が語った、戦争と核兵器",
