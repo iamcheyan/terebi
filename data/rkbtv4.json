@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk0ErOa1N6CXes8l81lrTUg",
   "channel_name": "RKB毎日放送",
-  "updated_at": "2025-12-31T15:24:25.850407",
+  "updated_at": "2026-01-01T15:25:09.760229",
   "videos": [
+    {
+      "id": "r76EBeKJRmQ",
+      "title": "豪華お年玉クイズ　誰のモノマネでしょう＃２／めで鷹！ホークス新春ＳＰ２０２６　1月1日(木・祝) 午後2時30分放送",
+      "description": "",
+      "publishedAt": "2026-01-01T06:15:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r76EBeKJRmQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r76EBeKJRmQ"
+    },
+    {
+      "id": "RVJ76dP9gGc",
+      "title": "豪華お年玉クイズ　誰のモノマネでしょう＃１／めで鷹！ホークス新春ＳＰ２０２６　1月1日(木・祝) 午後2時30分放送",
+      "description": "",
+      "publishedAt": "2026-01-01T06:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RVJ76dP9gGc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RVJ76dP9gGc"
+    },
     {
       "id": "qi2IRIq5Eig",
       "title": "華丸の「先生！染まりんしゃったね...。」ザ・ゴールデン　1月7日(水) よる7時 OA",
