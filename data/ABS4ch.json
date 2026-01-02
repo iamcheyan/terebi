@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-01-01T15:24:52.464770",
+  "updated_at": "2026-01-02T15:24:53.233391",
   "videos": [
+    {
+      "id": "HcDZbZT9czg",
+      "title": "【特集】魅惑のキャンドル アロマでリラックス",
+      "description": "",
+      "publishedAt": "2026-01-02T15:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HcDZbZT9czg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HcDZbZT9czg"
+    },
+    {
+      "id": "geBli7R9lMw",
+      "title": "密着！老犬介護士 「幸せをあきらめない」",
+      "description": "",
+      "publishedAt": "2026-01-02T07:00:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/geBli7R9lMw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=geBli7R9lMw"
+    },
     {
       "id": "XS3Qy6Xk0SU",
       "title": "【特集】農政に翻弄された男・涌井徹 コメの可能性求め新事業へ",

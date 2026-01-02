@@ -1,8 +1,92 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-01T15:25:30.573944",
+  "updated_at": "2026-01-02T15:25:10.904405",
   "videos": [
+    {
+      "id": "ZxBLnWjaYcQ",
+      "title": "260102 141009 雪のちらつく小井手踏切 ２",
+      "description": "",
+      "publishedAt": "2026-01-02T11:15:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZxBLnWjaYcQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZxBLnWjaYcQ"
+    },
+    {
+      "id": "qro-ctVelaw",
+      "title": "260102 140657 雪のちらつく小井手踏切",
+      "description": "",
+      "publishedAt": "2026-01-02T10:45:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qro-ctVelaw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qro-ctVelaw"
+    },
+    {
+      "id": "ztGASaXIOxs",
+      "title": "260102 135205 雪のちらつく増田踏切",
+      "description": "",
+      "publishedAt": "2026-01-02T10:16:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ztGASaXIOxs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ztGASaXIOxs"
+    },
+    {
+      "id": "gPXmUf-4jTg",
+      "title": "260102 134642 雪のちらつく増田踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-01-02T09:14:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gPXmUf-4jTg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gPXmUf-4jTg"
+    },
+    {
+      "id": "PmgMuloE-cc",
+      "title": "260102 133648 雪のちらつく兼近第３踏切（すまいるえきちゃん号通過）",
+      "description": "",
+      "publishedAt": "2026-01-02T09:04:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PmgMuloE-cc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PmgMuloE-cc"
+    },
+    {
+      "id": "-sLlRZPbwcE",
+      "title": "260102 133320 雪のちらつく兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-01-02T08:58:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-sLlRZPbwcE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-sLlRZPbwcE"
+    },
+    {
+      "id": "Cxk_QdFQCoI",
+      "title": "260102 132743 雪のちらつく兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-01-02T08:40:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cxk_QdFQCoI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cxk_QdFQCoI"
+    },
     {
       "id": "PkVyVuhCODw",
       "title": "260101 141707 新年初の土居中踏切 ２",
