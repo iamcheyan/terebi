@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-01-02T15:24:37.997840",
+  "updated_at": "2026-01-03T15:21:56.540216",
   "videos": [
+    {
+      "id": "lwIq4U-4js8",
+      "title": "新春特別番組「川崎市議会」議長・副議長 新春対談2026",
+      "description": "",
+      "publishedAt": "2026-01-03T09:01:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lwIq4U-4js8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lwIq4U-4js8"
+    },
+    {
+      "id": "YD0jMEE-sRA",
+      "title": "『横浜市会「新春語り初め」』",
+      "description": "",
+      "publishedAt": "2026-01-03T09:00:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YD0jMEE-sRA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YD0jMEE-sRA"
+    },
     {
       "id": "ASOq5gO3ano",
       "title": "tvk「新車情報」公式　オートザム　レビューK１　1990年10月20日放送",

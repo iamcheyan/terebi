@@ -1,8 +1,44 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-01-02T15:24:20.406128",
+  "updated_at": "2026-01-03T15:21:19.494018",
   "videos": [
+    {
+      "id": "K5BhMc4dU9U",
+      "title": "早稲田大学生vs高田馬場駅前のごみ⑦【TOKYO LIVE/WakeUp7】",
+      "description": "",
+      "publishedAt": "2026-01-03T10:10:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K5BhMc4dU9U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K5BhMc4dU9U"
+    },
+    {
+      "id": "FU8VndDghc4",
+      "title": "早稲田大学生vs高田馬場駅前のごみ⑥【TOKYO LIVE/WakeUp7】",
+      "description": "",
+      "publishedAt": "2026-01-03T04:10:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FU8VndDghc4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FU8VndDghc4"
+    },
+    {
+      "id": "Jav02Ry9SKI",
+      "title": "23区でも進む”学校の統廃合” を解説⑦【WakeUp7/デジキジ】",
+      "description": "",
+      "publishedAt": "2026-01-02T22:10:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Jav02Ry9SKI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Jav02Ry9SKI"
+    },
     {
       "id": "fz81I2iP0-E",
       "title": "早稲田大学生vs高田馬場駅前のごみ⑤【TOKYO LIVE/WakeUp7】",

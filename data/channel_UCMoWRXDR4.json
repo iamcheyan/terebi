@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-01-01T15:24:25.901827",
+  "updated_at": "2026-01-03T15:21:45.382393",
   "videos": [
+    {
+      "id": "nyps6jcpM6Y",
+      "title": "レインボーが行く!! Men's Trip in KOREA（2025年12月20日放送）",
+      "description": "",
+      "publishedAt": "2026-01-03T11:01:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nyps6jcpM6Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nyps6jcpM6Y"
+    },
     {
       "id": "_eZ90I7YK0g",
       "title": "【ビジネストレンドスペシャル】株式会社江戸川バルブ・プロテクション（2026年1月1日放送）【チバテレ公式】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCkLqBWFde2ZJZfqojgpDqyA",
   "channel_name": "日テレ公式チャンネル",
-  "updated_at": "2026-01-01T15:25:31.065194",
+  "updated_at": "2026-01-03T15:22:23.167791",
   "videos": [
+    {
+      "id": "C63pm1qD3BE",
+      "title": "【バンバン特番をご紹介！】『ウルトラマンDASH』『世界まる見え２時間SP』",
+      "description": "",
+      "publishedAt": "2026-01-03T15:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C63pm1qD3BE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C63pm1qD3BE"
+    },
+    {
+      "id": "nDJegCtYk7E",
+      "title": "【日テレ】お正月特番をチェック！なにを見る？【2026/1/4～6】",
+      "description": "",
+      "publishedAt": "2026-01-03T02:01:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nDJegCtYk7E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nDJegCtYk7E"
+    },
     {
       "id": "y-qlao9nYfM",
       "title": "【バンバン特番をご紹介！】『はじめてのおつかい』『笑ってコラえて!新春３時間SP』",

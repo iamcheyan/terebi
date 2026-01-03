@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-02T15:25:10.904405",
+  "updated_at": "2026-01-03T15:22:22.430092",
   "videos": [
+    {
+      "id": "vqKysdVA8DM",
+      "title": "260103 134553 伊予宮野下駅（かっぱ列車行き違い）",
+      "description": "",
+      "publishedAt": "2026-01-03T09:39:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vqKysdVA8DM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vqKysdVA8DM"
+    },
+    {
+      "id": "4wp_uYvr4is",
+      "title": "260103 134030 宮野下第３踏切、および隣接する鉄橋",
+      "description": "",
+      "publishedAt": "2026-01-03T09:39:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4wp_uYvr4is/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4wp_uYvr4is"
+    },
+    {
+      "id": "vdwCi6ytXxE",
+      "title": "260103 131641 宮野下第２踏切",
+      "description": "",
+      "publishedAt": "2026-01-03T09:22:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vdwCi6ytXxE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vdwCi6ytXxE"
+    },
     {
       "id": "ZxBLnWjaYcQ",
       "title": "260102 141009 雪のちらつく小井手踏切 ２",
