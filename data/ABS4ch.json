@@ -1,8 +1,20 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-01-02T15:24:53.233391",
+  "updated_at": "2026-01-04T15:21:49.502235",
   "videos": [
+    {
+      "id": "GSeEQXtVkZw",
+      "title": "旬菜きっちん　第230回　恵方巻き",
+      "description": "",
+      "publishedAt": "2026-01-04T03:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GSeEQXtVkZw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GSeEQXtVkZw"
+    },
     {
       "id": "HcDZbZT9czg",
       "title": "【特集】魅惑のキャンドル アロマでリラックス",

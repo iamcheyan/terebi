@@ -1,8 +1,20 @@
 {
   "channel_id": "UCh0-nAqSYSYed_A4Qdz-0ww",
   "channel_name": "NBC長崎放送",
-  "updated_at": "2026-01-03T15:22:10.560480",
+  "updated_at": "2026-01-04T15:21:57.996051",
   "videos": [
+    {
+      "id": "eheSSvZHOsk",
+      "title": "KOSASA Hachiro「Struggling to Ban Nuclear Weapons」Voices of A-Bomb Survivors",
+      "description": "",
+      "publishedAt": "2026-01-03T22:05:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eheSSvZHOsk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eheSSvZHOsk"
+    },
     {
       "id": "9s9LaNf0Jtw",
       "title": "MITSUISHI Nobuyuki 「I Had Nothing Fun in My Life」Voices of A-Bomb Survivors",

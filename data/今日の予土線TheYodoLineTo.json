@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-03T15:22:22.430092",
+  "updated_at": "2026-01-04T15:22:10.877677",
   "videos": [
+    {
+      "id": "xHmEdf1n2FE",
+      "title": "260104 120032 ちいさな鉄橋",
+      "description": "",
+      "publishedAt": "2026-01-04T13:01:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xHmEdf1n2FE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xHmEdf1n2FE"
+    },
+    {
+      "id": "kJA665W84rA",
+      "title": "260104 115257 大内第２踏切",
+      "description": "",
+      "publishedAt": "2026-01-04T12:31:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kJA665W84rA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kJA665W84rA"
+    },
+    {
+      "id": "ueOLRNCVrT4",
+      "title": "260104 114928 大内第２踏切 ２",
+      "description": "",
+      "publishedAt": "2026-01-04T12:29:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ueOLRNCVrT4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ueOLRNCVrT4"
+    },
+    {
+      "id": "CkWm0B2WyBY",
+      "title": "260104 114601 大内第２踏切",
+      "description": "",
+      "publishedAt": "2026-01-04T12:09:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CkWm0B2WyBY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CkWm0B2WyBY"
+    },
+    {
+      "id": "4Df7-h5ctvw",
+      "title": "260104 113928 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-01-04T11:58:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4Df7-h5ctvw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4Df7-h5ctvw"
+    },
+    {
+      "id": "NPejt4gP1jw",
+      "title": "260104 113616 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-01-04T11:55:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NPejt4gP1jw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NPejt4gP1jw"
+    },
     {
       "id": "vqKysdVA8DM",
       "title": "260103 134553 伊予宮野下駅（かっぱ列車行き違い）",

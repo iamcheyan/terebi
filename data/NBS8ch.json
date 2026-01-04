@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2025-12-30T15:25:41.988398",
+  "updated_at": "2026-01-04T15:21:58.632505",
   "videos": [
+    {
+      "id": "VhSSRWbvhLU",
+      "title": "【八ヶ岳農業大学校】『農業教育と観光農場』未来への便り（2026年1月放送）",
+      "description": "",
+      "publishedAt": "2026-01-04T00:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VhSSRWbvhLU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VhSSRWbvhLU"
+    },
     {
       "id": "VpThSuuyFxE",
       "title": "「平和・自由・幸せとはー戦後80に語る」特別対談　善光寺大勧進栢木寛照貫主×村山由佳（直木賞作家・軽井沢町在住）",
