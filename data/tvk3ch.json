@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-01-03T15:21:56.540216",
+  "updated_at": "2026-01-05T15:27:20.363712",
   "videos": [
+    {
+      "id": "wXqfI9lFaCU",
+      "title": "カナフルTV　次回予告（1月11日放送）",
+      "description": "",
+      "publishedAt": "2026-01-05T04:00:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wXqfI9lFaCU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wXqfI9lFaCU"
+    },
+    {
+      "id": "rS8JHOsYQYk",
+      "title": "2025年12月26日【横浜明朋高等学校】ボランティア活動の取組",
+      "description": "",
+      "publishedAt": "2026-01-05T01:24:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rS8JHOsYQYk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rS8JHOsYQYk"
+    },
     {
       "id": "lwIq4U-4js8",
       "title": "新春特別番組「川崎市議会」議長・副議長 新春対談2026",

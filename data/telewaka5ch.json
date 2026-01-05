@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-01-01T15:24:02.140389",
+  "updated_at": "2026-01-05T15:27:18.189300",
   "videos": [
+    {
+      "id": "xMbmhDad64o",
+      "title": "暮らしのカルチャータイム　「プロ直伝　お掃除×整理収納」第6回",
+      "description": "",
+      "publishedAt": "2026-01-05T05:30:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xMbmhDad64o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xMbmhDad64o"
+    },
     {
       "id": "uuJqkcwlQhs",
       "title": "海から昇る初日の出 和歌山県新宮市王子ヶ浜",
