@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-01-05T15:27:20.363712",
+  "updated_at": "2026-01-06T15:26:08.144563",
   "videos": [
+    {
+      "id": "eSsBpiOooPk",
+      "title": "Ｔｈｉｓ　ｉｓ　伊豆日和！　～女子旅で行こう！冬の伊豆半島～",
+      "description": "",
+      "publishedAt": "2026-01-06T09:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eSsBpiOooPk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eSsBpiOooPk"
+    },
+    {
+      "id": "EeYovIL3Zmk",
+      "title": "tvk「クルマでいこう！」公式 2025-2026日本カー･オブ･ザ･イヤー SP 2025/12/28放送(#920)",
+      "description": "",
+      "publishedAt": "2026-01-06T09:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EeYovIL3Zmk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EeYovIL3Zmk"
+    },
     {
       "id": "wXqfI9lFaCU",
       "title": "カナフルTV　次回予告（1月11日放送）",

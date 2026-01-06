@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-05T15:27:38.989727",
+  "updated_at": "2026-01-06T15:26:44.708088",
   "videos": [
+    {
+      "id": "DmaC472OYo0",
+      "title": "260106 175341 みきゃん列車（務田駅）",
+      "description": "",
+      "publishedAt": "2026-01-06T11:49:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DmaC472OYo0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DmaC472OYo0"
+    },
+    {
+      "id": "fXN1xtsjHG4",
+      "title": "260106 173923 務田駅",
+      "description": "",
+      "publishedAt": "2026-01-06T11:43:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fXN1xtsjHG4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fXN1xtsjHG4"
+    },
+    {
+      "id": "DuTy0LDJ5Ko",
+      "title": "260106 173041 鉄橋（月見橋）",
+      "description": "",
+      "publishedAt": "2026-01-06T11:43:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DuTy0LDJ5Ko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DuTy0LDJ5Ko"
+    },
+    {
+      "id": "lzZsXx92kH8",
+      "title": "260106 172443 麓踏切",
+      "description": "",
+      "publishedAt": "2026-01-06T11:17:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lzZsXx92kH8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lzZsXx92kH8"
+    },
     {
       "id": "O9ohn63x8Ws",
       "title": "260105 152412 黄色い列車（出目駅）",

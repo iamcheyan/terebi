@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2025-12-23T15:26:15.677974",
+  "updated_at": "2026-01-06T15:26:29.719570",
   "videos": [
+    {
+      "id": "ZrBACWFFKxY",
+      "title": "【旬景とやま】富山湾冬の夜明け",
+      "description": "",
+      "publishedAt": "2026-01-06T10:36:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZrBACWFFKxY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZrBACWFFKxY"
+    },
     {
       "id": "xRDtM9oXwQQ",
       "title": "【旬景とやま】登山納めは尖山で",

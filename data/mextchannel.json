@@ -1,8 +1,32 @@
 {
   "channel_id": "UCL2DLwqqYxa0Q5DcGoQGbrw",
   "channel_name": "文部科学省（MEXT）",
-  "updated_at": "2025-12-26T15:23:58.903841",
+  "updated_at": "2026-01-06T15:26:07.268801",
   "videos": [
+    {
+      "id": "K33Uf_qoO8M",
+      "title": "つるが国際シンポジウム2025アーカイブ　2日目",
+      "description": "",
+      "publishedAt": "2026-01-06T08:10:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K33Uf_qoO8M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K33Uf_qoO8M"
+    },
+    {
+      "id": "RMdv_4TgvV0",
+      "title": "つるが国際シンポジウム2025アーカイブ　1日目",
+      "description": "",
+      "publishedAt": "2026-01-06T08:09:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RMdv_4TgvV0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RMdv_4TgvV0"
+    },
     {
       "id": "1HYjA8P1r0E",
       "title": "松本文部科学大臣記者会見（令和7年12月26日）：文部科学省",

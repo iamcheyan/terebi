@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-05T15:27:32.498565",
+  "updated_at": "2026-01-06T15:26:37.935469",
   "videos": [
+    {
+      "id": "7ltluHxMwjg",
+      "title": "今日の５きげんテレビ（1月7日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-01-06T15:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7ltluHxMwjg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7ltluHxMwjg"
+    },
+    {
+      "id": "r0GxtpPXDo0",
+      "title": "５きげんクッキング ～豆腐と長イモのクリームグラタン～",
+      "description": "",
+      "publishedAt": "2026-01-06T08:44:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r0GxtpPXDo0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r0GxtpPXDo0"
+    },
     {
       "id": "XrPlrPs_li4",
       "title": "今日の５きげんテレビ（1月6日）｜テレビ岩手",

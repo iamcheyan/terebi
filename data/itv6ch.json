@@ -1,8 +1,80 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2025-12-31T15:24:36.277230",
+  "updated_at": "2026-01-06T15:26:40.888872",
   "videos": [
+    {
+      "id": "hXXD5iKsN8o",
+      "title": "愛媛のニュース(01月06日)",
+      "description": "",
+      "publishedAt": "2026-01-06T11:36:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hXXD5iKsN8o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hXXD5iKsN8o"
+    },
+    {
+      "id": "2MIBR0jK9lw",
+      "title": "愛媛のニュース(01月05日)",
+      "description": "",
+      "publishedAt": "2026-01-06T05:10:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2MIBR0jK9lw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2MIBR0jK9lw"
+    },
+    {
+      "id": "raod9Ksn9lI",
+      "title": "愛媛のニュース(01月04日)",
+      "description": "",
+      "publishedAt": "2026-01-06T05:03:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/raod9Ksn9lI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=raod9Ksn9lI"
+    },
+    {
+      "id": "AEE2Cv9D-ng",
+      "title": "愛媛のニュース(01月03日)",
+      "description": "",
+      "publishedAt": "2026-01-06T05:02:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AEE2Cv9D-ng/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AEE2Cv9D-ng"
+    },
+    {
+      "id": "TNUbSWQjE48",
+      "title": "愛媛のニュース(01月02日)",
+      "description": "",
+      "publishedAt": "2026-01-06T04:59:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TNUbSWQjE48/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TNUbSWQjE48"
+    },
+    {
+      "id": "6kzBFAKLJic",
+      "title": "愛媛のニュース(01月01日)",
+      "description": "",
+      "publishedAt": "2026-01-06T04:56:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6kzBFAKLJic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6kzBFAKLJic"
+    },
     {
       "id": "swaa0HcvMhE",
       "title": "TVCM「itv Blue シリーズ スタート」（15秒）",

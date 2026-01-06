@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-01-04T15:21:29.402237",
+  "updated_at": "2026-01-06T15:26:14.016453",
   "videos": [
+    {
+      "id": "R6LeOz6mdjU",
+      "title": "島田洋七の朝から言わせろ～初めての出来事～",
+      "description": "",
+      "publishedAt": "2026-01-06T09:00:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R6LeOz6mdjU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R6LeOz6mdjU"
+    },
     {
       "id": "2yyfS32YlrQ",
       "title": "日本酒蔵元｜純米の祝酒",
