@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2025-12-26T15:23:42.530349",
+  "updated_at": "2026-01-07T15:28:37.276377",
   "videos": [
+    {
+      "id": "kRlscViK6cc",
+      "title": "【12月26日（金）放送】いきいきまちだより",
+      "description": "",
+      "publishedAt": "2026-01-07T03:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kRlscViK6cc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kRlscViK6cc"
+    },
+    {
+      "id": "cAaWyTN1kqU",
+      "title": "ゆうドキッ！　新春奈良人十色　奈良県知事　山下真　さん",
+      "description": "",
+      "publishedAt": "2026-01-07T02:31:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cAaWyTN1kqU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cAaWyTN1kqU"
+    },
     {
       "id": "asVhIubASuM",
       "title": "奈良クラブspirit「シーズン終了直後 選手SPインタビュー！」",
