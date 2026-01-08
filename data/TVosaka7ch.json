@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2025-12-30T15:25:21.082844",
+  "updated_at": "2026-01-08T15:29:05.087981",
   "videos": [
+    {
+      "id": "nWmeLWlFq_A",
+      "title": "加守アナが書き初めでご挨拶🎍",
+      "description": "",
+      "publishedAt": "2026-01-08T11:01:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nWmeLWlFq_A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nWmeLWlFq_A"
+    },
+    {
+      "id": "vRIgzYZQO9I",
+      "title": "【上原アナが書き初めでご挨拶🎍】",
+      "description": "",
+      "publishedAt": "2026-01-08T09:01:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vRIgzYZQO9I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vRIgzYZQO9I"
+    },
     {
       "id": "06qMD8NIhFw",
       "title": "【27卒・28卒向け】テレビ大阪は〇〇ができる  #就職 #就活 #新卒",

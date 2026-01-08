@@ -1,8 +1,20 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2026-01-07T15:28:09.611552",
+  "updated_at": "2026-01-08T15:29:08.054445",
   "videos": [
+    {
+      "id": "C0Arj4TEgMs",
+      "title": "#ローテーションズー in#藤井高校#zoo#愛媛の背中男",
+      "description": "",
+      "publishedAt": "2026-01-08T12:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C0Arj4TEgMs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C0Arj4TEgMs"
+    },
     {
       "id": "avR74bV1CpY",
       "title": "#八幡浜高校 でも#ローテーションシルエット#撮影の裏側",

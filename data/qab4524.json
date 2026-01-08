@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-01-07T15:28:50.262594",
+  "updated_at": "2026-01-08T15:29:16.740065",
   "videos": [
+    {
+      "id": "vBKzhrRvcGc",
+      "title": "スペシャルゲスト 女子高生シンガー・あずさ",
+      "description": "",
+      "publishedAt": "2026-01-08T07:48:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vBKzhrRvcGc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vBKzhrRvcGc"
+    },
     {
       "id": "_u6s1GxWVLI",
       "title": "#184 琉球料理家・嘉陽かずみさんのSOLENA",

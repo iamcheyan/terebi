@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-07T15:29:02.584555",
+  "updated_at": "2026-01-08T15:29:27.710636",
   "videos": [
+    {
+      "id": "tpcYANHrc28",
+      "title": "260108 153428 河渡踏切 ２",
+      "description": "",
+      "publishedAt": "2026-01-08T11:15:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tpcYANHrc28/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tpcYANHrc28"
+    },
+    {
+      "id": "ypbhKvEI3ic",
+      "title": "260108 153101 河渡踏切（黄色い列車通過、怒られちゃいました）",
+      "description": "",
+      "publishedAt": "2026-01-08T10:47:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ypbhKvEI3ic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ypbhKvEI3ic"
+    },
+    {
+      "id": "bB_aU9X5ndU",
+      "title": "260108 152808 河渡踏切",
+      "description": "",
+      "publishedAt": "2026-01-08T10:47:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bB_aU9X5ndU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bB_aU9X5ndU"
+    },
     {
       "id": "GtlKNaPxxrc",
       "title": "260107 155705 兼近第３踏切（すまいるえきちゃん号通過）",

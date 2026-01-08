@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-01-05T15:27:22.199699",
+  "updated_at": "2026-01-08T15:29:09.571331",
   "videos": [
+    {
+      "id": "FFVvEV3_Uq4",
+      "title": "「the CAMP」 #61【未公開バージョン】",
+      "description": "",
+      "publishedAt": "2026-01-08T14:16:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FFVvEV3_Uq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FFVvEV3_Uq4"
+    },
+    {
+      "id": "g0UPZATfEv4",
+      "title": "「the CAMP」 #61　夜景　2026年1月8日放送分",
+      "description": "",
+      "publishedAt": "2026-01-08T14:15:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g0UPZATfEv4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g0UPZATfEv4"
+    },
     {
       "id": "pufaMUqTEJo",
       "title": "遊ＢＵ～大人の部活～　#90　牛も千里、馬も千里　2026年1月5日放送分",
