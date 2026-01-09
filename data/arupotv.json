@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-01-08T15:29:17.356188",
+  "updated_at": "2026-01-09T15:27:47.296789",
   "videos": [
+    {
+      "id": "VxfpvdgGbOQ",
+      "title": "【番宣】１月１４日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-01-09T08:01:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VxfpvdgGbOQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VxfpvdgGbOQ"
+    },
+    {
+      "id": "4qMGzZF-ap4",
+      "title": "【番宣】１月１３日（火）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-01-09T08:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4qMGzZF-ap4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4qMGzZF-ap4"
+    },
+    {
+      "id": "502IiCKkikg",
+      "title": "【番宣】１月１２日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-01-09T01:01:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/502IiCKkikg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=502IiCKkikg"
+    },
     {
       "id": "s6LzmAHSVrI",
       "title": "【番宣】１月１５日（木）こんばんは熊本市",

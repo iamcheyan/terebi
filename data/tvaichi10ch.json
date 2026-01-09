@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-01-08T15:29:01.006190",
+  "updated_at": "2026-01-09T15:26:58.921448",
   "videos": [
+    {
+      "id": "YfREF3gxxrk",
+      "title": "#19 コレでピカッ！「実験ヒーロー カガーク」",
+      "description": "",
+      "publishedAt": "2026-01-09T08:55:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YfREF3gxxrk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YfREF3gxxrk"
+    },
     {
       "id": "4O-_Yh3isU4",
       "title": "水素と超電導の技術が合体！【クルマとミライ】",

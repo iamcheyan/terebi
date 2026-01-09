@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-01-08T15:28:57.668500",
+  "updated_at": "2026-01-09T15:27:31.477467",
   "videos": [
+    {
+      "id": "eMPeaP2wiWc",
+      "title": "【干支特集】うま年スタート！今年の主役・愛媛の馬たちに注目！",
+      "description": "",
+      "publishedAt": "2026-01-09T10:15:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eMPeaP2wiWc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eMPeaP2wiWc"
+    },
+    {
+      "id": "JjiRemTShKo",
+      "title": "【媛っ子最強決定戦 番外編】８の字ジャンプのコツ",
+      "description": "",
+      "publishedAt": "2026-01-09T10:15:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JjiRemTShKo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JjiRemTShKo"
+    },
     {
       "id": "E3UjEwj4Mas",
       "title": "2026年 愛媛の正月イッキ見せ！4000人の大行列に初笑い！？各地でにぎわう",

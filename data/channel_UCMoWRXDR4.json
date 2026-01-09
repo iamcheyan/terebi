@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-01-08T15:29:04.835550",
+  "updated_at": "2026-01-09T15:27:30.539093",
   "videos": [
+    {
+      "id": "BixXSC4L5d4",
+      "title": "『金曜競馬CLUB NEO』中村愛のうまコラボ（2026/1/9放送分）【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-01-09T12:30:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BixXSC4L5d4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BixXSC4L5d4"
+    },
     {
       "id": "De7kRqdcPcc",
       "title": "【ビジネストレンド】有限会社 北陸車検（2026年1月8日放送）【チバテレ公式】",

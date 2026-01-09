@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2025-12-29T15:25:45.181231",
+  "updated_at": "2026-01-09T15:27:24.164134",
   "videos": [
+    {
+      "id": "KftA1VHcCZg",
+      "title": "【予告】おぎやはぎのハピキャン特別編【キャンプ大賞 新春スペシャル】",
+      "description": "",
+      "publishedAt": "2026-01-09T03:34:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KftA1VHcCZg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KftA1VHcCZg"
+    },
+    {
+      "id": "rP2WV7KNTIo",
+      "title": "１０００名様に１万円のお年玉！",
+      "description": "",
+      "publishedAt": "2026-01-09T02:37:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rP2WV7KNTIo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rP2WV7KNTIo"
+    },
     {
       "id": "8ObzI5fDsx0",
       "title": "超町人！チョコレートサムネット 1/4(日)チョコサム新春SP ～チョコっと開運！めでたい超町人大集合【メ～テレ】",

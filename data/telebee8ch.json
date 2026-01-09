@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-01-08T15:29:20.221704",
+  "updated_at": "2026-01-09T15:27:49.921957",
   "videos": [
+    {
+      "id": "NVbQrrS10dY",
+      "title": "【公式】2026年1月16日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-01-09T11:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NVbQrrS10dY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NVbQrrS10dY"
+    },
+    {
+      "id": "bmaKGsCd92I",
+      "title": "【公式】「はじめてのびっくり」（01月09日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-01-08T09:53:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bmaKGsCd92I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bmaKGsCd92I"
+    },
     {
       "id": "-25X39aqyt4",
       "title": "【公式】2026年1月10日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-01-07T15:28:38.653073",
+  "updated_at": "2026-01-09T15:27:00.376694",
   "videos": [
+    {
+      "id": "X9K1kflNytI",
+      "title": "tvk「新車情報」公式　VWコラード　1990年11月3日放送",
+      "description": "",
+      "publishedAt": "2026-01-09T09:01:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X9K1kflNytI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X9K1kflNytI"
+    },
+    {
+      "id": "PJ7IR17n8kY",
+      "title": "かながわ旬菜ナビ 「2026 飛躍の午年 ウマく行く！」 2026/1/4放送",
+      "description": "",
+      "publishedAt": "2026-01-09T09:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PJ7IR17n8kY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PJ7IR17n8kY"
+    },
     {
       "id": "GDH0BrC53Sk",
       "title": "【毎週ライブ】2026/1/7「関内デビル」水曜２０時の素材",

@@ -1,8 +1,80 @@
 {
   "channel_id": "UCW7uiApbFl_E852MGqNILDw",
   "channel_name": "テレ玉NEWS（テレビ埼玉）",
-  "updated_at": "2026-01-08T15:29:00.365217",
+  "updated_at": "2026-01-09T15:26:56.760828",
   "videos": [
+    {
+      "id": "mRyzlPoiNic",
+      "title": "【報道特集】政財界 各界トップに聞く ことしのキーワード",
+      "description": "",
+      "publishedAt": "2026-01-09T13:01:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mRyzlPoiNic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mRyzlPoiNic"
+    },
+    {
+      "id": "wS2ax6Y2VSw",
+      "title": "さいたま市浦和区　「平和の俳句」展／埼玉県",
+      "description": "",
+      "publishedAt": "2026-01-09T09:44:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wS2ax6Y2VSw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wS2ax6Y2VSw"
+    },
+    {
+      "id": "6-FgOmNXAJs",
+      "title": "冬の風物詩　秩父市「三十槌の氷柱」／埼玉県",
+      "description": "",
+      "publishedAt": "2026-01-09T09:42:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6-FgOmNXAJs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6-FgOmNXAJs"
+    },
+    {
+      "id": "qaH4VudNB3w",
+      "title": "さいたまスーパーアリーナ　今月１３日から休館／埼玉県",
+      "description": "",
+      "publishedAt": "2026-01-09T09:41:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qaH4VudNB3w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qaH4VudNB3w"
+    },
+    {
+      "id": "SncdO_5HJKA",
+      "title": "【NEWS530】埼玉県内のニュースをお届け（2026年1月9日）",
+      "description": "",
+      "publishedAt": "2026-01-09T09:38:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SncdO_5HJKA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SncdO_5HJKA"
+    },
+    {
+      "id": "EY19ccoOLU0",
+      "title": "遺体は知人女性か　死体遺棄の疑いで５３歳男逮捕／埼玉県",
+      "description": "",
+      "publishedAt": "2026-01-09T09:37:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EY19ccoOLU0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EY19ccoOLU0"
+    },
     {
       "id": "EswDMK8_BOc",
       "title": "３学期がスタート　埼玉県内多くの小中学校で始業式",
