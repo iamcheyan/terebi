@@ -1,8 +1,80 @@
 {
   "channel_id": "UCrDj5t8Q9ZFSGft7a3PWl9g",
   "channel_name": "テレ東公式 TV TOKYO",
-  "updated_at": "2026-01-09T15:27:06.409985",
+  "updated_at": "2026-01-10T15:22:07.231918",
   "videos": [
+    {
+      "id": "xI_6av7q4WU",
+      "title": "【予告】新美の巨人たち",
+      "description": "",
+      "publishedAt": "2026-01-10T13:29:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xI_6av7q4WU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xI_6av7q4WU"
+    },
+    {
+      "id": "PgEEXHtpccE",
+      "title": "【予告】出没！アド街ック天国　～祐天寺～",
+      "description": "",
+      "publishedAt": "2026-01-10T12:50:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PgEEXHtpccE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PgEEXHtpccE"
+    },
+    {
+      "id": "AhR4JSGeIFY",
+      "title": "＜未公開！＞出川哲朗の充電させてもらえませんか？",
+      "description": "",
+      "publishedAt": "2026-01-10T11:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AhR4JSGeIFY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AhR4JSGeIFY"
+    },
+    {
+      "id": "IWFuswXn3v4",
+      "title": "【予告】出川哲朗の充電させてもらえませんか？絶景！若狭湾の旅スペシャル　敦賀⇒天橋立",
+      "description": "",
+      "publishedAt": "2026-01-10T11:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IWFuswXn3v4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IWFuswXn3v4"
+    },
+    {
+      "id": "Np9dpASgH7k",
+      "title": "【予告】土曜ゴールデン　安村やす子の金のサイコロ・銀のサイコロすごろく旅",
+      "description": "",
+      "publishedAt": "2026-01-10T11:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Np9dpASgH7k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Np9dpASgH7k"
+    },
+    {
+      "id": "tma9s62n1Tg",
+      "title": "【予告】池上彰×日本のリーダー　昭和100年",
+      "description": "",
+      "publishedAt": "2026-01-09T02:32:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tma9s62n1Tg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tma9s62n1Tg"
+    },
     {
       "id": "8bNCJ7JgmA0",
       "title": "【予告】風景の足跡＃448",

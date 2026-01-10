@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-01-09T15:27:24.164134",
+  "updated_at": "2026-01-10T15:22:24.477834",
   "videos": [
+    {
+      "id": "lDN0sZ2HouI",
+      "title": "【まるまる◎あいち】2026年1月10日放送 「東海三県一市グリーン購入キャンペーン」",
+      "description": "",
+      "publishedAt": "2026-01-10T09:01:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lDN0sZ2HouI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lDN0sZ2HouI"
+    },
     {
       "id": "KftA1VHcCZg",
       "title": "【予告】おぎやはぎのハピキャン特別編【キャンプ大賞 新春スペシャル】",

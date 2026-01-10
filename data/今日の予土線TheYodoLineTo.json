@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-09T15:27:58.670444",
+  "updated_at": "2026-01-10T15:22:59.387722",
   "videos": [
+    {
+      "id": "g0nIHHfFH5o",
+      "title": "260110 141002 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-01-10T10:15:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g0nIHHfFH5o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g0nIHHfFH5o"
+    },
+    {
+      "id": "MD-5fUXMXPU",
+      "title": "260110 140539 深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-01-10T09:43:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MD-5fUXMXPU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MD-5fUXMXPU"
+    },
+    {
+      "id": "ceRwG5OvcLU",
+      "title": "260110 135650 深田第４踏切（久々の鬼列車通過）",
+      "description": "",
+      "publishedAt": "2026-01-10T09:43:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ceRwG5OvcLU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ceRwG5OvcLU"
+    },
     {
       "id": "MDmUsdgD0WQ",
       "title": "260109 174614 伊予宮野下駅",

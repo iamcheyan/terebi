@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-01-09T15:27:05.598087",
+  "updated_at": "2026-01-10T15:22:12.907098",
   "videos": [
+    {
+      "id": "Yf4heLM0WZQ",
+      "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/1/10放送",
+      "description": "",
+      "publishedAt": "2026-01-10T01:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yf4heLM0WZQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yf4heLM0WZQ"
+    },
     {
       "id": "EDqVf8QlBgE",
       "title": "結婚はこりごり!?焦る内場勝則＆睨む未知やすえ",
