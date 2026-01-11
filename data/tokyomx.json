@@ -1,8 +1,20 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-01-10T15:22:13.504686",
+  "updated_at": "2026-01-11T15:22:16.353496",
   "videos": [
+    {
+      "id": "CzbYiJfJKt0",
+      "title": "民間調査では待機児童は4万人!?解説①【WakeUp7/デジキジ】",
+      "description": "",
+      "publishedAt": "2026-01-11T11:35:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CzbYiJfJKt0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CzbYiJfJKt0"
+    },
     {
       "id": "1pOV19UvFaU",
       "title": "【東京新聞記者解説】民間調査では4万人 待機児童の実態【WakeUp7/デジキジ】",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-01-10T15:22:39.630044",
+  "updated_at": "2026-01-11T15:22:46.752884",
   "videos": [
+    {
+      "id": "R4napZDynic",
+      "title": "あだまっこ体操！　2026年1月11日放送分",
+      "description": "",
+      "publishedAt": "2026-01-10T21:30:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R4napZDynic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R4napZDynic"
+    },
     {
       "id": "M2mqnn9skpA",
       "title": "とびまめっ!!　～メンバー対抗！Instagramいいね対決！2～　2026年1月9日放送分",

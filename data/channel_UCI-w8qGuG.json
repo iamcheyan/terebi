@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-01-09T15:27:07.887879",
+  "updated_at": "2026-01-11T15:22:32.900468",
   "videos": [
+    {
+      "id": "cWxaDUEUkeI",
+      "title": "つながるピックル",
+      "description": "",
+      "publishedAt": "2026-01-11T03:29:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cWxaDUEUkeI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cWxaDUEUkeI"
+    },
     {
       "id": "QisbEyRcuH4",
       "title": "【フル】第59回テレビ朝日ビッグスポーツ賞表彰式   世界大会金メダリストたちが集結！",

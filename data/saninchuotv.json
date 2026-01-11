@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-01-09T15:26:56.457176",
+  "updated_at": "2026-01-11T15:22:11.041093",
   "videos": [
+    {
+      "id": "UMMRss0cXts",
+      "title": "ALevel8 #7 ホンダカーズ鳥取",
+      "description": "",
+      "publishedAt": "2026-01-10T23:30:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UMMRss0cXts/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UMMRss0cXts"
+    },
     {
       "id": "4pF98paxuLM",
       "title": "【ネゴ図鑑】#187～三井住友海上～",

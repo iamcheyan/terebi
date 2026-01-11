@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-01-09T15:27:30.539093",
+  "updated_at": "2026-01-11T15:22:17.702824",
   "videos": [
+    {
+      "id": "LZsuqhPiEls",
+      "title": "『里崎智也のゴルフ直球勝負！』～ミニコーナー「ともやの小部屋」#269 ～ 澤井瞳プロ",
+      "description": "",
+      "publishedAt": "2026-01-11T15:00:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LZsuqhPiEls/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LZsuqhPiEls"
+    },
     {
       "id": "BixXSC4L5d4",
       "title": "『金曜競馬CLUB NEO』中村愛のうまコラボ（2026/1/9放送分）【チバテレ公式】",

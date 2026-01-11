@@ -1,8 +1,32 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-01-10T15:22:16.672750",
+  "updated_at": "2026-01-11T15:22:41.904513",
   "videos": [
+    {
+      "id": "ClqybCeo1B0",
+      "title": "20260111障スポ報告会",
+      "description": "",
+      "publishedAt": "2026-01-11T09:46:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ClqybCeo1B0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ClqybCeo1B0"
+    },
+    {
+      "id": "31jTvv6oYlw",
+      "title": "20260111名人位・クイーン位決定戦",
+      "description": "",
+      "publishedAt": "2026-01-11T09:33:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/31jTvv6oYlw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=31jTvv6oYlw"
+    },
     {
       "id": "y-G99bbH_WY",
       "title": "【経済特集】万博・国スポ後の滋賀経済は？経済界トップに直撃（滋賀経済NOW）2026年1月10日放送",

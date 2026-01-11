@@ -1,8 +1,32 @@
 {
   "channel_id": "UCbscuGVoILLewd22RFnHpOw",
   "channel_name": "東海テレビ",
-  "updated_at": "2026-01-10T15:23:00.371238",
+  "updated_at": "2026-01-11T15:23:10.039717",
   "videos": [
+    {
+      "id": "655mVjwjHqg",
+      "title": "ＷＡＹＳ～医療の道を拓くひと～2026年1月11日放送",
+      "description": "",
+      "publishedAt": "2026-01-11T08:43:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/655mVjwjHqg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=655mVjwjHqg"
+    },
+    {
+      "id": "J6mYm8E5MFM",
+      "title": "土ドラ『東海テレビ×WOWOW 共同製作連続ドラマ 横浜ネイバーズ Season1』第2話　1月17日（土）23時40分放送",
+      "description": "",
+      "publishedAt": "2026-01-10T15:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J6mYm8E5MFM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J6mYm8E5MFM"
+    },
     {
       "id": "bscUvi_gEGE",
       "title": "『ぐっさん家~THE GOODSUN HOUSE~』2026年1月17日（土）ぐっさん！柳沢慎吾さんと名古屋でJeep旅！　毎週土曜18：30〜",

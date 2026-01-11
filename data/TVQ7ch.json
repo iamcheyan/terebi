@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-01-10T15:22:53.280098",
+  "updated_at": "2026-01-11T15:23:01.240318",
   "videos": [
+    {
+      "id": "sOha6BsOTyE",
+      "title": "【テレQ番宣】ブルーリバーの望むところだ！（1月18日（日）13:30～）",
+      "description": "",
+      "publishedAt": "2026-01-11T04:23:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sOha6BsOTyE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sOha6BsOTyE"
+    },
+    {
+      "id": "IeV7H8UKDpk",
+      "title": "地区プロ総合優勝！おめでとう！／リンパラ！ ♯41（テレQ2026年1月10日放送）",
+      "description": "",
+      "publishedAt": "2026-01-10T15:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IeV7H8UKDpk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IeV7H8UKDpk"
+    },
     {
       "id": "kSPdvNF1xmI",
       "title": "1月17日(土)放送「土~ルデンタイム」",

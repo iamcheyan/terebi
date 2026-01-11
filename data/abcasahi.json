@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-01-09T15:27:03.322588",
+  "updated_at": "2026-01-11T15:22:24.009396",
   "videos": [
+    {
+      "id": "wwM71O5sCQw",
+      "title": "藤井隆が緊急参戦!!!",
+      "description": "",
+      "publishedAt": "2026-01-11T00:01:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wwM71O5sCQw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wwM71O5sCQw"
+    },
+    {
+      "id": "qsPa9bOets4",
+      "title": "出会ったその日に混浴",
+      "description": "",
+      "publishedAt": "2026-01-10T23:01:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qsPa9bOets4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qsPa9bOets4"
+    },
     {
       "id": "ZXK3SAIujLg",
       "title": "ドライヤーと歯磨き同時にしたい",

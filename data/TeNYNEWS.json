@@ -1,8 +1,32 @@
 {
   "channel_id": "UC_0tfCjB-pPNR8r9G9G1fTA",
   "channel_name": "TeNY新潟一番ニュース",
-  "updated_at": "2026-01-10T15:22:53.644062",
+  "updated_at": "2026-01-11T15:23:02.865149",
   "videos": [
+    {
+      "id": "WXqITGKusZ8",
+      "title": "成人の日を前に新潟市で節目を祝う「二十歳のつどい」",
+      "description": "",
+      "publishedAt": "2026-01-11T10:38:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WXqITGKusZ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WXqITGKusZ8"
+    },
+    {
+      "id": "fGC07GRbHrk",
+      "title": "12日にかけて”冬の嵐”　平地でも大雪か",
+      "description": "",
+      "publishedAt": "2026-01-11T10:34:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fGC07GRbHrk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fGC07GRbHrk"
+    },
     {
       "id": "BrFdoAGWBnE",
       "title": "「110番の日」映像も送れる通報システム公開≪新潟≫",
