@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-01-10T15:22:10.999870",
+  "updated_at": "2026-01-12T15:29:02.854352",
   "videos": [
+    {
+      "id": "i1FthZvHnF4",
+      "title": "【LBS】磨きの技極めたカクテルシェーカー",
+      "description": "",
+      "publishedAt": "2026-01-12T12:01:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i1FthZvHnF4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i1FthZvHnF4"
+    },
     {
       "id": "bB7vsJXOTLo",
       "title": "STUDIO894（愛知県瀬戸市）【あまドラ～天野っちのドライブしよう！！～】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2026-01-09T15:26:58.484608",
+  "updated_at": "2026-01-12T15:29:09.557165",
   "videos": [
+    {
+      "id": "HQr6wgsZLp8",
+      "title": "からふる　高知大丸 で開催中の THE TIME,&おめざグルメフェスタを紹介✨",
+      "description": "",
+      "publishedAt": "2026-01-12T10:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HQr6wgsZLp8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HQr6wgsZLp8"
+    },
+    {
+      "id": "PGR2xueww2s",
+      "title": "【高知！中高生ニュース】高知東工業高校　武道部",
+      "description": "",
+      "publishedAt": "2026-01-12T00:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PGR2xueww2s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PGR2xueww2s"
+    },
     {
       "id": "8LDyWd6-pWQ",
       "title": "高知の天気　10日　広い範囲で晴れ　３月下旬並みの暖かさに　山岸拓気象予報士が解説",

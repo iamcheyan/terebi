@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-09T15:27:51.343093",
+  "updated_at": "2026-01-12T15:29:23.958923",
   "videos": [
+    {
+      "id": "a1C0VVkS58A",
+      "title": "今日の５きげんテレビ（1月13日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-01-12T15:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a1C0VVkS58A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a1C0VVkS58A"
+    },
     {
       "id": "RgynOdv_eL8",
       "title": "５きげんクッキング ～アサリと七草のリゾット～",

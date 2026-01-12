@@ -1,8 +1,20 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-01-10T15:22:26.249175",
+  "updated_at": "2026-01-12T15:28:58.083462",
   "videos": [
+    {
+      "id": "3eR1qBNmBn0",
+      "title": "カナフルTV　次回予告（1月18日放送）",
+      "description": "",
+      "publishedAt": "2026-01-12T04:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3eR1qBNmBn0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3eR1qBNmBn0"
+    },
     {
       "id": "1vtNdzFOdyk",
       "title": "#関内デビル  ダイジェスト編【1月12日号】#shorts #tvk #私立恵比寿中学 #安本彩花 #lokurok #中島来弥 #dish  #cmdm #sadoriginals.",

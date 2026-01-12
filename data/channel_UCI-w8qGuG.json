@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-01-11T15:22:32.900468",
+  "updated_at": "2026-01-12T15:29:03.349418",
   "videos": [
+    {
+      "id": "sYaAkzafSGU",
+      "title": "羽生結弦”REALIVE” 4月宮城で単独公演再始動！",
+      "description": "",
+      "publishedAt": "2026-01-12T12:58:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sYaAkzafSGU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sYaAkzafSGU"
+    },
     {
       "id": "cWxaDUEUkeI",
       "title": "つながるピックル",

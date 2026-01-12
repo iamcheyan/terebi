@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-01-10T15:22:25.843164",
+  "updated_at": "2026-01-12T15:29:08.629866",
   "videos": [
+    {
+      "id": "hR2TFswPqYM",
+      "title": "成人の日　金沢で二十歳のつどい",
+      "description": "",
+      "publishedAt": "2026-01-12T11:35:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hR2TFswPqYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hR2TFswPqYM"
+    },
+    {
+      "id": "oTAYhQPs7Dg",
+      "title": "県内断続的に雪　厳しい冷え込み",
+      "description": "",
+      "publishedAt": "2026-01-12T11:35:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oTAYhQPs7Dg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oTAYhQPs7Dg"
+    },
     {
       "id": "o8o-vQlCQfk",
       "title": "３連休初日は朝から青空　兼六園で散策を楽しむ姿も",

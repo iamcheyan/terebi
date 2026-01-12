@@ -1,8 +1,188 @@
 {
   "channel_id": "UCzeRR8rMI8IkjqGx_MFlUjQ",
   "channel_name": "KTKテレビ金沢",
-  "updated_at": "2026-01-11T15:22:53.960336",
+  "updated_at": "2026-01-12T15:29:16.616903",
   "videos": [
+    {
+      "id": "1Uzd2GgPl6M",
+      "title": "【ニュースまとめ】1月12日放送分 石川に今季一番の寒波襲来も平地の積雪少なく 13日から再び強風に など",
+      "description": "",
+      "publishedAt": "2026-01-12T10:06:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1Uzd2GgPl6M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1Uzd2GgPl6M"
+    },
+    {
+      "id": "qQlFpknwI3w",
+      "title": "【ライブ】石川県発最新情報ニュースまとめ（2026年1月12日）｜テレビ金沢 公式ch",
+      "description": "",
+      "publishedAt": "2026-01-12T09:54:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qQlFpknwI3w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qQlFpknwI3w"
+    },
+    {
+      "id": "4REWZM39wdY",
+      "title": "【復興にむけ要望伝える】石川・輪島市で住民と意見交換　通行止め続く道路復旧に注文も",
+      "description": "",
+      "publishedAt": "2026-01-12T10:03:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4REWZM39wdY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4REWZM39wdY"
+    },
+    {
+      "id": "5A-S4SLlSwk",
+      "title": "【“人生設計”に“ふるさとへの思い”】3連休中の石川各地で｢二十歳のつどい｣　二十歳が描く将来の夢は… #shorts",
+      "description": "",
+      "publishedAt": "2026-01-12T09:54:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5A-S4SLlSwk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5A-S4SLlSwk"
+    },
+    {
+      "id": "LWfqy1J8FC0",
+      "title": "【“人生設計”に“ふるさとへの思い”】3連休中の石川各地で｢二十歳のつどい｣　二十歳が描く将来の夢は…",
+      "description": "",
+      "publishedAt": "2026-01-12T09:53:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LWfqy1J8FC0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LWfqy1J8FC0"
+    },
+    {
+      "id": "vWD8EXux_U8",
+      "title": "【13日から再び強風に】スキー場には“恵みの雪”　3連休最終日の石川に今季一番の寒波襲来も平地の積雪少なく #shorts",
+      "description": "",
+      "publishedAt": "2026-01-12T09:47:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vWD8EXux_U8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vWD8EXux_U8"
+    },
+    {
+      "id": "ZLp3e73oCTM",
+      "title": "【突然の“解散風”】に与野党ともに大慌て　衆院選見据えて　石川関係の衆院議員も臨戦態勢へ",
+      "description": "",
+      "publishedAt": "2026-01-12T09:45:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZLp3e73oCTM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZLp3e73oCTM"
+    },
+    {
+      "id": "hReMVz7jHcw",
+      "title": "【13日から再び強風に】スキー場には“恵みの雪”　3連休最終日の石川に今季一番の寒波襲来も平地の積雪少なく",
+      "description": "",
+      "publishedAt": "2026-01-12T09:35:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hReMVz7jHcw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hReMVz7jHcw"
+    },
+    {
+      "id": "8gc7hTI4XmI",
+      "title": "【火消しの心意気】金沢市で消防出初式行われる　防火への決意を新たに #shorts",
+      "description": "",
+      "publishedAt": "2026-01-12T03:10:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8gc7hTI4XmI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8gc7hTI4XmI"
+    },
+    {
+      "id": "CykpEjAqec0",
+      "title": "【6人の新戦力を加え】ツエーゲン金沢　クラブ創設20周年迎える　節目となるシーズンでJ2昇格へ #shorts",
+      "description": "",
+      "publishedAt": "2026-01-12T03:10:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CykpEjAqec0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CykpEjAqec0"
+    },
+    {
+      "id": "HhrpZSfrCEo",
+      "title": "【100人が決意新たに】｢若い力として能登に貢献できれば｣　石川・輪島市で“二十歳の集い” #shorts",
+      "description": "",
+      "publishedAt": "2026-01-12T03:10:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HhrpZSfrCEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HhrpZSfrCEo"
+    },
+    {
+      "id": "TvPSMevEdyw",
+      "title": "【ことし一年の飛躍を誓う】石川県剣道連盟の稽古始め　幅広い年代の選手がことし最初の稽古に汗を流す #shorts",
+      "description": "",
+      "publishedAt": "2026-01-12T03:10:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TvPSMevEdyw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TvPSMevEdyw"
+    },
+    {
+      "id": "ZFhC6OsNp9Q",
+      "title": "【強い冬型の気圧配置】石川の各地で雪降り小松・羽田便が1便欠航　昼過ぎから緩む見込み #shorts",
+      "description": "",
+      "publishedAt": "2026-01-12T03:10:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZFhC6OsNp9Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZFhC6OsNp9Q"
+    },
+    {
+      "id": "emMX4uI0kwY",
+      "title": "【港の早期復興を祈る】ことしの漁の始まりを告げる　石川・輪島市で起舟祭と大漁祈願祭行われる #shorts",
+      "description": "",
+      "publishedAt": "2026-01-12T03:10:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/emMX4uI0kwY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=emMX4uI0kwY"
+    },
+    {
+      "id": "kCEsCMhVU1c",
+      "title": "【強い冬型の気圧配置】石川の各地で雪降り小松・羽田便が1便欠航　昼過ぎから緩む見込み",
+      "description": "",
+      "publishedAt": "2026-01-12T02:53:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kCEsCMhVU1c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kCEsCMhVU1c"
+    },
     {
       "id": "uOdEVnQECtc",
       "title": "【ニュースまとめ】　1月11日放送分　ツエーゲン金沢 クラブ創設20周年迎える 節目となるシーズンでJ2昇格へ　石川県内大気の状態が非常に不安定に 交通にも影響が　など",

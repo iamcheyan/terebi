@@ -1,8 +1,20 @@
 {
   "channel_id": "UCrrsHarrLoiLTqu1LHxDJpw",
   "channel_name": "めざましテレビチャンネル（フジテレビ）",
-  "updated_at": "2026-01-10T15:22:13.817142",
+  "updated_at": "2026-01-12T15:29:00.048265",
   "videos": [
+    {
+      "id": "YqkZDFodqYI",
+      "title": "【公式】ミニアニメ『CHOPPER’s』第2話「ドアあかない／お台場」",
+      "description": "",
+      "publishedAt": "2026-01-11T23:00:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YqkZDFodqYI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YqkZDFodqYI"
+    },
     {
       "id": "sZwe_dHcNF8",
       "title": "【公式】アニメ『JOCHUM』シーズン2 第14話「餅つき大会！」",
