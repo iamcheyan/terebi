@@ -1,8 +1,44 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-01-02T15:24:49.322518",
+  "updated_at": "2026-01-13T15:28:42.189205",
   "videos": [
+    {
+      "id": "DA4QcvlHFzc",
+      "title": "「京の風」北野天満宮禰宜 橘重史さん",
+      "description": "",
+      "publishedAt": "2026-01-13T07:05:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DA4QcvlHFzc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DA4QcvlHFzc"
+    },
+    {
+      "id": "Uy0-w9232Mg",
+      "title": "新店をピックアップ！「おでかけキュンと！」",
+      "description": "",
+      "publishedAt": "2026-01-13T07:03:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Uy0-w9232Mg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Uy0-w9232Mg"
+    },
+    {
+      "id": "YvG-eYz-mWQ",
+      "title": "特集　京都経済トップに聞く！2026年の展望",
+      "description": "",
+      "publishedAt": "2026-01-13T07:01:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YvG-eYz-mWQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YvG-eYz-mWQ"
+    },
     {
       "id": "7clSLX7v16Q",
       "title": "ファブリックアーティスト gama da gama｜向日市｜【ふるさとDays】",

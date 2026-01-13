@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-01-10T15:22:24.477834",
+  "updated_at": "2026-01-13T15:28:54.403168",
   "videos": [
+    {
+      "id": "E1HPlOCDwOM",
+      "title": "【豊田合成リンク】Vol.2 見どころ紹介編",
+      "description": "",
+      "publishedAt": "2026-01-13T07:16:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E1HPlOCDwOM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E1HPlOCDwOM"
+    },
+    {
+      "id": "4V0qM7ertA0",
+      "title": "【豊田合成リンク】Vol.1 お得情報編",
+      "description": "",
+      "publishedAt": "2026-01-13T07:13:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4V0qM7ertA0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4V0qM7ertA0"
+    },
     {
       "id": "lDN0sZ2HouI",
       "title": "【まるまる◎あいち】2026年1月10日放送 「東海三県一市グリーン購入キャンペーン」",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-01-08T15:28:58.356930",
+  "updated_at": "2026-01-13T15:28:43.060191",
   "videos": [
+    {
+      "id": "R7GsSUEwGsg",
+      "title": "1月17日のプライドは福岡県春日市のトミナガコーポレーション",
+      "description": "",
+      "publishedAt": "2026-01-13T02:19:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R7GsSUEwGsg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R7GsSUEwGsg"
+    },
     {
       "id": "_ip_hs8WBU8",
       "title": "【ピリサタ】DCグッドスタート認定制度",

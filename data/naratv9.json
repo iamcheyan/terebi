@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-01-07T15:28:37.276377",
+  "updated_at": "2026-01-13T15:28:33.873407",
   "videos": [
+    {
+      "id": "IukCvsXLFO0",
+      "title": "【生中継】茅原のトンド（御所市・吉祥草寺）　提供：奈良テレビ放送",
+      "description": "",
+      "publishedAt": "2026-01-09T03:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IukCvsXLFO0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IukCvsXLFO0"
+    },
     {
       "id": "kRlscViK6cc",
       "title": "【12月26日（金）放送】いきいきまちだより",

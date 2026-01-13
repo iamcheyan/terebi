@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-12T15:29:23.958923",
+  "updated_at": "2026-01-13T15:29:20.598232",
   "videos": [
+    {
+      "id": "5oIVI3CY2HU",
+      "title": "今日の５きげんテレビ（1月14日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-01-13T15:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5oIVI3CY2HU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5oIVI3CY2HU"
+    },
+    {
+      "id": "iCGuJAlj0fI",
+      "title": "５きげんクッキング ～具だくさんの白みそミルクスープ～",
+      "description": "",
+      "publishedAt": "2026-01-13T09:21:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iCGuJAlj0fI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iCGuJAlj0fI"
+    },
+    {
+      "id": "H3BD6SEU7hY",
+      "title": "～花見先生 監修～ 2026年の5きげん占い！",
+      "description": "",
+      "publishedAt": "2026-01-13T09:08:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H3BD6SEU7hY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H3BD6SEU7hY"
+    },
     {
       "id": "a1C0VVkS58A",
       "title": "今日の５きげんテレビ（1月13日）｜テレビ岩手",

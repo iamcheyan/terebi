@@ -1,8 +1,32 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-01-12T15:28:57.278952",
+  "updated_at": "2026-01-13T15:28:48.422781",
   "videos": [
+    {
+      "id": "1XeEuJxwwq4",
+      "title": "【いろはに千鳥】千鳥、絶賛！こんな場所に絶品グルメ！？ガチ岩津めし　第5弾【1/20予告】",
+      "description": "",
+      "publishedAt": "2026-01-13T14:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1XeEuJxwwq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1XeEuJxwwq4"
+    },
+    {
+      "id": "TNDEhPmKlqg",
+      "title": "幻のイトウは釣れるか？亮さんが挑戦、エリアトラウト！【田村亮の釣りまか！262】",
+      "description": "",
+      "publishedAt": "2026-01-13T10:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TNDEhPmKlqg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TNDEhPmKlqg"
+    },
     {
       "id": "5cfqlrCtiHE",
       "title": "【ググっと！製造業　＃２５】感覚を数値化する測定装置メーカー「株式会社サン科学」",

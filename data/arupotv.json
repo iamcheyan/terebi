@@ -1,8 +1,56 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-01-11T15:22:57.894491",
+  "updated_at": "2026-01-13T15:29:12.698650",
   "videos": [
+    {
+      "id": "uhH0MOrhfTE",
+      "title": "RKKラジオフェス2026",
+      "description": "",
+      "publishedAt": "2026-01-13T10:36:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uhH0MOrhfTE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uhH0MOrhfTE"
+    },
+    {
+      "id": "9YereJG68Rw",
+      "title": "RKKラジオフェス2026",
+      "description": "",
+      "publishedAt": "2026-01-13T10:36:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9YereJG68Rw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9YereJG68Rw"
+    },
+    {
+      "id": "MZQYyMDZJu0",
+      "title": "【番宣】１月１５日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-01-13T06:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MZQYyMDZJu0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MZQYyMDZJu0"
+    },
+    {
+      "id": "9mtwv7D15fU",
+      "title": "【番宣】１月２１日（水）坂上忍が巡る熊本の酒",
+      "description": "",
+      "publishedAt": "2026-01-13T00:28:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9mtwv7D15fU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9mtwv7D15fU"
+    },
     {
       "id": "-FBvMYIfPxg",
       "title": "めざせ！くまもとの若き匠たち 第85回",
