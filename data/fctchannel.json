@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2026-01-10T15:22:41.784664",
+  "updated_at": "2026-01-14T15:29:48.086340",
   "videos": [
+    {
+      "id": "AHcKKJRAoxA",
+      "title": "おゆらじ   #39.5【番外編】オトナのおゆらじ",
+      "description": "",
+      "publishedAt": "2026-01-14T08:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AHcKKJRAoxA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AHcKKJRAoxA"
+    },
     {
       "id": "ZI1NoX0WDtw",
       "title": "おゆらじ  #39【本編】新年上等",

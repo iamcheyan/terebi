@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-01-13T15:28:51.802530",
+  "updated_at": "2026-01-14T15:28:59.348545",
   "videos": [
+    {
+      "id": "oxCvTOueDKs",
+      "title": "【東城のおいしいものを召し上がれ！】白島に咲いた産地直送のアンテナショップ",
+      "description": "",
+      "publishedAt": "2026-01-14T09:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oxCvTOueDKs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oxCvTOueDKs"
+    },
+    {
+      "id": "-Gu-PFWsOr0",
+      "title": "【キッズチャレンジスタジアム】りのちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-01-14T09:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-Gu-PFWsOr0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-Gu-PFWsOr0"
+    },
     {
       "id": "krjJdC1A1MI",
       "title": "われら！シン・呉Tuber＃35「安芸灘諸島をお得にドライブ」",

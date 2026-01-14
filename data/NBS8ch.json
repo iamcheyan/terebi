@@ -1,8 +1,44 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-01-04T15:21:58.632505",
+  "updated_at": "2026-01-14T15:29:58.165257",
   "videos": [
+    {
+      "id": "Ph3kr2chFPk",
+      "title": "信州 STREET BEAT　3×3（スリー・エックス・スリー）",
+      "description": "",
+      "publishedAt": "2026-01-14T08:09:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Ph3kr2chFPk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ph3kr2chFPk"
+    },
+    {
+      "id": "C-Uz0Bgys6g",
+      "title": "信州 STREET BEAT　KENDAMA（ケンダマ）",
+      "description": "",
+      "publishedAt": "2026-01-14T08:09:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C-Uz0Bgys6g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C-Uz0Bgys6g"
+    },
+    {
+      "id": "UFu172WMIq0",
+      "title": "信州 STREET BEAT　Baseball5（ベースボールファイブ）",
+      "description": "",
+      "publishedAt": "2026-01-14T08:08:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UFu172WMIq0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UFu172WMIq0"
+    },
     {
       "id": "VhSSRWbvhLU",
       "title": "【八ヶ岳農業大学校】『農業教育と観光農場』未来への便り（2026年1月放送）",

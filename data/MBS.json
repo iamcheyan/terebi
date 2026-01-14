@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-01-12T15:29:03.893053",
+  "updated_at": "2026-01-14T15:29:39.639742",
   "videos": [
+    {
+      "id": "IA9OcGi-tsE",
+      "title": "プチハプニング！？　辻本にツボる清水けんじｗｗ",
+      "description": "",
+      "publishedAt": "2026-01-14T10:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IA9OcGi-tsE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IA9OcGi-tsE"
+    },
+    {
+      "id": "h4gV1dJZ7Tg",
+      "title": "1/18（日）午後1時30分～『ちょっと聞いてよ！もやもやバカリ』",
+      "description": "",
+      "publishedAt": "2026-01-14T05:55:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h4gV1dJZ7Tg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h4gV1dJZ7Tg"
+    },
     {
       "id": "D_xjGBn5H94",
       "title": "正月休みが抜けきらない人へ　ちょうどいい歌ネタｗｗ",

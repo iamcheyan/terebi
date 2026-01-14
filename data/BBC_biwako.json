@@ -1,8 +1,44 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-01-13T15:28:39.099806",
+  "updated_at": "2026-01-14T15:28:50.816113",
   "videos": [
+    {
+      "id": "9nd5SIDaQCo",
+      "title": "高校生や学生がレシピ考案",
+      "description": "",
+      "publishedAt": "2026-01-14T11:01:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9nd5SIDaQCo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9nd5SIDaQCo"
+    },
+    {
+      "id": "LDSoedtG10E",
+      "title": "長浜市で鉄道写真コンテストの作品展",
+      "description": "",
+      "publishedAt": "2026-01-14T10:59:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LDSoedtG10E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LDSoedtG10E"
+    },
+    {
+      "id": "VrJoJB1N3aM",
+      "title": "長浜市でプロフェッショナル人材活用セミナー",
+      "description": "",
+      "publishedAt": "2026-01-14T10:57:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VrJoJB1N3aM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VrJoJB1N3aM"
+    },
     {
       "id": "UDel8fX9O4U",
       "title": "0113 小学校で収穫感謝祭",

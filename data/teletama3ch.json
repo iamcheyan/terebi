@@ -1,8 +1,32 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-01-13T15:28:48.422781",
+  "updated_at": "2026-01-14T15:29:40.192886",
   "videos": [
+    {
+      "id": "ET1ExXLiZ1M",
+      "title": "テレ玉くんのうた～&chocolamie（ショコラミ）と踊ろう！～3分ver",
+      "description": "",
+      "publishedAt": "2026-01-14T10:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ET1ExXLiZ1M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ET1ExXLiZ1M"
+    },
+    {
+      "id": "98-G1Wmfa6w",
+      "title": "テレ玉くんのうた～&chocolamie（ショコラミ）と踊ろう！～1分ver",
+      "description": "",
+      "publishedAt": "2026-01-14T10:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/98-G1Wmfa6w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=98-G1Wmfa6w"
+    },
     {
       "id": "1XeEuJxwwq4",
       "title": "【いろはに千鳥】千鳥、絶賛！こんな場所に絶品グルメ！？ガチ岩津めし　第5弾【1/20予告】",

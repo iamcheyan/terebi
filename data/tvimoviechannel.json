@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-13T15:29:20.598232",
+  "updated_at": "2026-01-14T15:30:09.594685",
   "videos": [
+    {
+      "id": "Ak0dnfd8JpM",
+      "title": "今日の５きげんテレビ（1月15日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-01-14T15:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ak0dnfd8JpM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ak0dnfd8JpM"
+    },
+    {
+      "id": "lyNB0gbULvU",
+      "title": "５きげんクッキング ～卵もちのショウガあん～",
+      "description": "",
+      "publishedAt": "2026-01-14T09:03:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lyNB0gbULvU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lyNB0gbULvU"
+    },
+    {
+      "id": "09tTqtALuyw",
+      "title": "５きげん知恵袋 ～タラの白子～",
+      "description": "",
+      "publishedAt": "2026-01-14T08:43:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/09tTqtALuyw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=09tTqtALuyw"
+    },
     {
       "id": "5oIVI3CY2HU",
       "title": "今日の５きげんテレビ（1月14日）｜テレビ岩手",

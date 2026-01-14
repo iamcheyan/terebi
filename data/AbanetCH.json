@@ -1,8 +1,20 @@
 {
   "channel_id": "UCE5ajTJVTrsmxZJ-V3y8CLA",
   "channel_name": "ABA青森朝日放送",
-  "updated_at": "2026-01-03T15:22:00.037604",
+  "updated_at": "2026-01-14T15:29:42.115462",
   "videos": [
+    {
+      "id": "iNr9dNJbOBU",
+      "title": "八戸公演　牛田 智大 ピアノ・リサイタル",
+      "description": "",
+      "publishedAt": "2026-01-14T05:45:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iNr9dNJbOBU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iNr9dNJbOBU"
+    },
     {
       "id": "Hu0ofggTvPg",
       "title": "「安全な毎日を支える！」消防士の一日に密着　みらい☆ルーキー",
