@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-01-14T15:29:16.544128",
+  "updated_at": "2026-01-15T15:28:43.782891",
   "videos": [
+    {
+      "id": "tYsHACUE2Og",
+      "title": "【プラス1ダイジェスト】1/15(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-01-15T10:05:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tYsHACUE2Og/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tYsHACUE2Og"
+    },
+    {
+      "id": "lAtlWRE9FHo",
+      "title": "元気○（マル）らいふ　【水頭症】（2026/1/14放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-01-15T06:01:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lAtlWRE9FHo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lAtlWRE9FHo"
+    },
     {
       "id": "j7Mjj-Fehyw",
       "title": "【プラス1ダイジェスト】1/14(水) のニュース",

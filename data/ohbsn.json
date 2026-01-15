@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-01-14T15:29:46.561140",
+  "updated_at": "2026-01-15T15:29:13.798919",
   "videos": [
+    {
+      "id": "r1GS_FkKoWw",
+      "title": "#49 「城和怜奈選手」年女インタビュー",
+      "description": "",
+      "publishedAt": "2026-01-15T04:07:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r1GS_FkKoWw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r1GS_FkKoWw"
+    },
+    {
+      "id": "18qdlv8YDmY",
+      "title": "#130 2026年1月9日(金) 2025年ベストトークの話",
+      "description": "",
+      "publishedAt": "2026-01-15T04:05:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/18qdlv8YDmY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=18qdlv8YDmY"
+    },
     {
       "id": "qEecnaBVEaQ",
       "title": "「NGT48新潟スイーツ部×ひなたまつり」＃79「青島みかん×杉本萌」",

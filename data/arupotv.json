@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-01-14T15:30:02.062678",
+  "updated_at": "2026-01-15T15:29:20.921230",
   "videos": [
+    {
+      "id": "qFSScbwpqCg",
+      "title": "【番宣】１月２２日（木）こんばんは熊本市",
+      "description": "",
+      "publishedAt": "2026-01-15T10:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qFSScbwpqCg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qFSScbwpqCg"
+    },
     {
       "id": "xvwiqhK0h04",
       "title": "【番宣】１月２１日（水）週刊山崎くん",

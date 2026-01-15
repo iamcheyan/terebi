@@ -1,8 +1,20 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-01-13T15:28:37.614815",
+  "updated_at": "2026-01-15T15:28:42.083703",
   "videos": [
+    {
+      "id": "EiD2q0CW8hk",
+      "title": "＜予告＞情熱サンフレッチェ 1月16日放送",
+      "description": "",
+      "publishedAt": "2026-01-15T02:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EiD2q0CW8hk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EiD2q0CW8hk"
+    },
     {
       "id": "rd3yYHRVKhs",
       "title": "『元就。二百万一心！』 #238　2026年1月10日",

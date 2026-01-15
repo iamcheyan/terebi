@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-01-11T15:22:26.113386",
+  "updated_at": "2026-01-15T15:28:37.562279",
   "videos": [
+    {
+      "id": "9wWzwrsMAdA",
+      "title": "島田洋七の朝から言わせろ　～佐賀のブランドを探そう！～",
+      "description": "",
+      "publishedAt": "2026-01-15T09:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9wWzwrsMAdA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9wWzwrsMAdA"
+    },
     {
       "id": "H3gziC8tYEA",
       "title": "日本酒蔵元｜蔵の兄弟とパン作り",
