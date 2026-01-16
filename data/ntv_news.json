@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-01-14T15:29:24.132281",
+  "updated_at": "2026-01-16T15:26:57.384124",
   "videos": [
+    {
+      "id": "QbcjIWs001Y",
+      "title": "Governor gives state of the state address",
+      "description": "",
+      "publishedAt": "2026-01-16T05:19:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QbcjIWs001Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QbcjIWs001Y"
+    },
     {
       "id": "wpE_KQ05RA8",
       "title": "Legislature debates. Possible first senator expulsion in Nebraska history",

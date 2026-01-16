@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-01-15T15:29:10.275253",
+  "updated_at": "2026-01-16T15:26:49.691248",
   "videos": [
+    {
+      "id": "QyPh6UJiQjI",
+      "title": "日本まんなか直送便「糖度20度！？奈良のブランドいちご、古都華の魅力に迫る！」",
+      "description": "",
+      "publishedAt": "2026-01-16T13:00:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QyPh6UJiQjI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QyPh6UJiQjI"
+    },
+    {
+      "id": "cF8s2c78Gt4",
+      "title": "お得！サーカスチケット付き宿泊プラン",
+      "description": "",
+      "publishedAt": "2026-01-16T01:16:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cF8s2c78Gt4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cF8s2c78Gt4"
+    },
     {
       "id": "vdohySxS_TA",
       "title": "【圧巻の炎】高さ6m越え！？奈良最大級の火祭り　御所市・吉祥草寺の「茅原のトンド」",

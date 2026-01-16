@@ -1,8 +1,44 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-01-15T15:29:06.490129",
+  "updated_at": "2026-01-16T15:26:45.380629",
   "videos": [
+    {
+      "id": "GBc_MprNZr8",
+      "title": "夫が遺した60年前のフィルム",
+      "description": "",
+      "publishedAt": "2026-01-16T09:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GBc_MprNZr8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GBc_MprNZr8"
+    },
+    {
+      "id": "IcAU3SAHeN0",
+      "title": "「なるみ・岡村の過ぎるTV」1月19日（月）放送",
+      "description": "",
+      "publishedAt": "2026-01-16T06:19:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IcAU3SAHeN0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IcAU3SAHeN0"
+    },
+    {
+      "id": "01p8JgvK1gY",
+      "title": "「news おかえり」1月19日（月） 午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-01-16T06:16:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/01p8JgvK1gY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=01p8JgvK1gY"
+    },
     {
       "id": "HfENZoF-Bp0",
       "title": "こういう店知ってるの良くない？",

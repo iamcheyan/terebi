@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-15T15:29:24.152660",
+  "updated_at": "2026-01-16T15:27:13.673748",
   "videos": [
+    {
+      "id": "hSpgh0NcyOE",
+      "title": "５きげんクッキング ～寒干し大根とタコのコチュジャン和え～",
+      "description": "",
+      "publishedAt": "2026-01-16T09:17:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hSpgh0NcyOE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hSpgh0NcyOE"
+    },
+    {
+      "id": "X24v_80Ozlk",
+      "title": "海鮮ろばた原始焼き ～啖（くら）～",
+      "description": "",
+      "publishedAt": "2026-01-16T09:04:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X24v_80Ozlk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X24v_80Ozlk"
+    },
     {
       "id": "UPhSfDXT5I4",
       "title": "今日の５きげんテレビ（1月16日）｜テレビ岩手",

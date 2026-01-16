@@ -1,8 +1,32 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-01-13T15:28:47.892652",
+  "updated_at": "2026-01-16T15:26:57.148627",
   "videos": [
+    {
+      "id": "dWle-XBUA3o",
+      "title": "『市町村てくてく散歩』第173回「山武市」(2026.1.16放送)【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-01-16T13:15:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dWle-XBUA3o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dWle-XBUA3o"
+    },
+    {
+      "id": "D7Yh7W_67YI",
+      "title": "『金曜競馬CLUB NEO』中村愛のうまコラボ（2026/1/16放送分）【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-01-16T12:30:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D7Yh7W_67YI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D7Yh7W_67YI"
+    },
     {
       "id": "km4db6X6XUQ",
       "title": "【流経大柏 】第104回全国高校サッカー選手権大会 全ゴール集　【チバテレ公式】",
