@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2026-01-15T15:29:14.642431",
+  "updated_at": "2026-01-17T15:22:48.486596",
   "videos": [
+    {
+      "id": "sXDeZSgVDqY",
+      "title": "おゆらじ   #40【本編】はじめ",
+      "description": "",
+      "publishedAt": "2026-01-17T08:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sXDeZSgVDqY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sXDeZSgVDqY"
+    },
     {
       "id": "qDWrBmNsd2A",
       "title": "おゆらじ   #39.5【番外編】オトナのおゆらじ",

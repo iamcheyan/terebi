@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-01-16T15:26:52.689382",
+  "updated_at": "2026-01-17T15:22:15.894503",
   "videos": [
+    {
+      "id": "Ov40bZv8nCA",
+      "title": "あのじゅうよ〜 第182回",
+      "description": "",
+      "publishedAt": "2026-01-17T14:30:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ov40bZv8nCA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ov40bZv8nCA"
+    },
     {
       "id": "C5GmDxybExI",
       "title": "自民党和歌山県連 世耕弘成氏を支持 公認候補の擁立見送り 衆院選和歌山2区 会合には二階俊博氏も出席",

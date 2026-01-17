@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-16T15:27:19.239760",
+  "updated_at": "2026-01-17T15:23:09.343331",
   "videos": [
+    {
+      "id": "QSvk-FxhIDI",
+      "title": "260117 140751 深田第５踏切",
+      "description": "",
+      "publishedAt": "2026-01-17T09:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QSvk-FxhIDI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QSvk-FxhIDI"
+    },
+    {
+      "id": "fdvHeBoSpsY",
+      "title": "260117 135800 鬼列車（深田駅）",
+      "description": "",
+      "publishedAt": "2026-01-17T08:51:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fdvHeBoSpsY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fdvHeBoSpsY"
+    },
+    {
+      "id": "xh5MsF6Hh7E",
+      "title": "260117 122627 兼近第３踏切 ２",
+      "description": "",
+      "publishedAt": "2026-01-17T08:46:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xh5MsF6Hh7E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xh5MsF6Hh7E"
+    },
+    {
+      "id": "-cN7TUIPd7c",
+      "title": "260117 122232 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-01-17T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-cN7TUIPd7c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-cN7TUIPd7c"
+    },
+    {
+      "id": "nHxLLAyTCTo",
+      "title": "260117 115711 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-01-17T08:19:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nHxLLAyTCTo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nHxLLAyTCTo"
+    },
+    {
+      "id": "UUhpJUlZT6k",
+      "title": "260117 113810 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-01-17T08:16:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UUhpJUlZT6k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UUhpJUlZT6k"
+    },
     {
       "id": "bPGLFAmZKuc",
       "title": "260116 134807 小井手踏切（鬼列車通過）",

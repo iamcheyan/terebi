@@ -1,8 +1,56 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-01-16T15:27:15.936703",
+  "updated_at": "2026-01-17T15:23:04.803387",
   "videos": [
+    {
+      "id": "D9s4Ubi2udk",
+      "title": "愛媛のニュース(01月17日)",
+      "description": "",
+      "publishedAt": "2026-01-17T11:31:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D9s4Ubi2udk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D9s4Ubi2udk"
+    },
+    {
+      "id": "xph28JCnKsM",
+      "title": "【アーカイブえひめ】開通直前の高速道路を自転車で疾走するアナウンサー 全力の突撃取材 松山自動車道を振り返ります",
+      "description": "",
+      "publishedAt": "2026-01-16T22:01:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xph28JCnKsM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xph28JCnKsM"
+    },
+    {
+      "id": "p754XwJ37GY",
+      "title": "【アーカイブえひめ】コンピューター2000年問題に向き合う人たちとお祭り騒ぎの街 ミレニアムを迎えた瞬間を振り返ります",
+      "description": "",
+      "publishedAt": "2026-01-16T22:01:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p754XwJ37GY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p754XwJ37GY"
+    },
+    {
+      "id": "fOQuTOGUBPM",
+      "title": "【アーカイブえひめ】ナイトショップいしづちにROBO SHOP？ とってもバラエティー豊かだった昔のコンビニ事情を振り返ります",
+      "description": "",
+      "publishedAt": "2026-01-16T22:00:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fOQuTOGUBPM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fOQuTOGUBPM"
+    },
     {
       "id": "z1Se67nqz34",
       "title": "愛媛のニュース(01月16日)",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-01-16T15:26:57.148627",
+  "updated_at": "2026-01-17T15:22:43.499417",
   "videos": [
+    {
+      "id": "rIQYytclSPQ",
+      "title": "千葉県ボーイズリーグダイジェスト（2025・秋）【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-01-17T10:01:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rIQYytclSPQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rIQYytclSPQ"
+    },
     {
       "id": "dWle-XBUA3o",
       "title": "『市町村てくてく散歩』第173回「山武市」(2026.1.16放送)【チバテレ公式】",

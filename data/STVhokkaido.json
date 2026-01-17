@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-01-10T15:22:50.727997",
+  "updated_at": "2026-01-17T15:22:58.243869",
   "videos": [
+    {
+      "id": "9SdnpXY0KpA",
+      "title": "「トレンド☆サプリ」#172　「当別町」",
+      "description": "",
+      "publishedAt": "2026-01-17T12:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9SdnpXY0KpA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9SdnpXY0KpA"
+    },
     {
       "id": "inTahs0E1V8",
       "title": "【どさんこWEEKEND】コープさっぽろ　協同組合の可能性",

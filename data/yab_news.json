@@ -1,8 +1,32 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
   "channel_name": "yab山口ニュース",
-  "updated_at": "2026-01-16T15:27:00.993036",
+  "updated_at": "2026-01-17T15:22:26.805778",
   "videos": [
+    {
+      "id": "QkAgPlKvzME",
+      "title": "【山口】ふれあい野球教室",
+      "description": "",
+      "publishedAt": "2026-01-17T09:52:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QkAgPlKvzME/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QkAgPlKvzME"
+    },
+    {
+      "id": "Eq5CuquBglM",
+      "title": "【山口】大学共通テスト始まる",
+      "description": "",
+      "publishedAt": "2026-01-17T09:52:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Eq5CuquBglM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Eq5CuquBglM"
+    },
     {
       "id": "A73oFRLXMMo",
       "title": "週末も気温は高めに　１月１６日（金）お天気情報",

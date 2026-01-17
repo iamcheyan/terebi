@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-01-11T15:23:03.859647",
+  "updated_at": "2026-01-17T15:23:04.068321",
   "videos": [
+    {
+      "id": "qxQ1tO2vkoo",
+      "title": "【ワクワク！やまが旅】真室川で雪国文化を体験",
+      "description": "",
+      "publishedAt": "2026-01-16T23:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qxQ1tO2vkoo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qxQ1tO2vkoo"
+    },
     {
       "id": "JLRJ3MCFHzQ",
       "title": "やまがたサンデー５　１月１１日放送分　山形県の未来を拓く！　～山形新幹線米沢トンネル（仮称）の実現へ～",

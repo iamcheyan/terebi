@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-01-16T15:26:57.835692",
+  "updated_at": "2026-01-17T15:22:31.893986",
   "videos": [
+    {
+      "id": "CmK59ufn9y0",
+      "title": "【ゆ～ばら！】えひめの食 盛り上げまっぷ＜後編＞",
+      "description": "",
+      "publishedAt": "2026-01-17T10:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CmK59ufn9y0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CmK59ufn9y0"
+    },
     {
       "id": "gvYv0ehT7zg",
       "title": "【媛さんぽ】今年最初の媛さんぽは松野町へ！",

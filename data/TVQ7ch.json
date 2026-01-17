@@ -1,8 +1,80 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-01-15T15:29:24.285487",
+  "updated_at": "2026-01-17T15:23:01.387713",
   "videos": [
+    {
+      "id": "frS_qcrbPXw",
+      "title": "1月24日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-01-17T12:01:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/frS_qcrbPXw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=frS_qcrbPXw"
+    },
+    {
+      "id": "1ujcezQYbNY",
+      "title": "アイライフスタイル ♯32 「野球を楽しむ」（テレQ 2025年1月17日放送）",
+      "description": "",
+      "publishedAt": "2026-01-17T11:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1ujcezQYbNY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1ujcezQYbNY"
+    },
+    {
+      "id": "XkutJXquoVk",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（1月24日（土）18:30～）",
+      "description": "",
+      "publishedAt": "2026-01-17T10:59:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XkutJXquoVk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XkutJXquoVk"
+    },
+    {
+      "id": "ecIM7PbXMgE",
+      "title": "【かわいいとグラマラスの間で福田典子に翻弄される村重杏奈】はてなのてん未公開トーク",
+      "description": "",
+      "publishedAt": "2026-01-17T09:55:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ecIM7PbXMgE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ecIM7PbXMgE"
+    },
+    {
+      "id": "uTtui74ZdH8",
+      "title": "【テレQ番宣】はてなのてん（1月24日(土)18:30～）",
+      "description": "",
+      "publishedAt": "2026-01-17T09:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uTtui74ZdH8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uTtui74ZdH8"
+    },
+    {
+      "id": "FQVVCuNTU4Y",
+      "title": "【テレQ番宣】ぐっ！ジョブ（1月24日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-01-17T05:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FQVVCuNTU4Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FQVVCuNTU4Y"
+    },
     {
       "id": "eNA0TN7MJ-0",
       "title": "【夢クルーズ】590 落ちない岩（岩石山）(2026年1月15日放送)",

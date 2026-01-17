@@ -1,8 +1,20 @@
 {
   "channel_id": "UC2sQjNCIMchzKhXJOTEqUcw",
   "channel_name": "富山の遊び場!TV",
-  "updated_at": "2026-01-12T15:29:08.896526",
+  "updated_at": "2026-01-17T15:22:13.985944",
   "videos": [
+    {
+      "id": "pbi7mSQGE-w",
+      "title": "初心に帰って再出発します",
+      "description": "",
+      "publishedAt": "2026-01-17T11:01:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pbi7mSQGE-w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pbi7mSQGE-w"
+    },
     {
       "id": "95XbiuI_vvs",
       "title": "【富山】日本海側を中心に警報級の大雪が再来しました",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-01-16T15:26:54.923097",
+  "updated_at": "2026-01-17T15:22:16.634897",
   "videos": [
+    {
+      "id": "qU_BqGUEfKM",
+      "title": "のとじま水族館　ジンベエザメ「モモ」死ぬ",
+      "description": "",
+      "publishedAt": "2026-01-17T08:05:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qU_BqGUEfKM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qU_BqGUEfKM"
+    },
+    {
+      "id": "vKPeQPYnM_A",
+      "title": "大学入学共通テスト始まる",
+      "description": "",
+      "publishedAt": "2026-01-17T04:43:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vKPeQPYnM_A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vKPeQPYnM_A"
+    },
     {
       "id": "71uC3ZPG4XI",
       "title": "復興支援へ連携強化　石川県と東京国立博物館が協定",

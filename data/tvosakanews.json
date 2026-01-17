@@ -1,8 +1,32 @@
 {
   "channel_id": "UCd6GEK664CTEWRZda7Fu7Lg",
   "channel_name": "Television OSAKA NEWS",
-  "updated_at": "2026-01-16T15:27:14.208220",
+  "updated_at": "2026-01-17T15:23:02.955017",
   "videos": [
+    {
+      "id": "_GNZGRvPmqM",
+      "title": "【あの日から31年】阪神淡路大震災 1.17のつどい",
+      "description": "",
+      "publishedAt": "2026-01-17T05:50:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_GNZGRvPmqM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_GNZGRvPmqM"
+    },
+    {
+      "id": "eIWFDpujYtg",
+      "title": "【命を救うのは誰か】助けられなかった…公助の限界と共助の力 消防隊員が訴える「近助」とは",
+      "description": "",
+      "publishedAt": "2026-01-17T03:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eIWFDpujYtg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eIWFDpujYtg"
+    },
     {
       "id": "FRNk4vgh7Zg",
       "title": "【地面師グループの犯行か】大阪の司法書士送検 不動産虚偽の登記申請の疑い",
