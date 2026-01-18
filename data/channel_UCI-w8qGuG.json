@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-01-16T15:26:48.689241",
+  "updated_at": "2026-01-18T15:22:12.632085",
   "videos": [
+    {
+      "id": "clcvOzXERAc",
+      "title": "【LIVE】ボッチャ日本選手権 BC2男子決勝",
+      "description": "",
+      "publishedAt": "2026-01-18T06:50:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/clcvOzXERAc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=clcvOzXERAc"
+    },
+    {
+      "id": "I0i7ZvIuN74",
+      "title": "【貴重】森保一監督の素顔を近藤千尋が丸裸に!!",
+      "description": "",
+      "publishedAt": "2026-01-17T22:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I0i7ZvIuN74/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I0i7ZvIuN74"
+    },
     {
       "id": "tWgGBCis6TE",
       "title": "【注目選手は！？】初開催！Bリーグドラフト４つのポイント！！",

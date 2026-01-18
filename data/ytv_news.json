@@ -1,8 +1,32 @@
 {
   "channel_id": "UCv7_krlrre3GQi79d4guxHQ",
   "channel_name": "読売テレビ（ytv）",
-  "updated_at": "2026-01-17T15:22:13.508397",
+  "updated_at": "2026-01-18T15:22:15.183955",
   "videos": [
+    {
+      "id": "yrRGj95BbbA",
+      "title": "ミナミのバー摘発　ぼったくり被害相談続出",
+      "description": "",
+      "publishedAt": "2026-01-18T10:05:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yrRGj95BbbA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yrRGj95BbbA"
+    },
+    {
+      "id": "On9Z4ifVS4c",
+      "title": "三十三間堂で「通し矢」　立志はたちの弓",
+      "description": "",
+      "publishedAt": "2026-01-18T03:23:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/On9Z4ifVS4c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=On9Z4ifVS4c"
+    },
     {
       "id": "iu1oCAxSlxI",
       "title": "【LIVE】“次へ” 阪神・淡路大震災31年　かんさい情報ネットten.報道特番を地上波同時生配信　ライブ配信",

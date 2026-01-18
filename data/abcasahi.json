@@ -1,8 +1,44 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-01-16T15:26:45.380629",
+  "updated_at": "2026-01-18T15:21:41.338016",
   "videos": [
+    {
+      "id": "Y0_YkheK75E",
+      "title": "夫婦で酪農一筋50年！ #ポツンと一軒家",
+      "description": "",
+      "publishedAt": "2026-01-18T08:00:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y0_YkheK75E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y0_YkheK75E"
+    },
+    {
+      "id": "c0R1oBdJJMU",
+      "title": "華丸が大絶賛するうなぎとは!?",
+      "description": "",
+      "publishedAt": "2026-01-18T00:00:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c0R1oBdJJMU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c0R1oBdJJMU"
+    },
+    {
+      "id": "tsRzY-g3Nlo",
+      "title": "借金600万のコンテナ生活からの逆転",
+      "description": "",
+      "publishedAt": "2026-01-17T23:01:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tsRzY-g3Nlo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tsRzY-g3Nlo"
+    },
     {
       "id": "GBc_MprNZr8",
       "title": "夫が遺した60年前のフィルム",

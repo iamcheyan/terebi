@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-01-17T15:22:43.499417",
+  "updated_at": "2026-01-18T15:21:50.503056",
   "videos": [
+    {
+      "id": "EKOsUsENgPg",
+      "title": "『里崎智也のゴルフ直球勝負！』～ミニコーナー「ともやの小部屋」#270 ～ 澤井瞳プロ",
+      "description": "",
+      "publishedAt": "2026-01-18T15:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EKOsUsENgPg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EKOsUsENgPg"
+    },
     {
       "id": "rIQYytclSPQ",
       "title": "千葉県ボーイズリーグダイジェスト（2025・秋）【チバテレ公式】",

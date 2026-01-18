@@ -1,8 +1,20 @@
 {
   "channel_id": "UCL3peEBSiAkEMDuxNkffbvw",
   "channel_name": "YBS山梨放送",
-  "updated_at": "2026-01-17T15:22:21.238029",
+  "updated_at": "2026-01-18T15:21:39.945101",
   "videos": [
+    {
+      "id": "_qdu714QT1E",
+      "title": "【富士山ライブカメラ】Mt.FUJI Live Camera",
+      "description": "",
+      "publishedAt": "2026-01-17T22:29:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_qdu714QT1E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_qdu714QT1E"
+    },
     {
       "id": "fzzdsaIN5h4",
       "title": "扇山の山林火災 山梨県内で戦後最大の山火事被害に 焼失面積は 376haに拡大 山梨",

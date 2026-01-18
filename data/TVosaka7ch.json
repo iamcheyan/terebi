@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-01-17T15:22:07.654567",
+  "updated_at": "2026-01-18T15:22:05.489575",
   "videos": [
+    {
+      "id": "y8PKs_rTAJQ",
+      "title": "食遺産File.230「あんかけ水菜チャーハン」＠大阪府・貝塚市",
+      "description": "",
+      "publishedAt": "2026-01-18T03:45:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y8PKs_rTAJQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y8PKs_rTAJQ"
+    },
     {
       "id": "diS4ledWaWY",
       "title": "【よゐこ有野×大阪】激うま豚角煮＆お米！本町の極上ランチを食らう／大阪の街の“攻略法”を探す街ブラ",

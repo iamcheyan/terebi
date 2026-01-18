@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-01-17T15:23:01.387713",
+  "updated_at": "2026-01-18T15:22:36.384006",
   "videos": [
+    {
+      "id": "gGbvN6xcCf8",
+      "title": "【テレQ番宣】ブルーリバーの望むところだ！（1月25日（日）13:30～）",
+      "description": "",
+      "publishedAt": "2026-01-18T04:23:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gGbvN6xcCf8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gGbvN6xcCf8"
+    },
+    {
+      "id": "4pAU4bVsEuo",
+      "title": "バレンタインバスケットを作ろう！／園芸させてもらえませんか？_130",
+      "description": "",
+      "publishedAt": "2026-01-18T03:29:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4pAU4bVsEuo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4pAU4bVsEuo"
+    },
+    {
+      "id": "cSeG50b_XmI",
+      "title": "地区プロ深堀りPart1／リンパラ！ ♯42（テレQ2026年1月17日放送）",
+      "description": "",
+      "publishedAt": "2026-01-17T15:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cSeG50b_XmI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cSeG50b_XmI"
+    },
     {
       "id": "frS_qcrbPXw",
       "title": "1月24日(土)放送「土~ルデンタイム」",

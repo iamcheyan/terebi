@@ -1,8 +1,20 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-01-17T15:22:18.155710",
+  "updated_at": "2026-01-18T15:22:16.699829",
   "videos": [
+    {
+      "id": "8VxcJaiNqzQ",
+      "title": "女性記者が解説”産後クライシス”①【WakeUp7/デジキジ】",
+      "description": "",
+      "publishedAt": "2026-01-18T11:35:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8VxcJaiNqzQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8VxcJaiNqzQ"
+    },
     {
       "id": "6fH19gXr68Q",
       "title": "【東京新聞記者解説】産後クライシス 夫婦2人の食い違う現実【WakeUp7/デジキジ】",

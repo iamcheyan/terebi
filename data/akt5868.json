@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-01-13T15:28:57.111589",
+  "updated_at": "2026-01-18T15:22:21.052132",
   "videos": [
+    {
+      "id": "8DQ2sDLgpVg",
+      "title": "あだまっこ体操！　2026年1月18日放送分",
+      "description": "",
+      "publishedAt": "2026-01-17T21:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8DQ2sDLgpVg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8DQ2sDLgpVg"
+    },
     {
       "id": "LSgY51OglJQ",
       "title": "スポーツの力　秋田北高校 バレーボール部　伊東花優選手　2026年1月13日放送分",
