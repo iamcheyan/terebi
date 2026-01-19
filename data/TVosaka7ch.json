@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-01-18T15:22:05.489575",
+  "updated_at": "2026-01-19T15:28:48.732815",
   "videos": [
+    {
+      "id": "9bJjKkA-0s8",
+      "title": "舞台「UNREAL-不条理雑貨店-」ティザー映像",
+      "description": "",
+      "publishedAt": "2026-01-19T13:20:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9bJjKkA-0s8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9bJjKkA-0s8"
+    },
     {
       "id": "y8PKs_rTAJQ",
       "title": "食遺産File.230「あんかけ水菜チャーハン」＠大阪府・貝塚市",

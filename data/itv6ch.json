@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-01-18T15:22:39.252117",
+  "updated_at": "2026-01-19T15:30:06.594617",
   "videos": [
+    {
+      "id": "_C0Lk6dh7oo",
+      "title": "愛媛のニュース(01月19日)",
+      "description": "",
+      "publishedAt": "2026-01-19T11:37:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_C0Lk6dh7oo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_C0Lk6dh7oo"
+    },
+    {
+      "id": "R80Ceztd74k",
+      "title": "STU48が愛媛をEVドライブ！【第2回】ブルークエスト with STU48（今治城編）",
+      "description": "",
+      "publishedAt": "2026-01-19T04:29:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R80Ceztd74k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R80Ceztd74k"
+    },
+    {
+      "id": "LqH2fS2_KZE",
+      "title": "愛媛MP20周年 夢のクロスロード こどものみらいプロジェクト",
+      "description": "",
+      "publishedAt": "2026-01-19T03:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LqH2fS2_KZE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LqH2fS2_KZE"
+    },
     {
       "id": "jmu2_ExNsIE",
       "title": "愛媛のニュース(01月18日)",

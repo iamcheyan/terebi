@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-01-16T15:27:09.445083",
+  "updated_at": "2026-01-19T15:29:53.192047",
   "videos": [
+    {
+      "id": "ZW51FpaNNxo",
+      "title": "#1 Teechi×伊江島 前編",
+      "description": "",
+      "publishedAt": "2026-01-19T10:00:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZW51FpaNNxo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZW51FpaNNxo"
+    },
+    {
+      "id": "s-8QtkPHdGE",
+      "title": "Listen168 Do As Infinity 大渡亮さん、伴都美子さん",
+      "description": "",
+      "publishedAt": "2026-01-19T07:54:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s-8QtkPHdGE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s-8QtkPHdGE"
+    },
     {
       "id": "kOxh1JIoQN0",
       "title": "Vol.40「30歳の椛乃ちゃんへ」神里さん一家",

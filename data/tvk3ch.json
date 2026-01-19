@@ -1,8 +1,20 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-01-17T15:22:39.894902",
+  "updated_at": "2026-01-19T15:29:28.775990",
   "videos": [
+    {
+      "id": "ko39_L6Q7Hs",
+      "title": "カナフルTV　次回予告（1月25日放送）",
+      "description": "",
+      "publishedAt": "2026-01-19T04:00:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ko39_L6Q7Hs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ko39_L6Q7Hs"
+    },
     {
       "id": "RNsoI2Q5phk",
       "title": "ハマナビ　次回予告（1月24日放送）",

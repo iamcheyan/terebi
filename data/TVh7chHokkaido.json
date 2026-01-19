@@ -1,8 +1,32 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2026-01-18T15:22:36.555391",
+  "updated_at": "2026-01-19T15:30:01.782314",
   "videos": [
+    {
+      "id": "rSVdUY8ysnM",
+      "title": "TVh杯優勝の実力者！女子スキージャンプ 鴨田鮎華選手＜前編＞",
+      "description": "",
+      "publishedAt": "2026-01-19T13:01:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rSVdUY8ysnM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rSVdUY8ysnM"
+    },
+    {
+      "id": "U0v-AT-Rcmw",
+      "title": "ライブカメラ",
+      "description": "",
+      "publishedAt": "2026-01-18T18:06:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U0v-AT-Rcmw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U0v-AT-Rcmw"
+    },
     {
       "id": "gRNhp4mvp5k",
       "title": "【必見！札幌新店ラーメン】「札幌 噂の新店ラーメン！」 旅コミ北海道    1/17 OA",

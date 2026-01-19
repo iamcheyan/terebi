@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-18T15:22:36.223146",
+  "updated_at": "2026-01-19T15:30:00.743273",
   "videos": [
+    {
+      "id": "CpIKM-vjMew",
+      "title": "今日の５きげんテレビ（1月20日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-01-19T15:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CpIKM-vjMew/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CpIKM-vjMew"
+    },
+    {
+      "id": "RSq_PMUWSzg",
+      "title": "５きげんクッキング ～魚介のピリ辛アクアパッツァ～",
+      "description": "",
+      "publishedAt": "2026-01-19T08:35:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RSq_PMUWSzg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RSq_PMUWSzg"
+    },
     {
       "id": "7KzRjzCihNM",
       "title": "今日の５きげんテレビ（1月19日）｜テレビ岩手",

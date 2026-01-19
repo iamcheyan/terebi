@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-01-14T15:29:17.117388",
+  "updated_at": "2026-01-19T15:29:12.920303",
   "videos": [
+    {
+      "id": "KnSMMgB-HL8",
+      "title": "1月24日のプライドは岡山市の漂流岡山",
+      "description": "",
+      "publishedAt": "2026-01-19T01:43:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KnSMMgB-HL8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KnSMMgB-HL8"
+    },
     {
       "id": "SE1RG9VkIaM",
       "title": "岡山県信用保証協会スペシャル　未来へ挑む！晴れの国カンパニー　＃１５６ 竹姫（倉敷市）",

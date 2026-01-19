@@ -1,8 +1,56 @@
 {
   "channel_id": "UCAhZnTMHk-TPyDzT0rt34IQ",
   "channel_name": "KKB鹿児島放送",
-  "updated_at": "2026-01-18T15:22:28.371171",
+  "original_name": "KKB鹿児島放送",
+  "updated_at": "2026-01-19T15:31:27.129191",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i6pDq0lny-1QK938W96Gi6wRF2c",
+      "id": "VVVBaFpuVE1Iay1UUHlEelQwcnQzNElRLktKZEh5b003b1Bj",
+      "snippet": {
+        "publishedAt": "2026-01-19T15:25:44Z",
+        "channelId": "UCAhZnTMHk-TPyDzT0rt34IQ",
+        "title": "【アスリートの原石】全国レベルの逸材に密着！薩摩中央高校ウエイトリフティング部 ～萩原海翔選手・鈴木実莉選手～ News+おやっと！特集",
+        "description": "「アスリートの原石」は、未来のアスリートを紹介するコーナーです。\n今回は、ウエイトリフティングの強豪！薩摩中央高校を紹介します！\nその中でも注目の1年生2人、萩原海翔選手と鈴木実莉選手を取材しました。\n\nバーベルの重さは覚悟の重さ・・・、ウエイトリフティングは心と体の真剣勝負です。\n薩摩中央高校は今年で創部13年目を迎え、これまで全国や九州で数々の賞を受賞しました。\nそんな強豪には、今年も注目選手が揃います！\n1年生の萩原海翔選手は、2025年12月の九州ジュニア選手権で床から頭上まで一気に挙げるスナッチで76キロ、床から肩、肩から頭上と2度に分けて挙げるクリーン＆ジャークで90キロを挙げ、見事、男子65キロ級を制しました！！\n萩原選手、実はまだ競技経験1年足らずなんです！？\nそして更に注目なのが女子の鈴木実莉選手です。\n1年生として鹿児島県で5年ぶりとなる全国の出場記録基準を突破しました！\n幼少期から父・理夫さんの影響でやっていたという筋トレ、中学時代は陸上部で砲丸投げや円盤投げに取り組み、それぞれ全国2位という成績を収めました。\n高い身体能力は競技を変えても発揮されています。\n1月9日から行われた全九州選抜大会では、女子69キロ級でスナッチ60キロ、クリーン＆ジャーク75キロの計135キロを挙げ、個人2位の大健闘！\nと思いきや・・・？\n\n(鈴木選手）\n「60キロは挙げたが、64キロ、67キロは落としてしまった。」\n\n表彰台に上がっても決して満足しないのが鈴木選手、やるべきことは明確だと言います。\n課題克服のため取材に訪れたこの日も熱心にフォームを確かめていました。\nストイックに自分と向き合う鈴木選手の体の土台となるのが下半身です。\n入学当初80キロだったスクワットも、今は110キロを挙げるまでに成長しました。\n鈴木選手の通学路は片道およそ7キロ、起伏の激しい山道を30分かけて自転車で通っています。\n目指すところは全国1位！！\n薩摩中央から全国へ・・・その重みある挑戦には確かな歩みがありました。\n詳しくは、動画をご覧ください。\n\n■チャンネル登録よろしくお願いします\nhttps://www.youtube.com/c/kkb5ch\n\n■KKB動画アプリ「KAPLI」\nニュース・動画・鹿児島の情報を配信中！\nhttps://www.kkb.co.jp/kapli/\n\n■「KAPLI」X（めざせ1万人！！）\nhttps://x.com/kapli_kkb\n\n#アスリートの原石\n#ウエイトリフティング\n#薩摩中央高校\n#萩原海翔\n#鈴木実莉\n#鹿児島\n#KAPLI\n#KKB",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KJdHyoM7oPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KJdHyoM7oPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KJdHyoM7oPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KJdHyoM7oPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KJdHyoM7oPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KKB鹿児島放送",
+        "playlistId": "UUAhZnTMHk-TPyDzT0rt34IQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KJdHyoM7oPc"
+        },
+        "videoOwnerChannelTitle": "KKB鹿児島放送",
+        "videoOwnerChannelId": "UCAhZnTMHk-TPyDzT0rt34IQ"
+      }
+    },
     {
       "id": "ASrKu9HtbhE",
       "title": "【てとてと】昔ながらの方法で！行灯に使用する和紙ができるまで 第13回『鶴田手漉和紙』～好きがカタチになる～",
@@ -2353,6 +2401,12 @@
         "videoOwnerChannelTitle": "KKB鹿児島放送",
         "videoOwnerChannelId": "UCAhZnTMHk-TPyDzT0rt34IQ"
       }
+    },
+    {
+      "id": "KJdHyoM7oPc",
+      "title": "【アスリートの原石】全国レベルの逸材に密着！薩摩中央高校ウエイトリフティング部 ～萩原海翔選手・鈴木実莉選手～ News+おやっと！特集",
+      "thumbnail": "https://i.ytimg.com/vi/KJdHyoM7oPc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KJdHyoM7oPc"
     }
   ]
 }

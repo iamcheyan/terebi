@@ -1,8 +1,1881 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
-  "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2026-01-18T15:22:14.679917",
+  "channel_name": "NST Online",
+  "original_name": "NST新潟総合テレビ",
+  "updated_at": "2026-01-19T15:30:49.233208",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lswilahF48JxOu6yXFI990sQO8c",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmJLZ0FMZFZfMGxV",
+      "snippet": {
+        "publishedAt": "2026-01-19T15:24:30Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "[LIVE] Sultan Ibrahim delivers Royal Address at Parliament opening.",
+        "description": "[LIVE] Sultan Ibrahim delivers Royal Address at Parliament opening.\n\nDescription\nHis Majesty Sultan Ibrahim, the King of Malaysia, delivers the Royal Address at the opening of the First Meeting of the Fifth Session of the 15th Parliament.\n\n#NSTTV\n#BHTV\n#METROTV\n\nVisit us at www.nst.com.my\nOur Facebook www.facebook.com/nstonline\nMore news at www.twitter.com/NST_Online\nAnd also www.instagram.com/nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bKgALdV_0lU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bKgALdV_0lU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bKgALdV_0lU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bKgALdV_0lU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bKgALdV_0lU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bKgALdV_0lU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F8FzAPIhdNTIzdbOHbEE7HeOL5g",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkZMVlpJUHlBZTlB",
+      "snippet": {
+        "publishedAt": "2026-01-19T04:42:25Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Namewee charged with drug possession",
+        "description": "Controversial rapper Namewee was charged with drug possession at the magistrate's court here today.\n\nThe accused, whose real name is Wee Meng Chee, pleaded not guilty when the charge was read out before magistrate Atiqah Mohamed @ Mohamad Saim.\n\nHe is accused of possessing 0.78g of Sildenafil at a hotel near Jalan Conlay on Oct 22 last year.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1359725/namewee-charged-drug-possession\n\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline #Namewee #DrugPossession #Rapper #MalaysiaCrime\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FLVZIPyAe9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FLVZIPyAe9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FLVZIPyAe9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FLVZIPyAe9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FLVZIPyAe9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FLVZIPyAe9A"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zuggAt03tZKiIoVN6KHPxbeuzs8",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjFOUHE2YVZrZ0FN",
+      "snippet": {
+        "publishedAt": "2026-01-19T04:16:48Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Teachers to receive salary hike on Jan 22 under Phase 2 of SSPA",
+        "description": "Teachers will receive a salary increase under Phase 2 of the Public Service Remuneration System (SSPA), which will be credited on Thursday (Jan 22), says Education Minister Fadhlina Sidek.\n\nThe second phase entails a 15 per cent increase for staff in the support and management-professional groups, and a seven per cent rise for the Top Management Group.\n\nThe increment will be calculated based on salaries as at Dec 31 last year.\n\nFadhlina added that 80 per cent of the ministry's budget was allocated to staff salaries.\n\nPrime Minister Datuk Seri Anwar Ibrahim had announced in May 2024 a pay rise of more than 13 per cent for civil servants, effective from December 2024 under Phase 1 of the SSPA.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1359776/teachers-receive-salary-hike-jan-22-under-phase-2-sspa\n\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline #FadhlinaSidek #Education #SalaryIncrease\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1NPq6aVkgAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1NPq6aVkgAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1NPq6aVkgAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1NPq6aVkgAM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1NPq6aVkgAM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1NPq6aVkgAM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "l17MhR4P6HNwUyZVjXKj-DPR_Cg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk45el9oZ3RmaTVZ",
+      "snippet": {
+        "publishedAt": "2026-01-19T03:41:51Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "361,384 borrowers default on RM5 13bil in PTPTN loans",
+        "description": "A total of 361,384 borrowers have never made any repayments to PTPTN, involving loans worth RM5.13 billion — enough to fund two years of education financing, directly impacting the national loan fund.\n\nPTPTN chairman Datuk Seri Norliza Abdul Rahim said repayments are crucial to support new students, especially those from low-income families. PTPTN requires about RM3 billion annually to finance 450,000 existing borrowers and 150,000 new borrowers.\n\nAs of Dec 31, 2025, only 2.59 million borrowers had repaid RM25.97 billion in total. \n\nPTPTN was established under the National Higher Education Fund Corporation Act 1997 to manage education loans, collect repayments and provide savings schemes.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1359702/361384-borrowers-default-rm513bil-ptptn-loans\n\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTOnline #PTPTN #StudentLoans #LoanDefault #EducationFunding #RM513Billion #HigherEducation #DebtCrisis #RepaymentIssues \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9z_hgtfi5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9z_hgtfi5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9z_hgtfi5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N9z_hgtfi5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N9z_hgtfi5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N9z_hgtfi5Y"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oiTwPDGX8ZvCfk2W_ks21rJejlo",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmNBdlZHZXd1dHlz",
+      "snippet": {
+        "publishedAt": "2026-01-19T03:41:28Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Govt to announce tomorrow on UPSR and PT3 revival",
+        "description": "The government will announce tomorrow whether the UPSR and PT3 examinations will be reinstated, at the launch of the National Education Development Plan 2026–2035.\n\nEducation Minister Fadhlina Sidek said the decision aims to strengthen education quality, taking into account students' needs and the potential for a more holistic assessment system.\n\nFadhlina added that the decade-long plan was intended to close gaps between schools and students, ensuring equal access to education.\n\nTwo days ago, Umno called for the reintroduction of PT3 and UPSR during its general assembly.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1359674/updated-govt-announce-tomorrow-upsr-and-pt3-revival\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTOnline #UPSR #PT3 #EducationReform #MalaysiaEducation #NationalExams #StudentAssessment #FadhlinaSidek #SchoolExams #EducationPolicy\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cAvVGewutys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cAvVGewutys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cAvVGewutys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cAvVGewutys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cAvVGewutys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cAvVGewutys"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C25xvDaJVgZv8Xa5q2-qVdmwB7E",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLndLT1p0RUlHUkk0",
+      "snippet": {
+        "publishedAt": "2026-01-19T03:01:07Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM JAN 19, 2026",
+        "description": "Bursa Malaysia opened in the red, dragged by profit-taking activities.\n \nThe 30-stock index opened about two points lower at 1,710.\n\nIt is likely to trend between 1,710 and 1,725 points today. \n\nIn the cryptocurrency market, Bitcoin dropped to RM377,100. \n\nEthereum traded lower at RM13,083 and Solana stood at RM544.\n \nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wKOZtEIGRI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wKOZtEIGRI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wKOZtEIGRI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wKOZtEIGRI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wKOZtEIGRI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wKOZtEIGRI4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wrU9up_MLWGIbAvB9GvFBqZrL0M",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm8xZ2lYX1ZZQmM4",
+      "snippet": {
+        "publishedAt": "2026-01-19T02:59:09Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Late-night fire damages 5 shophouses in Penang",
+        "description": "Five double-storey shophouses along Lebuh Presgrave here were damaged in a fire late last night, although no injuries were reported.\n\nThe blaze was brought under control by firefighters, with all occupants managing to escape safely.\n\nOne of the victims, Ooi Choon Hock, 67, described the frightening moments when the fire broke out.\n\nPenang Fire and Rescue Department assistant director of operations John Sagun Francis said the fire involved a row of five double-storey shophouses at Lots 101, 103, 105, 107 and 109 along Lebuh Presgrave, out of a total of seven units.\n\nHe said the department received an emergency call at 9.44pm and immediately dispatched fire engines to the scene.\n\nFirefighters brought the blaze under control by 10.08pm, with full extinguishment achieved at 11.11pm. Overhaul works were then carried out to ensure no residual fire hazards remained.\n\nJohn added that firefighters also rescued a cat that had been trapped inside one of the affected premises.\n\nThe case has been handed over to the fire investigation officer to determine the cause of the fire.\n\n\nRead more at: \nhttps://www.nst.com.my/news/regional/2026/01/1359616/late-night-fire-damages-5-shophouses-penang\n\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline #PenangFire #ShophouseFire #PenangNews #FireIncident #EmergencyResponse #PublicSafety\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o1giX_VYBc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o1giX_VYBc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o1giX_VYBc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o1giX_VYBc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o1giX_VYBc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o1giX_VYBc8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VszWc0hAZH2nA7G8EKSVyuEZdy4",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmlFcXV3bmtPRDRn",
+      "snippet": {
+        "publishedAt": "2026-01-19T02:27:32Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Nadia Kesuma to be buried in Jeddah after subuh prayers today",
+        "description": "Actress Nadia Kesuma will be buried in Jeddah after subuh prayers there today.\n\nHer husband, Professor Dr Muhammad Kamarul Kabilan Abdullah, said her body had already been washed by their daughter Sarah and a friend and prayers had already been performed, with him as imam.\n\nKamarul and Sarah left from Kuala Lumpur International Airport for Saudi Arabia at 5.35pm yesterday to see to preparations for Nadia's burial.\n\nThe 57-year-old lecturer had confirmed yesterday that Nadia had died on Jan 15.\n\nRead more at: \nhttps://www.nst.com.my/news/nation/2026/01/1359668/nadia-kesuma-be-buried-jeddah-after-subuh-prayers-today\n\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline #NadiaKesuma #Actress #Malaysia #Jeddah \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iEquwnkOD4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iEquwnkOD4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iEquwnkOD4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iEquwnkOD4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iEquwnkOD4g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iEquwnkOD4g"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q3oPfakiyIcNZShbGcUubGO6z8I",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkFRVmRjR2dhdkgw",
+      "snippet": {
+        "publishedAt": "2026-01-19T01:51:37Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Train collision in Spain kills 21, injures dozens",
+        "description": "A collision between two high-speed trains carrying hundreds of passengers in southern Spain killed at least 21 people and injured more than 70 on Sunday, the emergency services said.\n\nThe disaster struck when a high-speed train travelling from Malaga to Madrid derailed near Adamuz, crossing onto the other track where it hit an oncoming train, which also derailed, Spain's Adif rail body posted on X.\n\nA police spokesman initially told AFP there were five dead after the accident in the province of Cordoba, but soon after updated the toll to 21.\n\nAntonio Sanz, the top emergencies official in the southern region of Andalusia, told a press conference that at least 73 people had been injured.\n\nSpanish media said the number could reach 100, with passengers trapped in the carriages.\n\nRead more:\nhttps://www.nst.com.my/world/world/2026/01/1359603/train-collision-spain-kills-21-injures-dozens \n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AQVdcGgavH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AQVdcGgavH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AQVdcGgavH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AQVdcGgavH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AQVdcGgavH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AQVdcGgavH0"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F38zFKut9nh75P7VyUgWU_SvRYE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkdGOGxNTXF0T0xj",
+      "snippet": {
+        "publishedAt": "2026-01-16T16:15:33Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Explainer: Malaysia posts robust GDP growth in Q4. So what?",
+        "description": "Malaysia’s economy grew 5.7 per cent in the fourth quarter of 2025, faster than the 5.2 per cent expansion in the previous quarter, according to advanced GDP estimates from the Statistics Department.\n\nFor ordinary Malaysians, stronger growth matters less for the headline number and more for its impact on jobs, incomes and public services.\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GF8lMMqtOLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GF8lMMqtOLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GF8lMMqtOLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GF8lMMqtOLc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GF8lMMqtOLc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GF8lMMqtOLc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qya1HhrF1lYjNigw0FK3RbGu_JE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmpfUHU2TEZRVFZB",
+      "snippet": {
+        "publishedAt": "2026-01-16T03:19:33Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Bung Moktar discharged of corruption charges, widow's representation rejected",
+        "description": "The Sessions Court today discharged the late Datuk Seri Bung Moktar Radin from corruption charges involving RM2.8 million.\n\nHowever, the prosecution rejected representations submitted by his widow, Datin Seri Zizie Izette Abdul Samad, seeking the withdrawal of three charges of abetting corruption against her.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1357837/bung-moktar-discharged-corruption-charges-widows-representation\n----------------------------------\n#NST #NSTTV  #MalaysiaNews #NSTNews #NSTOnline  #BungMoktar #ZizieIzette #Corruption #Sabah \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j_Pu6LFQTVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j_Pu6LFQTVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j_Pu6LFQTVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j_Pu6LFQTVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j_Pu6LFQTVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 65,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j_Pu6LFQTVA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gMok6KsVFgderylrdnd78ajQ86Y",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm5aeF9pYU01ejFZ",
+      "snippet": {
+        "publishedAt": "2026-01-16T03:18:57Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Three burnt to death in Olak Lempit factory fire believed to be Rohingya nationals",
+        "description": "Three people found burnt to death in a factory fire at the Olak Lempit industrial area in Banting on Wednesday night are suspected to be Rohingya nationals.\n\nKuala Langat district police chief Superintendent Mohd Akmalrizal Radzi said preliminary findings were based on identification made by individuals claiming to be the victims' next of kin.\n\nHe added that police were investigating why the three individuals were present at the factory, which was reportedly not in operation at the time of the blaze.\n\nYesterday, it was reported that three bodies were discovered after a fire razed four factories in the area.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1357869/three-burnt-death-olak-lempit-factory-fire-believed-be-rohingya\n\n\n----------------------------------\n#NST #NSTTV#MalaysiaNews #NSTNews #NSTOnline  #Banting #ShahAlam #FactoryOnFire #KualaLangat #FireTragedy \n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZx_iaM5z1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZx_iaM5z1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZx_iaM5z1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nZx_iaM5z1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nZx_iaM5z1Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 66,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nZx_iaM5z1Y"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MeDk6pYVnpSzzsM-2foQojUrw4s",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlVaZ3pJR2FFemhR",
+      "snippet": {
+        "publishedAt": "2026-01-16T03:15:07Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Rising early-2026 costs squeeze Malaysian households",
+        "description": "Rising costs in early 2026 are straining many Malaysian households as school expenses overlap with festive spending.\n\nExperts say living costs are rising faster than incomes, forcing families to rely on savings or short-term debt.\n\nMalaysia’s household debt remains high at 84 per cent of GDP, raising concerns over long-term financial stability and limited emergency savings.\n\nWhile government aid offers some relief, stronger financial literacy and planning are seen as critical.\n\nCredit counsellors urge households to stay flexible, prioritise essentials and build emergency funds to weather ongoing economic uncertainty.\n\nRead more: https://www.nst.com.my/business/economy/2026/01/1357811/rising-early-2026-costs-squeeze-malaysian-households \n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UZgzIGaEzhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UZgzIGaEzhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UZgzIGaEzhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UZgzIGaEzhQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UZgzIGaEzhQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 67,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UZgzIGaEzhQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cjbsXSrEbk7k9XICpMwAR5kiuJI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnBqdEI3a0V5NFhz",
+      "snippet": {
+        "publishedAt": "2026-01-16T03:08:54Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "22 year old woman killed in Changlun crash after van runs red light",
+        "description": "A 22-year-old woman was killed in a road crash at the Napoh traffic lights in Kubang Pasu late Thursday night after a van allegedly ran a red light.\n\nPolice said the incident occurred at about 10.15pm along a federal road, involving a Modenas motorcycle ridden by Fatin Nursyafikah Haris Bawijad and a Toyota Hiace van driven by a 60-year-old Thai national.\n\nInitial investigations found the van, travelling from Pantai Remis, Perak to Satun, Thailand, failed to stop at the traffic signal and collided with the motorcycle exiting a junction on the left.\n\nFatin, an eatery assistant, suffered fatal injuries and was pronounced dead at the scene. Her body was sent to Jitra Hospital for a post-mortem, with the cause of death pending.\n\nThe van driver was unhurt. Police noted poor lighting conditions at the scene. The case is being investigated under Section 41(1) of the Road Transport Act for causing death by reckless or dangerous driving.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1357853/22-year-old-woman-killed-changlun-crash-after-van-runs-red-light\n\n----------------------------------\n#NST #NSTTV#MalaysiaNews #NSTNews #NSTOnline  #RoadAccident #FatalCrash #KubangPasu #Changlun #TrafficViolation #RedLight #PoliceInvestigation\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pjtB7kEy4Xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pjtB7kEy4Xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pjtB7kEy4Xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pjtB7kEy4Xs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pjtB7kEy4Xs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 68,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pjtB7kEy4Xs"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GIVzW6fnGG0CHr6iTtIhaq8BARI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLi0teXk3elFQNEVZ",
+      "snippet": {
+        "publishedAt": "2026-01-16T03:00:00Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM JAN 16, 2026",
+        "description": "Bursa Malaysia opened higher today, lifted by Wall Street gains and positive local sentiment ahead of the advance estimate for fourth-quarter 2025 GDP.\n\nThe index is expected to move within the range of 1,700 to 1,720 today.\n\nHowever, the cryptocurrency market was negative, with Bitcoin falling to RM387,938.\n\nEthereum and Solana followed suit, slipping to RM13,470 and RM577, respectively.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/--yy7zQP4EY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/--yy7zQP4EY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/--yy7zQP4EY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/--yy7zQP4EY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/--yy7zQP4EY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 69,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "--yy7zQP4EY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P2Z-OJKkHlabMO938mgsz2W1w_g",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnU4NFRMakc2WnpV",
+      "snippet": {
+        "publishedAt": "2026-01-16T02:00:06Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "[EP117] BTH: Malaysia’s military scandal, defence procurement & MACC investigations",
+        "description": "Defence procurement is once again under scrutiny. As investigations intensify into alleged corruption involving army procurement contracts, we ask the difficult questions — Why do defence scandals hit harder? Where do governance systems fail? And what reforms are needed to restore public trust?\n\nTan Sri Dr Sulaiman Mahbob and Nordin Abdullah join the show to unpack the institutional, economic, and governance implications for the country.\n\n----------------------------------\n#NST #NSTTV #DefenceProcurement #MalaysianAnti-CorruptionCommission #MACC #MilitaryGovernance #CorruptionAllegations #PublicFinance #InstitutionalReform #Transparency #Accountability #NationalSecurity #MalaysiaNews #NewStraitsTimes #NST #NSTBeyondTheHeadlines #BeritaHarian #HarianMetro #BuletinUtama #BuletinTV3 #MediaPrima\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u84TLjG6ZzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u84TLjG6ZzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u84TLjG6ZzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u84TLjG6ZzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u84TLjG6ZzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 70,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u84TLjG6ZzU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fFFTF0q3o9ojVnCtVmXOhwU-8q0",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjEwUmdQcDhQYnpN",
+      "snippet": {
+        "publishedAt": "2026-01-14T03:00:01Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM JAN 14, 2026",
+        "description": "Bursa Malaysia slipped in early trade, tracking Wall Street’s losses amid concerns over Trump’s credit card rate plan.\n\nThe index is expected to trade within the 1,705 to 1,720 range.\n\nIn the cryptocurrency market, Bitcoin jumped to RM384,937.\n\nMeanwhile, Ethereum and Solana climbed to RM13,429 and RM587, respectively.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/10RgPp8PbzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/10RgPp8PbzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/10RgPp8PbzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/10RgPp8PbzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/10RgPp8PbzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 97,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "10RgPp8PbzM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K1wWS99XtWtB_WzFRcXog9dR_7s",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmE1M3A2RkNkV3lZ",
+      "snippet": {
+        "publishedAt": "2026-01-14T02:41:06Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Sunway’s IJM takeover fair, transformative: Analysts",
+        "description": "Analysts said IJM Corp shareholders should accept Sunway Bhd’s RM3.15-per-share takeover offer, citing attractive valuation and upside participation in a larger merged entity.\n\nHLIB said the deal offers an immediate cash yield of about 10 per cent and allows shareholders to retain exposure, with IJM holders expected to own about 20.6 per cent of the merged group.\n\nThe offer implies reasonable valuation multiples and a premium of up to 28 per cent over recent trading averages.\n\nRHB Research also views the deal positively given the attractive valuation and promising outlook of the combined entity.\n\nHowever, it said that IJM shareholders may prefer a higher cash component.\n\nRead more: https://www.nst.com.my/business/corporate/2026/01/1356249/sunways-ijm-takeover-fair-transformative-analysts ----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a53p6FCdWyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a53p6FCdWyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a53p6FCdWyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a53p6FCdWyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a53p6FCdWyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 98,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a53p6FCdWyY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6pJyoWrw7TU5lkOAPs3l5kiztHA",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkhyLXgxS01zQko4",
+      "snippet": {
+        "publishedAt": "2026-01-13T08:05:09Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MOE to probe inconsistencies in school admission systems, says Fadhlina",
+        "description": "The Education Ministry will investigate complaints regarding inconsistencies in school admission systems that have reportedly caused confusion for parents during the registration process.\n\nEducation Minister Fadhlina Sidek said some parents, particularly those with children in boarding schools, noted that while their children's names appeared in the school system, they were missing from the ministry's central system.\n\nFadhlina said the ministry requires specific information, including the names of the affected schools, to identify the source of the discrepancies.\n\nShe assured parents that the ministry takes the matter seriously and will provide updates once the investigation is completed.\n\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1355842/moe-probe-inconsistencies-school-admission-systems-says-fadhlina\n\n-------------------------------\n#NST #NSTTV  #MalaysiaNews #NSTNews #NSTOnline  #MOE #FadhlinaSidek #SchoolAdmission #EducationMalaysia #EducationReform #AdmissionSystems #KementerianPendidikan #StudentPlacement \n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hr-x1KMsBJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hr-x1KMsBJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hr-x1KMsBJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hr-x1KMsBJ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hr-x1KMsBJ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 114,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hr-x1KMsBJ8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8zigcVxOvJVNWuBe3CfqZx3-OVU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjA3MGdpZnluTTFR",
+      "snippet": {
+        "publishedAt": "2026-01-13T08:04:49Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Ex-IGP ordered to pay Hannah Yeoh RM250k",
+        "description": "The Court of Appeal (CoA) has ordered former Inspector-General of Police, Tan Sri Musa Hassan, to pay RM250,000 in damages to Federal Territories Minister Hannah Yeoh for defamation.\n\nHis defamatory remarks were made in a forum at a university six years ago. \n\nJudge Datuk Azimah Omar who is now the Federal Court judge, who led a three-person bench, unanimously reversed the Kuala Lumpur High Court judicial commissioner's decision, which last year dismissed Yeoh's defamation suit against Musa.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1355802/ex-igp-ordered-pay-hannah-yeoh-rm250k\n\n----------------------------------\n#NST #NSTTV#MalaysiaNews #NSTNews #NSTOnline  #HannahYeoh #Defamation #ExIGP #MusaHassan #CourtOfAppeal #MalaysiaNews #LegalVictory #PoliticsMY #RM250k  \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/070gifynM1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/070gifynM1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/070gifynM1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/070gifynM1Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/070gifynM1Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 115,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "070gifynM1Q"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cQbPUsXxAs5tmhWfdj5HVW3L4ok",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlZKREg1QmZjM2tn",
+      "snippet": {
+        "publishedAt": "2026-01-13T06:21:32Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Ministry to enhance governance via AI, ESG framework",
+        "description": "#MINDEF #Digitalisation #Malaysia #AntiCorruption #Transparency #Accountability\n\nREAD MORE: https://www.nst.com.my/news/regional/2026/01/1355612/ministry-enhance-governance-ai-esg-framework\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJDH5Bfc3kg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJDH5Bfc3kg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJDH5Bfc3kg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VJDH5Bfc3kg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VJDH5Bfc3kg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 116,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VJDH5Bfc3kg"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kMZFKPoYfToW90b7kNMyzge7R6k",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjlna3hNM04wSklj",
+      "snippet": {
+        "publishedAt": "2026-01-13T04:58:04Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Azam Baki to meet Defence top brass over procurement weaknesses",
+        "description": "MACC Chief Commissioner Tan Sri Azam Baki is expected to pay a courtesy call to Defence Minister Datuk Seri Mohamed Khaled Nordin and senior ministry officials next week.\n\nThe meeting comes amid concerns over governance weaknesses in the Defence Ministry's procurement processes.\n\nAzam said the session would also include the ministry's secretary-general.\n\nHe added that the commission is reviewing not only active investigations linked to army procurement, but also long-standing systemic issues within the ministry, including regulatory gaps, procedural weaknesses, and potential leakages.\n\nRead more at: \nhttps://www.nst.com.my/news/nation/2026/01/1355714/azam-baki-meet-defence-top-brass-over-procurement-weaknesses\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9gkxM3N0JIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9gkxM3N0JIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9gkxM3N0JIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9gkxM3N0JIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9gkxM3N0JIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 117,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9gkxM3N0JIc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c3_JdCC_cdCC_jlmLuQLPbemv_w",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkJZMURyR1U4RjRz",
+      "snippet": {
+        "publishedAt": "2026-01-13T04:24:53Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Najib fails to reinstate RM1.9m suit against ex-AG Tommy Thomas",
+        "description": "Former prime minister Datuk Seri Najib Razak failed in his bid to reinstate a RM1.9 million lawsuit against former attorney-general Tan Sri Tommy Thomas.\n\nCourt of Appeal judge Datuk Ravinthran N. Paramaguru, who led a three-men bench, said they agreed with the Kuala Lumpur High Court's decision which had dismissed Najib's suit in 2022.\n\nNajib had alleged that Thomas acted with malice in preferring charges against him in cases related to the 1MDB and International Petroleum Investment cases.\n\nThe court ordered Najib to pay RM12,000 in costs to Thomas.\n\nRead more at: \nhttps://www.nst.com.my/news/nation/2026/01/1355712/najib-fails-reinstate-rm19m-suit-against-ex-ag-tommy-thomas\n\n-------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NajibRazak #TommyThomas #HighCourt #LegalBattle #RM19Million #MalaysiaNews #FormerAG #JudicialReview #CourtDecision\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BY1DrGU8F4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BY1DrGU8F4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BY1DrGU8F4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BY1DrGU8F4s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BY1DrGU8F4s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 118,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BY1DrGU8F4s"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p2qpabdi6j9_fx27jBdc5QNzDvw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlhJdXlhc2pWSTBz",
+      "snippet": {
+        "publishedAt": "2026-01-13T04:20:45Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "ASP remanded over suspected RM20,000 in bribes",
+        "description": "An assistant superintendent of police has been remanded for four days to assist investigations into allegations that he solicited and received bribes totalling more than RM20,000 between 2016 and 2021.\n\nThe remand order was issued by Magistrate Nadratun Naim Mohd Saidi today following an application by the Penang Malaysian Anti-Corruption Commission (MACC).\n\nSources said the 58-year-old officer was arrested at about 10.30pm last night after appearing to give a statement at the Penang MACC office.\n\nThe officer is currently serving at the Penang police contingent headquarters (IPK), the source added.\n\nAccording to the source, the MACC had been conducting intelligence-gathering on the officer for several years following a complaint.\n\nThe case is being investigated under Section 17(a) of the MACC Act 2009.\n\nREAD MORE:\nhttps://www.nst.com.my/news/nation/2026/01/1355687/asp-remanded-over-suspected-rm20000-bribes\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #ASP #PoliceCorruption #BriberyProbe #SPRM #Remand #AntiCorruption #Integrity #LawEnforcement #MACC\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XIuyasjVI0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XIuyasjVI0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XIuyasjVI0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XIuyasjVI0s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XIuyasjVI0s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 119,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XIuyasjVI0s"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v6gLlRMGv90w1YZPL2dPQcgNunU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmJZWUJ0LUs0TGFJ",
+      "snippet": {
+        "publishedAt": "2026-01-13T03:00:49Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM JAN 13, 2026",
+        "description": "Semico Capital Berhad made its debut on the ACE Market with a 20 sen premium over its initial public offering price of 25 sen.\n\nThe stock recorded 23 million shares traded.\n\nBursa Malaysia opened higher on Tuesday, following Wall Street’s positive performance.\n\nThe index is expected to trade within the 1,690 to 1,710 range today.\n\nIn the cryptocurrency market, Bitcoin is trading at RM370,662, while Ethereum is priced at RM12,603.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bYYBt-K4LaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bYYBt-K4LaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bYYBt-K4LaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bYYBt-K4LaI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bYYBt-K4LaI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 120,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bYYBt-K4LaI"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3JT7NKCNBx6960KTlMnc4gnn5EU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk9za2tmM2hSSFpj",
+      "snippet": {
+        "publishedAt": "2026-01-13T02:58:14Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Sunway launches RM11bil takeover offer for IJM",
+        "description": "Sunway Bhd has proposed a conditional voluntary takeover offer of up to RM11 billion for a controlling stake in IJM Corp Bhd.\n\nSunway is offering RM3.15 for each IJM share, a 14.55 per cent premium to IJM’s last closing price of RM2.75.\n\nThe deal requires acceptances of at least 50 per cent plus one share, Sunway shareholder approval at an extraordinary general meeting, and regulatory clearances. \n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oskkf3hRHZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oskkf3hRHZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oskkf3hRHZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oskkf3hRHZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oskkf3hRHZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 121,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Oskkf3hRHZc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1VLi8j82Au_OEbyw_wuOTTjsBYY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlYtYy1tZkNsUGhJ",
+      "snippet": {
+        "publishedAt": "2026-01-13T02:49:35Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Bersatu supreme council respects Muhyiddin's decision to resign as PN chairman",
+        "description": "The Bersatu supreme council respects the decision of party president Tan Sri Muhyiddin Yassin to resign as Perikatan Nasional chairman.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1355619/bersatu-supreme-council-respects-muhyiddins-decision-resign-pn-chairman\n----------------------------------\n#NST #NSTTV #Bersatu #PerikatanNasional #MuhyiddinYassin #AzminAli #Resign #Chairman #MalaysiaNews #NSTNews\n\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V-c-mfClPhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V-c-mfClPhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V-c-mfClPhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V-c-mfClPhI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V-c-mfClPhI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 122,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V-c-mfClPhI"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mLtQRzoTykabnY_hWGW2qCmg0as",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjhFZGdyNkxRZTlj",
+      "snippet": {
+        "publishedAt": "2026-01-12T03:28:30Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "RM900mil recovered from company over tax evasion, MACC reveals",
+        "description": "The MACC has recovered RM900 million in unpaid taxes and penalties from a single company involved in a tax evasion case.\n\nMACC Chief Commissioner Tan Sri Azam Baki said the recovery, conducted with police cooperation, comprised a RM600 million tax penalty and a RM300 million compound.\n\nIn a separate case, another company was ordered to pay RM28 million, consisting of RM20 million in back taxes and an RM8 million compound.\n\nHe said this during the Apa-Apa Saja Harian Metro podcast.\n\nAzam, however, declined to name the companies.\n\nHe said that the commission prioritised tax recovery and compounds as proving bribery in such cases is often complex.\n\nAzam said that while the MACC opted for settlements and compounds, the companies involved still faced other enforcement actions.\n\nHe added that this approach ensures the government receives lost funds immediately.\n\nRead more at: \nhttps://www.nst.com.my/news/nation/2026/01/1354955/rm900mil-recovered-company-over-tax-evasion-macc-reveals\n\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Edgr6LQe9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Edgr6LQe9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Edgr6LQe9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Edgr6LQe9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Edgr6LQe9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 138,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8Edgr6LQe9c"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wZk4Y3dTDIr528RN_Vk9rhvTuO8",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnlSMjVUVE54S1dR",
+      "snippet": {
+        "publishedAt": "2026-01-12T03:28:05Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "EPF rebalances blue chip bets in 2025, Gamuda in spotlight",
+        "description": "The Employees Provident Fund (EPF) raised its stakes in several blue-chip stocks in 2025, led by a sharp increase in its holding in Gamuda to 18.37 per cent.\n\nIt also boosted positions in Telekom Malaysia, Tenaga Nasional, IOI Corp and YTL-linked utilities despite a weak market.\n\nIn contrast, EPF trimmed exposure to selected banks, including Maybank and RHB Bank, as well as consumer stocks.\n\nThe FBM KLCI gained just 2.3 per cent in 2025, weighed down by foreign outflows of more than RM22 billion.\n\nEPF remains a key stabilising force on Bursa Malaysia as it awaits its 2025 performance announcement in March 2026.\n\nRead more: https://www.nst.com.my/business/corporate/2026/01/1354880/epf-rebalances-blue-chip-bets-2025-gamuda-spotlight \n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yR25TTNxKWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yR25TTNxKWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yR25TTNxKWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yR25TTNxKWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yR25TTNxKWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 139,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yR25TTNxKWQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HIBImYEYkROym9MN7CQ-6y_mwqw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlVkY3g0UzZ0RlJz",
+      "snippet": {
+        "publishedAt": "2026-01-12T03:27:23Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Malaysia's proud of you, PM tells Aaron-Wooi Yik",
+        "description": "Prime Minister Datuk Seri Anwar Ibrahim expressed pride in the nation's men's doubles pair Aaron Chia-Soh Wooi Yik for finishing second at the Malaysia Open yesterday.\n\nHe said the duo are destined for greater heights and urged them to continue working hard and maintain their confidence as they progress on the international stage.\n\nThe world No. 2 Malaysians fell 21-15, 12-21, 21-18 to South Korea's world No. 1 Kim Won Ho–Seo Seung Jae.\n\nThe prime minister also presented the medals to the duo after the 66-minute match at Axiata Arena, Bukit Jalil.\n\nAnwar arrived at the venue at about 5pm and was received by Youth and Sports Minister Dr Mohammed Taufiq Johari and Badminton Association of Malaysia (BAM) president Tengku Datuk Seri Zafrul Abdul Aziz.\n\nAnwar watched the match alongside the Sultan of Pahang Al-Sultan Abdullah Ri'ayatuddin Al-Mustafa Billah Shah, the minister and the BAM president.\n\nRead more at: \nhttps://www.nst.com.my/news/nation/2026/01/1354687/malaysias-proud-you-pm-tells-aaron-wooi-yik\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #AaronChia #SohWooiYik #MalaysiaOpen #Badminton #PMAnwar #ProudMoment #MalaysianSports #AxiataArena #SportsNews\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Udcx4S6tFRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Udcx4S6tFRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Udcx4S6tFRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Udcx4S6tFRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Udcx4S6tFRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 140,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Udcx4S6tFRs"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XmIyk2dYwQ_5U8L7-kBxsbMlK5Q",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlFZczNrOUg1c20w",
+      "snippet": {
+        "publishedAt": "2026-01-12T03:27:19Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "NGO chairman charged with misappropriating RM207,000 meant for humanitarian missions",
+        "description": "An NGO chairman pleaded not guilty at the Sessions Court here today to a charge of dishonestly misappropriating RM207,000 in funds meant for humanitarian missions in Palestine and several other countries.\n\nMohd Hakim Mohd Nor, 39, the chairman of Pertubuhan Kebajikan Serantau Muslim, entered his plea before judge Azrul Darus.\n\nHe is accused of misappropriating funds intended for foreign humanitarian missions carried out in cooperation with NGOs in Myanmar, Yemen, Syria and Palestine at a bank in Jalan Sultan Hishamuddin on Dec 27, 2019.\n\nThe charge, framed under Section 403 of the Penal Code, carries a jail term of between six months and five years, whipping and a fine upon conviction.\n\nMalaysian Anti-Corruption Commission (MACC) deputy public prosecutor Asmaa' Zamri requested bail be set at RM50,000 with one surety.\n\n\nRead more at: \nhttps://www.nst.com.my/news/nation/2026/01/1355011/ngo-chairman-charged-misappropriating-rm207000-meant-humanitarian\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QYs3k9H5sm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QYs3k9H5sm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QYs3k9H5sm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QYs3k9H5sm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QYs3k9H5sm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 141,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QYs3k9H5sm0"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UxNzQplnFlfjBPPhiHiiRZKuheI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnFFMTFpQ3BUSmRz",
+      "snippet": {
+        "publishedAt": "2026-01-12T03:01:05Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM JAN 12, 2026",
+        "description": "Bursa Malaysia opened higher today, in line with Wall Street’s strong close, underpinned by positive US job data.\n\nThe market appears to have seen some foreign buying interest last Friday, and if this momentum is sustained, the index could break above the 1,700 level soon. \n\nFor today, the index is expected to trade within the 1,680 to 1,695 range. \n\nIn the crypto market, Bitcoin rose to RM371,546.\n\nEthereum rose to RM12,698 while Solana was up at RM575.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qE11iCpTJds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qE11iCpTJds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qE11iCpTJds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qE11iCpTJds/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qE11iCpTJds/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 142,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qE11iCpTJds"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YfSgTbMdtEGSkqQxNYxXKQNeAf4",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLldWQk41VzBhRVNZ",
+      "snippet": {
+        "publishedAt": "2026-01-12T02:27:17Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Stronger party Pas should lead PN for stability, says Muhyiddin ex-aide",
+        "description": "A former aide to Parti Pribumi Bersatu Malaysia (Bersatu) president Tan Sri Muhyiddin Yassin believes that Pas should lead Perikatan Nasional (PN) to ensure the stability of the opposition pact.\n\nDatuk Dr Marzuki Mohamad, who was Muhyiddin's former principal private secretary, said a strong party should lead PN to ensure the coalition's political survival.\n\nWith Pas heading PN, Marzuki described it as a \"new experiment\" as to him it would be the first time an Islamist party has led a national political coalition.\n\nHowever, he said Pas must be open to criticism if the party and PN are to move forward.\n\nIt was reported yesterday that PN would call an emergency meeting to discuss and pick a new chairman following Muhyiddin's resignation.\n\nRead more at: \nhttps://www.nst.com.my/news/nation/2026/01/1354910/stronger-party-pas-should-lead-pn-stability-says-muhyiddin-ex-aide\n\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #PAS #PerikatanNasional #PNLeadership #Muhyiddin #PNStability #MalaysiaPolitics #HadiAwang #Bersatu #PoliticalNews\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WVBN5W0aESY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WVBN5W0aESY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WVBN5W0aESY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WVBN5W0aESY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WVBN5W0aESY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 143,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WVBN5W0aESY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0eHa5FiqvdAG8YuthC7YKkAo5hg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjU5QjBqQkRnWFFR",
+      "snippet": {
+        "publishedAt": "2026-01-12T01:28:54Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Pakistani man dies after SUV crashes into Sungai Dua toll plaza wall",
+        "description": "A Pakistani man was killed and another seriously injured after the sports utility vehicle they were travelling in crashed into a wall at the Sungai Dua toll plaza here last night.\n\nPenang Fire and Rescue Department assistant director of operations John Sagun Francis said they received an emergency call at 10.43pm on a road accident involving a Perodua Aruz at the toll plaza.\n\nPreliminary investigations showed a Perodua Aruz skidded off the road and slammed into the toll plaza wall. Two male victims were trapped inside the vehicle. \n\nFrancis said the front passenger had been extricated by members of the public before the arrival of firefighters and was rushed to Seberang Jaya Hospital.\n\nThe driver remained trapped and was extricated at 11.15pm using special rescue equipment, with assistance from nearby auxiliary fire units.\n\nHe was later pronounced dead at the scene by medical personnel.\n\nRead more: https://www.nst.com.my/news/regional/2026/01/1354895/pakistani-man-dies-after-suv-crashes-sungai-dua-toll-plaza-wall\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/59B0jBDgXQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/59B0jBDgXQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/59B0jBDgXQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/59B0jBDgXQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/59B0jBDgXQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 144,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "59B0jBDgXQQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yLRhyOYdKm-gY0lIAwtiy1CcjK8",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkx1ZWEyX1drbHg0",
+      "snippet": {
+        "publishedAt": "2026-01-12T01:21:44Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MACC to resume questioning senior armed forces officer over ongoing investigation",
+        "description": "A senior armed forces officer will be called in again today to continue recording his statement in connection with an ongoing investigation by the MACC.\n\nMACC chief commissioner Tan Sri Azam Baki said the senior officer was released at midnight last night after having his statement taken.\n\nYesterday, the graft busters called in the senior officer from the armed forces to assist in an ongoing investigation into alleged misuse of funds.\n\nRead more at: \nhttps://www.nst.com.my/news/nation/2026/01/1354916/updated-macc-resume-questioning-senior-armed-forces-officer-over\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Luea2_Wklx4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Luea2_Wklx4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Luea2_Wklx4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Luea2_Wklx4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Luea2_Wklx4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 145,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Luea2_Wklx4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cGAFno7TUV2kSfymqarcmHmLJ2g",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk9oaW5qbTFIU3dz",
+      "snippet": {
+        "publishedAt": "2026-01-11T16:01:32Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "BAM to get 6 new coaches to help Rexy, Jonassen",
+        "description": "BAM plans to recruit five to six coaches to assist coaching directors Rexy Mainaky (doubles) and Kenneth Jonassen (singles) in the national team restructure.\n\nBAM Performance Committee chairman Datuk Seri Lee Chong Wei confirmed that Yeoh Kay Bin and Zakry Latif are among the shortlisted coaches, while there are also a couple of foreigners being considered for senior and junior positions. BAM will announce the new coaches on Tuesday.\n\nRead more : https://www.nst.com.my/sports/badminton/2026/01/1354705/bam-get-6-new-coaches-help-rexy-jonassen\n\n----------------------------------\n#NST #NSTTV #NST #NSTTV #Sports #Badminton, #BAM , #newcoach #DatukSeriLeeChongWei , #RexyMainaky , #KennethJonassen\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ohinjm1HSws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ohinjm1HSws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ohinjm1HSws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ohinjm1HSws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ohinjm1HSws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 146,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ohinjm1HSws"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "id": "_uVwI1UpwUQ",
+      "title": "NEW Couple immigration officers charged in RM914k bribery, money laundering case",
+      "description": "",
+      "publishedAt": "2026-01-19T14:17:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_uVwI1UpwUQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_uVwI1UpwUQ"
+    },
+    {
+      "id": "uA2a8QX3gLs",
+      "title": "News@9, Monday, January 19",
+      "description": "",
+      "publishedAt": "2026-01-19T13:01:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uA2a8QX3gLs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uA2a8QX3gLs"
+    },
+    {
+      "id": "dLhbV1Jwfq4",
+      "title": "MARKET PULSE PM JAN 19, 2026",
+      "description": "",
+      "publishedAt": "2026-01-19T11:01:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dLhbV1Jwfq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dLhbV1Jwfq4"
+    },
+    {
+      "id": "lFzx7YmYYpA",
+      "title": "MACC eyes IJM Corp over alleged RM2 5 billion money laundering scheme",
+      "description": "",
+      "publishedAt": "2026-01-19T10:15:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lFzx7YmYYpA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lFzx7YmYYpA"
+    },
+    {
+      "id": "FdnE7_DggPM",
+      "title": "UiTM student killed, 10 others injured in three-vehicle crash",
+      "description": "",
+      "publishedAt": "2026-01-19T09:50:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FdnE7_DggPM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FdnE7_DggPM"
+    },
+    {
+      "id": "bq09i8gPzSM",
+      "title": "Kenanga tells IJM shareholders to reject Sunway's takeover offer",
+      "description": "",
+      "publishedAt": "2026-01-19T09:22:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bq09i8gPzSM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bq09i8gPzSM"
+    },
+    {
+      "id": "_fjAFGHWLqQ",
+      "title": "Johor homes can turn costly fast for Singapore buyers, warns industry veteran",
+      "description": "",
+      "publishedAt": "2026-01-19T08:53:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_fjAFGHWLqQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_fjAFGHWLqQ"
+    },
+    {
+      "id": "oKxeLtTYnM0",
+      "title": "RTD enforcers to get more body worn cameras",
+      "description": "",
+      "publishedAt": "2026-01-19T08:35:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oKxeLtTYnM0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oKxeLtTYnM0"
+    },
+    {
+      "id": "UXob8uWrJ34",
+      "title": "Najib–Tommy Thomas defamation suit over 'Altantuya' chapter settled amicably",
+      "description": "",
+      "publishedAt": "2026-01-19T07:56:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UXob8uWrJ34/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UXob8uWrJ34"
+    },
+    {
+      "id": "n7xTzd3i8UI",
+      "title": "Those who reject Bahasa Melayu 'better not live in Malaysia', says King",
+      "description": "",
+      "publishedAt": "2026-01-19T07:17:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n7xTzd3i8UI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n7xTzd3i8UI"
+    },
+    {
+      "id": "p6Tp-uUO2Yw",
+      "title": "King expresses concern over alleged corruption at top of armed forces",
+      "description": "",
+      "publishedAt": "2026-01-19T06:19:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p6Tp-uUO2Yw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p6Tp-uUO2Yw"
+    },
+    {
+      "id": "QDBwuzUcCfw",
+      "title": "Indonesian rescuers find debris from missing plane",
+      "description": "",
+      "publishedAt": "2026-01-19T06:09:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QDBwuzUcCfw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QDBwuzUcCfw"
+    },
+    {
+      "id": "VTCIhOwivpg",
+      "title": "Tony Fernandes calls AirAsia disposal ‘most emotional moment’",
+      "description": "",
+      "publishedAt": "2026-01-19T06:02:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VTCIhOwivpg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VTCIhOwivpg"
+    },
+    {
+      "id": "rZ4Tga9Uztk",
+      "title": "King opens fifth session of 15th Parliament",
+      "description": "",
+      "publishedAt": "2026-01-19T05:45:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rZ4Tga9Uztk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rZ4Tga9Uztk"
+    },
+    {
+      "id": "s9BFRsM4UKE",
+      "title": "Charge proceedings delayed for Thai involved in fatal Napoh crash",
+      "description": "",
+      "publishedAt": "2026-01-19T05:02:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s9BFRsM4UKE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s9BFRsM4UKE"
+    },
     {
       "id": "xDv19JyP47M",
       "title": "Aeroline, Corus Hotel KLCC part ways after 23 years as hotel shuts down",
@@ -26143,6 +28016,222 @@
       "title": "Stronger safeguards earn Malaysia global watchdog's top ranking",
       "thumbnail": "https://i.ytimg.com/vi/Zpf1Kf2al94/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Zpf1Kf2al94"
+    },
+    {
+      "id": "bKgALdV_0lU",
+      "title": "[LIVE] Sultan Ibrahim delivers Royal Address at Parliament opening.",
+      "thumbnail": "https://i.ytimg.com/vi/bKgALdV_0lU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bKgALdV_0lU"
+    },
+    {
+      "id": "FLVZIPyAe9A",
+      "title": "Namewee charged with drug possession",
+      "thumbnail": "https://i.ytimg.com/vi/FLVZIPyAe9A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FLVZIPyAe9A"
+    },
+    {
+      "id": "1NPq6aVkgAM",
+      "title": "Teachers to receive salary hike on Jan 22 under Phase 2 of SSPA",
+      "thumbnail": "https://i.ytimg.com/vi/1NPq6aVkgAM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1NPq6aVkgAM"
+    },
+    {
+      "id": "N9z_hgtfi5Y",
+      "title": "361,384 borrowers default on RM5 13bil in PTPTN loans",
+      "thumbnail": "https://i.ytimg.com/vi/N9z_hgtfi5Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N9z_hgtfi5Y"
+    },
+    {
+      "id": "cAvVGewutys",
+      "title": "Govt to announce tomorrow on UPSR and PT3 revival",
+      "thumbnail": "https://i.ytimg.com/vi/cAvVGewutys/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cAvVGewutys"
+    },
+    {
+      "id": "wKOZtEIGRI4",
+      "title": "MARKET PULSE AM JAN 19, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/wKOZtEIGRI4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wKOZtEIGRI4"
+    },
+    {
+      "id": "o1giX_VYBc8",
+      "title": "Late-night fire damages 5 shophouses in Penang",
+      "thumbnail": "https://i.ytimg.com/vi/o1giX_VYBc8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=o1giX_VYBc8"
+    },
+    {
+      "id": "iEquwnkOD4g",
+      "title": "Nadia Kesuma to be buried in Jeddah after subuh prayers today",
+      "thumbnail": "https://i.ytimg.com/vi/iEquwnkOD4g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iEquwnkOD4g"
+    },
+    {
+      "id": "AQVdcGgavH0",
+      "title": "Train collision in Spain kills 21, injures dozens",
+      "thumbnail": "https://i.ytimg.com/vi/AQVdcGgavH0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AQVdcGgavH0"
+    },
+    {
+      "id": "GF8lMMqtOLc",
+      "title": "Explainer: Malaysia posts robust GDP growth in Q4. So what?",
+      "thumbnail": "https://i.ytimg.com/vi/GF8lMMqtOLc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GF8lMMqtOLc"
+    },
+    {
+      "id": "j_Pu6LFQTVA",
+      "title": "Bung Moktar discharged of corruption charges, widow's representation rejected",
+      "thumbnail": "https://i.ytimg.com/vi/j_Pu6LFQTVA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=j_Pu6LFQTVA"
+    },
+    {
+      "id": "nZx_iaM5z1Y",
+      "title": "Three burnt to death in Olak Lempit factory fire believed to be Rohingya nationals",
+      "thumbnail": "https://i.ytimg.com/vi/nZx_iaM5z1Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nZx_iaM5z1Y"
+    },
+    {
+      "id": "UZgzIGaEzhQ",
+      "title": "Rising early-2026 costs squeeze Malaysian households",
+      "thumbnail": "https://i.ytimg.com/vi/UZgzIGaEzhQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UZgzIGaEzhQ"
+    },
+    {
+      "id": "pjtB7kEy4Xs",
+      "title": "22 year old woman killed in Changlun crash after van runs red light",
+      "thumbnail": "https://i.ytimg.com/vi/pjtB7kEy4Xs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pjtB7kEy4Xs"
+    },
+    {
+      "id": "--yy7zQP4EY",
+      "title": "MARKET PULSE AM JAN 16, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/--yy7zQP4EY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=--yy7zQP4EY"
+    },
+    {
+      "id": "u84TLjG6ZzU",
+      "title": "[EP117] BTH: Malaysia’s military scandal, defence procurement & MACC investigations",
+      "thumbnail": "https://i.ytimg.com/vi/u84TLjG6ZzU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=u84TLjG6ZzU"
+    },
+    {
+      "id": "10RgPp8PbzM",
+      "title": "MARKET PULSE AM JAN 14, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/10RgPp8PbzM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=10RgPp8PbzM"
+    },
+    {
+      "id": "a53p6FCdWyY",
+      "title": "Sunway’s IJM takeover fair, transformative: Analysts",
+      "thumbnail": "https://i.ytimg.com/vi/a53p6FCdWyY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a53p6FCdWyY"
+    },
+    {
+      "id": "Hr-x1KMsBJ8",
+      "title": "MOE to probe inconsistencies in school admission systems, says Fadhlina",
+      "thumbnail": "https://i.ytimg.com/vi/Hr-x1KMsBJ8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Hr-x1KMsBJ8"
+    },
+    {
+      "id": "070gifynM1Q",
+      "title": "Ex-IGP ordered to pay Hannah Yeoh RM250k",
+      "thumbnail": "https://i.ytimg.com/vi/070gifynM1Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=070gifynM1Q"
+    },
+    {
+      "id": "VJDH5Bfc3kg",
+      "title": "Ministry to enhance governance via AI, ESG framework",
+      "thumbnail": "https://i.ytimg.com/vi/VJDH5Bfc3kg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VJDH5Bfc3kg"
+    },
+    {
+      "id": "9gkxM3N0JIc",
+      "title": "Azam Baki to meet Defence top brass over procurement weaknesses",
+      "thumbnail": "https://i.ytimg.com/vi/9gkxM3N0JIc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9gkxM3N0JIc"
+    },
+    {
+      "id": "BY1DrGU8F4s",
+      "title": "Najib fails to reinstate RM1.9m suit against ex-AG Tommy Thomas",
+      "thumbnail": "https://i.ytimg.com/vi/BY1DrGU8F4s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BY1DrGU8F4s"
+    },
+    {
+      "id": "XIuyasjVI0s",
+      "title": "ASP remanded over suspected RM20,000 in bribes",
+      "thumbnail": "https://i.ytimg.com/vi/XIuyasjVI0s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XIuyasjVI0s"
+    },
+    {
+      "id": "bYYBt-K4LaI",
+      "title": "MARKET PULSE AM JAN 13, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/bYYBt-K4LaI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bYYBt-K4LaI"
+    },
+    {
+      "id": "Oskkf3hRHZc",
+      "title": "Sunway launches RM11bil takeover offer for IJM",
+      "thumbnail": "https://i.ytimg.com/vi/Oskkf3hRHZc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Oskkf3hRHZc"
+    },
+    {
+      "id": "V-c-mfClPhI",
+      "title": "Bersatu supreme council respects Muhyiddin's decision to resign as PN chairman",
+      "thumbnail": "https://i.ytimg.com/vi/V-c-mfClPhI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=V-c-mfClPhI"
+    },
+    {
+      "id": "8Edgr6LQe9c",
+      "title": "RM900mil recovered from company over tax evasion, MACC reveals",
+      "thumbnail": "https://i.ytimg.com/vi/8Edgr6LQe9c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8Edgr6LQe9c"
+    },
+    {
+      "id": "yR25TTNxKWQ",
+      "title": "EPF rebalances blue chip bets in 2025, Gamuda in spotlight",
+      "thumbnail": "https://i.ytimg.com/vi/yR25TTNxKWQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yR25TTNxKWQ"
+    },
+    {
+      "id": "Udcx4S6tFRs",
+      "title": "Malaysia's proud of you, PM tells Aaron-Wooi Yik",
+      "thumbnail": "https://i.ytimg.com/vi/Udcx4S6tFRs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Udcx4S6tFRs"
+    },
+    {
+      "id": "QYs3k9H5sm0",
+      "title": "NGO chairman charged with misappropriating RM207,000 meant for humanitarian missions",
+      "thumbnail": "https://i.ytimg.com/vi/QYs3k9H5sm0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QYs3k9H5sm0"
+    },
+    {
+      "id": "qE11iCpTJds",
+      "title": "MARKET PULSE AM JAN 12, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/qE11iCpTJds/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qE11iCpTJds"
+    },
+    {
+      "id": "WVBN5W0aESY",
+      "title": "Stronger party Pas should lead PN for stability, says Muhyiddin ex-aide",
+      "thumbnail": "https://i.ytimg.com/vi/WVBN5W0aESY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WVBN5W0aESY"
+    },
+    {
+      "id": "59B0jBDgXQQ",
+      "title": "Pakistani man dies after SUV crashes into Sungai Dua toll plaza wall",
+      "thumbnail": "https://i.ytimg.com/vi/59B0jBDgXQQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=59B0jBDgXQQ"
+    },
+    {
+      "id": "Luea2_Wklx4",
+      "title": "MACC to resume questioning senior armed forces officer over ongoing investigation",
+      "thumbnail": "https://i.ytimg.com/vi/Luea2_Wklx4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Luea2_Wklx4"
+    },
+    {
+      "id": "Ohinjm1HSws",
+      "title": "BAM to get 6 new coaches to help Rexy, Jonassen",
+      "thumbnail": "https://i.ytimg.com/vi/Ohinjm1HSws/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ohinjm1HSws"
     }
   ]
 }
