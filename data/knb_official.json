@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-01-13T15:29:05.234264",
+  "updated_at": "2026-01-20T15:34:48.930676",
   "videos": [
+    {
+      "id": "4WS2fGDfb_0",
+      "title": "【旬景とやま】里山の歴史小道",
+      "description": "",
+      "publishedAt": "2026-01-20T10:41:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4WS2fGDfb_0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4WS2fGDfb_0"
+    },
     {
       "id": "cvyKdNvUC4c",
       "title": "【旬景とやま】干支の山 馬鬣山",

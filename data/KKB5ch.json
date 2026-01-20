@@ -1,9 +1,56 @@
 {
   "channel_id": "UCAhZnTMHk-TPyDzT0rt34IQ",
   "channel_name": "KKB鹿児島放送",
-  "original_name": "KKB鹿児島放送",
-  "updated_at": "2026-01-19T15:31:27.129191",
+  "updated_at": "2026-01-20T15:34:48.328431",
   "videos": [
+    {
+      "id": "LJWI5kPP6ao",
+      "title": "【寒い季節にあたたかい一杯】店内製麺にこだわった数量限定のうどん店 ～ひゃくたま屋製麺所～ ”News＋おやっと！”この店この味(1月20日(火)放送)",
+      "description": "",
+      "publishedAt": "2026-01-20T14:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LJWI5kPP6ao/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LJWI5kPP6ao"
+    },
+    {
+      "id": "i4LNSPtoNSY",
+      "title": "【かご探】人生なんて、きっかけひとつ。～JICA海外協力隊～(1月17日放送)",
+      "description": "",
+      "publishedAt": "2026-01-20T13:20:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i4LNSPtoNSY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i4LNSPtoNSY"
+    },
+    {
+      "id": "PN7wG3THW1Q",
+      "title": "『フォトドラ』～かごしまオールトヨタ フォトドライブプロジェクト～ 今回の紹介するのは「火之神公園キャンプ場」です！",
+      "description": "",
+      "publishedAt": "2026-01-20T13:15:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PN7wG3THW1Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PN7wG3THW1Q"
+    },
+    {
+      "id": "RM9Sk7yTi_w",
+      "title": "『フォトドラ』～かごしまオールトヨタ フォトドライブプロジェクト～ 今回の紹介するのは「かごしま環境未来館」です！",
+      "description": "",
+      "publishedAt": "2026-01-20T13:15:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RM9Sk7yTi_w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RM9Sk7yTi_w"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "i6pDq0lny-1QK938W96Gi6wRF2c",

@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-19T15:30:14.540527",
+  "updated_at": "2026-01-20T15:35:21.382657",
   "videos": [
+    {
+      "id": "0wS0pFLP8Zg",
+      "title": "260120 175205 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-01-20T12:05:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0wS0pFLP8Zg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0wS0pFLP8Zg"
+    },
+    {
+      "id": "kTxyTwQ974M",
+      "title": "260120 174641 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-01-20T12:05:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kTxyTwQ974M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kTxyTwQ974M"
+    },
+    {
+      "id": "2IsFDF3SSvM",
+      "title": "260120 173412 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-01-20T11:52:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2IsFDF3SSvM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2IsFDF3SSvM"
+    },
+    {
+      "id": "jQJF027Jt2k",
+      "title": "260120 173104 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-01-20T11:45:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jQJF027Jt2k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jQJF027Jt2k"
+    },
+    {
+      "id": "MdUZiggDJmQ",
+      "title": "260120 172641 深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-01-20T11:12:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MdUZiggDJmQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MdUZiggDJmQ"
+    },
     {
       "id": "5cGfR9F6s3c",
       "title": "260119 143005 土居中踏切",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-01-13T15:28:42.189205",
+  "updated_at": "2026-01-20T15:34:17.611660",
   "videos": [
+    {
+      "id": "7vaz79KXphs",
+      "title": "特集　「成瀬」シリーズ 大ヒットの舞台裏／京都経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-01-20T07:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7vaz79KXphs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7vaz79KXphs"
+    },
+    {
+      "id": "CYoPMdayEzc",
+      "title": "コスパ最強！朝ラーメン／京都経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-01-20T07:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CYoPMdayEzc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CYoPMdayEzc"
+    },
+    {
+      "id": "O3ZaFMjexVs",
+      "title": "「京の風」舞輪源蒸留所 蒸留責任者　真山(シンザン)さん／京都経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-01-20T07:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O3ZaFMjexVs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O3ZaFMjexVs"
+    },
+    {
+      "id": "RfHjlXASoyU",
+      "title": "現役大学生が先輩の職場を訪問！／京都経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-01-20T07:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RfHjlXASoyU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RfHjlXASoyU"
+    },
     {
       "id": "DA4QcvlHFzc",
       "title": "「京の風」北野天満宮禰宜 橘重史さん",

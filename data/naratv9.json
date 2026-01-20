@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-01-16T15:26:49.691248",
+  "updated_at": "2026-01-20T15:34:15.500372",
   "videos": [
+    {
+      "id": "alJ4KWKV2Ng",
+      "title": "【千客万来！ならCoCo】車検のコバック 奈良エリア加盟店会",
+      "description": "",
+      "publishedAt": "2026-01-20T02:54:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/alJ4KWKV2Ng/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=alJ4KWKV2Ng"
+    },
     {
       "id": "QyPh6UJiQjI",
       "title": "日本まんなか直送便「糖度20度！？奈良のブランドいちご、古都華の魅力に迫る！」",

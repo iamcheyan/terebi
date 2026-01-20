@@ -1,8 +1,32 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-01-19T15:29:47.618367",
+  "updated_at": "2026-01-20T15:34:50.567913",
   "videos": [
+    {
+      "id": "jqECjJgwmjo",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　指宿市",
+      "description": "",
+      "publishedAt": "2026-01-20T11:01:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jqECjJgwmjo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jqECjJgwmjo"
+    },
+    {
+      "id": "4na1kPfWlG4",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　霧島市",
+      "description": "",
+      "publishedAt": "2026-01-20T11:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4na1kPfWlG4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4na1kPfWlG4"
+    },
     {
       "id": "8Sc04KfEx1c",
       "title": "鹿児島わが町自慢　第16弾　今夜7時放送！",

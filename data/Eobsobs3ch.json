@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-01-19T15:29:51.794405",
+  "updated_at": "2026-01-20T15:34:55.412199",
   "videos": [
+    {
+      "id": "DmCffmKyqgU",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年1月19日（月）放送分】",
+      "description": "",
+      "publishedAt": "2026-01-20T01:25:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DmCffmKyqgU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DmCffmKyqgU"
+    },
     {
       "id": "eQjt1duknSQ",
       "title": "【大分市】インドカレーレストラン プランズ （2026年1月14日放送分）",

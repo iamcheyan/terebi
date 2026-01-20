@@ -1,8 +1,188 @@
 {
   "channel_id": "UCXYTFOXjfQz_FVzCzqP9PXA",
   "channel_name": "AI Polyglot | 多言語 聞き流し",
-  "updated_at": "2026-01-19T15:29:05.047362",
+  "updated_at": "2026-01-20T15:34:12.166303",
   "videos": [
+    {
+      "id": "vo6vl0ecpJQ",
+      "title": "Learn Japanese for Schools B1 through Pictures (Bilingual) | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-01-20T11:15:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vo6vl0ecpJQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vo6vl0ecpJQ"
+    },
+    {
+      "id": "b-1zLmA8oa0",
+      "title": "Aprende japonés para escuelas B1 con imágenes (bilingüe) | práctica auditiva | con Hiragana",
+      "description": "",
+      "publishedAt": "2026-01-20T11:15:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b-1zLmA8oa0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b-1zLmA8oa0"
+    },
+    {
+      "id": "jOkMjb-qlyE",
+      "title": "Impara il giapponese per le scuole B1 attraverso le immagini (bilingue) | ascolto naturale | con hir",
+      "description": "",
+      "publishedAt": "2026-01-20T11:15:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jOkMjb-qlyE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jOkMjb-qlyE"
+    },
+    {
+      "id": "lqAlEPuc5lw",
+      "title": "Apprendre le japonais à l'école (niveau B1) par l'image (bilingue) | expressions utiles | avec hirag",
+      "description": "",
+      "publishedAt": "2026-01-20T11:15:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lqAlEPuc5lw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lqAlEPuc5lw"
+    },
+    {
+      "id": "7OMWz4Bzt6g",
+      "title": "Japanisch lernen für Schulen B1 durch Bilder (zweisprachig) | Hörverständnis | mit hiragana | lernen",
+      "description": "",
+      "publishedAt": "2026-01-20T11:15:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7OMWz4Bzt6g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7OMWz4Bzt6g"
+    },
+    {
+      "id": "RsnxXqK-AdM",
+      "title": "Aprenda japonês para escolas nível B1 através de imagens (bilíngue) | escuta natural | com hiragana",
+      "description": "",
+      "publishedAt": "2026-01-20T11:15:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RsnxXqK-AdM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RsnxXqK-AdM"
+    },
+    {
+      "id": "76PaLA2N5tk",
+      "title": "通过图片学习日语（双语版） | 听力练习 | 带平假名 | 学习日语",
+      "description": "",
+      "publishedAt": "2026-01-20T11:15:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/76PaLA2N5tk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=76PaLA2N5tk"
+    },
+    {
+      "id": "Rwtwl2ezk0U",
+      "title": "Learn Spanish for Schools A2 through Pictures (Bilingual) | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-01-20T11:15:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rwtwl2ezk0U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rwtwl2ezk0U"
+    },
+    {
+      "id": "TmatcLSokL4",
+      "title": "Learn Italian for Schools A2 through Pictures (Bilingual) | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-01-20T11:14:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TmatcLSokL4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TmatcLSokL4"
+    },
+    {
+      "id": "zYGDbdq8aJo",
+      "title": "Learn French for Schools A2 through Pictures (Bilingual) | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-01-20T11:14:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zYGDbdq8aJo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zYGDbdq8aJo"
+    },
+    {
+      "id": "MTZWvLKqXeQ",
+      "title": "Learn German for Schools A2 through Pictures (Bilingual) | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-01-20T11:14:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MTZWvLKqXeQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MTZWvLKqXeQ"
+    },
+    {
+      "id": "M8TA6bpzIzQ",
+      "title": "Learn Portugues for Schools A2 through Pictures (Bilingual) | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-01-20T11:14:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M8TA6bpzIzQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M8TA6bpzIzQ"
+    },
+    {
+      "id": "i518rfRCph4",
+      "title": "Learn Chinese for Schools A2 through Pictures (Bilingual) | Natural Listening | Must-Know | with Pin",
+      "description": "",
+      "publishedAt": "2026-01-20T11:14:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i518rfRCph4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i518rfRCph4"
+    },
+    {
+      "id": "tAqFCNRFNhk",
+      "title": "Learn Taiwanese for Schools A2 through Pictures (Bilingual) | Natural Listening | Must-Know | with P",
+      "description": "",
+      "publishedAt": "2026-01-20T11:14:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tAqFCNRFNhk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tAqFCNRFNhk"
+    },
+    {
+      "id": "Td0IvKgGf6k",
+      "title": "Learn Korean for Schools A2 through Pictures (Bilingual) | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-01-20T11:14:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Td0IvKgGf6k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Td0IvKgGf6k"
+    },
     {
       "id": "la5qOQJUzkw",
       "title": "画像で学ぶA1の学校の韓国語 (バイリンガル形式) | 音声学習 | リスニング練習",
