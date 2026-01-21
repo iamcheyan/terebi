@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-01-17T15:22:34.683578",
+  "updated_at": "2026-01-21T15:35:37.321129",
   "videos": [
+    {
+      "id": "Rp3PHAZzLIg",
+      "title": "超町人！チョコレートサムネット 1/25(日)愛知・春日井市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-01-21T09:07:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rp3PHAZzLIg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rp3PHAZzLIg"
+    },
     {
       "id": "4CQLCJdfj-8",
       "title": "【まるまる◎あいち】2026年1月17日放送 「愛知県児童総合センター」",

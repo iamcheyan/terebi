@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-01-20T15:34:55.940103",
+  "updated_at": "2026-01-21T15:36:01.606834",
   "videos": [
+    {
+      "id": "RIvQ3CEOtrg",
+      "title": "#2 Teechi×伊江島 後編",
+      "description": "",
+      "publishedAt": "2026-01-21T10:00:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RIvQ3CEOtrg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RIvQ3CEOtrg"
+    },
+    {
+      "id": "Jm3cbnzCsOM",
+      "title": "#186 田島理容室・田島久江さん、田島勝さんのSOLENA",
+      "description": "",
+      "publishedAt": "2026-01-21T08:09:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Jm3cbnzCsOM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Jm3cbnzCsOM"
+    },
     {
       "id": "UPiQRpqEzv0",
       "title": "カシスオレンジ仲本 ヒーヤイ！ひとり旅 in 北海道「登別市編」",

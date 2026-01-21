@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-01-19T15:29:12.920303",
+  "updated_at": "2026-01-21T15:35:42.654690",
   "videos": [
+    {
+      "id": "v2leV5KzbH8",
+      "title": "【プライド せとうち経済のチカラ】トミナガコーポレーション(福岡県春日市) 2026年1月17日放送",
+      "description": "",
+      "publishedAt": "2026-01-21T09:46:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v2leV5KzbH8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v2leV5KzbH8"
+    },
     {
       "id": "KnSMMgB-HL8",
       "title": "1月24日のプライドは岡山市の漂流岡山",

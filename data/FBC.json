@@ -1,8 +1,80 @@
 {
   "channel_id": "UC1wYVW1ckPFokkVJMkZfZUw",
   "channel_name": "FBC福井放送",
-  "updated_at": "2025-12-11T15:27:59.408308",
+  "updated_at": "2026-01-21T15:35:52.099194",
   "videos": [
+    {
+      "id": "NssD5LhRiyk",
+      "title": "Auto Ajuda (Ao Vivo no Sonastério)",
+      "description": "",
+      "publishedAt": "2026-01-21T10:04:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NssD5LhRiyk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NssD5LhRiyk"
+    },
+    {
+      "id": "8mMebgqwTyc",
+      "title": "Money Manin (Ao Vivo no Sonastério)",
+      "description": "",
+      "publishedAt": "2026-01-21T10:03:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8mMebgqwTyc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8mMebgqwTyc"
+    },
+    {
+      "id": "CwhnvcEczoo",
+      "title": "Assaltos e Batidas (Ao Vivo no Sonastério)",
+      "description": "",
+      "publishedAt": "2026-01-21T10:02:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CwhnvcEczoo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CwhnvcEczoo"
+    },
+    {
+      "id": "h3W2ydefY2A",
+      "title": "Estamos Te Vendo (Ao Vivo no Sonastério)",
+      "description": "",
+      "publishedAt": "2026-01-21T10:02:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h3W2ydefY2A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h3W2ydefY2A"
+    },
+    {
+      "id": "NkTWmTaAPGM",
+      "title": "Aham (Ao Vivo no Sonastério)",
+      "description": "",
+      "publishedAt": "2026-01-21T10:02:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NkTWmTaAPGM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NkTWmTaAPGM"
+    },
+    {
+      "id": "NALriFqycRM",
+      "title": "Se Eu Não Te Cantar (Ao Vivo no Sonastério)",
+      "description": "",
+      "publishedAt": "2026-01-21T10:01:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NALriFqycRM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NALriFqycRM"
+    },
     {
       "id": "mZh5aq90VSU",
       "title": "Quem Sabe Onde Está Jimmy Hoffa? (Ao Vivo)",

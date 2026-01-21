@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-01-20T15:34:36.271848",
+  "updated_at": "2026-01-21T15:35:33.627727",
   "videos": [
+    {
+      "id": "BvGMppgKj4s",
+      "title": "【LBS】エノキで新需要",
+      "description": "",
+      "publishedAt": "2026-01-21T12:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BvGMppgKj4s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BvGMppgKj4s"
+    },
     {
       "id": "kYsptJ_i6h8",
       "title": "【HOWA】端材や古着などを主な材料にした防音素材・イプシロンボードを紹介【開発現場へ行こう #49】",
