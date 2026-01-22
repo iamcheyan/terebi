@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-01-21T15:35:46.308726",
+  "updated_at": "2026-01-22T15:34:19.275102",
   "videos": [
+    {
+      "id": "ra2h0q6PH8M",
+      "title": "きょうの俳句＜令和8年1月放送＞ 兼題「日脚伸ぶ」（前半）",
+      "description": "",
+      "publishedAt": "2026-01-22T00:46:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ra2h0q6PH8M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ra2h0q6PH8M"
+    },
     {
       "id": "u75vChemePU",
       "title": "ゴルフドゥ！presents『第８回EBC 高校OBチーム対抗ゴルフ大会』",

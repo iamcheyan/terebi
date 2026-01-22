@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-01-21T15:35:33.627727",
+  "updated_at": "2026-01-22T15:34:04.287106",
   "videos": [
+    {
+      "id": "LQWR1fjsTQk",
+      "title": "シリーズ【ものづくりをミライへつなげ！】クルマの技術でアイデアを形に！【クルマとミライ】",
+      "description": "",
+      "publishedAt": "2026-01-22T14:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LQWR1fjsTQk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LQWR1fjsTQk"
+    },
     {
       "id": "BvGMppgKj4s",
       "title": "【LBS】エノキで新需要",

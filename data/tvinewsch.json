@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-01-21T15:35:48.884824",
+  "updated_at": "2026-01-22T15:34:31.313609",
   "videos": [
+    {
+      "id": "yo69Xq3XdHo",
+      "title": "【プラス1ダイジェスト】1/22(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-01-22T10:04:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yo69Xq3XdHo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yo69Xq3XdHo"
+    },
+    {
+      "id": "_vL1-tuuv3A",
+      "title": "元気○（マル）らいふ　【冬の観葉植物の管理】（2026/1/21放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-01-22T06:55:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_vL1-tuuv3A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_vL1-tuuv3A"
+    },
     {
       "id": "MaavuEhmwss",
       "title": "【プラス1ダイジェスト】1/21(水) のニュース",

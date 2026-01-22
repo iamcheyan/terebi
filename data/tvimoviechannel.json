@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-21T15:36:07.638192",
+  "updated_at": "2026-01-22T15:34:59.125010",
   "videos": [
+    {
+      "id": "30rqW2hgPBc",
+      "title": "今日の５きげんテレビ（1月23日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-01-22T15:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/30rqW2hgPBc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=30rqW2hgPBc"
+    },
+    {
+      "id": "vN-ASw02R5U",
+      "title": "５きげんクッキング ～酸辣（スーラー）唐揚げ～",
+      "description": "",
+      "publishedAt": "2026-01-22T09:11:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vN-ASw02R5U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vN-ASw02R5U"
+    },
     {
       "id": "CYbKG0Nolec",
       "title": "今日の５きげんテレビ（1月22日）｜テレビ岩手",

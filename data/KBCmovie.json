@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-01-19T15:28:45.452393",
+  "updated_at": "2026-01-22T15:34:23.443457",
   "videos": [
+    {
+      "id": "VBKCSeVzl28",
+      "title": "島田洋七の朝から言わせろ　～入れ歯にリードを～",
+      "description": "",
+      "publishedAt": "2026-01-22T09:00:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VBKCSeVzl28/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VBKCSeVzl28"
+    },
     {
       "id": "XyfkUC0_lRQ",
       "title": "音楽のじかん #21「ファンを増やすための工夫」",

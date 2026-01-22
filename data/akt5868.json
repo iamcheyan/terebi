@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-01-20T15:34:40.464673",
+  "updated_at": "2026-01-22T15:34:43.072903",
   "videos": [
+    {
+      "id": "vR2qreCbi5c",
+      "title": "「the CAMP」 #62【未公開バージョン】",
+      "description": "",
+      "publishedAt": "2026-01-22T14:01:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vR2qreCbi5c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vR2qreCbi5c"
+    },
+    {
+      "id": "RHvmMUnq5JY",
+      "title": "「the CAMP」 #62　夜景にカンパイ　2026年1月22日放送分",
+      "description": "",
+      "publishedAt": "2026-01-22T14:00:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RHvmMUnq5JY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RHvmMUnq5JY"
+    },
     {
       "id": "JBkxGVEimis",
       "title": "スポーツの力　ブラウブリッツ秋田　吉田謙監督　2026年1月20日放送分",

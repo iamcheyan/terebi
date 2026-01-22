@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-01-21T15:35:57.838508",
+  "updated_at": "2026-01-22T15:34:50.952069",
   "videos": [
+    {
+      "id": "PWZxPqIzqMQ",
+      "title": "中俣美咲気象予報士のみさきめぐり",
+      "description": "",
+      "publishedAt": "2026-01-22T07:53:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PWZxPqIzqMQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PWZxPqIzqMQ"
+    },
     {
       "id": "Gk_TSyajrXY",
       "title": "かごんま未来ノート 第206回「ボランティアで地域の課題解決と教育支援　公益社団法人鹿児島青年会議所」",
