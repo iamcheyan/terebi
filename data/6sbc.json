@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwVMadMSXOS0AMuW_3nlyRQ",
   "channel_name": "SBC信越放送",
-  "updated_at": "2026-01-21T15:36:03.248756",
+  "updated_at": "2026-01-23T15:29:25.930707",
   "videos": [
+    {
+      "id": "yPnU4njcYLc",
+      "title": "上越＆佐渡を楽しもう！！",
+      "description": "",
+      "publishedAt": "2026-01-23T05:40:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yPnU4njcYLc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yPnU4njcYLc"
+    },
+    {
+      "id": "TBS6HmLI6RY",
+      "title": "WOW！信州　SHINSHUラウンド",
+      "description": "",
+      "publishedAt": "2026-01-19T03:20:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TBS6HmLI6RY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TBS6HmLI6RY"
+    },
     {
       "id": "bB7s0r926P8",
       "title": "サンリオ展ーニッポンのカワイイ文化60年史ー好評開催中！松本市美術館",

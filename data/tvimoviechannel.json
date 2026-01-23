@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-22T15:34:59.125010",
+  "updated_at": "2026-01-23T15:29:29.845513",
   "videos": [
+    {
+      "id": "yg9UACj3Dvg",
+      "title": "５きげんクッキング ～キンカンのシロップ煮～",
+      "description": "",
+      "publishedAt": "2026-01-23T09:08:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yg9UACj3Dvg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yg9UACj3Dvg"
+    },
+    {
+      "id": "manEcTZdMvw",
+      "title": "今年も花やかに｜ガーデニング倶楽部",
+      "description": "",
+      "publishedAt": "2026-01-23T08:41:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/manEcTZdMvw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=manEcTZdMvw"
+    },
     {
       "id": "30rqW2hgPBc",
       "title": "今日の５きげんテレビ（1月23日）｜テレビ岩手",

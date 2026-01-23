@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-01-21T15:35:42.654690",
+  "updated_at": "2026-01-23T15:28:50.261674",
   "videos": [
+    {
+      "id": "qZJmcridmtc",
+      "title": "ファジアーノのホームスタジアム 岡山県が座席増設へ",
+      "description": "",
+      "publishedAt": "2026-01-23T13:12:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qZJmcridmtc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qZJmcridmtc"
+    },
+    {
+      "id": "bqMTiNF3R-E",
+      "title": "ファジアーノ宮崎キャンプ 新守護神候補が合流",
+      "description": "",
+      "publishedAt": "2026-01-23T13:08:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bqMTiNF3R-E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bqMTiNF3R-E"
+    },
     {
       "id": "v2leV5KzbH8",
       "title": "【プライド せとうち経済のチカラ】トミナガコーポレーション(福岡県春日市) 2026年1月17日放送",

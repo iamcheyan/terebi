@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-01-21T15:36:11.894834",
+  "updated_at": "2026-01-23T15:29:33.648507",
   "videos": [
+    {
+      "id": "PM5CgxyEFlg",
+      "title": "「えっ、そんな遠くから！？」大観覧車くるりんの光を〇〇から眺めてみた",
+      "description": "",
+      "publishedAt": "2026-01-23T10:00:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PM5CgxyEFlg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PM5CgxyEFlg"
+    },
+    {
+      "id": "50KMbaHe15I",
+      "title": "愛媛のニュース(01月22日)",
+      "description": "",
+      "publishedAt": "2026-01-23T01:33:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/50KMbaHe15I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=50KMbaHe15I"
+    },
     {
       "id": "fOv5dWJtPzM",
       "title": "愛媛のニュース(01月21日)",

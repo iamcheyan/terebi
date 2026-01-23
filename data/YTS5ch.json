@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-01-19T15:29:30.936372",
+  "updated_at": "2026-01-23T15:29:03.812735",
   "videos": [
+    {
+      "id": "rdpEgDtvyFg",
+      "title": "【見逃し】森山萌花アナウンサー 樹氷ライトアップ 山形市から生中継",
+      "description": "",
+      "publishedAt": "2026-01-23T09:53:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rdpEgDtvyFg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rdpEgDtvyFg"
+    },
     {
       "id": "2depZjdEB5A",
       "title": "第2812回 魅力ある観光地域の整備について「提言の広場」",

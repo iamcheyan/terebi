@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-01-22T15:34:33.693353",
+  "updated_at": "2026-01-23T15:28:55.906721",
   "videos": [
+    {
+      "id": "2vMIEGkyXtg",
+      "title": "【お家のことならなんでもお任せ！】天然素材を使う地元に愛される住宅メーカー",
+      "description": "",
+      "publishedAt": "2026-01-23T09:30:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2vMIEGkyXtg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2vMIEGkyXtg"
+    },
+    {
+      "id": "ayKxU0RnOjU",
+      "title": "【キッズチャレンジスタジアム】さつきちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-01-23T09:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ayKxU0RnOjU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ayKxU0RnOjU"
+    },
     {
       "id": "XBmmo1HyhNU",
       "title": "たからモノさがして　第５６６回",
