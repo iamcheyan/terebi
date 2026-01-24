@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-01-23T15:29:07.566747",
+  "updated_at": "2026-01-24T15:22:49.207595",
   "videos": [
+    {
+      "id": "SjyxwaRrjMk",
+      "title": "和歌山de乾杯!077 岩出市・KOREANBARシン・ソウル前編",
+      "description": "",
+      "publishedAt": "2026-01-24T14:30:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SjyxwaRrjMk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SjyxwaRrjMk"
+    },
+    {
+      "id": "4PRKcjUoxPY",
+      "title": "あのじゅうよ〜 第183回",
+      "description": "",
+      "publishedAt": "2026-01-24T14:30:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4PRKcjUoxPY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4PRKcjUoxPY"
+    },
     {
       "id": "ktOngXHYQBw",
       "title": "那智の滝 滝つぼ凍る 和歌山県那智勝浦町",

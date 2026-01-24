@@ -1,8 +1,32 @@
 {
   "channel_id": "UClElfQ7F1QndkPEFuqrDCLQ",
   "channel_name": "仙台放送ニュースチャンネル",
-  "updated_at": "2026-01-23T15:28:47.697982",
+  "updated_at": "2026-01-24T15:23:00.371651",
   "videos": [
+    {
+      "id": "b1_OkAcJeMo",
+      "title": "【衆院選】宮城２区に立候補の新人２人が会見 (26/01/24 17:35)",
+      "description": "",
+      "publishedAt": "2026-01-24T09:55:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b1_OkAcJeMo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b1_OkAcJeMo"
+    },
+    {
+      "id": "Fxlyex9uQMc",
+      "title": "【衆院選】「選挙期間が長い短いに関係なく取締体制確立」宮城県警が選挙違反取締対策本部設置 (26/01/24 12:08)",
+      "description": "",
+      "publishedAt": "2026-01-24T03:13:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fxlyex9uQMc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fxlyex9uQMc"
+    },
     {
       "id": "JsICeZs1n9Y",
       "title": "「人を追いかけてひもを取るのが楽しい」白石市の小学校で“動く“ジャンボかるた取り大会　〈宮城〉 (26/01/23 14:20)",

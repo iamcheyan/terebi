@@ -1,8 +1,80 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-01-22T15:34:59.489113",
+  "updated_at": "2026-01-24T15:23:34.111931",
   "videos": [
+    {
+      "id": "qO2YmjyLYrk",
+      "title": "【テレQ番宣】ぐっ！ジョブ（1月31日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-01-24T15:01:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qO2YmjyLYrk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qO2YmjyLYrk"
+    },
+    {
+      "id": "TmD7bSNd1Ks",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（1月31日（土）18:30～）",
+      "description": "",
+      "publishedAt": "2026-01-24T15:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TmD7bSNd1Ks/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TmD7bSNd1Ks"
+    },
+    {
+      "id": "xQR376wF93M",
+      "title": "1月31日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-01-24T12:01:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xQR376wF93M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xQR376wF93M"
+    },
+    {
+      "id": "Derard6Is9Q",
+      "title": "アイライフスタイル ♯33 「デッサンをしよう」（テレQ 2025年1月24日放送）",
+      "description": "",
+      "publishedAt": "2026-01-24T11:59:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Derard6Is9Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Derard6Is9Q"
+    },
+    {
+      "id": "5G1OY8XEB0g",
+      "title": "【「はてなのてん」公式アカウントに驚愕！村重杏奈＆こがけん】はてなのてん未公開トーク",
+      "description": "",
+      "publishedAt": "2026-01-24T09:55:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5G1OY8XEB0g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5G1OY8XEB0g"
+    },
+    {
+      "id": "BwjvYoVSANE",
+      "title": "【テレQ番宣】はてなのてん（1月31日(土)18:30～）",
+      "description": "",
+      "publishedAt": "2026-01-24T09:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BwjvYoVSANE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BwjvYoVSANE"
+    },
     {
       "id": "aTUDAd0F8sE",
       "title": "【夢クルーズ】591 弓野人形 (2026年1月22日放送)",

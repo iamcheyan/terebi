@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-01-23T15:29:03.812735",
+  "updated_at": "2026-01-24T15:22:41.153251",
   "videos": [
+    {
+      "id": "S986s3jPLTg",
+      "title": "冬限定！新酒の酒粕みそラーメンを食べてみた",
+      "description": "",
+      "publishedAt": "2026-01-24T03:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S986s3jPLTg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S986s3jPLTg"
+    },
+    {
+      "id": "RsUiu4uFz1g",
+      "title": "冬限定！新酒の酒粕みそラーメンを食べてみた",
+      "description": "",
+      "publishedAt": "2026-01-24T03:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RsUiu4uFz1g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RsUiu4uFz1g"
+    },
     {
       "id": "rdpEgDtvyFg",
       "title": "【見逃し】森山萌花アナウンサー 樹氷ライトアップ 山形市から生中継",

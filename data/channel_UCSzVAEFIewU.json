@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-01-22T15:34:19.275102",
+  "updated_at": "2026-01-24T15:23:10.711203",
   "videos": [
+    {
+      "id": "U8USFAblMzY",
+      "title": "2025雑巾がけレースＺ－１グランプリinせいよ",
+      "description": "",
+      "publishedAt": "2026-01-24T00:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U8USFAblMzY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U8USFAblMzY"
+    },
     {
       "id": "ra2h0q6PH8M",
       "title": "きょうの俳句＜令和8年1月放送＞ 兼題「日脚伸ぶ」（前半）",

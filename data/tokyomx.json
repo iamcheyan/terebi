@@ -1,8 +1,20 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-01-23T15:28:48.415503",
+  "updated_at": "2026-01-24T15:22:40.045578",
   "videos": [
+    {
+      "id": "d48z8qTxCTg",
+      "title": "【東京新聞記者解説】被害の実態は？みんなで大家さん問題【WakeUp7/デジキジ】",
+      "description": "",
+      "publishedAt": "2026-01-24T10:10:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d48z8qTxCTg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d48z8qTxCTg"
+    },
     {
       "id": "A-ZV_ivLA0M",
       "title": "衆院が解散、16日間の短期決戦へ　2月8日投開票",

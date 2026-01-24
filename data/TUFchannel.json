@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-01-21T15:36:07.332671",
+  "updated_at": "2026-01-24T15:23:33.136347",
   "videos": [
+    {
+      "id": "27HiESGN_do",
+      "title": "【香取慎吾がジャッジ】わが街のラーメン国宝【ご当地ラーメン大集合】",
+      "description": "",
+      "publishedAt": "2026-01-24T09:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/27HiESGN_do/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=27HiESGN_do"
+    },
     {
       "id": "-u_N937vLD0",
       "title": "【JNN東北】推しがススる東北地元ラーメン【ご当地アイドルの推しラーメン】",

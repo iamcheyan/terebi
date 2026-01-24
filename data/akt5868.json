@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-01-22T15:34:43.072903",
+  "updated_at": "2026-01-24T15:23:15.700846",
   "videos": [
+    {
+      "id": "J275RFkb4mg",
+      "title": "とびまめっ!!　～バレンタインデー企画！お菓子作り講座～　2026年1月23日放送分",
+      "description": "",
+      "publishedAt": "2026-01-23T23:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J275RFkb4mg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J275RFkb4mg"
+    },
+    {
+      "id": "jvK26uvaax0",
+      "title": "GOING FAIRWAY TV　#21　2026年1月24日(土)放送",
+      "description": "",
+      "publishedAt": "2026-01-23T21:01:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jvK26uvaax0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jvK26uvaax0"
+    },
     {
       "id": "vR2qreCbi5c",
       "title": "「the CAMP」 #62【未公開バージョン】",
