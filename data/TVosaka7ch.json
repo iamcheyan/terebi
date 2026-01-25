@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-01-24T15:22:53.100772",
+  "updated_at": "2026-01-25T15:23:20.141135",
   "videos": [
+    {
+      "id": "Xfqhwi5d8iI",
+      "title": "食遺産File.231「カキと白ネギのワイン蒸し」＠和歌山県・海南市",
+      "description": "",
+      "publishedAt": "2026-01-25T03:45:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Xfqhwi5d8iI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Xfqhwi5d8iI"
+    },
     {
       "id": "UfIr6VNVrkg",
       "title": "【よゐこ有野×大阪】東大阪・布施で人気のたこ焼きを食べまくり／大阪の街の“攻略法”を探す街ブラ",

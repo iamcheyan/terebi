@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-01-23T15:29:29.124939",
+  "updated_at": "2026-01-25T15:24:19.300345",
   "videos": [
+    {
+      "id": "qSe0mLQ94o4",
+      "title": "【公式】「シャボンちゃんと正しく手洗い～♪」（2026年1月25日放送）｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-01-25T00:01:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qSe0mLQ94o4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qSe0mLQ94o4"
+    },
+    {
+      "id": "8-ytOQAcdsM",
+      "title": "【公式】ドキュメント九州「たからもの 塩でつなぐ、ふるさと小浜」（2026年2月1日OA）",
+      "description": "",
+      "publishedAt": "2026-01-24T22:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8-ytOQAcdsM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8-ytOQAcdsM"
+    },
     {
       "id": "Mofh2nChpU4",
       "title": "【公式】2026年1月30日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",

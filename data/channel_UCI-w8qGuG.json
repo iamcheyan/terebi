@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-01-24T15:22:37.361980",
+  "updated_at": "2026-01-25T15:23:42.406702",
   "videos": [
+    {
+      "id": "00X-lbOj5G4",
+      "title": "＜地上波未公開トークあり＞栗山英樹×宇津木麗華 ～ジャパンメソッド[世界で勝つための方法論] GETSPORTS特別編＃２",
+      "description": "",
+      "publishedAt": "2026-01-25T09:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/00X-lbOj5G4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=00X-lbOj5G4"
+    },
     {
       "id": "aOKY2a_xuP0",
       "title": "【GETSPORTS特別編＃1】＜地上波未公開トークあり＞栗山英樹×宇津木麗華 ～ジャパンメソッド[世界で勝つための方法論]",

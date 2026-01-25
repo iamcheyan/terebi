@@ -1,8 +1,32 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-01-24T15:23:27.307021",
+  "updated_at": "2026-01-25T15:24:10.926519",
   "videos": [
+    {
+      "id": "ZyCRH5Wc0xk",
+      "title": "女子バスケＷリーグ大分開催",
+      "description": "",
+      "publishedAt": "2026-01-25T09:04:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZyCRH5Wc0xk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZyCRH5Wc0xk"
+    },
+    {
+      "id": "HMH5RUASm6Y",
+      "title": "恒例！極寒の山頂で「我慢比べ大会」",
+      "description": "",
+      "publishedAt": "2026-01-25T09:03:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HMH5RUASm6Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HMH5RUASm6Y"
+    },
     {
       "id": "c6RcehGukx8",
       "title": "衆院選の準備進む　投票用紙を発送",

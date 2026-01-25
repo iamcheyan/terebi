@@ -1,8 +1,20 @@
 {
   "channel_id": "UCiyk6cY1ux2HCDycnMTksdg",
   "channel_name": "KYT鹿児島読売テレビ",
-  "updated_at": "2026-01-24T15:23:24.550498",
+  "updated_at": "2026-01-25T15:24:06.127677",
   "videos": [
+    {
+      "id": "QZI1kVQmOog",
+      "title": "鹿児島の最新ニュース",
+      "description": "",
+      "publishedAt": "2026-01-25T05:39:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QZI1kVQmOog/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QZI1kVQmOog"
+    },
     {
       "id": "zUDPuCE2j6c",
       "title": "「西郷どん生誕祭スペシャルステージ」　俳優の大原優乃さんがトークショー",

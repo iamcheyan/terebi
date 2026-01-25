@@ -1,8 +1,32 @@
 {
   "channel_id": "UCbscuGVoILLewd22RFnHpOw",
   "channel_name": "東海テレビ",
-  "updated_at": "2026-01-24T15:23:43.784968",
+  "updated_at": "2026-01-25T15:24:36.442774",
   "videos": [
+    {
+      "id": "GKLQUlxX4pI",
+      "title": "ＷＡＹＳ～医療の道を拓くひと～2026年1月25日放送",
+      "description": "",
+      "publishedAt": "2026-01-25T08:28:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GKLQUlxX4pI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GKLQUlxX4pI"
+    },
+    {
+      "id": "mZV5Tc_C3hA",
+      "title": "土ドラ『東海テレビ×WOWOW 共同製作連続ドラマ 横浜ネイバーズ Season1』第4話　1月31日（土）23時40分放送",
+      "description": "",
+      "publishedAt": "2026-01-24T15:50:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mZV5Tc_C3hA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mZV5Tc_C3hA"
+    },
     {
       "id": "xO2jKvYqMbA",
       "title": "『ぐっさん家~THE GOODSUN HOUSE~』2026年1月31日（土）ぐっさん！一宮市の専門店を巡る旅！　毎週土曜18：30〜",

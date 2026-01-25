@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-01-23T15:29:24.479790",
+  "updated_at": "2026-01-25T15:24:11.762455",
   "videos": [
+    {
+      "id": "JB1U53H4HXY",
+      "title": "ウインターカップ ～最後の冬に全てをかけて～",
+      "description": "",
+      "publishedAt": "2026-01-25T03:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JB1U53H4HXY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JB1U53H4HXY"
+    },
     {
       "id": "TcAvBHryZZA",
       "title": "Vol.41「30年前のNTT七隈支店のみんなへ」上原さんと比嘉さん",
