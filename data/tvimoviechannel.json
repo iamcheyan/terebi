@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-25T15:24:20.263479",
+  "updated_at": "2026-01-26T15:33:04.898846",
   "videos": [
+    {
+      "id": "yX725WISJeg",
+      "title": "今日の５きげんテレビ（1月27日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-01-26T15:01:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yX725WISJeg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yX725WISJeg"
+    },
+    {
+      "id": "eLS4Ib9_5sM",
+      "title": "5きげん知恵袋 ～冬はやっぱり柑橘フルーツ～",
+      "description": "",
+      "publishedAt": "2026-01-26T09:16:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eLS4Ib9_5sM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eLS4Ib9_5sM"
+    },
+    {
+      "id": "AxfsKachhhE",
+      "title": "５きげんクッキング ～だし巻き卵の牛しぐれ煮添え～",
+      "description": "",
+      "publishedAt": "2026-01-26T09:05:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AxfsKachhhE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AxfsKachhhE"
+    },
     {
       "id": "n4KS8ZWiHck",
       "title": "今日の５きげんテレビ（1月26日）｜テレビ岩手",

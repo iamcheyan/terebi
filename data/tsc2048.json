@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-01-23T15:28:50.261674",
+  "updated_at": "2026-01-26T15:32:02.857099",
   "videos": [
+    {
+      "id": "C_hcSUDE9bQ",
+      "title": "1月31日のプライドは岡山県西粟倉村の点々",
+      "description": "",
+      "publishedAt": "2026-01-26T00:56:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C_hcSUDE9bQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C_hcSUDE9bQ"
+    },
     {
       "id": "qZJmcridmtc",
       "title": "ファジアーノのホームスタジアム 岡山県が座席増設へ",

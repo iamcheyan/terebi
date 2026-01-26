@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-01-24T15:22:56.996797",
+  "updated_at": "2026-01-26T15:31:51.589141",
   "videos": [
+    {
+      "id": "4FDcPdzxnJw",
+      "title": "【LBS】自動車部品メーカーのゲーミングキーボード",
+      "description": "",
+      "publishedAt": "2026-01-26T12:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4FDcPdzxnJw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4FDcPdzxnJw"
+    },
+    {
+      "id": "TtY_7oVrR2Q",
+      "title": "爆速グルメ＆動物大家族＆超過酷な訓練…【愛知あたりまえ】",
+      "description": "",
+      "publishedAt": "2026-01-26T08:46:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TtY_7oVrR2Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TtY_7oVrR2Q"
+    },
     {
       "id": "AW1vmx2Ntdg",
       "title": "トヨタ会館（愛知県豊田市）【あまドラ～天野っちのドライブしよう！！～】",

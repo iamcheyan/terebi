@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-01-25T15:24:24.151389",
+  "updated_at": "2026-01-26T15:33:08.321821",
   "videos": [
+    {
+      "id": "ANTwuYwtYdc",
+      "title": "みんテレ　1月27日（火）放送",
+      "description": "",
+      "publishedAt": "2026-01-26T10:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ANTwuYwtYdc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ANTwuYwtYdc"
+    },
+    {
+      "id": "ejKB-0J-Wrw",
+      "title": "Yagien Ballpark　1月30日（金）放送",
+      "description": "",
+      "publishedAt": "2026-01-26T08:22:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ejKB-0J-Wrw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ejKB-0J-Wrw"
+    },
     {
       "id": "3Lb5e18gWrU",
       "title": "松本裕子の病を知るー1月25日　シリーズ脳からの警告② 脳梗塞を防ぐ！予防医療の最前線",

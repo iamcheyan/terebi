@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-01-24T15:22:49.207595",
+  "updated_at": "2026-01-26T15:32:17.260806",
   "videos": [
+    {
+      "id": "G9Uua2i72zc",
+      "title": "紀南つうしん特別編 午年の南紀へ行こう　アフタートーク",
+      "description": "",
+      "publishedAt": "2026-01-26T03:57:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G9Uua2i72zc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G9Uua2i72zc"
+    },
     {
       "id": "SjyxwaRrjMk",
       "title": "和歌山de乾杯!077 岩出市・KOREANBARシン・ソウル前編",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-01-24T15:22:56.184969",
+  "updated_at": "2026-01-26T15:32:33.116806",
   "videos": [
+    {
+      "id": "bBLyA83mkm8",
+      "title": "「被爆者のいない時代」間近に　被爆80年・2025年の被爆地を振り返る",
+      "description": "",
+      "publishedAt": "2026-01-26T10:05:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bBLyA83mkm8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bBLyA83mkm8"
+    },
+    {
+      "id": "6ylEMHA7Yr0",
+      "title": "平和のバトンを受け取った姉弟　次世代のつなぐ平和",
+      "description": "",
+      "publishedAt": "2026-01-26T10:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6ylEMHA7Yr0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6ylEMHA7Yr0"
+    },
     {
       "id": "F_rMxT7qvG0",
       "title": "らく・ごる 放送未公開こぼれ話 第94回「オフで珠玉のアドバイス？」",

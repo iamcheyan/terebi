@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-01-25T15:24:27.422667",
+  "updated_at": "2026-01-26T15:33:10.853253",
   "videos": [
+    {
+      "id": "jK-WCcV_gBc",
+      "title": "愛媛のニュース(01月26日)",
+      "description": "",
+      "publishedAt": "2026-01-26T11:35:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jK-WCcV_gBc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jK-WCcV_gBc"
+    },
     {
       "id": "vx0qj9TxeOQ",
       "title": "伝統の絵馬づくりに試行錯誤 東温高校・美術部員の挑戦「せーのっ！未来への一歩」",

@@ -1,8 +1,176 @@
 {
   "channel_id": "UCkLqBWFde2ZJZfqojgpDqyA",
   "channel_name": "日テレ公式チャンネル",
-  "updated_at": "2026-01-25T15:24:35.361502",
+  "original_name": "日テレ公式チャンネル",
+  "updated_at": "2026-01-26T15:35:02.256165",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uxzRyUKgx-LWsYNpFyFFrTQWhwM",
+      "id": "VVVrTHFCV0ZkZTJaSlpmcW9qZ3BEcXlBLkJQX0hRWWVHWG5F",
+      "snippet": {
+        "publishedAt": "2026-01-26T15:29:01Z",
+        "channelId": "UCkLqBWFde2ZJZfqojgpDqyA",
+        "title": "THE Wはレベルが低い…？ファイナリストたちの熱い想い&大悟はTHE Wをどうみた？【大悟の芸人領収書】",
+        "description": "芸人たちがプライベートの領収書からエピソード披露！MC大悟の承認で全額キャッシュバック！\n2月2日24時09分スタート！\n\n【芸人ゲスト】\nニッチェ／紺野ぶるま／にぼしいわし\n\n番組公式X：https://twitter.com/geininryosyusyo\n番組HP：https://www.ntv.co.jp/geininryousyusyo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BP_HQYeGXnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BP_HQYeGXnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BP_HQYeGXnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BP_HQYeGXnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BP_HQYeGXnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "日テレ公式チャンネル",
+        "playlistId": "UUkLqBWFde2ZJZfqojgpDqyA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BP_HQYeGXnE"
+        },
+        "videoOwnerChannelTitle": "日テレ公式チャンネル",
+        "videoOwnerChannelId": "UCkLqBWFde2ZJZfqojgpDqyA"
+      }
+    },
+    {
+      "id": "6C0QQ6NDF9c",
+      "title": "【今夜の日テレ系】オモウマい店＋さんま御殿＋仰天ニュース＋X秒後の新世界【おススメ番組】",
+      "description": "",
+      "publishedAt": "2026-01-26T15:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6C0QQ6NDF9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6C0QQ6NDF9c"
+    },
+    {
+      "id": "CtMMLXq66vE",
+      "title": "【公式】毎週月曜よる10時放送！村上信五とマツコ・デラックスが世間で話題の件をあれこれ語り合う…2月2日(月)は氷点下の北海道ニュース　ほか",
+      "description": "",
+      "publishedAt": "2026-01-26T14:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CtMMLXq66vE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CtMMLXq66vE"
+    },
+    {
+      "id": "N_aQwsCMS_I",
+      "title": "【公式】しゃべくり007　渡辺直美、しゃべくり凱旋！ニューヨーク生活のリアルを語る！！",
+      "description": "",
+      "publishedAt": "2026-01-26T12:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N_aQwsCMS_I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N_aQwsCMS_I"
+    },
+    {
+      "id": "jPXJRm0qSvg",
+      "title": "【世界まる見え】2月2日(月)よる8時　やりすぎかよ！SP",
+      "description": "",
+      "publishedAt": "2026-01-26T12:01:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jPXJRm0qSvg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jPXJRm0qSvg"
+    },
+    {
+      "id": "dDssyliGl7w",
+      "title": "【おしゃれクリップ】ゲストは津田健次郎　2月1日（日）よる10時放送！",
+      "description": "",
+      "publishedAt": "2026-01-26T04:52:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dDssyliGl7w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dDssyliGl7w"
+    },
+    {
+      "id": "NAzSaaqQjbY",
+      "title": "「Golden SixTONES」櫻井翔＆中田翔の『W翔』が降臨！2月1日（日）よる9時！！【公式】",
+      "description": "",
+      "publishedAt": "2026-01-26T03:25:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NAzSaaqQjbY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NAzSaaqQjbY"
+    },
+    {
+      "id": "vFxZxzQ77So",
+      "title": "2026年1月25日（日）放送「株式会社 ベネッセコーポレーション」",
+      "description": "",
+      "publishedAt": "2026-01-26T03:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vFxZxzQ77So/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vFxZxzQ77So"
+    },
+    {
+      "id": "B9CDC7VFIZg",
+      "title": "#1018　FPパートナー（1月24日(土)放送）",
+      "description": "",
+      "publishedAt": "2026-01-26T03:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B9CDC7VFIZg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B9CDC7VFIZg"
+    },
+    {
+      "id": "7JHp0uXSOeE",
+      "title": "【3分クッキング公式】鶏肉とひらひらにんじんの重ね蒸し",
+      "description": "",
+      "publishedAt": "2026-01-26T02:55:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7JHp0uXSOeE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7JHp0uXSOeE"
+    },
+    {
+      "id": "qp1zyOLr-iw",
+      "title": "NNNドキュメント　2026/2/1「クマージェンシー２」",
+      "description": "",
+      "publishedAt": "2026-01-26T02:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qp1zyOLr-iw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qp1zyOLr-iw"
+    },
     {
       "id": "V3sBmtt7yTE",
       "title": "【今夜の日テレ系】有吉ゼミ＋世界まる見え＋しゃべくり007＋月曜から夜ふかし【おススメ番組】",
@@ -11047,6 +11215,12 @@
       "title": "不遇の関西コント師たちの逆転劇！ロコディ・ニッ社・セルスパ 関西コント保安協会SP【大悟の芸人領収書】",
       "thumbnail": "https://i.ytimg.com/vi/ePXDwxgWx6A/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ePXDwxgWx6A"
+    },
+    {
+      "id": "BP_HQYeGXnE",
+      "title": "THE Wはレベルが低い…？ファイナリストたちの熱い想い&大悟はTHE Wをどうみた？【大悟の芸人領収書】",
+      "thumbnail": "https://i.ytimg.com/vi/BP_HQYeGXnE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BP_HQYeGXnE"
     }
   ]
 }
