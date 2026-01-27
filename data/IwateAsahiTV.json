@@ -1,8 +1,20 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-01-20T15:34:35.287203",
+  "updated_at": "2026-01-27T15:33:03.865723",
   "videos": [
+    {
+      "id": "GbU9G4N4iic",
+      "title": "【Go！Go！いわて】1月31日（土）予告",
+      "description": "",
+      "publishedAt": "2026-01-27T09:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GbU9G4N4iic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GbU9G4N4iic"
+    },
     {
       "id": "y_TpxJQ25hE",
       "title": "15 盛岡市『橋の街もりおか』第23回IATふるさとCM大賞",

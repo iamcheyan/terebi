@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-01-26T15:33:10.853253",
+  "updated_at": "2026-01-27T15:33:39.796562",
   "videos": [
+    {
+      "id": "cT96WUK5NNs",
+      "title": "愛媛のニュース(01月27日)",
+      "description": "",
+      "publishedAt": "2026-01-27T11:33:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cT96WUK5NNs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cT96WUK5NNs"
+    },
+    {
+      "id": "b4RX_i2zMCI",
+      "title": "【アフタートーク🍜】JNN22局がタッグ！天下分け麺の戦い　わが街のラーメン国宝(1/28水　よる8時～)",
+      "description": "",
+      "publishedAt": "2026-01-27T10:26:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b4RX_i2zMCI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b4RX_i2zMCI"
+    },
+    {
+      "id": "IlC9NdPmQtQ",
+      "title": "STU48が愛媛をEVドライブ！【第3回】ブルークエスト with STU48（さいさいきてや編）",
+      "description": "",
+      "publishedAt": "2026-01-27T02:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IlC9NdPmQtQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IlC9NdPmQtQ"
+    },
     {
       "id": "jK-WCcV_gBc",
       "title": "愛媛のニュース(01月26日)",

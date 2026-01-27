@@ -1,8 +1,32 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-01-14T15:29:58.165257",
+  "updated_at": "2026-01-27T15:33:32.645442",
   "videos": [
+    {
+      "id": "Zwt5_gA2pGg",
+      "title": "信州 STREET BEAT   Breakin’(ブレイキン）",
+      "description": "",
+      "publishedAt": "2026-01-27T08:45:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Zwt5_gA2pGg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Zwt5_gA2pGg"
+    },
+    {
+      "id": "RiFhUlEVWeE",
+      "title": "農業と音楽、サブカルチャーのまち信州中野　人気漫画家・宮島礼吏さん単独インタビューも！",
+      "description": "",
+      "publishedAt": "2026-01-27T06:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RiFhUlEVWeE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RiFhUlEVWeE"
+    },
     {
       "id": "Ph3kr2chFPk",
       "title": "信州 STREET BEAT　3×3（スリー・エックス・スリー）",

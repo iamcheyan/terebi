@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-26T15:33:17.300207",
+  "updated_at": "2026-01-27T15:33:43.701790",
   "videos": [
+    {
+      "id": "4nOPdW63-vc",
+      "title": "260127 173529 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-01-27T11:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4nOPdW63-vc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4nOPdW63-vc"
+    },
+    {
+      "id": "Yvwxvf_gNeM",
+      "title": "260127 173213 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-01-27T10:45:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yvwxvf_gNeM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yvwxvf_gNeM"
+    },
+    {
+      "id": "sjvz4Doj4-Q",
+      "title": "260127 171357 宮野下第３踏切と鉄橋",
+      "description": "",
+      "publishedAt": "2026-01-27T10:30:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sjvz4Doj4-Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sjvz4Doj4-Q"
+    },
+    {
+      "id": "hJ-IHBsTs6E",
+      "title": "260127 170740 宮野下第２踏切",
+      "description": "",
+      "publishedAt": "2026-01-27T10:18:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hJ-IHBsTs6E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hJ-IHBsTs6E"
+    },
     {
       "id": "MR3iDi_y0hw",
       "title": "260126 162610 河渡踏切",

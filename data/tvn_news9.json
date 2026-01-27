@@ -1,8 +1,56 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-01-26T15:32:35.981810",
+  "updated_at": "2026-01-27T15:32:59.823112",
   "videos": [
+    {
+      "id": "OngfA0NKJME",
+      "title": "衆院選　奈良1区　立候補者（届出順）",
+      "description": "",
+      "publishedAt": "2026-01-27T11:05:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OngfA0NKJME/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OngfA0NKJME"
+    },
+    {
+      "id": "MycOdIzTiqU",
+      "title": "衆院選　奈良２区　立候補者（届出順）",
+      "description": "",
+      "publishedAt": "2026-01-27T11:05:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MycOdIzTiqU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MycOdIzTiqU"
+    },
+    {
+      "id": "pc8Nfj8otyE",
+      "title": "衆院選　奈良３区　立候補者（届出順）",
+      "description": "",
+      "publishedAt": "2026-01-27T11:05:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pc8Nfj8otyE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pc8Nfj8otyE"
+    },
+    {
+      "id": "rJC4Dnl9MOo",
+      "title": "健康づくりの推進へ　上牧町・町商工会と協会けんぽが協定",
+      "description": "",
+      "publishedAt": "2026-01-27T11:05:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rJC4Dnl9MOo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rJC4Dnl9MOo"
+    },
     {
       "id": "E-m-ir2-vdE",
       "title": "２６日は「文化財防火デー」　法隆寺で防火訓練",

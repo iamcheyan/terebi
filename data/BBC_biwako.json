@@ -1,8 +1,44 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-01-26T15:32:01.635731",
+  "updated_at": "2026-01-27T15:33:05.680731",
   "videos": [
+    {
+      "id": "sH5HC6GWkAk",
+      "title": "衆議院選挙が公示　滋賀１区",
+      "description": "",
+      "publishedAt": "2026-01-27T10:27:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sH5HC6GWkAk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sH5HC6GWkAk"
+    },
+    {
+      "id": "F4_5Z5jG9IY",
+      "title": "衆議院選挙が公示　滋賀２区",
+      "description": "",
+      "publishedAt": "2026-01-27T10:26:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F4_5Z5jG9IY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F4_5Z5jG9IY"
+    },
+    {
+      "id": "k3sDsEuskx8",
+      "title": "衆議院選挙が公示　滋賀３区",
+      "description": "",
+      "publishedAt": "2026-01-27T10:22:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k3sDsEuskx8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k3sDsEuskx8"
+    },
     {
       "id": "LG9GcXDh7MU",
       "title": "住民が雪かきに追われる　今週後半にも大雪の恐れ",

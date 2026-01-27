@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-01-26T15:32:04.103695",
+  "updated_at": "2026-01-27T15:33:11.124314",
   "videos": [
+    {
+      "id": "8bczh1VrvJ0",
+      "title": "【よんタメ】大石昌良×川崎鷹也　そっくりな2人が大阪でコラボ",
+      "description": "",
+      "publishedAt": "2026-01-27T09:39:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8bczh1VrvJ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8bczh1VrvJ0"
+    },
+    {
+      "id": "HfKH0lZSpjE",
+      "title": "【あなたの知らない スポーツ・競馬、実況アナウンサーの世界】2026年2月１日放送「MBSマンスリーリポート」",
+      "description": "",
+      "publishedAt": "2026-01-27T01:49:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HfKH0lZSpjE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HfKH0lZSpjE"
+    },
     {
       "id": "DM3RX4WEnDg",
       "title": "相方アキのギャグをしっかりパクるケン",

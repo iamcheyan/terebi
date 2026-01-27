@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-01-26T15:32:24.329323",
+  "updated_at": "2026-01-27T15:32:54.505215",
   "videos": [
+    {
+      "id": "KyOmbceVPrk",
+      "title": "tvk「クルマでいこう！」公式 スズキ クロスビー 2026/1/18放送(#923)",
+      "description": "",
+      "publishedAt": "2026-01-27T09:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KyOmbceVPrk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KyOmbceVPrk"
+    },
+    {
+      "id": "AYmBjjV6k1A",
+      "title": "tvk「クルマでいこう！」公式 藤トモEYE 新型 ホンダ CR-V 2026/1/18放送(#923)",
+      "description": "",
+      "publishedAt": "2026-01-27T09:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AYmBjjV6k1A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AYmBjjV6k1A"
+    },
     {
       "id": "bS8LJzw1qNk",
       "title": "2026年1月23日【藤沢支援学校鎌倉分教室】地域に根ざす能楽の学び",

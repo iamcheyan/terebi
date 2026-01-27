@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-01-22T15:34:49.277031",
+  "updated_at": "2026-01-27T15:33:30.835948",
   "videos": [
+    {
+      "id": "muMCGx0nEoo",
+      "title": "【旬景とやま】呉羽丘陵 冬の里山散歩",
+      "description": "",
+      "publishedAt": "2026-01-27T10:02:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/muMCGx0nEoo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=muMCGx0nEoo"
+    },
     {
       "id": "gxPWAewQ-mw",
       "title": "【北陸３県イイトコどり～】伝統工芸に新風を",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-01-26T15:32:17.260806",
+  "updated_at": "2026-01-27T15:32:54.837095",
   "videos": [
+    {
+      "id": "16Hq4rj_Qic",
+      "title": "衆院選 公示 和歌山県は2選挙区 9人立候補",
+      "description": "",
+      "publishedAt": "2026-01-27T10:17:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/16Hq4rj_Qic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=16Hq4rj_Qic"
+    },
+    {
+      "id": "3r4qA0cSgHA",
+      "title": "【1/23放送】わかきん先生の健康フルスロットル",
+      "description": "",
+      "publishedAt": "2026-01-27T08:09:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3r4qA0cSgHA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3r4qA0cSgHA"
+    },
     {
       "id": "G9Uua2i72zc",
       "title": "紀南つうしん特別編 午年の南紀へ行こう　アフタートーク",
