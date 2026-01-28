@@ -1,8 +1,80 @@
 {
   "channel_id": "UC_SN3bimHrEFQ0qe-5X5zFw",
   "channel_name": "とちぎテレビNEWS",
-  "updated_at": "2026-01-27T15:33:41.485830",
+  "updated_at": "2026-01-28T15:36:26.184562",
   "videos": [
+    {
+      "id": "tjshqZNhxPE",
+      "title": "２０２６衆院選　自民・前職に新人３人が挑む　栃木５区",
+      "description": "",
+      "publishedAt": "2026-01-28T00:46:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tjshqZNhxPE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tjshqZNhxPE"
+    },
+    {
+      "id": "UktQglRhI7k",
+      "title": "２０２６衆院選　中道・前職に３人が挑む　栃木４区",
+      "description": "",
+      "publishedAt": "2026-01-28T00:45:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UktQglRhI7k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UktQglRhI7k"
+    },
+    {
+      "id": "iPWEv90PA_o",
+      "title": "２０２６衆院選　前職に新人２人が挑む戦い　栃木３区",
+      "description": "",
+      "publishedAt": "2026-01-28T00:45:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iPWEv90PA_o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iPWEv90PA_o"
+    },
+    {
+      "id": "Uv4HtGnUh20",
+      "title": "２０２６衆院選　前職２人と新人の三つどもえ　栃木２区",
+      "description": "",
+      "publishedAt": "2026-01-28T00:44:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Uv4HtGnUh20/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Uv4HtGnUh20"
+    },
+    {
+      "id": "Gl2_OD039mw",
+      "title": "２０２６衆院選　候補者乱立６人立候補　栃木１区",
+      "description": "",
+      "publishedAt": "2026-01-28T00:43:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Gl2_OD039mw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Gl2_OD039mw"
+    },
+    {
+      "id": "ygyy7bz6bf8",
+      "title": "中道・野田共同代表　応援演説で宇都宮入り",
+      "description": "",
+      "publishedAt": "2026-01-28T00:42:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ygyy7bz6bf8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ygyy7bz6bf8"
+    },
     {
       "id": "rlL8wHrhxJ0",
       "title": "栃木県イメージアップ貢献賞に７個人１０団体　県産業協議会",

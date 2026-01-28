@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-01-27T15:33:34.178613",
+  "updated_at": "2026-01-28T15:36:18.106109",
   "videos": [
+    {
+      "id": "rbClYnTIST4",
+      "title": "【番宣】２月４日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2026-01-28T11:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rbClYnTIST4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rbClYnTIST4"
+    },
     {
       "id": "ugSbQBEVUnM",
       "title": "【番宣】１月２９日（木）NEWSゲツキン",

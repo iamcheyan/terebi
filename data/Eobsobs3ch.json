@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-01-27T15:33:33.501096",
+  "updated_at": "2026-01-28T15:36:17.224397",
   "videos": [
+    {
+      "id": "QuSLcYXcuRA",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年1月26日放送分】",
+      "description": "",
+      "publishedAt": "2026-01-28T05:10:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QuSLcYXcuRA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QuSLcYXcuRA"
+    },
+    {
+      "id": "fHGUaqKV5UU",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2025年12月22日放送分】",
+      "description": "",
+      "publishedAt": "2026-01-28T04:59:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fHGUaqKV5UU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fHGUaqKV5UU"
+    },
     {
       "id": "2Jc9hI8L550",
       "title": "【大分市】１００日だけのチョコクロワッサン by TonyBake 大分店（2026年1月14日放送分）",

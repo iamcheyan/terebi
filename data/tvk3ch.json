@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-01-27T15:32:54.505215",
+  "updated_at": "2026-01-28T15:36:03.177276",
   "videos": [
+    {
+      "id": "HNWXrGJOQNc",
+      "title": "【毎週ライブ】2026/1/28「関内デビル」水曜２０時の素材",
+      "description": "",
+      "publishedAt": "2026-01-28T11:49:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HNWXrGJOQNc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HNWXrGJOQNc"
+    },
+    {
+      "id": "zKNOfjnqBoc",
+      "title": "カナフルTV　1月25日　みんなで楽しむ！「カナフルおもしろ理科教室」",
+      "description": "",
+      "publishedAt": "2026-01-28T04:01:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zKNOfjnqBoc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zKNOfjnqBoc"
+    },
+    {
+      "id": "PO5UahZKo_Y",
+      "title": "かながわ旬菜ナビ　次回予告（2月1日放送）",
+      "description": "",
+      "publishedAt": "2026-01-28T03:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PO5UahZKo_Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PO5UahZKo_Y"
+    },
     {
       "id": "KyOmbceVPrk",
       "title": "tvk「クルマでいこう！」公式 スズキ クロスビー 2026/1/18放送(#923)",

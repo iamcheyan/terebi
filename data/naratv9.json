@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-01-22T15:34:36.447272",
+  "updated_at": "2026-01-28T15:35:52.274944",
   "videos": [
+    {
+      "id": "F_bowAI-RJk",
+      "title": "【1月23日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-01-28T03:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F_bowAI-RJk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F_bowAI-RJk"
+    },
     {
       "id": "NyrGQmCqnV8",
       "title": "大和ハウス工業 奈良支店　収益物件の相続をテーマにセミナー開催！",

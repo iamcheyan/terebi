@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-01-27T15:33:39.796562",
+  "updated_at": "2026-01-28T15:36:24.745152",
   "videos": [
+    {
+      "id": "ex0lOaEHM78",
+      "title": "愛媛のニュース(01月28日)",
+      "description": "",
+      "publishedAt": "2026-01-28T11:35:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ex0lOaEHM78/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ex0lOaEHM78"
+    },
+    {
+      "id": "0rCg6znVGKE",
+      "title": "愛媛MP20周年 夢のクロスロード 薬師神権祐社長",
+      "description": "",
+      "publishedAt": "2026-01-28T03:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0rCg6znVGKE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0rCg6znVGKE"
+    },
     {
       "id": "cT96WUK5NNs",
       "title": "愛媛のニュース(01月27日)",

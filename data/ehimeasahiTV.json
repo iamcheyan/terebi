@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2026-01-27T15:33:07.384199",
+  "updated_at": "2026-01-28T15:36:00.409308",
   "videos": [
+    {
+      "id": "fkHrtgKyVj4",
+      "title": "#HANA クラス",
+      "description": "",
+      "publishedAt": "2026-01-28T12:01:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fkHrtgKyVj4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fkHrtgKyVj4"
+    },
+    {
+      "id": "PAa5zJYS_3k",
+      "title": "#HANA かかったら#NONSTOP で#踊ってしまう#カメラマン",
+      "description": "",
+      "publishedAt": "2026-01-28T00:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PAa5zJYS_3k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PAa5zJYS_3k"
+    },
     {
       "id": "d5djjjbKfMk",
       "title": "【GLORY EHIMEで輝くBUSINESS】JAおちいまばり",

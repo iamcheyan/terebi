@@ -1,8 +1,171 @@
 {
   "channel_id": "UCw14eNQAUDqCg-fX3Uvd07w",
-  "channel_name": "mit岩手めんこいテレビ",
-  "updated_at": "2026-01-27T15:33:39.932245",
+  "channel_name": "menkoichannel",
+  "original_name": "mit岩手めんこいテレビ",
+  "updated_at": "2026-01-28T15:37:47.619002",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_E7dRJwNcQUO8_k77hcZcCg4XvI",
+      "id": "VVV3MTRlTlFBVURxQ2ctZlgzVXZkMDd3LklTa0xqcGkySV9J",
+      "snippet": {
+        "publishedAt": "2026-01-28T15:35:39Z",
+        "channelId": "UCw14eNQAUDqCg-fX3Uvd07w",
+        "title": "インフルエンザ3週連続増加　新型コロナウイルスも増加　岩手県 (26/01/28 19:45)",
+        "description": "1月25日までの1週間に岩手県内で確認されたインフルエンザの新規患者数は、1医療機関あたり7.86人で3週連続で増加しました。\r\n\r\n県によりますと、1月25日までの1週間に県内で確認されたインフルエンザの新規患者数は、1医療機関あたり7.86人でした。\r\n前の週を2.1ポイント上回り3週連続の増加です。\r\n\r\n保健所別では多い順に宮古で20.50人、県央で13.00人、中部で10.17人などとなっています。\r\n\r\nまた同じ期間に県内で確認された新型コロナウイルスの新規患者数は、1医療機関あたり4.26人で、前の週から1.38ポイント増加しました。\r\n\r\n県は引き続きマスクの着用や手洗い、換気など基本的な感染対策を呼びかけています。\r\n\r\n※盛岡市保健所管内は盛岡市\r\n※県央保健所管内は八幡平市・滝沢市・雫石町・葛巻町・岩手町・紫波町・矢巾町\r\n※奥州保健所管内は奥州市・金ケ崎町\r\n※中部保健所管内は花巻市・遠野市・北上市・西和賀町\r\n※一関保健所管内は一関市・平泉町\r\n※宮古保健所管内は宮古市・山田町・岩泉町・田野畑村\r\n※釜石保健所管内は釜石市・大槌町\r\n※大船渡保健所管内は大船渡市・陸前高田市・住田町\r\n※久慈保健所管内は久慈市・普代村・野田村・洋野町\r\n※二戸保健所管内は二戸市・軽米町・九戸村・一戸町",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ISkLjpi2I_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ISkLjpi2I_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ISkLjpi2I_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ISkLjpi2I_I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "menkoichannel",
+        "playlistId": "UUw14eNQAUDqCg-fX3Uvd07w",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ISkLjpi2I_I"
+        },
+        "videoOwnerChannelTitle": "menkoichannel",
+        "videoOwnerChannelId": "UCw14eNQAUDqCg-fX3Uvd07w"
+      }
+    },
+    {
+      "id": "LQ7A71qd6IQ",
+      "title": "ガソリン価格150.1円/Ｌ　10週ぶりの値上がりも全国で4番目に安い　岩手県 (26/01/28 19:40)",
+      "description": "",
+      "publishedAt": "2026-01-28T15:24:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LQ7A71qd6IQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LQ7A71qd6IQ"
+    },
+    {
+      "id": "3BBc-2PVZNs",
+      "title": "三陸鉄道、運賃値上げ3月14日から　東北運輸局が認可　岩手県 (26/01/28 19:20)",
+      "description": "",
+      "publishedAt": "2026-01-28T15:21:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3BBc-2PVZNs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3BBc-2PVZNs"
+    },
+    {
+      "id": "8G1kLNz5oU4",
+      "title": "衆院選　期日前投票始まる　投票所入場券の発送に遅れも　岩手県盛岡市 (26/01/28 19:15)",
+      "description": "",
+      "publishedAt": "2026-01-28T15:13:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8G1kLNz5oU4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8G1kLNz5oU4"
+    },
+    {
+      "id": "-s0pBMmzYv0",
+      "title": "佐々木麟太郎選手　新シーズンへ意気込み　スタンフォード大学で2年目 (26/01/28 21:30)",
+      "description": "",
+      "publishedAt": "2026-01-28T15:02:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-s0pBMmzYv0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-s0pBMmzYv0"
+    },
+    {
+      "id": "VHJPsuDduvU",
+      "title": "【岩手3区】ＡＩで分析、各候補「第一声」　中道・小沢一郎氏、自民・藤原崇氏、参政・及川泰輔氏　衆院選2026 (26/01/28 21:10)",
+      "description": "",
+      "publishedAt": "2026-01-28T12:11:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VHJPsuDduvU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VHJPsuDduvU"
+    },
+    {
+      "id": "x1p0uogNHrU",
+      "title": "真冬の衆院選、ここが違う　県内多くの市町村で投票終了早まる　開票時間繰り下げで開票結果の遅れの可能性も　岩手県 (26/01/28 21:08)",
+      "description": "",
+      "publishedAt": "2026-01-28T12:09:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x1p0uogNHrU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x1p0uogNHrU"
+    },
+    {
+      "id": "6bEEt6RgaWw",
+      "title": "城下町 水沢のひな人形展　約150点展示　3月8日まで　岩手県奥州市 (26/01/28 20:15)",
+      "description": "",
+      "publishedAt": "2026-01-28T11:15:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6bEEt6RgaWw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6bEEt6RgaWw"
+    },
+    {
+      "id": "badx_U4zfsY",
+      "title": "“おなか満足度MAX” 300gの焼肉と祖母直伝だれの組み合わせが人気　圧倒的ボリュームなのにお手頃価格で洋食ランチが味わえる店　岩手・北上市 (26/01/24 11:00)",
+      "description": "",
+      "publishedAt": "2026-01-28T05:21:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/badx_U4zfsY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=badx_U4zfsY"
+    },
+    {
+      "id": "hI9_RG443II",
+      "title": "【岩手1区】5候補の第一声　“真冬の選挙戦”スタート　衆院選2026 (26/01/27 22:00)",
+      "description": "",
+      "publishedAt": "2026-01-28T05:18:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hI9_RG443II/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hI9_RG443II"
+    },
+    {
+      "id": "bEKaOvwCJA4",
+      "title": "鹿肉のわら焼きと大槌サーモンが絶品！旬の味覚を詰め込んだ「極御膳」　震災乗り越え130年の伝統守る大槌町の老舗　岩手県 (26/01/28 11:00)",
+      "description": "",
+      "publishedAt": "2026-01-28T02:00:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bEKaOvwCJA4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bEKaOvwCJA4"
+    },
     {
       "id": "lDdPvGMQBkE",
       "title": "【岩手3区】3候補の第一声　前職・元職・新人の三つどもえ　衆院選2026 (26/01/27 22:00)",
@@ -10232,6 +10395,12 @@
       "title": "【独自】「おかえり　本当に頑張ったね」山田町6歳女児の母　伝えたい娘への言葉　震災14年半で身元判明　岩手県 (25/10/10 20:30)",
       "thumbnail": "https://i.ytimg.com/vi/FBlEAe0cOgc/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=FBlEAe0cOgc"
+    },
+    {
+      "id": "ISkLjpi2I_I",
+      "title": "インフルエンザ3週連続増加　新型コロナウイルスも増加　岩手県 (26/01/28 19:45)",
+      "thumbnail": "https://i.ytimg.com/vi/ISkLjpi2I_I/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ISkLjpi2I_I"
     }
   ]
 }

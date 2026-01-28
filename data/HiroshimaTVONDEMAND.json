@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-01-27T15:32:58.165896",
+  "updated_at": "2026-01-28T15:35:55.157832",
   "videos": [
+    {
+      "id": "ZFxcWI2608s",
+      "title": "【食べてほしいイチオシはこれだ！】自由な店主が営む甘味処",
+      "description": "",
+      "publishedAt": "2026-01-28T09:30:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZFxcWI2608s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZFxcWI2608s"
+    },
+    {
+      "id": "SBxnhkNcAAE",
+      "title": "【キッズチャレンジスタジアム】りくくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-01-28T09:00:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SBxnhkNcAAE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SBxnhkNcAAE"
+    },
     {
       "id": "W4746MH33II",
       "title": "われら！シン・呉Tuber＃37「ごみ出し意識を高めよう（再）」",

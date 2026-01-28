@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-27T15:33:43.701790",
+  "updated_at": "2026-01-28T15:36:28.133378",
   "videos": [
+    {
+      "id": "2sVCcE1KcJU",
+      "title": "260128 140146 垣内踏切 ２",
+      "description": "",
+      "publishedAt": "2026-01-28T10:30:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2sVCcE1KcJU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2sVCcE1KcJU"
+    },
+    {
+      "id": "xn9G3ap8GOI",
+      "title": "260128 135758 垣内踏切",
+      "description": "",
+      "publishedAt": "2026-01-28T10:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xn9G3ap8GOI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xn9G3ap8GOI"
+    },
+    {
+      "id": "eY1xkG6LKuQ",
+      "title": "260128 135104 ちいさな鉄橋（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-01-28T09:59:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eY1xkG6LKuQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eY1xkG6LKuQ"
+    },
+    {
+      "id": "YA2ilTqb0rI",
+      "title": "260128 134824 ちいさな鉄橋（金銅橋）２",
+      "description": "",
+      "publishedAt": "2026-01-28T09:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YA2ilTqb0rI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YA2ilTqb0rI"
+    },
+    {
+      "id": "STvAaUCmtd8",
+      "title": "260128 134454 ちいさな鉄橋（金銅橋）",
+      "description": "",
+      "publishedAt": "2026-01-28T09:23:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/STvAaUCmtd8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=STvAaUCmtd8"
+    },
     {
       "id": "4nOPdW63-vc",
       "title": "260127 173529 兼近第３踏切",

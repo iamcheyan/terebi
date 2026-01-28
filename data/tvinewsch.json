@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-01-27T15:32:50.409536",
+  "updated_at": "2026-01-28T15:35:28.772000",
   "videos": [
+    {
+      "id": "Z01Oc2qKkOg",
+      "title": "【プラス1ダイジェスト】1/28(水) のニュース",
+      "description": "",
+      "publishedAt": "2026-01-28T09:59:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z01Oc2qKkOg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z01Oc2qKkOg"
+    },
     {
       "id": "BK0MgkhngOI",
       "title": "【お天気カメラ】テレビ岩手おてんきＬＩＶＥ",
