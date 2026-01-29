@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-01-28T15:36:24.745152",
+  "updated_at": "2026-01-29T15:40:00.437252",
   "videos": [
+    {
+      "id": "c-JZfvT-HHc",
+      "title": "愛媛のニュース(01月29日)",
+      "description": "",
+      "publishedAt": "2026-01-29T11:35:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c-JZfvT-HHc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c-JZfvT-HHc"
+    },
+    {
+      "id": "6tpfSGP6O7s",
+      "title": "愛媛MP20周年 夢のクロスロード いざNPBへ!",
+      "description": "",
+      "publishedAt": "2026-01-29T03:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6tpfSGP6O7s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6tpfSGP6O7s"
+    },
     {
       "id": "ex0lOaEHM78",
       "title": "愛媛のニュース(01月28日)",

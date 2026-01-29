@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-01-27T15:33:36.693867",
+  "updated_at": "2026-01-29T15:39:56.178406",
   "videos": [
+    {
+      "id": "v4Xy1OkVY6k",
+      "title": "【公式】2026年1月31日(土)15:00～放送予告「福岡NEWSファイル CUBE 特別編」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-01-29T05:42:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v4Xy1OkVY6k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v4Xy1OkVY6k"
+    },
+    {
+      "id": "8SdfdwXgxp0",
+      "title": "【公式】2026年1月31日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-01-29T05:40:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8SdfdwXgxp0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8SdfdwXgxp0"
+    },
     {
       "id": "xOFRpP3x60M",
       "title": "【公式】「匠の蔵～HISTORY OF MEISTER～ 」大野睦（3） | TNCテレビ西日本",

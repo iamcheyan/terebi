@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-01-28T15:35:28.772000",
+  "updated_at": "2026-01-29T15:39:08.630722",
   "videos": [
+    {
+      "id": "I46wbeMZTk4",
+      "title": "【プラス1ダイジェスト】1/29(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-01-29T10:15:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I46wbeMZTk4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I46wbeMZTk4"
+    },
+    {
+      "id": "jZ3vfWgfDh0",
+      "title": "元気○（マル）らいふ　【自宅でできる冬の簡単ストレッチ】（2026/1/28放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-01-29T05:24:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jZ3vfWgfDh0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jZ3vfWgfDh0"
+    },
     {
       "id": "Z01Oc2qKkOg",
       "title": "【プラス1ダイジェスト】1/28(水) のニュース",

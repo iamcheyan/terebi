@@ -1,8 +1,20 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2026-01-26T15:33:05.725832",
+  "updated_at": "2026-01-29T15:39:57.360744",
   "videos": [
+    {
+      "id": "CBj30m_hYow",
+      "title": "第37回ＴＶｈ杯ジャンプ大会(1本目)※1月31日（土）開催",
+      "description": "",
+      "publishedAt": "2026-01-29T05:09:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CBj30m_hYow/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CBj30m_hYow"
+    },
     {
       "id": "yB2hOzFIeGc",
       "title": "TVh杯優勝の実力者！女子スキージャンプ 鴨田鮎華選手＜後編＞",

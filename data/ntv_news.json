@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-01-24T15:22:40.782809",
+  "updated_at": "2026-01-29T15:39:11.310397",
   "videos": [
+    {
+      "id": "vW0wh5tZJ64",
+      "title": "Exclusive: Gov. Pillen addresses Tyson plant closure, federal intervention and more.",
+      "description": "",
+      "publishedAt": "2026-01-28T23:34:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vW0wh5tZJ64/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vW0wh5tZJ64"
+    },
+    {
+      "id": "cm3n-XQuThI",
+      "title": "Huskers' 2026 Football Schedule Revealed",
+      "description": "",
+      "publishedAt": "2026-01-28T22:17:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cm3n-XQuThI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cm3n-XQuThI"
+    },
     {
       "id": "GyYj19FQjSg",
       "title": "Nebraska’s AJ Ferrari Continues Season After Court Dismisses Cases",

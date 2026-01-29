@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-01-28T15:36:28.133378",
+  "updated_at": "2026-01-29T15:40:04.566714",
   "videos": [
+    {
+      "id": "rzVdixvMaM8",
+      "title": "260129 174923 二名駅",
+      "description": "",
+      "publishedAt": "2026-01-29T12:07:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rzVdixvMaM8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rzVdixvMaM8"
+    },
+    {
+      "id": "AA0sJ1Bp83U",
+      "title": "260129 174133 二名駅",
+      "description": "",
+      "publishedAt": "2026-01-29T12:03:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AA0sJ1Bp83U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AA0sJ1Bp83U"
+    },
+    {
+      "id": "cJBQhjwllIc",
+      "title": "260129 172200 務田踏切 ２",
+      "description": "",
+      "publishedAt": "2026-01-29T12:01:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cJBQhjwllIc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cJBQhjwllIc"
+    },
+    {
+      "id": "WEBp9kA7CI0",
+      "title": "260129 171835 務田踏切",
+      "description": "",
+      "publishedAt": "2026-01-29T11:44:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WEBp9kA7CI0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WEBp9kA7CI0"
+    },
     {
       "id": "2sVCcE1KcJU",
       "title": "260128 140146 垣内踏切 ２",

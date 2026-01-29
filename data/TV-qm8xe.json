@@ -1,8 +1,20 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-01-19T15:29:43.874751",
+  "updated_at": "2026-01-29T15:39:48.157878",
   "videos": [
+    {
+      "id": "lAgo3NsHbPM",
+      "title": "福島美少女図鑑のイマコレ　テレビ朝日ミュージック「モンスターカクメイ」",
+      "description": "",
+      "publishedAt": "2026-01-29T08:21:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lAgo3NsHbPM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lAgo3NsHbPM"
+    },
     {
       "id": "xdefJ3ztaz8",
       "title": "福島美少女図鑑のイマコレ「明治　生のとき」",
