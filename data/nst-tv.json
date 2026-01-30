@@ -1,8 +1,978 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
-  "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2026-01-29T15:39:19.414768",
+  "channel_name": "NST Online",
+  "original_name": "NST新潟総合テレビ",
+  "updated_at": "2026-01-30T15:38:38.180604",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-Zx2qP_bGpWJXPisNHE9ZZN-hms",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm9xc2JsUzlsaHdB",
+      "snippet": {
+        "publishedAt": "2026-01-30T15:37:53Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Media Prima launches pickleball arena at Balai Berita",
+        "description": "Media Prima Bhd has launched a three‑court pickleball arena at Balai Berita, Bangsar, creating a modern and employee‑friendly workplace.\n\nMedia Prima Group Managing Director Datuk Rafiq Razali, a pickleball enthusiast, mooted the idea to convert the sixth‑floor tennis court into pickleball courts. \n\nHe said the project aims to make Balai Berita a more comfortable and enjoyable environment, encouraging staff to feel relaxed, happy and motivated.\n\nPresent at the launch were  Media Prima Bhd Deputy Group Managing Editor, News and Current Affairs and New Straits Times Group Editor Farrah Naz Karim, Media Prima Bhd Group Editor for News and Current Affairs and Television Network Azhari Muhidin; and Harian Metro Group Editor Husain Jahit.\n\nThe facility will be free for Media Prima staff, open daily from 7am to midnight starting March 9. \n\nDatuk Rafiq added that future plans include a new cafeteria, additional sports courts and a rebuilt gymnasium.\n\nRead here: https://www.nst.com.my/sports/racquet-sports/2026/01/1368196/media-prima-launches-pickleball-arena-balai-berita\n\n----------------------------------\n#NST #NSTTV#Pickleball #MediaPrimaBerhad #MPB #Sports  #NST #News #MalaysiaNews\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oqsblS9lhwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oqsblS9lhwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oqsblS9lhwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oqsblS9lhwA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8FmDwWCSqPToWnK_yJj0rYRLGK0",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmdJX2E4RzdWNGhn",
+      "snippet": {
+        "publishedAt": "2026-01-30T03:03:33Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM JAN 30, 2026",
+        "description": "Bursa Malaysia opened higher today, driven by gains in banking heavyweights.\n\nHong Leong Bank, CIMB and Public Bank were among the top gainers, lifting the financial services index by 0.7 per cent.\n\nThe benchmark index is expected to trade within the 1,730  to 1,750 range today.\n\nThe cryptocurrency market retreated, with Bitcoin dropping to a two-month low of RM332,551.\n\nEthereum and Solana also slipped, trading at RM11,101 and RM464, respectively.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gI_a8G7V4hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gI_a8G7V4hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gI_a8G7V4hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gI_a8G7V4hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gI_a8G7V4hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gI_a8G7V4hg"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AmmCNI4FCW2UdSKCjwT52-JIqKI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkM2dW54VkpmSk1Z",
+      "snippet": {
+        "publishedAt": "2026-01-30T02:43:49Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Army general pleads not guilty to RM5mil CBT",
+        "description": "The chief of staff of the Armed Forces’ Joint Forces Headquarters, Major General Datuk Mohamed Fauzi Kamis, pleaded not guilty in the Sessions Court today to a charge of criminal breach of trust (CBT) involving RM5 million from the Armed Forces Welfare Fund (TKAT).\n\nFauzi, 56, entered the plea after the charge was read before judge Suzana Hussin.\n\nAccording to the charge sheet, Fauzi, in his capacity as assistant chief of staff for Personnel Services and chairman of the Armed Forces Welfare Fund (TKAT) investment committee, was entrusted with RM5 million belonging to the fund.\n\nHe is alleged to have misappropriated the money by making an additional investment in Precious Amber International Bhd without the committee's approval.\n\nThe offence was allegedly committed at the Defence Ministry headquarters on Nov 27, 2023.\n\nThe charge, under Section 409 of the Penal Code, carries a maximum sentence of 20 years' imprisonment, whipping and a fine, upon conviction.\n\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1367701/armed-forces-joint-forces-headquarters-chief-staff-pleads-not-guilty\n----------------------------------\n#NST #NSTTV  #MalaysiaNews #NSTNews #NSTOnline #ArmedForcesChief #JointStaffCourtAppearance #CBTCharges #MilitaryCorruptionProbe #MACC #AntiGraft #SessionsCourt \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C6unxVJfJMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C6unxVJfJMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C6unxVJfJMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C6unxVJfJMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C6unxVJfJMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C6unxVJfJMY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uMcykronYza_JGiiZHG8rnXXwEU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmpuaFE1VGc1OHlJ",
+      "snippet": {
+        "publishedAt": "2026-01-28T02:58:57Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM JAN 28, 2026",
+        "description": "ISF Group made its debut on the ACE Market of Bursa Malaysia at 50 sen, up from its initial public offering price of 33 sen.\n\nThe stock opened at a premium of 17 sen, with about 50 million shares changing hands in the early trading session.\n\nBursa Malaysia opened lower today, tracking Wall Street’s mixed finish, as investors await the Federal Reserve’s first interest rate decision, which is widely expected to remain unchanged.\n\nThe benchmark index is expected to hover within the 1,770 to 1,785 range.\n\nIn the cryptocurrency market, Bitcoin is trending higher at RM350,433, while Ethereum is trading lower at RM11,832.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnhQ5Tg58yI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnhQ5Tg58yI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnhQ5Tg58yI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jnhQ5Tg58yI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jnhQ5Tg58yI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jnhQ5Tg58yI"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zpSY0Yqqxtuqoy6flbuohKLxjsU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkp5MG5BTkc1N05j",
+      "snippet": {
+        "publishedAt": "2026-01-28T01:52:14Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Toddler dies after being left in car for 9 hours",
+        "description": "A two-year-old boy was found dead after being left in a car by his mother along Jalan Tunku Hassan yesterday.\n\nSeremban police chief Assistant Commissioner Azahar Abdul Rahim said the mother, 35, forgot to drop her child at daycare and only realised around 5pm after finishing work.\n\nThe boy was pronounced dead at Tuanku Ja’afar Hospital and sent to Rembau Hospital for an autopsy.\n\nThe case is being investigated under Section 31(1)(a) of the Child Act 2001, and the mother has been arrested to facilitate inquiries.\n\nRead more: https://www.nst.com.my/news/regional/2026/01/1366004/toddler-dies-after-being-left-car-9-hours\n----------------------------------\n#NST #NSTTV #Police #News #Boy #Car #Mother #Seremban #Nst #Toddler #JalanTunkuHassan\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jy0nANG57Nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jy0nANG57Nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jy0nANG57Nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jy0nANG57Nc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jy0nANG57Nc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jy0nANG57Nc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ivc_QGe1Joh1kGr80eMy2HqKtoc",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjJCc2h4ZWVCZGhN",
+      "snippet": {
+        "publishedAt": "2026-01-27T03:13:35Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MACC probing international law firm's UK branch over 1MDB funds",
+        "description": "The MACC is investigating an international law firm for its suspected involvement in the misappropriation of 1MDB funds.\n\nMinister in the Prime Minister's Department (Law and Institutional Reform) Datuk Seri Azalina Othman Said confirmed that the probe is specifically focused on the firm's United Kingdom branch.\n\nThe investigation is being conducted under the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (AMLATFPUAA).\n\nShe said this in response to Lim Lip Eng's (PH-Kepong) request for the minister to disclose the details of the probe.\n\nThis was said in a written parliamentary reply on Monday.\n\nAzalina added that the MACC remains committed to carrying out its duties independently, transparently and professionally in accordance with the law.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1365383/macc-probing-international-law-firms-uk-branch-over-1mdb-funds\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline #MACC #1MDB #AzalinaOthmanSaid #InternationalInvestigation #UnitedKingdom\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2BshxeeBdhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2BshxeeBdhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2BshxeeBdhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2BshxeeBdhM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2BshxeeBdhM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 64,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2BshxeeBdhM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vnDFdCLDdoTqabOjcLYl-EQajyk",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlg2Vmd0QXplZmJN",
+      "snippet": {
+        "publishedAt": "2026-01-27T03:00:28Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM JAN 27, 2025",
+        "description": "One Gasmaster Holdings debuted at 23.5 sen, a discount of 1.5 sen from its initial public offering price of 25 sen.\n\nThe company, which made its listing on Bursa Malaysia’s ACE Market this morning, recorded a trading volume of about 1.94 million shares.\n\nBursa Malaysia started Tuesday’s session on a firmer note, tracking Wall Street’s positive overnight performance.\n\nThe benchmark index is expected to move within the 1,740 to 1,750 range today.\n\nIn the cryptocurrency market, Bitcoin is trading at around RM350,157, while Ethereum is hovering near RM11,575.\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X6VgtAzefbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X6VgtAzefbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X6VgtAzefbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X6VgtAzefbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X6VgtAzefbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 65,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X6VgtAzefbM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4UIngSNZjoYQlvg_5ZbmygRYv6w",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlM0OVA0WmJHMjI0",
+      "snippet": {
+        "publishedAt": "2026-01-26T02:22:06Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Sultan Ibrahim visits Smolny complex in St Petersburg",
+        "description": "His Majesty Sultan Ibrahim, King of Malaysia, yesterday visited the Smolny Complex, a historic landmark in St Petersburg, Russia.\n\nAccording to a post on Sultan Ibrahim Sultan Iskandar's Facebook page, His Majesty was received upon arrival at the complex, which currently serves as the administrative centre of St Petersburg, by the city's Governor Alexander Beglov.\n\nAlso present was the chairman of the St Petersburg Committee for External Relations Evgeny Dmitrievich Grigoriev.\n\nAccording to the post, Sultan Ibrahim also toured the Smolny Bunker, an underground shelter beneath the Smolny Complex, which was built in 1937, accompanied by Beglov.\n\nFollowing the tour, His Majesty attended a banquet hosted by Beglov.\n\nMalaysian Ambassador to the Russian Federation, Datuk Cheong Loon Lai, was also present.\n\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1364613/sultan-ibrahim-visits-smolny-complex-st-petersburg\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline #SultanIbrahim #SmolnyComplex #StPetersburgVisit #Diplomacy #MalaysiaRussia #RoyalVisit #InternationalRelations #CulturalExchange\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S49P4ZbG224/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S49P4ZbG224/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S49P4ZbG224/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S49P4ZbG224/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S49P4ZbG224/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 81,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S49P4ZbG224"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YzuBs1m5S1PFKYxZSCUcMB2mUNc",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk0td0hKV3k3dXVV",
+      "snippet": {
+        "publishedAt": "2026-01-26T02:15:43Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MACC freezes 21 accounts, seizes hotels worth RM2mil in navy probe",
+        "description": "The MACC has frozen 21 bank accounts and seized two hotels worth RM2 million in an investigation into alleged procurement corruption involving the Royal Malaysian Navy.\n\nA source said the move follows a probe into companies believed to have paid bribes to secure recommendations and appointments for firms linked to a senior navy officer.\n\nThe frozen accounts comprise seven corporate and 14 individual accounts containing about RM700,000.\n\nThe MACC is also checking with the Accountant General's Department to verify tenders or quotations involving the companies under investigation.\n\nThe commission's Intelligence Division has also seized two hotels reportedly owned by the senior officer.\n\nMACC Intelligence Division senior director Datuk Saiful Ezral Arifin confirmed the developments, saying investigators have recorded statements from seven people.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1364583/macc-freezes-21-accounts-seizes-hotels-worth-rm2mil-navy-probe\n----------------------------------\n#NST #NSTTV #MalaysiaNews #NSTNews #NSTOnline #MACC #CorruptionProbe #NavyScandal #AssetSeizure #FrozenAccounts #AntiGraft #RoyalMalaysianNavy #JusticeInAction  \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M-wHJWy7uuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M-wHJWy7uuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M-wHJWy7uuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M-wHJWy7uuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M-wHJWy7uuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 82,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M-wHJWy7uuU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UQ7oicK3ZDJn8VJdgjXNrzBK5-c",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnEyZFBXXzlHdFBB",
+      "snippet": {
+        "publishedAt": "2026-01-22T03:44:25Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Ex- army chief's wife claims trial to receiving RM77,000 in unlawful proceeds",
+        "description": "Former army chief Tan Sri Hafizuddiean Jantan's wife, Salwani Anuar @ Kamaruddin, was charged at the Sessions Court today with four counts of receiving proceeds of unlawful activities amounting to RM77,000 over the past two years.\n\nThe 27-year-old wheelchair bound accused, however, pleaded not guilty after the charges were read before Judge Rosli Ahmad.\n\nAccording to the four charges, the accused, as a controller of the company Wany Venture, is accused of receiving proceeds of unlawful activities involving sums of RM50,000, RM7,000, RM10,000 and another RM10,000, which were deposited into a CIMB Islamic Bank Berhad account belonging to the company.\n\nShe was charged under Section 4(1)(b) of the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001, which carries a penalty of up to 15 years' imprisonment and a fine of not less than five times the value of the proceeds or RM5 million, whichever is higher, upon conviction.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1361839/ex-army-chiefs-wife-claims-trial-receiving-rm77000-unlawful-proceeds\n----------------------------------\n#NST #NSTTV #SessionsCourt #formerarmychief #TanSriHafizuddieanJantan #SalwaniAnuar #MACC #Courts #MalaysiaNews #NSTNews\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q2dPW_9GtPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q2dPW_9GtPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q2dPW_9GtPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q2dPW_9GtPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q2dPW_9GtPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 128,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q2dPW_9GtPA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u3kLNXE1AzhsSXs78sTJS3O242I",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkdLWnhwVjR3Wm5F",
+      "snippet": {
+        "publishedAt": "2026-01-22T03:07:26Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "[LIVE] Former army chief & wife plead not guilty to Defence Ministry corruption charges",
+        "description": "Former army chief Tan Sri Muhammad Hafizuddeain Jantan and his wife Salwani Anuar pleaded not guilty to four corruption charges each under the Section 4(1) of the Anti-Money Laundrring, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (AMLATFPUAA 2001) linked to Defence Ministry procurement at the Kuala Lumpur Special Corruption Court\n\n#NSTTV\n#BHTV\n#METROTV\n\nVisit us at www.nst.com.my\nOur Facebook www.facebook.com/nstonline\nMore news at www.twitter.com/NST_Online\nAnd also www.instagram.com/nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GKZxpV4wZnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GKZxpV4wZnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GKZxpV4wZnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GKZxpV4wZnE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GKZxpV4wZnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 129,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GKZxpV4wZnE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EH9yldMePuPtY4145iicfHUqM4Y",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlhTcXRaTlRJSkVV",
+      "snippet": {
+        "publishedAt": "2026-01-22T03:00:40Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM JAN 22, 2026",
+        "description": "Bursa Malaysia opened higher tracking Wall Street’s rebound after Trump called off new tariffs on Europe and said he will not use force to acquire Greenland.\n\nThe key index rose eight points at the opening bell to open at about 1,713.\n\nIt is expected to hover between 1,700 and 1,715 points today.\n\nIn the crypto market, Bitcoin traded higher at RM364,743.\n\nEthereum rose to RM12,228 and Solana stood at RM527.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XSqtZNTIJEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XSqtZNTIJEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XSqtZNTIJEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XSqtZNTIJEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XSqtZNTIJEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 130,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XSqtZNTIJEU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uY3AFa7n2X4u0oDV8aMyX1d7Els",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm45UmpHLXpaNF9R",
+      "snippet": {
+        "publishedAt": "2026-01-22T02:27:22Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Ex-army chief charged with receiving RM2 1mil in unlawful proceeds",
+        "description": "Former army chief Tan Sri Hafizuddiean Jantan pleaded not guilty at the Sessions Court here to four charges of receiving proceeds of unlawful activities amounting to RM2,122,400.\n\nHafizuddiean, 58, entered the plea after the charges were read before Judge Azura Alwi.\n\nAccording to the charges, he is accused of receiving proceeds of unlawful activities involving sums of RM969,000, RM474,850, RM488,550 and RM190,000, which were deposited into one Bank Muamalat account and two Maybank accounts in his name.\n\nThe offences were allegedly committed at Bank Muamalat's Main Branch on Jalan Melaka, Menara Maybank, and Maybank's Bukit Damansara branch between Feb 2, 2024, and Nov 7, 2025.\n\nHe was charged under Section 4(1)(b) of the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 and is punishable under Subsection 4(1) of the same Act.\n\nHe is facing imprisonment of up to 15 years and a fine of not less than five times the sum or value of the offence or RM5 million, whichever is higher, upon conviction.\n\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/01/1361804/ex-army-chief-charged-receiving-rm21mil-unlawful-proceeds\n\n\n----------------------------------\n#NST #NSTTV#MalaysiaNews #NSTNews #NSTOnline #KualaLumpur #SessionsCourt #formerarmychief #TanSriHafizuddieanJantan #SalwaniAnuar #MACC\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n9RjG-zZ4_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n9RjG-zZ4_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n9RjG-zZ4_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n9RjG-zZ4_Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n9RjG-zZ4_Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 131,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n9RjG-zZ4_Q"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HBjCq2lPNj2vOh2x5kRTtjFQK8I",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnJTRm9DZGZsMnhz",
+      "snippet": {
+        "publishedAt": "2026-01-22T01:44:14Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Former army chief and wife in court over RM2.1mil graft case",
+        "description": "Former Army Chief Tan Sri Hafizuddiean Jantan and his second wife, Salwani Anuar, will face multiple graft charges for allegedly receiving proceeds from unlawful activities amounting to RM2,122,400 between 2024 and last year.\n\nThe couple arrived separately at the Kuala Lumpur Sessions Courts earlier today.\n\n----------------------------------\n#NST #NSTTV#newstraitstimes #NSTTV #KualaLumpur #SessionsCourt #formerarmychief #TanSriHafizuddieanJantan #SalwaniAnuar\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rSFoCdfl2xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rSFoCdfl2xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rSFoCdfl2xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rSFoCdfl2xs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rSFoCdfl2xs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 132,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rSFoCdfl2xs"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EtE-mdN9P1q83oJD3scL4MVsSQI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnlxNDZJSnRJZi1F",
+      "snippet": {
+        "publishedAt": "2026-01-22T00:53:36Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "[LIVE] Former army chief & wife to face corruption charges today",
+        "description": "Former army chief Tan Sri Muhammad Hafizuddeain Jantan and his wife Salwani Anuar are set to be charged today over alleged corruption linked to Defence Ministry procurement. \n\nBoth are set to face four charges each under the Section 4(1) of the Anti-Money Laundrring, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (AMLATFPUAA 2001) at the Kuala Lumpur Special Corruption Court.\n\n#NSTTV\n#BHTV\n#METROTV\n\nVisit us at www.nst.com.my\nOur Facebook www.facebook.com/nstonline\nMore news at www.twitter.com/NST_Online\nAnd also www.instagram.com/nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yq46IJtIf-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yq46IJtIf-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yq46IJtIf-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yq46IJtIf-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yq46IJtIf-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 133,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yq46IJtIf-E"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1O9o9-zSCaUquWJJZuQbiCFKKts",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlROcFQyd0Nmei13",
+      "snippet": {
+        "publishedAt": "2026-01-21T16:26:29Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Former army chief, wife to be charged tomorrow",
+        "description": "A former army chief and his wife will be charged tomorrow with alleged corruption linked to procurements under the Defence Ministry.\n\nThe Malaysian Anti-Corruption Commission (MACC) said former army chief Tan Sri Muhammad Hafizuddeain Jantan and his wife Salwani Anuar both face four charges each under Section 4(1) of the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001 (AMLATFPUAA 2001).\n\nThey will be charged at the Kuala Lumpur Special Corruption Court.\n\nHafizuddiean will also face two additional charges under the same act at the Shah Alam Special Corruption Court in Selangor on Friday, while Salwani will face one additional charge at the Jertih Sessions Court in Terengganu on Jan 26.\n\nHafizuddiean was previously remanded for seven days, while Salwani and another family member were remanded for three and six days respectively. \n\nThe commission said it had also obtained permission to prosecute former armed forces chief Tan Sri Mohd Nizam Jaffar at the Kuala Lumpur Special Corruption Court on Friday.\n\nNizam faces two charges under Section 23 of the MACC Act 2009 for abuse of power and investigations involving the Armed Forces Welfare Fund (TKAT), one charge of criminal breach of trust under Section 409, and one charge under Section 165 of the Penal Code.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TNpT2wCfz-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TNpT2wCfz-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TNpT2wCfz-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TNpT2wCfz-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TNpT2wCfz-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 134,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TNpT2wCfz-w"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z-Idm_f_s0iBskTmMKMSZQigaS4",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjRBYVRUU3RtbFlz",
+      "snippet": {
+        "publishedAt": "2026-01-21T16:04:26Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Silva reveals Malaysia's role in helping Brazil win 2002 World Cup",
+        "description": "Malaysia's quiet role in Brazil's 2002 World Cup triumph resurfaced as Gilberto Silva recalled the team's final preparation stop in Kuala Lumpur before lifting football's most coveted trophy at the Yokohama Stadium.\n\nFormer midfielder Silva said Malaysia held a \"very special part\" in his World Cup journey, revealing that Brazil used the country as their final base to adapt to time zones and conditions ahead of the tournament in Japan and South Korea.\n\nThe former Arsenal skipper described the welcome from Malaysian fans in 2002 as warm and memorable, adding that the experience helped set the tone for a campaign that ended with Brazil's fifth world title.\n \nRead more: \nhttps://www.nst.com.my/sports/football/2026/01/1361497/silva-reveals-malaysias-role-helping-brazil-win-2002-world-cup\n\n----------------------------------\n#NST #NSTTV #Gilberto Silva #Arsenal #Yokohama Stadium #World Cup #Brazil #2002 World Cup #Football #Malaysia #Timesport\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4AaTTStmlYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4AaTTStmlYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4AaTTStmlYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4AaTTStmlYs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4AaTTStmlYs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 135,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4AaTTStmlYs"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "id": "fcSt30kFPHg",
+      "title": "News@9 Script – Friday, January 30",
+      "description": "",
+      "publishedAt": "2026-01-30T13:01:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fcSt30kFPHg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fcSt30kFPHg"
+    },
+    {
+      "id": "9pcjWDfkWkc",
+      "title": "Massage parlour chain paid RM2 .7m annually to enforcement personnel for protection",
+      "description": "",
+      "publishedAt": "2026-01-30T11:57:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9pcjWDfkWkc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9pcjWDfkWkc"
+    },
+    {
+      "id": "D3SpBd8qSHU",
+      "title": "MARKET PULSE PM JAN 30, 2026",
+      "description": "",
+      "publishedAt": "2026-01-30T11:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D3SpBd8qSHU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D3SpBd8qSHU"
+    },
+    {
+      "id": "nVGbcMd_kYM",
+      "title": "Anwar: No need to explain false land handover reports in Parliament",
+      "description": "",
+      "publishedAt": "2026-01-30T10:49:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nVGbcMd_kYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nVGbcMd_kYM"
+    },
+    {
+      "id": "qrW905z2i1k",
+      "title": "Anwar: Top officials must be under tighter watch to fix enforcement",
+      "description": "",
+      "publishedAt": "2026-01-30T10:47:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qrW905z2i1k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qrW905z2i1k"
+    },
+    {
+      "id": "25ap3uwlppk",
+      "title": "Westports' FY25 earnings rise 11.2pct to nearly RM1.0bil",
+      "description": "",
+      "publishedAt": "2026-01-30T09:53:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/25ap3uwlppk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=25ap3uwlppk"
+    },
+    {
+      "id": "_Z72T4i8jTA",
+      "title": "Woman found dead after days missing, believed smothered by boyfriend",
+      "description": "",
+      "publishedAt": "2026-01-30T08:22:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_Z72T4i8jTA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_Z72T4i8jTA"
+    },
+    {
+      "id": "Xq4emVYr0LI",
+      "title": "Bandar Utama murder: 15 year old student to face High Court trial",
+      "description": "",
+      "publishedAt": "2026-01-30T07:36:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Xq4emVYr0LI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Xq4emVYr0LI"
+    },
+    {
+      "id": "x0fXH1NuES0",
+      "title": "Albert Tei's lawyer fails to quash MACC notices over client communication",
+      "description": "",
+      "publishedAt": "2026-01-30T07:35:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x0fXH1NuES0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x0fXH1NuES0"
+    },
+    {
+      "id": "9Ts_B9fKf6o",
+      "title": "Yukine Kuroki interprets the poetry of spring on piano",
+      "description": "",
+      "publishedAt": "2026-01-30T06:04:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9Ts_B9fKf6o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9Ts_B9fKf6o"
+    },
+    {
+      "id": "4a-fVlg7FIo",
+      "title": "DoE DG, deputy remanded for seven days in e waste corruption probe",
+      "description": "",
+      "publishedAt": "2026-01-30T06:03:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4a-fVlg7FIo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4a-fVlg7FIo"
+    },
+    {
+      "id": "WaVchJMdsF4",
+      "title": "Army general represented by 'pencil box lawyer' in RM5mil CBT case",
+      "description": "",
+      "publishedAt": "2026-01-30T04:59:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WaVchJMdsF4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WaVchJMdsF4"
+    },
+    {
+      "id": "VnUVeUBxB6U",
+      "title": "YTL's Francis Yeoh reflects on the principles behind a legacy of success",
+      "description": "",
+      "publishedAt": "2026-01-30T04:52:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VnUVeUBxB6U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VnUVeUBxB6U"
+    },
+    {
+      "id": "dyz6lzbLHkw",
+      "title": "Petronas-Petros court ruling today: What's at stake",
+      "description": "",
+      "publishedAt": "2026-01-30T03:38:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dyz6lzbLHkw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dyz6lzbLHkw"
+    },
+    {
+      "id": "RgSkKwWsGB8",
+      "title": "DOE DG, deputy arrive in court for remand hearing",
+      "description": "",
+      "publishedAt": "2026-01-30T03:29:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RgSkKwWsGB8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RgSkKwWsGB8"
+    },
     {
       "id": "Gn70ggU-VRc",
       "title": "News@9 – Thursday, January 29",
@@ -29827,6 +30797,108 @@
       "title": "BAM to get 6 new coaches to help Rexy, Jonassen",
       "thumbnail": "https://i.ytimg.com/vi/Ohinjm1HSws/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Ohinjm1HSws"
+    },
+    {
+      "id": "oqsblS9lhwA",
+      "title": "Media Prima launches pickleball arena at Balai Berita",
+      "thumbnail": "https://i.ytimg.com/vi/oqsblS9lhwA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oqsblS9lhwA"
+    },
+    {
+      "id": "gI_a8G7V4hg",
+      "title": "MARKET PULSE AM JAN 30, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/gI_a8G7V4hg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gI_a8G7V4hg"
+    },
+    {
+      "id": "C6unxVJfJMY",
+      "title": "Army general pleads not guilty to RM5mil CBT",
+      "thumbnail": "https://i.ytimg.com/vi/C6unxVJfJMY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=C6unxVJfJMY"
+    },
+    {
+      "id": "jnhQ5Tg58yI",
+      "title": "MARKET PULSE AM JAN 28, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/jnhQ5Tg58yI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jnhQ5Tg58yI"
+    },
+    {
+      "id": "Jy0nANG57Nc",
+      "title": "Toddler dies after being left in car for 9 hours",
+      "thumbnail": "https://i.ytimg.com/vi/Jy0nANG57Nc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Jy0nANG57Nc"
+    },
+    {
+      "id": "2BshxeeBdhM",
+      "title": "MACC probing international law firm's UK branch over 1MDB funds",
+      "thumbnail": "https://i.ytimg.com/vi/2BshxeeBdhM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2BshxeeBdhM"
+    },
+    {
+      "id": "X6VgtAzefbM",
+      "title": "MARKET PULSE AM JAN 27, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/X6VgtAzefbM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=X6VgtAzefbM"
+    },
+    {
+      "id": "S49P4ZbG224",
+      "title": "Sultan Ibrahim visits Smolny complex in St Petersburg",
+      "thumbnail": "https://i.ytimg.com/vi/S49P4ZbG224/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S49P4ZbG224"
+    },
+    {
+      "id": "M-wHJWy7uuU",
+      "title": "MACC freezes 21 accounts, seizes hotels worth RM2mil in navy probe",
+      "thumbnail": "https://i.ytimg.com/vi/M-wHJWy7uuU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=M-wHJWy7uuU"
+    },
+    {
+      "id": "q2dPW_9GtPA",
+      "title": "Ex- army chief's wife claims trial to receiving RM77,000 in unlawful proceeds",
+      "thumbnail": "https://i.ytimg.com/vi/q2dPW_9GtPA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q2dPW_9GtPA"
+    },
+    {
+      "id": "GKZxpV4wZnE",
+      "title": "[LIVE] Former army chief & wife plead not guilty to Defence Ministry corruption charges",
+      "thumbnail": "https://i.ytimg.com/vi/GKZxpV4wZnE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GKZxpV4wZnE"
+    },
+    {
+      "id": "XSqtZNTIJEU",
+      "title": "MARKET PULSE AM JAN 22, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/XSqtZNTIJEU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XSqtZNTIJEU"
+    },
+    {
+      "id": "n9RjG-zZ4_Q",
+      "title": "Ex-army chief charged with receiving RM2 1mil in unlawful proceeds",
+      "thumbnail": "https://i.ytimg.com/vi/n9RjG-zZ4_Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=n9RjG-zZ4_Q"
+    },
+    {
+      "id": "rSFoCdfl2xs",
+      "title": "Former army chief and wife in court over RM2.1mil graft case",
+      "thumbnail": "https://i.ytimg.com/vi/rSFoCdfl2xs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rSFoCdfl2xs"
+    },
+    {
+      "id": "yq46IJtIf-E",
+      "title": "[LIVE] Former army chief & wife to face corruption charges today",
+      "thumbnail": "https://i.ytimg.com/vi/yq46IJtIf-E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yq46IJtIf-E"
+    },
+    {
+      "id": "TNpT2wCfz-w",
+      "title": "Former army chief, wife to be charged tomorrow",
+      "thumbnail": "https://i.ytimg.com/vi/TNpT2wCfz-w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TNpT2wCfz-w"
+    },
+    {
+      "id": "4AaTTStmlYs",
+      "title": "Silva reveals Malaysia's role in helping Brazil win 2002 World Cup",
+      "thumbnail": "https://i.ytimg.com/vi/4AaTTStmlYs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4AaTTStmlYs"
     }
   ]
 }

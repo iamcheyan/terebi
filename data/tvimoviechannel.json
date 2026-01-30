@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-01-29T15:39:56.969928",
+  "updated_at": "2026-01-30T15:38:08.369228",
   "videos": [
+    {
+      "id": "VyU2BjU5JU0",
+      "title": "５きげんクッキング ～早採りワカメのユッケ丼～",
+      "description": "",
+      "publishedAt": "2026-01-30T11:16:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VyU2BjU5JU0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VyU2BjU5JU0"
+    },
+    {
+      "id": "MhSYlbyOHEM",
+      "title": "ご当地フルコース~沿岸編~",
+      "description": "",
+      "publishedAt": "2026-01-30T10:13:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MhSYlbyOHEM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MhSYlbyOHEM"
+    },
     {
       "id": "sSKGC54znc8",
       "title": "今日の５きげんテレビ（1月30日）｜テレビ岩手",

@@ -1,8 +1,188 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-01-29T15:39:52.224336",
+  "updated_at": "2026-01-30T15:38:03.377263",
   "videos": [
+    {
+      "id": "Q4biDnSJ6_M",
+      "title": "【特集】冷凍王子オススメ冷凍商品！“冷凍鍋”の裏ワザとは！？",
+      "description": "",
+      "publishedAt": "2026-01-30T11:10:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q4biDnSJ6_M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q4biDnSJ6_M"
+    },
+    {
+      "id": "5rIcy1oabuw",
+      "title": "衆院選　高市総理大分入り　聴衆に支持を訴え",
+      "description": "",
+      "publishedAt": "2026-01-30T11:09:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5rIcy1oabuw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5rIcy1oabuw"
+    },
+    {
+      "id": "DzsBWXvUD9Y",
+      "title": "大分トリニータリーグ開幕を前に大分市を訪問　四方田監督躍進を誓う",
+      "description": "",
+      "publishedAt": "2026-01-30T11:08:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DzsBWXvUD9Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DzsBWXvUD9Y"
+    },
+    {
+      "id": "3ZsFsc-4bv4",
+      "title": "要介護状態になる可能性があるフレイル　街頭で啓発活動",
+      "description": "",
+      "publishedAt": "2026-01-30T11:07:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3ZsFsc-4bv4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3ZsFsc-4bv4"
+    },
+    {
+      "id": "QyZ-M09R7Qk",
+      "title": "打ち上げの高さや距離を競うロケットの全国大会　国東高校が挑む",
+      "description": "",
+      "publishedAt": "2026-01-30T11:06:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QyZ-M09R7Qk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QyZ-M09R7Qk"
+    },
+    {
+      "id": "o4FAwlGleps",
+      "title": "陰性でも感染？　インフルエンザＢ型例年より早くも流行　Ｂ型の症状の違いは？",
+      "description": "",
+      "publishedAt": "2026-01-30T11:05:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o4FAwlGleps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o4FAwlGleps"
+    },
+    {
+      "id": "gowoIalQi3E",
+      "title": "衆院選大分２区　前職同士による一騎打ち　戦いの構図と２人の訴えは",
+      "description": "",
+      "publishedAt": "2026-01-30T11:03:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gowoIalQi3E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gowoIalQi3E"
+    },
+    {
+      "id": "MhvCzrhQsP4",
+      "title": "杵築市　災害時の孤立への備えは",
+      "description": "",
+      "publishedAt": "2026-01-30T11:02:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MhvCzrhQsP4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MhvCzrhQsP4"
+    },
+    {
+      "id": "y0XpXBpX_Q8",
+      "title": "【インタビュー】候補者に聞く・大分３区 ～働く人の手取り～",
+      "description": "",
+      "publishedAt": "2026-01-30T08:05:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y0XpXBpX_Q8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y0XpXBpX_Q8"
+    },
+    {
+      "id": "t9NgqvfZRnk",
+      "title": "【インタビュー】候補者に聞く・大分２区 ～佐賀関の復興～",
+      "description": "",
+      "publishedAt": "2026-01-30T08:05:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t9NgqvfZRnk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t9NgqvfZRnk"
+    },
+    {
+      "id": "KzfrIfY9aOI",
+      "title": "【インタビュー】候補者に聞く・大分２区 ～農林水産業の施策は？～",
+      "description": "",
+      "publishedAt": "2026-01-30T08:05:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KzfrIfY9aOI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KzfrIfY9aOI"
+    },
+    {
+      "id": "9E1q2dU1hzQ",
+      "title": "【インタビュー】候補者に聞く・大分２区 ～外交・安全保障～",
+      "description": "",
+      "publishedAt": "2026-01-30T08:05:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9E1q2dU1hzQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9E1q2dU1hzQ"
+    },
+    {
+      "id": "6Gq5s_BNOt0",
+      "title": "【インタビュー】候補者に聞く・大分２区 ～外国人政策～",
+      "description": "",
+      "publishedAt": "2026-01-30T08:05:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6Gq5s_BNOt0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6Gq5s_BNOt0"
+    },
+    {
+      "id": "aSXAFM9LcQQ",
+      "title": "【インタビュー】候補者に聞く・大分２区 ～政治とカネ～",
+      "description": "",
+      "publishedAt": "2026-01-30T08:05:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aSXAFM9LcQQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aSXAFM9LcQQ"
+    },
+    {
+      "id": "LJrIBAeOBkA",
+      "title": "【インタビュー】候補者に聞く・大分２区 ～消費税減税～",
+      "description": "",
+      "publishedAt": "2026-01-30T08:05:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LJrIBAeOBkA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LJrIBAeOBkA"
+    },
     {
       "id": "yIvY812S0f8",
       "title": "介護人材確保へ　インドネシア関係者が来県　介護関連施設などを視察",
