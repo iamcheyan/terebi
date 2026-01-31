@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-01-30T15:37:38.214605",
+  "updated_at": "2026-01-31T15:26:57.159124",
   "videos": [
+    {
+      "id": "IU7PVGAcDPo",
+      "title": "【先生はトップ選手】SVリーグオールスター バレーボール教室",
+      "description": "",
+      "publishedAt": "2026-01-31T11:53:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IU7PVGAcDPo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IU7PVGAcDPo"
+    },
     {
       "id": "F4_cLXmYJrw",
       "title": "【Bリーグドラフト指名選手コメント】Bリーグ初のドラフト開催！指名された選手たちが意気込み語る！",

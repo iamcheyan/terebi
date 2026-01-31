@@ -1,8 +1,32 @@
 {
   "channel_id": "UCrDj5t8Q9ZFSGft7a3PWl9g",
   "channel_name": "テレ東公式 TV TOKYO",
-  "updated_at": "2026-01-30T15:37:25.916757",
+  "updated_at": "2026-01-31T15:26:56.581521",
   "videos": [
+    {
+      "id": "llN5gMGgh-0",
+      "title": "【予告】新美の巨人たち",
+      "description": "",
+      "publishedAt": "2026-01-31T13:29:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/llN5gMGgh-0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=llN5gMGgh-0"
+    },
+    {
+      "id": "83aB0pxVi40",
+      "title": "【予告】出没！アド街ック天国　～世田谷 梅ヶ丘～",
+      "description": "",
+      "publishedAt": "2026-01-31T12:50:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/83aB0pxVi40/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=83aB0pxVi40"
+    },
     {
       "id": "JGbEwoE_4nQ",
       "title": "新発見！台湾ちょっといい大人旅",

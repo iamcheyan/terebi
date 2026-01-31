@@ -1,8 +1,56 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
   "channel_name": "yab山口ニュース",
-  "updated_at": "2026-01-30T15:37:43.579645",
+  "updated_at": "2026-01-31T15:26:26.267044",
   "videos": [
+    {
+      "id": "AWAPBg-ZUnU",
+      "title": "【山口】小中学生のフラワーアレンジメントのコンテスト",
+      "description": "",
+      "publishedAt": "2026-01-31T09:42:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AWAPBg-ZUnU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AWAPBg-ZUnU"
+    },
+    {
+      "id": "y5KwcOMz_9M",
+      "title": "【山口】中学２年生が立志の集い",
+      "description": "",
+      "publishedAt": "2026-01-31T09:42:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y5KwcOMz_9M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y5KwcOMz_9M"
+    },
+    {
+      "id": "IN2nWJqkl-E",
+      "title": "ぼくのゆめわたしの　あおば保育園⑤（下松市）",
+      "description": "",
+      "publishedAt": "2026-01-31T01:57:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IN2nWJqkl-E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IN2nWJqkl-E"
+    },
+    {
+      "id": "N_c10gnZJFc",
+      "title": "ぼくのゆめわたしの　あおば保育園④（下松市）",
+      "description": "",
+      "publishedAt": "2026-01-31T01:56:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N_c10gnZJFc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N_c10gnZJFc"
+    },
     {
       "id": "qHIbjuWztyQ",
       "title": "週末はお出かけ日和…ただ真冬の寒さ　１月３０日（金）お天気情報",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2026-01-30T15:37:37.921781",
+  "updated_at": "2026-01-31T15:27:08.022573",
   "videos": [
+    {
+      "id": "3qb-ToQvdxk",
+      "title": "#eeniemeenie スタンバイする#カメラマン",
+      "description": "",
+      "publishedAt": "2026-01-31T12:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3qb-ToQvdxk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3qb-ToQvdxk"
+    },
+    {
+      "id": "a8oz-UA-iJo",
+      "title": "#NONSTOP でスタンバイする#カメラマン",
+      "description": "",
+      "publishedAt": "2026-01-31T00:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a8oz-UA-iJo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a8oz-UA-iJo"
+    },
     {
       "id": "5oWERtrH4a4",
       "title": "#むかしストリート #2画面 ver",

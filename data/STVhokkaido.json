@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-01-22T15:34:55.894783",
+  "updated_at": "2026-01-31T15:27:31.983572",
   "videos": [
+    {
+      "id": "rYTRnl3F25w",
+      "title": "「トレンド☆サプリ」 #173 「ランニングマン」",
+      "description": "",
+      "publishedAt": "2026-01-31T12:01:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rYTRnl3F25w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rYTRnl3F25w"
+    },
     {
       "id": "CS-jzzCl3Uw",
       "title": "【11時開始予定】女子スキージャンプ代表候補 記者会見",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-01-30T15:38:11.969135",
+  "updated_at": "2026-01-31T15:27:41.587741",
   "videos": [
+    {
+      "id": "YcG6Xb1smBk",
+      "title": "愛媛のニュース(01月31日)",
+      "description": "",
+      "publishedAt": "2026-01-31T11:31:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YcG6Xb1smBk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YcG6Xb1smBk"
+    },
+    {
+      "id": "kYSMJH4Zkak",
+      "title": "【西条移住大作戦・前編】移住に熱い街！愛媛県西条市の魅力をやしろ優さんがリポート",
+      "description": "",
+      "publishedAt": "2026-01-31T07:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kYSMJH4Zkak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kYSMJH4Zkak"
+    },
+    {
+      "id": "IIDOfnUS8dk",
+      "title": "【西条移住大作戦・後編】移住に熱い街！愛媛県西条市の魅力をやしろ優さんがリポート",
+      "description": "",
+      "publishedAt": "2026-01-31T07:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IIDOfnUS8dk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IIDOfnUS8dk"
+    },
     {
       "id": "QNpULmsZITU",
       "title": "愛媛のニュース(01月30日)",

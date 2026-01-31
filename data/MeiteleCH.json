@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-01-30T15:37:17.100994",
+  "updated_at": "2026-01-31T15:26:50.951041",
   "videos": [
+    {
+      "id": "UlZI8GXB2Cc",
+      "title": "【まるまる◎あいち】2026年1月31日放送 「フラワーバレンタインプロモーション2026」",
+      "description": "",
+      "publishedAt": "2026-01-31T09:00:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UlZI8GXB2Cc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UlZI8GXB2Cc"
+    },
     {
       "id": "exPgmCvYBz4",
       "title": "【濱田アナ】プロサッカー選手を夢見ていた濱田少年⚽ずるはいけません【アナメロ】",

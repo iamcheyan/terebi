@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-01-29T15:39:56.666485",
+  "updated_at": "2026-01-31T15:27:35.578939",
   "videos": [
+    {
+      "id": "Do4CRZWPprM",
+      "title": "TUFアプリ「たぷり」2月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-01-31T15:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Do4CRZWPprM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Do4CRZWPprM"
+    },
+    {
+      "id": "31mZ4E-CIeo",
+      "title": "「福島日産自動車×ステップ」2月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-01-31T15:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/31mZ4E-CIeo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=31mZ4E-CIeo"
+    },
     {
       "id": "8ggR9LWe80s",
       "title": "【明日への一歩】小高産業技術高校 華道部",
