@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2026-01-31T15:27:35.376467",
+  "updated_at": "2026-02-01T15:29:01.620131",
   "videos": [
+    {
+      "id": "s1OTCep4M8A",
+      "title": "山形からARスポーツの普及へ",
+      "description": "",
+      "publishedAt": "2026-02-01T05:30:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s1OTCep4M8A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s1OTCep4M8A"
+    },
     {
       "id": "pQTtbK257cs",
       "title": "つきたてお餅・朝ラーメン…“至福の朝食”で１日の始まりを贅沢に！",

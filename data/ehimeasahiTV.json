@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2026-01-31T15:27:08.022573",
+  "updated_at": "2026-02-01T15:28:25.533568",
   "videos": [
+    {
+      "id": "4H84niEkink",
+      "title": "#take2 #NoHands",
+      "description": "",
+      "publishedAt": "2026-02-01T12:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4H84niEkink/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4H84niEkink"
+    },
+    {
+      "id": "GF9G6-43o78",
+      "title": "#eeniemeenie#take2",
+      "description": "",
+      "publishedAt": "2026-02-01T00:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GF9G6-43o78/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GF9G6-43o78"
+    },
     {
       "id": "3qb-ToQvdxk",
       "title": "#eeniemeenie スタンバイする#カメラマン",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEobbi8fWt_DibQzOImnKqQ",
   "channel_name": "AAB秋田朝日放送",
-  "updated_at": "2026-01-31T15:27:09.914971",
+  "updated_at": "2026-02-01T15:28:45.741604",
   "videos": [
+    {
+      "id": "lJf7Ef1gHW0",
+      "title": "藤里町テレビ回覧板",
+      "description": "",
+      "publishedAt": "2026-02-01T15:01:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lJf7Ef1gHW0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lJf7Ef1gHW0"
+    },
+    {
+      "id": "mRsN0P7TReA",
+      "title": "【知りたい！がん検診】Vol.770回「乳がんの症状・治療方法」",
+      "description": "",
+      "publishedAt": "2026-02-01T09:01:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mRsN0P7TReA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mRsN0P7TReA"
+    },
     {
       "id": "qTPaAKeHHOU",
       "title": "秋田市の国道で車３台絡む事故　2人が大けが (2026/01/31 19:34)",

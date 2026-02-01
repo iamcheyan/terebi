@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-01-31T15:27:11.769583",
+  "updated_at": "2026-02-01T15:28:47.287771",
   "videos": [
+    {
+      "id": "3miP1P_4FlQ",
+      "title": "あだまっこ体操！　2026年2月1日放送分",
+      "description": "",
+      "publishedAt": "2026-01-31T21:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3miP1P_4FlQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3miP1P_4FlQ"
+    },
     {
       "id": "xc1P14O7THk",
       "title": "GOING FAIRWAY TV　#22　2026年1月31日(土)放送",

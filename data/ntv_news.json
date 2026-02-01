@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-01-29T15:39:11.310397",
+  "updated_at": "2026-02-01T15:28:40.791870",
   "videos": [
+    {
+      "id": "PwObaqCJq18",
+      "title": "Adams Central vs. Aurora and York vs. Crete Central Bracket Tournament Finals",
+      "description": "",
+      "publishedAt": "2026-02-01T05:15:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PwObaqCJq18/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PwObaqCJq18"
+    },
+    {
+      "id": "NPu-e2-KBIw",
+      "title": "Lincoln Christian vs. St. Cecilia & Grand Island CC vs. Archbishop Bergan Centennial Tourney Finals",
+      "description": "",
+      "publishedAt": "2026-02-01T03:01:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NPu-e2-KBIw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NPu-e2-KBIw"
+    },
     {
       "id": "vW0wh5tZJ64",
       "title": "Exclusive: Gov. Pillen addresses Tyson plant closure, federal intervention and more.",
