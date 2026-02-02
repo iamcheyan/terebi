@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMXjwK6-rRw-la5SN5j0M6g",
   "channel_name": "スマサポチャンネル",
-  "updated_at": "2026-01-30T15:38:14.571536",
+  "updated_at": "2026-02-02T15:40:04.414319",
   "videos": [
+    {
+      "id": "GSqfYr7VD5Y",
+      "title": "【みんな何を使ってる？】Wi-Fiルーターのシェア＆満足度調査",
+      "description": "",
+      "publishedAt": "2026-02-02T10:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GSqfYr7VD5Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GSqfYr7VD5Y"
+    },
     {
       "id": "wHppdVkKa38",
       "title": "【通信はオマケ】異業種MVNOがますます増えていく件",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-01-30T15:37:46.342957",
+  "updated_at": "2026-02-02T15:39:11.581314",
   "videos": [
+    {
+      "id": "gliqdiAFY6I",
+      "title": "2月7日のプライドは岡山市の大和クレス",
+      "description": "",
+      "publishedAt": "2026-02-02T01:53:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gliqdiAFY6I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gliqdiAFY6I"
+    },
     {
       "id": "4Xcq6mR2lFk",
       "title": "【プライド せとうち経済のチカラ】美咲町　2025年11月22日放送",

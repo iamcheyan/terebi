@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-01-31T15:27:38.534642",
+  "updated_at": "2026-02-02T15:40:01.152833",
   "videos": [
+    {
+      "id": "BxNKzHekr_c",
+      "title": "みんテレ　2月3日（火）放送",
+      "description": "",
+      "publishedAt": "2026-02-02T10:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BxNKzHekr_c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BxNKzHekr_c"
+    },
+    {
+      "id": "T6iALxjxZt8",
+      "title": "衆院選2026 北海道の未来のカタチ",
+      "description": "",
+      "publishedAt": "2026-02-02T07:23:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T6iALxjxZt8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T6iALxjxZt8"
+    },
     {
       "id": "DFRTAA5Xxjg",
       "title": "いっとこ！：2月7日（土）放送",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-01-30T15:37:36.355918",
+  "updated_at": "2026-02-02T15:39:30.932594",
   "videos": [
+    {
+      "id": "uLzU6quPvNg",
+      "title": "【プラス1ダイジェスト】2/2(月) のニュース",
+      "description": "",
+      "publishedAt": "2026-02-02T09:59:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uLzU6quPvNg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uLzU6quPvNg"
+    },
+    {
+      "id": "Og_ef3tIKJs",
+      "title": "元気○（マル）らいふ　【クマから身を守るための備えと行動】（2025/10/29放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-02-02T01:08:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Og_ef3tIKJs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Og_ef3tIKJs"
+    },
     {
       "id": "7q9M9y5fc0E",
       "title": "【プラス1ダイジェスト】1/30(金) のニュース",

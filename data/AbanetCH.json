@@ -1,8 +1,20 @@
 {
   "channel_id": "UCE5ajTJVTrsmxZJ-V3y8CLA",
   "channel_name": "ABA青森朝日放送",
-  "updated_at": "2026-01-20T15:34:39.179735",
+  "updated_at": "2026-02-02T15:39:43.093753",
   "videos": [
+    {
+      "id": "UcSxu7zegTo",
+      "title": "青森空港ライブ配信",
+      "description": "",
+      "publishedAt": "2026-02-02T01:42:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UcSxu7zegTo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UcSxu7zegTo"
+    },
     {
       "id": "rUd2q9mv3mk",
       "title": "中村勘九郎 中村七之助春暁歌舞伎特別公演2026　■2026年 3月25日（水）リンクステーションホール青森　①12:00開演 ②17:00開演",
