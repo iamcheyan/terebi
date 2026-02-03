@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-01-31T15:27:20.744077",
+  "updated_at": "2026-02-03T15:53:24.619715",
   "videos": [
+    {
+      "id": "n5IB3f2LTKo",
+      "title": "【旬景とやま】冬を生きる",
+      "description": "",
+      "publishedAt": "2026-02-03T10:32:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n5IB3f2LTKo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n5IB3f2LTKo"
+    },
     {
       "id": "4EL_u-7i_hI",
       "title": "【KNB news every.】衆院選2026 富山1区候補者討論会",

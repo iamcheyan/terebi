@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-02T15:40:05.523425",
+  "updated_at": "2026-02-03T15:53:42.838948",
   "videos": [
+    {
+      "id": "kJOmFXjpEfA",
+      "title": "260203 173639 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-02-03T12:31:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kJOmFXjpEfA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kJOmFXjpEfA"
+    },
+    {
+      "id": "sbzXyNdOqnQ",
+      "title": "260203 173106 兼近第１踏切 ２",
+      "description": "",
+      "publishedAt": "2026-02-03T12:01:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sbzXyNdOqnQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sbzXyNdOqnQ"
+    },
+    {
+      "id": "ed5z5-vP8Eg",
+      "title": "260203 171853 兼近第１踏切（草が刈られて見通しがよくなりました！）",
+      "description": "",
+      "publishedAt": "2026-02-03T11:38:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ed5z5-vP8Eg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ed5z5-vP8Eg"
+    },
     {
       "id": "srU0xUX1RNE",
       "title": "260202 134945 かっぱ列車（二名駅）",

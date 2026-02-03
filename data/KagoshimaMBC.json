@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-02-02T15:39:53.180662",
+  "updated_at": "2026-02-03T15:53:26.291767",
   "videos": [
+    {
+      "id": "PmM-VAvKNU4",
+      "title": "【2月6日(金) 午後3時49分～】かごよんフライデー",
+      "description": "",
+      "publishedAt": "2026-02-03T03:01:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PmM-VAvKNU4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PmM-VAvKNU4"
+    },
+    {
+      "id": "O0iSibAVJIk",
+      "title": "#4 いちき串木野市立串木野西中学校（1/26放送）",
+      "description": "",
+      "publishedAt": "2026-02-02T20:23:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O0iSibAVJIk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O0iSibAVJIk"
+    },
     {
       "id": "-QMDA6cySoc",
       "title": "桜島で小学生が熱戦　A・コープカップ小学生ドッジボール大会(MBCニュース 2026年1月31日放送）",

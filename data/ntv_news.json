@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-02-02T15:39:42.112397",
+  "updated_at": "2026-02-03T15:52:52.737345",
   "videos": [
+    {
+      "id": "lxugOIdKSvg",
+      "title": "LPD update on missing Stromsburg couple.",
+      "description": "",
+      "publishedAt": "2026-02-02T18:19:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lxugOIdKSvg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lxugOIdKSvg"
+    },
     {
       "id": "sHuNYBkQmLg",
       "title": "No. 5 Nebraska Falls 78-69 to No. 9 Illinois as Huskers' Braden Frager and Rienk Mast Return",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-02-02T15:39:53.941198",
+  "updated_at": "2026-02-03T15:53:27.959263",
   "videos": [
+    {
+      "id": "GkqguAdfdFM",
+      "title": "長野放送「特報！ビジナガ」アイ工務店",
+      "description": "",
+      "publishedAt": "2026-02-03T03:39:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GkqguAdfdFM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GkqguAdfdFM"
+    },
     {
       "id": "VtMcyz9knLE",
       "title": "長野放送「特報！ビジナガ」アズミ村田製作所",

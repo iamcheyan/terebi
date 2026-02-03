@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-02-02T15:39:17.460123",
+  "updated_at": "2026-02-03T15:52:48.906215",
   "videos": [
+    {
+      "id": "OtfIb2I0tEw",
+      "title": "【柳河精機】電子回路や基盤など収納するEV用電装部品ケースを紹介【開発現場へ行こう #51】",
+      "description": "",
+      "publishedAt": "2026-02-03T14:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OtfIb2I0tEw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OtfIb2I0tEw"
+    },
+    {
+      "id": "m7abcLwQPBU",
+      "title": "工場へ行こうⅢ2月7日（土）放送【驚異の効率化！巨大工場で家をつくる】",
+      "description": "",
+      "publishedAt": "2026-02-03T07:55:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m7abcLwQPBU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m7abcLwQPBU"
+    },
     {
       "id": "dFGtM_m9Opw",
       "title": "【LBS】商店街をまるっとホテルに",

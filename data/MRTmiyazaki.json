@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-01-31T15:27:24.565030",
+  "updated_at": "2026-02-03T15:53:26.968841",
   "videos": [
+    {
+      "id": "6PtpuCHu9ss",
+      "title": "MRTラジオ のライブ配信",
+      "description": "",
+      "publishedAt": "2026-02-03T05:34:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6PtpuCHu9ss/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6PtpuCHu9ss"
+    },
     {
       "id": "Xm8A9733Mzs",
       "title": "アフタートーク「放課後の☆ドッキング」",

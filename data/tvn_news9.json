@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-02-02T15:39:36.905425",
+  "updated_at": "2026-02-03T15:53:03.316335",
   "videos": [
+    {
+      "id": "jWxZiEWUrpE",
+      "title": "県内各地で節分行事　金峯山寺　節分会",
+      "description": "",
+      "publishedAt": "2026-02-03T09:36:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jWxZiEWUrpE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jWxZiEWUrpE"
+    },
+    {
+      "id": "iuq-vr5TxAg",
+      "title": "市長不在のその時に…　橿原市　震災対応向上へ図上訓練",
+      "description": "",
+      "publishedAt": "2026-02-03T09:30:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iuq-vr5TxAg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iuq-vr5TxAg"
+    },
     {
       "id": "ThKYgY8Qva8",
       "title": "県営馬見丘陵公園　冬の彩り",

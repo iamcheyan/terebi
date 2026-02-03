@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-02-02T15:39:26.361158",
+  "updated_at": "2026-02-03T15:53:08.812358",
   "videos": [
+    {
+      "id": "wTYEPG3RFR4",
+      "title": "tvk「クルマでいこう！」公式 藤トモEYE 大学自動車部が本格シミュレーターを体験! 2026/1/25放送(#924)",
+      "description": "",
+      "publishedAt": "2026-02-03T09:01:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wTYEPG3RFR4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wTYEPG3RFR4"
+    },
+    {
+      "id": "uQ9JgY69OhQ",
+      "title": "tvk「クルマでいこう！」公式 日産 ルークス 2026/1/25放送(#924)",
+      "description": "",
+      "publishedAt": "2026-02-03T09:01:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uQ9JgY69OhQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uQ9JgY69OhQ"
+    },
+    {
+      "id": "sW3Ka8iXHto",
+      "title": "猫のひたいほどワイド #1689 リポート大賞・真田理希「関内寄席！ハマっ子4人の新春落語」（横浜市中区）",
+      "description": "",
+      "publishedAt": "2026-02-03T05:01:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sW3Ka8iXHto/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sW3Ka8iXHto"
+    },
+    {
+      "id": "0iLf7BneM0A",
+      "title": "猫のひたいほどワイド #1689 潜入リポート・大矢剛康「本格的なボトルシップ作り！いざ大航海の旅へ」（川崎市川崎区）",
+      "description": "",
+      "publishedAt": "2026-02-03T05:01:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0iLf7BneM0A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0iLf7BneM0A"
+    },
     {
       "id": "evbjtrIPDnU",
       "title": "猫のひたいほどワイド #1686 潜入リポート・畠山理温「猫ひた軽音楽部！ゴールに向かって突き進め！」（横浜市中区）",

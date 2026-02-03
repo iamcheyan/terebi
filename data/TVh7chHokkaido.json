@@ -1,8 +1,20 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2026-02-02T15:39:59.581905",
+  "updated_at": "2026-02-03T15:53:34.840967",
   "videos": [
+    {
+      "id": "8FypyUbOiNA",
+      "title": "ライブカメラ",
+      "description": "",
+      "publishedAt": "2026-02-03T04:48:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8FypyUbOiNA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8FypyUbOiNA"
+    },
     {
       "id": "p5lyvbqP_Fg",
       "title": "遅咲きのデビュー！女子プロレスラー 浦幌ちほ選手＜前編＞",

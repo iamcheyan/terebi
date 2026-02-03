@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-01-31T15:26:50.951041",
+  "updated_at": "2026-02-03T15:52:47.647592",
   "videos": [
+    {
+      "id": "X0XpCDs9sGs",
+      "title": "舞台「ジン・ロック・ライム」愛知公演版Teaser",
+      "description": "",
+      "publishedAt": "2026-02-03T07:30:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X0XpCDs9sGs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X0XpCDs9sGs"
+    },
+    {
+      "id": "hX_TjfCs1Ow",
+      "title": "超町人！チョコレートサムネット 2/8(日)愛知・常滑市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-02-03T04:01:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hX_TjfCs1Ow/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hX_TjfCs1Ow"
+    },
     {
       "id": "UlZI8GXB2Cc",
       "title": "【まるまる◎あいち】2026年1月31日放送 「フラワーバレンタインプロモーション2026」",
