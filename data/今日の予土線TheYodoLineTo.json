@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-03T15:53:42.838948",
+  "updated_at": "2026-02-04T15:46:31.005120",
   "videos": [
+    {
+      "id": "WLBhNZj6k-w",
+      "title": "260204 160109 深田第６踏切",
+      "description": "",
+      "publishedAt": "2026-02-04T10:29:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WLBhNZj6k-w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WLBhNZj6k-w"
+    },
+    {
+      "id": "dUvozLOGUqE",
+      "title": "260204 155747 深田第６踏切",
+      "description": "",
+      "publishedAt": "2026-02-04T10:29:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dUvozLOGUqE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dUvozLOGUqE"
+    },
+    {
+      "id": "8z1DNduiQHs",
+      "title": "260204 154526 深田第５踏切",
+      "description": "",
+      "publishedAt": "2026-02-04T10:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8z1DNduiQHs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8z1DNduiQHs"
+    },
+    {
+      "id": "Dr8z55a8xCA",
+      "title": "260204 153404 深田第４踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-02-04T10:01:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Dr8z55a8xCA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Dr8z55a8xCA"
+    },
+    {
+      "id": "L4Yr25x2yrI",
+      "title": "260204 152904 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-02-04T10:01:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L4Yr25x2yrI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L4Yr25x2yrI"
+    },
+    {
+      "id": "_Qp0PsKsHI4",
+      "title": "260204 152411 深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-02-04T09:43:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_Qp0PsKsHI4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_Qp0PsKsHI4"
+    },
     {
       "id": "kJOmFXjpEfA",
       "title": "260203 173639 兼近第１踏切",

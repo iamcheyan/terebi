@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-03T15:53:33.836816",
+  "updated_at": "2026-02-04T15:46:18.331186",
   "videos": [
+    {
+      "id": "9ZHPNt5no0k",
+      "title": "今日の５きげんテレビ（2月5日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-02-04T15:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9ZHPNt5no0k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9ZHPNt5no0k"
+    },
+    {
+      "id": "NcZ-uGCddkE",
+      "title": "ぐるっと味めぐり｜泳ぐホタテ",
+      "description": "",
+      "publishedAt": "2026-02-04T09:05:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NcZ-uGCddkE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NcZ-uGCddkE"
+    },
+    {
+      "id": "hC_H4bA32_4",
+      "title": "５きげんクッキング ～玉コンニャクの煮物 ・おから味噌～",
+      "description": "",
+      "publishedAt": "2026-02-04T08:52:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hC_H4bA32_4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hC_H4bA32_4"
+    },
     {
       "id": "f0Hazt1hfNQ",
       "title": "今日の５きげんテレビ（2月4日）｜テレビ岩手",

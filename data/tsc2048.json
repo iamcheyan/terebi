@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-02-02T15:39:11.581314",
+  "updated_at": "2026-02-04T15:45:14.261471",
   "videos": [
+    {
+      "id": "W_iBjJcpJlQ",
+      "title": "オカシギ☆ラボ　岡山市議会研究所【2月4日放送】",
+      "description": "",
+      "publishedAt": "2026-02-04T13:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W_iBjJcpJlQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W_iBjJcpJlQ"
+    },
+    {
+      "id": "fDmss79E7iA",
+      "title": "おばあちゃんの台所【奈義町篇】「とも子おばあちゃんのさといもパエリア」【2026年1月24日放送】",
+      "description": "",
+      "publishedAt": "2026-02-04T02:11:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fDmss79E7iA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fDmss79E7iA"
+    },
     {
       "id": "gliqdiAFY6I",
       "title": "2月7日のプライドは岡山市の大和クレス",
