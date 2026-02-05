@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-02-02T15:39:26.005997",
+  "updated_at": "2026-02-05T15:43:04.758670",
   "videos": [
+    {
+      "id": "qKRnexHhTek",
+      "title": "【#青春にエール2025】1％のひらめきと…数学を愛する青春",
+      "description": "",
+      "publishedAt": "2026-02-04T23:55:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qKRnexHhTek/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qKRnexHhTek"
+    },
     {
       "id": "JibqwJsBOTY",
       "title": "きょうの俳句＜令和8年1月放送＞ 兼題「日脚伸ぶ」（後半）",

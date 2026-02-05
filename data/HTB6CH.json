@@ -1,8 +1,44 @@
 {
   "channel_id": "UCuY1i-Tic2G2xmox2_0h-Fw",
   "channel_name": "HTB北海道テレビ",
-  "updated_at": "2026-02-04T15:46:00.144299",
+  "updated_at": "2026-02-05T15:43:33.853136",
   "videos": [
+    {
+      "id": "xWRTZzUIzus",
+      "title": "【HTB歌会】地上波未公開作品",
+      "description": "",
+      "publishedAt": "2026-02-05T10:39:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xWRTZzUIzus/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xWRTZzUIzus"
+    },
+    {
+      "id": "bc4O3mfYzM4",
+      "title": "【LIVE】さっぽろ雪まつりライブカメラ 雪のHTB広場「会津 鶴ヶ城」／SAPPORO SNOW FESTIVAL 2026 STREAMING from Odori-8-Chome",
+      "description": "",
+      "publishedAt": "2026-02-05T05:14:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bc4O3mfYzM4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bc4O3mfYzM4"
+    },
+    {
+      "id": "1-E-D1Mshf4",
+      "title": "【あしたのパン】新札幌駅徒歩1分　敏腕シェフが50年変わらぬレシピで焼き上げるフランスパン　聞こえる・・・「パンのささやき」",
+      "description": "",
+      "publishedAt": "2026-02-04T22:16:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1-E-D1Mshf4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1-E-D1Mshf4"
+    },
     {
       "id": "JTC6kcARk_8",
       "title": "今が旬！タラの白子「タチ」を使った絶品レシピ！CHEF-1グランプリ初代王者下國シェフに教わる\"レストラン級\"のおいしさの秘訣",

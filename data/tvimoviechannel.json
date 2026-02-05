@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-04T15:46:18.331186",
+  "updated_at": "2026-02-05T15:43:48.088490",
   "videos": [
+    {
+      "id": "ZYEITudd8Kg",
+      "title": "今日の５きげんテレビ（2月6日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-02-05T15:01:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZYEITudd8Kg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZYEITudd8Kg"
+    },
+    {
+      "id": "UuBIdYXW12c",
+      "title": "５きげんクッキング ～豚肩ロースとレーズンの 白ワイン煮込み～",
+      "description": "",
+      "publishedAt": "2026-02-05T08:47:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UuBIdYXW12c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UuBIdYXW12c"
+    },
+    {
+      "id": "JEFkc6CjmzY",
+      "title": "５きげん知恵袋 ～早採りワカメ～",
+      "description": "",
+      "publishedAt": "2026-02-05T08:20:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JEFkc6CjmzY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JEFkc6CjmzY"
+    },
     {
       "id": "9ZHPNt5no0k",
       "title": "今日の５きげんテレビ（2月5日）｜テレビ岩手",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-02-04T15:46:24.207125",
+  "updated_at": "2026-02-05T15:43:52.389572",
   "videos": [
+    {
+      "id": "xk1tjG1CoMQ",
+      "title": "愛媛のニュース(02月05日)",
+      "description": "",
+      "publishedAt": "2026-02-05T11:37:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xk1tjG1CoMQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xk1tjG1CoMQ"
+    },
+    {
+      "id": "upfg2g2Fjc4",
+      "title": "【サイボウズ 青野社長に聞く】愛媛オレンジバイキングスの未来は",
+      "description": "",
+      "publishedAt": "2026-02-05T03:01:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/upfg2g2Fjc4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=upfg2g2Fjc4"
+    },
     {
       "id": "4GCkPRpKucg",
       "title": "愛媛のニュース(02月04日)",

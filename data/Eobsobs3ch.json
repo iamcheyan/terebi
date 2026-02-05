@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-02-03T15:53:28.648465",
+  "updated_at": "2026-02-05T15:43:41.385620",
   "videos": [
+    {
+      "id": "B6YMFltHECc",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年2月2日放送分】",
+      "description": "",
+      "publishedAt": "2026-02-05T06:13:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B6YMFltHECc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B6YMFltHECc"
+    },
+    {
+      "id": "LR9CY1nzgAY",
+      "title": "【大分市】Shell Shell Coffee（2026年1月26日放送分）",
+      "description": "",
+      "publishedAt": "2026-02-05T02:54:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LR9CY1nzgAY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LR9CY1nzgAY"
+    },
     {
       "id": "1sJWVYq3OKo",
       "title": "おはなしワールド🗓️2月22日(日)🕐午後1時30分開演📍J:COMホルトホール大分⭐️入場無料⭐️「整理券」または「電子チケット」が必要です。詳しくは「🔍OBSおはなしワールド」",

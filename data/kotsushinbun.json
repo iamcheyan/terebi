@@ -1,8 +1,20 @@
 {
   "channel_id": "UCZpJu6cXaHvfEdFGMx-NYRg",
   "channel_name": "交通新聞 電子版【交通新聞社】",
-  "updated_at": "2026-01-29T15:39:37.943451",
+  "updated_at": "2026-02-05T15:43:12.900715",
   "videos": [
+    {
+      "id": "qZpdbZmElb4",
+      "title": "【新型車両】京王2000系がデビュー　次世代型通勤電車",
+      "description": "",
+      "publishedAt": "2026-02-05T09:01:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qZpdbZmElb4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qZpdbZmElb4"
+    },
     {
       "id": "oUmFfKcmDw8",
       "title": "【新型車両】JR四国　初のハイブリッド式ローカル車両「3600系」を報道公開",

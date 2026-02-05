@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-02-04T15:45:31.608121",
+  "updated_at": "2026-02-05T15:42:42.533659",
   "videos": [
+    {
+      "id": "SN534T5D7hE",
+      "title": "節分会（吉野・金峯山寺）　提供：奈良テレビ放送",
+      "description": "",
+      "publishedAt": "2026-02-05T04:09:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SN534T5D7hE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SN534T5D7hE"
+    },
+    {
+      "id": "D3O9UB2nhN0",
+      "title": "【奈良からお届け！】平群町のいちご",
+      "description": "",
+      "publishedAt": "2026-02-04T23:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D3O9UB2nhN0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D3O9UB2nhN0"
+    },
     {
       "id": "o2g6Zo2OBCc",
       "title": "【1月30日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",

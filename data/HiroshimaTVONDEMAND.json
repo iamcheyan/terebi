@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-02-04T15:45:15.722770",
+  "updated_at": "2026-02-05T15:42:48.610721",
   "videos": [
+    {
+      "id": "PTyE2_HGcDs",
+      "title": "たからモノさがして　第５６７回",
+      "description": "",
+      "publishedAt": "2026-02-05T10:00:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PTyE2_HGcDs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PTyE2_HGcDs"
+    },
+    {
+      "id": "ytuvmWXa4Vc",
+      "title": "【キッズチャレンジスタジアム】あおいくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-02-05T09:01:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ytuvmWXa4Vc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ytuvmWXa4Vc"
+    },
     {
       "id": "MeF8QUapBjM",
       "title": "【普段見ることができない裏側に密着！】人々の生活を守るアストラムライン",

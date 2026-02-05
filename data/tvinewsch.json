@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-02-04T15:45:17.884293",
+  "updated_at": "2026-02-05T15:43:01.580498",
   "videos": [
+    {
+      "id": "v3la4jCYkr0",
+      "title": "【プラス1ダイジェスト】2/5(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-02-05T10:12:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v3la4jCYkr0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v3la4jCYkr0"
+    },
+    {
+      "id": "FHr5sgYE0mo",
+      "title": "元気○（マル）らいふ　【スギ花粉症】（2026/2/4放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-02-05T03:03:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FHr5sgYE0mo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FHr5sgYE0mo"
+    },
+    {
+      "id": "VApFPiffHqM",
+      "title": "【選挙】衆議院選挙いわて2026　開票速報　LIVE 配信（2月8日午後7時58分～）",
+      "description": "",
+      "publishedAt": "2026-02-01T17:43:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VApFPiffHqM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VApFPiffHqM"
+    },
     {
       "id": "D-isnQECKrs",
       "title": "【プラス1ダイジェスト】2/4(水) のニュース",

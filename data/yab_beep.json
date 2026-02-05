@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7oQ9uMD7914CY7-ZheHrow",
   "channel_name": "山口朝日放送（yab）",
-  "updated_at": "2026-01-29T15:39:29.891197",
+  "updated_at": "2026-02-05T15:43:06.391005",
   "videos": [
+    {
+      "id": "a42tXkjc4Wg",
+      "title": "みんなのふるさと里山の薪窯ベーカリー　 大樂堂",
+      "description": "",
+      "publishedAt": "2026-02-04T20:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a42tXkjc4Wg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a42tXkjc4Wg"
+    },
     {
       "id": "i9-NSRhHyJA",
       "title": "みんなのふるさと　あかりで地域再生　うたあかり　 長門湯本温泉",
