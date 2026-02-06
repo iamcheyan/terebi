@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-02-05T15:43:43.070103",
+  "updated_at": "2026-02-06T15:42:50.672601",
   "videos": [
+    {
+      "id": "7of0fSrm36M",
+      "title": "【番宣】熊本城マラソン2026_",
+      "description": "",
+      "publishedAt": "2026-02-06T06:23:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7of0fSrm36M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7of0fSrm36M"
+    },
+    {
+      "id": "Yv9aBYu9MmY",
+      "title": "【番宣】２月９日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-02-06T06:10:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yv9aBYu9MmY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yv9aBYu9MmY"
+    },
     {
       "id": "OyMWHauUZmk",
       "title": "【番宣】２月１２日（木）こんばんは熊本市",

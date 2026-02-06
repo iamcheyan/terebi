@@ -1,8 +1,32 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-02-04T15:46:05.916602",
+  "updated_at": "2026-02-06T15:42:48.155387",
   "videos": [
+    {
+      "id": "uz31lG-oUYU",
+      "title": "KTS鹿児島テレビ　ドキュメント九州　80年前の私　昭和20年、鹿児島",
+      "description": "",
+      "publishedAt": "2026-02-06T07:48:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uz31lG-oUYU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uz31lG-oUYU"
+    },
+    {
+      "id": "3p5bCATs4ec",
+      "title": "鹿児島マラソン2026 ～薩摩路を駆ける1万人の物語～",
+      "description": "",
+      "publishedAt": "2026-02-06T06:11:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3p5bCATs4ec/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3p5bCATs4ec"
+    },
     {
       "id": "TfdsOv1G3sI",
       "title": "かごんま未来ノート 第208回「鹿児島弁を次世代へ引き継いでいきたい　NPO法人　残していきたいかごっま弁協会」",

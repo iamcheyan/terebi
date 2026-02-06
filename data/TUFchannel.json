@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-02-05T15:43:47.427714",
+  "updated_at": "2026-02-06T15:42:53.923785",
   "videos": [
+    {
+      "id": "hsmsNeR8UhI",
+      "title": "【ふくしまＳＨＯＷ】『伊達市』大特集！",
+      "description": "",
+      "publishedAt": "2026-02-06T05:27:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hsmsNeR8UhI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hsmsNeR8UhI"
+    },
     {
       "id": "2ymNdfg2MS4",
       "title": "【映像】伝統と継承～会津本郷焼　宗像窯　福島・会津美里町【カメラめせん㊸】",

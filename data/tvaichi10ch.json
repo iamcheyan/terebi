@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-02-05T15:43:13.457126",
+  "updated_at": "2026-02-06T15:42:15.607291",
   "videos": [
+    {
+      "id": "eco4OwsljV4",
+      "title": "#科学実験 #ヒーロー #カガークキムチでオルゴールを鳴らせ！#サイエンス #理科",
+      "description": "",
+      "publishedAt": "2026-02-06T12:01:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eco4OwsljV4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eco4OwsljV4"
+    },
+    {
+      "id": "q5RPkWh8sEk",
+      "title": "～旅さらばスピンオフ～　ブクロの人生100年旅　テレビ愛知",
+      "description": "",
+      "publishedAt": "2026-02-06T03:54:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q5RPkWh8sEk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q5RPkWh8sEk"
+    },
     {
       "id": "62uic3IlP1E",
       "title": "早く！ムダなく！環境にもやさしい新技術【クルマとミライ】",

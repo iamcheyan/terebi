@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-05T15:43:57.750889",
+  "updated_at": "2026-02-06T15:43:00.855497",
   "videos": [
+    {
+      "id": "EME754uZgI0",
+      "title": "260206 135404 小井手踏切 ２",
+      "description": "",
+      "publishedAt": "2026-02-06T09:45:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EME754uZgI0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EME754uZgI0"
+    },
+    {
+      "id": "n0vxYcad0pc",
+      "title": "260206 134936 小井手踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-02-06T09:45:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n0vxYcad0pc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n0vxYcad0pc"
+    },
+    {
+      "id": "BkcEj8jBuY0",
+      "title": "260206 134620 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-02-06T09:36:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BkcEj8jBuY0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BkcEj8jBuY0"
+    },
+    {
+      "id": "0-ir95ZUygw",
+      "title": "260206 134241 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-02-06T09:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0-ir95ZUygw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0-ir95ZUygw"
+    },
     {
       "id": "gsQ7UhzUuPY",
       "title": "260205 174001 近永第４踏切",

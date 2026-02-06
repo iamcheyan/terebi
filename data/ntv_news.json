@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-02-03T15:52:52.737345",
+  "updated_at": "2026-02-06T15:42:13.316698",
   "videos": [
+    {
+      "id": "34ucIPdkHQY",
+      "title": "Update",
+      "description": "",
+      "publishedAt": "2026-02-06T15:31:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/34ucIPdkHQY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=34ucIPdkHQY"
+    },
+    {
+      "id": "uSUMh0WZ5Dk",
+      "title": "Nebraska looks to rebound at Rutgers as Rienk Mast works back into form",
+      "description": "",
+      "publishedAt": "2026-02-05T23:45:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uSUMh0WZ5Dk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uSUMh0WZ5Dk"
+    },
     {
       "id": "lxugOIdKSvg",
       "title": "LPD update on missing Stromsburg couple.",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-02-02T15:39:18.268959",
+  "updated_at": "2026-02-06T15:42:26.008593",
   "videos": [
+    {
+      "id": "VyJZME3sa4Q",
+      "title": "【ネゴ図鑑】#191～エディオン 松江本店～",
+      "description": "",
+      "publishedAt": "2026-02-06T12:10:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VyJZME3sa4Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VyJZME3sa4Q"
+    },
+    {
+      "id": "jW-3Ck-IWas",
+      "title": "♯34「しまねっこの宅配便」みらいへの架け橋～高大連携推進員～",
+      "description": "",
+      "publishedAt": "2026-02-06T02:15:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jW-3Ck-IWas/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jW-3Ck-IWas"
+    },
     {
       "id": "hVGsYTJ-bvA",
       "title": "♯33「しまねっこの宅配便」わたしの仕事はカッコいい ～島根県職員～",

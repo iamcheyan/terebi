@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-02-03T15:53:01.100679",
+  "updated_at": "2026-02-06T15:42:36.592565",
   "videos": [
+    {
+      "id": "CIIfG650OeE",
+      "title": "KBS京都 衆院選2026 開票特番 ｜KBS京都テレビ",
+      "description": "",
+      "publishedAt": "2026-02-02T04:50:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CIIfG650OeE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CIIfG650OeE"
+    },
     {
       "id": "4Z1sWcttfqc",
       "title": "「京の風」不動産脚本家 扇沢友樹さん／京都経済テラス キュンと！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-02-01T15:29:04.413833",
+  "updated_at": "2026-02-06T15:42:56.586394",
   "videos": [
+    {
+      "id": "LdubBL6Y4XA",
+      "title": "【ライブ配信】2026衆院選　ZERO選挙　山形県選挙区",
+      "description": "",
+      "publishedAt": "2026-02-06T04:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LdubBL6Y4XA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LdubBL6Y4XA"
+    },
     {
       "id": "IgYgEolESic",
       "title": "やまがたサンデー５　２月１日放送分　従業員も会社も元気に！　健康経営のすすめ",

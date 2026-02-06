@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-02-04T15:45:03.844203",
+  "updated_at": "2026-02-06T15:42:33.044294",
   "videos": [
+    {
+      "id": "cgrfP_oEHXY",
+      "title": "tvk「新車情報」公式　ホンダ　レジェンド　1990年12月15日放送",
+      "description": "",
+      "publishedAt": "2026-02-06T09:00:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cgrfP_oEHXY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cgrfP_oEHXY"
+    },
+    {
+      "id": "QWwMCsnPWk4",
+      "title": "【日本一の大吟醸】かながわ蔵元めぐり「黄金井酒造 立春編」かながわ旬菜ナビ 2026/2/1放送",
+      "description": "",
+      "publishedAt": "2026-02-06T09:00:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QWwMCsnPWk4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QWwMCsnPWk4"
+    },
     {
       "id": "V3ZsP-tdW8E",
       "title": "【毎週ライブ】2026/2/4「関内デビル」水曜２０時の素材",

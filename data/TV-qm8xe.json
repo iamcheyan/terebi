@@ -1,8 +1,20 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-02-02T15:39:50.692601",
+  "updated_at": "2026-02-06T15:42:46.089493",
   "videos": [
+    {
+      "id": "Nil-7MS8gBg",
+      "title": "ときまるキャラバン⑰　郡山女子大附属幼稚園",
+      "description": "",
+      "publishedAt": "2026-02-06T04:56:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nil-7MS8gBg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nil-7MS8gBg"
+    },
     {
       "id": "h56CqKshZeM",
       "title": "福島美少女図鑑のイマコレ　LINEヤフー「お買い物AIアシスタント」",
