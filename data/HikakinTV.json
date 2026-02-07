@@ -1,8 +1,20 @@
 {
   "channel_id": "UCX1xppLvuj03ubLio8jslyA",
   "channel_name": "HikakinTV",
-  "updated_at": "2026-01-24T15:23:20.838479",
+  "updated_at": "2026-02-07T15:29:05.075718",
   "videos": [
+    {
+      "id": "5ZWA3MG7FLI",
+      "title": "ヒカキンで3連勝するまで終われない生配信",
+      "description": "",
+      "publishedAt": "2026-02-06T09:18:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5ZWA3MG7FLI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5ZWA3MG7FLI"
+    },
     {
       "id": "EG7ryASKyik",
       "title": "【APEX】ヒカキンにとってのALGS(ブロンズ12時間の死闘)チャンピオンとれるまで終われません【HINATIC - HikaF】",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-02-06T15:42:18.232455",
+  "updated_at": "2026-02-07T15:28:10.432647",
   "videos": [
+    {
+      "id": "c57BUIc5nzo",
+      "title": "【まるまる◎あいち】2026年2月7日放送 「あいち・なごや FASHION DAYS」",
+      "description": "",
+      "publishedAt": "2026-02-07T09:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c57BUIc5nzo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c57BUIc5nzo"
+    },
     {
       "id": "u9Dq_KwoC3k",
       "title": "【石神アナ】発表会で才能開花✨先生の一言がきっかけでアナウンサーへ😊🎤【アナメロ】",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCk2oG--VyYST4SYyQkeadjA",
   "channel_name": "UTYテレビ山梨",
-  "updated_at": "2026-02-06T15:42:08.859885",
+  "updated_at": "2026-02-07T15:28:41.618788",
   "videos": [
+    {
+      "id": "HDN4e3WXCGA",
+      "title": "河口湖ライブカメラ タイムラプス映像（2026年2月6日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-02-06T23:52:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HDN4e3WXCGA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HDN4e3WXCGA"
+    },
+    {
+      "id": "uRukK--GZJw",
+      "title": "精進湖ライブカメラ タイムラプス映像（2026年2月6日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-02-06T23:49:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uRukK--GZJw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uRukK--GZJw"
+    },
+    {
+      "id": "jqFHUnN5lqc",
+      "title": "西湖ライブカメラ タイムラプス映像（2026年2月6日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-02-06T23:47:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jqFHUnN5lqc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jqFHUnN5lqc"
+    },
+    {
+      "id": "RSEX1vRT4Kk",
+      "title": "山中湖ライブカメラ タイムラプス映像（2026年2月6日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-02-06T23:44:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RSEX1vRT4Kk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RSEX1vRT4Kk"
+    },
     {
       "id": "jxYdmWiXLdA",
       "title": "【衆議院選挙】終盤情勢　1区は中谷氏先行、中島氏猛追　2区は堀内氏が盤石な戦い　山梨",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-02-06T15:42:36.952456",
+  "updated_at": "2026-02-07T15:28:28.241516",
   "videos": [
+    {
+      "id": "Q6B-mV85NuM",
+      "title": "金沢市民野球場で「あぜのきらめき」",
+      "description": "",
+      "publishedAt": "2026-02-07T05:11:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q6B-mV85NuM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q6B-mV85NuM"
+    },
+    {
+      "id": "2slVnven62s",
+      "title": "金沢市で衆院選投票所の設営",
+      "description": "",
+      "publishedAt": "2026-02-07T05:07:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2slVnven62s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2slVnven62s"
+    },
     {
       "id": "jxfUfHSaaiI",
       "title": "石川県産フリージア「エアリーフローラ」品評会",

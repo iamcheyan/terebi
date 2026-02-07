@@ -1,8 +1,80 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-02-06T15:42:54.584793",
+  "updated_at": "2026-02-07T15:29:23.062000",
   "videos": [
+    {
+      "id": "7WsZRPQSqIA",
+      "title": "【テレQ番宣】ぐっ！ジョブ（2月14日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-02-07T15:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7WsZRPQSqIA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7WsZRPQSqIA"
+    },
+    {
+      "id": "8Vxoeek9M0s",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（2月14日（土）18:30～）",
+      "description": "",
+      "publishedAt": "2026-02-07T15:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8Vxoeek9M0s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8Vxoeek9M0s"
+    },
+    {
+      "id": "zQXKGwMZo_s",
+      "title": "2月14日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-02-07T12:01:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zQXKGwMZo_s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zQXKGwMZo_s"
+    },
+    {
+      "id": "W84yKrV5uwA",
+      "title": "アイライフスタイル ♯35 「リビングからバイクを眺めて」（テレQ 2025年2月7日放送）",
+      "description": "",
+      "publishedAt": "2026-02-07T11:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W84yKrV5uwA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W84yKrV5uwA"
+    },
+    {
+      "id": "SfjTnnCnJrs",
+      "title": "【テレQ番宣】ちょっと福岡行ってきました！（2月14日(土)20:00～",
+      "description": "",
+      "publishedAt": "2026-02-07T11:53:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SfjTnnCnJrs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SfjTnnCnJrs"
+    },
+    {
+      "id": "xMiZ0CLy1dY",
+      "title": "【テレQ番宣】はてなのてん（2月14日(土)18:30～）",
+      "description": "",
+      "publishedAt": "2026-02-07T09:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xMiZ0CLy1dY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xMiZ0CLy1dY"
+    },
     {
       "id": "yG6xY9e4o-s",
       "title": "【テレQ番宣】ブルーリバーの望むところだ！（2月8日（日）13:30～）",

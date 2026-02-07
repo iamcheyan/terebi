@@ -1,8 +1,32 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-02-02T15:39:33.553707",
+  "updated_at": "2026-02-07T15:28:07.090246",
   "videos": [
+    {
+      "id": "pHkdhyXx_bo",
+      "title": "LIVE【第27回青森県・げんねんジュニアロボットコンテスト】",
+      "description": "",
+      "publishedAt": "2026-02-07T07:38:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pHkdhyXx_bo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pHkdhyXx_bo"
+    },
+    {
+      "id": "cjOsocE_3JU",
+      "title": "LIVE【第27回青森県・げんねんジュニアロボットコンテスト　ロボコップ相撲－六ヶ所場所－】",
+      "description": "",
+      "publishedAt": "2026-02-07T05:14:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cjOsocE_3JU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cjOsocE_3JU"
+    },
     {
       "id": "F-bkA1Lbi1g",
       "title": "【#旅々スミマセン】青森市長島界隈でアポなし散歩　昔ながらの焼き干しスープが人気のラーメン店へ　生卵がのった月見ラーメンとチャーシューメンを堪能",

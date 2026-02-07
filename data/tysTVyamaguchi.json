@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9r31LvpWhWU0aJdAirOZDQ",
   "channel_name": "テレビ山口（tys）",
-  "updated_at": "2026-01-12T15:28:56.976056",
+  "updated_at": "2026-02-07T15:28:29.021589",
   "videos": [
+    {
+      "id": "mzJzYv5Hu2s",
+      "title": "【ライブ配信】山口市・ｔｙｓ本社ライブカメラ（仁保川） ＜tysテレビ山口【公式】＞",
+      "description": "",
+      "publishedAt": "2026-02-07T01:48:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mzJzYv5Hu2s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mzJzYv5Hu2s"
+    },
+    {
+      "id": "ihPEMsh1mFw",
+      "title": "【ライブ配信】山口県下関市・関門橋　ライブカメラ ＜tysテレビ山口【公式】＞",
+      "description": "",
+      "publishedAt": "2026-02-07T01:43:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ihPEMsh1mFw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ihPEMsh1mFw"
+    },
     {
       "id": "jP-6RidCEIU",
       "title": "【ライブ配信】テレオンふゆフェスタ 会場から生配信中！！ 2026/1/12",
