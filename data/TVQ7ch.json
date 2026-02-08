@@ -1,8 +1,20 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-02-07T15:29:23.062000",
+  "updated_at": "2026-02-08T15:29:56.586946",
   "videos": [
+    {
+      "id": "RQLAxXgStRQ",
+      "title": "濱田賞／リンパラ！ ♯45（テレQ2026年2月7日放送）",
+      "description": "",
+      "publishedAt": "2026-02-07T15:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RQLAxXgStRQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RQLAxXgStRQ"
+    },
     {
       "id": "7WsZRPQSqIA",
       "title": "【テレQ番宣】ぐっ！ジョブ（2月14日（土）14:30～）",

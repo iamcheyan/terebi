@@ -1,8 +1,20 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-02-07T15:28:03.214244",
+  "updated_at": "2026-02-08T15:29:31.937296",
   "videos": [
+    {
+      "id": "nKiZQkTbHIQ",
+      "title": "【キッズチャレンジスタジアム】りくくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-02-08T03:00:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nKiZQkTbHIQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nKiZQkTbHIQ"
+    },
     {
       "id": "BYakCMi8LXU",
       "title": "【馬場のぶえのひろしま脳トレ】第43回「夜間急病センター　適切な受診で安心の医療へ」",

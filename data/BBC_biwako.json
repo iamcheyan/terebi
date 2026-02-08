@@ -1,8 +1,20 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-02-07T15:28:39.617600",
+  "updated_at": "2026-02-08T15:29:29.321471",
   "videos": [
+    {
+      "id": "HwX6FljibhQ",
+      "title": "20260208県南部でも雪",
+      "description": "",
+      "publishedAt": "2026-02-08T09:49:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HwX6FljibhQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HwX6FljibhQ"
+    },
     {
       "id": "fiudsOguUhU",
       "title": "【企業密着】なぜ連日売り切れ？滋賀で話題の人気パン屋｜合同会社麦ノ音（滋賀経済NOW）2026年2月7日放送",

@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-07T15:29:34.991636",
+  "updated_at": "2026-02-08T15:30:00.719336",
   "videos": [
+    {
+      "id": "yrAIV85uXE8",
+      "title": "今週の予土線 The Yodo Line Weekly 2026 02 08",
+      "description": "",
+      "publishedAt": "2026-02-08T15:06:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yrAIV85uXE8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yrAIV85uXE8"
+    },
+    {
+      "id": "y8KFocpNcxo",
+      "title": "260208 134407 伊予宮野下駅（かっぱ列車行き違い）",
+      "description": "",
+      "publishedAt": "2026-02-08T11:06:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y8KFocpNcxo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y8KFocpNcxo"
+    },
+    {
+      "id": "C5cyWYtG1dQ",
+      "title": "260208 133926 雪の残る宮野下第２踏切",
+      "description": "",
+      "publishedAt": "2026-02-08T11:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C5cyWYtG1dQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C5cyWYtG1dQ"
+    },
+    {
+      "id": "rJP3-L_yag8",
+      "title": "260208 132527 雪の残る小井手踏切",
+      "description": "",
+      "publishedAt": "2026-02-08T10:45:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rJP3-L_yag8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rJP3-L_yag8"
+    },
+    {
+      "id": "3CBuKOFlXCg",
+      "title": "260208 131922 雪の残るちいさな鉄橋（金銅橋）",
+      "description": "",
+      "publishedAt": "2026-02-08T10:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3CBuKOFlXCg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3CBuKOFlXCg"
+    },
+    {
+      "id": "V5cIWqu0-aw",
+      "title": "260208 130934 雪の残る持合踏切",
+      "description": "",
+      "publishedAt": "2026-02-08T10:14:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V5cIWqu0-aw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V5cIWqu0-aw"
+    },
     {
       "id": "lqdyBZhvYL8",
       "title": "260207 153839 雨の大内第２踏切（黄色い列車通過）",

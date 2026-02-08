@@ -1,8 +1,20 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-02-07T15:28:07.090246",
+  "updated_at": "2026-02-08T15:29:40.748620",
   "videos": [
+    {
+      "id": "gT6a6xLMtoU",
+      "title": "【LIVE】衆議院選挙2026 青森選挙区 開票速報 特別番組ライブ配信　2月8日午後7時30分～　#衆議院選挙2026　#選挙速報",
+      "description": "",
+      "publishedAt": "2026-02-04T09:22:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gT6a6xLMtoU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gT6a6xLMtoU"
+    },
     {
       "id": "pHkdhyXx_bo",
       "title": "LIVE【第27回青森県・げんねんジュニアロボットコンテスト】",

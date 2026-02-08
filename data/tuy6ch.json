@@ -1,8 +1,44 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2026-02-07T15:29:22.309472",
+  "updated_at": "2026-02-08T15:29:56.273369",
   "videos": [
+    {
+      "id": "BOxZamVze0k",
+      "title": "LIVE映像　山形空港｜Live streaming from YAMAGATA AIRPORT",
+      "description": "",
+      "publishedAt": "2026-02-08T08:05:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BOxZamVze0k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BOxZamVze0k"
+    },
+    {
+      "id": "F4bfMMmCVlg",
+      "title": "衆議院議員選挙　山形県選挙区　LIVE配信",
+      "description": "",
+      "publishedAt": "2026-02-08T08:03:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F4bfMMmCVlg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F4bfMMmCVlg"
+    },
+    {
+      "id": "LeXK_nHLO4U",
+      "title": "自分らしい働き方を選ぶ",
+      "description": "",
+      "publishedAt": "2026-02-08T04:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LeXK_nHLO4U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LeXK_nHLO4U"
+    },
     {
       "id": "N6NqRP2EgE8",
       "title": "ひと駅分歩けば新たな出会いが!?大福＆蕎麦＆巨大パフェ",

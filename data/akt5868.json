@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-02-07T15:28:58.147454",
+  "updated_at": "2026-02-08T15:29:44.324926",
   "videos": [
+    {
+      "id": "dOd53lHOyso",
+      "title": "あだまっこ体操！　2026年2月8日放送分",
+      "description": "",
+      "publishedAt": "2026-02-07T21:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dOd53lHOyso/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dOd53lHOyso"
+    },
     {
       "id": "ZopKz2DZMTY",
       "title": "とびまめっ!!　～バレンタインデー企画！お菓子作り講座2～　2026年2月6日放送分",

@@ -1,8 +1,152 @@
 {
   "channel_id": "UC4wpY8jmg-n4W-UddQBr1Ag",
   "channel_name": "TKUテレビ熊本",
-  "updated_at": "2026-02-07T15:29:20.071332",
+  "updated_at": "2026-02-08T15:29:55.477441",
   "videos": [
+    {
+      "id": "1x0qM1SYmrE",
+      "title": "LIVE選挙サンデーTKU開票速報",
+      "description": "",
+      "publishedAt": "2026-02-08T14:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1x0qM1SYmrE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1x0qM1SYmrE"
+    },
+    {
+      "id": "i7lLrFPQORM",
+      "title": "子ども大学くまもと 九州ルーテル学院大学で３月１５日（日）開講【熊本】 (26/02/08 18:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T09:21:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i7lLrFPQORM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i7lLrFPQORM"
+    },
+    {
+      "id": "Sl9goehNYZE",
+      "title": "菊陽町でスケートボードや自転車のＢＭＸなどアーバンスポーツフェス【熊本】 (26/02/08 18:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T09:19:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Sl9goehNYZE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Sl9goehNYZE"
+    },
+    {
+      "id": "rSk8dGwTK3U",
+      "title": "あさぎり町で納屋を全焼 女性が病院に搬送【熊本】 (26/02/08 18:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T09:18:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rSk8dGwTK3U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rSk8dGwTK3U"
+    },
+    {
+      "id": "ONQ4whIxElU",
+      "title": "あさぎり町で軽自動車がブロック塀に衝突し運転していた高齢女性が死亡【熊本】 (26/02/08 18:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T09:17:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ONQ4whIxElU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ONQ4whIxElU"
+    },
+    {
+      "id": "9H8tivj-omM",
+      "title": "熊本県内は８日明け方から雪が降りピークは過ぎたが交通機関に影響【熊本】 (26/02/08 18:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T09:16:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9H8tivj-omM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9H8tivj-omM"
+    },
+    {
+      "id": "xzjb7WZphwE",
+      "title": "衆院選 熊本県内でも投票進む（午後４時現在の推定投票率１９．４８％） (26/02/08 18:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T09:14:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xzjb7WZphwE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xzjb7WZphwE"
+    },
+    {
+      "id": "hudOcl1o_RA",
+      "title": "九州道下りトラック横転　最大７キロの渋滞【熊本】 (26/02/06 19:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T03:31:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hudOcl1o_RA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hudOcl1o_RA"
+    },
+    {
+      "id": "_Z09AG7KcH0",
+      "title": "熊本県弁護士会の６７０万円不正に引き出し業務停止５カ月の懲戒処分【熊本】 (26/02/06 19:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T03:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_Z09AG7KcH0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_Z09AG7KcH0"
+    },
+    {
+      "id": "FNMBWL7otCI",
+      "title": "熊本県立大学　発注や代金の未払いなど不適切な事務処理で懲戒処分【熊本】 (26/02/06 19:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T03:28:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FNMBWL7otCI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FNMBWL7otCI"
+    },
+    {
+      "id": "Onig0bMPLFo",
+      "title": "熊本県内でも降雪と強風　交通機関にも影響 (26/02/08 12:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T03:26:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Onig0bMPLFo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Onig0bMPLFo"
+    },
+    {
+      "id": "UUbTUkL7MuU",
+      "title": "衆院選投開票　熊本県内でも投票始まる【熊本】 (26/02/08 12:00)",
+      "description": "",
+      "publishedAt": "2026-02-08T03:25:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UUbTUkL7MuU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UUbTUkL7MuU"
+    },
     {
       "id": "SdF3tA92kIA",
       "title": "れいわ新選組の山本　太郎代表が熊本入りし街頭で支持を呼びかけ【熊本】 (26/02/07 18:00)",

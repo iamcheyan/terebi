@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-02-07T15:28:09.826358",
+  "updated_at": "2026-02-08T15:29:21.190361",
   "videos": [
+    {
+      "id": "5D1iVdga0sI",
+      "title": "第25回和歌山県市町村対抗ジュニア駅伝競走大会LIVE",
+      "description": "",
+      "publishedAt": "2026-02-08T03:46:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5D1iVdga0sI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5D1iVdga0sI"
+    },
     {
       "id": "R7i0OdSR9i8",
       "title": "和歌山de乾杯!078 岩出市・KOREANBARシン・ソウル後編",

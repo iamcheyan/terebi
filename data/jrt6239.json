@@ -1,8 +1,32 @@
 {
   "channel_id": "UCuhA-fogYs0MwglwZbnL_8A",
   "channel_name": "四国放送（JRT）",
-  "updated_at": "2026-02-07T15:28:06.423951",
+  "updated_at": "2026-02-08T15:29:31.264990",
   "videos": [
+    {
+      "id": "rbHncbebhx0",
+      "title": "【衆院選】徳島2区　自民党の前職・山口俊一氏（75）当選",
+      "description": "",
+      "publishedAt": "2026-02-08T13:22:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rbHncbebhx0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rbHncbebhx0"
+    },
+    {
+      "id": "M4BbQmgWItw",
+      "title": "【衆院選】徳島１区　自民党の前職・仁木博文氏（59）当選",
+      "description": "",
+      "publishedAt": "2026-02-08T13:19:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M4BbQmgWItw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M4BbQmgWItw"
+    },
     {
       "id": "nJGL4CQeosU",
       "title": "ヴォルティス通信2026#01 開幕直前ファンミーティング",

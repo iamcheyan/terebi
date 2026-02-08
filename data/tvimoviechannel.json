@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-06T15:42:54.356426",
+  "updated_at": "2026-02-08T15:29:56.448316",
   "videos": [
+    {
+      "id": "S-eZgyyZG1A",
+      "title": "今日の５きげんテレビ（2月9日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-02-08T15:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S-eZgyyZG1A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S-eZgyyZG1A"
+    },
     {
       "id": "qrhaVTgyXVs",
       "title": "５きげんクッキング ～新タマネギの肉巻き照り焼き～",
