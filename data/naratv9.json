@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-02-05T15:42:42.533659",
+  "updated_at": "2026-02-09T15:59:06.897810",
   "videos": [
+    {
+      "id": "ec09c4GMwt8",
+      "title": "【衆院選2026】ゆうドキッ！衆院選スペシャル　高市早苗総裁クロストーク",
+      "description": "",
+      "publishedAt": "2026-02-09T06:53:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ec09c4GMwt8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ec09c4GMwt8"
+    },
     {
       "id": "SN534T5D7hE",
       "title": "節分会（吉野・金峯山寺）　提供：奈良テレビ放送",

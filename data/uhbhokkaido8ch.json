@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-02-07T15:29:25.840372",
+  "updated_at": "2026-02-09T15:59:26.829331",
   "videos": [
+    {
+      "id": "A3aQ1ZMLXLI",
+      "title": "みんテレ　2月10日（火）放送",
+      "description": "",
+      "publishedAt": "2026-02-09T10:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A3aQ1ZMLXLI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A3aQ1ZMLXLI"
+    },
+    {
+      "id": "b_rykRxt2EA",
+      "title": "Yagien Ballpark　2月13日（金）放送",
+      "description": "",
+      "publishedAt": "2026-02-09T06:57:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b_rykRxt2EA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b_rykRxt2EA"
+    },
     {
       "id": "Y8Ag3HqGvBs",
       "title": "いっとこ！：2月14日（土）放送",

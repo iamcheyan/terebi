@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-02-08T15:29:51.911690",
+  "updated_at": "2026-02-09T15:59:19.510028",
   "videos": [
+    {
+      "id": "diG8mOlb51k",
+      "title": "【2月13日(金) 午後3時49分～】かごよんフライデー",
+      "description": "",
+      "publishedAt": "2026-02-09T05:51:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/diG8mOlb51k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=diG8mOlb51k"
+    },
+    {
+      "id": "rMOm1mR7AlI",
+      "title": "#5 いちき串木野市立羽島中学校（2/2放送）",
+      "description": "",
+      "publishedAt": "2026-02-09T03:25:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rMOm1mR7AlI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rMOm1mR7AlI"
+    },
     {
       "id": "RUiViqejJRA",
       "title": "ふくしのラジオ!　EP#148　『作業療法士と理学療法士の違いについて』",

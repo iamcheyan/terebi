@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-02-07T15:28:15.297652",
+  "updated_at": "2026-02-09T15:58:57.601025",
   "videos": [
+    {
+      "id": "E7oO6UKaaIg",
+      "title": "【LBS】水素ロースター",
+      "description": "",
+      "publishedAt": "2026-02-09T12:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E7oO6UKaaIg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E7oO6UKaaIg"
+    },
     {
       "id": "ja9VIXzg9LQ",
       "title": "【愛知最大級のSA】NEOPASA岡崎（愛知県岡崎市）【あまドラ～天野っちのドライブしよう！！～】",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-02-07T15:28:22.665775",
+  "updated_at": "2026-02-09T15:58:31.779893",
   "videos": [
+    {
+      "id": "NdyRzgI6Yx0",
+      "title": "猫のひたいほどワイド #1691 潜入リポート・牧田習「もう一度会いたい！思い出のパラダイスへ」（横浜市金沢区）",
+      "description": "",
+      "publishedAt": "2026-02-09T06:22:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NdyRzgI6Yx0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NdyRzgI6Yx0"
+    },
+    {
+      "id": "KRxdaeteliQ",
+      "title": "猫のひたいほどワイド #1691 こぼれタネ「森林に関心を！ティンバースポーツに挑戦」（小田原市）",
+      "description": "",
+      "publishedAt": "2026-02-09T06:22:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KRxdaeteliQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KRxdaeteliQ"
+    },
+    {
+      "id": "eeIzPOodKGE",
+      "title": "カナフルTV　次回予告（2月22日放送）",
+      "description": "",
+      "publishedAt": "2026-02-09T04:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eeIzPOodKGE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eeIzPOodKGE"
+    },
     {
       "id": "zMY1oRQ7Ne0",
       "title": "ハマナビ　次回予告（2月14日放送）",

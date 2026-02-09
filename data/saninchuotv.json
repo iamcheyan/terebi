@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-02-06T15:42:26.008593",
+  "updated_at": "2026-02-09T15:59:07.693534",
   "videos": [
+    {
+      "id": "la_poIKXNng",
+      "title": "第39回富士通Japan囲碁まつり",
+      "description": "",
+      "publishedAt": "2026-01-20T00:44:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/la_poIKXNng/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=la_poIKXNng"
+    },
     {
       "id": "VyJZME3sa4Q",
       "title": "【ネゴ図鑑】#191～エディオン 松江本店～",

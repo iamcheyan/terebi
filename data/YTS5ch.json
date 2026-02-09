@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-02-07T15:28:27.105993",
+  "updated_at": "2026-02-09T15:58:53.914447",
   "videos": [
+    {
+      "id": "CbkfRM8RfIU",
+      "title": "”史上最年少”プロムエタイ選手【金曜スポーツ】",
+      "description": "",
+      "publishedAt": "2026-02-09T01:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CbkfRM8RfIU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CbkfRM8RfIU"
+    },
     {
       "id": "7hULgAu0BnY",
       "title": "第2815回 最低賃金改正 地方から見える労働環境「提言の広場」",

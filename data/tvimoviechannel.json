@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-08T15:29:56.448316",
+  "updated_at": "2026-02-09T15:59:25.461891",
   "videos": [
+    {
+      "id": "mlCW0AiTO-k",
+      "title": "今日の５きげんテレビ（2月10日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-02-09T15:01:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mlCW0AiTO-k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mlCW0AiTO-k"
+    },
+    {
+      "id": "OoaZXlKhkUs",
+      "title": "５きげんクッキング ～クラムチャウダー～",
+      "description": "",
+      "publishedAt": "2026-02-09T08:56:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OoaZXlKhkUs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OoaZXlKhkUs"
+    },
     {
       "id": "S-eZgyyZG1A",
       "title": "今日の５きげんテレビ（2月9日）｜テレビ岩手",
