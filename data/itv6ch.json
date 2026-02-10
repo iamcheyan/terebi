@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-02-07T15:29:28.078200",
+  "updated_at": "2026-02-10T16:08:48.322961",
   "videos": [
+    {
+      "id": "eUhWEdrAKnA",
+      "title": "愛媛のニュース(02月10日)",
+      "description": "",
+      "publishedAt": "2026-02-10T11:36:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eUhWEdrAKnA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eUhWEdrAKnA"
+    },
+    {
+      "id": "7biyl7Ol1dc",
+      "title": "愛媛MP 夢のクロスロード 必勝祈願",
+      "description": "",
+      "publishedAt": "2026-02-10T03:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7biyl7Ol1dc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7biyl7Ol1dc"
+    },
+    {
+      "id": "7PnZ6YIsKZg",
+      "title": "愛媛のニュース(02月09日)",
+      "description": "",
+      "publishedAt": "2026-02-10T02:13:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7PnZ6YIsKZg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7PnZ6YIsKZg"
+    },
     {
       "id": "DO9suDqIo7c",
       "title": "愛媛のニュース(02月07日)",

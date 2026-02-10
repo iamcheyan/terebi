@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-02-09T15:58:57.601025",
+  "updated_at": "2026-02-10T16:07:49.301128",
   "videos": [
+    {
+      "id": "6OE4wxgrjQk",
+      "title": "【鍋屋バイテック】現在開発中の磁気送りねじを紹介【開発現場へ行こう #52】",
+      "description": "",
+      "publishedAt": "2026-02-10T14:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6OE4wxgrjQk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6OE4wxgrjQk"
+    },
+    {
+      "id": "3TEatT0ehA0",
+      "title": "『おばあの正拳突き』　～旅さらばスピンオフ～　ブクロの人生100年旅　テレビ愛知で2月14日（土）深夜24時55分放送",
+      "description": "",
+      "publishedAt": "2026-02-10T11:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3TEatT0ehA0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3TEatT0ehA0"
+    },
     {
       "id": "E7oO6UKaaIg",
       "title": "【LBS】水素ロースター",

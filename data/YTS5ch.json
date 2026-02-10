@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-02-09T15:58:53.914447",
+  "updated_at": "2026-02-10T16:08:16.537513",
   "videos": [
+    {
+      "id": "mzD03LO_4bA",
+      "title": "タイムスリップ！昭和54年、山形と大阪を結んだ空の玄関口",
+      "description": "",
+      "publishedAt": "2026-02-10T02:06:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mzD03LO_4bA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mzD03LO_4bA"
+    },
+    {
+      "id": "8eOQxONd7nY",
+      "title": "明治パーラー、山形駅前にオープン！美空ひばりさんからもお祝いの花輪",
+      "description": "",
+      "publishedAt": "2026-02-10T02:06:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8eOQxONd7nY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8eOQxONd7nY"
+    },
     {
       "id": "CbkfRM8RfIU",
       "title": "”史上最年少”プロムエタイ選手【金曜スポーツ】",

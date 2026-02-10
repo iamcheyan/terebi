@@ -1,8 +1,80 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-02-09T15:59:21.980662",
+  "updated_at": "2026-02-10T16:08:42.429991",
   "videos": [
+    {
+      "id": "kIK2sXMUnZY",
+      "title": "「高知龍馬マラソン　給水所のエイドメニューが大好評！特に人気の『かつおめし』を取材」2026/2/10放送",
+      "description": "",
+      "publishedAt": "2026-02-10T10:01:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kIK2sXMUnZY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kIK2sXMUnZY"
+    },
+    {
+      "id": "YczRUr-V9gc",
+      "title": "「絵師・柳太郎さんが須崎をテーマに描いたアート 銀座で個展」2026/2/10放送",
+      "description": "",
+      "publishedAt": "2026-02-10T10:00:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YczRUr-V9gc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YczRUr-V9gc"
+    },
+    {
+      "id": "b4iaBYua5QQ",
+      "title": "《久礼大正町市場のチャレンジショップ事業》新たな挑戦で市場のにぎわいを未来に」2026/2/10放送",
+      "description": "",
+      "publishedAt": "2026-02-10T10:00:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b4iaBYua5QQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b4iaBYua5QQ"
+    },
+    {
+      "id": "JlsM7UtaUwQ",
+      "title": "《高知市の深刻な渇水》2月12日から1次給水制限　大渡ダムは3月上旬、鏡ダムは4月上旬に取水できなくなる見通しも」2026/2/10放送",
+      "description": "",
+      "publishedAt": "2026-02-10T10:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JlsM7UtaUwQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JlsM7UtaUwQ"
+    },
+    {
+      "id": "AHzFXowRpzc",
+      "title": "「週間きになっちゅーぶ！投稿動画ランキングTOP5🏆 2026/2/1-2/7」",
+      "description": "",
+      "publishedAt": "2026-02-10T09:21:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AHzFXowRpzc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AHzFXowRpzc"
+    },
+    {
+      "id": "vouxQpQCV38",
+      "title": "「柑橘の女王『せとか』香南市で出荷始まる」2026/2/10放送",
+      "description": "",
+      "publishedAt": "2026-02-10T07:43:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vouxQpQCV38/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vouxQpQCV38"
+    },
     {
       "id": "krsjQLe8c2s",
       "title": "「自民党が歴史的な大勝 高知県内の2つの選挙区も自民党が議席を守る」2026/2/9放送",

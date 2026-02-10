@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-02-09T15:59:22.174733",
+  "updated_at": "2026-02-10T16:08:42.241732",
   "videos": [
+    {
+      "id": "3hzBC3AAws0",
+      "title": "【番宣】２月１２日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-02-10T07:19:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3hzBC3AAws0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3hzBC3AAws0"
+    },
+    {
+      "id": "CG7EH6WoIuQ",
+      "title": "【番宣】２月１１日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-02-10T00:27:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CG7EH6WoIuQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CG7EH6WoIuQ"
+    },
     {
       "id": "P3Ekq3io34w",
       "title": "【番宣】２月１０日（火）NEWSゲツキン",

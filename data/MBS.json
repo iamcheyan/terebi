@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-02-09T15:58:37.520475",
+  "updated_at": "2026-02-10T16:08:14.136583",
   "videos": [
+    {
+      "id": "422P7CncmLw",
+      "title": "★2月14日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-02-10T08:15:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/422P7CncmLw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=422P7CncmLw"
+    },
     {
       "id": "n7wxhcVzm8Q",
       "title": "NOA初単独主演ドラマ「救い、巣喰われ」OP主題歌ver.30秒予告映像解禁！2/12START",

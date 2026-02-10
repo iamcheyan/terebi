@@ -1,8 +1,104 @@
 {
   "channel_id": "UCyHdFYJyt4Ihwuscuk5ALJA",
   "channel_name": "広テレ!NEWS",
-  "updated_at": "2026-02-09T15:58:58.693409",
+  "updated_at": "2026-02-10T16:08:18.762237",
   "videos": [
+    {
+      "id": "mpge8GzX-Mc",
+      "title": "スポーツツーリズム最前線！長崎スタジアムシティの魅力を取材",
+      "description": "",
+      "publishedAt": "2026-02-10T13:53:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mpge8GzX-Mc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mpge8GzX-Mc"
+    },
+    {
+      "id": "PzG-wyRku5s",
+      "title": "五輪スノーボード　メダルラッシュに広島でも注目UP　「始める人増えるのでは」",
+      "description": "",
+      "publishedAt": "2026-02-10T11:09:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PzG-wyRku5s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PzG-wyRku5s"
+    },
+    {
+      "id": "iZ6pG4bKRvQ",
+      "title": "広島のカキの現状と今できる支援",
+      "description": "",
+      "publishedAt": "2026-02-10T11:08:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iZ6pG4bKRvQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iZ6pG4bKRvQ"
+    },
+    {
+      "id": "1vDhK0m1DYA",
+      "title": "衆院選　広島選挙区の6人に当選証書「広島と日本のために頑張る」",
+      "description": "",
+      "publishedAt": "2026-02-10T11:07:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1vDhK0m1DYA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1vDhK0m1DYA"
+    },
+    {
+      "id": "yWcOLnobycM",
+      "title": "マツダが赤字決算　2025年4月～12月期　トランプ関税などが影響　通期では黒字目指す",
+      "description": "",
+      "publishedAt": "2026-02-10T11:06:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yWcOLnobycM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yWcOLnobycM"
+    },
+    {
+      "id": "zpymrsmwEMo",
+      "title": "広島県公立高校入試 志願倍率が0.96倍",
+      "description": "",
+      "publishedAt": "2026-02-10T11:05:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zpymrsmwEMo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zpymrsmwEMo"
+    },
+    {
+      "id": "qmmKFWtfcZA",
+      "title": "衆院選「ふるさと広島と日本のために頑張ってまいりたい」当選者が証書受け取り",
+      "description": "",
+      "publishedAt": "2026-02-10T04:29:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qmmKFWtfcZA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qmmKFWtfcZA"
+    },
+    {
+      "id": "RiVXG1TXorA",
+      "title": "住宅火災　焼け跡から1人の遺体　広島・三原市",
+      "description": "",
+      "publishedAt": "2026-02-10T04:28:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RiVXG1TXorA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RiVXG1TXorA"
+    },
     {
       "id": "6-QZBzkTJJI",
       "title": "総選挙　初当選の自民・山本深さん　国民・鍋島勢理さんの選挙戦",

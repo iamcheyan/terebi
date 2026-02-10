@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-09T15:59:25.461891",
+  "updated_at": "2026-02-10T16:08:45.385361",
   "videos": [
+    {
+      "id": "wq0lF_qO5Fg",
+      "title": "５きげん知恵袋 ～新タマネギ～",
+      "description": "",
+      "publishedAt": "2026-02-10T09:14:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wq0lF_qO5Fg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wq0lF_qO5Fg"
+    },
     {
       "id": "mlCW0AiTO-k",
       "title": "今日の５きげんテレビ（2月10日）｜テレビ岩手",
