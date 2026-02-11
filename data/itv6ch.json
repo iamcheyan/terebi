@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-02-10T16:08:48.322961",
+  "updated_at": "2026-02-11T16:06:03.567865",
   "videos": [
+    {
+      "id": "d8llzmI8XCw",
+      "title": "愛媛のニュース(02月11日)",
+      "description": "",
+      "publishedAt": "2026-02-11T11:38:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d8llzmI8XCw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d8llzmI8XCw"
+    },
+    {
+      "id": "8e5krFX3e90",
+      "title": "愛媛MP 夢のクロスロード 合同自主トレ初日",
+      "description": "",
+      "publishedAt": "2026-02-11T03:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8e5krFX3e90/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8e5krFX3e90"
+    },
     {
       "id": "eUhWEdrAKnA",
       "title": "愛媛のニュース(02月10日)",

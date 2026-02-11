@@ -1,8 +1,20 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-02-10T16:08:21.770125",
+  "updated_at": "2026-02-11T16:05:08.508875",
   "videos": [
+    {
+      "id": "svJgH4fHkGo",
+      "title": "Episode4　結太朗 念願の結神社へ",
+      "description": "",
+      "publishedAt": "2026-02-11T12:45:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/svJgH4fHkGo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=svJgH4fHkGo"
+    },
     {
       "id": "0dWiWbVnxQg",
       "title": "【いろはに千鳥】千鳥も唸る！最強のしめ、ついに登場【2/17予告】",

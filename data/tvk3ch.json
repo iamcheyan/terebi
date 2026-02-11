@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-02-10T16:08:02.600761",
+  "updated_at": "2026-02-11T16:05:14.114134",
   "videos": [
+    {
+      "id": "Cd6NxZPg1Vg",
+      "title": "カナフルTV　2月8日　最新技術で未病を「見える化」～健康づくりを目指して〜",
+      "description": "",
+      "publishedAt": "2026-02-11T04:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cd6NxZPg1Vg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cd6NxZPg1Vg"
+    },
+    {
+      "id": "bQ5cfYdu8Vg",
+      "title": "かながわ旬菜ナビ　次回予告（2月15放送）",
+      "description": "",
+      "publishedAt": "2026-02-11T03:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bQ5cfYdu8Vg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bQ5cfYdu8Vg"
+    },
     {
       "id": "jQWlWQqDvjA",
       "title": "tvk「クルマでいこう！」公式 藤トモEYE 東京オートサロン2026 パート１ 2026/2/1放送(#925)",

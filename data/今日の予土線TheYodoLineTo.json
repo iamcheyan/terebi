@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-10T16:08:51.373563",
+  "updated_at": "2026-02-11T16:06:08.904911",
   "videos": [
+    {
+      "id": "mOY5Yi007mA",
+      "title": "260211 155447 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-02-11T11:30:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mOY5Yi007mA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mOY5Yi007mA"
+    },
+    {
+      "id": "ZmVuavAgaa8",
+      "title": "260211 155119 失われた踏切を求めて（兼近第３踏切から兼近第１踏切へ、失われた兼近第２踏切の痕跡を探すpart2）",
+      "description": "",
+      "publishedAt": "2026-02-11T11:15:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZmVuavAgaa8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZmVuavAgaa8"
+    },
+    {
+      "id": "1QMpIMg2iWg",
+      "title": "260211 154818 失われた踏切を求めて（兼近第３踏切から兼近第１踏切へ、失われた兼近第２踏切の痕跡を探すpart1）",
+      "description": "",
+      "publishedAt": "2026-02-11T11:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1QMpIMg2iWg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1QMpIMg2iWg"
+    },
+    {
+      "id": "X_7w08V5dlg",
+      "title": "260211 153522 兼近第１踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-02-11T10:42:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X_7w08V5dlg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X_7w08V5dlg"
+    },
+    {
+      "id": "4P9leTUgzU4",
+      "title": "260211 153056 兼近第１踏切 ２",
+      "description": "",
+      "publishedAt": "2026-02-11T10:41:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4P9leTUgzU4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4P9leTUgzU4"
+    },
+    {
+      "id": "3cnT4_TxlLs",
+      "title": "260211 152713 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-02-11T10:23:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3cnT4_TxlLs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3cnT4_TxlLs"
+    },
     {
       "id": "g47ydCJ18sU",
       "title": "260210 173641 雨の兼近第３踏切",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-02-10T16:08:13.467291",
+  "updated_at": "2026-02-11T16:05:29.954793",
   "videos": [
+    {
+      "id": "Qz_lDbq-WWE",
+      "title": "【2月6日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-02-11T03:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Qz_lDbq-WWE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Qz_lDbq-WWE"
+    },
     {
       "id": "e_lpNkXYsIU",
       "title": "ドキッと情報「『次元を超える』イベント in ピアッツアホテル奈良」",
