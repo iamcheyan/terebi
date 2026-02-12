@@ -1,8 +1,32 @@
 {
   "channel_id": "UCnp_CD_FN7HFD1DhR47uHDw",
   "channel_name": "西日本放送（RNC）",
-  "updated_at": "2026-02-10T16:07:49.813259",
+  "updated_at": "2026-02-12T15:55:45.611071",
   "videos": [
+    {
+      "id": "Clrs7xCVN7Q",
+      "title": "かがわマラソン２０２６ フィニッシュチャンネル",
+      "description": "",
+      "publishedAt": "2026-02-12T05:34:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Clrs7xCVN7Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Clrs7xCVN7Q"
+    },
+    {
+      "id": "fP_ODuEjclA",
+      "title": "かがわマラソン２０２６スタートチャンネル",
+      "description": "",
+      "publishedAt": "2026-02-12T04:56:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fP_ODuEjclA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fP_ODuEjclA"
+    },
     {
       "id": "WBCoSHCBBFI",
       "title": "【特選うどんin岡山】箸が透き通るような透明感！？極上の麺を堪能あれ！【いしば志離れ】　2026/02/09放送",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-02-11T16:05:05.097405",
+  "updated_at": "2026-02-12T15:55:40.454736",
   "videos": [
+    {
+      "id": "7iRa1OwweN8",
+      "title": "【ななスパBIZ】トライフープ岡山・石原選手生出演！生放送で岐阜戦への意気込み",
+      "description": "",
+      "publishedAt": "2026-02-12T10:29:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7iRa1OwweN8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7iRa1OwweN8"
+    },
+    {
+      "id": "0nC9ws-BSJA",
+      "title": "【LIVE】 岡山桃太郎空港　岡山市",
+      "description": "",
+      "publishedAt": "2026-02-12T02:34:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0nC9ws-BSJA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0nC9ws-BSJA"
+    },
     {
       "id": "dw7_kyui0IM",
       "title": "岡山県信用保証協会スペシャル　未来へ挑む！晴れの国カンパニー　＃１７ 三冠酒造（倉敷市）",

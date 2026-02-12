@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-02-10T16:08:45.576555",
+  "updated_at": "2026-02-12T15:56:35.905988",
   "videos": [
+    {
+      "id": "emkj2p5Las0",
+      "title": "【夢クルーズ】594 九州国立博物館 (2026年2月12日放送)",
+      "description": "",
+      "publishedAt": "2026-02-12T12:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/emkj2p5Las0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=emkj2p5Las0"
+    },
+    {
+      "id": "gMKxJJpKodE",
+      "title": "【決勝大会ライブ配信】第５回テレＱアナウンスコンクール | 2026/2/15（日）",
+      "description": "",
+      "publishedAt": "2026-02-09T08:51:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gMKxJJpKodE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gMKxJJpKodE"
+    },
     {
       "id": "R-R7gHrGFWE",
       "title": "【3/1（日）まで期間限定配信】放送200回記念「ブルーリバーの望むところだ！」トークイベント（2026/1/17公開収録・第２部）",

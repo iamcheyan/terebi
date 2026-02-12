@@ -1,8 +1,188 @@
 {
   "channel_id": "UCXYTFOXjfQz_FVzCzqP9PXA",
   "channel_name": "AI Polyglot | 多言語 聞き流し",
-  "updated_at": "2026-02-11T16:05:06.452751",
+  "updated_at": "2026-02-12T15:55:46.160229",
   "videos": [
+    {
+      "id": "g1PEv38niSI",
+      "title": "German A1 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:51:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g1PEv38niSI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g1PEv38niSI"
+    },
+    {
+      "id": "W_UFDn6fmQ8",
+      "title": "Portugues A1 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:51:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W_UFDn6fmQ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W_UFDn6fmQ8"
+    },
+    {
+      "id": "fjus5LtfOm8",
+      "title": "Chinese A1 Shopping | Natural Listening | Must-Know | with Pinyin",
+      "description": "",
+      "publishedAt": "2026-02-12T09:51:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fjus5LtfOm8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fjus5LtfOm8"
+    },
+    {
+      "id": "1gNv1pC7kFw",
+      "title": "Taiwanese A1 Shopping | Natural Listening | Must-Know | with Pinyin",
+      "description": "",
+      "publishedAt": "2026-02-12T09:51:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1gNv1pC7kFw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1gNv1pC7kFw"
+    },
+    {
+      "id": "TQ-EIOSeOFg",
+      "title": "Korean A1 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:51:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TQ-EIOSeOFg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TQ-EIOSeOFg"
+    },
+    {
+      "id": "-3dBPS76ZkI",
+      "title": "Vietnamese A1 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:51:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-3dBPS76ZkI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-3dBPS76ZkI"
+    },
+    {
+      "id": "qW3lBoInryU",
+      "title": "Indonesian A1 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:51:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qW3lBoInryU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qW3lBoInryU"
+    },
+    {
+      "id": "f4vEmThTWGw",
+      "title": "Russian A1 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:51:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/f4vEmThTWGw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=f4vEmThTWGw"
+    },
+    {
+      "id": "7uAhT-2QTL8",
+      "title": "ロシア語のA2ショッピング | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2026-02-12T09:51:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7uAhT-2QTL8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7uAhT-2QTL8"
+    },
+    {
+      "id": "tXrt9Fmoqro",
+      "title": "Spanish A2 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:50:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tXrt9Fmoqro/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tXrt9Fmoqro"
+    },
+    {
+      "id": "4-DTlHn71yg",
+      "title": "Italian A2 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:50:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4-DTlHn71yg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4-DTlHn71yg"
+    },
+    {
+      "id": "2pLUehR9uCs",
+      "title": "French A2 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:50:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2pLUehR9uCs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2pLUehR9uCs"
+    },
+    {
+      "id": "PetwI4AwkwA",
+      "title": "German A2 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:50:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PetwI4AwkwA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PetwI4AwkwA"
+    },
+    {
+      "id": "nF6c9wrRFGo",
+      "title": "Portugues A2 Shopping | Natural Listening | Must-Know",
+      "description": "",
+      "publishedAt": "2026-02-12T09:50:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nF6c9wrRFGo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nF6c9wrRFGo"
+    },
+    {
+      "id": "MkhsG3QRAQk",
+      "title": "英語のA1ショッピング | 音声学習 | リスニング練習",
+      "description": "",
+      "publishedAt": "2026-02-11T20:39:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MkhsG3QRAQk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MkhsG3QRAQk"
+    },
     {
       "id": "k5LgBqBBdvU",
       "title": "Japanese A1 Shopping | Natural Listening | Must-Know",

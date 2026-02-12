@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-11T16:06:08.904911",
+  "updated_at": "2026-02-12T15:56:43.892396",
   "videos": [
+    {
+      "id": "3JNs9vzs2qw",
+      "title": "260212 175801 深田駅（本来は新幹線のはずの便）",
+      "description": "",
+      "publishedAt": "2026-02-12T12:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3JNs9vzs2qw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3JNs9vzs2qw"
+    },
+    {
+      "id": "ugIq51BVIyg",
+      "title": "260212 174732 失われた踏切を求めて（深田第２踏切から深田第４踏切へ、この短い距離の間にもう１つ踏切があったとは驚き！）",
+      "description": "",
+      "publishedAt": "2026-02-12T12:31:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ugIq51BVIyg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ugIq51BVIyg"
+    },
+    {
+      "id": "zduw6ZfpyV4",
+      "title": "260212 174352 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-02-12T12:13:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zduw6ZfpyV4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zduw6ZfpyV4"
+    },
+    {
+      "id": "Yw0Fh3rwyDw",
+      "title": "260212 173812 深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-02-12T11:54:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yw0Fh3rwyDw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yw0Fh3rwyDw"
+    },
+    {
+      "id": "TjnzkEbsih8",
+      "title": "260212 173246 深田駅",
+      "description": "",
+      "publishedAt": "2026-02-12T11:54:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TjnzkEbsih8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TjnzkEbsih8"
+    },
     {
       "id": "mOY5Yi007mA",
       "title": "260211 155447 兼近第１踏切",

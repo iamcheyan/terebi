@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-02-10T16:07:59.774960",
+  "updated_at": "2026-02-12T15:55:58.630873",
   "videos": [
+    {
+      "id": "HimakXucClc",
+      "title": "＃7　 漆芸家 　前坂 成哲さん　前編　＜KURASU 物語がつづく暮らし＞",
+      "description": "",
+      "publishedAt": "2026-02-12T14:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HimakXucClc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HimakXucClc"
+    },
+    {
+      "id": "swr0fknFEdQ",
+      "title": "RCCテレビ『元就。』2026年2月15日予告",
+      "description": "",
+      "publishedAt": "2026-02-12T07:04:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/swr0fknFEdQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=swr0fknFEdQ"
+    },
     {
       "id": "onHY2sky-Gc",
       "title": "『元就。二百万一心！』 #242　2026年2月7日",

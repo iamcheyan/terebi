@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-02-11T16:05:52.469480",
+  "updated_at": "2026-02-12T15:56:30.425614",
   "videos": [
+    {
+      "id": "OMC5vPBzpTQ",
+      "title": "スペシャルゲスト ガンプ鈴木さん",
+      "description": "",
+      "publishedAt": "2026-02-12T07:42:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OMC5vPBzpTQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OMC5vPBzpTQ"
+    },
     {
       "id": "Hn0yuQ3MIgg",
       "title": "【しまのうた #8】『 rain & 530 × 今帰仁村』 後編",

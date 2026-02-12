@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-11T16:05:58.989354",
+  "updated_at": "2026-02-12T15:56:35.568400",
   "videos": [
+    {
+      "id": "pn-ssHuNEAs",
+      "title": "今日の５きげんテレビ（2月13日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-02-12T15:01:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pn-ssHuNEAs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pn-ssHuNEAs"
+    },
+    {
+      "id": "tLWeOFgIDKA",
+      "title": "５きげんクッキング ～お豆腐生チョコレート～",
+      "description": "",
+      "publishedAt": "2026-02-12T10:30:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tLWeOFgIDKA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tLWeOFgIDKA"
+    },
+    {
+      "id": "i2ldbEPYG3c",
+      "title": "焼き芋&焼き芋スイーツ",
+      "description": "",
+      "publishedAt": "2026-02-12T09:13:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i2ldbEPYG3c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i2ldbEPYG3c"
+    },
     {
       "id": "18C2-tY8rQU",
       "title": "今日の５きげんテレビ（2月12日）｜テレビ岩手",
