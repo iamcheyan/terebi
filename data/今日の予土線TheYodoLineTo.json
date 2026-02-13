@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-12T15:56:43.892396",
+  "updated_at": "2026-02-13T15:44:33.422079",
   "videos": [
+    {
+      "id": "0OhfSHqpyx0",
+      "title": "260213 155411 赤松踏切 ２",
+      "description": "",
+      "publishedAt": "2026-02-13T11:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0OhfSHqpyx0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0OhfSHqpyx0"
+    },
+    {
+      "id": "YxcAF_g9hnY",
+      "title": "260213 154950 赤松踏切",
+      "description": "",
+      "publishedAt": "2026-02-13T10:42:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YxcAF_g9hnY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YxcAF_g9hnY"
+    },
+    {
+      "id": "_b7sB-WnQK0",
+      "title": "260213 154430 赤松踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-02-13T10:36:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_b7sB-WnQK0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_b7sB-WnQK0"
+    },
+    {
+      "id": "NolPz5bIXEk",
+      "title": "260213 154107 赤松踏切",
+      "description": "",
+      "publishedAt": "2026-02-13T10:36:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NolPz5bIXEk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NolPz5bIXEk"
+    },
     {
       "id": "3JNs9vzs2qw",
       "title": "260212 175801 深田駅（本来は新幹線のはずの便）",

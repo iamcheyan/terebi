@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-02-12T15:56:10.927961",
+  "updated_at": "2026-02-13T15:43:34.965772",
   "videos": [
+    {
+      "id": "2fqS688cmYQ",
+      "title": "【気分はプロのレーシングドライバー】モータースポーツの醍醐味を味わえるお店",
+      "description": "",
+      "publishedAt": "2026-02-13T09:30:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2fqS688cmYQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2fqS688cmYQ"
+    },
+    {
+      "id": "5XZ1kTqdJEA",
+      "title": "【キッズチャレンジスタジアム】ゆうまくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-02-13T09:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5XZ1kTqdJEA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5XZ1kTqdJEA"
+    },
     {
       "id": "380ZiB1hNFw",
       "title": "たからモノさがして　第５６９回",

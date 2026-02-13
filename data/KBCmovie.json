@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-02-12T15:55:34.322385",
+  "updated_at": "2026-02-13T15:43:50.591642",
   "videos": [
+    {
+      "id": "JCjwbbm3z4k",
+      "title": "ユーチューニャーのおしごとずかん｜選挙を支えるおしごと Part.2",
+      "description": "",
+      "publishedAt": "2026-02-13T03:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JCjwbbm3z4k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JCjwbbm3z4k"
+    },
     {
       "id": "yzA0AapaLJQ",
       "title": "福岡恋愛白書21 さよならウエディング ～小栗有以＆内藤秀一郎メッセージ～",

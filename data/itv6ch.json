@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-02-12T15:56:39.568490",
+  "updated_at": "2026-02-13T15:44:30.211854",
   "videos": [
+    {
+      "id": "ulxStzV5wBs",
+      "title": "愛媛のニュース(02月13日)",
+      "description": "",
+      "publishedAt": "2026-02-13T11:35:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ulxStzV5wBs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ulxStzV5wBs"
+    },
+    {
+      "id": "oS7GknZpqFY",
+      "title": "きょうだい児の高校生がヤングケアラーの啓発イベントを企画",
+      "description": "",
+      "publishedAt": "2026-02-13T03:01:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oS7GknZpqFY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oS7GknZpqFY"
+    },
     {
       "id": "Tl9GhcNBitA",
       "title": "愛媛のニュース(02月12日)",

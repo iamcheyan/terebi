@@ -1,8 +1,68 @@
 {
   "channel_id": "UC_SN3bimHrEFQ0qe-5X5zFw",
   "channel_name": "とちぎテレビNEWS",
-  "updated_at": "2026-02-12T15:56:41.375731",
+  "updated_at": "2026-02-13T15:44:31.124188",
   "videos": [
+    {
+      "id": "RmqO_B29Fdk",
+      "title": "栃木県郡市町対抗駅伝４連覇を市長に報告　那須塩原Aチームの監督、選手ら",
+      "description": "",
+      "publishedAt": "2026-02-13T04:05:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RmqO_B29Fdk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RmqO_B29Fdk"
+    },
+    {
+      "id": "d58nnEL4Odg",
+      "title": "昭和のバス　廃車から一転活用へ！栃木県内最古参「関東自動車6号車」【特集】",
+      "description": "",
+      "publishedAt": "2026-02-13T02:08:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d58nnEL4Odg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d58nnEL4Odg"
+    },
+    {
+      "id": "kilxlnCUOgg",
+      "title": "侍ジャパン女子日本代表の平山選手に那須塩原市長特別賞　アジアカップ野球で優勝に貢献",
+      "description": "",
+      "publishedAt": "2026-02-13T00:18:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kilxlnCUOgg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kilxlnCUOgg"
+    },
+    {
+      "id": "1OktIy1BlyI",
+      "title": "栃木県カスハラ防止条例案を発表　相談事例を公表へ",
+      "description": "",
+      "publishedAt": "2026-02-13T00:15:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1OktIy1BlyI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1OktIy1BlyI"
+    },
+    {
+      "id": "F-PDCEElJ9E",
+      "title": "広告付きＡＥＤで設置無償に　下野市と広告代理店が事業協定",
+      "description": "",
+      "publishedAt": "2026-02-13T00:08:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F-PDCEElJ9E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F-PDCEElJ9E"
+    },
     {
       "id": "7JRJktlCgm0",
       "title": "災害発生時にペット同伴の避難所　日光市と東武ワールドスクウェアが協定",

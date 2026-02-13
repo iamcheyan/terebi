@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-02-12T15:56:29.556396",
+  "updated_at": "2026-02-13T15:44:23.029715",
   "videos": [
+    {
+      "id": "HiqEAwyTsS4",
+      "title": "【日出町】merry coffee（2026年1月28日放送分）",
+      "description": "",
+      "publishedAt": "2026-02-13T05:15:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HiqEAwyTsS4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HiqEAwyTsS4"
+    },
     {
       "id": "M-8NHFX5_0Q",
       "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年2月9日放送分】",

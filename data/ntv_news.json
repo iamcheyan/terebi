@@ -1,8 +1,44 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-02-12T15:56:10.438418",
+  "updated_at": "2026-02-13T15:44:05.716557",
   "videos": [
+    {
+      "id": "cnDFC6p-_oQ",
+      "title": "Medical Marijuana Town Hall",
+      "description": "",
+      "publishedAt": "2026-02-13T12:09:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cnDFC6p-_oQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cnDFC6p-_oQ"
+    },
+    {
+      "id": "BNbdZzcuLDk",
+      "title": "NSAA 2026 Bowling Class A Girls' Single Title",
+      "description": "",
+      "publishedAt": "2026-02-13T02:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BNbdZzcuLDk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BNbdZzcuLDk"
+    },
+    {
+      "id": "Za4nj4zfr9g",
+      "title": "NSAA 2026 Bowling Class A Boys' Single Title",
+      "description": "",
+      "publishedAt": "2026-02-12T23:00:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Za4nj4zfr9g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Za4nj4zfr9g"
+    },
     {
       "id": "ofJ8gdDBnkU",
       "title": "NSAA 2026 Bowling Class A Boys' and Girls' Team Titles",

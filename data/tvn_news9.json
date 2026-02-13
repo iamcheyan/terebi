@@ -1,8 +1,56 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-02-12T15:55:44.687823",
+  "updated_at": "2026-02-13T15:43:54.489934",
   "videos": [
+    {
+      "id": "KJWdgydomi8",
+      "title": "奈良市史料保存館　「奈良名勝全図」で巡る昔の奈良町",
+      "description": "",
+      "publishedAt": "2026-02-13T10:30:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KJWdgydomi8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KJWdgydomi8"
+    },
+    {
+      "id": "HqP_k8axxNk",
+      "title": "葛城市相撲館「けはや座」　子どもたちがつくった相撲甚句　土俵上で披露",
+      "description": "",
+      "publishedAt": "2026-02-13T10:30:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HqP_k8axxNk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HqP_k8axxNk"
+    },
+    {
+      "id": "qZxWeEkPlAY",
+      "title": "学びのモチベーション向上へ　県立大学の卒論報告会　高校生が見学",
+      "description": "",
+      "publishedAt": "2026-02-13T10:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qZxWeEkPlAY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qZxWeEkPlAY"
+    },
+    {
+      "id": "6uIk1p6R8v8",
+      "title": "手洗い・うがい・咳エチケットの徹底を　インフルエンザが大流行　県内に「警報」発令中",
+      "description": "",
+      "publishedAt": "2026-02-13T10:29:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6uIk1p6R8v8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6uIk1p6R8v8"
+    },
     {
       "id": "9v_inqJgpD0",
       "title": "職員の負担軽減へ　奈良市 電話応対にAIを導入へ",

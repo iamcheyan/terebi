@@ -1,8 +1,20 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-02-09T15:59:17.483919",
+  "updated_at": "2026-02-13T15:44:19.428692",
   "videos": [
+    {
+      "id": "OcMPEhP0BrM",
+      "title": "ときまるキャラバン⑱　柴宮保育所",
+      "description": "",
+      "publishedAt": "2026-02-13T06:38:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OcMPEhP0BrM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OcMPEhP0BrM"
+    },
     {
       "id": "nW8Gi4D3H4k",
       "title": "【元アナ×支社長】KFB福島放送・大阪支社長 池田さんに聞く「キャリアのリアル」",

@@ -1,8 +1,164 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-02-12T15:56:43.588725",
+  "updated_at": "2026-02-13T15:44:33.277475",
   "videos": [
+    {
+      "id": "tWDvtEWQUhQ",
+      "title": "「フレッシュでイイじゃん」　伊勢市チーム　初エントリー12人で総合3位目指す",
+      "description": "",
+      "publishedAt": "2026-02-13T09:29:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tWDvtEWQUhQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tWDvtEWQUhQ"
+    },
+    {
+      "id": "Dvu1dd3gTvo",
+      "title": "女子力で勝負　町の部連覇へ　川越町チーム",
+      "description": "",
+      "publishedAt": "2026-02-13T09:27:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Dvu1dd3gTvo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Dvu1dd3gTvo"
+    },
+    {
+      "id": "MJY5EOJvrBA",
+      "title": "水泳で培った体力をいかして　町の部入賞目指す紀北町チーム",
+      "description": "",
+      "publishedAt": "2026-02-13T09:25:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MJY5EOJvrBA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MJY5EOJvrBA"
+    },
+    {
+      "id": "eXNWkzUnypQ",
+      "title": "未来にタスキを　8位入賞を狙う明和町チーム",
+      "description": "",
+      "publishedAt": "2026-02-13T09:12:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eXNWkzUnypQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eXNWkzUnypQ"
+    },
+    {
+      "id": "sdR0TA5t1eo",
+      "title": "去年の自分を越えて　史上初“市の部5位”を目指す　志摩市チーム",
+      "description": "",
+      "publishedAt": "2026-02-13T09:06:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sdR0TA5t1eo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sdR0TA5t1eo"
+    },
+    {
+      "id": "6ipIfJlT8iE",
+      "title": "アンカーに元実業団選手も　全員の力で最後までタスキを　南伊勢町チーム",
+      "description": "",
+      "publishedAt": "2026-02-13T08:59:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6ipIfJlT8iE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6ipIfJlT8iE"
+    },
+    {
+      "id": "AqK8iOAPYrw",
+      "title": "前回は総合2位　悔しい思いした去年　今年こそ初優勝を狙う　いなべ市チーム",
+      "description": "",
+      "publishedAt": "2026-02-13T08:58:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AqK8iOAPYrw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AqK8iOAPYrw"
+    },
+    {
+      "id": "hqR3tx-vQew",
+      "title": "中学駅伝準優勝コンビら新戦力加え　過去最高順位目指す　玉城町チーム",
+      "description": "",
+      "publishedAt": "2026-02-13T05:29:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hqR3tx-vQew/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hqR3tx-vQew"
+    },
+    {
+      "id": "GFzuki_UXF4",
+      "title": "【玉城町】第19回美し国三重市町対抗駅伝チーム紹介",
+      "description": "",
+      "publishedAt": "2026-02-13T02:06:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GFzuki_UXF4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GFzuki_UXF4"
+    },
+    {
+      "id": "eoqCBu0RwbM",
+      "title": "インフル患者数が今シーズン最多",
+      "description": "",
+      "publishedAt": "2026-02-13T00:44:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eoqCBu0RwbM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eoqCBu0RwbM"
+    },
+    {
+      "id": "c32bIyM6zU4",
+      "title": "特殊詐欺や組織犯罪対策　通訳人の養成など　新年度予算案発表",
+      "description": "",
+      "publishedAt": "2026-02-13T00:44:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c32bIyM6zU4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c32bIyM6zU4"
+    },
+    {
+      "id": "LTmVbcpzDGg",
+      "title": "地震の対策強化に約619億円など　過去最大規模の新年度当初予算案発表",
+      "description": "",
+      "publishedAt": "2026-02-13T00:43:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LTmVbcpzDGg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LTmVbcpzDGg"
+    },
+    {
+      "id": "stNKEh1zD28",
+      "title": "「確実なデータを元に」　町初の女性町長",
+      "description": "",
+      "publishedAt": "2026-02-13T00:43:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/stNKEh1zD28/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=stNKEh1zD28"
+    },
     {
       "id": "iWKHpVEpl48",
       "title": "「優勝目指しちゃダメですか？」　小中学生の選手に勢い　若い力で挑む　名張市チーム",

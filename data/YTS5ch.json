@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-02-10T16:08:16.537513",
+  "updated_at": "2026-02-13T15:44:05.198799",
   "videos": [
+    {
+      "id": "Japt1COiOUI",
+      "title": "【見逃し】上杉雪灯篭まつり　米沢市から生中継　高坂瑠奈アナウンサー",
+      "description": "",
+      "publishedAt": "2026-02-13T10:06:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Japt1COiOUI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Japt1COiOUI"
+    },
     {
       "id": "mzD03LO_4bA",
       "title": "タイムスリップ！昭和54年、山形と大阪を結んだ空の玄関口",

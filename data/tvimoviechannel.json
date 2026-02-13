@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-12T15:56:35.568400",
+  "updated_at": "2026-02-13T15:44:27.074374",
   "videos": [
+    {
+      "id": "yaQvpyzQW8w",
+      "title": "５きげんクッキング ～イチゴのパンナコッタ～",
+      "description": "",
+      "publishedAt": "2026-02-13T10:43:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yaQvpyzQW8w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yaQvpyzQW8w"
+    },
+    {
+      "id": "wnlCzSM9x5Y",
+      "title": "2025文学の国いわて塾第２回第1部    桜井真城氏講演（2026年1月30日）",
+      "description": "",
+      "publishedAt": "2026-02-13T03:57:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wnlCzSM9x5Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wnlCzSM9x5Y"
+    },
     {
       "id": "pn-ssHuNEAs",
       "title": "今日の５きげんテレビ（2月13日）｜テレビ岩手",
