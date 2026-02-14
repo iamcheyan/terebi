@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-02-13T15:43:36.884284",
+  "updated_at": "2026-02-14T15:28:38.701835",
   "videos": [
+    {
+      "id": "LGeSAQ8NOQo",
+      "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/2/14放送",
+      "description": "",
+      "publishedAt": "2026-02-14T01:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LGeSAQ8NOQo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LGeSAQ8NOQo"
+    },
     {
       "id": "VktbfCeie00",
       "title": "例えが秀逸すぎる新喜劇３選",

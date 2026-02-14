@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-02-13T15:43:38.672564",
+  "updated_at": "2026-02-14T15:28:21.784656",
   "videos": [
+    {
+      "id": "wYY1Cc-72cg",
+      "title": "ミキハウス　プレパパ・プレママセミナー",
+      "description": "",
+      "publishedAt": "2026-02-14T09:09:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wYY1Cc-72cg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wYY1Cc-72cg"
+    },
+    {
+      "id": "aGm7LVnehUI",
+      "title": "県立音楽堂　オルガン改修見学会",
+      "description": "",
+      "publishedAt": "2026-02-14T09:08:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aGm7LVnehUI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aGm7LVnehUI"
+    },
     {
       "id": "qin1C7P-rUM",
       "title": "復興支援小説　石川県に２０００万円超の義援金贈る",

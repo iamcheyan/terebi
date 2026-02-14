@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-02-13T15:43:56.354833",
+  "updated_at": "2026-02-14T15:28:39.400919",
   "videos": [
+    {
+      "id": "FC-DQ2nNCjw",
+      "title": "あのじゅうよ〜 第186回",
+      "description": "",
+      "publishedAt": "2026-02-14T14:30:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FC-DQ2nNCjw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FC-DQ2nNCjw"
+    },
+    {
+      "id": "d9IclxKvx_c",
+      "title": "ゲンワカ・ベストオブミス和歌山",
+      "description": "",
+      "publishedAt": "2026-02-14T00:00:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d9IclxKvx_c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d9IclxKvx_c"
+    },
     {
       "id": "FkVCnAwTgN4",
       "title": "ゲンワカ・岡野 真子さん",

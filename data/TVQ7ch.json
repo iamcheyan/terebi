@@ -1,8 +1,80 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-02-13T15:44:27.748728",
+  "updated_at": "2026-02-14T15:29:11.141412",
   "videos": [
+    {
+      "id": "R0QwItmYhuI",
+      "title": "【テレQ番宣】ぐっ！ジョブ（2月21日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-02-14T15:00:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R0QwItmYhuI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R0QwItmYhuI"
+    },
+    {
+      "id": "4zOTDxnQEek",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（2月21日（土）18:30～）",
+      "description": "",
+      "publishedAt": "2026-02-14T15:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4zOTDxnQEek/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4zOTDxnQEek"
+    },
+    {
+      "id": "VUYckOir5ko",
+      "title": "2月21日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-02-14T12:00:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VUYckOir5ko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VUYckOir5ko"
+    },
+    {
+      "id": "ZUQ8bx5tfcA",
+      "title": "アイライフスタイル ♯36 「マニュアル車でドライブ」（テレQ 2025年2月14日放送）",
+      "description": "",
+      "publishedAt": "2026-02-14T11:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZUQ8bx5tfcA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZUQ8bx5tfcA"
+    },
+    {
+      "id": "gREcmrIIij4",
+      "title": "【ドラゴンボールをなかなか読もうとしない村重杏奈】はてなのてん未公開トーク",
+      "description": "",
+      "publishedAt": "2026-02-14T09:55:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gREcmrIIij4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gREcmrIIij4"
+    },
+    {
+      "id": "r7aXhTQN7Ms",
+      "title": "【テレQ番宣】はてなのてん（2月21日(土)18:30～）",
+      "description": "",
+      "publishedAt": "2026-02-14T09:54:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r7aXhTQN7Ms/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r7aXhTQN7Ms"
+    },
     {
       "id": "6qafoeTSLZc",
       "title": "【2025年大会ダイジェスト】みずほPayPayドームリレーマラソン",

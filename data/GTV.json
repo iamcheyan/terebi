@@ -1,8 +1,68 @@
 {
   "channel_id": "UCYwPpbi6PqfY1KJbg4H6xwA",
   "channel_name": "群馬テレビ",
-  "updated_at": "2026-02-13T15:44:34.566959",
+  "updated_at": "2026-02-14T15:29:17.258318",
   "videos": [
+    {
+      "id": "d1anqQWaDt0",
+      "title": "群馬・桐生１６℃　春の暖かさ(26/02/14)",
+      "description": "",
+      "publishedAt": "2026-02-14T10:12:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d1anqQWaDt0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d1anqQWaDt0"
+    },
+    {
+      "id": "3PvA2FKa7Ps",
+      "title": "群馬県高校サッカー新人大会決勝　前橋育英ｖｓ健大高崎(26/02/14)",
+      "description": "",
+      "publishedAt": "2026-02-14T10:11:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3PvA2FKa7Ps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3PvA2FKa7Ps"
+    },
+    {
+      "id": "6sT_7YzTvC0",
+      "title": "ＧＵＮＭＡマンガ・アニメフェスタにぎわう　群馬県庁(26/02/14)",
+      "description": "",
+      "publishedAt": "2026-02-14T10:08:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6sT_7YzTvC0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6sT_7YzTvC0"
+    },
+    {
+      "id": "C5slxF7WGN4",
+      "title": "オリジナルカップを子ども食堂に寄贈　群馬・大泉町 (26/02/14)",
+      "description": "",
+      "publishedAt": "2026-02-14T10:07:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C5slxF7WGN4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C5slxF7WGN4"
+    },
+    {
+      "id": "0aTOpuTzKi0",
+      "title": "電気の安全管理で知識を深めよう　群馬・藤岡市(26/02/14)",
+      "description": "",
+      "publishedAt": "2026-02-14T10:06:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0aTOpuTzKi0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0aTOpuTzKi0"
+    },
     {
       "id": "t8bsxQE3mP4",
       "title": "秋間梅林　１４日の開園をＰＲ　群馬・安中市(26/02/13)",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-02-12T15:56:31.026695",
+  "updated_at": "2026-02-14T15:29:08.292163",
   "videos": [
+    {
+      "id": "5sCPMZJNM4M",
+      "title": "第3回ミライのタネ_熊本農業高校 生活デザイン科",
+      "description": "",
+      "publishedAt": "2026-02-14T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5sCPMZJNM4M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5sCPMZJNM4M"
+    },
+    {
+      "id": "ykn0A5LEA3E",
+      "title": "【番宣】２月２１日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-02-14T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ykn0A5LEA3E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ykn0A5LEA3E"
+    },
     {
       "id": "eEU-C-Ne3Gs",
       "title": "【番宣】２月１９日（木）こんばんは熊本市",
