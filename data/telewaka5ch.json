@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-02-14T15:28:39.400919",
+  "updated_at": "2026-02-15T15:28:01.529186",
   "videos": [
+    {
+      "id": "R2tFuK6K_7g",
+      "title": "ゲンワカ・安里 秀策さん",
+      "description": "",
+      "publishedAt": "2026-02-15T00:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R2tFuK6K_7g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R2tFuK6K_7g"
+    },
     {
       "id": "FC-DQ2nNCjw",
       "title": "あのじゅうよ〜 第186回",

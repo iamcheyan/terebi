@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-02-13T15:43:34.128597",
+  "updated_at": "2026-02-15T15:28:04.317205",
   "videos": [
+    {
+      "id": "xUOJ6ekZZLo",
+      "title": "食遺産File.234「甘口醤油の親子ステーキ」＠兵庫県・北播磨エリア",
+      "description": "",
+      "publishedAt": "2026-02-15T03:45:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xUOJ6ekZZLo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xUOJ6ekZZLo"
+    },
     {
       "id": "T1P1LXF-vgU",
       "title": "【一筆書きチャレンジ②】前回出番がなかった加守アナが挑戦～！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2026-02-14T15:29:10.757632",
+  "updated_at": "2026-02-15T15:28:21.530340",
   "videos": [
+    {
+      "id": "3-W67-aB8WA",
+      "title": "未来について考える工作教室",
+      "description": "",
+      "publishedAt": "2026-02-15T04:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3-W67-aB8WA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3-W67-aB8WA"
+    },
     {
       "id": "5wO7c09ISog",
       "title": "【初耳グルメ】“ガイヤーン”ってどんなグルメ？",

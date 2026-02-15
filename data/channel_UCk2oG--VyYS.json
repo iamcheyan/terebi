@@ -1,8 +1,56 @@
 {
   "channel_id": "UCk2oG--VyYST4SYyQkeadjA",
   "channel_name": "UTYテレビ山梨",
-  "updated_at": "2026-02-14T15:28:32.852577",
+  "updated_at": "2026-02-15T15:28:07.042596",
   "videos": [
+    {
+      "id": "oWP3ZelRQbY",
+      "title": "河口湖ライブカメラ タイムラプス映像（2026年2月14日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-02-15T01:21:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oWP3ZelRQbY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oWP3ZelRQbY"
+    },
+    {
+      "id": "Q3pe86C2ISc",
+      "title": "精進湖ライブカメラ タイムラプス映像（2026年2月14日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-02-15T01:19:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q3pe86C2ISc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q3pe86C2ISc"
+    },
+    {
+      "id": "mevbGwve0bM",
+      "title": "西湖ライブカメラ タイムラプス映像（2026年2月14日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-02-15T01:17:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mevbGwve0bM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mevbGwve0bM"
+    },
+    {
+      "id": "Y6tQQcykcPs",
+      "title": "山中湖ライブカメラ タイムラプス映像（2026年2月14日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-02-15T01:15:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y6tQQcykcPs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y6tQQcykcPs"
+    },
     {
       "id": "oLeh7m82c0k",
       "title": "河口湖ライブカメラ タイムラプス映像（2026年2月13日） 提供：UTYテレビ山梨",

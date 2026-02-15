@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-02-14T15:28:21.784656",
+  "updated_at": "2026-02-15T15:28:08.968208",
   "videos": [
+    {
+      "id": "wZRJlosBJ7I",
+      "title": "金沢で能登復興人材フォーラム",
+      "description": "",
+      "publishedAt": "2026-02-15T10:15:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wZRJlosBJ7I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wZRJlosBJ7I"
+    },
+    {
+      "id": "SmO9XF05ynw",
+      "title": "輪島・聖光寺で犬の子まき",
+      "description": "",
+      "publishedAt": "2026-02-15T10:12:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SmO9XF05ynw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SmO9XF05ynw"
+    },
     {
       "id": "wYY1Cc-72cg",
       "title": "ミキハウス　プレパパ・プレママセミナー",

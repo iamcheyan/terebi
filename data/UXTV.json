@@ -1,8 +1,32 @@
 {
   "channel_id": "UCmBnPrnbYpbUZ10TMIlY9YA",
   "channel_name": "The Niigata Television Network 21",
-  "updated_at": "2026-02-14T15:29:12.043598",
+  "updated_at": "2026-02-15T15:28:23.017388",
   "videos": [
+    {
+      "id": "D9MUyIf7ZkQ",
+      "title": "新潟市長「新潟になかった『アリーナ』であると判断」白山エリアに建設を検討",
+      "description": "",
+      "publishedAt": "2026-02-15T10:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D9MUyIf7ZkQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D9MUyIf7ZkQ"
+    },
+    {
+      "id": "ef_aJ95_FC8",
+      "title": "数日前に雪を下ろしたが･･･家屋が倒壊し男性が下敷きに、雪の重みが原因か",
+      "description": "",
+      "publishedAt": "2026-02-15T09:00:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ef_aJ95_FC8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ef_aJ95_FC8"
+    },
     {
       "id": "1NwSfEnDz7A",
       "title": "タクシー会社･さくら交通が事業停止「夜のタクシー輸送が戻らない」背景には “客の減少とドライバー不足”",
