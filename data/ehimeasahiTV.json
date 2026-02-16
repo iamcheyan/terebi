@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2026-02-15T15:28:04.609292",
+  "updated_at": "2026-02-16T15:42:54.656680",
   "videos": [
+    {
+      "id": "FB3ca6VAVEk",
+      "title": "#ijustmight で踊ってしまう #classroom #insta360x5 ver",
+      "description": "",
+      "publishedAt": "2026-02-16T12:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FB3ca6VAVEk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FB3ca6VAVEk"
+    },
+    {
+      "id": "AKWhHABf6VY",
+      "title": "#むかしストリート 音生かしver #愛媛の背中男",
+      "description": "",
+      "publishedAt": "2026-02-16T00:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AKWhHABf6VY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AKWhHABf6VY"
+    },
     {
       "id": "Mg_kfIgcrcU",
       "title": "#3xl NGver #愛媛の背中男 #number_i",

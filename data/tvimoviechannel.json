@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-15T15:28:21.950183",
+  "updated_at": "2026-02-16T15:43:19.365987",
   "videos": [
+    {
+      "id": "QQ2Ku1Rkt9o",
+      "title": "今日の５きげんテレビ（2月17日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-02-16T15:00:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QQ2Ku1Rkt9o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QQ2Ku1Rkt9o"
+    },
+    {
+      "id": "ojIcueG973s",
+      "title": "５きげんクッキング ～いなりの五目蒸し～",
+      "description": "",
+      "publishedAt": "2026-02-16T07:30:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ojIcueG973s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ojIcueG973s"
+    },
     {
       "id": "iFsrAzJhFMY",
       "title": "今日の５きげんテレビ（2月16日）｜テレビ岩手",

@@ -1,8 +1,188 @@
 {
   "channel_id": "UCD1MsyeoR0St_aWxydu9law",
   "channel_name": "BBT富山テレビ",
-  "updated_at": "2026-02-12T15:56:18.958326",
+  "updated_at": "2026-02-16T15:43:06.409614",
   "videos": [
+    {
+      "id": "lArnOUAIEvQ",
+      "title": "卒うた-南砺平高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lArnOUAIEvQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lArnOUAIEvQ"
+    },
+    {
+      "id": "yHQ2ClPieVo",
+      "title": "卒うた-小矢部園芸高校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yHQ2ClPieVo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yHQ2ClPieVo"
+    },
+    {
+      "id": "fgS5eP-XAsI",
+      "title": "卒うた-富山商業高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fgS5eP-XAsI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fgS5eP-XAsI"
+    },
+    {
+      "id": "y-kgZBn_4d0",
+      "title": "卒うた-高岡龍谷高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y-kgZBn_4d0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y-kgZBn_4d0"
+    },
+    {
+      "id": "q4iJkx3XmRc",
+      "title": "卒うた-高岡向陵高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q4iJkx3XmRc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q4iJkx3XmRc"
+    },
+    {
+      "id": "tWSaK6hAQcQ",
+      "title": "卒うた-龍谷富山高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tWSaK6hAQcQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tWSaK6hAQcQ"
+    },
+    {
+      "id": "Lqto7Z0NsfI",
+      "title": "卒うた-不二越高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Lqto7Z0NsfI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Lqto7Z0NsfI"
+    },
+    {
+      "id": "jV4mXu4bYmU",
+      "title": "卒うた-高岡南高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jV4mXu4bYmU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jV4mXu4bYmU"
+    },
+    {
+      "id": "wHR-WTpvgTI",
+      "title": "卒うた-伏木高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wHR-WTpvgTI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wHR-WTpvgTI"
+    },
+    {
+      "id": "y_Etsm8TT5Q",
+      "title": "卒うた-富山高等支援高校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y_Etsm8TT5Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y_Etsm8TT5Q"
+    },
+    {
+      "id": "MtPAohb0nnI",
+      "title": "卒うた-滑川高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MtPAohb0nnI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MtPAohb0nnI"
+    },
+    {
+      "id": "PZXRakoeyBY",
+      "title": "卒うた-新川高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PZXRakoeyBY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PZXRakoeyBY"
+    },
+    {
+      "id": "75uCFiVbU1w",
+      "title": "卒うた-雄峰高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/75uCFiVbU1w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=75uCFiVbU1w"
+    },
+    {
+      "id": "TT-jwOj_Itw",
+      "title": "卒うた-高岡商業高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TT-jwOj_Itw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TT-jwOj_Itw"
+    },
+    {
+      "id": "X-zK2nhcPbk",
+      "title": "卒うた-新湊高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-16T09:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X-zK2nhcPbk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X-zK2nhcPbk"
+    },
     {
       "id": "x4u2IAj2eIQ",
       "title": "【池田航さん出演！】KOH×富山のうまいもん！　立山町のかんもちを使ったおやつ　『キャラメルおかきもち』【ライブBBT】",

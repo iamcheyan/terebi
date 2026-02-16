@@ -1,8 +1,505 @@
 {
   "channel_id": "UC7_jFLwpm5apDF-v-pXZb4w",
-  "channel_name": "テレビ新広島（TSS）",
-  "updated_at": "2026-02-13T15:43:43.446596",
+  "channel_name": "UC7_jFLwpm5apDF-v-pXZb4w",
+  "original_name": "テレビ新広島（TSS）",
+  "updated_at": "2026-02-16T15:43:46.774656",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aU4Flt9gsDKCNo9qpe5ovJDpZxQ",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3Lm50dzJSUWxINEhz",
+      "snippet": {
+        "publishedAt": "2026-02-13T03:48:33Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "「父親の頭を刺した」娘（42）を殺人未遂容疑で逮捕　父親（76）の後頭部を包丁で切りつけたか　広島 (2026/02/13 10:54)",
+        "description": "１２日夜遅く、廿日市市の住宅で同居する７０代の父親に包丁で切りつけ殺そうとしたとして４２歳の娘が逮捕されました。\r\n\r\n殺人未遂の疑いで逮捕されたのは廿日市市大野原の森本真理恵容疑者（４２）です。\r\n警察によりますと森本容疑者は、１２日午後１１時前、自宅で同居する７６歳の父親の後頭部を刃わたり１６センチほどの包丁で切りつけ、殺そうとした疑いがもたれています。\n\n犯行後、森本容疑者が「父親の頭を刺した」と警察に１１０番通報し現場に駆け付けた警察官がその場で現行犯逮捕しました。\r\n父親は病院への搬送時には意識があり命に別状はないということです。\r\n\r\n調べに対し、森本容疑者は「殺そうと思って刺しました」と容疑を認めています。\r\n警察は２人の間に何らかのトラブルがあったとみて事件の経緯などを調べています。 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ntw2RQlH4Hs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ntw2RQlH4Hs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ntw2RQlH4Hs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ntw2RQlH4Hs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ntw2RQlH4Hs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ntw2RQlH4Hs"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MI5AG5KwtaoM6HR4jtgSS79vrgE",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LmRDS3VkMVJwelRz",
+      "snippet": {
+        "publishedAt": "2026-02-13T01:37:25Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "【高校生ニュース】『バレンタインデーに込める気持ち』 男子と女子では？ イベント？ 気持ちを伝える？ (2026/02/12 17:48)",
+        "description": "高校生に独自の視点で旬のニュースを伝えてもらいます。\r\n崇徳高校新聞部の神田さんよろしくお願いします。\n\n【崇徳高校２年・神田喜心さん】\r\nよろしくお願いします。\r\n\r\n【加藤雅也アナウンサー】\r\n神田さん、きょうのテーマは？\r\n\r\n【神田さん】\r\n私がきょうお伝えするテーマは高校生が『バレンタインデーに込める気持ち』です。\r\n\r\n【加藤アナ】\r\n神田さんがまず今回着目したのが、いまの高校生にとってのバレンタインデーは楽しむ『イベント』なのか？それとも『気持ちを伝える日』なのか？ということで男女６５人に聞きました。\r\nすると、女子は『イベント』だと思っている人が『８割』。\r\n一方の男子は女子よりも２割ほど『イベント』が減って、『およそ４割』が『気持ちを伝える日』だと思っているようですね。\n\n【神田さん】\r\nそうなんです。合わせて、バレンタインデー当日の「気分」がどれほど上がるか？聞いてみたんですが、こちらも女子は『８割』が『上がる』と答えて、『下がる』と答えた人は『いなかった』んですね。\r\nしかし一方の男子は…、半数が『上がる』、『およそ１割』は『下がる』と答えました。\r\n\r\n【加藤アナ】\r\nもらえなかったら『落ち込む』約３割…。これは欲しいけど、何ももらえなかったら…ということとも関係があるんですかね。\n\n【加藤アナ】\r\nそして、もう１つ、男女の思いに大きな差があるのが…。\r\n『好きな人にどんなチョコ』をあげたいか、男子はもらいたいか。\r\nまずは女子です。\r\n『およそ８割』が『手作りの時間と気持ちを込めたチョコ』、残りの２割は『安くても一生懸命選んだチョコ』となっています。\r\n一方の男子は…『手作り』と『一生懸命選んだチョコ』が同数、そしてわずかに『高級な値段に気持ちを込めたチョコ』が欲しいと答えた人もいるようです。\r\nトータルでみると、女子は手作り派が圧倒的多数なのに対し、男子は買ったチョコ派がわずかに上回るんですね。\r\n\r\n【神田さん】\r\nそうですね、男子には『友達だと思っていた人』から『本命チョコ』をもらったらどう感じる？かということも聞いてみたんですが、なんと『およそ７割』が『その人のことを意識する』と答えました。これは女子に勇気を与えるのではないかと感じています。 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dCKud1RpzTs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dCKud1RpzTs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dCKud1RpzTs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dCKud1RpzTs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dCKud1RpzTs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dCKud1RpzTs"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B72kZrGPsze9mazaKDeQYIHHRLQ",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3Lkd3aHMyaDdURkIw",
+      "snippet": {
+        "publishedAt": "2026-02-13T01:17:35Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "２月１２日は「レトルトカレー」の日！ 手軽に全国各地の味を楽しめる！ 広島での売行きランキングは！？ (2026/02/12 20:00)",
+        "description": "今知りたい、旬の情報をお伝えするコーナー「サキドリ」。\r\n今回のテーマは、「レトルトカレー」です。\r\n今日、２月１２日は「レトルトカレーの日」。\r\n１９６８年２月１２日に、日本初のレトルトカレー「ボンカレー」が発売されたことに由来し、毎年２月１２日は「レトルトカレー」の日に制定されています。\r\n今、どんなレトルトカレーが人気なのか調べてきました！\n\n訪れたのは広島市西区のレクト１階にあるキタノエースです。\r\n\r\n【中西敦子 アナウンサー】\r\n「ありましたよ！カレーなる本棚。カレーがずらっと並んでいて、キタノエースの名物ですよね」\r\n【キタノエース 鈴木嵐士店長】\r\n「だいたい１２０種類全国から集めて本棚みたいな感じで並べています」\r\n【中西アナ】\r\n「え？地球の歩き方チキン・ティッカ・マサラ。ほんとに本じゃないですか」\r\n【鈴木店長】\r\n「そうですね」\r\n\r\n全国各地から集めた多彩なレトルトカレーが並ぶキタノエースで、今どんなレトルトカレーが人気なのかランキングで紹介します。\n\n【鈴木店長】\r\n「第３位はこちら。牛テールカレーゴロット」\r\n【中西アナ】\r\n「うわー！この写真からインパクトがありますね」\r\n【鈴木店長】\r\n「写真の通り大きな牛テールのお肉が入っています」\r\n【中西アナ】\r\n「おいしそうですね」\r\n【鈴木店長】\r\n「めっちゃおいしいです」\r\n【中西アナ】\r\n「でも結構いいお値段するんですね。２１６０円」\r\n【鈴木店長】\r\n「普段食べるというよりはプレゼントとかで買ってくれるお客様が多いですね」\r\n【中西アナ】\r\n「ほんとにこんなに大きいですか？」\r\n【鈴木店長】\r\n「ほんとに大きいです。こぶしぐらいの大きなお肉が入っています。実際持ってもらったら分かる」\r\n【中西アナ】\r\n「うわー重たい。筋トレできそうです」\n\nパッケージに偽りなし！ほんとにゴロっと贅沢なお肉が入っています。\r\n牛テールの太い部分のみを厳選し、骨付きで丸ごと使用しているため、牛１頭から造れるのはわずか３袋というとっても希少なカレーなんです。\n\n【中西アナ】\r\n「すごい！香りがほんとにいいですよね。ちょっと大きめにいかせていただきます（※試食）え？ほんとに飲めるぐらい柔らかいです。口に入れた瞬間にお肉の繊維がホロホロ崩れていきますね。牛がほんとに濃厚で牛テールの旨味がものすごく溶け出していますね。２０００円超えのレトルトカレーって正直お高いのかなと思ったんですけど、これだけの高級感がお家で楽しめると思ったら自分へのご褒美にもぴったりだと思います」\n\n【鈴木店長】\r\n「第２位はこちら。ＧＡＲＡＫＵの札幌スープカレーチキンです」\r\n【中西アナ】\r\n「おー！スープカレーですか」\r\n【鈴木店長】\r\n「北海道のＧＡＲＡＫＵさんというお店があってその味を自宅で楽しめるスープカレーになります。スープ自体に出汁がきいていて和出汁の風味とカレーのスパイス。スルスル食べれちゃう」\r\n【中西アナ】\r\n「食べられた事ありますか？」\r\n【鈴木店長】\r\n「ありますあります」\r\n【中西アナ】\r\n「どうでしたか？」\r\n【鈴木店長】\r\n「無茶苦茶おいしかったです」\r\n【中西アナ】\r\n「えー気になりますねこれは」\n\n名店の味わいを忠実に再現したスープカレー。そのお味が…？\r\n\r\n【中西アナ】\r\n「うわ、旨味がすごい！おいしい。カレーのスパイスの感じもあるんですけど出汁がしっかりきいてるからスープの味わいの奥行きがすごいですね。ホロホロのチキンも…スプーンで崩れますからね（※試食）しっとり！柔らかいチキンですね。チキンにも出汁の旨味がしっかり入りこんでいますね。チキンを噛めば噛むほどスープカレーの味わいのおいしさというのがどんどん出てきます。食べごたえも抜群ですし、たまらないですね」\n\n気軽に本格的な味が楽しめるレトルトカレー人気ランキング。\r\n栄えある第１位発表の前に…。\r\n\r\n【鈴木店長】\r\n「中西さん、こちらご覧ください。実はカレーの記念日が１月２月３月、３か月連続で続いているんです」\r\n【中西アナ】\r\n「１月２２日がカレーの日、２月１２日がレトルトカレーの日。３月２日が●●●レトルトカレーの日？」\r\n【鈴木店長】\r\n「ぜひお答えください」\r\n【中西アナ】\r\n「うわー。３文字ですか？」\r\n【鈴木店長】\r\n「３文字です」\r\n【中西アナ】\r\n「当てにいきます！いいですか？当てても。すごいレトルトカレーの日！」\r\n【鈴木店長】\r\n「違います」\r\n【中西アナ】\r\n「やばいレトルトカレーの日」\r\n【鈴木店長】\r\n「ちょっと全然違いますね。正解はご当地レトルトカレーの日」\r\n【中西アナ】\r\n「そうなんですか！確かに全然かすっていないですね」\n\nレトルトカレーを通して各地の魅力を知ってもらうことを目的に制定されたご当地レトルトカレーの日。\r\nキタノエースにそろうバラエティ豊かな商品の中で鈴木店長のイチオシが…？\r\n\r\n【鈴木店長】\r\n「こちらになります。博多華味鳥のあいがけカレー」\r\n【中西アナ】\r\n「あら！あいがけちゃうんですか」\r\n【鈴木店長】\r\n「そうですね。博多の水炊きのお店が出しているカレーなんですけど。鶏のキーマカレー、もう一つが水炊きスープカレー」\r\n【中西アナ】\r\n「なるほど。水炊きスープカレー」\r\n\r\n水炊き料亭自慢の上品なスープカレーと鶏肉の旨味が詰まったキーマカレーを一皿で！\r\nこれは贅沢ですよね！\n\n【中西アナ】「いいですね。あいがけになるとやっぱり見た目も豪華さがグーンと増しますね。スープカレーの方からいただきます（※試食）おいしい！鶏の出汁がしっかりスープカレーから感じられます。ちょっとココナッツが入っているという事でまろやかさが加わる感じがしますね。鼻からスッとココナッツの香りも抜けて本当に深みのあるスープですね。\r\nおいしい。ではキーマカレーの方を（※試食）お肉のゴロット感が食べごたえもすごいしおいしい。枝豆も入っているので食感のアクセントもあっておいしいです。さっぱりした味わいのスープカレーと食べごたえ抜群のキーマカレーでものすごくバランスがいいです。では栄えある第１位は…？」\n\n【鈴木店長】\r\n「第１位はキタノセレクションの大人のためのビーフカレーです！」\r\n【中西アナ】\r\n「パッケージに写真も無く洗練された感じですね」\r\n【鈴木店長】\r\n「そうですね。弊社のオリジナル商品でして、開発チームがいろいろ試行錯誤して牛肉のおいしさとか野菜の甘味とかルーの味わいとか。深い味わいになっていまして、そのあたりが大人のためのという感じになります。キタノエースの中でもトップクラスで人気の商品になります。この前も１０個ぐらいまとめて買ってくださるお客様もいました」\r\n【中西アナ】\r\n「えー。まとめ買いしたくなるほどのおいしさなんですか」人気ナンバーワンのレトルトカレー。気になるお味はスタジオで！」\n\n■■■　スタジオ　■■■\n\n【中西アナ】\r\nキタノエースで、今一番売れているレトルトカレー「大人のためのビーフカレー」を用意しました。\r\n\r\n※「大人のためのビーフカレー」とは…\r\n・ゴロゴロと贅沢なサイズの牛肉のおいしさと野菜の甘みを活かしたコクと旨味のある大人のカレー\r\n・多彩なレトルトカレーを取り扱うキタノエース、オリジナル商品\r\n\r\n※試食した崇徳高校２年・神田喜心さんの感想\r\n「『大人のため』って聞いてたんで、正直子供だと食べにくいかなとは思ったんですけど、その予想を覆すような味で、子供でも十分楽しめる味だなと思いました」\r\n\r\n【中西アナ】\r\n手軽に本格的な味が楽しめるレトルトカレー！\r\nこの機会にぜひ味わってみてください！ ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gwhs2h7TFB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gwhs2h7TFB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gwhs2h7TFB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gwhs2h7TFB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gwhs2h7TFB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gwhs2h7TFB0"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tLV66d-qonNwBMwonang0LAPGg0",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LkZsYTY1azVyUThj",
+      "snippet": {
+        "publishedAt": "2026-02-13T01:17:34Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "広島県には16の地震が想定　いざという時に子どもたちの命を守る　「減災教育」に注目 (2026/02/12 20:30)",
+        "description": "育児の話題をお伝えする「Ｔｈａｎｋｙｏｕｆｏｒｚｅｒｏ」のコーナーです。\r\nいつ起こるか分からない地震に対し、子どもたちに「減災教育」という新たなアプローチをしていこうという取り組みが始まっています。\r\n\r\n先月、広島県で起きた最大震度４の地震。\r\n地震はいつ、どこで起こるか分かりません。\r\n去年、広島県が出した被害想定では、南海トラフ巨大地震が発生した場合、県内沿岸で最大震度６強、死者はおよそ１万４千人と推定されています。\r\n\r\nこうした中、１１日、広島市内で地震を想定した勉強会が開かれました。\r\nタイトルは「地震の揺れから乳幼児を守れ」。\r\n参加していたのは、防災士や地域支援に携わる人たちです。\r\n\r\n【参加者は】\r\n「びっくりというか」\r\n「今まで考えていたことと全くちがうというか」\r\n「考えかたを改めないと…」\r\n\r\n参加者の常識を覆したのは、横浜から来た江夏猛史さん。\r\n全国で「減災教育」を普及しています。\r\nその講義は実践から始まりました。\n\n【ＮＰＯ法人 減災教育普及委員会・江夏猛史理事長】\r\n「突然ですが避難訓練です。すぐに頭を守りなさい。５・４・３・２・１」\r\n\r\n参加者はみな机の下に隠れますが…\r\n「その机は地震で壊れないの？それを壊すほどの地震から守ったの？何から守ったの？」「上からの落下物」\r\n\r\nすると、江夏さんは、天井の天板をもってきました。\r\n\r\n「おおー」\r\n\r\n【石井記者】\r\n「相当重いですね」\r\n\r\nブロック塀二つ分の重さです。\r\n\r\n【ＮＰＯ法人 減災教育普及委員会・江夏猛史理事長】\r\n「これから頭が守られている人います？」\r\n\r\nこれまで起きた大地震では、天板が落ちる被害も多く出ています広島でおきた２００１年の芸予地震は…\r\n\r\n【黒川記者】\r\n「バレー部はちょうどこちらのコートで練習をしている最中でした。大きいもので８０センチ四方ぐらい」\n\n地震では瞬時の行動が命にかかわります。\r\n\r\n【ＮＰＯ法人 減災教育普及委員会・江夏猛史理事長】\r\n「逃げることが大事。だけど僕らは昔から逃げることは習っていない」\r\n\r\n日本の教育現場では…机の下に入る避難訓練が徹底され、頭を丸めてかがむよう指導されてきました。\r\n\r\n「６０年ぐらい変わっていないんです」\r\n「地震の避難訓練だけ変わっていない。地震で死んだ人がいっぱいいるのに」\r\n\r\nこちらの映像は、小学校で行われた抜き打ちの避難訓練映像です。\r\n教師の指示がない中、運動場にいる子供たちに地震を告げると…\r\nその多くが運動場より危険なはずの校舎に入っていきました。\r\n彼らは教室に戻り机の下に入ったといいます。\r\n運動場に残ったのはわずか数人です。\r\n\r\n江夏さんは、マニュアルで思考停止にならない指導をすべきだと活動してきました。\r\n独自に開発したマットを使い全国で体験型の活動を行っています。\r\n学校で学ぶポーズで揺れを体験すると…危険だとわかります。\r\n\r\n一方、お尻をしっかり落としてカエルのようなポーズをとると…体を支え、逃げ出すことができました。\n\nどうやって危険を回避するか実践を通し、自らの力で考えていきます。\r\nこの講座を今、全国の子供たちに広げていて、広島でも減災教育の担い手を育成しようと開かれていました。\r\n\r\n【ＮＰＯ法人 減災教育普及協会・江夏猛史理事長】\r\n「ここの中で何が危ない、皆さんの今の身の回りでそこがわかりきっていないと逃げ方が決まらないんですよ」\r\n\r\nその場所に合わせ頑丈な壁の近くに避難するなど対策を考えていきます。\r\n\r\n「３・２・１」\r\n\r\nガラスを避け、天井の落下物を確認。\r\n危険を回避するための避難訓練です。\r\n\r\n広島県の「地震被害想定調査報告書」では、１６の地震が想定されています。\r\n今ある地域の情報を事前に知ることも減災の一つです。\r\n\r\n【ＮＰＯ法人 減災教育普及協会・江夏猛史理事長】\r\n「広島の本番の訓練や教育になっているのか、そこを見直さなきゃいけなくて、地元の力で展開していくような仕組みづくりが大事だ。みんなの力で変えていけるという広島を作っていけたらいいなと思います」\r\n\r\n《スタジオ》\r\n特定の行動では命が守れない。\r\n身の守り方を考えなければならない。\r\n\r\n実際に大地震が来ればいくら訓練していてもパニックになる。\r\n普段からイメージトレーニングしておくことが大切だと思います。 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fla65k5rQ8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fla65k5rQ8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fla65k5rQ8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fla65k5rQ8c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fla65k5rQ8c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fla65k5rQ8c"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N2DS5AV5WnpO0tAw3i_uUrFRjTA",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LlRCT1BRNjV0RnY4",
+      "snippet": {
+        "publishedAt": "2026-02-13T01:17:34Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "「子どものＳＮＳ禁止」世界で広がる　広島県内のフィルタリング機能活用は３２．１％　あなたは？ (2026/02/12 19:28)",
+        "description": "「キキコミ」のコーナー、今回は青少年のＳＮＳ利用についてです。\r\n一部の国ではすでに禁止の動きが広がっています。\r\n街の皆さんはどうでしょうか。\n\n【中学２年生】\r\nQ：ＳＮＳをやってますか？\r\nA：はい。\r\nQ：何をされてますか？\r\nA：インスタとかＬＩＮＥとかやってます。みんなやってるし、いろんな人とのつながりがあるんでやっています。\r\nQ：ＳＮＳ禁止って言われたらどう？\r\nA：つらいです、ちょっと…。\r\n\r\n【中学２年生の母親】\r\n「どこまでが良くてどこまでが良くないかが、本人の意識がまだないだろうなとは思っています。うちはスクリーンタイムで時間制限を今しているんですけど…」\r\n\r\n【中学２年生】\r\nQ：なんかもっと本当はしたいのになーとか、どうですか？\r\nA：あります。めちゃくちゃあります。勉強しなしなさいって言われます\r\n\r\n【中学２年生の母親】\r\n「そうですね。勉強してからやるとかならいいんですけど、やって勉強はできないので。これからなくなることはないので、うまく付き合っていかないといけない勉強してる段階だとはちょっと思っているんですけど…」\n\n【高校１年生】\r\n「１６です。うーん、使いたいです。もう『ＳＮＳなし』ってなったら？寝ます！」\r\n\r\n【高校３年生】\r\n「無理ですね。スマホが命みたいな感じなんで。第二の命なんで。インスタグラムと見るだけだったらＴｉｋＴｏｋとＬＩＮＥ。見られるときは時間があったら見ています。さっき調べたら１日１４時間でした。普通に流して映像を見ているって感じで…」\r\nQ：どんな映像を見てるんですか？\r\nA：なんか流行りのものとか…。\r\nQ：親御さんからなんか言われていないですか？ＳＮＳの利用にあたって…。\r\nA：いや、特に…。母も父も同じように使うのである程度なら…。\n\n【息子は社会人・５０代、４０代】\r\n「中学の卒業式の前に買い与えてあげて友達との連絡手段にはなっているし。使い方が制限できたらいいかもしれないですけどね。悪いことに使ってる人は多分一部の人やろうから。学校から帰ってきたら嫁さんに、今日何があった？っていうのを自分でしゃべる子だから。めっちゃしゃべる子やったから、陰に隠れてなんかするとか、そういう自分の部屋にこもることがないからずっとリビングにいるから、目が届いてたんですよね。危ないものを持たせないか、使い方を教えるかみたいな、刃物と同じ感覚かなと思う」\n\n■■■　スタジオ補足　■■■\n\n子どもへのＳＮＳ禁止一部の国ではすでに動きがみられます。\r\n\r\nオーストラリアでは去年１２月、１６歳未満のＳＮＳの利用を禁止する法律が施行。\r\nさらにフランス、スペインでも子どものＳＮＳ利用が禁止されています。\r\n\r\n子どもたちが違法・有害な情報と接触するのを防ぐため、広島県も去年１月、インターネットのフィルタリング機能の活用を促す条例を施行しましたが、最新データで実際に使っている青少年の割合は県内で３２．１％にとどまっています。 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TBOPQ65tFv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TBOPQ65tFv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TBOPQ65tFv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TBOPQ65tFv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TBOPQ65tFv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TBOPQ65tFv8"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uUWD-WV8Q0iaEk7uqY46g-XXRXk",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LmVocTE5V1YtOWpF",
+      "snippet": {
+        "publishedAt": "2026-02-11T21:43:11Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "【広島あの日のきょう】「あの慣れ親しんだ味が…」『吉野家』牛丼の販売休止に追い込まれる（2004年） (2026/02/11 17:59)",
+        "description": "「あの日のきょうにずきゅん」テレビ新広島、放送５０年の歴史の中から、あの日のニュースを振り返ります。\r\n\r\n今から２２年前の２００４年２月１１日、ＢＳＥ問題によりアメリカ産牛肉の輸入が禁止されたことから、大手牛丼チェーン「吉野家」で牛丼の販売が休止に追い込まれました。\n\n「あの慣れ親しんだ味がとうとう食べられなくなる。店は最後の一杯を求めるお客さんでいっぱいです」\r\n\r\n午後１時半の段階で、この店の在庫はあと４００食。\r\n最後の瞬間が近づいてきます。\r\nそしてついに午後４時半、最後の一杯が売り切れ、販売中止を知らせる紙が入り口に貼られました。\n\n【最後の客】\r\n「まさか最後になるとは思いませんでした。ちょっとじっくり味わって食べようと思っています」\r\n\r\n【牛丼ファン】\r\n「僕が学生時代からずっと食べてきた味なんで、たまに無性に食べたくなるんですよ。だからすごい嫌です」\r\n\r\n牛丼ファンにとっては、吉野家が牛丼を完全復活させる２００８年３月まで寂しい日々が続きました。 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ehq19WV-9jE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ehq19WV-9jE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ehq19WV-9jE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ehq19WV-9jE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ehq19WV-9jE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ehq19WV-9jE"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g3ue_2aI-ccv2XD3brnYdRss2qU",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3Lnd6cVBvaHZPSzdB",
+      "snippet": {
+        "publishedAt": "2026-02-11T21:43:11Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "「海ごみ」どうやったら減らせる！？　海ごみ妖怪を展示し課題を語り合い考える　広島・江田島市 (2026/02/11 18:45)",
+        "description": "釣りのルアーやサンダルなどゴミを身にまとって佇む妖怪…。\r\n訴えているのは…。\n\n【辰已麗アナウンサー】\r\n「江田島市の海岸です。こちらには大きな発泡スチロールの浮きも流れ着いていますし、移動するとこういった牡蠣の養殖で使うパイプ、カップ麺のゴミ、ミカンの皮、雨の袋のゴミも落ちています」\r\n\r\nこの場所でゴミ拾いをしてみると…。\r\n５分ほどで普段コンビニで買い物をする際に使うサイズの袋の中がいっぱいに…。\r\n県の調査では県内の海岸漂着物はおよそ１１．２トンあり、そのうち９割は漁業や私たちの生活から出たプラスチックゴミだといいます。\n\nこうした課題を解決すべく江田島市内の商業施設で開かれたのは…。\r\n\r\n【辰已麗アナウンサー】\r\n「海ごみ妖怪という作品としての展示もある中で、こちらには実際に感じることができる海ごみプールというのもあります」\n\n展示やトークイベントを通して身近な海を守るために『自分たちができること』を考えるイベント。\r\n\r\n【マツダの担当者】\r\n「（ビーチクリーンで）なんでカキパイプを（自動車メーカーの）わしらが拾わないといけんのんとなるここがすごい課題なんです」\r\n\r\n県や江田島市、企業の担当者が取り組みや課題について発表しました。\r\n\r\n【ひろしま海の森づくりプロジェクトの担当者】\r\n「関わりしろを残すことをいかにできるかというところによって、大きなうねりにつながるのではないかと思っている」\r\n\r\nさらに、島内に住む小学４年生は独学のプログラミングで作ったというゲームを紹介。\r\n\r\n【小学４年生】\r\n「子どものほうが海のことを知らんかもしれんし、（叶えたいのは）海ごみを無くしたいということですね、一番は…」\n\n最後に、市民や企業、行政などの垣根を越えて、会場に訪れた人たちが未来について語り合いました。\r\n\r\n【江田島市民】\r\n「（海ごみの再生について）広島市ではできていないことが江田島市ではできているんだもっとアピールしたらいいのにって」\r\n\r\n【東京から旅行で訪れた人】\r\n「（また江田島市に）訪れたいといま思っているので、友達とか学校の人とかも巻き込んで連れてきて、案内やこういう取り組みがあるんだよと伝えられるようになりたい」\r\n\r\n【江田島市内に住む５年生】\r\nＱ：きょうからどんな風に行動したい？\r\nＡ：「ゴミがあったら（拾って）ちゃんと捨てようと思った」 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wzqPohvOK7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wzqPohvOK7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wzqPohvOK7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wzqPohvOK7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wzqPohvOK7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wzqPohvOK7A"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QhzNB3eJzOdThM2nubm99qGyIok",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3Lnp1RTFrcXJUMnln",
+      "snippet": {
+        "publishedAt": "2026-02-11T21:43:11Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "「竹とんぼ」、「こま回し」、「羽子板」など　昔遊びで小学生と地域住民が交流　東広島市 (2026/02/11 17:54)",
+        "description": "ＴＳＳのふるさと通信員から届いた地域の話題です。\r\n東広島市では小学生が地域の人に教わりながら昔の遊びを体験しました。\r\n\r\n「きょうはよろしくお願いします」\r\n\r\n昔遊びを楽しんだのは、東広島市立志和小学校の１年生２３人です。\r\n地域を支える民生委員８人が先生になり、こま回しや竹とんぼ、あやとりなど６つの遊びを体験しました。\r\n\r\nこの取り組みは、地域住民との交流を深めながら伝統的な日本の遊びに触れてもらおうと３年前から行われていて、子どもたちはアドバイスを受けながら初めて体験する遊びにも夢中になっていました。\r\n\r\n【児童は】\r\nＱ：何が一番楽しかった？\r\n「けん玉です」\r\nＱ：地域の人と遊ぶのはどうでしたか？\r\n「楽しかったです」\r\n「羽根つきを飛ばすのを教えてもらいました」\r\n「楽しい時間だった」\r\n\r\n最後は感謝の気持ちを込めて、子どもたちが作ったメダルが民生委員に贈られました。 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zuE1kqrT2yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zuE1kqrT2yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zuE1kqrT2yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zuE1kqrT2yg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zuE1kqrT2yg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zuE1kqrT2yg"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "id": "IqVtKQgFOzw",
+      "title": "【広陵高校野球部 暴力事案】　約３年前の88件「いずれの事実も認めることは困難」 第三者委員会が報告 (2026/02/16 15:51)",
+      "description": "",
+      "publishedAt": "2026-02-16T08:40:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IqVtKQgFOzw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IqVtKQgFOzw"
+    },
+    {
+      "id": "9-HLaAdAurc",
+      "title": "【続報】東広島市で４０代男性死亡　首に刃物で切られたような傷　殺人事件か　住宅は火災で屋根焼け落ちる (2026/02/16 11:09)",
+      "description": "",
+      "publishedAt": "2026-02-16T04:43:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9-HLaAdAurc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9-HLaAdAurc"
+    },
+    {
+      "id": "Or24DtCGLi0",
+      "title": "広島県出身の福部真子、山縣亮太が出場　鹿児島県で開催の「室内陸上」　世界室内陸上参加標準を狙う (2026/02/16 11:54)",
+      "description": "",
+      "publishedAt": "2026-02-16T04:43:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Or24DtCGLi0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Or24DtCGLi0"
+    },
+    {
+      "id": "YFOHW0Tp92E",
+      "title": "海の生物だけじゃない！ アートで幻想的な「広島もとまち水族館」の演出にずきゅん。【ひろしま棚さんぽ】 (2026/02/13 20:00)",
+      "description": "",
+      "publishedAt": "2026-02-16T04:43:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YFOHW0Tp92E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YFOHW0Tp92E"
+    },
+    {
+      "id": "hprizVGa2MY",
+      "title": "ウサギ島の「訪問税」　竹原市が大久野島への導入検討を撤回へ　具体的な使途など定まらず (2026/02/16 11:53)",
+      "description": "",
+      "publishedAt": "2026-02-16T04:43:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hprizVGa2MY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hprizVGa2MY"
+    },
+    {
+      "id": "Oh5MrYTTiS0",
+      "title": "高校生79人が挑戦発表　対話で次の一歩へ「全国高校生マイプロジェクトアワード広島県サミット」",
+      "description": "",
+      "publishedAt": "2026-02-16T02:44:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Oh5MrYTTiS0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Oh5MrYTTiS0"
+    },
+    {
+      "id": "1VveyJ7r-E4",
+      "title": "広島市民賞に被爆者ら個人３人と５団体が選ばれる １３日 広島市 (2026/02/14 14:00)",
+      "description": "",
+      "publishedAt": "2026-02-16T00:02:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1VveyJ7r-E4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1VveyJ7r-E4"
+    },
+    {
+      "id": "fSt1n3F9EIs",
+      "title": "子どもたちが世界に誇る「和食」の家庭料理に挑戦！ 広島市 １４日 (2026/02/14 14:00)",
+      "description": "",
+      "publishedAt": "2026-02-16T00:02:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fSt1n3F9EIs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fSt1n3F9EIs"
+    },
+    {
+      "id": "sq_hd6AEW38",
+      "title": "「高校生CM甲子園」表彰式　 闇バイトの危険性を描いた作品がグランプリ受賞 (2026/02/15 18:00)",
+      "description": "",
+      "publishedAt": "2026-02-16T00:02:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sq_hd6AEW38/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sq_hd6AEW38"
+    },
+    {
+      "id": "BvVc5fjO7dY",
+      "title": "「ひろしま朝市」　開催1000回の節目　平和大通りで23年続く (2026/02/15 12:00)",
+      "description": "",
+      "publishedAt": "2026-02-16T00:02:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BvVc5fjO7dY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BvVc5fjO7dY"
+    },
     {
       "id": "YdqLvYTz8Sg",
       "title": "海の生物だけじゃない！ アートで幻想的な「広島もとまち水族館」の演出にずきゅん。【ひろしま棚さんぽ】 (2026/02/13 20:00)",
@@ -13478,6 +13975,54 @@
       "title": "増加する児童虐待　予兆は？ SOSは？　児相・警察・学校が共同制作「オリジナル劇」で理解深める　広島 (2025/10/15 19:53)",
       "thumbnail": "https://i.ytimg.com/vi/AeG_Ul7nE4g/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=AeG_Ul7nE4g"
+    },
+    {
+      "id": "ntw2RQlH4Hs",
+      "title": "「父親の頭を刺した」娘（42）を殺人未遂容疑で逮捕　父親（76）の後頭部を包丁で切りつけたか　広島 (2026/02/13 10:54)",
+      "thumbnail": "https://i.ytimg.com/vi/ntw2RQlH4Hs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ntw2RQlH4Hs"
+    },
+    {
+      "id": "dCKud1RpzTs",
+      "title": "【高校生ニュース】『バレンタインデーに込める気持ち』 男子と女子では？ イベント？ 気持ちを伝える？ (2026/02/12 17:48)",
+      "thumbnail": "https://i.ytimg.com/vi/dCKud1RpzTs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dCKud1RpzTs"
+    },
+    {
+      "id": "Gwhs2h7TFB0",
+      "title": "２月１２日は「レトルトカレー」の日！ 手軽に全国各地の味を楽しめる！ 広島での売行きランキングは！？ (2026/02/12 20:00)",
+      "thumbnail": "https://i.ytimg.com/vi/Gwhs2h7TFB0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Gwhs2h7TFB0"
+    },
+    {
+      "id": "Fla65k5rQ8c",
+      "title": "広島県には16の地震が想定　いざという時に子どもたちの命を守る　「減災教育」に注目 (2026/02/12 20:30)",
+      "thumbnail": "https://i.ytimg.com/vi/Fla65k5rQ8c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fla65k5rQ8c"
+    },
+    {
+      "id": "TBOPQ65tFv8",
+      "title": "「子どものＳＮＳ禁止」世界で広がる　広島県内のフィルタリング機能活用は３２．１％　あなたは？ (2026/02/12 19:28)",
+      "thumbnail": "https://i.ytimg.com/vi/TBOPQ65tFv8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TBOPQ65tFv8"
+    },
+    {
+      "id": "ehq19WV-9jE",
+      "title": "【広島あの日のきょう】「あの慣れ親しんだ味が…」『吉野家』牛丼の販売休止に追い込まれる（2004年） (2026/02/11 17:59)",
+      "thumbnail": "https://i.ytimg.com/vi/ehq19WV-9jE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ehq19WV-9jE"
+    },
+    {
+      "id": "wzqPohvOK7A",
+      "title": "「海ごみ」どうやったら減らせる！？　海ごみ妖怪を展示し課題を語り合い考える　広島・江田島市 (2026/02/11 18:45)",
+      "thumbnail": "https://i.ytimg.com/vi/wzqPohvOK7A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wzqPohvOK7A"
+    },
+    {
+      "id": "zuE1kqrT2yg",
+      "title": "「竹とんぼ」、「こま回し」、「羽子板」など　昔遊びで小学生と地域住民が交流　東広島市 (2026/02/11 17:54)",
+      "thumbnail": "https://i.ytimg.com/vi/zuE1kqrT2yg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zuE1kqrT2yg"
     }
   ]
 }

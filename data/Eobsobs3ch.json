@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-02-13T15:44:23.029715",
+  "updated_at": "2026-02-16T15:43:14.711966",
   "videos": [
+    {
+      "id": "Z0qnV9PmZVc",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年2月16日放送分】",
+      "description": "",
+      "publishedAt": "2026-02-16T06:30:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z0qnV9PmZVc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z0qnV9PmZVc"
+    },
+    {
+      "id": "OLgqe-D14iY",
+      "title": "【別府市】古着屋 Flip／KURUKURU（2026年1月28日放送分）",
+      "description": "",
+      "publishedAt": "2026-02-16T01:27:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OLgqe-D14iY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OLgqe-D14iY"
+    },
     {
       "id": "HiqEAwyTsS4",
       "title": "【日出町】merry coffee（2026年1月28日放送分）",

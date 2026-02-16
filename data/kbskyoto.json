@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-02-14T15:28:31.601034",
+  "updated_at": "2026-02-16T15:42:59.938594",
   "videos": [
+    {
+      "id": "iAjB3DVO2q0",
+      "title": "京都マラソン2026　ダイジェスト「京の大冒険！～走る喜び・支える力～」｜KBS京都",
+      "description": "",
+      "publishedAt": "2026-02-16T05:30:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iAjB3DVO2q0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iAjB3DVO2q0"
+    },
     {
       "id": "PnieCaM5kOU",
       "title": "京都マラソン2026　スタート生中継「京の大冒険！～走る喜び・支える力～」｜KBS京都",
