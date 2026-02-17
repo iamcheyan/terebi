@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-02-15T15:28:04.317205",
+  "updated_at": "2026-02-17T15:55:40.983420",
   "videos": [
+    {
+      "id": "x9VVnwgLFdw",
+      "title": "【サイコロトークやってみた】加守アナの恥ずかしかった話は！？",
+      "description": "",
+      "publishedAt": "2026-02-17T09:01:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x9VVnwgLFdw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x9VVnwgLFdw"
+    },
     {
       "id": "xUOJ6ekZZLo",
       "title": "食遺産File.234「甘口醤油の親子ステーキ」＠兵庫県・北播磨エリア",

@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-16T15:43:26.550629",
+  "updated_at": "2026-02-17T15:56:25.932872",
   "videos": [
+    {
+      "id": "jzjgYwLRtQg",
+      "title": "260217 160337 深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-02-17T10:30:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jzjgYwLRtQg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jzjgYwLRtQg"
+    },
+    {
+      "id": "Hkevg0aH3x4",
+      "title": "260217 155809 深田第４踏切（みきゃん列車通過）",
+      "description": "",
+      "publishedAt": "2026-02-17T10:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hkevg0aH3x4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hkevg0aH3x4"
+    },
+    {
+      "id": "6Ltc-R5BokY",
+      "title": "260217 155300 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-02-17T10:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6Ltc-R5BokY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6Ltc-R5BokY"
+    },
+    {
+      "id": "-IE8_3BKpzY",
+      "title": "260217 153800 兼近第３踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-02-17T09:42:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-IE8_3BKpzY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-IE8_3BKpzY"
+    },
+    {
+      "id": "4kBX-kGZyRE",
+      "title": "260217 153452 兼近第３踏切 ２",
+      "description": "",
+      "publishedAt": "2026-02-17T09:41:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4kBX-kGZyRE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4kBX-kGZyRE"
+    },
+    {
+      "id": "RsarloQiPak",
+      "title": "260217 153132 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-02-17T09:25:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RsarloQiPak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RsarloQiPak"
+    },
     {
       "id": "YGFzOI1Xc0E",
       "title": "260216 174414 キハ32 vs キハ54（伊予宮野下駅、手前のキハ32は本来新幹線のはず）",

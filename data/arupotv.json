@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-02-16T15:43:15.674132",
+  "updated_at": "2026-02-17T15:56:12.986042",
   "videos": [
+    {
+      "id": "g2cle4AoxAE",
+      "title": "【番宣】２月１９日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-02-17T06:28:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g2cle4AoxAE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g2cle4AoxAE"
+    },
+    {
+      "id": "M-GdLgkqpHI",
+      "title": "【番宣】２月１８日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2026-02-17T04:30:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M-GdLgkqpHI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M-GdLgkqpHI"
+    },
+    {
+      "id": "rkXoDZX65IQ",
+      "title": "【番宣】２月１８日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-02-17T01:15:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rkXoDZX65IQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rkXoDZX65IQ"
+    },
     {
       "id": "NIDGyz4QCAU",
       "title": "【番宣】３月１日（日）新 窓をあけて九州",

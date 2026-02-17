@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-02-13T15:44:05.716557",
+  "updated_at": "2026-02-17T15:55:38.842195",
   "videos": [
+    {
+      "id": "oMAHJTy7myU",
+      "title": "Medical Marijuana Town Hall",
+      "description": "",
+      "publishedAt": "2026-02-17T13:33:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oMAHJTy7myU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oMAHJTy7myU"
+    },
     {
       "id": "cnDFC6p-_oQ",
       "title": "Medical Marijuana Town Hall",

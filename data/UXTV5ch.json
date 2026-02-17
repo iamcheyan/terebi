@@ -1,8 +1,20 @@
 {
   "channel_id": "UCqobPh0K_bFAWurWVQrLtKQ",
   "channel_name": "UX新潟テレビ21",
-  "updated_at": "2026-02-14T15:29:12.749351",
+  "updated_at": "2026-02-17T15:56:20.688586",
   "videos": [
+    {
+      "id": "gnx4vUmSTTk",
+      "title": "ニッセイ サステナプロジェクトをPick up!🔍",
+      "description": "",
+      "publishedAt": "2026-02-17T10:00:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gnx4vUmSTTk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gnx4vUmSTTk"
+    },
     {
       "id": "DGZqrq2O2_s",
       "title": "Team ECO Special🌱「変わる海と生きる～気候変動に挑む新潟の漁師たち～」ダイジェスト#5【Team ECO Project2025】",

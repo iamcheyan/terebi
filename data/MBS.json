@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-02-16T15:42:30.959815",
+  "updated_at": "2026-02-17T15:55:29.359836",
   "videos": [
+    {
+      "id": "Ss8u3zwGDyo",
+      "title": "★2月21日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-02-17T03:53:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ss8u3zwGDyo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ss8u3zwGDyo"
+    },
     {
       "id": "Pr2gZXV551k",
       "title": "無駄なくだりほど笑えるww新喜劇",
