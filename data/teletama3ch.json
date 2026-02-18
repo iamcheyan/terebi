@@ -1,8 +1,32 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-02-17T15:55:37.057427",
+  "updated_at": "2026-02-18T15:54:39.091701",
   "videos": [
+    {
+      "id": "c-aDf6-5cCI",
+      "title": "Episode5　節分で豆まきパワー",
+      "description": "",
+      "publishedAt": "2026-02-18T12:45:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c-aDf6-5cCI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c-aDf6-5cCI"
+    },
+    {
+      "id": "VofpH0hVpFg",
+      "title": "【辻さんとキャンプ】辻さんの注目選手は…？埼玉西武ライオンズ春季南郷キャンプの辻さんに密着！【辻発彦のツジハツ!! #48】",
+      "description": "",
+      "publishedAt": "2026-02-18T07:30:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VofpH0hVpFg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VofpH0hVpFg"
+    },
     {
       "id": "r-jCdv_E7xA",
       "title": "ルアー釣りのポイントは？エリアトラウト、釣り対決で爆釣！【田村亮の釣りまか！267】",

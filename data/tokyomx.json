@@ -1,8 +1,92 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-02-17T15:55:51.727743",
+  "updated_at": "2026-02-18T15:54:30.519726",
   "videos": [
+    {
+      "id": "ofdwUiNP8fA",
+      "title": "食料品消費税ゼロへ 企業への影響は？【堀潤 選挙Junction】",
+      "description": "",
+      "publishedAt": "2026-02-18T14:03:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ofdwUiNP8fA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ofdwUiNP8fA"
+    },
+    {
+      "id": "JZkuQJqorO8",
+      "title": "食料品の消費税減税 対応での負担は？【堀潤 選挙Junction】",
+      "description": "",
+      "publishedAt": "2026-02-18T14:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JZkuQJqorO8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JZkuQJqorO8"
+    },
+    {
+      "id": "0TcRpbcRKkU",
+      "title": "衆院選当選の新人議員が登院し決意語る　“巨大与党”第2次高市内閣始動へ",
+      "description": "",
+      "publishedAt": "2026-02-18T13:35:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0TcRpbcRKkU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0TcRpbcRKkU"
+    },
+    {
+      "id": "l3H-hmksQ14",
+      "title": "都議会が開会　小池知事「東京を世界一に」税の偏在是正を国と議論へ",
+      "description": "",
+      "publishedAt": "2026-02-18T13:28:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l3H-hmksQ14/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l3H-hmksQ14"
+    },
+    {
+      "id": "kYZfzFuph70",
+      "title": "品川区 森澤区長に聞く 都内・23区初の施策とは？【堀潤 Live Junction】",
+      "description": "",
+      "publishedAt": "2026-02-18T13:23:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kYZfzFuph70/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kYZfzFuph70"
+    },
+    {
+      "id": "0OnC9boknPY",
+      "title": "「ミュゼ」元従業員の未払い給与、約15億円支払い開始　高橋英樹氏は「支払いで一区切り、海外展開も」",
+      "description": "",
+      "publishedAt": "2026-02-18T13:21:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0OnC9boknPY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0OnC9boknPY"
+    },
+    {
+      "id": "cPnThNG7bmk",
+      "title": "品川区 森澤区長に聞く 新たな子育て支援策は？【堀潤 Live Junction】",
+      "description": "",
+      "publishedAt": "2026-02-18T13:11:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cPnThNG7bmk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cPnThNG7bmk"
+    },
     {
       "id": "5GOd-9pPfgQ",
       "title": "千代田区 樋口区長に聞く 新年度予算案 主な事業は？【堀潤 Live Junction】",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-02-17T15:56:14.397442",
+  "updated_at": "2026-02-18T15:55:16.568052",
   "videos": [
+    {
+      "id": "dSUchnyUepE",
+      "title": "ライブカメラ  北海道（札幌・大通公園・新千歳空港・小樽・稚内・留萌・旭川・室蘭・浦河・江差・函館山・紋別・網走・帯広・釧路・根室）//LiveCamera Hokkaido Japan",
+      "description": "",
+      "publishedAt": "2026-02-18T00:40:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dSUchnyUepE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dSUchnyUepE"
+    },
     {
       "id": "Er_972G7AWg",
       "title": "ライブカメラ  大倉山ジャンプ競技場 山頂展望台(STV札幌テレビ放送)北海道札幌市中央区宮の森 /Live Camera Okurayama Ski Jump Stadium, Hokkaido",
