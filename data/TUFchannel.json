@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-02-17T15:56:17.736220",
+  "updated_at": "2026-02-19T15:52:52.292281",
   "videos": [
+    {
+      "id": "WON6yYs9slE",
+      "title": "【ふくしまSHOW】『相馬市』大特集！",
+      "description": "",
+      "publishedAt": "2026-02-19T02:54:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WON6yYs9slE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WON6yYs9slE"
+    },
     {
       "id": "aId_G-8OxW4",
       "title": "2026防災キャンペーン（NHK）",

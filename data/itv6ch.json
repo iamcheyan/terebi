@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-02-18T15:55:21.705052",
+  "updated_at": "2026-02-19T15:52:57.560963",
   "videos": [
+    {
+      "id": "TkoD9d-2C_k",
+      "title": "愛媛のニュース(02月19日)",
+      "description": "",
+      "publishedAt": "2026-02-19T11:38:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TkoD9d-2C_k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TkoD9d-2C_k"
+    },
+    {
+      "id": "WAb9_H_fCdQ",
+      "title": "愛媛県警初！女性副署長の１日に密着",
+      "description": "",
+      "publishedAt": "2026-02-19T10:00:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WAb9_H_fCdQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WAb9_H_fCdQ"
+    },
+    {
+      "id": "VCF-fE65b2Q",
+      "title": "STU48が愛媛をEVドライブ！【第5回】ブルークエスト with STU48（今治湯ノ浦温泉編）",
+      "description": "",
+      "publishedAt": "2026-02-19T09:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VCF-fE65b2Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VCF-fE65b2Q"
+    },
     {
       "id": "s8IdlF1TtUU",
       "title": "愛媛のニュース(02月18日)",

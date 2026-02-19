@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-02-18T15:54:25.111305",
+  "updated_at": "2026-02-19T15:52:10.091696",
   "videos": [
+    {
+      "id": "fEr4404050U",
+      "title": "【キッズチャレンジスタジアム】ときくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-02-19T09:01:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fEr4404050U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fEr4404050U"
+    },
+    {
+      "id": "h1Jcva7cMYs",
+      "title": "【テレビ派】洋麺屋もり　万能！ツナ缶塩こんぶパスタ",
+      "description": "",
+      "publishedAt": "2026-02-19T02:01:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h1Jcva7cMYs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h1Jcva7cMYs"
+    },
     {
       "id": "4jG_a7P2LWM",
       "title": "【まるで敵のアジトに潜入する主人公】広島でサバゲ―ができる秘密基地",

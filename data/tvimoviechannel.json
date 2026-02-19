@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-18T15:55:18.620956",
+  "updated_at": "2026-02-19T15:52:52.589248",
   "videos": [
+    {
+      "id": "r3bhvR4Yhqk",
+      "title": "今日の５きげんテレビ（2月20日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-02-19T15:01:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r3bhvR4Yhqk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r3bhvR4Yhqk"
+    },
+    {
+      "id": "i7egQVJYbOM",
+      "title": "リクエストこたえ隊～カフェなのに○○が人気!～",
+      "description": "",
+      "publishedAt": "2026-02-19T10:41:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i7egQVJYbOM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i7egQVJYbOM"
+    },
     {
       "id": "-neyMF41GPQ",
       "title": "５きげんクッキング ～豆腐のとろろ蒸し～",

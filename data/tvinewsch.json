@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-02-18T15:54:46.126021",
+  "updated_at": "2026-02-19T15:52:08.218350",
   "videos": [
+    {
+      "id": "0AMx3ZnHj3g",
+      "title": "【プラス1ダイジェスト】2/19(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-02-19T10:06:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0AMx3ZnHj3g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0AMx3ZnHj3g"
+    },
+    {
+      "id": "IMdXsNDHzik",
+      "title": "元気○（マル）らいふ　【林野火災注意報と警報】（2026/2/18放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-02-19T05:38:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IMdXsNDHzik/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IMdXsNDHzik"
+    },
     {
       "id": "4JosYm2XX2Y",
       "title": "【プラス1ダイジェスト】2/18(水) のニュース",

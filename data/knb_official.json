@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-02-17T15:56:06.577782",
+  "updated_at": "2026-02-19T15:52:40.811856",
   "videos": [
+    {
+      "id": "0X4SchTfHTk",
+      "title": "【北陸３県イイトコどり～】趣味が高じて",
+      "description": "",
+      "publishedAt": "2026-02-19T10:23:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0X4SchTfHTk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0X4SchTfHTk"
+    },
     {
       "id": "CxPyDSZRjsQ",
       "title": "【旬景とやま】渡船のある風景",
