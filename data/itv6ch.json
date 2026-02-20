@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-02-19T15:52:57.560963",
+  "updated_at": "2026-02-20T15:39:33.491182",
   "videos": [
+    {
+      "id": "1SiI3ckAZZg",
+      "title": "愛媛のニュース(02月20日)",
+      "description": "",
+      "publishedAt": "2026-02-20T11:37:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1SiI3ckAZZg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1SiI3ckAZZg"
+    },
+    {
+      "id": "3UVWTdUuMLE",
+      "title": "STU48が愛媛をEVドライブ！【第6回】ブルークエスト with STU48（道の駅よしうみいきいき館編）",
+      "description": "",
+      "publishedAt": "2026-02-20T06:29:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3UVWTdUuMLE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3UVWTdUuMLE"
+    },
+    {
+      "id": "kZXz2T766cI",
+      "title": "STU48が愛媛をEVドライブ！【第5回】ブルークエスト with STU48（今治湯ノ浦温泉編）",
+      "description": "",
+      "publishedAt": "2026-02-20T06:28:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kZXz2T766cI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kZXz2T766cI"
+    },
     {
       "id": "TkoD9d-2C_k",
       "title": "愛媛のニュース(02月19日)",

@@ -1,8 +1,104 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-02-19T15:52:12.888035",
+  "updated_at": "2026-02-20T15:38:51.140109",
   "videos": [
+    {
+      "id": "vhNE9toKSrA",
+      "title": "「news おかえり」2月23日 （月）午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-02-20T09:25:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vhNE9toKSrA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vhNE9toKSrA"
+    },
+    {
+      "id": "Y80QbXYRHyU",
+      "title": "「news おかえり」2月24日 （火）午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-02-20T09:24:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y80QbXYRHyU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y80QbXYRHyU"
+    },
+    {
+      "id": "jbCFADHJmMc",
+      "title": "３歳の娘の“初恋”",
+      "description": "",
+      "publishedAt": "2026-02-20T09:01:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jbCFADHJmMc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jbCFADHJmMc"
+    },
+    {
+      "id": "iP1AddKl2Hk",
+      "title": "「ザキ山小屋」2026年3月13日（金）深夜放送",
+      "description": "",
+      "publishedAt": "2026-02-20T07:35:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iP1AddKl2Hk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iP1AddKl2Hk"
+    },
+    {
+      "id": "DZJ8g9PAMgw",
+      "title": "「LIFE ～夢のカタチ～」2026年2月21日（土）放送",
+      "description": "",
+      "publishedAt": "2026-02-20T06:01:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DZJ8g9PAMgw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DZJ8g9PAMgw"
+    },
+    {
+      "id": "Sqx4wj8ZMtw",
+      "title": "海外の旅はスペイン！ゲストの旅は岡本知高！「旅サラダ」2月21日（土）放送",
+      "description": "",
+      "publishedAt": "2026-02-20T01:23:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Sqx4wj8ZMtw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Sqx4wj8ZMtw"
+    },
+    {
+      "id": "8PsqAuRQ6Hg",
+      "title": "「相席食堂」2月24日（火）よる放送！",
+      "description": "",
+      "publishedAt": "2026-02-20T01:21:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8PsqAuRQ6Hg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8PsqAuRQ6Hg"
+    },
+    {
+      "id": "zZuYgEQP3qs",
+      "title": "「やすとものいたって真剣です」2月26日（木）よる11時17分放送！",
+      "description": "",
+      "publishedAt": "2026-02-20T01:01:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zZuYgEQP3qs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zZuYgEQP3qs"
+    },
     {
       "id": "HQ81CwL0AKQ",
       "title": "キム兄が推す京都あったか麺",

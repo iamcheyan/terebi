@@ -1,8 +1,20 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-02-19T15:52:53.386417",
+  "updated_at": "2026-02-20T15:39:31.275576",
   "videos": [
+    {
+      "id": "iYxVirXnsbQ",
+      "title": "【博多歌うま王決定戦】歌唱動画サンプル【テレQ岡田アナ】",
+      "description": "",
+      "publishedAt": "2026-02-20T01:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iYxVirXnsbQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iYxVirXnsbQ"
+    },
     {
       "id": "IxBoctllH4o",
       "title": "【夢クルーズ】595 幸楽窯 (2026年2月19日放送)",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-02-18T15:54:32.877634",
+  "updated_at": "2026-02-20T15:39:12.563244",
   "videos": [
+    {
+      "id": "W9JQ_ViOoLQ",
+      "title": "和牛革命　広島榊山牛の真実",
+      "description": "",
+      "publishedAt": "2026-02-20T02:25:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W9JQ_ViOoLQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W9JQ_ViOoLQ"
+    },
+    {
+      "id": "lPWBJBNbNc0",
+      "title": "RCCテレビ『元就。』2026年2月22日予告",
+      "description": "",
+      "publishedAt": "2026-02-20T01:27:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lPWBJBNbNc0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lPWBJBNbNc0"
+    },
     {
       "id": "cQXKJfJ3NGg",
       "title": "【広島!中高生ニュース】安田女子中学高等学校 スクールドッグ【広島の朝は THE TIME, !!】",

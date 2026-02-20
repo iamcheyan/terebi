@@ -1,8 +1,56 @@
 {
   "channel_id": "UCD1MsyeoR0St_aWxydu9law",
   "channel_name": "BBT富山テレビ",
-  "updated_at": "2026-02-18T15:55:05.359590",
+  "updated_at": "2026-02-20T15:39:19.582192",
   "videos": [
+    {
+      "id": "V_ujFeYyIko",
+      "title": "卒うた-高岡龍谷高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-20T01:01:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V_ujFeYyIko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V_ujFeYyIko"
+    },
+    {
+      "id": "2QbF2XKAKq4",
+      "title": "卒うた-中央農業高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-20T01:01:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2QbF2XKAKq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2QbF2XKAKq4"
+    },
+    {
+      "id": "fj0gROwcLiU",
+      "title": "卒うた-富山いずみ高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-20T01:01:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fj0gROwcLiU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fj0gROwcLiU"
+    },
+    {
+      "id": "IHmzvnUPAKo",
+      "title": "卒うた-富山第一高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-20T01:01:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IHmzvnUPAKo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IHmzvnUPAKo"
+    },
     {
       "id": "HWaqcYYbszA",
       "title": "【追跡！野菜のお値段】市場に春告げる野菜が続々登場　冬野菜は今が最高の甘さ【ライブBBT】（2026年2月17日放送）",

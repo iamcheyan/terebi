@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-02-14T15:28:32.468315",
+  "updated_at": "2026-02-20T15:39:00.522144",
   "videos": [
+    {
+      "id": "J8ekHgNjXLM",
+      "title": "【見逃し】新庄亀綾織 新庄市から生中継 和田孝太郎アナウンサー",
+      "description": "",
+      "publishedAt": "2026-02-20T10:13:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J8ekHgNjXLM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J8ekHgNjXLM"
+    },
     {
       "id": "2-Bk5fE6qic",
       "title": "第2816回 クロマツ林再生へ動き加速「提言の広場」",

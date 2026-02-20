@@ -1,8 +1,32 @@
 {
   "channel_id": "UCuhA-fogYs0MwglwZbnL_8A",
   "channel_name": "四国放送（JRT）",
-  "updated_at": "2026-02-19T15:51:55.766376",
+  "updated_at": "2026-02-20T15:39:04.106486",
   "videos": [
+    {
+      "id": "lkAo8GLYI3M",
+      "title": "【挑戦】イチゴとつくる町の未来　東みよし町が新たな町おこし",
+      "description": "",
+      "publishedAt": "2026-02-20T10:37:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lkAo8GLYI3M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lkAo8GLYI3M"
+    },
+    {
+      "id": "WzhgL0mprbE",
+      "title": "【早咲き】一足早い春の訪れ　勝浦町で「河津桜」ほころぶ",
+      "description": "",
+      "publishedAt": "2026-02-20T10:32:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WzhgL0mprbE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WzhgL0mprbE"
+    },
     {
       "id": "CAhAN7aH0Qw",
       "title": "【記録的少雨】水面が姿消す　那賀川で渇水深刻",

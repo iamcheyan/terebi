@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-02-17T15:55:52.239928",
+  "updated_at": "2026-02-20T15:38:47.173895",
   "videos": [
+    {
+      "id": "Lb8TwUZcinU",
+      "title": "【京都府議会】令和8年2月定例会／代表質問2日目",
+      "description": "",
+      "publishedAt": "2026-02-20T04:48:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Lb8TwUZcinU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Lb8TwUZcinU"
+    },
+    {
+      "id": "oeVXoCWxT_w",
+      "title": "【京都府議会】令和8年2月定例会／代表質問1日目",
+      "description": "",
+      "publishedAt": "2026-02-20T04:47:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oeVXoCWxT_w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oeVXoCWxT_w"
+    },
     {
       "id": "FIMJxhb4iIU",
       "title": "花園大学の学生が先輩が働く企業潜入！／先輩、こんにちは！",

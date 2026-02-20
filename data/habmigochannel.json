@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-02-19T15:52:25.010033",
+  "updated_at": "2026-02-20T15:38:43.837113",
   "videos": [
+    {
+      "id": "XHABAAJJfxE",
+      "title": "北電が社宅をリノベして賃貸へ　無印設計の内見会",
+      "description": "",
+      "publishedAt": "2026-02-20T10:25:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XHABAAJJfxE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XHABAAJJfxE"
+    },
+    {
+      "id": "pey3kZckMk4",
+      "title": "道徳の授業に被災企業の社長が講師に",
+      "description": "",
+      "publishedAt": "2026-02-20T10:25:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pey3kZckMk4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pey3kZckMk4"
+    },
     {
       "id": "S9hy4JzBdEM",
       "title": "被災地の住民に外出・運動を促すアプリ",

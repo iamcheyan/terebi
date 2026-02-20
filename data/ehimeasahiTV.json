@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2026-02-19T15:51:58.314376",
+  "updated_at": "2026-02-20T15:38:47.955864",
   "videos": [
+    {
+      "id": "ZBA60NlFjsU",
+      "title": "#むかしストリート NGver #中村高校",
+      "description": "",
+      "publishedAt": "2026-02-20T12:01:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZBA60NlFjsU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZBA60NlFjsU"
+    },
+    {
+      "id": "GzBQ5D7MmxE",
+      "title": "#ぷりきゅきゅ かかったら踊ってしまう #カメラマン with #松山のぞみ幼稚園",
+      "description": "",
+      "publishedAt": "2026-02-20T00:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GzBQ5D7MmxE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GzBQ5D7MmxE"
+    },
     {
       "id": "NTRophW0PnM",
       "title": "#トンツカタンタン かかったら踊るように撮る #カメラマン × #愛媛星岡幼稚園",

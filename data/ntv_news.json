@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-02-19T15:51:59.162248",
+  "updated_at": "2026-02-20T15:38:51.692867",
   "videos": [
+    {
+      "id": "nlKxwH0JsOQ",
+      "title": "NSAA Wrestling Boys Class A and D State Qualifying Highlights",
+      "description": "",
+      "publishedAt": "2026-02-20T05:43:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nlKxwH0JsOQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nlKxwH0JsOQ"
+    },
+    {
+      "id": "lw-3KNo3Q9I",
+      "title": "NSAA Wrestling Boys Class B and C State Qualifying Highlights",
+      "description": "",
+      "publishedAt": "2026-02-19T22:46:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lw-3KNo3Q9I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lw-3KNo3Q9I"
+    },
     {
       "id": "PFROZwuCteI",
       "title": "NSAA Wrestling Girls Class A State Championship Highlights",
