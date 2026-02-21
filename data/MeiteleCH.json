@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-02-20T15:38:56.988882",
+  "updated_at": "2026-02-21T15:28:06.795094",
   "videos": [
+    {
+      "id": "-XRNB7CvxxQ",
+      "title": "バレンタイン配信中にお菓子をもぐもぐ【メ～テレアナch(仮)】",
+      "description": "",
+      "publishedAt": "2026-02-21T10:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-XRNB7CvxxQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-XRNB7CvxxQ"
+    },
+    {
+      "id": "x3rQ5dBqYI0",
+      "title": "【まるまる◎あいち】2026年2月21日放送 「にっぽん城まつり2026」",
+      "description": "",
+      "publishedAt": "2026-02-21T09:01:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x3rQ5dBqYI0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x3rQ5dBqYI0"
+    },
     {
       "id": "DBP6avTzxPo",
       "title": "なかなか共演の機会がないアナウンサー!?【メ～テレアナch(仮)】",

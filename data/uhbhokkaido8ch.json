@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-02-20T15:39:32.716973",
+  "updated_at": "2026-02-21T15:28:30.261281",
   "videos": [
+    {
+      "id": "hN1aIKjvARs",
+      "title": "松岡の北の夕飲み　3月7日（土）夕方4時30分放送",
+      "description": "",
+      "publishedAt": "2026-02-21T03:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hN1aIKjvARs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hN1aIKjvARs"
+    },
+    {
+      "id": "-BencGUGHgc",
+      "title": "いっとこ！：2月28日（土）放送",
+      "description": "",
+      "publishedAt": "2026-02-21T02:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-BencGUGHgc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-BencGUGHgc"
+    },
     {
       "id": "Cy9WSI7u_9U",
       "title": "発見！タカトシランド 2026年2月27日（金）OA",

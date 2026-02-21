@@ -1,8 +1,32 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-02-15T15:28:23.951292",
+  "updated_at": "2026-02-21T15:28:31.166741",
   "videos": [
+    {
+      "id": "oQUastu4jrM",
+      "title": "【ワクワク！やまが旅】最上川舟唄発祥の地を行く！",
+      "description": "",
+      "publishedAt": "2026-02-21T00:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oQUastu4jrM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oQUastu4jrM"
+    },
+    {
+      "id": "68NLatnOsXU",
+      "title": "【ワクワク！やまが旅　予告】ひと足早い春を探して…　#shorts",
+      "description": "",
+      "publishedAt": "2026-02-21T00:45:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/68NLatnOsXU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=68NLatnOsXU"
+    },
     {
       "id": "0RDXV7xFsWI",
       "title": "やまがたサンデー５　２月１５日放送分　『あなたの知らない保育の魅力』",

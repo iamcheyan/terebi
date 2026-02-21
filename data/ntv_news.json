@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-02-20T15:38:51.692867",
+  "updated_at": "2026-02-21T15:27:35.799415",
   "videos": [
+    {
+      "id": "zAWPustSuLw",
+      "title": "NSAA Wrestling Boys State Semifinal Highlights",
+      "description": "",
+      "publishedAt": "2026-02-21T03:55:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zAWPustSuLw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zAWPustSuLw"
+    },
     {
       "id": "nlKxwH0JsOQ",
       "title": "NSAA Wrestling Boys Class A and D State Qualifying Highlights",

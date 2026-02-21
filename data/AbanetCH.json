@@ -1,8 +1,32 @@
 {
   "channel_id": "UCE5ajTJVTrsmxZJ-V3y8CLA",
   "channel_name": "ABA青森朝日放送",
-  "updated_at": "2026-02-14T15:28:56.861087",
+  "updated_at": "2026-02-21T15:28:10.513226",
   "videos": [
+    {
+      "id": "DC5-Yiw_Rqs",
+      "title": "市岡元気のマジ☆ラボ　液体窒素でフルーツは釘を打てるのか⁉",
+      "description": "",
+      "publishedAt": "2026-02-21T07:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DC5-Yiw_Rqs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DC5-Yiw_Rqs"
+    },
+    {
+      "id": "LKbkraHiDfQ",
+      "title": "市岡元気のマジ☆ラボ　一瞬でアイスを作ろう！",
+      "description": "",
+      "publishedAt": "2026-02-21T07:30:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LKbkraHiDfQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LKbkraHiDfQ"
+    },
     {
       "id": "NTndNgU1naw",
       "title": "市岡元気のマジ☆ラボ　還元反応の力はすごい！",

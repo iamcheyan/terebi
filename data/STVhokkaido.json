@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-02-18T15:55:16.568052",
+  "updated_at": "2026-02-21T15:28:25.373721",
   "videos": [
+    {
+      "id": "X7Kpq0qQFME",
+      "title": "トレンド☆サプリ#175「日本ガイシ」",
+      "description": "",
+      "publishedAt": "2026-02-21T12:05:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X7Kpq0qQFME/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X7Kpq0qQFME"
+    },
     {
       "id": "dSUchnyUepE",
       "title": "ライブカメラ  北海道（札幌・大通公園・新千歳空港・小樽・稚内・留萌・旭川・室蘭・浦河・江差・函館山・紋別・網走・帯広・釧路・根室）//LiveCamera Hokkaido Japan",

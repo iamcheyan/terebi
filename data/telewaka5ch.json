@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-02-20T15:39:13.749902",
+  "updated_at": "2026-02-21T15:27:55.359087",
   "videos": [
+    {
+      "id": "ZtoBYWULFUo",
+      "title": "和歌山de乾杯!079 和歌山市・Leon前編",
+      "description": "",
+      "publishedAt": "2026-02-21T14:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZtoBYWULFUo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZtoBYWULFUo"
+    },
     {
       "id": "6Pfb1GfDYPU",
       "title": "【yell】夢は御坊市初の女子プロ！中学最後の大舞台・全中選手権【ゴルフ】",
