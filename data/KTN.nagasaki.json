@@ -1,8 +1,20 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-02-21T15:28:09.002609",
+  "updated_at": "2026-02-22T15:28:24.307647",
   "videos": [
+    {
+      "id": "nhkfSaFCfZo",
+      "title": "「進化型不動産」福徳不動産。進化をやめない企業の戦略とは！",
+      "description": "",
+      "publishedAt": "2026-02-22T00:25:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nhkfSaFCfZo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nhkfSaFCfZo"
+    },
     {
       "id": "1LoTfMJAzVI",
       "title": "スギ・ヒノキ花粉症について～重症花粉症治療～【週刊健康マガジン】",

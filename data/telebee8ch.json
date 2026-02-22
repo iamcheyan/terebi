@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-02-20T15:39:30.269952",
+  "updated_at": "2026-02-22T15:29:15.949522",
   "videos": [
+    {
+      "id": "6mBEdKGSVQE",
+      "title": "【公式】「『土踏まず』は育てていくもの～！？」（2026年2月22日放送）｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-02-22T00:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6mBEdKGSVQE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6mBEdKGSVQE"
+    },
+    {
+      "id": "t9R5SyeylVg",
+      "title": "【公式】ドキュメント九州「YO-HO!宇宙海賊の唄」（2026年3月1日OA）",
+      "description": "",
+      "publishedAt": "2026-02-21T22:00:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t9R5SyeylVg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t9R5SyeylVg"
+    },
     {
       "id": "YVDe5Go_KHM",
       "title": "【公式】2026年2月27日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",

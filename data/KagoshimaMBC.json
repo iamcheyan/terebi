@@ -1,8 +1,68 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-02-21T15:28:21.000800",
+  "updated_at": "2026-02-22T15:29:04.620088",
   "videos": [
+    {
+      "id": "uKcOs-NN0fU",
+      "title": "姶良市加治木町・金山橋【かごしまドローンTRIP】",
+      "description": "",
+      "publishedAt": "2026-02-22T14:01:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uKcOs-NN0fU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uKcOs-NN0fU"
+    },
+    {
+      "id": "KOpQWsnHq4A",
+      "title": "2/22『洗心保育園』のわんぱく君・わんぱくちゃんを紹介！【MBCテレビ『わんぱくてれび』】",
+      "description": "",
+      "publishedAt": "2026-02-22T07:30:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KOpQWsnHq4A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KOpQWsnHq4A"
+    },
+    {
+      "id": "DbVKTi1YJFM",
+      "title": "#かごしま『農福連携マルシェ2026「春の収穫祭」　ほか』（2026年2月22日放送）",
+      "description": "",
+      "publishedAt": "2026-02-22T04:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DbVKTi1YJFM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DbVKTi1YJFM"
+    },
+    {
+      "id": "t9Ztxp7ULJY",
+      "title": "【たわわのわ】かごしまサラダごぼう(2026年2月22日放送)",
+      "description": "",
+      "publishedAt": "2026-02-22T02:45:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t9Ztxp7ULJY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t9Ztxp7ULJY"
+    },
+    {
+      "id": "QhXB1CnDfaU",
+      "title": "市民のひろば「チェスト！鹿児島マラソン2026　直前情報」（2026年2月22日放送）",
+      "description": "",
+      "publishedAt": "2026-02-22T01:45:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QhXB1CnDfaU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QhXB1CnDfaU"
+    },
     {
       "id": "al2-bSE2BaI",
       "title": "#46 乗り物酔いで大ピンチ！？",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-02-20T15:39:28.150249",
+  "updated_at": "2026-02-22T15:29:10.044100",
   "videos": [
+    {
+      "id": "ab5U58K7EWU",
+      "title": "RKCアプリ漢字クイズ ～2/23の問題 ～井出アナのヒント～",
+      "description": "",
+      "publishedAt": "2026-02-22T15:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ab5U58K7EWU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ab5U58K7EWU"
+    },
     {
       "id": "uSilcCxt8Xk",
       "title": "【アフタートーク】土佐かつおが道の駅南国 風良里で…おじた🐟 #かつおのおじたLIVE",
