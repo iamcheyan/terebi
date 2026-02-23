@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-02-22T15:28:43.698312",
+  "updated_at": "2026-02-23T15:49:31.726814",
   "videos": [
+    {
+      "id": "Sjua73oXqgM",
+      "title": "島田洋七の朝から言わせろ　～卵が先か鶏が先か～",
+      "description": "",
+      "publishedAt": "2026-02-23T09:00:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Sjua73oXqgM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Sjua73oXqgM"
+    },
     {
       "id": "vHtU-Dc4nks",
       "title": "貴金属加工職人｜九州で数人の技術 “彫り留め”で包まれる宝石",

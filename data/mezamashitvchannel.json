@@ -1,8 +1,20 @@
 {
   "channel_id": "UCrrsHarrLoiLTqu1LHxDJpw",
   "channel_name": "めざましテレビチャンネル（フジテレビ）",
-  "updated_at": "2026-02-21T15:27:51.557414",
+  "updated_at": "2026-02-23T15:49:33.670726",
   "videos": [
+    {
+      "id": "uXRE5C6j51o",
+      "title": "【公式】ミニアニメ『CHOPPER's』第8話「たかかった／京都」",
+      "description": "",
+      "publishedAt": "2026-02-22T23:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uXRE5C6j51o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uXRE5C6j51o"
+    },
     {
       "id": "XYFpx-fa0nI",
       "title": "【公式】アニメ『JOCHUM』シーズン2 第20話「シェアハウスのWi-Fi」",

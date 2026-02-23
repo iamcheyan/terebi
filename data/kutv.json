@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2026-02-21T15:28:00.676346",
+  "updated_at": "2026-02-23T15:49:51.708928",
   "videos": [
+    {
+      "id": "CX8lLqeNQqY",
+      "title": "【高知！中高生ニュース】安芸中学校・高等学校　卓球部",
+      "description": "",
+      "publishedAt": "2026-02-23T00:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CX8lLqeNQqY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CX8lLqeNQqY"
+    },
     {
       "id": "8_HysPw6Bt4",
       "title": "ここだけのはなし。　移住夫婦がクラフトビールづくり　第百三回　#ここばな",

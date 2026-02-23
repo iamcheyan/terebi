@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-02-22T15:29:24.715651",
+  "updated_at": "2026-02-23T15:50:24.863842",
   "videos": [
+    {
+      "id": "Au9thXpfSFg",
+      "title": "愛媛のニュース(02月23日)",
+      "description": "",
+      "publishedAt": "2026-02-23T11:38:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Au9thXpfSFg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Au9thXpfSFg"
+    },
     {
       "id": "RD-Ww0VlCBg",
       "title": "【猫の日】「死ぬまで発症しないことも多い」知られざる“りんご猫”の実態とは？殺処分をなくすため保護猫カフェが挑む命のバトン",

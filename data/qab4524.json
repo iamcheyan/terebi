@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-02-20T15:39:27.755613",
+  "updated_at": "2026-02-23T15:50:15.172356",
   "videos": [
+    {
+      "id": "WtUTQcACuDY",
+      "title": "Listen173 尚玄さん",
+      "description": "",
+      "publishedAt": "2026-02-23T08:10:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WtUTQcACuDY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WtUTQcACuDY"
+    },
     {
       "id": "dnC0IZ9vlC0",
       "title": "Vol.44 「30歳、未来のじぶんへ」沖縄尚学３年生",
