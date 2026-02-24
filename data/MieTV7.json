@@ -1,8 +1,32 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-02-23T15:50:31.211371",
+  "updated_at": "2026-02-24T16:02:13.872737",
   "videos": [
+    {
+      "id": "UbeXe6iids0",
+      "title": "新世代のがん治療・診断　放射線医療機器が稼働開始",
+      "description": "",
+      "publishedAt": "2026-02-24T01:19:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UbeXe6iids0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UbeXe6iids0"
+    },
+    {
+      "id": "-4Gkj9mDbQw",
+      "title": "元日本代表・小椋久美子さんの親子バドミントン教室",
+      "description": "",
+      "publishedAt": "2026-02-24T01:14:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-4Gkj9mDbQw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-4Gkj9mDbQw"
+    },
     {
       "id": "1osAXQoet_U",
       "title": "公立小の給食費無償化へ　物価高対策に約4億円計上の新年度予算案",

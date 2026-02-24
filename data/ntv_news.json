@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-02-22T15:28:30.031102",
+  "updated_at": "2026-02-24T16:01:13.240307",
   "videos": [
+    {
+      "id": "a8GNQdr2PUY",
+      "title": "Nebraska Beach Volleyball Opens Season with Win",
+      "description": "",
+      "publishedAt": "2026-02-23T22:35:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a8GNQdr2PUY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a8GNQdr2PUY"
+    },
     {
       "id": "lAKRCrq9KnY",
       "title": "NSAA Wrestling Boys Championship State Finals Highlights",

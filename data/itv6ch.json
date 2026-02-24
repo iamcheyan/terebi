@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-02-23T15:50:24.863842",
+  "updated_at": "2026-02-24T16:02:10.189233",
   "videos": [
+    {
+      "id": "sHJMniGbOnc",
+      "title": "愛媛のニュース(02月24日)",
+      "description": "",
+      "publishedAt": "2026-02-24T11:38:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sHJMniGbOnc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sHJMniGbOnc"
+    },
+    {
+      "id": "PQu1pSnMr0k",
+      "title": "STU48が愛媛をEVドライブ！【第7回】ブルークエスト with STU48（亀老山展望公園編）",
+      "description": "",
+      "publishedAt": "2026-02-24T04:40:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PQu1pSnMr0k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PQu1pSnMr0k"
+    },
+    {
+      "id": "r0eknCIMiyc",
+      "title": "STU48が愛媛をEVドライブ！【第4回】ブルークエスト with STU48（タオル美術館編）",
+      "description": "",
+      "publishedAt": "2026-02-24T04:35:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r0eknCIMiyc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r0eknCIMiyc"
+    },
     {
       "id": "Au9thXpfSFg",
       "title": "愛媛のニュース(02月23日)",

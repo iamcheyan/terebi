@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-02-22T15:28:01.174537",
+  "updated_at": "2026-02-24T16:01:38.287090",
   "videos": [
+    {
+      "id": "onFbCIcj-8Y",
+      "title": "にっせーのせ！ニッセイサステナプロジェクト奈良支社取り組み",
+      "description": "",
+      "publishedAt": "2026-02-24T04:09:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/onFbCIcj-8Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=onFbCIcj-8Y"
+    },
     {
       "id": "lFYaD6x6pRw",
       "title": "【Bコート】スケーターカップ　第35回春の全国小学生ドッジボール選手権　奈良県大会",

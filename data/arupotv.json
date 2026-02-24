@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-02-22T15:29:10.578005",
+  "updated_at": "2026-02-24T16:02:02.579685",
   "videos": [
+    {
+      "id": "BApGbFw9c9k",
+      "title": "【番宣】２月２６日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-02-24T02:26:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BApGbFw9c9k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BApGbFw9c9k"
+    },
     {
       "id": "lN39bM-dmBI",
       "title": "第91回 めざせ！くまもとの若き匠たち【鹿本商工高校 機械科】",
