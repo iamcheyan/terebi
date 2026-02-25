@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-02-24T16:01:10.864156",
+  "updated_at": "2026-02-25T16:06:17.184633",
   "videos": [
+    {
+      "id": "VtvRmCH2CDE",
+      "title": "【毎週ライブ】2026/2/25「関内デビル」水曜２０時の素材",
+      "description": "",
+      "publishedAt": "2026-02-25T11:37:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VtvRmCH2CDE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VtvRmCH2CDE"
+    },
+    {
+      "id": "2eC-6Iz-9c8",
+      "title": "カナフルTV　2月22日　神奈川のご当地キャラ大集合！カナフル運動会リターンズ",
+      "description": "",
+      "publishedAt": "2026-02-25T04:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2eC-6Iz-9c8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2eC-6Iz-9c8"
+    },
+    {
+      "id": "sRFIHNKs5RY",
+      "title": "かながわ旬菜ナビ　次回予告（3月1日放送）",
+      "description": "",
+      "publishedAt": "2026-02-25T03:01:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sRFIHNKs5RY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sRFIHNKs5RY"
+    },
     {
       "id": "UuhbzYlqrV8",
       "title": "tvk「クルマでいこう！」公式 トヨタ アクア 2026/2/15放送(#927)",

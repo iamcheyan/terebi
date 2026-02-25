@@ -1,8 +1,32 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-02-24T16:01:33.180001",
+  "updated_at": "2026-02-25T16:05:55.015159",
   "videos": [
+    {
+      "id": "q9bbnWf0uCQ",
+      "title": "Episode6　20代で全てを手に入れた男",
+      "description": "",
+      "publishedAt": "2026-02-25T12:45:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q9bbnWf0uCQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q9bbnWf0uCQ"
+    },
+    {
+      "id": "R97rL26kr9o",
+      "title": "第54回埼玉県サッカー少年団中央大会　決勝　上尾朝日vs新座片山",
+      "description": "",
+      "publishedAt": "2026-02-25T10:55:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R97rL26kr9o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R97rL26kr9o"
+    },
     {
       "id": "Ci4XSPQrf94",
       "title": "【いろはに千鳥】千鳥も満喫♪「夜の川口で事件発生！？」をプレイバック【3/3予告】",

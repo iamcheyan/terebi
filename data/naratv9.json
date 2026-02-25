@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-02-24T16:01:38.287090",
+  "updated_at": "2026-02-25T16:06:00.507424",
   "videos": [
+    {
+      "id": "P-nbK1MGGXI",
+      "title": "【2月20日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-02-25T03:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P-nbK1MGGXI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P-nbK1MGGXI"
+    },
     {
       "id": "onFbCIcj-8Y",
       "title": "にっせーのせ！ニッセイサステナプロジェクト奈良支社取り組み",

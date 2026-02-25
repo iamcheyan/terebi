@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-24T16:02:13.491033",
+  "updated_at": "2026-02-25T16:06:46.737664",
   "videos": [
+    {
+      "id": "V7tjIlJuKUE",
+      "title": "260225 155243 増田踏切 ２",
+      "description": "",
+      "publishedAt": "2026-02-25T10:00:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V7tjIlJuKUE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V7tjIlJuKUE"
+    },
+    {
+      "id": "Fox3HARIGQg",
+      "title": "260225 154906 増田踏切（すまいるえきちゃん号通過）",
+      "description": "",
+      "publishedAt": "2026-02-25T09:40:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fox3HARIGQg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fox3HARIGQg"
+    },
+    {
+      "id": "LrE95dgoAyY",
+      "title": "260225 154442 増田踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-02-25T09:35:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LrE95dgoAyY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LrE95dgoAyY"
+    },
+    {
+      "id": "It-g8Ruvsqw",
+      "title": "260225 154132 増田踏切",
+      "description": "",
+      "publishedAt": "2026-02-25T09:32:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/It-g8Ruvsqw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=It-g8Ruvsqw"
+    },
     {
       "id": "RFrdIdCWbz0",
       "title": "260224 140333 近永第３踏切（かっぱ列車通過）",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-02-24T16:01:13.240307",
+  "updated_at": "2026-02-25T16:06:02.318362",
   "videos": [
+    {
+      "id": "4ZXBqLsU9cI",
+      "title": "LPD gives briefing on early morning officer involved shooting.",
+      "description": "",
+      "publishedAt": "2026-02-25T15:47:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4ZXBqLsU9cI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4ZXBqLsU9cI"
+    },
+    {
+      "id": "RmZ8Ii6E4Ss",
+      "title": "Nebraska Baseball Presser as they Prep for No. 7 Auburn",
+      "description": "",
+      "publishedAt": "2026-02-24T23:41:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RmZ8Ii6E4Ss/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RmZ8Ii6E4Ss"
+    },
+    {
+      "id": "I0epiQjeJMM",
+      "title": "Huskers Baseball ready for ranked road test at Auburn",
+      "description": "",
+      "publishedAt": "2026-02-24T23:21:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I0epiQjeJMM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I0epiQjeJMM"
+    },
     {
       "id": "a8GNQdr2PUY",
       "title": "Nebraska Beach Volleyball Opens Season with Win",

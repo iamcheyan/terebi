@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-02-24T16:01:34.039332",
+  "updated_at": "2026-02-25T16:06:05.734234",
   "videos": [
+    {
+      "id": "A_BofvA0XVQ",
+      "title": "建設業について学ぶ 県立新翔高校で特別講義 和歌山県新宮市",
+      "description": "",
+      "publishedAt": "2026-02-25T10:19:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A_BofvA0XVQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A_BofvA0XVQ"
+    },
+    {
+      "id": "hznv6bSNF0I",
+      "title": "【WAKAYAMA SDGs】#055- RP東プラ株式会社",
+      "description": "",
+      "publishedAt": "2026-02-25T09:11:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hznv6bSNF0I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hznv6bSNF0I"
+    },
     {
       "id": "W0wr2wHUBkg",
       "title": "遠隔ICU運用を開始 和歌山県立医科大学附属病院 橋本市と新宮市の県内2つの中核病院とオンラインでつなぎ専門医が重症患者の診療をリアルタイムに支援",

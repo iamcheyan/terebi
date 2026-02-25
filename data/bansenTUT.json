@@ -1,8 +1,44 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-02-22T15:28:27.966482",
+  "updated_at": "2026-02-25T16:05:49.963823",
   "videos": [
+    {
+      "id": "PeLeBAm-fuM",
+      "title": "【ハイスクールチェック】富山第一高校（2026年2月9日、10日、12日、13日、16日放送）",
+      "description": "",
+      "publishedAt": "2026-02-25T10:15:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PeLeBAm-fuM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PeLeBAm-fuM"
+    },
+    {
+      "id": "xNZ648oEtvw",
+      "title": "【ハイスクールチェック】砺波工業高校（2026年2月2日～6日放送）",
+      "description": "",
+      "publishedAt": "2026-02-25T07:51:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xNZ648oEtvw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xNZ648oEtvw"
+    },
+    {
+      "id": "AG-YnKHSXMI",
+      "title": "【ハイスクールチェック】滑川高校（2026年1月19日～23日放送）",
+      "description": "",
+      "publishedAt": "2026-02-25T00:18:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AG-YnKHSXMI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AG-YnKHSXMI"
+    },
     {
       "id": "DTtqO34LX4M",
       "title": "「これは旨い」石原良純も絶賛。立山の水が育む「寿司と地酒」極上のマリアージュ",

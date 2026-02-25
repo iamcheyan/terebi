@@ -1,8 +1,32 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-02-21T15:28:18.506023",
+  "updated_at": "2026-02-25T16:06:32.035531",
   "videos": [
+    {
+      "id": "SPEdDftYay4",
+      "title": "【直撃！ふくしまピーポー】　2026年2月28日(土) 午後3時30分放送！",
+      "description": "",
+      "publishedAt": "2026-02-25T06:39:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SPEdDftYay4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SPEdDftYay4"
+    },
+    {
+      "id": "lvdSqOp1Kcs",
+      "title": "3月4日(水)は【 福島県民ラーメン総選挙2026】一択！(KFB福島放送)",
+      "description": "",
+      "publishedAt": "2026-02-25T04:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lvdSqOp1Kcs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lvdSqOp1Kcs"
+    },
     {
       "id": "8aIEetVEBak",
       "title": "“番組をつくる人”の仕事とは？｜KFB福島放送 ディレクターインタビュー",

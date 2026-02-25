@@ -1,8 +1,20 @@
 {
   "channel_id": "UCD1MsyeoR0St_aWxydu9law",
   "channel_name": "BBT富山テレビ",
-  "updated_at": "2026-02-24T16:01:48.353229",
+  "updated_at": "2026-02-25T16:06:25.800570",
   "videos": [
+    {
+      "id": "01XbkLdwOO8",
+      "title": "卒うた-福岡高等学校-",
+      "description": "",
+      "publishedAt": "2026-02-20T01:02:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/01XbkLdwOO8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=01XbkLdwOO8"
+    },
     {
       "id": "kRiBnUSvzgU",
       "title": "2/28 午後4時55分～「使命～救命救急センターの夜～」",

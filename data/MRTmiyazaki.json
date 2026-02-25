@@ -1,8 +1,44 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-02-23T15:50:13.388021",
+  "updated_at": "2026-02-25T16:06:34.708796",
   "videos": [
+    {
+      "id": "f2_ePyG1ZAs",
+      "title": "#2　宮崎商業施設遺産",
+      "description": "",
+      "publishedAt": "2026-02-25T07:57:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/f2_ePyG1ZAs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=f2_ePyG1ZAs"
+    },
+    {
+      "id": "SKtOurosovE",
+      "title": "【GO!GO! CookingZX】パン！パート４",
+      "description": "",
+      "publishedAt": "2026-02-25T05:30:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SKtOurosovE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SKtOurosovE"
+    },
+    {
+      "id": "0vzhPggwLgM",
+      "title": "#1 私とMRTラジオ",
+      "description": "",
+      "publishedAt": "2026-02-24T20:59:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0vzhPggwLgM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0vzhPggwLgM"
+    },
     {
       "id": "UX92_jhnh5s",
       "title": "【第110回】だいちゃんと行く‼︎よりみちさんぽ〈我が家の節約術〉",
