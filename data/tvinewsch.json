@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-02-25T16:06:21.157078",
+  "updated_at": "2026-02-26T15:55:51.500823",
   "videos": [
+    {
+      "id": "QOdd82N9CIQ",
+      "title": "【プラス1ダイジェスト】2/26(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-02-26T10:10:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QOdd82N9CIQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QOdd82N9CIQ"
+    },
+    {
+      "id": "1dFgNNny5uo",
+      "title": "元気○（マル）らいふ　【緊急避妊薬】（2026/2/25放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-02-26T08:39:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1dFgNNny5uo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1dFgNNny5uo"
+    },
     {
       "id": "UZSn_AC6CKA",
       "title": "【プラス1ダイジェスト】2/25(水) のニュース",

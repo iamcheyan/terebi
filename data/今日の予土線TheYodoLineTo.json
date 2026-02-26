@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-25T16:06:46.737664",
+  "updated_at": "2026-02-26T15:56:46.446004",
   "videos": [
+    {
+      "id": "IGK-Mtk3FKg",
+      "title": "260226 175452 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-02-26T13:19:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IGK-Mtk3FKg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IGK-Mtk3FKg"
+    },
+    {
+      "id": "Q4XfAp1yy70",
+      "title": "260226 174552 兼近第１踏切 ２",
+      "description": "",
+      "publishedAt": "2026-02-26T13:15:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q4XfAp1yy70/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q4XfAp1yy70"
+    },
+    {
+      "id": "arDGJI0Fv3E",
+      "title": "260226 174234 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-02-26T13:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/arDGJI0Fv3E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=arDGJI0Fv3E"
+    },
+    {
+      "id": "ZIjkxoJfvVw",
+      "title": "260226 173619 兼近第３踏切（みきゃん列車通過）",
+      "description": "",
+      "publishedAt": "2026-02-26T12:50:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZIjkxoJfvVw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZIjkxoJfvVw"
+    },
+    {
+      "id": "Ez4lm7imq-c",
+      "title": "260226 173229 兼近第３踏切 ２",
+      "description": "",
+      "publishedAt": "2026-02-26T12:45:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ez4lm7imq-c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ez4lm7imq-c"
+    },
+    {
+      "id": "6PYJElMek3c",
+      "title": "260226 172911 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-02-26T12:22:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6PYJElMek3c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6PYJElMek3c"
+    },
     {
       "id": "V7tjIlJuKUE",
       "title": "260225 155243 増田踏切 ２",

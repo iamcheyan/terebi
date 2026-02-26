@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-02-25T16:05:49.963823",
+  "updated_at": "2026-02-26T15:55:21.494356",
   "videos": [
+    {
+      "id": "r7snuIri4cA",
+      "title": "ハッピーイオン「レンジで簡単！ワントレーシリーズ」（2026年2月26日放送分）",
+      "description": "",
+      "publishedAt": "2026-02-26T02:31:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r7snuIri4cA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r7snuIri4cA"
+    },
     {
       "id": "PeLeBAm-fuM",
       "title": "【ハイスクールチェック】富山第一高校（2026年2月9日、10日、12日、13日、16日放送）",

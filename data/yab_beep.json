@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7oQ9uMD7914CY7-ZheHrow",
   "channel_name": "山口朝日放送（yab）",
-  "updated_at": "2026-02-19T15:52:14.306987",
+  "updated_at": "2026-02-26T15:55:33.808461",
   "videos": [
+    {
+      "id": "kXtDV1WEdZs",
+      "title": "みんなのふるさと　エソにこだわる絶品蒲鉾　大和蒲鉾・長門市仙崎",
+      "description": "",
+      "publishedAt": "2026-02-26T08:01:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kXtDV1WEdZs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kXtDV1WEdZs"
+    },
     {
       "id": "8cAq3DxRGkI",
       "title": "みんなのふるさと 山の資源を活用し里山再生　岩国市由宇町",

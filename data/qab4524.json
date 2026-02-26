@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-02-25T16:06:36.425455",
+  "updated_at": "2026-02-26T15:56:24.205392",
   "videos": [
+    {
+      "id": "y5NtoLOcZ6k",
+      "title": "沖縄の伝統木造帆船「サバニ」",
+      "description": "",
+      "publishedAt": "2026-02-26T08:16:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y5NtoLOcZ6k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y5NtoLOcZ6k"
+    },
     {
       "id": "K2Z0QS5esio",
       "title": "#189 組踊の新たな可能性",

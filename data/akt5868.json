@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-02-25T16:06:24.760456",
+  "updated_at": "2026-02-26T15:56:05.722581",
   "videos": [
+    {
+      "id": "gtD_N52NBgk",
+      "title": "「the CAMP」  #64　【未公開バージョン】",
+      "description": "",
+      "publishedAt": "2026-02-26T14:01:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gtD_N52NBgk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gtD_N52NBgk"
+    },
+    {
+      "id": "FJ_gYtf8RJU",
+      "title": "「the CAMP」  #64　暖炉と珈琲　2026年2月26日放送分",
+      "description": "",
+      "publishedAt": "2026-02-26T14:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FJ_gYtf8RJU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FJ_gYtf8RJU"
+    },
     {
       "id": "5SKOHWeoN1Q",
       "title": "スポーツの力　ノルディック複合女子日本代表　海沼 優月選手　2026年2月24日放送分",

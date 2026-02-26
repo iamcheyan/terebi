@@ -1,8 +1,20 @@
 {
   "channel_id": "UCZpJu6cXaHvfEdFGMx-NYRg",
   "channel_name": "交通新聞 電子版【交通新聞社】",
-  "updated_at": "2026-02-19T15:52:24.582019",
+  "updated_at": "2026-02-26T15:55:08.805422",
   "videos": [
+    {
+      "id": "ovG6fcs5lpU",
+      "title": "京都鉄道博物館×錦川鉄道！　キハ30形を特別展示",
+      "description": "",
+      "publishedAt": "2026-02-26T09:01:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ovG6fcs5lpU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ovG6fcs5lpU"
+    },
     {
       "id": "5NGfLpd1CGM",
       "title": "【日本初】 JR東日本「荷物専用新幹線」公開   座席を撤去したE3系改造車両",
