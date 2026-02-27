@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-02-25T16:06:42.472479",
+  "updated_at": "2026-02-27T15:39:56.458505",
   "videos": [
+    {
+      "id": "NWpC06BJt00",
+      "title": "米沢牛を堪能!気軽に立ち寄れる焼き肉店",
+      "description": "",
+      "publishedAt": "2026-02-27T09:47:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NWpC06BJt00/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NWpC06BJt00"
+    },
     {
       "id": "tsNvL_YhMQ8",
       "title": "知恵が集う最強のまちへ　～慶應大先端研のひと・ものづくり～",

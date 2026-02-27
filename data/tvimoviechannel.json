@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-02-26T15:56:32.398769",
+  "updated_at": "2026-02-27T15:39:54.100784",
   "videos": [
+    {
+      "id": "aLjTCEH3ccc",
+      "title": "５きげんクッキング ～セリとサクラエビのパスタ～",
+      "description": "",
+      "publishedAt": "2026-02-27T09:23:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aLjTCEH3ccc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aLjTCEH3ccc"
+    },
     {
       "id": "CgEp_Cu1F1A",
       "title": "今日の５きげんテレビ（2月26日）｜テレビ岩手",

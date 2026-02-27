@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-02-26T15:56:25.712174",
+  "updated_at": "2026-02-27T15:39:51.003956",
   "videos": [
+    {
+      "id": "0cMExt5vqsI",
+      "title": "【番宣】３月３日（火）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-02-27T06:11:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0cMExt5vqsI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0cMExt5vqsI"
+    },
+    {
+      "id": "yYw2HDjpj3o",
+      "title": "【番宣】３月１日（日）熊本市の区役所窓口が変わります",
+      "description": "",
+      "publishedAt": "2026-02-27T01:15:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yYw2HDjpj3o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yYw2HDjpj3o"
+    },
     {
       "id": "Pt9iSvoYpws",
       "title": "【番宣】３月５日（木）こんばんは熊本市",

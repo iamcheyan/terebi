@@ -1,8 +1,56 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-02-26T15:56:20.409187",
+  "updated_at": "2026-02-27T15:39:48.536009",
   "videos": [
+    {
+      "id": "aQLWuMxDGmo",
+      "title": "けんかでGO!GO!2025年10月31日放送",
+      "description": "",
+      "publishedAt": "2026-02-27T01:45:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aQLWuMxDGmo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aQLWuMxDGmo"
+    },
+    {
+      "id": "3JtC3AlYW1Q",
+      "title": "けんかでGO!GO!2025年10月24日放送",
+      "description": "",
+      "publishedAt": "2026-02-27T01:42:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3JtC3AlYW1Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3JtC3AlYW1Q"
+    },
+    {
+      "id": "NjwBTi6F0-Y",
+      "title": "けんかでGO!GO!2025年10月17日放送",
+      "description": "",
+      "publishedAt": "2026-02-27T01:39:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NjwBTi6F0-Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NjwBTi6F0-Y"
+    },
+    {
+      "id": "Ie6KgChaQns",
+      "title": "けんかでGO!GO!2025年10月10日放送",
+      "description": "",
+      "publishedAt": "2026-02-27T01:39:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ie6KgChaQns/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ie6KgChaQns"
+    },
     {
       "id": "rbBpxznB4TA",
       "title": "【第111回】だいちゃんと行く‼︎よりみちさんぽ〈家事分担の割合は？〉",
