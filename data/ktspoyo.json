@@ -1,8 +1,32 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-02-25T16:06:34.128096",
+  "updated_at": "2026-02-28T15:26:33.364167",
   "videos": [
+    {
+      "id": "sDJswYByL8I",
+      "title": "【わんにゃんプラスかごしま】健やかで幸せな”だいふく”の日常♪",
+      "description": "",
+      "publishedAt": "2026-02-28T08:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sDJswYByL8I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sDJswYByL8I"
+    },
+    {
+      "id": "Vl7-ro5olvI",
+      "title": "河内あづきの鹿児島あっちこっち　2月28日（土）",
+      "description": "",
+      "publishedAt": "2026-02-28T08:25:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Vl7-ro5olvI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Vl7-ro5olvI"
+    },
     {
       "id": "tGJDci189A8",
       "title": "かごんま未来ノート 第211回「豊かで美しい森林づくりを目指す　NPO法人森と木の研究所」",

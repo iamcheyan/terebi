@@ -1,8 +1,20 @@
 {
   "channel_id": "UCL3peEBSiAkEMDuxNkffbvw",
   "channel_name": "YBS山梨放送",
-  "updated_at": "2026-02-27T15:39:25.372060",
+  "updated_at": "2026-02-28T15:26:11.809217",
   "videos": [
+    {
+      "id": "EGNod7U-zWk",
+      "title": "【📻YBSラジオ特別番組のお知らせ】3月1日11時から放送",
+      "description": "",
+      "publishedAt": "2026-02-28T09:31:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EGNod7U-zWk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EGNod7U-zWk"
+    },
     {
       "id": "QIhK7-6fUkg",
       "title": "【特集】「藤井貴彦のおじゃまします⑰」未来を創り続ける醸造家 “世界最高”のソムリエを驚かせた1本 甲州市・キスヴィンワイナリー",

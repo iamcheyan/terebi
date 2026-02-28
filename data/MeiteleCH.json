@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-02-27T15:39:09.474391",
+  "updated_at": "2026-02-28T15:26:15.853896",
   "videos": [
+    {
+      "id": "s9NQ2K5VPPA",
+      "title": "【まるまる◎あいち】2026年2月28日放送 「愛知県森林公園3月のイベント」",
+      "description": "",
+      "publishedAt": "2026-02-28T09:01:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s9NQ2K5VPPA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s9NQ2K5VPPA"
+    },
     {
       "id": "tpcYacYfBkE",
       "title": "【堂野アナ】試合が受験⁉スポーツ推薦ならではの苦労がありました😣💦【アナメロ】",

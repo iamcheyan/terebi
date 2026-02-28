@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-02-27T15:39:48.152606",
+  "updated_at": "2026-02-28T15:26:33.680655",
   "videos": [
+    {
+      "id": "RTAA37jNufM",
+      "title": "陶山賢治の風まかせ　ゲスト：作家 ・今村翔吾さん③",
+      "description": "",
+      "publishedAt": "2026-02-28T09:14:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RTAA37jNufM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RTAA37jNufM"
+    },
+    {
+      "id": "6Zb2ZHba2Yg",
+      "title": "#095 確定申告の時期だ！税理士さんに相談しよう。 （鹿児島弁×英語：めにめに600 by 青たく）",
+      "description": "",
+      "publishedAt": "2026-02-28T08:12:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6Zb2ZHba2Yg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6Zb2ZHba2Yg"
+    },
+    {
+      "id": "szwbTjQ2atg",
+      "title": "第73回　宇宙が身近に！的川先生の宇宙ラジオ（ISSの内部について）",
+      "description": "",
+      "publishedAt": "2026-02-28T04:37:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/szwbTjQ2atg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=szwbTjQ2atg"
+    },
     {
       "id": "eQRKxBh-ab4",
       "title": "栄養プラスワン！簡単健康レシピ「チキンラーメンdeエビピラフ」",

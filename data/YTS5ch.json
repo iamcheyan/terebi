@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-02-27T15:39:15.210552",
+  "updated_at": "2026-02-28T15:25:51.363137",
   "videos": [
+    {
+      "id": "PWcZUdOynN8",
+      "title": "冬の魅力満載！置賜の冬まつり2025",
+      "description": "",
+      "publishedAt": "2026-02-28T07:25:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PWcZUdOynN8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PWcZUdOynN8"
+    },
+    {
+      "id": "loBNfUHh1zI",
+      "title": "第2818回 2025 明るい山形MVP賞「提言の広場」",
+      "description": "",
+      "publishedAt": "2026-02-27T23:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/loBNfUHh1zI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=loBNfUHh1zI"
+    },
     {
       "id": "c9rnz2fQ22M",
       "title": "【見逃し】旧柏倉家住宅ライトアップ 中山町から生中継 石井美凪アナウンサー",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-02-27T15:40:01.172847",
+  "updated_at": "2026-02-28T15:26:47.359569",
   "videos": [
+    {
+      "id": "ePJqKUltdbU",
+      "title": "260228 155755 宮野下第１踏切から伊予宮野下駅ホームへ",
+      "description": "",
+      "publishedAt": "2026-02-28T11:01:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ePJqKUltdbU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ePJqKUltdbU"
+    },
+    {
+      "id": "tx616q_SoKc",
+      "title": "260228 155331 宮野下第１踏切",
+      "description": "",
+      "publishedAt": "2026-02-28T10:41:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tx616q_SoKc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tx616q_SoKc"
+    },
+    {
+      "id": "7eVF2JFGrMM",
+      "title": "260228 154347 伊予宮野下駅（黄色い列車行き違い）",
+      "description": "",
+      "publishedAt": "2026-02-28T10:31:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7eVF2JFGrMM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7eVF2JFGrMM"
+    },
     {
       "id": "apatMcxzR5c",
       "title": "260227 140412 雨の永野市第１踏切（かっぱ列車通過）",

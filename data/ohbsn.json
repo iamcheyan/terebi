@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-02-27T15:39:41.396168",
+  "updated_at": "2026-02-28T15:26:26.965168",
   "videos": [
+    {
+      "id": "aqfKDolnL5s",
+      "title": "【予告編】『カールさんのキセキ 〜古民家再生30年〜』　📅 放送日時： 3月7日（土）午後4時〜※お見逃しなく！",
+      "description": "",
+      "publishedAt": "2026-02-28T15:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aqfKDolnL5s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aqfKDolnL5s"
+    },
+    {
+      "id": "DkTYSQrkM7Y",
+      "title": "まつだい棚田ストーリー4 『耕して天に至る』【見逃し配信】",
+      "description": "",
+      "publishedAt": "2026-02-28T08:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DkTYSQrkM7Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DkTYSQrkM7Y"
+    },
     {
       "id": "59TWnu5ywr8",
       "title": "02/27 #08 自分達らしくない収録場所を考えてみる",

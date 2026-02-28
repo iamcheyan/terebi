@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-02-27T15:39:02.874116",
+  "updated_at": "2026-02-28T15:25:50.922198",
   "videos": [
+    {
+      "id": "aMC9oscHsF8",
+      "title": "【ゆ～ばら！】早戸・ゆめコンビが旬の食材を使ったグルメを満喫します！",
+      "description": "",
+      "publishedAt": "2026-02-28T10:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aMC9oscHsF8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aMC9oscHsF8"
+    },
     {
       "id": "Jg-RERStC6w",
       "title": "卒うた -八幡浜工業高等学校 -",

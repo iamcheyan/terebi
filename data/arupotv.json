@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-02-27T15:39:51.003956",
+  "updated_at": "2026-02-28T15:26:36.706616",
   "videos": [
+    {
+      "id": "snpHM1eRLUU",
+      "title": "【番宣】３月７日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-02-28T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/snpHM1eRLUU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=snpHM1eRLUU"
+    },
     {
       "id": "0cMExt5vqsI",
       "title": "【番宣】３月３日（火）NEWSゲツキン",

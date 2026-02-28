@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-02-27T15:39:03.509325",
+  "updated_at": "2026-02-28T15:26:10.649382",
   "videos": [
+    {
+      "id": "22DbX8Oyfm0",
+      "title": "あのじゅうよ〜 第188回",
+      "description": "",
+      "publishedAt": "2026-02-28T14:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/22DbX8Oyfm0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=22DbX8Oyfm0"
+    },
     {
       "id": "SgeS9j_2PVM",
       "title": "カイロス・ロケット3号機 5基の小型衛星を搭載 宇宙宅配サービスへの足掛かりとなるか注目 3/1打上げ設定 和歌山県串本町",

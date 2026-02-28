@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-02-25T16:06:38.345820",
+  "updated_at": "2026-02-28T15:26:37.821072",
   "videos": [
+    {
+      "id": "1roQLKx8evA",
+      "title": "【どさんこWEEKEND】人と社会と地球のために「地域に根ざす！マテリアルの森」",
+      "description": "",
+      "publishedAt": "2026-02-28T01:20:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1roQLKx8evA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1roQLKx8evA"
+    },
     {
       "id": "EpRnD3vHlgQ",
       "title": "ライブカメラ  岩見沢(STV札幌テレビ放送)北海道岩見沢市 /Live Camera Iwamizawa , Hokkaido",
