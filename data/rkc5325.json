@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-02-27T15:39:50.657419",
+  "updated_at": "2026-03-01T15:27:18.661049",
   "videos": [
+    {
+      "id": "hDjot0VISiU",
+      "title": "RKCアプリ漢字クイズ ～3/2の問題 ～渡辺さおりのヒント～",
+      "description": "",
+      "publishedAt": "2026-03-01T15:01:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hDjot0VISiU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hDjot0VISiU"
+    },
     {
       "id": "98DU2sfmTOI",
       "title": "「おじた新アイテム5種類販売決定！！」2026/2/27放送",

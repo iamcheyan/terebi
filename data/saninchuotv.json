@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-02-27T15:39:27.953584",
+  "updated_at": "2026-03-01T15:27:00.590971",
   "videos": [
+    {
+      "id": "C8BU4i6FB9U",
+      "title": "ALevel8 #8 石田紙器",
+      "description": "",
+      "publishedAt": "2026-02-28T23:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C8BU4i6FB9U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C8BU4i6FB9U"
+    },
     {
       "id": "crglfut5pDQ",
       "title": "【ネゴ図鑑】#194～カーハピネス～",
