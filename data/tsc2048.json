@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-02-27T15:39:28.862550",
+  "updated_at": "2026-03-02T15:43:56.837352",
   "videos": [
+    {
+      "id": "ULow7X9oVms",
+      "title": "【3月4日(水)放送】オカシギ☆ラボ　岡山市議会研究所【番宣】",
+      "description": "",
+      "publishedAt": "2026-03-02T05:56:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ULow7X9oVms/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ULow7X9oVms"
+    },
+    {
+      "id": "KaNdPLAiIs4",
+      "title": "3月7日のプライドは岡山市のNPO法人 シニアサポート倶楽部 ねこの手妹尾",
+      "description": "",
+      "publishedAt": "2026-03-02T01:56:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KaNdPLAiIs4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KaNdPLAiIs4"
+    },
     {
       "id": "z2tir2s8HUI",
       "title": "【ピリサタ】2026午年！岡山から馬力で世界へ",

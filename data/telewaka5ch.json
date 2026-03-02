@@ -1,8 +1,44 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-03-01T15:26:28.737388",
+  "updated_at": "2026-03-02T15:43:48.256890",
   "videos": [
+    {
+      "id": "kkvjNsRmOFQ",
+      "title": "3/4 午前11時に打上げると発表 ロケット・カイロス3号機 和歌山県串本町",
+      "description": "",
+      "publishedAt": "2026-03-02T09:52:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kkvjNsRmOFQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kkvjNsRmOFQ"
+    },
+    {
+      "id": "sNgbWmiYFrU",
+      "title": "暮らしのカルチャータイム　「チョークアートを楽しもう」第6回",
+      "description": "",
+      "publishedAt": "2026-03-02T05:30:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sNgbWmiYFrU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sNgbWmiYFrU"
+    },
+    {
+      "id": "8a2RJSgQktw",
+      "title": "【2/27放送】わかきん先生の健康フルスロットル",
+      "description": "",
+      "publishedAt": "2026-03-02T03:03:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8a2RJSgQktw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8a2RJSgQktw"
+    },
     {
       "id": "ZlXZqVrfUU4",
       "title": "再び延期 ロケット・カイロス3号機打ち上げ 風が想定よりも弱く打ち上げに適さないと判断 公式見学場では落胆や次への期待の声 和歌山県串本町",

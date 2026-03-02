@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-02-26T15:56:31.481493",
+  "updated_at": "2026-03-02T15:44:19.822946",
   "videos": [
+    {
+      "id": "cfgE1ETostM",
+      "title": "3/6(金)よる6:58放送！",
+      "description": "",
+      "publishedAt": "2026-03-02T07:39:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cfgE1ETostM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cfgE1ETostM"
+    },
     {
       "id": "NZGKZ1CDqCg",
       "title": "2027年度 新卒採用募集",

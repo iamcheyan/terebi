@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-03-01T15:27:18.870050",
+  "updated_at": "2026-03-02T15:44:15.886536",
   "videos": [
+    {
+      "id": "Y75Ll2utR0I",
+      "title": "【番宣】３月４日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2026-03-02T05:48:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y75Ll2utR0I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y75Ll2utR0I"
+    },
+    {
+      "id": "G9-QI7DP0do",
+      "title": "ＲＫＫルーデンステニスクラブ春の入会キャンペーン",
+      "description": "",
+      "publishedAt": "2026-03-02T02:16:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G9-QI7DP0do/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G9-QI7DP0do"
+    },
     {
       "id": "PCdjRB-2oGs",
       "title": "第92回 めざせ！くまもとの若き匠たち【翔陽高校  建築科】",

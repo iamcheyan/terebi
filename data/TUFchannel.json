@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-02-27T15:39:53.790631",
+  "updated_at": "2026-03-02T15:44:20.144525",
   "videos": [
+    {
+      "id": "xttM1JSCD5g",
+      "title": "「福島日産自動車×ステップ」3月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-03-02T00:52:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xttM1JSCD5g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xttM1JSCD5g"
+    },
+    {
+      "id": "Hyr1tHasZ88",
+      "title": "TUFアプリ「たぷり」3月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-03-02T00:49:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hyr1tHasZ88/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hyr1tHasZ88"
+    },
     {
       "id": "haUVhh-K1zw",
       "title": "【ふくしまSHOW】『福島市三名湯』大特集！",

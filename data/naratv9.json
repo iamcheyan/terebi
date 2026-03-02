@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-02-27T15:39:24.958926",
+  "updated_at": "2026-03-02T15:43:49.558562",
   "videos": [
+    {
+      "id": "TqogutmEPb4",
+      "title": "楽屋トーク！ふるさとCM大賞NARA2026",
+      "description": "",
+      "publishedAt": "2026-03-02T08:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TqogutmEPb4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TqogutmEPb4"
+    },
     {
       "id": "NMPYCTzN07Q",
       "title": "純水が魅力！「D-Wash」で車ピカピカ大作戦！！",
