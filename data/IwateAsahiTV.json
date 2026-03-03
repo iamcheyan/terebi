@@ -1,8 +1,20 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-03-02T15:43:45.446457",
+  "updated_at": "2026-03-03T15:57:02.275700",
   "videos": [
+    {
+      "id": "HHLfxInM8-Y",
+      "title": "【Go！Go！いわて】3月7日（土）予告",
+      "description": "",
+      "publishedAt": "2026-03-03T09:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HHLfxInM8-Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HHLfxInM8-Y"
+    },
     {
       "id": "1Kdnms-gxnM",
       "title": "【Go！Go！いわて】2026年2月21日(土)O.A＜天下の奇祭！大東大原水かけ祭りに参戦！＞",

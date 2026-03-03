@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-02-24T16:01:58.090882",
+  "updated_at": "2026-03-03T15:57:27.184087",
   "videos": [
+    {
+      "id": "jk6lAnvDzOw",
+      "title": "【旬景とやま】稲葉山の夜明け",
+      "description": "",
+      "publishedAt": "2026-03-03T09:58:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jk6lAnvDzOw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jk6lAnvDzOw"
+    },
     {
       "id": "czkgbsWIqms",
       "title": "【旬景とやま】臼ケ峰　歴史の道",

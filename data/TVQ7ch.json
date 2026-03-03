@@ -1,8 +1,20 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-03-02T15:44:20.838091",
+  "updated_at": "2026-03-03T15:57:36.652383",
   "videos": [
+    {
+      "id": "Bbvqv_I5yCc",
+      "title": "「リズム＆サバイブ」テレ東系3/21(土)16時放送",
+      "description": "",
+      "publishedAt": "2026-03-03T09:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Bbvqv_I5yCc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Bbvqv_I5yCc"
+    },
     {
       "id": "lyw-_etSHsU",
       "title": "「リズム＆サバイブ」テレ東系3/21(土)16時放送",

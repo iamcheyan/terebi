@@ -1,8 +1,20 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-02-28T15:26:02.165869",
+  "updated_at": "2026-03-03T15:56:53.905663",
   "videos": [
+    {
+      "id": "obrA5HRh_5k",
+      "title": "放浪の天才画家 山下清　生誕100年展から　長崎県美術館",
+      "description": "",
+      "publishedAt": "2026-03-03T09:01:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/obrA5HRh_5k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=obrA5HRh_5k"
+    },
     {
       "id": "sgJqzJBMZlY",
       "title": "らく・ごる 放送未公開こぼれ話 第95回「とにかく明るい安村 居残りアイアンレッスン」",

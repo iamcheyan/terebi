@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-03-02T15:44:24.637813",
+  "updated_at": "2026-03-03T15:57:39.557489",
   "videos": [
+    {
+      "id": "MamDM9WbZHA",
+      "title": "愛媛MP 夢のクロスロード 菊澤敬飛投手",
+      "description": "",
+      "publishedAt": "2026-03-03T03:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MamDM9WbZHA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MamDM9WbZHA"
+    },
     {
       "id": "KkEQxL_XSxk",
       "title": "愛媛のニュース(03月02日)",

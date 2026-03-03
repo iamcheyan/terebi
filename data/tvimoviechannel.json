@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-02T15:44:20.744920",
+  "updated_at": "2026-03-03T15:57:36.346091",
   "videos": [
+    {
+      "id": "nJKOTK7mqNw",
+      "title": "今日の５きげんテレビ（3月4日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-03T15:01:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nJKOTK7mqNw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nJKOTK7mqNw"
+    },
+    {
+      "id": "v7DM36RpMvM",
+      "title": "５きげんクッキング ～ハマグリのグラタン～",
+      "description": "",
+      "publishedAt": "2026-03-03T10:48:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v7DM36RpMvM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v7DM36RpMvM"
+    },
+    {
+      "id": "XHDM3I1B3gA",
+      "title": "あがいん直売所＃5 ～ 大槌町・ジビエを売る ～",
+      "description": "",
+      "publishedAt": "2026-03-03T10:38:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XHDM3I1B3gA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XHDM3I1B3gA"
+    },
     {
       "id": "aTP6Cze69ho",
       "title": "今日の５きげんテレビ（3月3日）｜テレビ岩手",

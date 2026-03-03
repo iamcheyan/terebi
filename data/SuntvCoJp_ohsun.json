@@ -1,8 +1,44 @@
 {
   "channel_id": "UCoslznRuvXIAriI5z51-DPg",
   "channel_name": "サテレビ",
-  "updated_at": "2026-03-02T15:44:26.705293",
+  "updated_at": "2026-03-03T15:57:41.433731",
   "videos": [
+    {
+      "id": "m6xJGNYsrZA",
+      "title": "2026年2月11日放送【The Hit】初登場の芝田昂平が魚探なしで真冬七色ダム攻略",
+      "description": "",
+      "publishedAt": "2026-03-03T15:01:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m6xJGNYsrZA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m6xJGNYsrZA"
+    },
+    {
+      "id": "WMAxmaxGQpM",
+      "title": "【選抜高校野球・神戸国際大付と東洋大姫路を紹介⚾】キャッチ＋（3月3日火曜日）",
+      "description": "",
+      "publishedAt": "2026-03-02T02:37:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WMAxmaxGQpM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WMAxmaxGQpM"
+    },
+    {
+      "id": "d4Kch_Hn8Q4",
+      "title": "【VIC+】ミラ＆カミーラ念願の振袖に！？～第一弾～",
+      "description": "",
+      "publishedAt": "2026-03-03T08:57:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d4Kch_Hn8Q4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d4Kch_Hn8Q4"
+    },
     {
       "id": "VJaftOBrQWg",
       "title": "ワコーレ杯ママSUNバレーボール大会2026　番宣",
