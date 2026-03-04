@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-02-22T15:28:19.416578",
+  "updated_at": "2026-03-04T15:43:13.334272",
   "videos": [
+    {
+      "id": "DW4AlWX8xn0",
+      "title": "キッチンとリビングの防災",
+      "description": "",
+      "publishedAt": "2026-03-04T02:36:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DW4AlWX8xn0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DW4AlWX8xn0"
+    },
+    {
+      "id": "LWwK051Jhq4",
+      "title": "地震による火災",
+      "description": "",
+      "publishedAt": "2026-03-04T02:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LWwK051Jhq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LWwK051Jhq4"
+    },
     {
       "id": "pE0ah2X0ong",
       "title": "あたらしいむがしコ「岬の化け物」",

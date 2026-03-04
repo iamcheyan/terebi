@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-03-03T15:56:48.883742",
+  "updated_at": "2026-03-04T15:43:41.736928",
   "videos": [
+    {
+      "id": "TYTKloVdWSA",
+      "title": "『リチャード三世』愛知公演 30秒SPOT",
+      "description": "",
+      "publishedAt": "2026-03-04T03:50:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TYTKloVdWSA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TYTKloVdWSA"
+    },
     {
       "id": "JC89DJtx1qA",
       "title": "超町人！チョコレートサムネット 3/8(日)名古屋・中川区編【メ～テレ】",

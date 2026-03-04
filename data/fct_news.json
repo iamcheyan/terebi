@@ -1,8 +1,116 @@
 {
   "channel_id": "UC8Y0ZErdlAnA9uW7ZeRdreQ",
   "channel_name": "FCT福島中央テレビNEWS",
-  "updated_at": "2026-03-03T15:57:24.290245",
+  "updated_at": "2026-03-04T15:43:47.909529",
   "videos": [
+    {
+      "id": "C6NFZuL_7l8",
+      "title": "自然やおいしい郷土料理にあふれた奥会津　その魅力を温泉旅館がPR　福島",
+      "description": "",
+      "publishedAt": "2026-03-04T10:11:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C6NFZuL_7l8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C6NFZuL_7l8"
+    },
+    {
+      "id": "zhei96YSr4s",
+      "title": "除染土の最終処分の行方は…苦渋の決断で「中間貯蔵施設」受け入れた町の15年　福島",
+      "description": "",
+      "publishedAt": "2026-03-04T09:56:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zhei96YSr4s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zhei96YSr4s"
+    },
+    {
+      "id": "VUVeHPYCitI",
+      "title": "高校入試もあるのに…大雪の影響で交通機関は麻痺「三春滝桜」も被害に",
+      "description": "",
+      "publishedAt": "2026-03-04T09:56:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VUVeHPYCitI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VUVeHPYCitI"
+    },
+    {
+      "id": "6B7Jmsp918k",
+      "title": "福島のソウルドリンク同士がコラボ！完成したのは…？",
+      "description": "",
+      "publishedAt": "2026-03-04T09:56:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6B7Jmsp918k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6B7Jmsp918k"
+    },
+    {
+      "id": "HVR4ZNVNrmk",
+      "title": "現職警察官を逮捕　女性の使う日用品に体液を付着か　福島県警の警察官逮捕は3人目に",
+      "description": "",
+      "publishedAt": "2026-03-04T09:56:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HVR4ZNVNrmk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HVR4ZNVNrmk"
+    },
+    {
+      "id": "K2_yNTCCXaE",
+      "title": "キングカズの姿も　間もなく震災15年　福島ユナイテッドFCの選手らが被災地を訪問",
+      "description": "",
+      "publishedAt": "2026-03-04T09:56:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K2_yNTCCXaE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K2_yNTCCXaE"
+    },
+    {
+      "id": "ETzyL7yMPqw",
+      "title": "新生活に向け思わぬ事故に注意！そのリユース品、劣化は大丈夫？",
+      "description": "",
+      "publishedAt": "2026-03-04T07:29:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ETzyL7yMPqw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ETzyL7yMPqw"
+    },
+    {
+      "id": "YhxdVQi_dfg",
+      "title": "24時間テレビでチャリティー活動　イオングループから福島中央テレビに浄財",
+      "description": "",
+      "publishedAt": "2026-03-04T07:29:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YhxdVQi_dfg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YhxdVQi_dfg"
+    },
+    {
+      "id": "8-9kmjicZzo",
+      "title": "雪の中　県立高校で前期選抜試験スタート　目立った混乱なし　福島",
+      "description": "",
+      "publishedAt": "2026-03-04T07:28:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8-9kmjicZzo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8-9kmjicZzo"
+    },
     {
       "id": "Zf99xoWCPQ8",
       "title": "中東情勢の不安定化で物価上昇も不安視されるなか…今お得に買える商品は？　福島",

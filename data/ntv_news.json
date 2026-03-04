@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-01T15:27:03.735208",
+  "updated_at": "2026-03-04T15:43:33.094397",
   "videos": [
+    {
+      "id": "4YcV4ytL6Zg",
+      "title": "Nebraska Baseball Beats Omaha in Home Opener at Haymarket Park",
+      "description": "",
+      "publishedAt": "2026-03-04T01:06:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4YcV4ytL6Zg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4YcV4ytL6Zg"
+    },
+    {
+      "id": "tzVLhCF041E",
+      "title": "Huskers Baseball Post Game Media Scrum After Beating Omaha 8-5 at Haymarket Opening Day",
+      "description": "",
+      "publishedAt": "2026-03-04T00:44:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tzVLhCF041E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tzVLhCF041E"
+    },
     {
       "id": "-e1HA04n-0E",
       "title": "Nebraska Volleyball Improves to 3-0 in Beach Season with a Win Trinidad State and Wayne State",

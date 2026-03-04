@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-03-02T15:43:49.558562",
+  "updated_at": "2026-03-04T15:43:34.316363",
   "videos": [
+    {
+      "id": "nBPG19xUkxQ",
+      "title": "【2月27日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-03-04T03:01:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nBPG19xUkxQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nBPG19xUkxQ"
+    },
     {
       "id": "TqogutmEPb4",
       "title": "楽屋トーク！ふるさとCM大賞NARA2026",

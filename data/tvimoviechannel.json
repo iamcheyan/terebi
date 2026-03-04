@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-03T15:57:36.346091",
+  "updated_at": "2026-03-04T15:43:57.389285",
   "videos": [
+    {
+      "id": "8FFQjy9X0ko",
+      "title": "今日の５きげんテレビ（3月5日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-04T15:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8FFQjy9X0ko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8FFQjy9X0ko"
+    },
+    {
+      "id": "svvsTalbP_8",
+      "title": "５きげんクッキング ～お赤飯の三色のり巻き～",
+      "description": "",
+      "publishedAt": "2026-03-04T09:16:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/svvsTalbP_8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=svvsTalbP_8"
+    },
+    {
+      "id": "LRDx8f3f-74",
+      "title": "第68回 元祖わんこそば全日本大会開催！林アナ＆佐藤アナは連覇なるか？｜岩手・花巻市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-03-04T06:06:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LRDx8f3f-74/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LRDx8f3f-74"
+    },
     {
       "id": "nJKOTK7mqNw",
       "title": "今日の５きげんテレビ（3月4日）｜テレビ岩手",

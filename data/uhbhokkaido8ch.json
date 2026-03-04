@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-03-03T15:57:38.162324",
+  "updated_at": "2026-03-04T15:43:58.484627",
   "videos": [
+    {
+      "id": "OVWbYJUgMac",
+      "title": "みんテレ　3月5日（木）放送",
+      "description": "",
+      "publishedAt": "2026-03-04T10:00:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OVWbYJUgMac/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OVWbYJUgMac"
+    },
+    {
+      "id": "Np_i0mGC658",
+      "title": "2026年公立高校入試解答速報 合格ライン＆正答を徹底解説！",
+      "description": "",
+      "publishedAt": "2026-03-04T08:44:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Np_i0mGC658/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Np_i0mGC658"
+    },
     {
       "id": "42zx_vSoCh8",
       "title": "みんテレ　3月4日（水）放送",

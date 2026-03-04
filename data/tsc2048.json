@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-03-03T15:57:03.952716",
+  "updated_at": "2026-03-04T15:43:19.895980",
   "videos": [
+    {
+      "id": "-sW6sk3VhKo",
+      "title": "オカシギ☆ラボ　岡山市議会研究所【3月4日放送】",
+      "description": "",
+      "publishedAt": "2026-03-04T13:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-sW6sk3VhKo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-sW6sk3VhKo"
+    },
     {
       "id": "6ewFLQvHdwg",
       "title": "⑤LBSクラブせとうち　キックオフ　スタートアップテラス特別編",
