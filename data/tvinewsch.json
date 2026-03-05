@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-03-04T15:43:31.096030",
+  "updated_at": "2026-03-05T15:53:24.500087",
   "videos": [
+    {
+      "id": "OQc9olt5TV0",
+      "title": "【プラス1ダイジェスト】3/5(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-03-05T10:05:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OQc9olt5TV0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OQc9olt5TV0"
+    },
+    {
+      "id": "e46wr2qqCYY",
+      "title": "元気○（マル）らいふ　【子どもの近視】（2026/3/4放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-03-05T06:01:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e46wr2qqCYY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e46wr2qqCYY"
+    },
     {
       "id": "jFhfaJ8NG84",
       "title": "【プラス1ダイジェスト】3/4(水) のニュース",

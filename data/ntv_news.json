@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-04T15:43:33.094397",
+  "updated_at": "2026-03-05T15:53:50.686674",
   "videos": [
+    {
+      "id": "6ejHGjnHj3M",
+      "title": "NSAA Girls State Basketball Day 1 Highlights: Class A, C2, D2",
+      "description": "",
+      "publishedAt": "2026-03-05T05:58:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6ejHGjnHj3M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6ejHGjnHj3M"
+    },
+    {
+      "id": "p44X7HaefPI",
+      "title": "NTV's Athlete of the Week: Ace Schweitzer for Winning Back-to-Back NSAA State Wrestling Titles",
+      "description": "",
+      "publishedAt": "2026-03-05T00:00:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p44X7HaefPI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p44X7HaefPI"
+    },
     {
       "id": "4YcV4ytL6Zg",
       "title": "Nebraska Baseball Beats Omaha in Home Opener at Haymarket Park",

@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-04T15:44:02.710477",
+  "updated_at": "2026-03-05T15:54:15.572172",
   "videos": [
+    {
+      "id": "y3RcdzasoW8",
+      "title": "260305 135809 大内第２踏切",
+      "description": "",
+      "publishedAt": "2026-03-05T10:01:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y3RcdzasoW8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y3RcdzasoW8"
+    },
+    {
+      "id": "mvI2LXNrytw",
+      "title": "260305 135222 大内第２踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-03-05T09:42:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mvI2LXNrytw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mvI2LXNrytw"
+    },
+    {
+      "id": "QD4wilx_KWs",
+      "title": "260305 134753 線路わき探索（（大内第１踏切から大内第２踏切へ）part2",
+      "description": "",
+      "publishedAt": "2026-03-05T09:41:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QD4wilx_KWs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QD4wilx_KWs"
+    },
+    {
+      "id": "GAMlGBK6kWA",
+      "title": "260305 134753 線路わき探索（（大内第１踏切から大内第２踏切へ）part1",
+      "description": "",
+      "publishedAt": "2026-03-05T09:30:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GAMlGBK6kWA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GAMlGBK6kWA"
+    },
+    {
+      "id": "r66_UFWBtIw",
+      "title": "260305 134211 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-03-05T09:11:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r66_UFWBtIw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r66_UFWBtIw"
+    },
+    {
+      "id": "2Zm28mab_NU",
+      "title": "260305 133728 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-03-05T09:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Zm28mab_NU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Zm28mab_NU"
+    },
     {
       "id": "9iAyPkkN7xg",
       "title": "260304 180408 近永第１踏切",
