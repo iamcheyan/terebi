@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwVMadMSXOS0AMuW_3nlyRQ",
   "channel_name": "SBC信越放送",
-  "updated_at": "2026-03-03T15:57:32.892727",
+  "updated_at": "2026-03-06T15:40:38.974129",
   "videos": [
+    {
+      "id": "wKMZphYOPDM",
+      "title": "YES！ものづくり　タダノユーティリティ②",
+      "description": "",
+      "publishedAt": "2026-03-06T04:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wKMZphYOPDM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wKMZphYOPDM"
+    },
+    {
+      "id": "FdnFLTcsFrc",
+      "title": "YES！ものづくり　タダノユーティリティ①",
+      "description": "",
+      "publishedAt": "2026-03-06T04:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FdnFLTcsFrc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FdnFLTcsFrc"
+    },
     {
       "id": "4zZwtMha0bw",
       "title": "あばれる君のカム！カム！High School‼ 地球環境高校①",

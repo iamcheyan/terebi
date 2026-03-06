@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-03-05T15:53:45.253424",
+  "updated_at": "2026-03-06T15:40:13.317218",
   "videos": [
+    {
+      "id": "C-n-_em0sj0",
+      "title": "「タッグを組んでミライを育てる～横浜～」かながわ旬菜ナビ 2026/3/1放送",
+      "description": "",
+      "publishedAt": "2026-03-06T09:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C-n-_em0sj0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C-n-_em0sj0"
+    },
+    {
+      "id": "ERCNlKKOwdw",
+      "title": "ホンダ レジェンドクーペ　tvk「新車情報」公式　1991年2月23日放送",
+      "description": "",
+      "publishedAt": "2026-03-06T09:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ERCNlKKOwdw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ERCNlKKOwdw"
+    },
     {
       "id": "w_JEyQvwwyc",
       "title": "「あと100万安かったら国産車は・・・」メルセデスベンツ190E 希少車貴重解説！【新車情報1991アーカイブス】",

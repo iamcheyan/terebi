@@ -1,8 +1,20 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-03-05T15:53:37.393573",
+  "updated_at": "2026-03-06T15:40:02.584841",
   "videos": [
+    {
+      "id": "GBWND0AoI-M",
+      "title": "創業100年超！老舗喫茶店の人気メニューを当てろ！【グルラン８】",
+      "description": "",
+      "publishedAt": "2026-03-06T12:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GBWND0AoI-M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GBWND0AoI-M"
+    },
     {
       "id": "WXExryfSAv8",
       "title": "いざフランスへ！「有田・伊万里・波佐見」焼き物の町がタッグを組みヨーロッパへ進出",

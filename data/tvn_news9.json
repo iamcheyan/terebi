@@ -1,8 +1,80 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-03-05T15:53:24.115115",
+  "updated_at": "2026-03-06T15:39:45.478777",
   "videos": [
+    {
+      "id": "QQPQcMWk7rY",
+      "title": "県広域水道企業団　きょうから減圧給水の試験実施",
+      "description": "",
+      "publishedAt": "2026-03-06T10:24:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QQPQcMWk7rY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QQPQcMWk7rY"
+    },
+    {
+      "id": "qxo-heF1lg4",
+      "title": "インバウンドなどで需要増　県内初「都市型ハイヤー」を街頭監査",
+      "description": "",
+      "publishedAt": "2026-03-06T10:24:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qxo-heF1lg4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qxo-heF1lg4"
+    },
+    {
+      "id": "G8X4XBUMtr4",
+      "title": "唐招提寺　長老に久保孝戒宗務長",
+      "description": "",
+      "publishedAt": "2026-03-06T10:24:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G8X4XBUMtr4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G8X4XBUMtr4"
+    },
+    {
+      "id": "m8ifcCNXpIg",
+      "title": "「警報」継続中　インフルエンザ流行続く",
+      "description": "",
+      "publishedAt": "2026-03-06T10:24:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m8ifcCNXpIg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m8ifcCNXpIg"
+    },
+    {
+      "id": "2I-hdpLxyL4",
+      "title": "若者が古墳をテーマに写真撮影　「考古学写真甲子園」写真展",
+      "description": "",
+      "publishedAt": "2026-03-06T10:24:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2I-hdpLxyL4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2I-hdpLxyL4"
+    },
+    {
+      "id": "3GgmlmVM9Uk",
+      "title": "明日香村　石神遺跡東側　飛鳥寺に関係か　新たな区画見つかる",
+      "description": "",
+      "publishedAt": "2026-03-06T00:42:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3GgmlmVM9Uk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3GgmlmVM9Uk"
+    },
     {
       "id": "qMVQcEdwIBY",
       "title": "県が渇水対策本部　設置　あすから試験的に水道水の減圧実施",

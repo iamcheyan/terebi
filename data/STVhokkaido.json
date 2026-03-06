@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-02-28T15:26:37.821072",
+  "updated_at": "2026-03-06T15:40:41.174442",
   "videos": [
+    {
+      "id": "eikeDdJ1pAw",
+      "title": "ライブカメラ  大倉山ジャンプ競技場 山頂展望台(STV札幌テレビ放送)北海道札幌市中央区宮の森 /Live Camera Okurayama Ski Jump Stadium, Hokkaido",
+      "description": "",
+      "publishedAt": "2026-03-06T00:33:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eikeDdJ1pAw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eikeDdJ1pAw"
+    },
+    {
+      "id": "sf8gq7OYwpQ",
+      "title": "ライブカメラ  北海道（札幌・大通公園・新千歳空港・小樽・稚内・留萌・旭川・室蘭・浦河・江差・函館山・紋別・網走・帯広・釧路・根室）//LiveCamera Hokkaido Japan",
+      "description": "",
+      "publishedAt": "2026-03-06T00:31:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sf8gq7OYwpQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sf8gq7OYwpQ"
+    },
     {
       "id": "1roQLKx8evA",
       "title": "【どさんこWEEKEND】人と社会と地球のために「地域に根ざす！マテリアルの森」",

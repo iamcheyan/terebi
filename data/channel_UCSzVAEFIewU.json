@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-03-04T15:43:32.280447",
+  "updated_at": "2026-03-06T15:40:05.860377",
   "videos": [
+    {
+      "id": "6eNhj92RoYk",
+      "title": "【密着】「さらば青春の光の青春ジャック‼」丹原高校ロケに潜入！",
+      "description": "",
+      "publishedAt": "2026-03-06T12:18:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6eNhj92RoYk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6eNhj92RoYk"
+    },
+    {
+      "id": "-k3kBFvRH_M",
+      "title": "【Dream+】街を盛り上げたい…フットサルで頂へ",
+      "description": "",
+      "publishedAt": "2026-03-06T10:49:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-k3kBFvRH_M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-k3kBFvRH_M"
+    },
     {
       "id": "ho2lLxKwvGs",
       "title": "【昭和１００年】イヨテツスポーツセンター”最後の冬”",
