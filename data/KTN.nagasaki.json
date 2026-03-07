@@ -1,8 +1,20 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-03-06T15:40:02.584841",
+  "updated_at": "2026-03-07T15:26:50.900716",
   "videos": [
+    {
+      "id": "9g_4mYworJI",
+      "title": "女性の健康～女性の健康週間～【週刊健康マガジン】",
+      "description": "",
+      "publishedAt": "2026-03-07T01:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9g_4mYworJI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9g_4mYworJI"
+    },
     {
       "id": "GBWND0AoI-M",
       "title": "創業100年超！老舗喫茶店の人気メニューを当てろ！【グルラン８】",

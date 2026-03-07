@@ -1,8 +1,80 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-03-06T15:40:45.930966",
+  "updated_at": "2026-03-07T15:27:57.351097",
   "videos": [
+    {
+      "id": "OZJVm71mhh8",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（3月14日（土）18:30～）",
+      "description": "",
+      "publishedAt": "2026-03-07T15:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OZJVm71mhh8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OZJVm71mhh8"
+    },
+    {
+      "id": "1RUwxM5qcH4",
+      "title": "【テレQ番宣】ぐっ！ジョブ（3月14日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-03-07T15:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1RUwxM5qcH4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1RUwxM5qcH4"
+    },
+    {
+      "id": "Kb19xTj_Nfk",
+      "title": "3月14日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-03-07T12:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kb19xTj_Nfk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kb19xTj_Nfk"
+    },
+    {
+      "id": "vrOgp3fefRw",
+      "title": "アイライフスタイル ♯39 「洗車でスッキリと」（テレQ 2025年3月7日放送）",
+      "description": "",
+      "publishedAt": "2026-03-07T11:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vrOgp3fefRw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vrOgp3fefRw"
+    },
+    {
+      "id": "QkuU27-rbHo",
+      "title": "【テレQ番宣】ちょっと福岡行ってきました！（3月14日(土)20:00～）",
+      "description": "",
+      "publishedAt": "2026-03-07T11:53:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QkuU27-rbHo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QkuU27-rbHo"
+    },
+    {
+      "id": "IWyK2CGrWcE",
+      "title": "【テレQ番宣】はてなのてん（3月14日(土)18:30～）",
+      "description": "",
+      "publishedAt": "2026-03-07T09:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IWyK2CGrWcE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IWyK2CGrWcE"
+    },
     {
       "id": "VGFhBiQZUKo",
       "title": "学生ニュースキャスター生出演！♯2026-03 学業院中・橋本千暖さん（2026年3月6日『博多織職人 父と娘の作品展』）",

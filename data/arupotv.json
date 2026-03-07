@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-03-05T15:54:06.380148",
+  "updated_at": "2026-03-07T15:27:50.139654",
   "videos": [
+    {
+      "id": "sXufRInMldI",
+      "title": "【番宣】３月１４日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-03-07T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sXufRInMldI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sXufRInMldI"
+    },
     {
       "id": "PfifRqJ5tw4",
       "title": "【番宣】３月１２日（木）こんばんは熊本市",

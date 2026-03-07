@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-03-06T15:40:13.317218",
+  "updated_at": "2026-03-07T15:26:58.386332",
   "videos": [
+    {
+      "id": "uMOVzfVFWhI",
+      "title": "ハマナビ　次回予告（3月14日放送）",
+      "description": "",
+      "publishedAt": "2026-03-07T09:30:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uMOVzfVFWhI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uMOVzfVFWhI"
+    },
+    {
+      "id": "lm-lRlklBU0",
+      "title": "ハマナビ　2026年3月7日放送　暮らしに身近な\"ハマの防災\"",
+      "description": "",
+      "publishedAt": "2026-03-07T09:30:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lm-lRlklBU0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lm-lRlklBU0"
+    },
+    {
+      "id": "yqBgxAdg-7g",
+      "title": "#関内デビル ダイジェスト編【3月9日号】#shorts #tvk #えびちゅう #桜木心菜 #lokurok #中島来弥 #川崎槙吾 #シクラメン #Krays #appare #ウォルピスカーター",
+      "description": "",
+      "publishedAt": "2026-03-07T09:01:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yqBgxAdg-7g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yqBgxAdg-7g"
+    },
+    {
+      "id": "2HYknwcPVcE",
+      "title": "LOVEかわさき　3月7日放送：川崎の弦楽弓職人 ～一本の弓から生まれる世界～",
+      "description": "",
+      "publishedAt": "2026-03-07T00:30:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2HYknwcPVcE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2HYknwcPVcE"
+    },
     {
       "id": "C-n-_em0sj0",
       "title": "「タッグを組んでミライを育てる～横浜～」かながわ旬菜ナビ 2026/3/1放送",

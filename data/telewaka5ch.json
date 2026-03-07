@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-03-06T15:40:14.911968",
+  "updated_at": "2026-03-07T15:27:21.221031",
   "videos": [
+    {
+      "id": "OPWPbYgqbsE",
+      "title": "和歌山de乾杯!080 和歌山市・Leon後編",
+      "description": "",
+      "publishedAt": "2026-03-07T14:30:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OPWPbYgqbsE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OPWPbYgqbsE"
+    },
+    {
+      "id": "6WGaGba5-1k",
+      "title": "あのじゅうよ〜 第189回",
+      "description": "",
+      "publishedAt": "2026-03-07T14:15:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6WGaGba5-1k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6WGaGba5-1k"
+    },
     {
       "id": "qk5x37p0kd8",
       "title": "屋根の開いた観光バス「泉都めぐりスカイバス白浜」試乗会 和歌山県白浜町",

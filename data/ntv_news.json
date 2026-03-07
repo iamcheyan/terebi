@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-06T15:40:06.735863",
+  "updated_at": "2026-03-07T15:26:44.464461",
   "videos": [
+    {
+      "id": "4rKPu29Wuok",
+      "title": "NSAA Girls State Basketball Semifinal Highlights",
+      "description": "",
+      "publishedAt": "2026-03-07T04:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4rKPu29Wuok/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4rKPu29Wuok"
+    },
     {
       "id": "LiEfp_g8ghY",
       "title": "NSAA Girls State Basketball Day 2 Highlights: Class C1 and D1",

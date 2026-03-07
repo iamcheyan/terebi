@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-03-06T15:39:48.829118",
+  "updated_at": "2026-03-07T15:27:22.864853",
   "videos": [
+    {
+      "id": "WKixEDDH9H0",
+      "title": "【まるまる◎あいち】2026年3月7日放送 「愛知こどもの国～はるのアソビかいほう宣言！～」",
+      "description": "",
+      "publishedAt": "2026-03-07T09:00:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WKixEDDH9H0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WKixEDDH9H0"
+    },
     {
       "id": "n8qr-eaUKoA",
       "title": "【望木アナ】チア部を早期引退し受験へ😭仕事で再び高校野球の世界に✨【アナメロ】",
