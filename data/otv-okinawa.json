@@ -1,8 +1,20 @@
 {
   "channel_id": "UCjPVLguFrd6DTfHl2McrPjw",
   "channel_name": "OTV沖縄テレビ",
-  "updated_at": "2026-03-07T15:27:49.066649",
+  "updated_at": "2026-03-08T15:27:48.641100",
   "videos": [
+    {
+      "id": "Xchwv4AQayw",
+      "title": "OTV杯争奪県サッカーリーグ　閉会式 (26/03/08 12:00)",
+      "description": "",
+      "publishedAt": "2026-03-08T03:23:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Xchwv4AQayw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Xchwv4AQayw"
+    },
     {
       "id": "-pJTbaI5TDE",
       "title": "県と宜野湾市が普天間基地返還条件米政府に確認するよう求める (26/03/07 16:00)",

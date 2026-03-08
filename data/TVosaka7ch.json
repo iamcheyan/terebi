@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-03-07T15:26:40.684903",
+  "updated_at": "2026-03-08T15:27:15.032038",
   "videos": [
+    {
+      "id": "BJDUzSUn02c",
+      "title": "食遺産File.237「須磨海苔のひつまぶし」＠神戸市・須磨区",
+      "description": "",
+      "publishedAt": "2026-03-08T03:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BJDUzSUn02c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BJDUzSUn02c"
+    },
     {
       "id": "w3B0OYR5jI4",
       "title": "【よゐこ有野×大阪】お洒落タウン・中崎町で楽しむ！最新グルメ＆レトロ雑貨／大阪の街の“攻略法”を探す街ブラ",

@@ -1,8 +1,188 @@
 {
   "channel_id": "UCXYTFOXjfQz_FVzCzqP9PXA",
   "channel_name": "AI Polyglot | 多言語 聞き流し",
-  "updated_at": "2026-03-07T15:27:08.160604",
+  "updated_at": "2026-03-08T15:27:09.877991",
   "videos": [
+    {
+      "id": "-xYKIgSmtOo",
+      "title": "フランス語A2疑問文 | 日常会話 | 質問表現 | 初級フランス語",
+      "description": "",
+      "publishedAt": "2026-03-07T21:51:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-xYKIgSmtOo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-xYKIgSmtOo"
+    },
+    {
+      "id": "ufr55PFKaRo",
+      "title": "ドイツ語 A2疑問文 | 質問表現 | 日常会話 | 初級文法",
+      "description": "",
+      "publishedAt": "2026-03-07T21:51:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ufr55PFKaRo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ufr55PFKaRo"
+    },
+    {
+      "id": "owWMtaH2yBM",
+      "title": "A2疑問文 ポルトガル語 | 初級文法 | 質問表現 | 日常会話",
+      "description": "",
+      "publishedAt": "2026-03-07T21:51:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/owWMtaH2yBM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=owWMtaH2yBM"
+    },
+    {
+      "id": "9PUqkB_uDMc",
+      "title": "中国語A2疑問文 | 質問表現 | 日常会話 | 初級文法",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9PUqkB_uDMc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9PUqkB_uDMc"
+    },
+    {
+      "id": "ngWrIG3aDKA",
+      "title": "台湾華語 A2疑問文 | 基本質問 | 日常会話 | 初級文法",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ngWrIG3aDKA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ngWrIG3aDKA"
+    },
+    {
+      "id": "4meC1ugRM48",
+      "title": "韓国語A2疑問文 | 基本質問表現 | 日常会話フレーズ | 初級文法",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4meC1ugRM48/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4meC1ugRM48"
+    },
+    {
+      "id": "VvLvh_ENHfc",
+      "title": "A2疑問文 ベトナム語 | 日常会話 | 質問フレーズ | 基本表現",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VvLvh_ENHfc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VvLvh_ENHfc"
+    },
+    {
+      "id": "HadhayBrfig",
+      "title": "インドネシア語A2疑問文 | 基本質問表現 | 日常会話フレーズ",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HadhayBrfig/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HadhayBrfig"
+    },
+    {
+      "id": "wVBsTdQbpDc",
+      "title": "ロシア語A2疑問文 | 質問表現 | 日常会話 | 初級文法",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wVBsTdQbpDc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wVBsTdQbpDc"
+    },
+    {
+      "id": "2g5qhG4kShI",
+      "title": "Spanish A2 Question Words | Question Formation | Basic Interrogatives",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2g5qhG4kShI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2g5qhG4kShI"
+    },
+    {
+      "id": "12_KHHnZiQI",
+      "title": "A2 Italian Question Words | Interrogative Forms | Italian Learning",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/12_KHHnZiQI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=12_KHHnZiQI"
+    },
+    {
+      "id": "Ah8DsdCcbYU",
+      "title": "French A2 Question Words | French Questions | Conversational Phrases",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ah8DsdCcbYU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ah8DsdCcbYU"
+    },
+    {
+      "id": "k66Kp-CCyqA",
+      "title": "German A2 Question Words | Interrogative Sentences | German Conversation",
+      "description": "",
+      "publishedAt": "2026-03-07T21:50:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k66Kp-CCyqA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k66Kp-CCyqA"
+    },
+    {
+      "id": "-2AtxQCUoAI",
+      "title": "A2 Question Words Portuguese | Interrogative Phrases | Daily Conversations",
+      "description": "",
+      "publishedAt": "2026-03-07T21:49:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-2AtxQCUoAI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-2AtxQCUoAI"
+    },
+    {
+      "id": "Yg_OLeh3hPU",
+      "title": "A2 Level Question Formation | Simplified Chinese | Daily Conversation Questions",
+      "description": "",
+      "publishedAt": "2026-03-07T21:49:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yg_OLeh3hPU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yg_OLeh3hPU"
+    },
     {
       "id": "gSWZtPaX7eI",
       "title": "韓国語A1の空港 | 音声学習 | リスニング練習",

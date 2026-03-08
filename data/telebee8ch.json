@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-03-06T15:40:43.912677",
+  "updated_at": "2026-03-08T15:27:53.060984",
   "videos": [
+    {
+      "id": "2Amkze0Q5RA",
+      "title": "【公式】「子どものいびき ほっとかないで～！」（2026年3月8日放送）｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-03-08T00:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Amkze0Q5RA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Amkze0Q5RA"
+    },
+    {
+      "id": "mJ9GRpyhVCU",
+      "title": "【公式】ドキュメント九州「あの日の記憶 -なでしこ隊を語り継ぐ-」（2026年3月15日OA）",
+      "description": "",
+      "publishedAt": "2026-03-07T22:00:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mJ9GRpyhVCU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mJ9GRpyhVCU"
+    },
     {
       "id": "VkGrnF3aTJU",
       "title": "【公式】「はじめてのずりばい」（03月06日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",

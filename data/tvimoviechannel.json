@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-06T15:40:45.519730",
+  "updated_at": "2026-03-08T15:27:54.702143",
   "videos": [
+    {
+      "id": "tIg_KD6uSPg",
+      "title": "今日の５きげんテレビ（3月9日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-08T15:01:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tIg_KD6uSPg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tIg_KD6uSPg"
+    },
     {
       "id": "S2kgWAkIhD4",
       "title": "５きげんクッキング ～メロンとココナッツのデザート～",

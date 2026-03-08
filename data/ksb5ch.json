@@ -1,8 +1,32 @@
 {
   "channel_id": "UCH9jlbggZY_mRx7Q0k49TuQ",
   "channel_name": "瀬戸内海放送（KSB）",
-  "updated_at": "2026-03-06T15:40:17.309610",
+  "updated_at": "2026-03-08T15:26:55.575598",
   "videos": [
+    {
+      "id": "P5dw9sMivlc",
+      "title": "【LINE】ヒルペコ×ハローアリーナ2026③",
+      "description": "",
+      "publishedAt": "2026-03-08T05:09:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P5dw9sMivlc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P5dw9sMivlc"
+    },
+    {
+      "id": "yUutUcLe5kI",
+      "title": "【LIVE】ヒルペコ×ハローアリーナ2026②",
+      "description": "",
+      "publishedAt": "2026-03-06T06:19:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yUutUcLe5kI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yUutUcLe5kI"
+    },
     {
       "id": "R0-eMCd1xGQ",
       "title": "【中継】河津桜で春を先取り！特産品やスイーツ販売も　湊川河津桜まつり　香川・東かがわ市〈#推しドコ？〉",

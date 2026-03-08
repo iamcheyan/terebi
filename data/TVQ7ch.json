@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-03-07T15:27:57.351097",
+  "updated_at": "2026-03-08T15:27:55.031890",
   "videos": [
+    {
+      "id": "rXh4aW8_f-g",
+      "title": "【テレQ番宣】ブルーリバーの望むところだ！（3月15日（日）13:30～）",
+      "description": "",
+      "publishedAt": "2026-03-08T05:23:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rXh4aW8_f-g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rXh4aW8_f-g"
+    },
+    {
+      "id": "cboZYS09CeY",
+      "title": "小倉に来たら食ってんちゃ！総集編／リンパラ！ ♯49（テレQ2026年3月7日放送）",
+      "description": "",
+      "publishedAt": "2026-03-07T15:59:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cboZYS09CeY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cboZYS09CeY"
+    },
     {
       "id": "OZJVm71mhh8",
       "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（3月14日（土）18:30～）",

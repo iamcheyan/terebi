@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2026-03-07T15:26:38.227936",
+  "updated_at": "2026-03-08T15:27:26.969915",
   "videos": [
+    {
+      "id": "SOdKflwQimo",
+      "title": "📺 テレビ高知　社員募集 🤝✨",
+      "description": "",
+      "publishedAt": "2026-03-08T09:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SOdKflwQimo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SOdKflwQimo"
+    },
     {
       "id": "cjNp4LTqBc4",
       "title": "ここだけのはなし。　高知ユナイテッドSC監督　吉本岳史さん　第百四回　#ここばな",
