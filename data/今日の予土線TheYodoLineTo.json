@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-08T15:28:04.783843",
+  "updated_at": "2026-03-09T16:02:01.866792",
   "videos": [
+    {
+      "id": "jWu4Li5l0Zg",
+      "title": "260309 154543 伊予宮野下駅（黄色い列車行き違い）",
+      "description": "",
+      "publishedAt": "2026-03-09T10:29:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jWu4Li5l0Zg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jWu4Li5l0Zg"
+    },
+    {
+      "id": "JlZwnDPArF4",
+      "title": "260309 153903 宮野下第３踏切",
+      "description": "",
+      "publishedAt": "2026-03-09T10:29:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JlZwnDPArF4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JlZwnDPArF4"
+    },
+    {
+      "id": "JKob7XKaTS0",
+      "title": "260309 153334 宮野下第２踏切",
+      "description": "",
+      "publishedAt": "2026-03-09T10:11:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JKob7XKaTS0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JKob7XKaTS0"
+    },
     {
       "id": "UYDmxLrJRsI",
       "title": "今週の予土線 The Yodo Line Weekly 2026 03 08",

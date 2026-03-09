@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-03-07T15:27:55.674141",
+  "updated_at": "2026-03-09T16:01:47.359394",
   "videos": [
+    {
+      "id": "MItfs-OxUDw",
+      "title": "3/20(金・祝)開催！",
+      "description": "",
+      "publishedAt": "2026-03-09T03:49:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MItfs-OxUDw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MItfs-OxUDw"
+    },
+    {
+      "id": "70ZlQpI9MIQ",
+      "title": "最新技術で迫力満点の恐竜体験【３月２０日（金・祝）上田市で開催】",
+      "description": "",
+      "publishedAt": "2026-03-09T03:36:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/70ZlQpI9MIQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=70ZlQpI9MIQ"
+    },
     {
       "id": "XkWN7i3Wph4",
       "title": "里山に最新技術を　イチゴ栽培のこれから【里山ものがたり168話】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-03-05T15:53:40.745950",
+  "updated_at": "2026-03-09T16:00:41.869932",
   "videos": [
+    {
+      "id": "kjeejbaAXoU",
+      "title": "トイレの備え",
+      "description": "",
+      "publishedAt": "2026-03-09T04:32:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kjeejbaAXoU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kjeejbaAXoU"
+    },
+    {
+      "id": "V8w5dfP5Xjw",
+      "title": "冷蔵庫と冷凍庫の防災",
+      "description": "",
+      "publishedAt": "2026-03-09T04:30:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V8w5dfP5Xjw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V8w5dfP5Xjw"
+    },
     {
       "id": "zriv74UXPb8",
       "title": "寝室の備え",

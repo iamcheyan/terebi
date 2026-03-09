@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-08T15:27:54.702143",
+  "updated_at": "2026-03-09T16:01:48.743723",
   "videos": [
+    {
+      "id": "plPCe2IvKmo",
+      "title": "今日の５きげんテレビ（3月10日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-09T15:01:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/plPCe2IvKmo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=plPCe2IvKmo"
+    },
+    {
+      "id": "LciTzzfHVLY",
+      "title": "５きげんクッキング ～サーモンとポテトの ライスペーパーチヂミ～",
+      "description": "",
+      "publishedAt": "2026-03-09T08:30:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LciTzzfHVLY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LciTzzfHVLY"
+    },
     {
       "id": "tIg_KD6uSPg",
       "title": "今日の５きげんテレビ（3月9日）｜テレビ岩手",

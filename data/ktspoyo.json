@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-03-07T15:27:42.880256",
+  "updated_at": "2026-03-09T16:01:35.290822",
   "videos": [
+    {
+      "id": "hv2K_z06NMk",
+      "title": "鹿児島わが町自慢　第17弾　今夜7時放送！",
+      "description": "",
+      "publishedAt": "2026-02-25T04:11:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hv2K_z06NMk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hv2K_z06NMk"
+    },
     {
       "id": "KFRQNeRPq00",
       "title": "河内あづきの鹿児島あっちこっち　3月7日（土）",

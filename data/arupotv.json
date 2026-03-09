@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-03-08T15:27:49.614104",
+  "updated_at": "2026-03-09T16:01:41.399874",
   "videos": [
+    {
+      "id": "BKyTiZY1Kvs",
+      "title": "【番宣】３月１１日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-03-09T08:10:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BKyTiZY1Kvs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BKyTiZY1Kvs"
+    },
+    {
+      "id": "yIf9OBSiycI",
+      "title": "【番宣】３月１２日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-03-09T00:36:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yIf9OBSiycI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yIf9OBSiycI"
+    },
     {
       "id": "RyXqNUU3LV8",
       "title": "第93回 めざせ！くまもとの若き匠たち【翔陽高校  建築科】",

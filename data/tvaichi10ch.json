@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-03-07T15:26:39.420970",
+  "updated_at": "2026-03-09T16:01:16.272053",
   "videos": [
+    {
+      "id": "K8ezDcXB3cA",
+      "title": "【LBS】廃棄ゴムのリサイクルを実用化",
+      "description": "",
+      "publishedAt": "2026-03-09T12:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K8ezDcXB3cA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K8ezDcXB3cA"
+    },
+    {
+      "id": "Al5kBFrJWLQ",
+      "title": "大須テレビ 2026年3月15日（日）深夜24時50分 テレビ愛知",
+      "description": "",
+      "publishedAt": "2026-03-09T07:14:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Al5kBFrJWLQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Al5kBFrJWLQ"
+    },
     {
       "id": "frWYteD2V_c",
       "title": "美味しいパンの缶詰工場へ！Bread Wonder Factory まもるんパン（岐阜県羽島市）【あまドラ～天野っちのドライブしよう！！～】",

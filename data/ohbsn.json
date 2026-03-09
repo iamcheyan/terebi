@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-03-07T15:27:31.660119",
+  "updated_at": "2026-03-09T16:01:23.955653",
   "videos": [
+    {
+      "id": "u45G6DVjSvQ",
+      "title": "#57 後半戦スタート！2連勝を振り返る！！",
+      "description": "",
+      "publishedAt": "2026-03-09T03:06:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u45G6DVjSvQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u45G6DVjSvQ"
+    },
+    {
+      "id": "kuETFyXlcIA",
+      "title": "BSN新潟放送公式チャンネル のライブ配信",
+      "description": "",
+      "publishedAt": "2026-03-05T07:24:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kuETFyXlcIA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kuETFyXlcIA"
+    },
     {
       "id": "twx_REmpqRE",
       "title": "『カールさんのキセキ 〜古民家再生30年〜』【見逃し配信】",

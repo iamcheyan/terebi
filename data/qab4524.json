@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-03-07T15:27:48.105097",
+  "updated_at": "2026-03-09T16:01:40.094907",
   "videos": [
+    {
+      "id": "mbWCo1OC1OI",
+      "title": "Listen175 KOOTAさん",
+      "description": "",
+      "publishedAt": "2026-03-09T08:09:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mbWCo1OC1OI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mbWCo1OC1OI"
+    },
     {
       "id": "-lOkKonttiM",
       "title": "新たな観光の形 沖縄サウナツーリズムへの取り組み",

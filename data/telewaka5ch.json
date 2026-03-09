@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-03-07T15:27:21.221031",
+  "updated_at": "2026-03-09T16:00:57.592114",
   "videos": [
+    {
+      "id": "XdN21CwUurY",
+      "title": "暮らしのカルチャータイム　「からだ整うフラメンコ体操」第6回",
+      "description": "",
+      "publishedAt": "2026-03-09T05:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XdN21CwUurY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XdN21CwUurY"
+    },
+    {
+      "id": "FWMazJ0MLUw",
+      "title": "こどものロタウイルス胃腸炎【わかやま医療ナビ】",
+      "description": "",
+      "publishedAt": "2026-03-08T16:50:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FWMazJ0MLUw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FWMazJ0MLUw"
+    },
     {
       "id": "OPWPbYgqbsE",
       "title": "和歌山de乾杯!080 和歌山市・Leon後編",
