@@ -1,8 +1,44 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-03-09T16:01:07.933553",
+  "updated_at": "2026-03-10T16:02:25.122085",
   "videos": [
+    {
+      "id": "AMgkTNvfUc0",
+      "title": "RCCテレビ『元就。』2026年3月15日予告",
+      "description": "",
+      "publishedAt": "2026-03-10T01:42:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AMgkTNvfUc0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AMgkTNvfUc0"
+    },
+    {
+      "id": "jFSPOPvh274",
+      "title": "『元就。二百万一心！』 #246　2026年3月7日",
+      "description": "",
+      "publishedAt": "2026-03-10T01:29:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jFSPOPvh274/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jFSPOPvh274"
+    },
+    {
+      "id": "bF7lflfbqgI",
+      "title": "26/2/27OA　イマナマ！西日本完全制覇の旅「石見地方・前編」【RCCテレビ】",
+      "description": "",
+      "publishedAt": "2026-03-09T18:26:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bF7lflfbqgI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bF7lflfbqgI"
+    },
     {
       "id": "75ZN4RmLW6g",
       "title": "26/3/6OA　イマナマ！西日本完全制覇の旅「石見地方・後編」【RCCテレビ】",

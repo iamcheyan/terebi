@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-09T16:02:01.866792",
+  "updated_at": "2026-03-10T16:03:26.053294",
   "videos": [
+    {
+      "id": "4MbV3iiaHAY",
+      "title": "260310 135921 河渡踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-03-10T12:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4MbV3iiaHAY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4MbV3iiaHAY"
+    },
+    {
+      "id": "sKJe_lbyS1c",
+      "title": "260310 140514 河渡踏切（ここを車が通過するのを初めて見た！）",
+      "description": "",
+      "publishedAt": "2026-03-10T11:26:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sKJe_lbyS1c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sKJe_lbyS1c"
+    },
+    {
+      "id": "VPE_EvTDSuI",
+      "title": "260310 133653 兼近第１踏切（ＪＲ工事中）",
+      "description": "",
+      "publishedAt": "2026-03-10T10:34:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VPE_EvTDSuI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VPE_EvTDSuI"
+    },
     {
       "id": "jWu4Li5l0Zg",
       "title": "260309 154543 伊予宮野下駅（黄色い列車行き違い）",

@@ -1,8 +1,80 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-03-09T16:02:01.468693",
+  "updated_at": "2026-03-10T16:03:25.557186",
   "videos": [
+    {
+      "id": "cKsgco8mYIo",
+      "title": "「一週間なばな生活に」　子どもたちが収穫体験",
+      "description": "",
+      "publishedAt": "2026-03-10T01:17:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cKsgco8mYIo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cKsgco8mYIo"
+    },
+    {
+      "id": "3Or5rN2yG9I",
+      "title": "三重高校　春のセンバツで健闘誓う",
+      "description": "",
+      "publishedAt": "2026-03-10T01:14:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3Or5rN2yG9I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3Or5rN2yG9I"
+    },
+    {
+      "id": "u8urTglnKPo",
+      "title": "スクエニから発売された伊勢志摩が舞台のゲーム「パラノマサイト」最新作　タイアップ企画が開始",
+      "description": "",
+      "publishedAt": "2026-03-10T01:14:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u8urTglnKPo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u8urTglnKPo"
+    },
+    {
+      "id": "JAXf9voNYnc",
+      "title": "山に入る際は単独行動避けて　冬眠時期でもクマが三重県内各地で出没",
+      "description": "",
+      "publishedAt": "2026-03-10T01:11:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JAXf9voNYnc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JAXf9voNYnc"
+    },
+    {
+      "id": "rHqd3qmzcOY",
+      "title": "「こども食堂」を地域防災の拠点に",
+      "description": "",
+      "publishedAt": "2026-03-10T01:11:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rHqd3qmzcOY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rHqd3qmzcOY"
+    },
+    {
+      "id": "z_GzZLauhD0",
+      "title": "「早く立派な美容師に」　卒業生が新たな一歩",
+      "description": "",
+      "publishedAt": "2026-03-10T01:08:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/z_GzZLauhD0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=z_GzZLauhD0"
+    },
     {
       "id": "ul6nG0fCxgo",
       "title": "宇留田竜希さんら実業団の選手も参加　NTN桑名製作所で駅伝大会",

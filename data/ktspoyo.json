@@ -1,8 +1,44 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-03-09T16:01:35.290822",
+  "updated_at": "2026-03-10T16:03:02.699881",
   "videos": [
+    {
+      "id": "rAGCAqX9rlM",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　日置市",
+      "description": "",
+      "publishedAt": "2026-03-10T11:01:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rAGCAqX9rlM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rAGCAqX9rlM"
+    },
+    {
+      "id": "Nfg6vziKtXc",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　伊佐市",
+      "description": "",
+      "publishedAt": "2026-03-10T11:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nfg6vziKtXc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nfg6vziKtXc"
+    },
+    {
+      "id": "EkciLmf4v5s",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　枕崎市",
+      "description": "",
+      "publishedAt": "2026-03-10T11:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EkciLmf4v5s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EkciLmf4v5s"
+    },
     {
       "id": "hv2K_z06NMk",
       "title": "鹿児島わが町自慢　第17弾　今夜7時放送！",

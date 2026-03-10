@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-03-08T15:27:15.032038",
+  "updated_at": "2026-03-10T16:02:22.483481",
   "videos": [
+    {
+      "id": "xGnytUfTsTw",
+      "title": "【加守アナが時計体操に挑戦！】",
+      "description": "",
+      "publishedAt": "2026-03-10T09:01:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xGnytUfTsTw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xGnytUfTsTw"
+    },
     {
       "id": "BJDUzSUn02c",
       "title": "食遺産File.237「須磨海苔のひつまぶし」＠神戸市・須磨区",

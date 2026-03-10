@@ -1,8 +1,44 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-03-09T16:00:57.592114",
+  "updated_at": "2026-03-10T16:02:11.206329",
   "videos": [
+    {
+      "id": "vzP1F5CvV6o",
+      "title": "暮らしのカルチャータイム　「からだ整うフラメンコ体操」第7回",
+      "description": "",
+      "publishedAt": "2026-03-10T05:30:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vzP1F5CvV6o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vzP1F5CvV6o"
+    },
+    {
+      "id": "MelDJMUiIqU",
+      "title": "マエオカスケッチ　「今西商店『今西 廣典さん』」パート②",
+      "description": "",
+      "publishedAt": "2026-03-10T04:04:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MelDJMUiIqU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MelDJMUiIqU"
+    },
+    {
+      "id": "o9pBRiJm9bU",
+      "title": "県立高校で強力翔さんの人権講演会 和歌山市",
+      "description": "",
+      "publishedAt": "2026-03-10T03:44:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o9pBRiJm9bU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o9pBRiJm9bU"
+    },
     {
       "id": "XdN21CwUurY",
       "title": "暮らしのカルチャータイム　「からだ整うフラメンコ体操」第6回",

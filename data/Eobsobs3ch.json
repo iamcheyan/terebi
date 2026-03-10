@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-03-09T16:01:39.298488",
+  "updated_at": "2026-03-10T16:03:06.376229",
   "videos": [
+    {
+      "id": "zEO0SM0I_Cc",
+      "title": "【大分市】form lion（2026年2月11日放送分）",
+      "description": "",
+      "publishedAt": "2026-03-10T06:10:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zEO0SM0I_Cc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zEO0SM0I_Cc"
+    },
+    {
+      "id": "DgDVJYLDAnA",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年3月9日放送分】",
+      "description": "",
+      "publishedAt": "2026-03-10T01:52:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DgDVJYLDAnA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DgDVJYLDAnA"
+    },
     {
       "id": "FFlHdiOmECU",
       "title": "OBSラジオ『えとう窓口の、大分がんばる人！』🗓️3/15(日)3/22(日)16時30分〜　💁‍♀️がんばる人！(ゲスト)：Chimo　髙木ももあさん",

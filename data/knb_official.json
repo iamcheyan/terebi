@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-03-05T15:54:01.837587",
+  "updated_at": "2026-03-10T16:03:01.326660",
   "videos": [
+    {
+      "id": "K4oFV6JA2YY",
+      "title": "【旬景とやま】北帰行へ羽ばたく",
+      "description": "",
+      "publishedAt": "2026-03-10T10:50:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K4oFV6JA2YY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K4oFV6JA2YY"
+    },
     {
       "id": "5TYOR_Bovi0",
       "title": "【北陸３県イイトコどり～】ホカホカおやつ",
