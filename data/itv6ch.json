@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-03-09T16:01:54.605551",
+  "updated_at": "2026-03-11T15:52:45.553088",
   "videos": [
+    {
+      "id": "h8An0TI56eQ",
+      "title": "“ミスター都市伝説” 防災活動にも情熱",
+      "description": "",
+      "publishedAt": "2026-03-11T00:01:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h8An0TI56eQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h8An0TI56eQ"
+    },
     {
       "id": "cI6EbQ2DX5I",
       "title": "愛媛のニュース(03月09日)",

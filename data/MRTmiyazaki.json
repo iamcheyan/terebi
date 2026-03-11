@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-03-09T16:01:36.434790",
+  "updated_at": "2026-03-11T15:52:36.142324",
   "videos": [
+    {
+      "id": "iooewE4A6KM",
+      "title": "【GO!GO! CookingZX】いちご！パート２",
+      "description": "",
+      "publishedAt": "2026-03-11T05:42:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iooewE4A6KM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iooewE4A6KM"
+    },
     {
       "id": "sbwGXSxpJBk",
       "title": "けんかでGO!GO!2025年12月26日放送",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-03-10T16:02:15.941314",
+  "updated_at": "2026-03-11T15:52:13.005924",
   "videos": [
+    {
+      "id": "ThIXbyE6wlA",
+      "title": "【LBS】人気コスメが異色の工場",
+      "description": "",
+      "publishedAt": "2026-03-11T12:00:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ThIXbyE6wlA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ThIXbyE6wlA"
+    },
     {
       "id": "cftUccQH96E",
       "title": "【碧海工機】長年の技術の蓄積から生まれた独自の鋳造法を紹介【開発現場へ行こう #55】",

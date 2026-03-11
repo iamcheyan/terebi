@@ -1,8 +1,32 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-03-08T15:27:58.667069",
+  "updated_at": "2026-03-11T15:52:44.679900",
   "videos": [
+    {
+      "id": "0Y4pEwKiLw8",
+      "title": "【快挙】山形の高校生が９検定試験 すべて１級合格！",
+      "description": "",
+      "publishedAt": "2026-03-11T09:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0Y4pEwKiLw8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0Y4pEwKiLw8"
+    },
+    {
+      "id": "YOlNa9aodxI",
+      "title": "おいしさは物語で変わる⁉～科学と食文化の融合で迫る「味の正体」～",
+      "description": "",
+      "publishedAt": "2026-03-11T06:40:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YOlNa9aodxI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YOlNa9aodxI"
+    },
     {
       "id": "KvF_HRohXd8",
       "title": "やまがたサンデー５　３月８日放送分　知ってほしい、めざしてほしい警察の仕事",

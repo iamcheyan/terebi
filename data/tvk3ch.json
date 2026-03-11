@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-03-10T16:02:24.195243",
+  "updated_at": "2026-03-11T15:52:00.264326",
   "videos": [
+    {
+      "id": "Um4IkhoQX_I",
+      "title": "カナフルTV　3月8日　開催まであと1年！わくわく☆今知りたい「GREEN×EXPO 2027」",
+      "description": "",
+      "publishedAt": "2026-03-11T04:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Um4IkhoQX_I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Um4IkhoQX_I"
+    },
+    {
+      "id": "H7jiWmhArz0",
+      "title": "かながわ旬菜ナビ　次回予告（3月15日放送）",
+      "description": "",
+      "publishedAt": "2026-03-11T03:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H7jiWmhArz0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H7jiWmhArz0"
+    },
     {
       "id": "Cs9DUrpY6E0",
       "title": "猫のひたいほどワイド #1707 潜入リポート・大矢剛康「いざ出航！大矢船長のボトルシップ」（川崎市川崎区）",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UC8Y0ZErdlAnA9uW7ZeRdreQ",
   "channel_name": "FCT福島中央テレビNEWS",
-  "updated_at": "2026-03-10T16:02:56.843757",
+  "updated_at": "2026-03-11T15:52:30.941455",
   "videos": [
+    {
+      "id": "_MJHEVbEj3U",
+      "title": "福島第一原発1号、2号機前からからリポート　福島",
+      "description": "",
+      "publishedAt": "2026-03-11T10:06:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_MJHEVbEj3U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_MJHEVbEj3U"
+    },
+    {
+      "id": "RlEW8FZn8po",
+      "title": "いわき震災伝承みらい館　語り部が思う未来　福島",
+      "description": "",
+      "publishedAt": "2026-03-11T10:05:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RlEW8FZn8po/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RlEW8FZn8po"
+    },
+    {
+      "id": "0hAOhhNjnLw",
+      "title": "きょうで震災・原発事故から15年　原発から約４kmの双葉町からリポート　福島",
+      "description": "",
+      "publishedAt": "2026-03-11T10:05:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0hAOhhNjnLw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0hAOhhNjnLw"
+    },
     {
       "id": "-uA40YK4084",
       "title": "「原油高が一番何もかもに影響すると思う」納豆メーカーにも影響　福島",

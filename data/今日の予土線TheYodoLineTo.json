@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-10T16:03:26.053294",
+  "updated_at": "2026-03-11T15:52:49.490484",
   "videos": [
+    {
+      "id": "jolGhsOEq6s",
+      "title": "260311 153620 兼近第１踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-03-11T09:48:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jolGhsOEq6s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jolGhsOEq6s"
+    },
+    {
+      "id": "PaUaKXsx4Xc",
+      "title": "260311 152954 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-03-11T09:38:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PaUaKXsx4Xc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PaUaKXsx4Xc"
+    },
     {
       "id": "4MbV3iiaHAY",
       "title": "260310 135921 河渡踏切（かっぱ列車通過）",

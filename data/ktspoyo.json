@@ -1,8 +1,32 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-03-10T16:03:02.699881",
+  "updated_at": "2026-03-11T15:52:35.088939",
   "videos": [
+    {
+      "id": "Mqlb4ifEBkY",
+      "title": "かごんま未来ノート 第213回「地域に根ざしたコンサートで心の交流　ちくりん生活音楽隊」",
+      "description": "",
+      "publishedAt": "2026-03-11T14:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Mqlb4ifEBkY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Mqlb4ifEBkY"
+    },
+    {
+      "id": "QecPQ7d0xoc",
+      "title": "【わんにゃんプラスかごしま】「試練を乗り越えて」",
+      "description": "",
+      "publishedAt": "2026-03-11T02:22:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QecPQ7d0xoc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QecPQ7d0xoc"
+    },
     {
       "id": "rAGCAqX9rlM",
       "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　日置市",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-03-09T16:01:18.708551",
+  "updated_at": "2026-03-11T15:52:18.078226",
   "videos": [
+    {
+      "id": "pLHXpzWiidY",
+      "title": "自分のキャラクターに悩み続けるアキ助ｗｗ",
+      "description": "",
+      "publishedAt": "2026-03-11T10:01:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pLHXpzWiidY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pLHXpzWiidY"
+    },
+    {
+      "id": "igDuIScvXhc",
+      "title": "【はじめましテレビ】25歳ラッパーが5時間で曲作り",
+      "description": "",
+      "publishedAt": "2026-03-11T09:01:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/igDuIScvXhc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=igDuIScvXhc"
+    },
     {
       "id": "diCjGeQNXRE",
       "title": "噛み方が独特すぎる新喜劇ｗｗ",

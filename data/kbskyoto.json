@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-03-10T16:02:13.336814",
+  "updated_at": "2026-03-11T15:51:55.691125",
   "videos": [
+    {
+      "id": "rZPvYKSu1hg",
+      "title": "【京都市会】令和8年2月市会 / 代表質疑2日目",
+      "description": "",
+      "publishedAt": "2026-03-11T04:56:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rZPvYKSu1hg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rZPvYKSu1hg"
+    },
+    {
+      "id": "eN5LyLwAhtU",
+      "title": "【京都市会】令和8年2月市会 / 代表質疑1日目",
+      "description": "",
+      "publishedAt": "2026-03-11T04:55:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eN5LyLwAhtU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eN5LyLwAhtU"
+    },
     {
       "id": "AuXkkqVy0f4",
       "title": "【特集】祗園の名建築の歴史受け継ぐホテル開業／京都経済テラスキュンと！",

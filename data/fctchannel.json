@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2026-03-07T15:27:33.407265",
+  "updated_at": "2026-03-11T15:52:30.500505",
   "videos": [
+    {
+      "id": "DN089tqhmpg",
+      "title": "おゆらじ    #47.5【番外編】アボカドどこ",
+      "description": "",
+      "publishedAt": "2026-03-11T08:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DN089tqhmpg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DN089tqhmpg"
+    },
     {
       "id": "Fux6_5TOYCQ",
       "title": "おゆらじ   #47【本編】ドリフになりたい",
