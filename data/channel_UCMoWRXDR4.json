@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-03-11T15:52:09.696478",
+  "updated_at": "2026-03-12T16:00:08.973240",
   "videos": [
+    {
+      "id": "GScaq2euK-s",
+      "title": "防災特別番組2026　～いまできる備え～（チバテレ公式）",
+      "description": "",
+      "publishedAt": "2026-03-11T22:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GScaq2euK-s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GScaq2euK-s"
+    },
     {
       "id": "_JvUKt8JBL8",
       "title": "#22「韓国語で質問する！」【KAN･KAN･KAN !～スンジュンの5分で完了簡単韓国語ドラマ～】（チバテレ公式）",

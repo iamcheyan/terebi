@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-03-11T15:52:13.005924",
+  "updated_at": "2026-03-12T16:00:17.265372",
   "videos": [
+    {
+      "id": "OSUA1_aWRB4",
+      "title": "シリーズ【廃車リサイクルのミライ】クルマの部品が生まれ変わる！【クルマとミライ】",
+      "description": "",
+      "publishedAt": "2026-03-12T14:12:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OSUA1_aWRB4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OSUA1_aWRB4"
+    },
+    {
+      "id": "aLn9x36gCe4",
+      "title": "アカリノコマド（2026年3月11日放送）",
+      "description": "",
+      "publishedAt": "2026-03-12T12:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aLn9x36gCe4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aLn9x36gCe4"
+    },
     {
       "id": "ThIXbyE6wlA",
       "title": "【LBS】人気コスメが異色の工場",

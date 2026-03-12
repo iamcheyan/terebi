@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-03-11T15:51:56.589205",
+  "updated_at": "2026-03-12T15:59:57.393167",
   "videos": [
+    {
+      "id": "FvdIbXsenYE",
+      "title": "【尾形アナ】懐かしい味と共に語る、東日本大震災から15年の想い【アナメロ】",
+      "description": "",
+      "publishedAt": "2026-03-12T05:45:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FvdIbXsenYE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FvdIbXsenYE"
+    },
     {
       "id": "vPrn6hfqHfc",
       "title": "超町人！チョコレートサムネット 3/15(日)下半期アワード前編【メ～テレ】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-03-11T15:52:14.699748",
+  "updated_at": "2026-03-12T16:00:28.349253",
   "videos": [
+    {
+      "id": "vxupNmkNe-4",
+      "title": "たからモノさがして　５７３回",
+      "description": "",
+      "publishedAt": "2026-03-12T10:01:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vxupNmkNe-4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vxupNmkNe-4"
+    },
+    {
+      "id": "kzudXPbb1no",
+      "title": "【キッズチャレンジスタジアム】はるとくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-03-12T09:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kzudXPbb1no/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kzudXPbb1no"
+    },
     {
       "id": "bhtKm-WzUII",
       "title": "【いざ、カープ観戦へ！】趣味を楽しむ夫婦が営む駅チカ老舗旅館",

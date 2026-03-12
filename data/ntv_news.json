@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-10T16:02:45.021974",
+  "updated_at": "2026-03-12T15:59:52.451571",
   "videos": [
+    {
+      "id": "EPM0lGzkeDc",
+      "title": "NSAA Boys State Basketball Day 1 Highlights",
+      "description": "",
+      "publishedAt": "2026-03-12T00:56:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EPM0lGzkeDc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EPM0lGzkeDc"
+    },
     {
       "id": "swlDp578_rs",
       "title": "Nebraska Men's Basketball Caps Historic Regular Season, Earns No. 2 Seed in Big Ten Tournament",

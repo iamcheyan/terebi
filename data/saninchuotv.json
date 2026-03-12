@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-03-10T16:02:39.944398",
+  "updated_at": "2026-03-12T15:59:49.879335",
   "videos": [
+    {
+      "id": "zm9SuUkm5lE",
+      "title": "【ネゴ図鑑】#196～スシロー 鳥取東店～",
+      "description": "",
+      "publishedAt": "2026-03-12T04:24:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zm9SuUkm5lE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zm9SuUkm5lE"
+    },
     {
       "id": "bgHFlP7DJMU",
       "title": "♯38「しまねっこの宅配便」進化し続けるしまね和牛",

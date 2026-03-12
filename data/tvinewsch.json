@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-03-11T15:51:52.125295",
+  "updated_at": "2026-03-12T16:00:21.297871",
   "videos": [
+    {
+      "id": "2sYk3APl7eg",
+      "title": "【プラス1ダイジェスト】3/12(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-03-12T10:39:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2sYk3APl7eg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2sYk3APl7eg"
+    },
     {
       "id": "-T0MEVACa_4",
       "title": "「５きげんテレビ×ニュースプラス1いわて」車避難の課題（2026/3/11）",
