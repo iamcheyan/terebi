@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-12T15:59:52.451571",
+  "updated_at": "2026-03-13T15:45:12.368443",
   "videos": [
+    {
+      "id": "KqQ4csoahp8",
+      "title": "NSAA Boys State Basketball Day 2 Highlights",
+      "description": "",
+      "publishedAt": "2026-03-13T00:03:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KqQ4csoahp8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KqQ4csoahp8"
+    },
+    {
+      "id": "0GNNa9-fBn4",
+      "title": "Mike DeCourcy talks with NTV about Nebraska men's basketball and March Madness",
+      "description": "",
+      "publishedAt": "2026-03-12T18:39:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0GNNa9-fBn4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0GNNa9-fBn4"
+    },
     {
       "id": "EPM0lGzkeDc",
       "title": "NSAA Boys State Basketball Day 1 Highlights",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-12T16:00:54.020089",
+  "updated_at": "2026-03-13T15:45:45.374596",
   "videos": [
+    {
+      "id": "Yfq82jULDlg",
+      "title": "260313 135205 増田踏切",
+      "description": "",
+      "publishedAt": "2026-03-13T08:59:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yfq82jULDlg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yfq82jULDlg"
+    },
+    {
+      "id": "mBKxVuceBeA",
+      "title": "260313 134826 増田踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-03-13T08:59:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mBKxVuceBeA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mBKxVuceBeA"
+    },
+    {
+      "id": "LlgdV9vLmRo",
+      "title": "260313 134210 増田踏切",
+      "description": "",
+      "publishedAt": "2026-03-13T08:57:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LlgdV9vLmRo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LlgdV9vLmRo"
+    },
     {
       "id": "BsB2vwFmTiI",
       "title": "260312 153745 深田第５踏切",

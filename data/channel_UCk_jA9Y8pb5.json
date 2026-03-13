@@ -1,8 +1,44 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-03-12T16:00:13.591545",
+  "updated_at": "2026-03-13T15:44:44.882110",
   "videos": [
+    {
+      "id": "AMzMxY2jhGM",
+      "title": "多機能型ラジオを備えよう！",
+      "description": "",
+      "publishedAt": "2026-03-13T07:51:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AMzMxY2jhGM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AMzMxY2jhGM"
+    },
+    {
+      "id": "EOPtQRsF1Sw",
+      "title": "ペットとの避難",
+      "description": "",
+      "publishedAt": "2026-03-13T07:48:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EOPtQRsF1Sw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EOPtQRsF1Sw"
+    },
+    {
+      "id": "uZ_WiHPzpRI",
+      "title": "防災テクニック",
+      "description": "",
+      "publishedAt": "2026-03-13T07:43:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uZ_WiHPzpRI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uZ_WiHPzpRI"
+    },
     {
       "id": "7mY08LHjfqs",
       "title": "ブカツちゃん「八戸工業大学 鉄道研究部」",

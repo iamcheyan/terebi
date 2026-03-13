@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-03-07T15:27:19.152600",
+  "updated_at": "2026-03-13T15:44:42.609207",
   "videos": [
+    {
+      "id": "myAjHlkJT3I",
+      "title": "【見逃し】段々ロングな雛まつり　村山市から生中継　高坂瑠奈アナウンサー",
+      "description": "",
+      "publishedAt": "2026-03-13T10:09:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/myAjHlkJT3I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=myAjHlkJT3I"
+    },
     {
       "id": "DI9q1s3SaFQ",
       "title": "第2819回 探究学習とつながる地域づくり（前編）「提言の広場」",

@@ -1,8 +1,104 @@
 {
   "channel_id": "UCh0-nAqSYSYed_A4Qdz-0ww",
   "channel_name": "NBC長崎放送",
-  "updated_at": "2026-03-12T16:00:40.874558",
+  "updated_at": "2026-03-13T15:45:29.717632",
   "videos": [
+    {
+      "id": "3C_xSxRMYG0",
+      "title": "長崎商工会議所青年部が市に政策提言　交付金活用で起業家支援を",
+      "description": "",
+      "publishedAt": "2026-03-13T11:19:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3C_xSxRMYG0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3C_xSxRMYG0"
+    },
+    {
+      "id": "AmoHTvzRDPo",
+      "title": "長崎県内の公立中学校で卒業式　約1万900人が新たな門出",
+      "description": "",
+      "publishedAt": "2026-03-13T11:10:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AmoHTvzRDPo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AmoHTvzRDPo"
+    },
+    {
+      "id": "rOlUpgxdtiI",
+      "title": "スギ花粉はピークアウトか　週末は次第に穏やかな天気",
+      "description": "",
+      "publishedAt": "2026-03-13T10:17:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rOlUpgxdtiI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rOlUpgxdtiI"
+    },
+    {
+      "id": "aWqjpz4sxms",
+      "title": "大村市で3階建て住宅が焼ける火事　住人の80代夫婦は避難し無事",
+      "description": "",
+      "publishedAt": "2026-03-13T09:50:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aWqjpz4sxms/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aWqjpz4sxms"
+    },
+    {
+      "id": "sHr1sKYx754",
+      "title": "中央線はみ出したか　長崎市赤迫で正面衝突事故　50代男女2人が搬送、周辺で最大3.5kmの激しい渋滞",
+      "description": "",
+      "publishedAt": "2026-03-13T09:47:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sHr1sKYx754/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sHr1sKYx754"
+    },
+    {
+      "id": "nrLrWuP2Rpw",
+      "title": "260313 バルラジ",
+      "description": "",
+      "publishedAt": "2026-03-13T09:30:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nrLrWuP2Rpw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nrLrWuP2Rpw"
+    },
+    {
+      "id": "0n9Ljzof4Wo",
+      "title": "HIROSE Masahito「An atomic cloud was rising」",
+      "description": "",
+      "publishedAt": "2026-03-13T08:22:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0n9Ljzof4Wo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0n9Ljzof4Wo"
+    },
+    {
+      "id": "7-Kmwu_lWIQ",
+      "title": "【Pint】ご存知ですか？エネごはんプロジェクト",
+      "description": "",
+      "publishedAt": "2026-03-13T04:25:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7-Kmwu_lWIQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7-Kmwu_lWIQ"
+    },
     {
       "id": "_mxOv5sMn0M",
       "title": "【長崎天気】あすにかけて強風と雷雨に注意　また寒くなる",
