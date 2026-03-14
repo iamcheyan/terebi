@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-03-13T15:45:40.496561",
+  "updated_at": "2026-03-14T15:31:39.316679",
   "videos": [
+    {
+      "id": "1nFX7LfWUXM",
+      "title": "愛媛のニュース(03月14日)",
+      "description": "",
+      "publishedAt": "2026-03-14T11:31:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1nFX7LfWUXM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1nFX7LfWUXM"
+    },
+    {
+      "id": "uXRvRcAnMfQ",
+      "title": "「つながることが私の生きがい」難病の妹がいる“きょうだい児”の高校生が“ヤングケアラー”をテーマにイベントを開催",
+      "description": "",
+      "publishedAt": "2026-03-14T00:01:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uXRvRcAnMfQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uXRvRcAnMfQ"
+    },
     {
       "id": "zoxLifM8zMg",
       "title": "愛媛のニュース(03月13日)",

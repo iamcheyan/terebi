@@ -1,8 +1,32 @@
 {
   "channel_id": "UCnp_CD_FN7HFD1DhR47uHDw",
   "channel_name": "西日本放送（RNC）",
-  "updated_at": "2026-03-13T15:44:54.278528",
+  "updated_at": "2026-03-14T15:30:42.697817",
   "videos": [
+    {
+      "id": "yKxbVCKdW7I",
+      "title": "かがわマラソン２０２６ フィニッシュチャンネル",
+      "description": "",
+      "publishedAt": "2026-03-14T04:46:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yKxbVCKdW7I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yKxbVCKdW7I"
+    },
+    {
+      "id": "WD4UAIiie4s",
+      "title": "【シアワセ気分！】春だ！集まれ！こんなお店にオードブル　2026/03/14放送",
+      "description": "",
+      "publishedAt": "2026-03-14T01:30:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WD4UAIiie4s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WD4UAIiie4s"
+    },
     {
       "id": "cqcg2tXydAY",
       "title": "【アナろけ】かがわマラソン走ります！　2026/03/07放送",

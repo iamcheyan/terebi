@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-03-13T15:45:32.565832",
+  "updated_at": "2026-03-14T15:31:29.479313",
   "videos": [
+    {
+      "id": "GPKq5X6ocns",
+      "title": "【番宣】３月２１日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-03-14T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GPKq5X6ocns/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GPKq5X6ocns"
+    },
+    {
+      "id": "4CCC7N1aspU",
+      "title": "第4回ミライのタネ_阿蘇中央高校 農業食品科",
+      "description": "",
+      "publishedAt": "2026-03-14T08:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4CCC7N1aspU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4CCC7N1aspU"
+    },
     {
       "id": "relPeK4R8Hs",
       "title": "【番宣】３月１７日（火）NEWSゲツキン",

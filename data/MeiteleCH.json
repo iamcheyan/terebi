@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-03-13T15:45:02.473013",
+  "updated_at": "2026-03-14T15:30:49.705060",
   "videos": [
+    {
+      "id": "Bx1IjVPGI2Y",
+      "title": "【まるまる◎あいち】2026年3月14日放送 「あいちパラスポPARKの開催」",
+      "description": "",
+      "publishedAt": "2026-03-14T09:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Bx1IjVPGI2Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Bx1IjVPGI2Y"
+    },
     {
       "id": "GIvFV4hj4Gk",
       "title": "【木岡アナ】大学の友人、実は受験期に出会っていた…！偶然が生んだ友情😮✨【アナメロ】",

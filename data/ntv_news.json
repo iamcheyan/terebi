@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-13T15:45:12.368443",
+  "updated_at": "2026-03-14T15:30:43.091672",
   "videos": [
+    {
+      "id": "iqnoh8zLdQQ",
+      "title": "NSAA Boys State Basketball Semifinal Highlights",
+      "description": "",
+      "publishedAt": "2026-03-14T03:29:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iqnoh8zLdQQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iqnoh8zLdQQ"
+    },
     {
       "id": "KqQ4csoahp8",
       "title": "NSAA Boys State Basketball Day 2 Highlights",

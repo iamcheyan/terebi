@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-03-12T16:00:49.345515",
+  "updated_at": "2026-03-14T15:31:38.032827",
   "videos": [
+    {
+      "id": "urvhoup9za8",
+      "title": "【ワクワク！やまが旅】ごほうびグルメ旅",
+      "description": "",
+      "publishedAt": "2026-03-14T00:45:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/urvhoup9za8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=urvhoup9za8"
+    },
     {
       "id": "VJzrS7DfKUI",
       "title": "伝統の味活用　給食に甘酒プリン",
