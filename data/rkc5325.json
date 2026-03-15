@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-03-13T15:45:32.234082",
+  "updated_at": "2026-03-15T15:32:22.004498",
   "videos": [
+    {
+      "id": "ADEPSUMzLjE",
+      "title": "RKCアプリ漢字クイズ 3/16の問題 ～村山佐織アナウンサーのヒント～",
+      "description": "",
+      "publishedAt": "2026-03-15T15:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ADEPSUMzLjE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ADEPSUMzLjE"
+    },
     {
       "id": "mxD_bYlzcqQ",
       "title": "「《海洋堂リニューアルを記念》巨大な恐竜のフィギュアが南国市から四万十町までパレード」2026/3/13放送",

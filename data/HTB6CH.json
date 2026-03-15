@@ -1,8 +1,20 @@
 {
   "channel_id": "UCuY1i-Tic2G2xmox2_0h-Fw",
   "channel_name": "HTB北海道テレビ",
-  "updated_at": "2026-03-14T15:31:20.271634",
+  "updated_at": "2026-03-15T15:32:15.065166",
   "videos": [
+    {
+      "id": "TyKDYhmNTbo",
+      "title": "ナイス街録ちゃん　第４回　札幌市琴似編",
+      "description": "",
+      "publishedAt": "2026-03-13T02:32:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TyKDYhmNTbo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TyKDYhmNTbo"
+    },
     {
       "id": "g5ppOVdUN1A",
       "title": "【イチモニ！反省会】NGワードゲーム･ホワイトデー編。安保卓城と瀧原光からファンの皆さんへのメッセージ付き♡",

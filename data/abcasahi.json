@@ -1,8 +1,56 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-03-13T15:45:01.196833",
+  "updated_at": "2026-03-15T15:31:58.632909",
   "videos": [
+    {
+      "id": "nr4pFBkp0a4",
+      "title": "「LIFE ～夢のカタチ～」2026年3月28日（土）放送",
+      "description": "",
+      "publishedAt": "2026-03-15T11:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nr4pFBkp0a4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nr4pFBkp0a4"
+    },
+    {
+      "id": "vfMgW2Vu_P8",
+      "title": "豪雪地帯で築２００年代々継ぐ家を守り抜く #ポツンと一軒家",
+      "description": "",
+      "publishedAt": "2026-03-15T08:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vfMgW2Vu_P8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vfMgW2Vu_P8"
+    },
+    {
+      "id": "zRvlDNhu_Kc",
+      "title": "家系ラーメンの聖地へ",
+      "description": "",
+      "publishedAt": "2026-03-15T00:01:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zRvlDNhu_Kc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zRvlDNhu_Kc"
+    },
+    {
+      "id": "yEqKvuiroBY",
+      "title": "テロップが刺激的",
+      "description": "",
+      "publishedAt": "2026-03-14T23:01:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yEqKvuiroBY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yEqKvuiroBY"
+    },
     {
       "id": "GB9PDz6L-2U",
       "title": "みんなこれできる？",

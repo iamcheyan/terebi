@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-03-12T16:00:32.207403",
+  "updated_at": "2026-03-15T15:32:10.710613",
   "videos": [
+    {
+      "id": "IN3FVi1PWuw",
+      "title": "あだまっこ体操！　2026年3月15日放送分",
+      "description": "",
+      "publishedAt": "2026-03-14T21:30:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IN3FVi1PWuw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IN3FVi1PWuw"
+    },
     {
       "id": "7xN1Z0cLIio",
       "title": "「the CAMP」  #65　【未公開バージョン】",

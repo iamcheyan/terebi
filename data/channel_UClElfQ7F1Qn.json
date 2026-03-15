@@ -1,8 +1,32 @@
 {
   "channel_id": "UClElfQ7F1QndkPEFuqrDCLQ",
   "channel_name": "仙台放送ニュースチャンネル",
-  "updated_at": "2026-03-14T15:30:50.601744",
+  "updated_at": "2026-03-15T15:31:59.719948",
   "videos": [
+    {
+      "id": "G_w7fG-6fKw",
+      "title": "「復興の力を感じた」震源から最も近い街…石巻市の１５年を駆ける「いしのまき復興マラソン」 (26/03/15 18:00)",
+      "description": "",
+      "publishedAt": "2026-03-15T09:03:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G_w7fG-6fKw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G_w7fG-6fKw"
+    },
+    {
+      "id": "9ZRwNvfvqOI",
+      "title": "仙台市内でアパート火災 けが人なし 大崎市で作業場が焼ける火事 (26/03/15 12:30)",
+      "description": "",
+      "publishedAt": "2026-03-15T03:40:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9ZRwNvfvqOI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9ZRwNvfvqOI"
+    },
     {
       "id": "_v24EU3X1G0",
       "title": "【宮城】県内全域に７日連続の乾燥注意報　農作業中の火事相次ぐ　けが人なし　 (26/03/14 17:00)",
