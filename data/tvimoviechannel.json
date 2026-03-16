@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-15T15:32:24.291949",
+  "updated_at": "2026-03-16T16:07:15.101189",
   "videos": [
+    {
+      "id": "VvKfjqAnkew",
+      "title": "今日の５きげんテレビ（3月17日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-16T15:01:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VvKfjqAnkew/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VvKfjqAnkew"
+    },
+    {
+      "id": "uvtkSJ2oRKw",
+      "title": "５きげんクッキング ～野菜たっぷりスープ～",
+      "description": "",
+      "publishedAt": "2026-03-16T08:34:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uvtkSJ2oRKw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uvtkSJ2oRKw"
+    },
+    {
+      "id": "b0BMkTep4-g",
+      "title": "５きげん知恵袋 ～春に美味しい貝～",
+      "description": "",
+      "publishedAt": "2026-03-16T08:21:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b0BMkTep4-g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b0BMkTep4-g"
+    },
     {
       "id": "4EjlZyEgQrs",
       "title": "今日の５きげんテレビ（3月16日）｜テレビ岩手",
