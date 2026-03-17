@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-03-10T16:03:01.326660",
+  "updated_at": "2026-03-17T16:08:02.487186",
   "videos": [
+    {
+      "id": "HmTxU5EzQgo",
+      "title": "【旬景とやま】来拝山 春の兆し",
+      "description": "",
+      "publishedAt": "2026-03-17T09:59:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HmTxU5EzQgo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HmTxU5EzQgo"
+    },
     {
       "id": "K4oFV6JA2YY",
       "title": "【旬景とやま】北帰行へ羽ばたく",

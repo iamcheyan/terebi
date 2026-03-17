@@ -1,8 +1,20 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-03-16T16:06:46.505175",
+  "updated_at": "2026-03-17T16:07:54.406127",
   "videos": [
+    {
+      "id": "QIaq8nPaEek",
+      "title": "【Go！Go！いわて】3月21日（土）予告",
+      "description": "",
+      "publishedAt": "2026-03-17T09:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QIaq8nPaEek/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QIaq8nPaEek"
+    },
     {
       "id": "QCDmOW4iSV8",
       "title": "【Go！Go！いわて】2026年3月7日(土)O.A＜人情満載！元気食堂！＞",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-03-15T15:32:23.599522",
+  "updated_at": "2026-03-17T16:08:08.044303",
   "videos": [
+    {
+      "id": "rMBH1wDTZHQ",
+      "title": "【公式】「桑原彗人の1minute」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-03-17T03:00:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rMBH1wDTZHQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rMBH1wDTZHQ"
+    },
+    {
+      "id": "Wz6hlaj4gjE",
+      "title": "【公式】「桑原彗人／アサラト奏者」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-03-17T03:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wz6hlaj4gjE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wz6hlaj4gjE"
+    },
+    {
+      "id": "MvRNvLnBurI",
+      "title": "【公式】「匠の蔵～HISTORY OF MEISTER～ 」島袋 司（2） | TNCテレビ西日本",
+      "description": "",
+      "publishedAt": "2026-03-17T03:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MvRNvLnBurI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MvRNvLnBurI"
+    },
     {
       "id": "Tieb89VMojw",
       "title": "【公式】「子育ては ひとりじゃ無理～？」（2026年3月15日放送）｜テレビ西日本",

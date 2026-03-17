@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-03-15T15:31:41.436885",
+  "updated_at": "2026-03-17T16:07:43.515638",
   "videos": [
+    {
+      "id": "X3KkD6OOlFw",
+      "title": "【アクセントチャレンジ】福谷アナは正しいアクセントで読めるか！？",
+      "description": "",
+      "publishedAt": "2026-03-17T09:00:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X3KkD6OOlFw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X3KkD6OOlFw"
+    },
     {
       "id": "flg0E53ik-8",
       "title": "食遺産File.238「鶏とネギの酒粕蒸し」＠神戸市・東灘区",

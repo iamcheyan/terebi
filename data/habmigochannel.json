@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-03-16T16:06:52.487817",
+  "updated_at": "2026-03-17T16:07:49.722244",
   "videos": [
+    {
+      "id": "RCFh72WIADg",
+      "title": "能美市に最新鋭のポンプ車導入",
+      "description": "",
+      "publishedAt": "2026-03-17T03:00:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RCFh72WIADg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RCFh72WIADg"
+    },
+    {
+      "id": "uNZBifK6RNc",
+      "title": "被災者に住まいの再建意向調査",
+      "description": "",
+      "publishedAt": "2026-03-17T03:00:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uNZBifK6RNc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uNZBifK6RNc"
+    },
     {
       "id": "0cFAGdSvBbo",
       "title": "高齢者交通事故抑止に関する覚書　調印式",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-16T16:07:15.101189",
+  "updated_at": "2026-03-17T16:08:08.714145",
   "videos": [
+    {
+      "id": "Zp58Dln3I5w",
+      "title": "今日の５きげんテレビ（3月18日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-17T15:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Zp58Dln3I5w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Zp58Dln3I5w"
+    },
+    {
+      "id": "7YpGsGFemOE",
+      "title": "５きげんクッキング ～春菊とサクラエビのサラダ～",
+      "description": "",
+      "publishedAt": "2026-03-17T10:28:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7YpGsGFemOE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7YpGsGFemOE"
+    },
+    {
+      "id": "zpN7ZUFbKRU",
+      "title": "【新番組】テレビ岩手新番組「ぼくのケツは青い」予告映像！",
+      "description": "",
+      "publishedAt": "2026-03-17T09:13:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zpN7ZUFbKRU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zpN7ZUFbKRU"
+    },
     {
       "id": "VvKfjqAnkew",
       "title": "今日の５きげんテレビ（3月17日）｜テレビ岩手",

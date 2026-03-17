@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-16T16:07:22.178754",
+  "updated_at": "2026-03-17T16:08:14.239479",
   "videos": [
+    {
+      "id": "4tHAhT5gVwE",
+      "title": "260317 174946 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-03-17T11:31:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4tHAhT5gVwE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4tHAhT5gVwE"
+    },
+    {
+      "id": "sKkxTA6xRmo",
+      "title": "260317 174151 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-03-17T11:27:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sKkxTA6xRmo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sKkxTA6xRmo"
+    },
+    {
+      "id": "y73OqT7DPfo",
+      "title": "260317 173642 小井手踏切 ２",
+      "description": "",
+      "publishedAt": "2026-03-17T11:26:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y73OqT7DPfo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y73OqT7DPfo"
+    },
+    {
+      "id": "GJ1AJ1GUcs4",
+      "title": "260317 173300 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-03-17T11:14:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GJ1AJ1GUcs4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GJ1AJ1GUcs4"
+    },
     {
       "id": "9UTLP2uP8vM",
       "title": "260316 155424 宮野下第１踏切",

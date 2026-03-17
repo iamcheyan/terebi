@@ -1,8 +1,116 @@
 {
   "channel_id": "UCHVgNZeav4snXQs93TyNp8g",
   "channel_name": "KKTくまもと県民テレビ",
-  "updated_at": "2026-03-16T16:07:07.105473",
+  "updated_at": "2026-03-17T16:08:02.298530",
   "videos": [
+    {
+      "id": "39V-tUN08L4",
+      "title": "和水町長選告示 現職と新人の2人が立候補を届け出 3月22日投開票",
+      "description": "",
+      "publishedAt": "2026-03-17T11:49:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/39V-tUN08L4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=39V-tUN08L4"
+    },
+    {
+      "id": "joWP5GhxApI",
+      "title": "「株式会社熊大総研」熊本大学が設立 半導体関連企業などの経営を調査・研究",
+      "description": "",
+      "publishedAt": "2026-03-17T11:26:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/joWP5GhxApI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=joWP5GhxApI"
+    },
+    {
+      "id": "wjcEtXg6TpM",
+      "title": "幸せを呼ぶハチとチョウの新キャラクター！誕生20年を迎えた南阿蘇村でお披露目",
+      "description": "",
+      "publishedAt": "2026-03-17T11:18:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wjcEtXg6TpM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wjcEtXg6TpM"
+    },
+    {
+      "id": "9hAfnbimvIw",
+      "title": "【しほママの防災術】ペットと防災について考えよう！日頃から備える物は？",
+      "description": "",
+      "publishedAt": "2026-03-17T11:06:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9hAfnbimvIw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9hAfnbimvIw"
+    },
+    {
+      "id": "M9vy_4uv5bc",
+      "title": "国内初配備「長射程ミサイル」装備品を公開「広く説明してもらいたい」声も",
+      "description": "",
+      "publishedAt": "2026-03-17T10:55:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M9vy_4uv5bc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M9vy_4uv5bc"
+    },
+    {
+      "id": "axYfJ6BiNmw",
+      "title": "【事故】トラックがJR線の支柱に衝突 鹿児島線一時運転見合わせで約250人に影響｜熊本市北区",
+      "description": "",
+      "publishedAt": "2026-03-17T10:49:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/axYfJ6BiNmw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=axYfJ6BiNmw"
+    },
+    {
+      "id": "J-YEhRMcsL8",
+      "title": "【箱根駅伝3連覇】青山学院大さらなる高みへ水上村で合宿開始 中村海斗新主将が決意",
+      "description": "",
+      "publishedAt": "2026-03-17T08:54:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J-YEhRMcsL8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J-YEhRMcsL8"
+    },
+    {
+      "id": "TAnbuM7__94",
+      "title": "【陸上自衛隊】長射程ミサイル装備品を公開 知事や熊本市長が視察",
+      "description": "",
+      "publishedAt": "2026-03-17T04:36:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TAnbuM7__94/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TAnbuM7__94"
+    },
+    {
+      "id": "jvCrPugAaos",
+      "title": "産婦人科だからこそ伝えたい性教育｜国際女性DAY イベント",
+      "description": "",
+      "publishedAt": "2026-03-17T01:00:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jvCrPugAaos/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jvCrPugAaos"
+    },
     {
       "id": "Y51npL_S9Rs",
       "title": "熊本市電で“リアル桃太郎電鉄”！街が巨大なゲーム盤に早変わり",
