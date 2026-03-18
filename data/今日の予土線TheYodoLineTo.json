@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-17T16:08:14.239479",
+  "updated_at": "2026-03-18T16:09:47.652386",
   "videos": [
+    {
+      "id": "asjapDpHqkM",
+      "title": "260318 175041 雨の中野踏切",
+      "description": "",
+      "publishedAt": "2026-03-18T11:57:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/asjapDpHqkM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=asjapDpHqkM"
+    },
+    {
+      "id": "gPyixfXdXtc",
+      "title": "260318 174653 雨の中野踏切",
+      "description": "",
+      "publishedAt": "2026-03-18T11:53:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gPyixfXdXtc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gPyixfXdXtc"
+    },
+    {
+      "id": "QGv5kTUehSg",
+      "title": "260318 174213 雨の二名駅",
+      "description": "",
+      "publishedAt": "2026-03-18T11:52:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QGv5kTUehSg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QGv5kTUehSg"
+    },
     {
       "id": "4tHAhT5gVwE",
       "title": "260317 174946 小井手踏切",

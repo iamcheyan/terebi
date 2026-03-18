@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-03-17T16:08:11.411841",
+  "updated_at": "2026-03-18T16:09:43.964202",
   "videos": [
+    {
+      "id": "IYbbYhpXtos",
+      "title": "愛媛のニュース(03月18日)",
+      "description": "",
+      "publishedAt": "2026-03-18T11:38:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IYbbYhpXtos/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IYbbYhpXtos"
+    },
+    {
+      "id": "X-o3Txh1jaQ",
+      "title": "パン店の数がNo.1？愛媛はなぜ多い？ #愛媛 #あいテレビ #わいワイ #パン",
+      "description": "",
+      "publishedAt": "2026-03-18T11:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X-o3Txh1jaQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X-o3Txh1jaQ"
+    },
     {
       "id": "fY5LF-CTR3k",
       "title": "愛媛のニュース(03月17日)",

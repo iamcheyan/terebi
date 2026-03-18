@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-03-11T15:52:41.730734",
+  "updated_at": "2026-03-18T16:09:40.799580",
   "videos": [
+    {
+      "id": "ngjsAIKmjvY",
+      "title": "【福島の高校生たちと振り返る】明日への一歩【25日よる8時放送】",
+      "description": "",
+      "publishedAt": "2026-03-18T09:01:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ngjsAIKmjvY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ngjsAIKmjvY"
+    },
     {
       "id": "dAlduo5yKMA",
       "title": "【ふくしまSHOW】『会津若松市』大特集！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-03-14T15:31:25.871346",
+  "updated_at": "2026-03-18T16:09:35.525147",
   "videos": [
+    {
+      "id": "P5yR0tWdGh8",
+      "title": "【GO!GO! CookingZX】いちご！パート３",
+      "description": "",
+      "publishedAt": "2026-03-18T05:39:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P5yR0tWdGh8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P5yR0tWdGh8"
+    },
     {
       "id": "q7IeHle0G9M",
       "title": "「アフタートーク」放課後の☆ドッキング",
