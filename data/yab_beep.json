@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7oQ9uMD7914CY7-ZheHrow",
   "channel_name": "山口朝日放送（yab）",
-  "updated_at": "2026-03-12T15:59:56.976245",
+  "updated_at": "2026-03-19T15:58:37.970340",
   "videos": [
+    {
+      "id": "gWayT2UFi00",
+      "title": "みんなのふるさと　椿群生林の再生　萩市笠山",
+      "description": "",
+      "publishedAt": "2026-03-19T08:00:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gWayT2UFi00/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gWayT2UFi00"
+    },
     {
       "id": "Vw7ItSPjklE",
       "title": "みんなのふるさと　潮風を受けて舞う手作り凧　山陽小野田",

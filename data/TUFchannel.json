@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-03-18T16:09:40.799580",
+  "updated_at": "2026-03-19T15:59:16.511402",
   "videos": [
+    {
+      "id": "1Co0v0OOl70",
+      "title": "【ふくしまSHOW】『三春町』大特集！",
+      "description": "",
+      "publishedAt": "2026-03-19T08:13:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1Co0v0OOl70/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1Co0v0OOl70"
+    },
     {
       "id": "ngjsAIKmjvY",
       "title": "【福島の高校生たちと振り返る】明日への一歩【25日よる8時放送】",

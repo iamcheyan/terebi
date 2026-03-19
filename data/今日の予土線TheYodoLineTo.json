@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-18T16:09:47.652386",
+  "updated_at": "2026-03-19T15:59:27.527886",
   "videos": [
+    {
+      "id": "GuJZ1r5Cf7w",
+      "title": "260319 135106 土居中踏切",
+      "description": "",
+      "publishedAt": "2026-03-19T11:45:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GuJZ1r5Cf7w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GuJZ1r5Cf7w"
+    },
+    {
+      "id": "6PEXEbqKMNA",
+      "title": "260319 134819 土居中踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-03-19T11:34:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6PEXEbqKMNA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6PEXEbqKMNA"
+    },
+    {
+      "id": "hxOCzOlVBXM",
+      "title": "260319 134036 土居中踏切",
+      "description": "",
+      "publishedAt": "2026-03-19T11:33:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hxOCzOlVBXM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hxOCzOlVBXM"
+    },
+    {
+      "id": "d8L7jGQBkMw",
+      "title": "260319 131441 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-03-19T11:28:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d8L7jGQBkMw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d8L7jGQBkMw"
+    },
     {
       "id": "asjapDpHqkM",
       "title": "260318 175041 雨の中野踏切",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-03-18T16:09:27.397938",
+  "updated_at": "2026-03-19T15:58:34.340722",
   "videos": [
+    {
+      "id": "DHPwwu_yvXw",
+      "title": "【特別展「鳥」】加守アナと上原アナが潜入！大迫力の展示とは！？",
+      "description": "",
+      "publishedAt": "2026-03-19T07:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DHPwwu_yvXw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DHPwwu_yvXw"
+    },
     {
       "id": "nfGjwV_vVk4",
       "title": "【チャリキシャ！岡山県真庭市編】21日(土)お昼12時30分放送",

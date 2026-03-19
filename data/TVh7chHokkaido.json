@@ -1,8 +1,32 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2026-03-16T16:07:15.523643",
+  "updated_at": "2026-03-19T15:59:17.890710",
   "videos": [
+    {
+      "id": "t1ewE6tpCAU",
+      "title": "3月21日「EXITのハッケン北海道！」かねちーバージョン",
+      "description": "",
+      "publishedAt": "2026-03-19T00:50:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t1ewE6tpCAU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t1ewE6tpCAU"
+    },
+    {
+      "id": "Qk04iw6IrCM",
+      "title": "3月21日EXITのハッケン北海道！　りんたろー。バージョン",
+      "description": "",
+      "publishedAt": "2026-03-19T00:48:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Qk04iw6IrCM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Qk04iw6IrCM"
+    },
     {
       "id": "RQmQqz110VM",
       "title": "まだまだ伸びる！陸上女子100ｍハードル 村岡柊有(しゅう)選手＜前編＞",
