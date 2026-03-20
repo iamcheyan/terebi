@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-03-19T15:58:34.340722",
+  "updated_at": "2026-03-20T15:44:44.346435",
   "videos": [
+    {
+      "id": "O3Js8T_1eQw",
+      "title": "【よゐこ有野×大阪SP】横山由依とららぽーと門真を攻略しよう！／大阪の街の“攻略法”を探す街ブラ",
+      "description": "",
+      "publishedAt": "2026-03-20T08:25:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O3Js8T_1eQw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O3Js8T_1eQw"
+    },
+    {
+      "id": "DS-VHnD8Fco",
+      "title": "3月28日(土)午前11時30分放送「ドキュメント 神田川俊郎　料理は心　その志を継ぐ」",
+      "description": "",
+      "publishedAt": "2026-03-20T04:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DS-VHnD8Fco/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DS-VHnD8Fco"
+    },
     {
       "id": "DHPwwu_yvXw",
       "title": "【特別展「鳥」】加守アナと上原アナが潜入！大迫力の展示とは！？",

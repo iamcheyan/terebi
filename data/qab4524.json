@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-03-19T15:59:10.850868",
+  "updated_at": "2026-03-20T15:44:58.630304",
   "videos": [
+    {
+      "id": "ejJjjH3YMGw",
+      "title": "Vol.50 「３０年後のみんな」平敷屋門勇也琉舞道場",
+      "description": "",
+      "publishedAt": "2026-03-20T10:09:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ejJjjH3YMGw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ejJjjH3YMGw"
+    },
+    {
+      "id": "Rp2MZY-LzWc",
+      "title": "沖縄県もボリビアに",
+      "description": "",
+      "publishedAt": "2026-03-20T07:49:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rp2MZY-LzWc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rp2MZY-LzWc"
+    },
     {
       "id": "SVvRTEk2e7s",
       "title": "Vol.49 「みんなの３０歳のじぶんへ」平敷屋門勇也琉舞道場",

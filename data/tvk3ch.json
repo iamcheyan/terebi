@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-03-19T15:58:28.150886",
+  "updated_at": "2026-03-20T15:44:49.484795",
   "videos": [
+    {
+      "id": "X4q1kXozP5Q",
+      "title": "【地産地消】かながわブランドを知る会「海編」かながわ旬菜ナビ 2026/3/15放送",
+      "description": "",
+      "publishedAt": "2026-03-20T09:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X4q1kXozP5Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X4q1kXozP5Q"
+    },
+    {
+      "id": "X_vhuhyCwM0",
+      "title": "三菱 RVR X　tvk「新車情報」公式　1991年3月16日放送",
+      "description": "",
+      "publishedAt": "2026-03-20T09:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X_vhuhyCwM0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X_vhuhyCwM0"
+    },
     {
       "id": "AzO0SlClJI8",
       "title": "多頭飼育崩壊を未然防止　神奈川県の「ペットリエゾン」全国初の取組",

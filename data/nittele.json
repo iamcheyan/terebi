@@ -1,8 +1,32 @@
 {
   "channel_id": "UCkLqBWFde2ZJZfqojgpDqyA",
   "channel_name": "日テレ公式チャンネル",
-  "updated_at": "2026-03-19T15:59:28.212586",
+  "updated_at": "2026-03-20T15:45:06.705645",
   "videos": [
+    {
+      "id": "SaIu9SxxE5U",
+      "title": "【今夜の日テレ系】笑ってコラえて!3時間SP＋ヒロミのおせっ買い!【おススメ番組】",
+      "description": "",
+      "publishedAt": "2026-03-20T15:00:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SaIu9SxxE5U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SaIu9SxxE5U"
+    },
+    {
+      "id": "42KMXtnOf0k",
+      "title": "【3分クッキング公式】新じゃがのフライパンピザ",
+      "description": "",
+      "publishedAt": "2026-03-20T02:55:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/42KMXtnOf0k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=42KMXtnOf0k"
+    },
     {
       "id": "FF4PNxtbpoI",
       "title": "金曜ロードショー「モンスターズ・ユニバーシティ」今夜放送",
