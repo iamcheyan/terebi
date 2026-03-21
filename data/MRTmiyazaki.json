@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-03-19T15:59:07.639270",
+  "updated_at": "2026-03-21T15:29:27.256443",
   "videos": [
+    {
+      "id": "2QQywVESWHc",
+      "title": "「アフタートーク」放課後の☆ドッキング",
+      "description": "",
+      "publishedAt": "2026-03-21T06:45:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2QQywVESWHc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2QQywVESWHc"
+    },
     {
       "id": "MYnXn-5He20",
       "title": "けんかでGO!GO!2026年3月6日放送",

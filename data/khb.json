@@ -1,8 +1,20 @@
 {
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "KHB東日本放送",
-  "updated_at": "2026-03-20T15:44:55.243566",
+  "updated_at": "2026-03-21T15:29:24.752893",
   "videos": [
+    {
+      "id": "B-i669uQlP8",
+      "title": "夢色音楽隊",
+      "description": "",
+      "publishedAt": "2026-03-21T12:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B-i669uQlP8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B-i669uQlP8"
+    },
     {
       "id": "hTmcpwiVpV0",
       "title": "震災で犠牲となった人たちへの思いを込め　祈りをつなぐ音の懸け橋　宮城・石巻市",

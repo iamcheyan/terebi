@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-03-20T15:44:44.346435",
+  "updated_at": "2026-03-21T15:28:58.464436",
   "videos": [
+    {
+      "id": "xfmkAlm66aM",
+      "title": "なかやまきんに君＆あかつの雪中自転車旅！",
+      "description": "",
+      "publishedAt": "2026-03-21T04:29:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xfmkAlm66aM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xfmkAlm66aM"
+    },
+    {
+      "id": "irviZl1K9gs",
+      "title": "【よゐこ有野×大阪】むむむ！海遊館でしか食べられない“海のスイーツ”／大阪の街の“攻略法”を探す街ブラ",
+      "description": "",
+      "publishedAt": "2026-03-21T01:00:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/irviZl1K9gs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=irviZl1K9gs"
+    },
     {
       "id": "O3Js8T_1eQw",
       "title": "【よゐこ有野×大阪SP】横山由依とららぽーと門真を攻略しよう！／大阪の街の“攻略法”を探す街ブラ",

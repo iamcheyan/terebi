@@ -1,8 +1,116 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-03-20T15:45:01.575583",
+  "updated_at": "2026-03-21T15:29:32.898807",
   "videos": [
+    {
+      "id": "Kk-EtShncNI",
+      "title": "【テレQ番宣】ぐっ！ジョブ（3月28日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-03-21T15:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kk-EtShncNI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kk-EtShncNI"
+    },
+    {
+      "id": "4uj4_SMu9mg",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（3月28日（土）18:30～）",
+      "description": "",
+      "publishedAt": "2026-03-21T15:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4uj4_SMu9mg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4uj4_SMu9mg"
+    },
+    {
+      "id": "AIHGbBJZyVQ",
+      "title": "3月28日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-03-21T12:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AIHGbBJZyVQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AIHGbBJZyVQ"
+    },
+    {
+      "id": "ywlYWdfOYQE",
+      "title": "アイライフスタイル ♯41 「夫婦で作るキャットウォーク」（テレQ 2026年3月21日放送）",
+      "description": "",
+      "publishedAt": "2026-03-21T11:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ywlYWdfOYQE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ywlYWdfOYQE"
+    },
+    {
+      "id": "68HqQRPbkkY",
+      "title": "【球場でもタレントであることを意識する村重杏奈】はてなのてん未公開トーク（ゲスト：ハシヤスメアツコ）",
+      "description": "",
+      "publishedAt": "2026-03-21T09:55:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/68HqQRPbkkY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=68HqQRPbkkY"
+    },
+    {
+      "id": "D3UwpK8lrXs",
+      "title": "【テレQ番宣】はてなのてん（3月28日(土)18:30～）",
+      "description": "",
+      "publishedAt": "2026-03-21T09:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D3UwpK8lrXs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D3UwpK8lrXs"
+    },
+    {
+      "id": "ywMrxqpR8wM",
+      "title": "【テレＱ番宣】ドラマ「非正規雇用 リズム＆サバイブ」完全版第1話（2026年3月25日（水）24:15～）",
+      "description": "",
+      "publishedAt": "2026-03-21T08:16:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ywMrxqpR8wM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ywMrxqpR8wM"
+    },
+    {
+      "id": "AZX_4b5BZbM",
+      "title": "【TVer無料見逃し配信中】ドラマ「非正規雇用 リズム＆サバイブ」",
+      "description": "",
+      "publishedAt": "2026-03-21T08:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AZX_4b5BZbM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AZX_4b5BZbM"
+    },
+    {
+      "id": "aT0R-ga_f4A",
+      "title": "【テレQ番宣】ホークス開幕直前SP～３連覇へ全新～／キューバ独占取材 リバン・モイネロのキセキ 家族とホークスに捧げるキズナ（3月22日（日）12:00～）",
+      "description": "",
+      "publishedAt": "2026-03-21T05:26:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aT0R-ga_f4A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aT0R-ga_f4A"
+    },
     {
       "id": "NcfdvSAfp9g",
       "title": "驚き！未来リサーチ 親子で学ぶ「経済のタネ」田中鉄工篇／テレＱ2026年3月20日（金・祝）放送",
