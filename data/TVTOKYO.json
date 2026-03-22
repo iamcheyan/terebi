@@ -1,8 +1,68 @@
 {
   "channel_id": "UCrDj5t8Q9ZFSGft7a3PWl9g",
   "channel_name": "テレ東公式 TV TOKYO",
-  "updated_at": "2026-03-21T15:28:45.539666",
+  "updated_at": "2026-03-22T15:29:23.186643",
   "videos": [
+    {
+      "id": "tm7-e664bzU",
+      "title": "クリックニッポン こども誰でも通園制度 2026年3月22日放送分【公式】",
+      "description": "",
+      "publishedAt": "2026-03-22T13:01:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tm7-e664bzU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tm7-e664bzU"
+    },
+    {
+      "id": "y2l6NaJzLPs",
+      "title": "【期間限定】かしましめし ＃３〜４ 仲のいい友達や大切な人と「かしましめし」してみてはいかがでしょうか？｜前田敦子 成海璃子 塩野瑛久【公式】",
+      "description": "",
+      "publishedAt": "2026-03-22T11:01:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y2l6NaJzLPs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y2l6NaJzLPs"
+    },
+    {
+      "id": "hgCCymuAnDQ",
+      "title": "全力イノベーターズ～SDGsに挑むZ世代～エコにおしゃれを｜テレビ東京",
+      "description": "",
+      "publishedAt": "2026-03-22T08:20:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hgCCymuAnDQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hgCCymuAnDQ"
+    },
+    {
+      "id": "crHWcl33TgU",
+      "title": "Podcast「みんなの晩餐ブルース」#1",
+      "description": "",
+      "publishedAt": "2026-03-22T03:00:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/crHWcl33TgU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=crHWcl33TgU"
+    },
+    {
+      "id": "I0FLFGXgOpI",
+      "title": "ヴィクトリー部！／# 162 マイナースポーツで日本代表を目指せ！ファウストボールに挑戦！未公開後半",
+      "description": "",
+      "publishedAt": "2026-03-21T18:20:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I0FLFGXgOpI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I0FLFGXgOpI"
+    },
     {
       "id": "fxXS91ZCTv0",
       "title": "【予告】新美の巨人たち",

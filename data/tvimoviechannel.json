@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-19T15:59:17.166041",
+  "updated_at": "2026-03-22T15:30:01.945475",
   "videos": [
+    {
+      "id": "sqsrL1jFJgY",
+      "title": "今日の５きげんテレビ（3月23日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-22T15:01:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sqsrL1jFJgY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sqsrL1jFJgY"
+    },
     {
       "id": "9im8aM5QM9g",
       "title": "５きげんクッキング ～桜のシフォンケーキ～",

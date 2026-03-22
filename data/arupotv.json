@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-03-21T15:29:29.525076",
+  "updated_at": "2026-03-22T15:29:58.378340",
   "videos": [
+    {
+      "id": "IAuFEmEFf5E",
+      "title": "第95回 めざせ！くまもとの若き匠たち【翔陽高校  電気電子科】",
+      "description": "",
+      "publishedAt": "2026-03-22T14:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IAuFEmEFf5E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IAuFEmEFf5E"
+    },
+    {
+      "id": "_PHT7-qX8Pw",
+      "title": "【番宣】３月２９日（日）新 窓をあけて九州",
+      "description": "",
+      "publishedAt": "2026-03-22T01:15:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_PHT7-qX8Pw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_PHT7-qX8Pw"
+    },
     {
       "id": "0kJAr4NO1-M",
       "title": "【番宣】３月２８日（土）からふる",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_0tfCjB-pPNR8r9G9G1fTA",
   "channel_name": "TeNY新潟一番ニュース",
-  "updated_at": "2026-03-21T15:29:33.769976",
+  "updated_at": "2026-03-22T15:30:02.743805",
   "videos": [
+    {
+      "id": "wFSBl4glA5A",
+      "title": "【柏崎刈羽原発】6号機の部品交換を完了し発電と送電を再開《新潟》",
+      "description": "",
+      "publishedAt": "2026-03-22T10:06:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wFSBl4glA5A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wFSBl4glA5A"
+    },
     {
       "id": "FQuIO7fOuxU",
       "title": "【ガソリン価格】政府補助金の支給もタイムラグ　“店舗差”に戸惑い《新潟》",

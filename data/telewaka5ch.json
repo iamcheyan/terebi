@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-03-21T15:28:53.869103",
+  "updated_at": "2026-03-22T15:29:20.452745",
   "videos": [
+    {
+      "id": "UCgAodG6qqE",
+      "title": "あのじゅうよ〜 第191回",
+      "description": "",
+      "publishedAt": "2026-03-21T16:41:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UCgAodG6qqE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UCgAodG6qqE"
+    },
     {
       "id": "IHD-W9RBr1I",
       "title": "和歌山de乾杯!081 田辺市・酒亭　庵　前編",
