@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-03-14T15:31:31.308041",
+  "updated_at": "2026-03-23T16:02:44.965808",
   "videos": [
+    {
+      "id": "YeIy1-19e2U",
+      "title": "【開幕戦】ソフトバンク×日本ハム　3月27日（金）午後6時10分～放送",
+      "description": "",
+      "publishedAt": "2026-03-23T05:54:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YeIy1-19e2U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YeIy1-19e2U"
+    },
+    {
+      "id": "nbtzTBRBuzM",
+      "title": "ライブカメラ 北広島市（STV札幌テレビ放送）北海道北広島市／Live Camera Kitahirosima City, Hokkaido",
+      "description": "",
+      "publishedAt": "2026-03-22T22:35:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nbtzTBRBuzM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nbtzTBRBuzM"
+    },
     {
       "id": "bM7zNaxkKp8",
       "title": "トレンド☆サプリ#176「スポンジ・ボブ」",

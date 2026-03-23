@@ -1,8 +1,20 @@
 {
   "channel_id": "UC5cpRf7BIMj9DKebtJxR8Ig",
   "channel_name": "NIB長崎国際テレビ",
-  "updated_at": "2026-03-17T16:07:48.730648",
+  "updated_at": "2026-03-23T16:01:40.703411",
   "videos": [
+    {
+      "id": "JgwcI7-aKdU",
+      "title": "ながさき低山登山のススメ",
+      "description": "",
+      "publishedAt": "2026-03-23T10:13:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JgwcI7-aKdU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JgwcI7-aKdU"
+    },
     {
       "id": "7J8Kfmw0UTg",
       "title": "【ロケを終えて…】3月22日(日)の『シューイチ』は中山秀征の長崎旅！",

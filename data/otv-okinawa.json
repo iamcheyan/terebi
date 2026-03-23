@@ -1,8 +1,116 @@
 {
   "channel_id": "UCjPVLguFrd6DTfHl2McrPjw",
   "channel_name": "OTV沖縄テレビ",
-  "updated_at": "2026-03-22T15:29:57.630601",
+  "updated_at": "2026-03-23T16:02:41.127261",
   "videos": [
+    {
+      "id": "b3Uh8rL8M0w",
+      "title": "辺野古沖転覆事故から1週間　22日には船長立ち合いで実況見分も（沖縄テレビ）2026/03/23",
+      "description": "",
+      "publishedAt": "2026-03-23T10:42:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b3Uh8rL8M0w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b3Uh8rL8M0w"
+    },
+    {
+      "id": "1ZsOd0KtT9E",
+      "title": "空手道・古武道演武大会に800人が参加　迫力の演武を披露（沖縄テレビ）2026/03/23",
+      "description": "",
+      "publishedAt": "2026-03-23T10:41:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1ZsOd0KtT9E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1ZsOd0KtT9E"
+    },
+    {
+      "id": "9rJtl6w5Isk",
+      "title": "【沖縄県知事選】古謝氏が出馬表明「沖縄を次のステージに進める」（沖縄テレビ）2026/03/23",
+      "description": "",
+      "publishedAt": "2026-03-23T10:40:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9rJtl6w5Isk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9rJtl6w5Isk"
+    },
+    {
+      "id": "IXju4HBfJc8",
+      "title": "【沖縄県知事選】投開票日は9月13日　30市町村で首長・議員が同時期に任期満了（沖縄テレビ）2026/03/23",
+      "description": "",
+      "publishedAt": "2026-03-23T10:38:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IXju4HBfJc8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IXju4HBfJc8"
+    },
+    {
+      "id": "frlkdpUjMik",
+      "title": "【辺野古沖転覆事故】平和学習とは何か？識者「事故の検証、『学びの場』確保の上で冷静な議論を」（沖縄テレビ）2026/03/23",
+      "description": "",
+      "publishedAt": "2026-03-23T10:38:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/frlkdpUjMik/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=frlkdpUjMik"
+    },
+    {
+      "id": "AbqcnkdDmBI",
+      "title": "名護商工生が園児に遊具を寄贈　子どもたちが安全に遊べる工夫凝らす（沖縄テレビ）2026/03/23",
+      "description": "",
+      "publishedAt": "2026-03-23T03:49:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AbqcnkdDmBI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AbqcnkdDmBI"
+    },
+    {
+      "id": "hEs8ha0Ewb8",
+      "title": "災害時の支援物資配送をスムーズに　CBcloudと那覇市が協定（沖縄テレビ）2026/03/23",
+      "description": "",
+      "publishedAt": "2026-03-23T03:48:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hEs8ha0Ewb8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hEs8ha0Ewb8"
+    },
+    {
+      "id": "RYbDcYdEpDY",
+      "title": "殺人未遂容疑で19歳の男を逮捕　車で男性に突っ込み重傷負わせる（沖縄テレビ）2026/03/23",
+      "description": "",
+      "publishedAt": "2026-03-23T03:47:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RYbDcYdEpDY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RYbDcYdEpDY"
+    },
+    {
+      "id": "fa4PcRSyTkk",
+      "title": "車いすの校長が退職　支えとなった児童の笑顔と成長（沖縄テレビ）2026/03/19",
+      "description": "",
+      "publishedAt": "2026-03-23T03:22:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fa4PcRSyTkk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fa4PcRSyTkk"
+    },
     {
       "id": "EAQGkbAfKyg",
       "title": "ネコの日常描く紅型展 (26/03/22 17:30)",

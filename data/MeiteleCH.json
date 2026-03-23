@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-03-21T15:29:15.301557",
+  "updated_at": "2026-03-23T16:01:45.047500",
   "videos": [
+    {
+      "id": "d_8NpSMwsko",
+      "title": "超町人！チョコレートサムネット 3/29(日)名古屋・桜山エリア編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-03-23T07:06:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d_8NpSMwsko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d_8NpSMwsko"
+    },
     {
       "id": "Y_w-tynWVTc",
       "title": "【まるまる◎あいち】2026年3月21日放送 「愛知県ヘルメット着用促進宣言の募集」",

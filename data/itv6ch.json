@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-03-22T15:30:04.834293",
+  "updated_at": "2026-03-23T16:02:55.782306",
   "videos": [
+    {
+      "id": "S9GqrDqogK8",
+      "title": "愛媛のニュース(03月23日)",
+      "description": "",
+      "publishedAt": "2026-03-23T11:42:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S9GqrDqogK8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S9GqrDqogK8"
+    },
+    {
+      "id": "FsEC2552PCk",
+      "title": "STU48が愛媛をEVドライブ！【第11回】ブルークエスト with STU48（今治　Rainbow Garden編）",
+      "description": "",
+      "publishedAt": "2026-03-23T04:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FsEC2552PCk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FsEC2552PCk"
+    },
+    {
+      "id": "3bm8sW43FdE",
+      "title": "認知度・未診察に課題　COPDって何？",
+      "description": "",
+      "publishedAt": "2026-03-23T02:11:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3bm8sW43FdE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3bm8sW43FdE"
+    },
     {
       "id": "AgT3Rf71cRA",
       "title": "愛媛のニュース(03月22日)",
