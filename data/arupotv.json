@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-03-23T16:02:42.778808",
+  "updated_at": "2026-03-24T16:09:14.792848",
   "videos": [
+    {
+      "id": "CJ7V6mRFIjY",
+      "title": "【番宣】３月２６日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-03-24T08:39:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CJ7V6mRFIjY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CJ7V6mRFIjY"
+    },
+    {
+      "id": "sL8JnN916Bk",
+      "title": "【RKKの休憩室#200】 一流のマジシャンなら…寝起きでも華麗にマジックできるか？実験",
+      "description": "",
+      "publishedAt": "2026-03-24T00:10:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sL8JnN916Bk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sL8JnN916Bk"
+    },
     {
       "id": "kJSMwFKLGZU",
       "title": "【RKKの休憩室#201】 最終回SP！過去２００回の放送の中から特に反響のあった実験を追加ロケ！",

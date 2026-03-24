@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-03-23T16:01:50.678048",
+  "updated_at": "2026-03-24T16:08:34.371447",
   "videos": [
+    {
+      "id": "kpUA0avwv2c",
+      "title": "★3月28日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-03-24T06:31:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kpUA0avwv2c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kpUA0avwv2c"
+    },
     {
       "id": "lnBX_1yf6J0",
       "title": "セリフを間違え顔が真っ赤になるアキ",

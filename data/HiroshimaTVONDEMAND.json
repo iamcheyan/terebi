@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-03-23T16:01:34.944148",
+  "updated_at": "2026-03-24T16:08:21.546209",
   "videos": [
+    {
+      "id": "CYC5th0U16Y",
+      "title": "われら！シン・呉Tuber＃44「大和ミュージアムリニューアルオープン」",
+      "description": "",
+      "publishedAt": "2026-03-24T10:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CYC5th0U16Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CYC5th0U16Y"
+    },
+    {
+      "id": "lg2LvdZVUBc",
+      "title": "【キッズチャレンジスタジアム】あおいちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-03-24T09:01:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lg2LvdZVUBc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lg2LvdZVUBc"
+    },
     {
       "id": "ln6bHLjzJjs",
       "title": "第499回　ひろおく便り　庄原市　庄原さとやま留学",

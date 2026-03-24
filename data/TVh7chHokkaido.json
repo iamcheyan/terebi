@@ -1,8 +1,20 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2026-03-23T16:02:50.463677",
+  "updated_at": "2026-03-24T16:09:19.945991",
   "videos": [
+    {
+      "id": "IL-CAEwFZQ0",
+      "title": "ライブカメラ",
+      "description": "",
+      "publishedAt": "2026-03-24T01:15:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IL-CAEwFZQ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IL-CAEwFZQ0"
+    },
     {
       "id": "GhN2FozYdmQ",
       "title": "ハードルの跳び方も聞いちゃいます！陸上女子100ｍハードル 村岡柊有(しゅう)選手＜中編＞",

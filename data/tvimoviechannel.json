@@ -1,8 +1,68 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-23T16:02:49.697174",
+  "updated_at": "2026-03-24T16:09:19.435953",
   "videos": [
+    {
+      "id": "CA2UGq2I_fQ",
+      "title": "今日の５きげんテレビ（3月25日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-24T15:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CA2UGq2I_fQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CA2UGq2I_fQ"
+    },
+    {
+      "id": "NOkFil8hpUg",
+      "title": "５きげんクッキング ～鶏手羽元のパエリア～",
+      "description": "",
+      "publishedAt": "2026-03-24T08:46:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NOkFil8hpUg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NOkFil8hpUg"
+    },
+    {
+      "id": "FTezjOYrg2c",
+      "title": "花巻愛溢れる秘密基地風カフェ",
+      "description": "",
+      "publishedAt": "2026-03-24T08:34:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FTezjOYrg2c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FTezjOYrg2c"
+    },
+    {
+      "id": "AO7SB9ggYac",
+      "title": "【No.01】テレビ岩手 東日本大震災 3.11キャンペーン「再会」　15秒",
+      "description": "",
+      "publishedAt": "2026-03-24T08:12:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AO7SB9ggYac/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AO7SB9ggYac"
+    },
+    {
+      "id": "5gHibKx_fck",
+      "title": "【No.01】テレビ岩手 東日本大震災 3.11キャンペーン「再会」　30秒",
+      "description": "",
+      "publishedAt": "2026-03-24T08:12:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5gHibKx_fck/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5gHibKx_fck"
+    },
     {
       "id": "j4PvUBq61mI",
       "title": "今日の５きげんテレビ（3月24日）｜テレビ岩手",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-19T15:58:20.836330",
+  "updated_at": "2026-03-24T16:08:42.418642",
   "videos": [
+    {
+      "id": "GuXXJYkUe5U",
+      "title": "U.S. Agriculture Secretary Brooke Rollins addresses response to largest wildfire in state history.",
+      "description": "",
+      "publishedAt": "2026-03-24T08:10:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GuXXJYkUe5U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GuXXJYkUe5U"
+    },
+    {
+      "id": "9CMzHX5KEUQ",
+      "title": "‘Hope Valley: 1874’ life then vs. life now",
+      "description": "",
+      "publishedAt": "2026-03-23T21:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9CMzHX5KEUQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9CMzHX5KEUQ"
+    },
     {
       "id": "6wOpLPy8tuY",
       "title": "Dundy County-Stratton Girls Basketball Wins First State Title: NTV's Athlete of the Week",
