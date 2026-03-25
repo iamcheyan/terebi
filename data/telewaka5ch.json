@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-03-24T16:08:32.468579",
+  "updated_at": "2026-03-25T16:12:17.142077",
   "videos": [
+    {
+      "id": "PdcfNPfjKzk",
+      "title": "【WAKAYAMA SDGs】#056- 和歌山市「子ども海かいぎ事業」の取り組み",
+      "description": "",
+      "publishedAt": "2026-03-25T09:36:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PdcfNPfjKzk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PdcfNPfjKzk"
+    },
+    {
+      "id": "hcWfwdCb5Uo",
+      "title": "マエオカスケッチ　「今西商店『今西 廣典さん』」パート④",
+      "description": "",
+      "publishedAt": "2026-03-25T03:50:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hcWfwdCb5Uo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hcWfwdCb5Uo"
+    },
     {
       "id": "brcNOMpG1YE",
       "title": "トンネル内部コンクリート壁の厚みが大部分で不足し工事やり直し「八郎山トンネル」 専門家らが現地調査 和歌山県",

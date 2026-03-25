@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-03-24T16:08:51.193492",
+  "updated_at": "2026-03-25T16:12:49.387356",
   "videos": [
+    {
+      "id": "FyfuJ_Fk-dc",
+      "title": "カナフルTV　3月22日　地元の恵みが一杯に！神奈川のクラフト蒸留酒",
+      "description": "",
+      "publishedAt": "2026-03-25T04:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FyfuJ_Fk-dc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FyfuJ_Fk-dc"
+    },
+    {
+      "id": "rJy9RlhUjzM",
+      "title": "かながわ旬菜ナビ　次回予告（3月29日放送）",
+      "description": "",
+      "publishedAt": "2026-03-25T03:00:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rJy9RlhUjzM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rJy9RlhUjzM"
+    },
     {
       "id": "zfuetdqsBnc",
       "title": "tvk「クルマでいこう！」公式 プジョー 208 HYBRID 2026/3/15放送(#931)",

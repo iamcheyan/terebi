@@ -1,8 +1,44 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-03-09T16:01:47.359394",
+  "updated_at": "2026-03-25T16:13:32.504136",
   "videos": [
+    {
+      "id": "k2Y7z9W9LqM",
+      "title": "むちゃぶりクッキング",
+      "description": "",
+      "publishedAt": "2026-03-25T07:41:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k2Y7z9W9LqM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k2Y7z9W9LqM"
+    },
+    {
+      "id": "m5S7UQMkNsA",
+      "title": "専門家が解決！里山のお悩み相談",
+      "description": "",
+      "publishedAt": "2026-03-25T07:41:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m5S7UQMkNsA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m5S7UQMkNsA"
+    },
+    {
+      "id": "rTdfJTGFu48",
+      "title": "冬眠明けのクマに注意！今できる対策",
+      "description": "",
+      "publishedAt": "2026-03-25T07:41:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rTdfJTGFu48/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rTdfJTGFu48"
+    },
     {
       "id": "MItfs-OxUDw",
       "title": "3/20(金・祝)開催！",
