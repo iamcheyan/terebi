@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwVMadMSXOS0AMuW_3nlyRQ",
   "channel_name": "SBC信越放送",
-  "updated_at": "2026-03-24T16:09:15.303061",
+  "updated_at": "2026-03-26T16:13:44.795969",
   "videos": [
+    {
+      "id": "IqsFxDYA5HU",
+      "title": "鉄道大好き「乗り鉄」佐々木一朗アナウンサーが見る！長野県内工事「リニアの今」①",
+      "description": "",
+      "publishedAt": "2026-03-26T00:59:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IqsFxDYA5HU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IqsFxDYA5HU"
+    },
+    {
+      "id": "Zj4h3gIKe_s",
+      "title": "鉄道大好き「乗り鉄」佐々木一朗アナウンサーが見る！長野県内工事「リニアの今」②",
+      "description": "",
+      "publishedAt": "2026-03-26T00:58:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Zj4h3gIKe_s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Zj4h3gIKe_s"
+    },
     {
       "id": "mThEtMfiQYc",
       "title": "SBCアナウンサーによる手紙朗読",

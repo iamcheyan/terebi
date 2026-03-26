@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-03-21T15:29:11.209952",
+  "updated_at": "2026-03-26T16:12:59.401339",
   "videos": [
+    {
+      "id": "xCM-nGe7gSI",
+      "title": "【ネゴ図鑑】#198～サンベ電気～",
+      "description": "",
+      "publishedAt": "2026-03-26T00:43:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xCM-nGe7gSI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xCM-nGe7gSI"
+    },
     {
       "id": "6TQXF-fghG4",
       "title": "info TSK 経済センサスー活動調査",

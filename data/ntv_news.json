@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-25T16:12:35.761678",
+  "updated_at": "2026-03-26T16:13:25.841581",
   "videos": [
+    {
+      "id": "CB_aWon403A",
+      "title": "Nebraska Football Holds Pro Day",
+      "description": "",
+      "publishedAt": "2026-03-25T22:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CB_aWon403A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CB_aWon403A"
+    },
     {
       "id": "UobeqWCebSM",
       "title": "On this day, #TheOffice and #HannahMontana premiered!",

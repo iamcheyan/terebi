@@ -1,8 +1,92 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-03-25T16:12:38.736939",
+  "updated_at": "2026-03-26T16:12:45.358489",
   "videos": [
+    {
+      "id": "J5i_o-XZH2U",
+      "title": "シンプルイズベスト",
+      "description": "",
+      "publishedAt": "2026-03-26T09:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J5i_o-XZH2U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J5i_o-XZH2U"
+    },
+    {
+      "id": "-v6ULmEU2Rk",
+      "title": "「相席食堂」3月31日（火）よる放送！",
+      "description": "",
+      "publishedAt": "2026-03-26T08:01:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-v6ULmEU2Rk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-v6ULmEU2Rk"
+    },
+    {
+      "id": "ReEQ2bLD2Mo",
+      "title": "「ナニワでバンザイ！自分トリセツ2.0」3月29日（日）深夜0時10分放送",
+      "description": "",
+      "publishedAt": "2026-03-26T04:06:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ReEQ2bLD2Mo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ReEQ2bLD2Mo"
+    },
+    {
+      "id": "lbWE3ESzKRw",
+      "title": "「WILD BLUEのわぶっていきましょう！」3月29日（日）深夜1時10分放送",
+      "description": "",
+      "publishedAt": "2026-03-26T03:56:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lbWE3ESzKRw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lbWE3ESzKRw"
+    },
+    {
+      "id": "WLK-iNkhFJ8",
+      "title": "「なるみ・岡村の過ぎるTV」3月30日（月）放送",
+      "description": "",
+      "publishedAt": "2026-03-26T03:47:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WLK-iNkhFJ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WLK-iNkhFJ8"
+    },
+    {
+      "id": "7Xpx96zDpu4",
+      "title": "『リア突WEST. レボリューション』3月28日（土）深夜0時放送",
+      "description": "",
+      "publishedAt": "2026-03-26T01:27:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7Xpx96zDpu4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7Xpx96zDpu4"
+    },
+    {
+      "id": "z1KCrshGFsM",
+      "title": "「これ余談なんですけど・・・」4月1日（水）よる放送！",
+      "description": "",
+      "publishedAt": "2026-03-26T01:20:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/z1KCrshGFsM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=z1KCrshGFsM"
+    },
     {
       "id": "Zrj3L1iGDtU",
       "title": "「テレメンタリー2026」3月29日（日）あさ4時50分放送",

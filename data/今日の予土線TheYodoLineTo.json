@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-25T16:13:49.624491",
+  "updated_at": "2026-03-26T16:13:59.648917",
   "videos": [
+    {
+      "id": "VDtg1rjtdEM",
+      "title": "260326 174915 務田駅から務田踏切",
+      "description": "",
+      "publishedAt": "2026-03-26T11:30:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VDtg1rjtdEM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VDtg1rjtdEM"
+    },
+    {
+      "id": "4Kjhcbf5SC4",
+      "title": "260326 174132 務田踏切（新幹線タイプ通過）",
+      "description": "",
+      "publishedAt": "2026-03-26T11:29:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4Kjhcbf5SC4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4Kjhcbf5SC4"
+    },
+    {
+      "id": "3a6VsixkOAs",
+      "title": "260326 173816 務田踏切",
+      "description": "",
+      "publishedAt": "2026-03-26T11:23:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3a6VsixkOAs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3a6VsixkOAs"
+    },
     {
       "id": "EJRie7FJ7rY",
       "title": "260325 175043 雨の伊予宮野下駅跨線橋",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-03-25T16:12:17.142077",
+  "updated_at": "2026-03-26T16:13:14.018243",
   "videos": [
+    {
+      "id": "tGbpNo0C4HE",
+      "title": "WIB HERO'S 和歌山イノベーションベース近況",
+      "description": "",
+      "publishedAt": "2026-03-26T16:01:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tGbpNo0C4HE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tGbpNo0C4HE"
+    },
+    {
+      "id": "Sk3odmeDWJk",
+      "title": "日本まんなか直送便！(和歌山版)　日高川町の春をサキドリ！",
+      "description": "",
+      "publishedAt": "2026-03-26T04:54:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Sk3odmeDWJk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Sk3odmeDWJk"
+    },
     {
       "id": "PdcfNPfjKzk",
       "title": "【WAKAYAMA SDGs】#056- 和歌山市「子ども海かいぎ事業」の取り組み",

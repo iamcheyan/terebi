@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-03-23T16:01:56.139209",
+  "updated_at": "2026-03-26T16:12:59.821390",
   "videos": [
+    {
+      "id": "bICOG_guwbs",
+      "title": "【ホンジュラスから日本へ】少女たちが元海外協力隊員と描く夢",
+      "description": "",
+      "publishedAt": "2026-03-26T09:50:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bICOG_guwbs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bICOG_guwbs"
+    },
     {
       "id": "H8lZwdOfmjg",
       "title": "【ななスパBIZ】部のモットー「基本に忠実に」　就実高校・女子バレーボール部　西畑美希監督",

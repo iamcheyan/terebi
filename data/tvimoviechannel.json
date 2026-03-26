@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-25T16:13:34.279151",
+  "updated_at": "2026-03-26T16:13:49.552163",
   "videos": [
+    {
+      "id": "zcTTpQwefWI",
+      "title": "今日の５きげんテレビ（3月27日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-26T15:01:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zcTTpQwefWI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zcTTpQwefWI"
+    },
+    {
+      "id": "Tq0K2Y4qYZQ",
+      "title": "盛岡りんごのシードル | ベアレンビール",
+      "description": "",
+      "publishedAt": "2026-03-26T10:51:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Tq0K2Y4qYZQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Tq0K2Y4qYZQ"
+    },
+    {
+      "id": "tWIrcxxnScg",
+      "title": "５きげんクッキング ～アメリカンクッキー～",
+      "description": "",
+      "publishedAt": "2026-03-26T08:54:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tWIrcxxnScg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tWIrcxxnScg"
+    },
     {
       "id": "tqqYIRhIB_Q",
       "title": "今日の５きげんテレビ（3月26日）｜テレビ岩手",

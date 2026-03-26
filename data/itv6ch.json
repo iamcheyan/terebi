@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-03-25T16:13:41.681031",
+  "updated_at": "2026-03-26T16:13:53.984598",
   "videos": [
+    {
+      "id": "s2ZmM1Xw7D8",
+      "title": "愛媛のニュース(03月26日)",
+      "description": "",
+      "publishedAt": "2026-03-26T11:34:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s2ZmM1Xw7D8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s2ZmM1Xw7D8"
+    },
+    {
+      "id": "vWvkgUhYGkY",
+      "title": "はみ出しできるの？ 山道に出現する謎多きセンターライン…誰に聞いてみても分からない そこで警察に聞いてみると意外な回答が",
+      "description": "",
+      "publishedAt": "2026-03-25T22:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vWvkgUhYGkY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vWvkgUhYGkY"
+    },
     {
       "id": "2kQMDw82XAs",
       "title": "愛媛のニュース(03月25日)",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-03-25T16:13:24.165448",
+  "updated_at": "2026-03-26T16:13:43.224997",
   "videos": [
+    {
+      "id": "QWfBwTB4ZBg",
+      "title": "与那国島 QABとの繋がりを探せ！",
+      "description": "",
+      "publishedAt": "2026-03-26T10:39:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QWfBwTB4ZBg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QWfBwTB4ZBg"
+    },
+    {
+      "id": "lj927s9A74Y",
+      "title": "沖縄県の土地価格ランキング・ベスト3",
+      "description": "",
+      "publishedAt": "2026-03-26T08:25:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lj927s9A74Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lj927s9A74Y"
+    },
     {
       "id": "rz5NfR_EJe4",
       "title": "#01 ほけんを学ぼう「教育費」",

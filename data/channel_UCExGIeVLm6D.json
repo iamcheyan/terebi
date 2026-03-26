@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-03-24T16:08:52.100352",
+  "updated_at": "2026-03-26T16:12:43.238320",
   "videos": [
+    {
+      "id": "c4JzraLrGw0",
+      "title": "＜予告＞情熱サンフレッチェ 3月27日放送",
+      "description": "",
+      "publishedAt": "2026-03-26T05:45:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c4JzraLrGw0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c4JzraLrGw0"
+    },
+    {
+      "id": "lVkmVjs3SZs",
+      "title": "RCCテレビ『元就。』2026年3月29日予告",
+      "description": "",
+      "publishedAt": "2026-03-26T01:34:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lVkmVjs3SZs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lVkmVjs3SZs"
+    },
     {
       "id": "3gz0XGNphgI",
       "title": "『元就。二百万一心！』 #248　2026年3月21日",
