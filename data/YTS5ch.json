@@ -1,8 +1,44 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-03-21T15:28:40.107582",
+  "updated_at": "2026-03-27T15:55:46.958623",
   "videos": [
+    {
+      "id": "PkuR17fJyHc",
+      "title": "【見逃し】奥州げてもの 米沢市から生中継 和田孝太郎アナウンサー",
+      "description": "",
+      "publishedAt": "2026-03-27T09:53:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PkuR17fJyHc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PkuR17fJyHc"
+    },
+    {
+      "id": "g-L5-wPV-20",
+      "title": "山形出身！世界で戦う高校生アスリート【前編】",
+      "description": "",
+      "publishedAt": "2026-03-27T08:26:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g-L5-wPV-20/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g-L5-wPV-20"
+    },
+    {
+      "id": "l-gdSFQ8OwI",
+      "title": "あさは５ちゃん！山形の週末の朝が楽しくなる！",
+      "description": "",
+      "publishedAt": "2026-03-27T00:53:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l-gdSFQ8OwI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l-gdSFQ8OwI"
+    },
     {
       "id": "_1Zlk6cyKu4",
       "title": "第2821回 リスキリングがつなぐ地域の可能性「提言の広場」",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-03-26T16:13:43.224997",
+  "updated_at": "2026-03-27T15:55:57.167261",
   "videos": [
+    {
+      "id": "qlKaSXZdQDc",
+      "title": "Vol.51 「最終回　３０のじぶんへ」",
+      "description": "",
+      "publishedAt": "2026-03-27T10:13:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qlKaSXZdQDc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qlKaSXZdQDc"
+    },
+    {
+      "id": "FlWeSRnxWGw",
+      "title": "沖縄ろうきん",
+      "description": "",
+      "publishedAt": "2026-03-27T10:06:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FlWeSRnxWGw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FlWeSRnxWGw"
+    },
     {
       "id": "QWfBwTB4ZBg",
       "title": "与那国島 QABとの繋がりを探せ！",

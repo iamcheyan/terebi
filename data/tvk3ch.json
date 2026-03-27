@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-03-25T16:12:49.387356",
+  "updated_at": "2026-03-27T15:55:45.389687",
   "videos": [
+    {
+      "id": "45mh_tNMmg0",
+      "title": "ホンダ コンチェルト　tvk「新車情報」公式　1991年3月23日放送",
+      "description": "",
+      "publishedAt": "2026-03-27T09:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/45mh_tNMmg0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=45mh_tNMmg0"
+    },
+    {
+      "id": "2bhpVTAxNww",
+      "title": "「農に魅せられて ～津久井～」かながわ旬菜ナビ 2026/3/22放送",
+      "description": "",
+      "publishedAt": "2026-03-27T09:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2bhpVTAxNww/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2bhpVTAxNww"
+    },
     {
       "id": "FyfuJ_Fk-dc",
       "title": "カナフルTV　3月22日　地元の恵みが一杯に！神奈川のクラフト蒸留酒",

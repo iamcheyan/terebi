@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-03-26T16:12:47.981808",
+  "updated_at": "2026-03-27T15:55:37.273619",
   "videos": [
+    {
+      "id": "PNmOBLANSW4",
+      "title": "【ハイスクールチェック】富山東高校（2026年3月23日～27日放送）",
+      "description": "",
+      "publishedAt": "2026-03-27T03:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PNmOBLANSW4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PNmOBLANSW4"
+    },
     {
       "id": "6sdTW2hcldQ",
       "title": "ハッピーイオン「いまの季節にぴったりなスキンケアアイテム」（2026年3月26日放送分）",

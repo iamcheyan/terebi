@@ -1,8 +1,164 @@
 {
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "KHB東日本放送",
-  "updated_at": "2026-03-26T16:13:37.238060",
+  "updated_at": "2026-03-27T15:55:53.614352",
   "videos": [
+    {
+      "id": "UAy5dAmwNyM",
+      "title": "宮城県税事務所の職員が個人情報漏えいで停職３カ月",
+      "description": "",
+      "publishedAt": "2026-03-27T10:02:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UAy5dAmwNyM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UAy5dAmwNyM"
+    },
+    {
+      "id": "06cbmsHKGFs",
+      "title": "桜の季節　開花予想と開花発表とは",
+      "description": "",
+      "publishedAt": "2026-03-27T09:38:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/06cbmsHKGFs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=06cbmsHKGFs"
+    },
+    {
+      "id": "XPVG4CtGfZo",
+      "title": "海上保安庁の巡視船から重油が流出　養殖業に影響　宮城・塩釜港",
+      "description": "",
+      "publishedAt": "2026-03-27T09:36:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XPVG4CtGfZo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XPVG4CtGfZo"
+    },
+    {
+      "id": "uk4h74u5GaQ",
+      "title": "家庭で出た食用油の再資源化へ　宮城県と事業者が協定　いずれは航空燃料に活用へ",
+      "description": "",
+      "publishedAt": "2026-03-27T09:31:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uk4h74u5GaQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uk4h74u5GaQ"
+    },
+    {
+      "id": "S7r5Y28zhe8",
+      "title": "宮城県立劇場の建設現場の仮囲いに幅１８メートルのアートがお目見え",
+      "description": "",
+      "publishedAt": "2026-03-27T09:28:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S7r5Y28zhe8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S7r5Y28zhe8"
+    },
+    {
+      "id": "ARwXYYmVffI",
+      "title": "４月使用分の電気料金　３カ月連続で値上がり　東北電力",
+      "description": "",
+      "publishedAt": "2026-03-27T09:26:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ARwXYYmVffI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ARwXYYmVffI"
+    },
+    {
+      "id": "4X__JezFuYA",
+      "title": "福島県の観光キャンペーンを前にＪＲ仙台駅に名物がそろう",
+      "description": "",
+      "publishedAt": "2026-03-27T08:39:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4X__JezFuYA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4X__JezFuYA"
+    },
+    {
+      "id": "Ijeq95IAFUw",
+      "title": "春の訪れを告げるシロウオ漁が始まる　宮城・南三陸町",
+      "description": "",
+      "publishedAt": "2026-03-27T07:58:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ijeq95IAFUw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ijeq95IAFUw"
+    },
+    {
+      "id": "DY08cqas_xI",
+      "title": "マグロ解体ショーの仙台サバキ女子が郡市長表敬訪問「活動の場を海外に広げたい」",
+      "description": "",
+      "publishedAt": "2026-03-27T07:56:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DY08cqas_xI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DY08cqas_xI"
+    },
+    {
+      "id": "boki-vVq_GY",
+      "title": "地震発生時に自働で電気を遮断する感震ブレーカーを周知　仙台市科学館でイベント",
+      "description": "",
+      "publishedAt": "2026-03-27T07:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/boki-vVq_GY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=boki-vVq_GY"
+    },
+    {
+      "id": "6RCmq-wmlGk",
+      "title": "宮城・角田市で鳥インフルエンザ確認　アヒル８１７０羽の殺処分完了",
+      "description": "",
+      "publishedAt": "2026-03-27T07:40:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6RCmq-wmlGk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6RCmq-wmlGk"
+    },
+    {
+      "id": "XeZm7MRbF3I",
+      "title": "住宅から出火　焼け跡から遺体　住人男性か　宮城・村田町",
+      "description": "",
+      "publishedAt": "2026-03-27T02:51:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XeZm7MRbF3I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XeZm7MRbF3I"
+    },
+    {
+      "id": "OKRZxeec2Ug",
+      "title": "海上保安庁の巡視船から重油が流出　養殖業に影響　宮城・塩釜港",
+      "description": "",
+      "publishedAt": "2026-03-27T02:49:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OKRZxeec2Ug/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OKRZxeec2Ug"
+    },
     {
       "id": "jZQrjjqKlHg",
       "title": "飲酒後に自転車を運転した中学校教諭　停職２カ月の懲戒処分",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-03-24T16:09:14.792848",
+  "updated_at": "2026-03-27T15:55:57.708412",
   "videos": [
+    {
+      "id": "Md-0t3QTKlc",
+      "title": "【番宣】４月１日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2026-03-27T07:55:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Md-0t3QTKlc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Md-0t3QTKlc"
+    },
+    {
+      "id": "x8YSfDtTHps",
+      "title": "【SDGs】2026年2月28日放送 『ニッセイサステナプロジェクト　「にっせーのせ！」とは』",
+      "description": "",
+      "publishedAt": "2026-03-27T06:45:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x8YSfDtTHps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x8YSfDtTHps"
+    },
+    {
+      "id": "w8vSLC6Xsu8",
+      "title": "【番宣】３月３１日（火）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-03-27T06:38:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/w8vSLC6Xsu8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=w8vSLC6Xsu8"
+    },
+    {
+      "id": "xjU2lpCWTOU",
+      "title": "【番宣】３月３０日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-03-27T00:57:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xjU2lpCWTOU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xjU2lpCWTOU"
+    },
     {
       "id": "CJ7V6mRFIjY",
       "title": "【番宣】３月２６日（木）NEWSゲツキン",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-26T16:13:49.552163",
+  "updated_at": "2026-03-27T15:56:00.295281",
   "videos": [
+    {
+      "id": "iJok9Ml3RBA",
+      "title": "５きげんクッキング ～新ジャガのだしバター蒸し～",
+      "description": "",
+      "publishedAt": "2026-03-27T07:45:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iJok9Ml3RBA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iJok9Ml3RBA"
+    },
     {
       "id": "zcTTpQwefWI",
       "title": "今日の５きげんテレビ（3月27日）｜テレビ岩手",

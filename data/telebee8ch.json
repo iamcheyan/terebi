@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-03-26T16:13:48.320047",
+  "updated_at": "2026-03-27T15:55:59.605488",
   "videos": [
+    {
+      "id": "gxlEYCYLqc8",
+      "title": "【公式】TVアニメ「とんがり帽子のアトリエ」 4月6日（月）スタート！毎週月曜　25:45～",
+      "description": "",
+      "publishedAt": "2026-03-27T06:52:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gxlEYCYLqc8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gxlEYCYLqc8"
+    },
+    {
+      "id": "oBFiE6QvBk8",
+      "title": "【公式】「はじめての食レポ」（03月27日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-03-27T03:00:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oBFiE6QvBk8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oBFiE6QvBk8"
+    },
     {
       "id": "qbnQMRwk1VA",
       "title": "【公式】2026年3月28日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
