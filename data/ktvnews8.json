@@ -1,8 +1,349 @@
 {
   "channel_id": "UCQhaZjODkIjuv38d-i5TVRw",
-  "channel_name": "関西テレビ（KTV）",
-  "updated_at": "2026-03-27T15:55:46.641749",
+  "channel_name": "カンテレNEWS",
+  "original_name": "関西テレビ（KTV）",
+  "updated_at": "2026-03-28T15:35:19.868230",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8_Lwt5NjyHeyIodyw1dVk3J8vxU",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3LlZ0WmdTZUpGZG1v",
+      "snippet": {
+        "publishedAt": "2026-03-28T15:29:30Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "世界遺産・姫路城で「観桜会」　花見客は「お城の白と桜が映えてきれい」　咲き始めた花を楽しむ",
+        "description": "桜の名所として知られる世界遺産・姫路城では28日、恒例の花見を楽しむイベントが開かれました。\r\n\r\n真っ白な白鷺城に映える桜の花。\r\n\r\n28日、兵庫県姫路市の姫路城では、41回目となる「姫路城観桜会」が開かれました。\r\n\r\n天守閣の周辺では、訪れた多くの人が琴の音色を聞きながら弁当を食べるなどして花見を楽しみました。\r\n\r\n花見客は「すごく楽しめてます。お城の白と桜がすごく映えてきれい」と話していました。\r\n\r\n姫路城には、約1000本の桜が植えられていて、「さくら名所百選」に選ばれています。\r\n\r\n今はまだ咲き始めの状態ですが、1週間ほどで満開になるということです。\r\n\r\n4月5日まで、夜桜のライトアップも行われています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VtZgSeJFdmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VtZgSeJFdmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VtZgSeJFdmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VtZgSeJFdmo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VtZgSeJFdmo"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zyjJKswLSy8CepTZ8SUgw1pwp2Y",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3LjB6S3pRd19xMC0w",
+      "snippet": {
+        "publishedAt": "2026-03-23T16:41:32Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "「五山送り火」や「MBTI診断」や「甲冑」…ユニークな仮装の卒業生も　京都大学で卒業式　２７６５人が門出",
+        "description": "京都大学で卒業式が行われ、毎年恒例のユニークな仮装をする卒業生の姿が見られました。\r\n\r\n【卒業生】\r\n「五山の送り火で、京都から送られます！」\r\n\r\n京都大学では2765人が晴れの日を迎え、ことしもユニークな仮装をする卒業生の姿が見られました。\r\n\r\n【卒業生】\r\n「それぞれがいろいろ個性があると思うんですけど、そんな個性が生かされる社会になっていけばなっていう思いを込めて、このコンセプトにしました」\r\n\r\n【卒業生】\r\n「これは亡き祖父の趣味で着ていた甲冑なんですけど、この晴れの舞台で着れたらすごい祖父も喜ぶだろうなと思ってこの仮装にしました」\r\n\r\n【卒業生】「もう卒業かみたいな。自分の得た知識とかを生かして、何か活躍できればなと思います」\r\n\r\n式典で、湊長博総長は「皆さんが多くの素晴らしい出会いをされることを期待しています」と卒業生にエールを贈りました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0zKzQw_q0-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0zKzQw_q0-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0zKzQw_q0-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0zKzQw_q0-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 56,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0zKzQw_q0-0"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B8URdfa1EBmD8b23bTdE4ulrXyQ",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3Lm1ycnhWQTZ2eHdN",
+      "snippet": {
+        "publishedAt": "2026-03-23T01:24:35Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "【LIVE】神戸空港 (UKB)ライブカメラ｜ Kobe Airport - Hyogo, Japan　大阪湾をバックに離発着する飛行機の様子をご覧ください＜カンテレNEWS＞",
+        "description": "神戸空港を映し出すカメラです。\n\n※回線状況によっては映像が乱れる可能性があります。\n※ストリーミング配信のため、実際の時刻より数十秒の遅延が生じます。\n※都合によりライブ配信を一時的に中断または終了する場合があります。\n\n✼••┈┈┈┈••✼••┈┈┈┈••✼••┈┈┈┈••✼\n\n▣ カンテレ報道への情報提供・取材依頼\n◇ https://ktv.dga.jp/runner/12942\n\n▣ newsランナー\n◇ 月〜金・夕方4時50分から放送中！\n◇ HP：https://www.ktv.jp/runner\n\n▣ 旬感LIVE とれたてっ!\n◇ 月～金・午後1時50分から生放送！\n◇ HP：https://www.ktv.jp/toretate\n\n▣ ザ・ドキュメント\n◇ 過去のドキュメンタリーを全編配信中！\nhttps://www.youtube.com/playlist?list=PLaIeKE1_j9N80lCQV3gz46Gy6yEQbgdz4\n\n▣ カンテレドーガ\n◇ 名作ドラマやバラエティーを配信！\n◇ HP：https://ktv-smart.jp\n\n✼••┈┈┈┈••✼••┈┈┈┈••✼••┈┈┈┈••✼\n\n#大阪　#ライブカメラ　#関西国際空港　#空港ライブカメラ\n#Airport　#Osaka　#kansai　#news　#live  #Kobe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mrrxVA6vxwM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mrrxVA6vxwM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mrrxVA6vxwM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mrrxVA6vxwM/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mrrxVA6vxwM/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 72,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mrrxVA6vxwM"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k7G3Es5_zHlwr6E0SBnPtsSI5DY",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3LlhSbUx3RU56YW1N",
+      "snippet": {
+        "publishedAt": "2026-03-22T21:17:39Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "「金出せ」コンビニで強盗事件　奈良市帝塚山　18万2千円奪われる",
+        "description": "奈良市帝塚山のコンビニエンスストアで刃物のようなを持った男に現金18万2千円が奪われる事件がありました。\r\n男は逃走しているということです。\r\n\r\n午前3時すぎ、奈良市帝塚山の「ミニストップ帝塚山6丁目店」で、店員から110番通報がありました。\r\n\r\n警察によると、店に入ってきた男が刃物のようなものを店員の男性に見せ、「金出せ」と脅したということです。\r\n\r\n男はレジの中にあった現金約18万2000円を奪って逃走しました。\r\n\r\n店員の男性にけがはありませんでした。\r\n\r\n逃げた男は年齢が20代くらい、白いマスクを着用していたということです。\r\n\r\n警察は防犯カメラを調べるなど、強盗事件として男の行方を追っています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XRmLwENzamM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XRmLwENzamM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XRmLwENzamM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XRmLwENzamM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 73,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XRmLwENzamM"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HU1hlavl44ITTIaisGnBR92BIT4",
+      "id": "VVVRaGFaak9Ea0lqdXYzOGQtaTVUVlJ3LlZaaUNLU3FBeFpV",
+      "snippet": {
+        "publishedAt": "2026-03-19T03:04:07Z",
+        "channelId": "UCQhaZjODkIjuv38d-i5TVRw",
+        "title": "【LIVE】大阪府・吉村洋文知事　取材対応｜日本維新の会代表｜2026年3月19日〈カンテレNEWS〉",
+        "description": "大阪府の吉村知事（日本維新の会代表）の取材対応を生配信します。\n\n2026年3月19日\n\n✼••┈┈┈┈••✼••┈┈┈┈••✼••┈┈┈┈••✼\n\n▣ TVerで「newsランナー」の最新話を続々配信中！「お気に入り登録」も忘れずに！\nhttps://tver.jp/series/sr7jtu0ory\n\n▣ カンテレ報道への情報提供・取材依頼\n◇ https://ktv.dga.jp/runner/12942\n\n▣ newsランナー\n◇ 月〜金・夕方4時50分から放送中！\n◇ HP：https://www.ktv.jp/runner\n◇ 見逃し配信：https://tver.jp/series/sr7jtu0ory\n\n▣ 旬感LIVE とれたてっ!\n◇ 月～金・午後1時50分から生放送！\n◇ HP：https://www.ktv.jp/toretate\n◇ 見逃し配信：https://www.youtube.com/playlist?list=PLaIeKE1_j9N-u6AUSovDXvJQcTMIeiquw\n\n▣ ザ・ドキュメント\n◇ 過去のドキュメンタリーを全編配信中！\nhttps://www.youtube.com/playlist?list=PLaIeKE1_j9N80lCQV3gz46Gy6yEQbgdz4\n\n▣ カンテレアナウンサー\n◇ プロフィール：https://www.ktv.jp/ann",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VZiCKSqAxZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VZiCKSqAxZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VZiCKSqAxZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VZiCKSqAxZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VZiCKSqAxZU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "カンテレNEWS",
+        "playlistId": "UUQhaZjODkIjuv38d-i5TVRw",
+        "position": 93,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VZiCKSqAxZU"
+        },
+        "videoOwnerChannelTitle": "カンテレNEWS",
+        "videoOwnerChannelId": "UCQhaZjODkIjuv38d-i5TVRw"
+      }
+    },
+    {
+      "id": "ggrjmylfBBI",
+      "title": "大阪市内で相次ぎ目撃された迷いシカ　温泉施設へ移送し元気な姿　横山市長が現地を視察　名前はSNSで募集　「シカやん」が有力候補に",
+      "description": "",
+      "publishedAt": "2026-03-28T09:08:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ggrjmylfBBI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ggrjmylfBBI"
+    },
+    {
+      "id": "5hp4sRO0r78",
+      "title": "約1億3000万年前の地層から恐竜の歯の化石　イグアノドン類の下顎の歯　県内初確認で最大級　徳島・勝浦町",
+      "description": "",
+      "publishedAt": "2026-03-28T09:06:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5hp4sRO0r78/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5hp4sRO0r78"
+    },
+    {
+      "id": "g_4kkjhOfaA",
+      "title": "娘への日常的な虐待　背景にあった“戦争トラウマ”の連鎖　「父は苦しみ続けていた」　旧海軍兵だった父の足跡をたどる女性を描いた映画が上映　大阪",
+      "description": "",
+      "publishedAt": "2026-03-28T09:02:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g_4kkjhOfaA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g_4kkjhOfaA"
+    },
+    {
+      "id": "002ZJarvamk",
+      "title": "フェルメールの名作「ギターを弾く女」　原寸大の陶板で再現し常設展示へ　額縁は地元高校生が3Dプリンターで製作　 徳島・大塚国際美術館",
+      "description": "",
+      "publishedAt": "2026-03-28T03:13:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/002ZJarvamk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=002ZJarvamk"
+    },
+    {
+      "id": "DYyRMqSxfIY",
+      "title": "最高裁の無罪確定を受け再上映　えん罪を描く映画「揺さぶられる正義」1週間の限定公開　赤ちゃん揺さぶり事件の実態を描く　大阪市",
+      "description": "",
+      "publishedAt": "2026-03-28T03:11:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DYyRMqSxfIY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DYyRMqSxfIY"
+    },
+    {
+      "id": "OpUn15TGxTM",
+      "title": "【人間ドラマ】異国の地で結婚、そして離婚…支え合った親友と再会　日本で再出発の物語　格安&便利「大阪駅JR高速バスターミナル」出会いと別れの春　ホントのところ｜newsランナー〈カンテレNEWS〉",
+      "description": "",
+      "publishedAt": "2026-03-28T03:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OpUn15TGxTM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OpUn15TGxTM"
+    },
+    {
+      "id": "yIp2khbIbDg",
+      "title": "【田舎留学】「小規模特認校制度」で引っ越しせず転校　児童減少で廃校寸前から人気校に　児童数が3年で約3倍に　姫路市立莇野小学校“卒業”に密着｜newsランナー〈カンテレNEWS〉",
+      "description": "",
+      "publishedAt": "2026-03-28T02:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yIp2khbIbDg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yIp2khbIbDg"
+    },
+    {
+      "id": "k8MjBWfEVWk",
+      "title": "“北海道物産展”も“デパ地下”も“ショーウィンドー”もすべて「高島屋」発祥だった！創業195年「憧れの百貨店」として愛される理由に迫る｜大東駿介の発見！てくてく学〈カンテレNEWS〉",
+      "description": "",
+      "publishedAt": "2026-03-28T01:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k8MjBWfEVWk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k8MjBWfEVWk"
+    },
+    {
+      "id": "UNk4xl5nGnA",
+      "title": "【天才卓球少女】卓球の最年少プロ・松島美空選手　学校の日も毎日5時間練習「人一倍努力して意識高く頑張りたい」卒業後は練習拠点を神奈川に｜newsランナー〈カンテレNEWS〉",
+      "description": "",
+      "publishedAt": "2026-03-28T01:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UNk4xl5nGnA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UNk4xl5nGnA"
+    },
+    {
+      "id": "ztzp53UK6Kk",
+      "title": "大阪市内に出没の迷いシカ　新たな住処へ　受け入れたのは温泉施設",
+      "description": "",
+      "publishedAt": "2026-03-27T23:43:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ztzp53UK6Kk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ztzp53UK6Kk"
+    },
     {
       "id": "gARr2FxuNwo",
       "title": "大家から突然の家賃値上げ通知… 退去費用『52万円』請求など賃貸トラブル急増　『結露によるカビ』は入居者負担の可能性も　退去時の高額請求から身を守る方法｜newsランナー〈カンテレNEWS〉",
@@ -24242,6 +24583,36 @@
       "title": "和歌山・白浜町　砂浜に「防砂ネット」設置",
       "thumbnail": "https://i.ytimg.com/vi/19O890tnQHE/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=19O890tnQHE"
+    },
+    {
+      "id": "VtZgSeJFdmo",
+      "title": "世界遺産・姫路城で「観桜会」　花見客は「お城の白と桜が映えてきれい」　咲き始めた花を楽しむ",
+      "thumbnail": "https://i.ytimg.com/vi/VtZgSeJFdmo/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VtZgSeJFdmo"
+    },
+    {
+      "id": "0zKzQw_q0-0",
+      "title": "「五山送り火」や「MBTI診断」や「甲冑」…ユニークな仮装の卒業生も　京都大学で卒業式　２７６５人が門出",
+      "thumbnail": "https://i.ytimg.com/vi/0zKzQw_q0-0/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0zKzQw_q0-0"
+    },
+    {
+      "id": "mrrxVA6vxwM",
+      "title": "【LIVE】神戸空港 (UKB)ライブカメラ｜ Kobe Airport - Hyogo, Japan　大阪湾をバックに離発着する飛行機の様子をご覧ください＜カンテレNEWS＞",
+      "thumbnail": "https://i.ytimg.com/vi/mrrxVA6vxwM/maxresdefault_live.jpg",
+      "url": "https://www.youtube.com/watch?v=mrrxVA6vxwM"
+    },
+    {
+      "id": "XRmLwENzamM",
+      "title": "「金出せ」コンビニで強盗事件　奈良市帝塚山　18万2千円奪われる",
+      "thumbnail": "https://i.ytimg.com/vi/XRmLwENzamM/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XRmLwENzamM"
+    },
+    {
+      "id": "VZiCKSqAxZU",
+      "title": "【LIVE】大阪府・吉村洋文知事　取材対応｜日本維新の会代表｜2026年3月19日〈カンテレNEWS〉",
+      "thumbnail": "https://i.ytimg.com/vi/VZiCKSqAxZU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VZiCKSqAxZU"
     }
   ]
 }

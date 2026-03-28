@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-03-27T15:56:05.167422",
+  "updated_at": "2026-03-28T15:34:53.847173",
   "videos": [
+    {
+      "id": "tjAfUrLJIlo",
+      "title": "260328 153511 桜とトロッコ列車（兼近第３踏切）",
+      "description": "",
+      "publishedAt": "2026-03-28T10:02:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tjAfUrLJIlo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tjAfUrLJIlo"
+    },
+    {
+      "id": "lR0hh8MeUzk",
+      "title": "260328 152934 桜と兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-03-28T09:59:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lR0hh8MeUzk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lR0hh8MeUzk"
+    },
     {
       "id": "OGBgNE_zrb0",
       "title": "260327 154522 宮野下第３踏切（黄色い列車＆みきゃん列車通過）",

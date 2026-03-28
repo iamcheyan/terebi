@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-03-27T15:55:44.793865",
+  "updated_at": "2026-03-28T15:34:10.026366",
   "videos": [
+    {
+      "id": "GvM8sTEGl1I",
+      "title": "メ～テレ落語『月亭方正落語会　スペシャルゲスト 立川志らく』15秒SPOT",
+      "description": "",
+      "publishedAt": "2026-03-28T01:00:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GvM8sTEGl1I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GvM8sTEGl1I"
+    },
     {
       "id": "BDFSrMOf9vc",
       "title": "【上坂アナ】受験会場をホームにする⁉🏠緊張を抑えるための工夫とは【アナメロ】",

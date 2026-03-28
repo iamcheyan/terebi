@@ -1,8 +1,20 @@
 {
   "channel_id": "UCE5ajTJVTrsmxZJ-V3y8CLA",
   "channel_name": "ABA青森朝日放送",
-  "updated_at": "2026-03-21T15:29:17.663515",
+  "updated_at": "2026-03-28T15:34:32.595160",
   "videos": [
+    {
+      "id": "-V68NqNAohA",
+      "title": "市岡元気のマジ☆ラボ　霧箱で放射線を見てみよう",
+      "description": "",
+      "publishedAt": "2026-03-28T07:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-V68NqNAohA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-V68NqNAohA"
+    },
     {
       "id": "f7GnepA9e5Y",
       "title": "市岡元気のマジ☆ラボ　静電気で蛍光灯が光る⁉",

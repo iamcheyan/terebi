@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-03-26T16:13:14.018243",
+  "updated_at": "2026-03-28T15:34:25.870371",
   "videos": [
+    {
+      "id": "GERxbJpeM2o",
+      "title": "あのじゅうよ〜 第192回",
+      "description": "",
+      "publishedAt": "2026-03-28T14:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GERxbJpeM2o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GERxbJpeM2o"
+    },
     {
       "id": "tGbpNo0C4HE",
       "title": "WIB HERO'S 和歌山イノベーションベース近況",
