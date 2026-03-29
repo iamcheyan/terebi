@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-28T15:34:13.204933",
+  "updated_at": "2026-03-29T15:35:11.339738",
   "videos": [
+    {
+      "id": "3xIfDjSUJIk",
+      "title": "Nebraska's Spring Football Game: Running Backs Shine and While the QB Battle Took Center Stage",
+      "description": "",
+      "publishedAt": "2026-03-28T22:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3xIfDjSUJIk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3xIfDjSUJIk"
+    },
+    {
+      "id": "wSUvQeKuLtQ",
+      "title": "Nebraska Spring Football Press After Spring Football Game",
+      "description": "",
+      "publishedAt": "2026-03-28T19:36:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wSUvQeKuLtQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wSUvQeKuLtQ"
+    },
     {
       "id": "qelK5PghHbY",
       "title": "Huskers Baseball and Softball both Open Weekend Series Win",

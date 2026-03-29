@@ -1,8 +1,20 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-03-28T15:34:14.966906",
+  "updated_at": "2026-03-29T15:35:14.989145",
   "videos": [
+    {
+      "id": "RF6E-1DgYLU",
+      "title": "ようこそさいたま市議会へ　令和8年2月定例会",
+      "description": "",
+      "publishedAt": "2026-03-29T01:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RF6E-1DgYLU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RF6E-1DgYLU"
+    },
     {
       "id": "Q0A599OdtyU",
       "title": "第1回ショコラミ裏リアクション女王決定戦！グループ初のアーティスト写真撮影に密着！【ショコラミタイム～夢に向かってゴーゴゴー！～】#２２",

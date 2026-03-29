@@ -1,9 +1,56 @@
 {
   "channel_id": "UCQhaZjODkIjuv38d-i5TVRw",
-  "channel_name": "カンテレNEWS",
-  "original_name": "関西テレビ（KTV）",
-  "updated_at": "2026-03-28T15:35:19.868230",
+  "channel_name": "関西テレビ（KTV）",
+  "updated_at": "2026-03-29T15:34:59.463295",
   "videos": [
+    {
+      "id": "H-_EETXUONI",
+      "title": "【速報】早朝の住宅で火事　焼け跡から2人の遺体　60代男女2人と連絡取れず　近隣住民が煙に気づき通報　兵庫・明石市",
+      "description": "",
+      "publishedAt": "2026-03-29T09:15:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H-_EETXUONI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H-_EETXUONI"
+    },
+    {
+      "id": "9vpErJUi5P8",
+      "title": "「大阪松竹座」閉館前に感謝のお練り、人間国宝・片岡仁左衛門ら登場　老朽化で5月閉館　4月3日からラスト公演へ",
+      "description": "",
+      "publishedAt": "2026-03-29T09:13:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9vpErJUi5P8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9vpErJUi5P8"
+    },
+    {
+      "id": "IVLu3LGkX0M",
+      "title": "産地直送野菜やローカルスナック揃えたコンビニ　12円で仕入れた飴は10円なのに10万円の水墨画販売も　独自路線コンビニ2店を秦アナが徹底取材｜おっカネ～NEWS〈カンテレNEWS〉",
+      "description": "",
+      "publishedAt": "2026-03-29T02:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IVLu3LGkX0M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IVLu3LGkX0M"
+    },
+    {
+      "id": "75agUHhDPJ4",
+      "title": "【今昔さんぽ】京都の人気銭湯「船岡温泉」が天然温泉ではないのに“温泉”の理由は「電気風呂」にあった　万葉集にも登場　紫式部が生まれた地？「紫野」の歴史再発見　京都・堀川北大路｜兵動大樹〈カンテレ〉",
+      "description": "",
+      "publishedAt": "2026-03-29T01:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/75agUHhDPJ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=75agUHhDPJ4"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "8_Lwt5NjyHeyIodyw1dVk3J8vxU",

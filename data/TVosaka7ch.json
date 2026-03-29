@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-03-28T15:33:58.416173",
+  "updated_at": "2026-03-29T15:34:57.925426",
   "videos": [
+    {
+      "id": "4O-RMk4uCDA",
+      "title": "【アクセントチャレンジ】川北アナは正しいアクセントで読めるか！？",
+      "description": "",
+      "publishedAt": "2026-03-29T09:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4O-RMk4uCDA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4O-RMk4uCDA"
+    },
+    {
+      "id": "EeCGswfybbw",
+      "title": "食遺産File.240「コリコリキクラゲハンバーグ」＠滋賀県・高島市",
+      "description": "",
+      "publishedAt": "2026-03-29T03:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EeCGswfybbw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EeCGswfybbw"
+    },
     {
       "id": "iKqBJ8bzdiY",
       "title": "ドキュメント神田川俊郎　料理は心！その志を継ぐ",

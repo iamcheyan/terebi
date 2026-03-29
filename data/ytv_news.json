@@ -1,8 +1,32 @@
 {
   "channel_id": "UCv7_krlrre3GQi79d4guxHQ",
   "channel_name": "読売テレビ（ytv）",
-  "updated_at": "2026-03-28T15:34:22.007911",
+  "updated_at": "2026-03-29T15:34:57.312589",
   "videos": [
+    {
+      "id": "4TGMaQwj3hk",
+      "title": "大阪松竹座の閉館前に道頓堀で「お練り」",
+      "description": "",
+      "publishedAt": "2026-03-29T10:19:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4TGMaQwj3hk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4TGMaQwj3hk"
+    },
+    {
+      "id": "DLEYGPUnh2Y",
+      "title": "明石で住宅火災　男女２人と連絡取れず",
+      "description": "",
+      "publishedAt": "2026-03-29T02:57:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DLEYGPUnh2Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DLEYGPUnh2Y"
+    },
     {
       "id": "NUGhmkL2mnQ",
       "title": "「国の支援が不十分で二重に苦しい」犯罪被害者や遺族が集まり交流会「本音を語り合える場に」兵庫",

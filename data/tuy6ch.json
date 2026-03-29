@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2026-03-28T15:34:47.296132",
+  "updated_at": "2026-03-29T15:35:46.835280",
   "videos": [
+    {
+      "id": "WUlEytlFnVI",
+      "title": "日本経済の今を知る。未来の力になる。",
+      "description": "",
+      "publishedAt": "2026-03-29T04:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WUlEytlFnVI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WUlEytlFnVI"
+    },
     {
       "id": "dI99j5aE7LI",
       "title": "まもなく桜シーズン！お花見にもぴったりな桜スイーツ特集",

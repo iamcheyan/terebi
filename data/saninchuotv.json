@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-03-27T15:55:45.121177",
+  "updated_at": "2026-03-29T15:35:10.242265",
   "videos": [
+    {
+      "id": "gf-l6TMTmY0",
+      "title": "木育特番「Ｗооｄ　Ｌａｂ. ―未来にツナグ木材最前線」(TSKさんいん中央テレビ3月29日(日)放送)",
+      "description": "",
+      "publishedAt": "2026-03-27T03:17:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gf-l6TMTmY0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gf-l6TMTmY0"
+    },
     {
       "id": "aw0f_CJtbqs",
       "title": "ALevel8 #9  金見工務店",
