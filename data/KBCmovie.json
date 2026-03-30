@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-03-29T15:35:13.860709",
+  "updated_at": "2026-03-30T16:08:01.289822",
   "videos": [
+    {
+      "id": "AVUjOZe4uCQ",
+      "title": "島田洋七の朝から言わせろ～現代と過去の融合～",
+      "description": "",
+      "publishedAt": "2026-03-30T09:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AVUjOZe4uCQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AVUjOZe4uCQ"
+    },
     {
       "id": "ejTOhXjbEQQ",
       "title": "和竿職人｜時代の荒波を越えて。ただ一人、守り続ける和竿の文化",

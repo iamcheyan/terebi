@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-29T15:35:47.123821",
+  "updated_at": "2026-03-30T16:08:19.936531",
   "videos": [
+    {
+      "id": "cFny6PkmGrU",
+      "title": "今日の５きげんテレビ（3月31日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-03-30T15:00:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cFny6PkmGrU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cFny6PkmGrU"
+    },
+    {
+      "id": "94IVEQelYqI",
+      "title": "５きげんクッキング ～ちくわと鶏ムネ肉の天丼～",
+      "description": "",
+      "publishedAt": "2026-03-30T08:21:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/94IVEQelYqI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=94IVEQelYqI"
+    },
+    {
+      "id": "zHY3UZH88mM",
+      "title": "5きげん知恵袋 ～春一番 新ジャガイモ～",
+      "description": "",
+      "publishedAt": "2026-03-30T08:07:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zHY3UZH88mM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zHY3UZH88mM"
+    },
     {
       "id": "sW2OBFCVs4k",
       "title": "今日の５きげんテレビ（3月30日）｜テレビ岩手",

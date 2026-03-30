@@ -1,8 +1,56 @@
 {
   "channel_id": "UC8Y0ZErdlAnA9uW7ZeRdreQ",
   "channel_name": "FCT福島中央テレビNEWS",
-  "updated_at": "2026-03-29T15:35:22.812098",
+  "updated_at": "2026-03-30T16:08:09.896780",
   "videos": [
+    {
+      "id": "Atafz3NLftg",
+      "title": "【ライブカメラ】河川監視カメラ（提供：国交省）",
+      "description": "",
+      "publishedAt": "2026-03-30T10:15:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Atafz3NLftg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Atafz3NLftg"
+    },
+    {
+      "id": "b8Pwk-Syo5A",
+      "title": "【ライブカメラ】福島空港",
+      "description": "",
+      "publishedAt": "2026-03-30T10:14:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b8Pwk-Syo5A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b8Pwk-Syo5A"
+    },
+    {
+      "id": "jWmD5-Oyfps",
+      "title": "【ライブカメラ】福島第一原子力発電所",
+      "description": "",
+      "publishedAt": "2026-03-30T10:13:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jWmD5-Oyfps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jWmD5-Oyfps"
+    },
+    {
+      "id": "J4gl5Rgyquk",
+      "title": "【ライブカメラ】中テレ情報カメラ（郡山・福島・会津・小名浜）",
+      "description": "",
+      "publishedAt": "2026-03-30T10:13:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J4gl5Rgyquk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J4gl5Rgyquk"
+    },
     {
       "id": "CbCe-xNDVlI",
       "title": "「十分な財源や制度の確保」内堀知事が国に要望　新年度から第３期復興・創生期間",
