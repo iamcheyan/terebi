@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-03-30T16:07:42.976305",
+  "updated_at": "2026-03-31T16:07:18.914314",
   "videos": [
+    {
+      "id": "ufMGCvWtNeI",
+      "title": "野球中継 中日×巨人 2026年4月2日（木）テレビ愛知 10チャンベースボール",
+      "description": "",
+      "publishedAt": "2026-03-31T01:42:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ufMGCvWtNeI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ufMGCvWtNeI"
+    },
+    {
+      "id": "oew3Refcs7U",
+      "title": "野球中継 中日ｘ巨人 4月2日（木）夕方5時30分放送 テレビ愛知",
+      "description": "",
+      "publishedAt": "2026-03-31T01:42:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oew3Refcs7U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oew3Refcs7U"
+    },
     {
       "id": "k1Mf_hmqwtI",
       "title": "【ショートアニメ】メリ夫の大冒険#1 「きらきら砂浜」",

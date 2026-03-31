@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-03-29T15:35:46.595369",
+  "updated_at": "2026-03-31T16:07:49.808296",
   "videos": [
+    {
+      "id": "PjGoCwcB41I",
+      "title": "TUFアプリ「たぷり」4月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-03-31T15:01:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PjGoCwcB41I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PjGoCwcB41I"
+    },
+    {
+      "id": "qSBwke-L5sw",
+      "title": "「福島日産自動車×ステップ」4月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-03-31T15:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qSBwke-L5sw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qSBwke-L5sw"
+    },
     {
       "id": "jWwf_KPGufk",
       "title": "【新しい春】ステップ春スポット２【福島のニュースはTUF夕方6時15分】",

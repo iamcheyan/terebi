@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-03-30T16:07:43.876206",
+  "updated_at": "2026-03-31T16:07:00.257955",
   "videos": [
+    {
+      "id": "aiIenoTkE0c",
+      "title": "#JamesMarsden & #OliviaMunn from #YourFriendsAndNeighbors answer your burning questions!",
+      "description": "",
+      "publishedAt": "2026-03-30T20:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aiIenoTkE0c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aiIenoTkE0c"
+    },
     {
       "id": "2QaVte68GQI",
       "title": "Nebraska Softball Wins Series vs. UCLA In Front of Record Crowd While Husker Baseball Sweeps Indiana",

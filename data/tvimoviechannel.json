@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-30T16:08:19.936531",
+  "updated_at": "2026-03-31T16:07:50.073309",
   "videos": [
+    {
+      "id": "RjL0ci0It0o",
+      "title": "今日の５きげんテレビ（4月1日）｜テレビ岩",
+      "description": "",
+      "publishedAt": "2026-03-31T15:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RjL0ci0It0o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RjL0ci0It0o"
+    },
+    {
+      "id": "Fu4RS1ahPGM",
+      "title": "心温まるカフェで癒しのひとときを！韓国で大人気のスイーツも♪",
+      "description": "",
+      "publishedAt": "2026-03-31T10:53:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fu4RS1ahPGM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fu4RS1ahPGM"
+    },
+    {
+      "id": "x1wv-Ue0NJs",
+      "title": "５きげんクッキング ～春キャベツのぬた～",
+      "description": "",
+      "publishedAt": "2026-03-31T08:39:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x1wv-Ue0NJs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x1wv-Ue0NJs"
+    },
     {
       "id": "cFny6PkmGrU",
       "title": "今日の５きげんテレビ（3月31日）｜テレビ岩手",

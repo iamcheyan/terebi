@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwVMadMSXOS0AMuW_3nlyRQ",
   "channel_name": "SBC信越放送",
-  "updated_at": "2026-03-30T16:08:16.996787",
+  "updated_at": "2026-03-31T16:07:47.472914",
   "videos": [
+    {
+      "id": "zYnth8wiBgg",
+      "title": "【SBC信越放送】リクルート／採用動画",
+      "description": "",
+      "publishedAt": "2026-03-31T03:05:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zYnth8wiBgg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zYnth8wiBgg"
+    },
     {
       "id": "Zc8QIkB6118",
       "title": "第24回SBC学校科学大賞　優秀賞【長野県飯山高等学校】",

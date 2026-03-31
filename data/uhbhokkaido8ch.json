@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-03-30T16:08:21.613446",
+  "updated_at": "2026-03-31T16:07:52.027692",
   "videos": [
+    {
+      "id": "PPPVD9pxrxc",
+      "title": "みんテレ　4月1日（水）放送",
+      "description": "",
+      "publishedAt": "2026-03-31T10:01:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PPPVD9pxrxc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PPPVD9pxrxc"
+    },
+    {
+      "id": "BmJIc2C8P7Y",
+      "title": "【見逃し配信】ススキノの夜は、予定通りに進まない。地上波未公開シーン付き！",
+      "description": "",
+      "publishedAt": "2026-03-30T16:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BmJIc2C8P7Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BmJIc2C8P7Y"
+    },
     {
       "id": "Hz-JYOqAy7c",
       "title": "みんテレ　3月31日（火）放送",

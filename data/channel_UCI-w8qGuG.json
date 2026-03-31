@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-03-30T16:07:40.154244",
+  "updated_at": "2026-03-31T16:07:21.383984",
   "videos": [
+    {
+      "id": "bZ3J691zOzE",
+      "title": "【鈴木淳之介】サッカー日本代表 期待の22歳に色々聞いてみた！！",
+      "description": "",
+      "publishedAt": "2026-03-31T07:38:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bZ3J691zOzE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bZ3J691zOzE"
+    },
     {
       "id": "kZKYZ6__beA",
       "title": "【イタリアから帰国！】バレー日本代表 石川真佑 「ロス五輪の切符を取るのが一番の目標」",
