@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-03-31T16:07:50.073309",
+  "updated_at": "2026-04-01T16:08:04.384581",
   "videos": [
+    {
+      "id": "6OYmP7y7cKE",
+      "title": "今日の５きげんテレビ（4月2日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-01T15:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6OYmP7y7cKE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6OYmP7y7cKE"
+    },
+    {
+      "id": "ulzVfz1ZSSA",
+      "title": "あがいん直売所＃6 ～ 宇宙を感じるお菓子を売る ～",
+      "description": "",
+      "publishedAt": "2026-04-01T10:55:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ulzVfz1ZSSA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ulzVfz1ZSSA"
+    },
+    {
+      "id": "W6Ai-0rGWQY",
+      "title": "５きげんクッキング ～春キャベツのチーズ春巻き～",
+      "description": "",
+      "publishedAt": "2026-04-01T08:24:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W6Ai-0rGWQY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W6Ai-0rGWQY"
+    },
     {
       "id": "RjL0ci0It0o",
       "title": "今日の５きげんテレビ（4月1日）｜テレビ岩",

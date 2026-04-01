@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-03-21T15:29:09.641222",
+  "updated_at": "2026-04-01T16:07:11.817603",
   "videos": [
+    {
+      "id": "P8NFIgzj6nI",
+      "title": "【3月27日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-04-01T03:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P8NFIgzj6nI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P8NFIgzj6nI"
+    },
     {
       "id": "El0V1Ct2Z7I",
       "title": "【ふるさとCM大賞NARA2026】野迫川村「Summer Light」",
