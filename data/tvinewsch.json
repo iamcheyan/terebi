@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-04-01T16:07:35.891154",
+  "updated_at": "2026-04-02T16:02:22.388430",
   "videos": [
+    {
+      "id": "mpUByusNUQs",
+      "title": "【プラス1ダイジェスト】4/2(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-04-02T10:37:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mpUByusNUQs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mpUByusNUQs"
+    },
+    {
+      "id": "IrQxFcLL5tk",
+      "title": "元気○（マル）らいふ　【自転車の「青切符制度」スタート】（2026/4/1放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-04-02T04:27:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IrQxFcLL5tk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IrQxFcLL5tk"
+    },
     {
       "id": "Advv4N-GHmE",
       "title": "【プラス1ダイジェスト】4/1(水) のニュース",

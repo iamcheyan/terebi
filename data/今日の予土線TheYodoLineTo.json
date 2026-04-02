@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-01T16:08:14.470945",
+  "updated_at": "2026-04-02T16:03:07.747553",
   "videos": [
+    {
+      "id": "_Ezn55YR6TU",
+      "title": "260402 175044 元宗踏切",
+      "description": "",
+      "publishedAt": "2026-04-02T11:12:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_Ezn55YR6TU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_Ezn55YR6TU"
+    },
+    {
+      "id": "iUHp2d1k6r4",
+      "title": "260402 174509 元宗踏切",
+      "description": "",
+      "publishedAt": "2026-04-02T11:10:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iUHp2d1k6r4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iUHp2d1k6r4"
+    },
+    {
+      "id": "hyw3HC6uef0",
+      "title": "260402 174136 元宗踏切",
+      "description": "",
+      "publishedAt": "2026-04-02T11:02:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hyw3HC6uef0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hyw3HC6uef0"
+    },
     {
       "id": "AnI6_1yE0Qo",
       "title": "260401 154848 雨の宮野下第１踏切（黄色い列車通過）",

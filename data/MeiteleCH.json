@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-03-28T15:34:10.026366",
+  "updated_at": "2026-04-02T16:02:33.001836",
   "videos": [
+    {
+      "id": "sVmbnRFeqW8",
+      "title": "超町人！チョコレートサムネット 4/5(日)茶色グルメ 東別院エリア編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-04-02T02:54:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sVmbnRFeqW8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sVmbnRFeqW8"
+    },
     {
       "id": "GvM8sTEGl1I",
       "title": "メ～テレ落語『月亭方正落語会　スペシャルゲスト 立川志らく』15秒SPOT",

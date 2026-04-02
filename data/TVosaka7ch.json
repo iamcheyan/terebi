@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-03-31T16:07:25.339608",
+  "updated_at": "2026-04-02T16:02:27.979710",
   "videos": [
+    {
+      "id": "PBaaJ9MRkP0",
+      "title": "【特別展「鳥」】まさに一石二“鳥”！？おトクに博物館を満喫しよう♡",
+      "description": "",
+      "publishedAt": "2026-04-02T09:05:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PBaaJ9MRkP0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PBaaJ9MRkP0"
+    },
     {
       "id": "qWIdzbS70H8",
       "title": "「120秒の科学」　＃25 過冷却「120 seconds of Science」＃25 Supercooling",

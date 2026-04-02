@@ -1,8 +1,32 @@
 {
   "channel_id": "UCrEU0b3lpZyrFh7VImwWkxA",
   "channel_name": "テレビ朝日公式チャンネル",
-  "updated_at": "2026-04-01T16:08:13.163129",
+  "updated_at": "2026-04-02T16:03:07.101804",
   "videos": [
+    {
+      "id": "vvKmG4cx1B0",
+      "title": "【私の幸福時間】2026/4/2（木）放送 No.1001 埼玉県／陶芸",
+      "description": "",
+      "publishedAt": "2026-04-02T11:36:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vvKmG4cx1B0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vvKmG4cx1B0"
+    },
+    {
+      "id": "JTOEgYpBja4",
+      "title": "【林修の今知りたいでしょ！】2026年4月7日（火）放送",
+      "description": "",
+      "publishedAt": "2026-04-02T05:38:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JTOEgYpBja4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JTOEgYpBja4"
+    },
     {
       "id": "bYpoTSBJ_S8",
       "title": "【健査官 ～サインを見逃すな～】2026年4月1日（水）放送",
