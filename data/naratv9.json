@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-04-02T16:02:19.705289",
+  "updated_at": "2026-04-03T15:40:42.850238",
   "videos": [
+    {
+      "id": "VwLMLksdVww",
+      "title": "上武建設株式会社【発見！NARA Corporate File】",
+      "description": "",
+      "publishedAt": "2026-04-03T14:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VwLMLksdVww/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VwLMLksdVww"
+    },
     {
       "id": "blMKc4Kn3Ko",
       "title": "【インタビュー】選抜高校野球大会　準決勝⚾智辯学園が大会振り返る",

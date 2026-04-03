@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-04-01T16:07:05.092582",
+  "updated_at": "2026-04-03T15:41:07.558379",
   "videos": [
+    {
+      "id": "hEtBPoZMtXw",
+      "title": "三菱 ブラボー　tvk「新車情報」公式　1991年3月30日放送",
+      "description": "",
+      "publishedAt": "2026-04-03T09:01:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hEtBPoZMtXw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hEtBPoZMtXw"
+    },
+    {
+      "id": "KF8dayiaCCM",
+      "title": "「ハウスパワーで新鮮野菜お届け！～平塚～」かながわ旬菜ナビ 2026/3/29放送",
+      "description": "",
+      "publishedAt": "2026-04-03T09:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KF8dayiaCCM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KF8dayiaCCM"
+    },
+    {
+      "id": "Hptm5q8tPyY",
+      "title": "【サイノス】 トヨタ  軽快＆スタイリッシュ スペック＆価格 tvk「新車情報」公式　1991年2月9日放送",
+      "description": "",
+      "publishedAt": "2026-04-03T09:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hptm5q8tPyY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hptm5q8tPyY"
+    },
     {
       "id": "HGq6498uSDI",
       "title": "かながわ旬菜ナビ　次回予告（4月5日放送）",

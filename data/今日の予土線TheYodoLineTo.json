@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-02T16:03:07.747553",
+  "updated_at": "2026-04-03T15:41:57.127347",
   "videos": [
+    {
+      "id": "Q6xn5GMkryk",
+      "title": "260403 175213 大内第２踏切",
+      "description": "",
+      "publishedAt": "2026-04-03T10:53:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q6xn5GMkryk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q6xn5GMkryk"
+    },
+    {
+      "id": "62JbMt9KGyM",
+      "title": "260403 174825 大内第２踏切（田植えの準備始まりました）",
+      "description": "",
+      "publishedAt": "2026-04-03T10:52:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/62JbMt9KGyM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=62JbMt9KGyM"
+    },
+    {
+      "id": "xWVg5b-9PZQ",
+      "title": "260403 174217 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-04-03T10:32:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xWVg5b-9PZQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xWVg5b-9PZQ"
+    },
+    {
+      "id": "ro_4r-YLtRc",
+      "title": "260403 173839 大内第１踏切（すまいるえきちゃん号通過）",
+      "description": "",
+      "publishedAt": "2026-04-03T10:27:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ro_4r-YLtRc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ro_4r-YLtRc"
+    },
     {
       "id": "_Ezn55YR6TU",
       "title": "260402 175044 元宗踏切",

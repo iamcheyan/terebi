@@ -1,8 +1,188 @@
 {
   "channel_id": "UCmBnPrnbYpbUZ10TMIlY9YA",
   "channel_name": "The Niigata Television Network 21",
-  "updated_at": "2026-04-02T16:03:02.832722",
+  "updated_at": "2026-04-03T15:41:45.608390",
   "videos": [
+    {
+      "id": "e_9qauROjZc",
+      "title": "【特番】国策のはざまで　～柏崎刈羽原発と新潟の半世紀～【新潟】",
+      "description": "",
+      "publishedAt": "2026-04-03T15:01:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e_9qauROjZc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e_9qauROjZc"
+    },
+    {
+      "id": "nzaCCytI7VM",
+      "title": "今年で33回目「アマチュア画家」の絵画展、約300作品を展示",
+      "description": "",
+      "publishedAt": "2026-04-03T11:15:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nzaCCytI7VM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nzaCCytI7VM"
+    },
+    {
+      "id": "qickWl-pfYo",
+      "title": "サクラの季節到来！高田城址公園では「観桜会」開幕、新潟市は満開発表",
+      "description": "",
+      "publishedAt": "2026-04-03T11:01:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qickWl-pfYo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qickWl-pfYo"
+    },
+    {
+      "id": "tOVhVFfdLLo",
+      "title": "県警察学校で警察官116人が入校式に臨む「県民のために安心安全を守る」",
+      "description": "",
+      "publishedAt": "2026-04-03T10:30:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tOVhVFfdLLo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tOVhVFfdLLo"
+    },
+    {
+      "id": "iNo8UYRswGI",
+      "title": "土曜は各地で昼過ぎから夕方にかけて雨に、風も次第に強まりそう【これからの天気(4月3日18時20分現在)｜新潟】",
+      "description": "",
+      "publishedAt": "2026-04-03T10:10:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iNo8UYRswGI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iNo8UYRswGI"
+    },
+    {
+      "id": "3s2vXR1dr6o",
+      "title": "今年で33回目「アマチュア画家」の絵画展、約300作品を展示【新潟】スーパーJにいがた4月3日OA",
+      "description": "",
+      "publishedAt": "2026-04-03T09:49:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3s2vXR1dr6o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3s2vXR1dr6o"
+    },
+    {
+      "id": "2IhpZMY5TiU",
+      "title": "サクラの季節到来！高田城址公園では「観桜会」開幕、新潟市は満開発表【新潟】スーパーJにいがた4月3日OA",
+      "description": "",
+      "publishedAt": "2026-04-03T09:46:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2IhpZMY5TiU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2IhpZMY5TiU"
+    },
+    {
+      "id": "ed3HazC_zug",
+      "title": "県警察学校で警察官116人が入校式に臨む「県民のために安心安全を守る」【新潟】スーパーJにいがた4月3日OA",
+      "description": "",
+      "publishedAt": "2026-04-03T09:46:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ed3HazC_zug/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ed3HazC_zug"
+    },
+    {
+      "id": "5QQFjoCaboo",
+      "title": "土曜は各地で昼過ぎから夕方にかけて雨に、風も次第に強まりそう【これからの天気(4月3日18時20分現在)｜新潟】スーパーJにいがた4月3日OA",
+      "description": "",
+      "publishedAt": "2026-04-03T09:45:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5QQFjoCaboo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5QQFjoCaboo"
+    },
+    {
+      "id": "Ur-XleD6jZo",
+      "title": "自転車の交通違反に反則金『青切符制度』警察が取り締まり「交通ルールを守って安全に」",
+      "description": "",
+      "publishedAt": "2026-04-03T03:30:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ur-XleD6jZo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ur-XleD6jZo"
+    },
+    {
+      "id": "QDVofZFrEvk",
+      "title": "日本三大夜桜で知られる高田城址公園で「観桜会」開幕、サクラは現在3分咲き",
+      "description": "",
+      "publishedAt": "2026-04-03T03:20:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QDVofZFrEvk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QDVofZFrEvk"
+    },
+    {
+      "id": "rW_QnQsS0mo",
+      "title": "各地とも日差しがとどき洗濯日和に 外出の際は紫外線対策を【これからの天気(4月3日11時40分現在)｜新潟】",
+      "description": "",
+      "publishedAt": "2026-04-03T03:15:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rW_QnQsS0mo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rW_QnQsS0mo"
+    },
+    {
+      "id": "bev6H8cHeno",
+      "title": "日本三大夜桜で知られる高田城址公園で「観桜会」開幕、サクラは現在3分咲き【新潟･上越市】UXニュース4月3日OA",
+      "description": "",
+      "publishedAt": "2026-04-03T03:14:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bev6H8cHeno/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bev6H8cHeno"
+    },
+    {
+      "id": "IMU7kdTIP74",
+      "title": "自転車の交通違反に反則金『青切符制度』警察が取り締まり「交通ルールを守って安全に」【新潟】UXニュース4月3日OA",
+      "description": "",
+      "publishedAt": "2026-04-03T03:05:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IMU7kdTIP74/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IMU7kdTIP74"
+    },
+    {
+      "id": "T7dS9kwj7uk",
+      "title": "【特集】インタビュー中に県民栄誉賞の一報！山田琉聖選手「一番楽しまなきゃ」オリンピックの裏側や新潟への思い語る",
+      "description": "",
+      "publishedAt": "2026-04-03T03:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T7dS9kwj7uk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T7dS9kwj7uk"
+    },
     {
       "id": "8KT2xfWWPfs",
       "title": "佐渡市で「春の牛市」開催、最高価格は105.2万円！子牛の価格高騰【新潟】スーパーJにいがた4月2日OA",

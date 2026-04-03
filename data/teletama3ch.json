@@ -1,8 +1,32 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-04-02T16:02:10.150362",
+  "updated_at": "2026-04-03T15:40:19.023716",
   "videos": [
+    {
+      "id": "HI3-NfUB704",
+      "title": "新番組スタート！！！「篠崎彩奈のマネータイム」",
+      "description": "",
+      "publishedAt": "2026-04-03T03:10:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HI3-NfUB704/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HI3-NfUB704"
+    },
+    {
+      "id": "WKgC0-VUZoU",
+      "title": "新番組スタート！！！「ゴッドマァーザー」",
+      "description": "",
+      "publishedAt": "2026-04-03T01:35:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WKgC0-VUZoU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WKgC0-VUZoU"
+    },
     {
       "id": "kDlKT9YsrFA",
       "title": "【就活天国＃１０９】コーナー①「埼玉の働いてみたい会社・仕事発見」株式会社アルプス物流　コーナー②「就活・転職Q＆A」株式会社トーホー・コンストラクション　伊藤社長、工事2部　中村主任",

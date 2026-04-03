@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9r31LvpWhWU0aJdAirOZDQ",
   "channel_name": "テレビ山口（tys）",
-  "updated_at": "2026-03-27T15:55:44.315797",
+  "updated_at": "2026-04-03T15:40:19.712415",
   "videos": [
+    {
+      "id": "zfHxwW_amig",
+      "title": "わんだふる山口2026　4.18～19開催！",
+      "description": "",
+      "publishedAt": "2026-04-03T09:37:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zfHxwW_amig/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zfHxwW_amig"
+    },
     {
       "id": "VUXXORrhIFs",
       "title": "【ライブ配信】山口県下関市・関門橋　ライブカメラ ＜tysテレビ山口【公式】＞",
