@@ -1,8 +1,32 @@
 {
   "channel_id": "UCuY1i-Tic2G2xmox2_0h-Fw",
   "channel_name": "HTB北海道テレビ",
-  "updated_at": "2026-04-03T15:41:24.184781",
+  "updated_at": "2026-04-04T15:35:50.311175",
   "videos": [
+    {
+      "id": "dL8u4spd8fk",
+      "title": "【イチモニ！反省会】出演者がお薦めするイチモニ！反省会アーカイブ",
+      "description": "",
+      "publishedAt": "2026-04-04T06:12:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dL8u4spd8fk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dL8u4spd8fk"
+    },
+    {
+      "id": "tIISwjSHuQQ",
+      "title": "【NiziU イチモニ！インタビュー】#NiziU #WithU #イチモニ！ #HTB",
+      "description": "",
+      "publishedAt": "2026-04-04T03:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tIISwjSHuQQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tIISwjSHuQQ"
+    },
     {
       "id": "z7ElT6RJiiE",
       "title": "【HTBアナに街録】知られざるホンネに迫る！　ナイス街録ちゃん　onちゃん！６チャン‼　春まつり特別版",

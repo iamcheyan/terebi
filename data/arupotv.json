@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-04-03T15:41:36.440907",
+  "updated_at": "2026-04-04T15:36:00.960284",
   "videos": [
+    {
+      "id": "GU_D5H2ecdg",
+      "title": "【番宣】４月１１日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-04-04T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GU_D5H2ecdg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GU_D5H2ecdg"
+    },
+    {
+      "id": "WL2sCQGDLiw",
+      "title": "【番宣】４月１１日（土）ミライのタネ",
+      "description": "",
+      "publishedAt": "2026-04-04T07:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WL2sCQGDLiw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WL2sCQGDLiw"
+    },
     {
       "id": "TxeWDDFinKw",
       "title": "【番宣】４月７日（火）NEWSゲツキン",

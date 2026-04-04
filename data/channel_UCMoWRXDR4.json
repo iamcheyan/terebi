@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-04-03T15:40:49.633645",
+  "updated_at": "2026-04-04T15:35:18.682060",
   "videos": [
+    {
+      "id": "r0hUtlbUhbk",
+      "title": "【トラック人生１本道】#28 日本ロジテム　～君の「おかえり」を聞くために～",
+      "description": "",
+      "publishedAt": "2026-04-04T12:01:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r0hUtlbUhbk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r0hUtlbUhbk"
+    },
     {
       "id": "ipTsB1GHn58",
       "title": "『金曜競馬CLUB NEO』中村愛の勝馬ラボ（2026/4/3放送分）【チバテレ公式】",
