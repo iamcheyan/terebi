@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-04-03T15:41:36.004121",
+  "updated_at": "2026-04-05T15:36:40.035932",
   "videos": [
+    {
+      "id": "x4c0k7chVOo",
+      "title": "RKCアプリ漢字クイズ 3/30の問題 ～📺新番組こうちeye More！MC🎤髙橋生＆髙橋龍介アナウンサーのヒント～",
+      "description": "",
+      "publishedAt": "2026-04-05T15:01:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x4c0k7chVOo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x4c0k7chVOo"
+    },
+    {
+      "id": "5uNXguONPWI",
+      "title": "高知城花回廊2026🌸",
+      "description": "",
+      "publishedAt": "2026-04-04T23:28:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5uNXguONPWI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5uNXguONPWI"
+    },
     {
       "id": "0Gs5gJ7I8J4",
       "title": "【アーカイブ配信】第1回高知県コンストラクション甲子園 ～高校生建設業クイズ大会～",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCuY1i-Tic2G2xmox2_0h-Fw",
   "channel_name": "HTB北海道テレビ",
-  "updated_at": "2026-04-04T15:35:50.311175",
+  "updated_at": "2026-04-05T15:36:34.129862",
   "videos": [
+    {
+      "id": "xbZAOFEZBxg",
+      "title": "【NiziU イチモニ！インタビュー】#NiziU #WithU #イチモニ！ #HTB",
+      "description": "",
+      "publishedAt": "2026-04-05T03:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xbZAOFEZBxg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xbZAOFEZBxg"
+    },
     {
       "id": "dL8u4spd8fk",
       "title": "【イチモニ！反省会】出演者がお薦めするイチモニ！反省会アーカイブ",

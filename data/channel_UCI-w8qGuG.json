@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-04-03T15:40:39.367530",
+  "updated_at": "2026-04-05T15:36:27.379289",
   "videos": [
+    {
+      "id": "joH_yydYVgQ",
+      "title": "体育館で米10合炊く高校バスケ",
+      "description": "",
+      "publishedAt": "2026-04-05T08:20:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/joH_yydYVgQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=joH_yydYVgQ"
+    },
     {
       "id": "uedAo-QNEEs",
       "title": "【アオハル】ゲスト多田梨音さんから応援コメント！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-04-04T15:35:54.853224",
+  "updated_at": "2026-04-05T15:36:37.105544",
   "videos": [
+    {
+      "id": "oo2yD5GjBoM",
+      "title": "いまコレ！かごしま市　4月5日(土)",
+      "description": "",
+      "publishedAt": "2026-04-05T06:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oo2yD5GjBoM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oo2yD5GjBoM"
+    },
     {
       "id": "g6JP5QlwmoM",
       "title": "【わんにゃんプラスかごしま】「家族の愛情に包まれて♪」",
