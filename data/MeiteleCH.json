@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-04-03T15:41:04.610406",
+  "updated_at": "2026-04-06T15:51:41.568018",
   "videos": [
+    {
+      "id": "x-RQ4TVGo0k",
+      "title": "声舞劇(せいぶげき)！終活を始めた途端、55歳の息子が帰ってきました",
+      "description": "",
+      "publishedAt": "2026-04-06T08:23:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x-RQ4TVGo0k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x-RQ4TVGo0k"
+    },
+    {
+      "id": "6DskAXbF_pE",
+      "title": "超町人！チョコレートサムネット 4/12(日)名古屋・港区編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-04-06T07:54:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6DskAXbF_pE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6DskAXbF_pE"
+    },
     {
       "id": "Tj1CETMyNg8",
       "title": "【大財アナ】受験会場に行くまでが大変😰佐賀から東京へ…落ち着いて受験ができた理由【アナメロ】",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-04-04T15:35:56.555948",
+  "updated_at": "2026-04-06T15:52:14.347419",
   "videos": [
+    {
+      "id": "-PvMfLVQAQE",
+      "title": "2026年4月3日放送",
+      "description": "",
+      "publishedAt": "2026-04-06T05:50:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-PvMfLVQAQE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-PvMfLVQAQE"
+    },
+    {
+      "id": "SmNB2_WKwqo",
+      "title": "2026年4月2日放送",
+      "description": "",
+      "publishedAt": "2026-04-06T05:50:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SmNB2_WKwqo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SmNB2_WKwqo"
+    },
+    {
+      "id": "JEZYZAYZ53M",
+      "title": "2026年4月1日放送",
+      "description": "",
+      "publishedAt": "2026-04-06T05:40:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JEZYZAYZ53M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JEZYZAYZ53M"
+    },
     {
       "id": "hlUyqrGNqMU",
       "title": "アフタートーク",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-04-04T15:35:27.998984",
+  "updated_at": "2026-04-06T15:51:37.469085",
   "videos": [
+    {
+      "id": "70JarazAkGU",
+      "title": "ハマナビ　2026年4月4日放送　ようこそ横浜2026",
+      "description": "",
+      "publishedAt": "2026-04-06T09:27:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/70JarazAkGU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=70JarazAkGU"
+    },
+    {
+      "id": "CjGH_QeGj-M",
+      "title": "カナフルTV　次回予告（4月12日放送）",
+      "description": "",
+      "publishedAt": "2026-04-06T04:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CjGH_QeGj-M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CjGH_QeGj-M"
+    },
+    {
+      "id": "xqtnqeCwvAU",
+      "title": "LOVEかわさき　4月4日放送　音楽・文化芸術の祭典 アルテリッカしんゆり",
+      "description": "",
+      "publishedAt": "2026-04-06T02:54:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xqtnqeCwvAU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xqtnqeCwvAU"
+    },
     {
       "id": "fDQ_bTi6xGo",
       "title": "ハマナビ　2026年4月4日放送　ようこそ横浜2026",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-04-03T15:40:42.850238",
+  "updated_at": "2026-04-06T15:52:00.070524",
   "videos": [
+    {
+      "id": "CG-0hwBeXyI",
+      "title": "日本まんなか直送便「豊臣秀長ゆかりで！金魚のまち！ー大和郡山ー」",
+      "description": "",
+      "publishedAt": "2026-04-06T03:58:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CG-0hwBeXyI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CG-0hwBeXyI"
+    },
     {
       "id": "VwLMLksdVww",
       "title": "上武建設株式会社【発見！NARA Corporate File】",

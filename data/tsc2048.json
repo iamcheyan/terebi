@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-04-05T15:36:22.301494",
+  "updated_at": "2026-04-06T15:51:36.549069",
   "videos": [
+    {
+      "id": "lrkWDZJcU74",
+      "title": "【お知らせ】4月からのプライドは新メンバーでお送りします！",
+      "description": "",
+      "publishedAt": "2026-04-06T06:39:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lrkWDZJcU74/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lrkWDZJcU74"
+    },
+    {
+      "id": "GirGEVglI_A",
+      "title": "4月11日のプライドは倉敷市のタケシンパッケージ",
+      "description": "",
+      "publishedAt": "2026-04-06T01:03:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GirGEVglI_A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GirGEVglI_A"
+    },
     {
       "id": "bAVltEKY8ag",
       "title": "しまじろうのわお！　#719「みみりんと　わたしたち」【4/11（土）放送📺】",

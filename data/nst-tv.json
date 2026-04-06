@@ -1,8 +1,188 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
   "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2026-04-05T15:36:11.122459",
+  "updated_at": "2026-04-06T15:51:38.082013",
   "videos": [
+    {
+      "id": "aH3iXxALpYQ",
+      "title": "News@9, Monday, Apr 6",
+      "description": "",
+      "publishedAt": "2026-04-06T13:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aH3iXxALpYQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aH3iXxALpYQ"
+    },
+    {
+      "id": "4cCle7KgfxE",
+      "title": "MARKET PULSE PM APRIL 6, 2026",
+      "description": "",
+      "publishedAt": "2026-04-06T11:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4cCle7KgfxE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4cCle7KgfxE"
+    },
+    {
+      "id": "RdksiecLJJ4",
+      "title": "Kedah Customs foils bid to smuggle 46kg of drugs worth RM4 million",
+      "description": "",
+      "publishedAt": "2026-04-06T09:12:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RdksiecLJJ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RdksiecLJJ4"
+    },
+    {
+      "id": "iwJ990ObvWc",
+      "title": "Karam's last night: A final hug for his 'brother' Yazzer",
+      "description": "",
+      "publishedAt": "2026-04-06T09:06:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iwJ990ObvWc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iwJ990ObvWc"
+    },
+    {
+      "id": "ehLEvQj2TPM",
+      "title": "NRD: Using family members' MyKad for subsidised fuel is illegal",
+      "description": "",
+      "publishedAt": "2026-04-06T08:05:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ehLEvQj2TPM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ehLEvQj2TPM"
+    },
+    {
+      "id": "LPbH0ggTwBM",
+      "title": "Jasbant: Karam Singh Walia was brother, mentor, icon in journalism",
+      "description": "",
+      "publishedAt": "2026-04-06T08:05:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LPbH0ggTwBM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LPbH0ggTwBM"
+    },
+    {
+      "id": "DV67rHldhdY",
+      "title": "Tony Fernandes confirms June 26 take-off for KL-Bahrain flights",
+      "description": "",
+      "publishedAt": "2026-04-06T07:37:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DV67rHldhdY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DV67rHldhdY"
+    },
+    {
+      "id": "rtqlwX7CMDI",
+      "title": "Former civil servant, friend charged with smuggling 77 foreigners in lorry",
+      "description": "",
+      "publishedAt": "2026-04-06T05:35:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rtqlwX7CMDI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rtqlwX7CMDI"
+    },
+    {
+      "id": "TX2y-irVOUg",
+      "title": "DoE deputy D-G faces fresh charge over bribe linked to home renovations",
+      "description": "",
+      "publishedAt": "2026-04-06T04:04:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TX2y-irVOUg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TX2y-irVOUg"
+    },
+    {
+      "id": "4uVm_RTVkf0",
+      "title": "Daim's daughter arrives at MACC HQ to give statement",
+      "description": "",
+      "publishedAt": "2026-04-06T03:55:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4uVm_RTVkf0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4uVm_RTVkf0"
+    },
+    {
+      "id": "GcckHE1k8o8",
+      "title": "Foreign factory worker found dead with stab wound in Penang",
+      "description": "",
+      "publishedAt": "2026-04-06T03:25:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GcckHE1k8o8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GcckHE1k8o8"
+    },
+    {
+      "id": "il-wi0XFvCw",
+      "title": "Former TV3 journalist Karam Singh Walia dies",
+      "description": "",
+      "publishedAt": "2026-04-06T03:24:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/il-wi0XFvCw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=il-wi0XFvCw"
+    },
+    {
+      "id": "nsvX25Qm1F4",
+      "title": "MARKET PULSE AM APRIL 6, 2026",
+      "description": "",
+      "publishedAt": "2026-04-06T03:00:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nsvX25Qm1F4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nsvX25Qm1F4"
+    },
+    {
+      "id": "wknhgG9Gs0M",
+      "title": "Sunway's IJM takeover bid: The final countdown",
+      "description": "",
+      "publishedAt": "2026-04-06T02:44:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wknhgG9Gs0M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wknhgG9Gs0M"
+    },
+    {
+      "id": "ACCCJ7j57Qg",
+      "title": "[LIVE] Announcement by Prime Minister Datuk Seri Anwar Ibrahim on Global Oil Crisis",
+      "description": "",
+      "publishedAt": "2026-04-06T02:12:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ACCCJ7j57Qg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ACCCJ7j57Qg"
+    },
     {
       "id": "5UKKKAKZl6E",
       "title": "3 Bangladeshis, Thai national jailed for overstaying and illegal entry",
