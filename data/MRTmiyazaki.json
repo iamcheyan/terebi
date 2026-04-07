@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-04-06T15:52:14.347419",
+  "updated_at": "2026-04-07T16:12:00.450961",
   "videos": [
+    {
+      "id": "48OEK3x50Ms",
+      "title": "けんかでGO!GO!2026年4月3日放送",
+      "description": "",
+      "publishedAt": "2026-04-07T02:19:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/48OEK3x50Ms/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=48OEK3x50Ms"
+    },
     {
       "id": "-PvMfLVQAQE",
       "title": "2026年4月3日放送",

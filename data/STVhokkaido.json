@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-04-01T16:08:01.800585",
+  "updated_at": "2026-04-07T16:12:04.325056",
   "videos": [
+    {
+      "id": "7VEYBRO5vd4",
+      "title": "#1キットカットpresentsきっと青春の1ページ部活応援北海道編",
+      "description": "",
+      "publishedAt": "2026-04-07T08:52:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7VEYBRO5vd4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7VEYBRO5vd4"
+    },
     {
       "id": "b_6KIsubk0g",
       "title": "【どさんこWEEKEND】「北海道のエネルギーの未来」②　2026年3月28日放送",

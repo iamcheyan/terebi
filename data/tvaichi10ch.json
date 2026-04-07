@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-04-06T15:51:49.325753",
+  "updated_at": "2026-04-07T16:11:40.901469",
   "videos": [
+    {
+      "id": "HxYiOFrz3NA",
+      "title": "【精器商会】デジタル技術で業務の効率化と省人化をはかる【開発現場へ行こう #58】",
+      "description": "",
+      "publishedAt": "2026-04-07T14:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HxYiOFrz3NA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HxYiOFrz3NA"
+    },
     {
       "id": "je1ENOGYY-I",
       "title": "【LBS】”名鉄”外商部隊が再起動",

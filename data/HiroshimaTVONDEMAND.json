@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-04-06T15:51:27.160234",
+  "updated_at": "2026-04-07T16:11:41.726609",
   "videos": [
+    {
+      "id": "VdaUog1ZoDo",
+      "title": "【キッズチャレンジスタジアム】えいとくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-04-07T09:00:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VdaUog1ZoDo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VdaUog1ZoDo"
+    },
+    {
+      "id": "3jGmzBdsxZE",
+      "title": "きっと青春の1ページ　ＰＲ",
+      "description": "",
+      "publishedAt": "2026-04-07T08:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3jGmzBdsxZE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3jGmzBdsxZE"
+    },
     {
       "id": "Fui-p4chICE",
       "title": "【ほろ苦さの中で甘みがふわっと広がって…！】カープ選手も訪れた\"光り輝く\"喫茶店",

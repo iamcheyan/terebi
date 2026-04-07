@@ -1,8 +1,80 @@
 {
   "channel_id": "UC8Y0ZErdlAnA9uW7ZeRdreQ",
   "channel_name": "FCT福島中央テレビNEWS",
-  "updated_at": "2026-04-06T15:52:06.150849",
+  "updated_at": "2026-04-07T16:11:54.325419",
   "videos": [
+    {
+      "id": "F1cDt7ygbCo",
+      "title": "天皇ご一家が富岡町や大熊町をご訪問　被災者らと懇談　ねぎらいの言葉をかける",
+      "description": "",
+      "publishedAt": "2026-04-07T09:40:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F1cDt7ygbCo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F1cDt7ygbCo"
+    },
+    {
+      "id": "pN_YMcj6VuA",
+      "title": "郡山市の中心部に体長１．５メートルのクマ　捕獲できず夜間の監視体制へ　明朝追い払いを再開",
+      "description": "",
+      "publishedAt": "2026-04-07T09:40:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pN_YMcj6VuA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pN_YMcj6VuA"
+    },
+    {
+      "id": "O4EgG4l7QMU",
+      "title": "郡山市でクマの目撃相次ぐ　７日午後４時現在　クマは住宅街近くの藪の中？　市と警察の警戒続く",
+      "description": "",
+      "publishedAt": "2026-04-07T08:48:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O4EgG4l7QMU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O4EgG4l7QMU"
+    },
+    {
+      "id": "bubHs00vy8s",
+      "title": "「外部への放射能の影響はない」福島第二原発１号機　使用済み燃料プールの冷却再開",
+      "description": "",
+      "publishedAt": "2026-04-07T03:37:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bubHs00vy8s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bubHs00vy8s"
+    },
+    {
+      "id": "fUo7g8VezeI",
+      "title": "【続報】熊は住宅街付近に移動か…郡山市中心部で体長約1.5ｍの熊目撃　学校は登校の自粛呼びかけ　福島",
+      "description": "",
+      "publishedAt": "2026-04-07T03:36:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fUo7g8VezeI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fUo7g8VezeI"
+    },
+    {
+      "id": "PKpL84KjmBo",
+      "title": "天皇ご一家が「とみおかアーカイブ・ミュージアム」を視察される　福島",
+      "description": "",
+      "publishedAt": "2026-04-07T03:36:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PKpL84KjmBo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PKpL84KjmBo"
+    },
     {
       "id": "5jQXiZruVF0",
       "title": "中田翔さん登場…「福島レッドホープス」ホーム開幕戦　福島",

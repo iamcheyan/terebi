@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-06T15:52:23.042948",
+  "updated_at": "2026-04-07T16:12:06.385620",
   "videos": [
+    {
+      "id": "77cm7tbq9xo",
+      "title": "今日の５きげんテレビ（4月8日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-07T15:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/77cm7tbq9xo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=77cm7tbq9xo"
+    },
+    {
+      "id": "tatoNWFW2Sc",
+      "title": "５きげん知恵袋 ～新生活！フルーツでフレッシュスタート！～",
+      "description": "",
+      "publishedAt": "2026-04-07T08:55:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tatoNWFW2Sc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tatoNWFW2Sc"
+    },
+    {
+      "id": "f9CPC-RVMN0",
+      "title": "５きげんクッキング ～イチゴのティラミス～",
+      "description": "",
+      "publishedAt": "2026-04-07T08:24:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/f9CPC-RVMN0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=f9CPC-RVMN0"
+    },
     {
       "id": "_jgMTOlCQzc",
       "title": "今日の５きげんテレビ（4月7日）｜テレビ岩手",

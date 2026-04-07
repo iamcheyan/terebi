@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-04-06T15:51:58.265225",
+  "updated_at": "2026-04-07T16:11:20.331291",
   "videos": [
+    {
+      "id": "gGKXNdgbSAA",
+      "title": "暮らしのカルチャー＆健康タイム　ゆったり太極拳　第2回",
+      "description": "",
+      "publishedAt": "2026-04-07T05:15:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gGKXNdgbSAA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gGKXNdgbSAA"
+    },
     {
       "id": "uuUFiekhBx8",
       "title": "和歌山市立中学校の全員給食 4/20から開始 中学校給食センターが開所式 和歌山県",
