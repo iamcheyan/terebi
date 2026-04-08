@@ -1,8 +1,188 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
   "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2026-04-07T16:11:31.090205",
+  "updated_at": "2026-04-08T16:17:23.732624",
   "videos": [
+    {
+      "id": "K4s9eqNngfo",
+      "title": "News@9 – Wednesday, April 8",
+      "description": "",
+      "publishedAt": "2026-04-08T13:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K4s9eqNngfo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K4s9eqNngfo"
+    },
+    {
+      "id": "cRSZ-3g762c",
+      "title": "Market Pulse PM April 8, 2026",
+      "description": "",
+      "publishedAt": "2026-04-08T11:01:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cRSZ-3g762c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cRSZ-3g762c"
+    },
+    {
+      "id": "KhjrJoxFFno",
+      "title": "2,286 employers compounded RM42.6mil for hiring undocumented foreigners",
+      "description": "",
+      "publishedAt": "2026-04-08T09:10:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KhjrJoxFFno/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KhjrJoxFFno"
+    },
+    {
+      "id": "7wBOF6J6-co",
+      "title": "Court dismisses A G objection in Bar's appeal over Zahid case",
+      "description": "",
+      "publishedAt": "2026-04-08T09:07:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7wBOF6J6-co/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7wBOF6J6-co"
+    },
+    {
+      "id": "cxWNHXVqa9c",
+      "title": "4 arrested in Buntong parang attack which left one dead",
+      "description": "",
+      "publishedAt": "2026-04-08T08:31:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cxWNHXVqa9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cxWNHXVqa9c"
+    },
+    {
+      "id": "RN0ZGXbyUOI",
+      "title": "Selangor top M-League charts for World Cup-bound internationals",
+      "description": "",
+      "publishedAt": "2026-04-08T08:27:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RN0ZGXbyUOI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RN0ZGXbyUOI"
+    },
+    {
+      "id": "UXLNhwR8OFo",
+      "title": "Trump: Iran deal 'total and complete victory' for US",
+      "description": "",
+      "publishedAt": "2026-04-08T07:45:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UXLNhwR8OFo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UXLNhwR8OFo"
+    },
+    {
+      "id": "UHDmUTuObcc",
+      "title": "Agassi: Pickleball rightfully has its place at the Olympics",
+      "description": "",
+      "publishedAt": "2026-04-08T07:28:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UHDmUTuObcc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UHDmUTuObcc"
+    },
+    {
+      "id": "A4hGEeM2TH4",
+      "title": "Eldest son misses Dr Ling funeral due to treatment abroad",
+      "description": "",
+      "publishedAt": "2026-04-08T07:16:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A4hGEeM2TH4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A4hGEeM2TH4"
+    },
+    {
+      "id": "FDJIrUVAwQA",
+      "title": "Govt opts for Budi95 quota cut to protect majority",
+      "description": "",
+      "publishedAt": "2026-04-08T04:59:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FDJIrUVAwQA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FDJIrUVAwQA"
+    },
+    {
+      "id": "YKjD1dBuJ8c",
+      "title": "Govt studying MyKad use for targeted diesel subsidies",
+      "description": "",
+      "publishedAt": "2026-04-08T04:06:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YKjD1dBuJ8c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YKjD1dBuJ8c"
+    },
+    {
+      "id": "rM6hGoCrG5w",
+      "title": "Trump suspends Iran bombing for two weeks, after apocalyptic threats",
+      "description": "",
+      "publishedAt": "2026-04-08T03:42:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rM6hGoCrG5w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rM6hGoCrG5w"
+    },
+    {
+      "id": "Z6wlNmgOSiE",
+      "title": "Iran reports strikes on bridges, key highway and railways",
+      "description": "",
+      "publishedAt": "2026-04-08T03:24:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z6wlNmgOSiE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z6wlNmgOSiE"
+    },
+    {
+      "id": "mRJF7E3k0DE",
+      "title": "US crude slumps below US$100 after Trump announces two-week ceasefire",
+      "description": "",
+      "publishedAt": "2026-04-08T03:16:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mRJF7E3k0DE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mRJF7E3k0DE"
+    },
+    {
+      "id": "7YL4SJHa6lg",
+      "title": "Iran 10 point plan says US must accept uranium enrichment, lift all sanctions",
+      "description": "",
+      "publishedAt": "2026-04-08T03:06:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7YL4SJHa6lg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7YL4SJHa6lg"
+    },
     {
       "id": "XhVwEt7iPHw",
       "title": "News@9, Tuesday, April 7",

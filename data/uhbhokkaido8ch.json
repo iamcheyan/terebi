@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-04-07T16:12:07.391058",
+  "updated_at": "2026-04-08T16:17:48.656941",
   "videos": [
+    {
+      "id": "mO5WtRc4mBw",
+      "title": "みんテレ　4月9日（木）放送",
+      "description": "",
+      "publishedAt": "2026-04-08T10:01:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mO5WtRc4mBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mO5WtRc4mBw"
+    },
+    {
+      "id": "D9NwbQXkpXA",
+      "title": "いっとこ！：4月11日（土）放送",
+      "description": "",
+      "publishedAt": "2026-04-08T09:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D9NwbQXkpXA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D9NwbQXkpXA"
+    },
     {
       "id": "GhkcMfhHN6E",
       "title": "みんテレ　4月8日（水）放送",

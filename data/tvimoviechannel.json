@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-07T16:12:06.385620",
+  "updated_at": "2026-04-08T16:17:47.173634",
   "videos": [
+    {
+      "id": "VkNLS9Ns9bA",
+      "title": "今日の５きげんテレビ（4月9日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-08T15:01:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VkNLS9Ns9bA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VkNLS9Ns9bA"
+    },
+    {
+      "id": "Yt-YfwzWndQ",
+      "title": "もじゃさんがアーチェリーに挑戦！",
+      "description": "",
+      "publishedAt": "2026-04-08T10:41:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yt-YfwzWndQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yt-YfwzWndQ"
+    },
+    {
+      "id": "KceMwOL8b6c",
+      "title": "５きげんクッキング ～コーンつくね～",
+      "description": "",
+      "publishedAt": "2026-04-08T10:19:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KceMwOL8b6c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KceMwOL8b6c"
+    },
     {
       "id": "77cm7tbq9xo",
       "title": "今日の５きげんテレビ（4月8日）｜テレビ岩手",

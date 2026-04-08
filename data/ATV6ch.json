@@ -1,8 +1,32 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-04-06T15:51:22.431141",
+  "updated_at": "2026-04-08T16:17:11.571953",
   "videos": [
+    {
+      "id": "IdHx7T-j_cc",
+      "title": "【#旅々スミマセン】ドロスコ舞　黒石八郎＆川口浩一（おじコンビ）",
+      "description": "",
+      "publishedAt": "2026-04-08T10:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IdHx7T-j_cc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IdHx7T-j_cc"
+    },
+    {
+      "id": "5QARQYk0TwI",
+      "title": "【#タマ伸也のドライ風呂・Season2】2種類の源泉が流れ出る珍しい温泉　お湯を行き来する『交互浴』で極楽気分  [青森の温泉 Aomori ONSEN] 六戸町",
+      "description": "",
+      "publishedAt": "2026-04-08T08:30:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5QARQYk0TwI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5QARQYk0TwI"
+    },
     {
       "id": "VnUZ1OUQc-Y",
       "title": "【#旅々スミマセン】青森市浪岡でアポなし散歩　創業当時から変わらないあっさり風味のラーメンと煮干しと焼き干でスープを取った出汁香るラーメンに箸が止まらない",

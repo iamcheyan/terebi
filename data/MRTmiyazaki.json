@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-04-07T16:12:00.450961",
+  "updated_at": "2026-04-08T16:17:42.528449",
   "videos": [
+    {
+      "id": "QC0r5vTGcXA",
+      "title": "GO!GO! CookingZX",
+      "description": "",
+      "publishedAt": "2026-04-08T05:39:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QC0r5vTGcXA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QC0r5vTGcXA"
+    },
     {
       "id": "48OEK3x50Ms",
       "title": "けんかでGO!GO!2026年4月3日放送",
