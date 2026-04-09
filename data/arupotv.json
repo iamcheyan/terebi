@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-04-08T16:17:44.409452",
+  "updated_at": "2026-04-09T16:20:41.441714",
   "videos": [
+    {
+      "id": "V-apjZrD8bA",
+      "title": "【番宣】４月１３日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-04-09T06:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V-apjZrD8bA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V-apjZrD8bA"
+    },
+    {
+      "id": "4Vl4D4Ule60",
+      "title": "【番宣】４月２２日（水）おかえり熊本 特別編",
+      "description": "",
+      "publishedAt": "2026-04-09T05:58:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4Vl4D4Ule60/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4Vl4D4Ule60"
+    },
     {
       "id": "qKTawEeAGjI",
       "title": "【番宣】４月１５日（水）NEWSゲツキン特別版「熊本地震から10年『ふるさとに立つ』」",

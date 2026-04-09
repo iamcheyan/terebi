@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-04-08T16:17:07.216245",
+  "updated_at": "2026-04-09T16:19:59.815933",
   "videos": [
+    {
+      "id": "noIpsiHNvHk",
+      "title": "【プラス1ダイジェスト】4/9(木) のニュース",
+      "description": "",
+      "publishedAt": "2026-04-09T10:15:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/noIpsiHNvHk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=noIpsiHNvHk"
+    },
+    {
+      "id": "BL3K0UnrfPg",
+      "title": "元気○（マル）らいふ　【花粉食物アレルギー症候群】（2026/4/8放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-04-09T09:13:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BL3K0UnrfPg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BL3K0UnrfPg"
+    },
     {
       "id": "pMN_oWEeYz4",
       "title": "【プラス1ダイジェスト】4/8(水) のニュース",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-08T16:17:47.173634",
+  "updated_at": "2026-04-09T16:20:46.472332",
   "videos": [
+    {
+      "id": "BuIuVOAU_QU",
+      "title": "今日の５きげんテレビ（4月10日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-09T15:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BuIuVOAU_QU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BuIuVOAU_QU"
+    },
+    {
+      "id": "q05a6GWC7hU",
+      "title": "”焼く”だけではない！？新スタイルの焼肉店",
+      "description": "",
+      "publishedAt": "2026-04-09T10:14:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q05a6GWC7hU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q05a6GWC7hU"
+    },
+    {
+      "id": "F4R5gpr-7JA",
+      "title": "５きげんクッキング ～牛肉とキノコの早うま！ハヤシ～",
+      "description": "",
+      "publishedAt": "2026-04-09T08:25:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F4R5gpr-7JA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F4R5gpr-7JA"
+    },
     {
       "id": "VkNLS9Ns9bA",
       "title": "今日の５きげんテレビ（4月9日）｜テレビ岩手",

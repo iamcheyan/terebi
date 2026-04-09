@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-04-06T15:51:39.940996",
+  "updated_at": "2026-04-09T16:20:05.133018",
   "videos": [
+    {
+      "id": "l3MVJHUTt4E",
+      "title": "【特別展「鳥」】迫力満点！！“空のハンター”たちが至近距離に！！",
+      "description": "",
+      "publishedAt": "2026-04-09T11:04:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l3MVJHUTt4E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l3MVJHUTt4E"
+    },
     {
       "id": "-T8I_LYEQ84",
       "title": "【よゐこ有野】この街、攻略しとく？大阪・西九条をぶーらぶら！ ～番組開始1周年！有野の地元で強キャラ同級生に遭遇の巻～",
