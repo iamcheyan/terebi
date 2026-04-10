@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-04-09T16:20:45.630556",
+  "updated_at": "2026-04-10T15:56:42.683198",
   "videos": [
+    {
+      "id": "gPsTAyZtv_w",
+      "title": "【公式】2026年4月17日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-10T11:01:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gPsTAyZtv_w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gPsTAyZtv_w"
+    },
+    {
+      "id": "GOESH2JT66E",
+      "title": "【公式】「はじめての特技」（04月10日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-10T03:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GOESH2JT66E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GOESH2JT66E"
+    },
     {
       "id": "cqNKK9tx7VM",
       "title": "【きっと青春の１ページ　福岡県編】#1 精華女子高等学校　吹奏楽部",

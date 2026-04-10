@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-04-09T16:20:45.917670",
+  "updated_at": "2026-04-10T15:56:42.880220",
   "videos": [
+    {
+      "id": "sWYiGu5gLBI",
+      "title": "シューイチ是非ご覧ください！！",
+      "description": "",
+      "publishedAt": "2026-04-10T02:20:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sWYiGu5gLBI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sWYiGu5gLBI"
+    },
     {
       "id": "vpopqZo-Z5s",
       "title": "シューイチ全国うまいもの博の魅力をお伝えします！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-04-09T16:19:51.731387",
+  "updated_at": "2026-04-10T15:56:19.695625",
   "videos": [
+    {
+      "id": "9WJ3bX4GddE",
+      "title": "【名古屋】次世代アーティストが集結する新音楽フェス「Ai FES」 始動！",
+      "description": "",
+      "publishedAt": "2026-04-10T09:20:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9WJ3bX4GddE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9WJ3bX4GddE"
+    },
     {
       "id": "bVjXxocjuYk",
       "title": "巣立て！トヨタの若き技術者たち【クルマとミライ】",

@@ -1,8 +1,68 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-04-09T16:19:44.812857",
+  "updated_at": "2026-04-10T15:56:27.996828",
   "videos": [
+    {
+      "id": "O0ZzB0unzDU",
+      "title": "切なる願い",
+      "description": "",
+      "publishedAt": "2026-04-10T09:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O0ZzB0unzDU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O0ZzB0unzDU"
+    },
+    {
+      "id": "OaErmc0yk9o",
+      "title": "「news おかえり」4月13日 （月）午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-04-10T08:33:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OaErmc0yk9o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OaErmc0yk9o"
+    },
+    {
+      "id": "ipWNATEGmuo",
+      "title": "海外の旅はマカオ！ゲストの旅はDAIGO！「旅サラダ」4月11日（土）放送",
+      "description": "",
+      "publishedAt": "2026-04-10T01:40:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ipWNATEGmuo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ipWNATEGmuo"
+    },
+    {
+      "id": "90ng3Yx-1Cs",
+      "title": "『リア突WEST. レボリューション』4月11日（土）深夜0時放送",
+      "description": "",
+      "publishedAt": "2026-04-10T01:40:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/90ng3Yx-1Cs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=90ng3Yx-1Cs"
+    },
+    {
+      "id": "39B3zuRhsS4",
+      "title": "「なるみ・岡村の過ぎるTV」4月13日（月）放送",
+      "description": "",
+      "publishedAt": "2026-04-10T01:08:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/39B3zuRhsS4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=39B3zuRhsS4"
+    },
     {
       "id": "pMJ3UghCZVw",
       "title": "永野「愛されようとした」過去",

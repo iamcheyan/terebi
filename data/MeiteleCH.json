@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-04-06T15:51:41.568018",
+  "updated_at": "2026-04-10T15:56:27.883125",
   "videos": [
+    {
+      "id": "pciHwZuMuMg",
+      "title": "【予告】おぎやはぎのハピキャン【エピソード55－2】",
+      "description": "",
+      "publishedAt": "2026-04-10T02:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pciHwZuMuMg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pciHwZuMuMg"
+    },
     {
       "id": "x-RQ4TVGo0k",
       "title": "声舞劇(せいぶげき)！終活を始めた途端、55歳の息子が帰ってきました",

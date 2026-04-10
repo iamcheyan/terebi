@@ -1,12 +1,1100 @@
 {
-  "generated_at": "2026-04-09T16:22:54.986521",
+  "generated_at": "2026-04-10T15:58:32.947188",
   "period": "最近30天",
   "statistics": {
     "total_commits": 29,
-    "total_files_changed": 3059,
-    "channels_updated": 160
+    "total_files_changed": 3050,
+    "channels_updated": 159
   },
   "commits": [
+    {
+      "hash": "d8ba7c2",
+      "date": "2026-04-09 16:22:55",
+      "timestamp": 1775751775,
+      "message": "🤖 自動更新 - 2026-04-10 01:22:55 JST",
+      "files": [
+        {
+          "status": "M",
+          "path": "data/%E3%81%8E%E3%81%B5%E3%83%81%E3%83%A3%E3%83%B3%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB.json",
+          "channel": "%E3%81%8E%E3%81%B5%E3%83%81%E3%83%A3%E3%83%B3%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+          "display_name": "ぎふチャン（岐阜放送）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@%E3%81%8E%E3%81%B5%E3%83%81%E3%83%A3%E3%83%B3%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+        },
+        {
+          "status": "M",
+          "path": "data/4chtsb.json",
+          "channel": "4chtsb",
+          "display_name": "TSBテレビ信州",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@4chtsb"
+        },
+        {
+          "status": "M",
+          "path": "data/6sbc.json",
+          "channel": "6sbc",
+          "display_name": "SBC信越放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@6sbc"
+        },
+        {
+          "status": "M",
+          "path": "data/ABS4ch.json",
+          "channel": "ABS4ch",
+          "display_name": "ABS秋田放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@ABS4ch"
+        },
+        {
+          "status": "M",
+          "path": "data/ATV6ch.json",
+          "channel": "ATV6ch",
+          "display_name": "ATV青森テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@ATV6ch"
+        },
+        {
+          "status": "M",
+          "path": "data/BBC_biwako.json",
+          "channel": "BBC_biwako",
+          "display_name": "びわ湖放送（BBC）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@BBC_biwako"
+        },
+        {
+          "status": "M",
+          "path": "data/CHUKYOTV_NEWS.json",
+          "channel": "CHUKYOTV_NEWS",
+          "display_name": "中京テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@CHUKYOTV_NEWS"
+        },
+        {
+          "status": "M",
+          "path": "data/FNNnewsCH.json",
+          "channel": "FNNnewsCH",
+          "display_name": "FNNプライムオンライン",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "フジテレビ系",
+          "url": "https://www.youtube.com/@FNNnewsCH"
+        },
+        {
+          "status": "M",
+          "path": "data/GTV.json",
+          "channel": "GTV",
+          "display_name": "群馬テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "関東地方",
+          "url": "https://www.youtube.com/@GTV"
+        },
+        {
+          "status": "M",
+          "path": "data/HBChokkaido.json",
+          "channel": "HBChokkaido",
+          "display_name": "HBC北海道放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "北海道地方",
+          "url": "https://www.youtube.com/@HBChokkaido"
+        },
+        {
+          "status": "M",
+          "path": "data/HiroshimaTVONDEMAND.json",
+          "channel": "HiroshimaTVONDEMAND",
+          "display_name": "広島ホームテレビ（HOME）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@HiroshimaTVONDEMAND"
+        },
+        {
+          "status": "M",
+          "path": "data/IwateAsahiTV.json",
+          "channel": "IwateAsahiTV",
+          "display_name": "IAT岩手朝日テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@IwateAsahiTV"
+        },
+        {
+          "status": "M",
+          "path": "data/KBCmovie.json",
+          "channel": "KBCmovie",
+          "display_name": "KBC九州朝日放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@KBCmovie"
+        },
+        {
+          "status": "M",
+          "path": "data/KKB5ch.json",
+          "channel": "KKB5ch",
+          "display_name": "KKB鹿児島放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@KKB5ch"
+        },
+        {
+          "status": "M",
+          "path": "data/KKT.json",
+          "channel": "KKT",
+          "display_name": "KKTくまもと県民テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@KKT"
+        },
+        {
+          "status": "M",
+          "path": "data/KTN.nagasaki.json",
+          "channel": "KTN.nagasaki",
+          "display_name": "KTNテレビ長崎",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@KTN.nagasaki"
+        },
+        {
+          "status": "M",
+          "path": "data/KagoshimaMBC.json",
+          "channel": "KagoshimaMBC",
+          "display_name": "MBC南日本放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@KagoshimaMBC"
+        },
+        {
+          "status": "M",
+          "path": "data/KagoshimaNEWS_KYT.json",
+          "channel": "KagoshimaNEWS_KYT",
+          "display_name": "KYT鹿児島読売テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@KagoshimaNEWS_KYT"
+        },
+        {
+          "status": "M",
+          "path": "data/MRTmiyazaki.json",
+          "channel": "MRTmiyazaki",
+          "display_name": "MRT宮崎放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@MRTmiyazaki"
+        },
+        {
+          "status": "M",
+          "path": "data/MieTV7.json",
+          "channel": "MieTV7",
+          "display_name": "三重テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@MieTV7"
+        },
+        {
+          "status": "M",
+          "path": "data/NBCnagasaki.json",
+          "channel": "NBCnagasaki",
+          "display_name": "NBC長崎放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@NBCnagasaki"
+        },
+        {
+          "status": "M",
+          "path": "data/NagoyaTVnewsCH.json",
+          "channel": "NagoyaTVnewsCH",
+          "display_name": "Nagoya TV News",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@NagoyaTVnewsCH"
+        },
+        {
+          "status": "M",
+          "path": "data/RNBnewsch4.json",
+          "channel": "RNBnewsch4",
+          "display_name": "RNB南海放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "四国地方",
+          "url": "https://www.youtube.com/@RNBnewsch4"
+        },
+        {
+          "status": "M",
+          "path": "data/SBSnews6.json",
+          "channel": "SBSnews6",
+          "display_name": "SBS静岡放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@SBSnews6"
+        },
+        {
+          "status": "M",
+          "path": "data/SuntvCoJp_ohsun.json",
+          "channel": "SuntvCoJp_ohsun",
+          "display_name": "サテレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@SuntvCoJp_ohsun"
+        },
+        {
+          "status": "M",
+          "path": "data/TKUofficial.json",
+          "channel": "TKUofficial",
+          "display_name": "TKUテレビ熊本",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@TKUofficial"
+        },
+        {
+          "status": "M",
+          "path": "data/TMSanimeJP.json",
+          "channel": "TMSanimeJP",
+          "display_name": "TMSアニメ公式チャンネル",
+          "type": "youtube",
+          "category": "その他",
+          "subcategory": "アニメ公式",
+          "url": "https://www.youtube.com/@TMSanimeJP"
+        },
+        {
+          "status": "M",
+          "path": "data/TSK_Sanin_news.json",
+          "channel": "TSK_Sanin_news",
+          "display_name": "TSK news イット!",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@TSK_Sanin_news"
+        },
+        {
+          "status": "M",
+          "path": "data/TVQ7ch.json",
+          "channel": "TVQ7ch",
+          "display_name": "TVQ九州放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@TVQ7ch"
+        },
+        {
+          "status": "M",
+          "path": "data/TVTOKYO.json",
+          "channel": "TVTOKYO",
+          "display_name": "テレ東公式 TV TOKYO",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "テレビ東京系",
+          "url": "https://www.youtube.com/user/TVTOKYO"
+        },
+        {
+          "status": "M",
+          "path": "data/TVosaka7ch.json",
+          "channel": "TVosaka7ch",
+          "display_name": "テレビ大阪（TVO）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@TVosaka7ch"
+        },
+        {
+          "status": "M",
+          "path": "data/TeNYNEWS.json",
+          "channel": "TeNYNEWS",
+          "display_name": "TeNY新潟一番ニュース",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@TeNYNEWS"
+        },
+        {
+          "status": "M",
+          "path": "data/UXTV.json",
+          "channel": "UXTV",
+          "display_name": "The Niigata Television Network 21",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@UXTV"
+        },
+        {
+          "status": "M",
+          "path": "data/UXTV5ch.json",
+          "channel": "UXTV5ch",
+          "display_name": "UX新潟テレビ21",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@UXTV5ch"
+        },
+        {
+          "status": "M",
+          "path": "data/YTS5ch.json",
+          "channel": "YTS5ch",
+          "display_name": "YTS山形テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@YTS5ch"
+        },
+        {
+          "status": "M",
+          "path": "data/aab5ch.json",
+          "channel": "aab5ch",
+          "display_name": "AAB秋田朝日放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@aab5ch"
+        },
+        {
+          "status": "M",
+          "path": "data/abc6ch.json",
+          "channel": "abc6ch",
+          "display_name": "ABCTVnews",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@abc6ch"
+        },
+        {
+          "status": "M",
+          "path": "data/abcasahi.json",
+          "channel": "abcasahi",
+          "display_name": "朝日放送テレビ（ABC）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@abcasahi"
+        },
+        {
+          "status": "M",
+          "path": "data/abn5ch.json",
+          "channel": "abn5ch",
+          "display_name": "abn長野朝日放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@abn5ch"
+        },
+        {
+          "status": "M",
+          "path": "data/am_japanese.json",
+          "channel": "am_japanese",
+          "display_name": "あやの〻日本語学習チャンネル𓂃𖧷",
+          "type": "youtube",
+          "category": "日本語学習",
+          "subcategory": "その他チャンネル",
+          "url": "https://www.youtube.com/@am_japanese"
+        },
+        {
+          "status": "M",
+          "path": "data/arupotv.json",
+          "channel": "arupotv",
+          "display_name": "RKK熊本放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@arupotv"
+        },
+        {
+          "status": "M",
+          "path": "data/channel_UCGCZAYq5Xxo.json",
+          "channel": "channel_UCGCZAYq5Xxo",
+          "display_name": "ANNnewsCH",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "テレビ朝日系",
+          "url": "https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ"
+        },
+        {
+          "status": "M",
+          "path": "data/channel_UCI-w8qGuG.json",
+          "channel": "channel_UCI-w8qGuG",
+          "display_name": "テレビ朝日スポーツ【公式】",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "テレビ朝日系",
+          "url": "https://www.youtube.com/channel/UCI-w8qGuG4PlmZ25m9x_Q_A"
+        },
+        {
+          "status": "M",
+          "path": "data/channel_UCL3peEBSiAk.json",
+          "channel": "channel_UCL3peEBSiAk",
+          "display_name": "YBS山梨放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/channel/UCL3peEBSiAkEMDuxNkffbvw"
+        },
+        {
+          "status": "M",
+          "path": "data/channel_UCMoWRXDR4.json",
+          "channel": "channel_UCMoWRXDR4",
+          "display_name": "チバテレ（千葉テレビ放送）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "関東地方",
+          "url": "https://www.youtube.com/channel/UCMoWRXDR4-S_R8479Ru0HjQ"
+        },
+        {
+          "status": "M",
+          "path": "data/channel_UCSzVAEFIewU.json",
+          "channel": "channel_UCSzVAEFIewU",
+          "display_name": "EBCテレビ愛媛",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "四国地方",
+          "url": "https://www.youtube.com/channel/UCSzVAEFIewUsDHFEkcdyw1w"
+        },
+        {
+          "status": "M",
+          "path": "data/channel_UCWt0yfrBa.json",
+          "channel": "channel_UCWt0yfrBa",
+          "display_name": "日テレスポーツ【公式】",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "日本テレビ系",
+          "url": "https://www.youtube.com/channel/UCWt0yfrBaUk148rxaOp4b4w"
+        },
+        {
+          "status": "M",
+          "path": "data/channel_UCk2oG--VyYS.json",
+          "channel": "channel_UCk2oG--VyYS",
+          "display_name": "UTYテレビ山梨",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/channel/UCk2oG--VyYST4SYyQkeadjA"
+        },
+        {
+          "status": "M",
+          "path": "data/channel_UClElfQ7F1Qn.json",
+          "channel": "channel_UClElfQ7F1Qn",
+          "display_name": "仙台放送ニュースチャンネル",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/channel/UClElfQ7F1QndkPEFuqrDCLQ"
+        },
+        {
+          "status": "M",
+          "path": "data/daiichi-tvnews.json",
+          "channel": "daiichi-tvnews",
+          "display_name": "SDT静岡第一テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@daiichi-tvnews"
+        },
+        {
+          "status": "M",
+          "path": "data/ehimeasahiTV.json",
+          "channel": "ehimeasahiTV",
+          "display_name": "愛媛朝日テレビ（EAT）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "四国地方",
+          "url": "https://www.youtube.com/@ehimeasahiTV"
+        },
+        {
+          "status": "M",
+          "path": "data/fbs5ch.json",
+          "channel": "fbs5ch",
+          "display_name": "FBS福岡放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@fbs5ch"
+        },
+        {
+          "status": "M",
+          "path": "data/fbsnews5.json",
+          "channel": "fbsnews5",
+          "display_name": "FBS福岡放送ニュース",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@fbsnews5"
+        },
+        {
+          "status": "M",
+          "path": "data/fct_news.json",
+          "channel": "fct_news",
+          "display_name": "FCT福島中央テレビNEWS",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@fct_news"
+        },
+        {
+          "status": "M",
+          "path": "data/fujitv.json",
+          "channel": "fujitv",
+          "display_name": "フジテレビ公式",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "フジテレビ系",
+          "url": "https://www.youtube.com/@fujitv"
+        },
+        {
+          "status": "M",
+          "path": "data/habmigochannel.json",
+          "channel": "habmigochannel",
+          "display_name": "HAB北陸朝日放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@habmigochannel"
+        },
+        {
+          "status": "M",
+          "path": "data/hiroshimatvnews.json",
+          "channel": "hiroshimatvnews",
+          "display_name": "広テレ!NEWS",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@hiroshimatvnews"
+        },
+        {
+          "status": "M",
+          "path": "data/htbnews.json",
+          "channel": "htbnews",
+          "display_name": "HTB Hokkaido News",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "北海道地方",
+          "url": "https://www.youtube.com/@htbnews"
+        },
+        {
+          "status": "M",
+          "path": "data/ishikawaTV-channel.json",
+          "channel": "ishikawaTV-channel",
+          "display_name": "石川テレビ（ITC）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@ishikawaTV-channel"
+        },
+        {
+          "status": "M",
+          "path": "data/itv6ch.json",
+          "channel": "itv6ch",
+          "display_name": "itvあいテレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "四国地方",
+          "url": "https://www.youtube.com/@itv6ch"
+        },
+        {
+          "status": "M",
+          "path": "data/jrt6239.json",
+          "channel": "jrt6239",
+          "display_name": "四国放送（JRT）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "四国地方",
+          "url": "https://www.youtube.com/@jrt6239"
+        },
+        {
+          "status": "M",
+          "path": "data/kabnews5983.json",
+          "channel": "kabnews5983",
+          "display_name": "KAB熊本朝日放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@kabnews5983"
+        },
+        {
+          "status": "M",
+          "path": "data/khb.json",
+          "channel": "khb",
+          "display_name": "KHB東日本放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@khb"
+        },
+        {
+          "status": "M",
+          "path": "data/kotsushinbun.json",
+          "channel": "kotsushinbun",
+          "display_name": "交通新聞 電子版【交通新聞社】",
+          "type": "youtube",
+          "category": "交通・鉄道",
+          "subcategory": "その他チャンネル",
+          "url": "https://www.youtube.com/@kotsushinbun"
+        },
+        {
+          "status": "M",
+          "path": "data/ksb5ch.json",
+          "channel": "ksb5ch",
+          "display_name": "瀬戸内海放送（KSB）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@ksb5ch"
+        },
+        {
+          "status": "M",
+          "path": "data/ktvnews8.json",
+          "channel": "ktvnews8",
+          "display_name": "関西テレビ（KTV）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@ktvnews8"
+        },
+        {
+          "status": "M",
+          "path": "data/kutv.json",
+          "channel": "kutv",
+          "display_name": "KUTVテレビ高知",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "四国地方",
+          "url": "https://www.youtube.com/@kutv"
+        },
+        {
+          "status": "M",
+          "path": "data/menkoichannel.json",
+          "channel": "menkoichannel",
+          "display_name": "mit岩手めんこいテレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@menkoichannel"
+        },
+        {
+          "status": "M",
+          "path": "data/miyateleNEWSNNN.json",
+          "channel": "miyateleNEWSNNN",
+          "display_name": "MMTミヤギテレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@miyateleNEWSNNN"
+        },
+        {
+          "status": "M",
+          "path": "data/mro_ishikawa.json",
+          "channel": "mro_ishikawa",
+          "display_name": "MRO北陸放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@mro_ishikawa"
+        },
+        {
+          "status": "M",
+          "path": "data/ncctvnagasaki.json",
+          "channel": "ncctvnagasaki",
+          "display_name": "NCC長崎文化放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@ncctvnagasaki"
+        },
+        {
+          "status": "M",
+          "path": "data/newsone4365.json",
+          "channel": "newsone4365",
+          "display_name": "東海テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@newsone4365"
+        },
+        {
+          "status": "M",
+          "path": "data/nihonkai-news.json",
+          "channel": "nihonkai-news",
+          "display_name": "日本海テレビ（NKT）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@nihonkai-news"
+        },
+        {
+          "status": "M",
+          "path": "data/nittele.json",
+          "channel": "nittele",
+          "display_name": "日テレ公式チャンネル",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "日本テレビ系",
+          "url": "https://www.youtube.com/@nittele"
+        },
+        {
+          "status": "M",
+          "path": "data/nst-tv.json",
+          "channel": "nst-tv",
+          "display_name": "NST新潟総合テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@nst-tv"
+        },
+        {
+          "status": "M",
+          "path": "data/ntv_news.json",
+          "channel": "ntv_news",
+          "display_name": "日テレNEWS",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "日本テレビ系",
+          "url": "https://www.youtube.com/@ntv_news"
+        },
+        {
+          "status": "M",
+          "path": "data/oab8320.json",
+          "channel": "oab8320",
+          "display_name": "OAB大分朝日放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@oab8320"
+        },
+        {
+          "status": "M",
+          "path": "data/ohbsn.json",
+          "channel": "ohbsn",
+          "display_name": "BSN新潟放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@ohbsn"
+        },
+        {
+          "status": "M",
+          "path": "data/ohk163.json",
+          "channel": "ohk163",
+          "display_name": "岡山放送（OHK）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@ohk163"
+        },
+        {
+          "status": "M",
+          "path": "data/otv-okinawa.json",
+          "channel": "otv-okinawa",
+          "display_name": "OTV沖縄テレビ",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@otv-okinawa"
+        },
+        {
+          "status": "M",
+          "path": "data/qab4524.json",
+          "channel": "qab4524",
+          "display_name": "QAB琉球朝日放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@qab4524"
+        },
+        {
+          "status": "M",
+          "path": "data/rkc5325.json",
+          "channel": "rkc5325",
+          "display_name": "RKC高知放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "四国地方",
+          "url": "https://www.youtube.com/@rkc5325"
+        },
+        {
+          "status": "M",
+          "path": "data/sunsuntv.json",
+          "channel": "sunsuntv",
+          "display_name": "高知さんさんテレビ（KSS）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "四国地方",
+          "url": "https://www.youtube.com/@sunsuntv"
+        },
+        {
+          "status": "M",
+          "path": "data/tbc1260_official.json",
+          "channel": "tbc1260_official",
+          "display_name": "tbc東北放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@tbc1260_official"
+        },
+        {
+          "status": "M",
+          "path": "data/tbspr.json",
+          "channel": "tbspr",
+          "display_name": "TBS公式 YouTuboo",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "TBS系",
+          "url": "https://www.youtube.com/c/tbspr/featured/1000"
+        },
+        {
+          "status": "M",
+          "path": "data/telebee8ch.json",
+          "channel": "telebee8ch",
+          "display_name": "TNCテレビ西日本",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "九州・沖縄地方",
+          "url": "https://www.youtube.com/@telebee8ch"
+        },
+        {
+          "status": "M",
+          "path": "data/teletama3ch.json",
+          "channel": "teletama3ch",
+          "display_name": "テレ玉（テレビ埼玉）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "関東地方",
+          "url": "https://www.youtube.com/@teletama3ch"
+        },
+        {
+          "status": "M",
+          "path": "data/teletama_news.json",
+          "channel": "teletama_news",
+          "display_name": "テレ玉NEWS（テレビ埼玉）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "関東地方",
+          "url": "https://www.youtube.com/@teletama_news"
+        },
+        {
+          "status": "M",
+          "path": "data/telewaka5ch.json",
+          "channel": "telewaka5ch",
+          "display_name": "テレビ和歌山（WTV）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@telewaka5ch"
+        },
+        {
+          "status": "M",
+          "path": "data/tochitele_news.json",
+          "channel": "tochitele_news",
+          "display_name": "とちぎテレビNEWS",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "関東地方",
+          "url": "https://www.youtube.com/@tochitele_news"
+        },
+        {
+          "status": "M",
+          "path": "data/tokyomx.json",
+          "channel": "tokyomx",
+          "display_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "関東地方",
+          "url": "https://www.youtube.com/tokyomx"
+        },
+        {
+          "status": "M",
+          "path": "data/tsc2048.json",
+          "channel": "tsc2048",
+          "display_name": "テレビせとうち（TSC）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@tsc2048"
+        },
+        {
+          "status": "M",
+          "path": "data/tss3367.json",
+          "channel": "tss3367",
+          "display_name": "テレビ新広島（TSS）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@tss3367"
+        },
+        {
+          "status": "M",
+          "path": "data/tuy6ch.json",
+          "channel": "tuy6ch",
+          "display_name": "TUYテレビユー山形",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@tuy6ch"
+        },
+        {
+          "status": "M",
+          "path": "data/tv_kanazawa.json",
+          "channel": "tv_kanazawa",
+          "display_name": "KTKテレビ金沢",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@tv_kanazawa"
+        },
+        {
+          "status": "M",
+          "path": "data/tvaichi10ch.json",
+          "channel": "tvaichi10ch",
+          "display_name": "テレビ愛知",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中部地方",
+          "url": "https://www.youtube.com/@tvaichi10ch"
+        },
+        {
+          "status": "M",
+          "path": "data/tvasahi.json",
+          "channel": "tvasahi",
+          "display_name": "テレビ朝日公式チャンネル",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "テレビ朝日系",
+          "url": "https://www.youtube.com/@tvasahi"
+        },
+        {
+          "status": "M",
+          "path": "data/tvimoviechannel.json",
+          "channel": "tvimoviechannel",
+          "display_name": "TVIテレビ岩手",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@tvimoviechannel"
+        },
+        {
+          "status": "M",
+          "path": "data/tvinewsch.json",
+          "channel": "tvinewsch",
+          "display_name": "テレビ岩手TVIニュースチャンネル",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "東北地方",
+          "url": "https://www.youtube.com/@tvinewsch"
+        },
+        {
+          "status": "M",
+          "path": "data/tvk3ch.json",
+          "channel": "tvk3ch",
+          "display_name": "tvkテレビ神奈川",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "関東地方",
+          "url": "https://www.youtube.com/@tvk3ch"
+        },
+        {
+          "status": "M",
+          "path": "data/tvn_news9.json",
+          "channel": "tvn_news9",
+          "display_name": "奈良テレビNEWS",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@tvn_news9"
+        },
+        {
+          "status": "M",
+          "path": "data/tvosakanews.json",
+          "channel": "tvosakanews",
+          "display_name": "Television OSAKA NEWS",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@tvosakanews"
+        },
+        {
+          "status": "M",
+          "path": "data/tvtokyobiz.json",
+          "channel": "tvtokyobiz",
+          "display_name": "テレ東BIZ",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "テレビ東京系",
+          "url": "https://www.youtube.com/@tvtokyobiz"
+        },
+        {
+          "status": "M",
+          "path": "data/tvtokyosports.json",
+          "channel": "tvtokyosports",
+          "display_name": "テレ東スポーツ",
+          "type": "tv",
+          "category": "全国放送局",
+          "subcategory": "テレビ東京系",
+          "url": "https://www.youtube.com/@tvtokyosports"
+        },
+        {
+          "status": "M",
+          "path": "data/uhbhokkaido8ch.json",
+          "channel": "uhbhokkaido8ch",
+          "display_name": "UHB北海道文化放送",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "北海道地方",
+          "url": "https://www.youtube.com/@uhbhokkaido8ch"
+        },
+        {
+          "status": "M",
+          "path": "data/yab_beep.json",
+          "channel": "yab_beep",
+          "display_name": "山口朝日放送（yab）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@yab_beep"
+        },
+        {
+          "status": "M",
+          "path": "data/yab_news.json",
+          "channel": "yab_news",
+          "display_name": "yab山口ニュース",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "中国地方",
+          "url": "https://www.youtube.com/@yab_news"
+        },
+        {
+          "status": "M",
+          "path": "data/ytv_news.json",
+          "channel": "ytv_news",
+          "display_name": "読売テレビ（ytv）",
+          "type": "tv",
+          "category": "地方放送局",
+          "subcategory": "近畿地方",
+          "url": "https://www.youtube.com/@ytv_news"
+        }
+      ]
+    },
     {
       "hash": "c4ccdaa",
       "date": "2026-04-08 16:19:34",
@@ -29648,1184 +30736,6 @@
           "category": "地方放送局",
           "subcategory": "近畿地方",
           "url": "https://www.youtube.com/@ytv_news"
-        }
-      ]
-    },
-    {
-      "hash": "6397c13",
-      "date": "2026-03-11 15:54:10",
-      "timestamp": 1773244450,
-      "message": "🤖 自動更新 - 2026-03-12 00:54:10 JST",
-      "files": [
-        {
-          "status": "M",
-          "path": "data/ABS4ch.json",
-          "channel": "ABS4ch",
-          "display_name": "ABS秋田放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@ABS4ch"
-        },
-        {
-          "status": "M",
-          "path": "data/ATV6ch.json",
-          "channel": "ATV6ch",
-          "display_name": "ATV青森テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@ATV6ch"
-        },
-        {
-          "status": "M",
-          "path": "data/BBC_biwako.json",
-          "channel": "BBC_biwako",
-          "display_name": "びわ湖放送（BBC）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@BBC_biwako"
-        },
-        {
-          "status": "M",
-          "path": "data/CHUKYOTV_NEWS.json",
-          "channel": "CHUKYOTV_NEWS",
-          "display_name": "中京テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@CHUKYOTV_NEWS"
-        },
-        {
-          "status": "M",
-          "path": "data/FNNnewsCH.json",
-          "channel": "FNNnewsCH",
-          "display_name": "FNNプライムオンライン",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "フジテレビ系",
-          "url": "https://www.youtube.com/@FNNnewsCH"
-        },
-        {
-          "status": "M",
-          "path": "data/GTV.json",
-          "channel": "GTV",
-          "display_name": "群馬テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "関東地方",
-          "url": "https://www.youtube.com/@GTV"
-        },
-        {
-          "status": "M",
-          "path": "data/HBChokkaido.json",
-          "channel": "HBChokkaido",
-          "display_name": "HBC北海道放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "北海道地方",
-          "url": "https://www.youtube.com/@HBChokkaido"
-        },
-        {
-          "status": "M",
-          "path": "data/HTB6CH.json",
-          "channel": "HTB6CH",
-          "display_name": "HTB北海道テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "北海道地方",
-          "url": "https://www.youtube.com/@HTB6CH"
-        },
-        {
-          "status": "M",
-          "path": "data/Harimaya884.json",
-          "channel": "Harimaya884",
-          "display_name": "はりまや気ままに旅チャンネル",
-          "type": "youtube",
-          "category": "旅行・観光",
-          "subcategory": "その他チャンネル",
-          "url": "https://www.youtube.com/@Harimaya884"
-        },
-        {
-          "status": "M",
-          "path": "data/HiroshimaTVONDEMAND.json",
-          "channel": "HiroshimaTVONDEMAND",
-          "display_name": "広島ホームテレビ（HOME）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@HiroshimaTVONDEMAND"
-        },
-        {
-          "status": "M",
-          "path": "data/IwateAsahiTV.json",
-          "channel": "IwateAsahiTV",
-          "display_name": "IAT岩手朝日テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@IwateAsahiTV"
-        },
-        {
-          "status": "M",
-          "path": "data/KKB5ch.json",
-          "channel": "KKB5ch",
-          "display_name": "KKB鹿児島放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@KKB5ch"
-        },
-        {
-          "status": "M",
-          "path": "data/KKT.json",
-          "channel": "KKT",
-          "display_name": "KKTくまもと県民テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@KKT"
-        },
-        {
-          "status": "M",
-          "path": "data/KRYChannel.json",
-          "channel": "KRYChannel",
-          "display_name": "KRY山口放送公式チャンネル",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@KRYChannel"
-        },
-        {
-          "status": "M",
-          "path": "data/KRYNewsChannel.json",
-          "channel": "KRYNewsChannel",
-          "display_name": "KRYNewsChannel",
-          "type": "youtube",
-          "category": "エンタメ・Vlog",
-          "subcategory": "その他チャンネル",
-          "url": ""
-        },
-        {
-          "status": "M",
-          "path": "data/KTN.nagasaki.json",
-          "channel": "KTN.nagasaki",
-          "display_name": "KTNテレビ長崎",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@KTN.nagasaki"
-        },
-        {
-          "status": "M",
-          "path": "data/KagoshimaMBC.json",
-          "channel": "KagoshimaMBC",
-          "display_name": "MBC南日本放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@KagoshimaMBC"
-        },
-        {
-          "status": "M",
-          "path": "data/KagoshimaNEWS_KYT.json",
-          "channel": "KagoshimaNEWS_KYT",
-          "display_name": "KYT鹿児島読売テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@KagoshimaNEWS_KYT"
-        },
-        {
-          "status": "M",
-          "path": "data/MBS.json",
-          "channel": "MBS",
-          "display_name": "毎日放送（MBS）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@MBS"
-        },
-        {
-          "status": "M",
-          "path": "data/MRTmiyazaki.json",
-          "channel": "MRTmiyazaki",
-          "display_name": "MRT宮崎放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@MRTmiyazaki"
-        },
-        {
-          "status": "M",
-          "path": "data/MeiteleCH.json",
-          "channel": "MeiteleCH",
-          "display_name": "メ～テレ（名古屋テレビ放送）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@MeiteleCH"
-        },
-        {
-          "status": "M",
-          "path": "data/MieTV7.json",
-          "channel": "MieTV7",
-          "display_name": "三重テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@MieTV7"
-        },
-        {
-          "status": "M",
-          "path": "data/NBCnagasaki.json",
-          "channel": "NBCnagasaki",
-          "display_name": "NBC長崎放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@NBCnagasaki"
-        },
-        {
-          "status": "M",
-          "path": "data/NagoyaTVnewsCH.json",
-          "channel": "NagoyaTVnewsCH",
-          "display_name": "Nagoya TV News",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@NagoyaTVnewsCH"
-        },
-        {
-          "status": "M",
-          "path": "data/RNBnewsch4.json",
-          "channel": "RNBnewsch4",
-          "display_name": "RNB南海放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "四国地方",
-          "url": "https://www.youtube.com/@RNBnewsch4"
-        },
-        {
-          "status": "M",
-          "path": "data/SBSnews6.json",
-          "channel": "SBSnews6",
-          "display_name": "SBS静岡放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@SBSnews6"
-        },
-        {
-          "status": "M",
-          "path": "data/Sanyuan_JAPAN.json",
-          "channel": "Sanyuan_JAPAN",
-          "display_name": "三原JAPAN Sanyuan_JAPAN",
-          "type": "youtube",
-          "category": "美食・料理",
-          "subcategory": "その他チャンネル",
-          "url": "https://www.youtube.com/@Sanyuan_JAPAN"
-        },
-        {
-          "status": "M",
-          "path": "data/SuntvCoJp_ohsun.json",
-          "channel": "SuntvCoJp_ohsun",
-          "display_name": "サテレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@SuntvCoJp_ohsun"
-        },
-        {
-          "status": "M",
-          "path": "data/TKUofficial.json",
-          "channel": "TKUofficial",
-          "display_name": "TKUテレビ熊本",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@TKUofficial"
-        },
-        {
-          "status": "M",
-          "path": "data/TSK_Sanin_news.json",
-          "channel": "TSK_Sanin_news",
-          "display_name": "TSK news イット!",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@TSK_Sanin_news"
-        },
-        {
-          "status": "M",
-          "path": "data/TUFchannel.json",
-          "channel": "TUFchannel",
-          "display_name": "TUFテレビユー福島",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@TUFchannel"
-        },
-        {
-          "status": "M",
-          "path": "data/TVQ7ch.json",
-          "channel": "TVQ7ch",
-          "display_name": "TVQ九州放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@TVQ7ch"
-        },
-        {
-          "status": "M",
-          "path": "data/TVTOKYO.json",
-          "channel": "TVTOKYO",
-          "display_name": "テレ東公式 TV TOKYO",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "テレビ東京系",
-          "url": "https://www.youtube.com/user/TVTOKYO"
-        },
-        {
-          "status": "M",
-          "path": "data/TeNYNEWS.json",
-          "channel": "TeNYNEWS",
-          "display_name": "TeNY新潟一番ニュース",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@TeNYNEWS"
-        },
-        {
-          "status": "M",
-          "path": "data/UXTV.json",
-          "channel": "UXTV",
-          "display_name": "The Niigata Television Network 21",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@UXTV"
-        },
-        {
-          "status": "M",
-          "path": "data/UXTV5ch.json",
-          "channel": "UXTV5ch",
-          "display_name": "UX新潟テレビ21",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@UXTV5ch"
-        },
-        {
-          "status": "M",
-          "path": "data/aab5ch.json",
-          "channel": "aab5ch",
-          "display_name": "AAB秋田朝日放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@aab5ch"
-        },
-        {
-          "status": "M",
-          "path": "data/abc6ch.json",
-          "channel": "abc6ch",
-          "display_name": "ABCTVnews",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@abc6ch"
-        },
-        {
-          "status": "M",
-          "path": "data/abcasahi.json",
-          "channel": "abcasahi",
-          "display_name": "朝日放送テレビ（ABC）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@abcasahi"
-        },
-        {
-          "status": "M",
-          "path": "data/abn5ch.json",
-          "channel": "abn5ch",
-          "display_name": "abn長野朝日放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@abn5ch"
-        },
-        {
-          "status": "M",
-          "path": "data/ai_polyglot.json",
-          "channel": "ai_polyglot",
-          "display_name": "AI Polyglot | 多言語 聞き流し",
-          "type": "youtube",
-          "category": "日本語学習",
-          "subcategory": "その他チャンネル",
-          "url": "https://www.youtube.com/@ai_polyglot"
-        },
-        {
-          "status": "M",
-          "path": "data/bansenTUT.json",
-          "channel": "bansenTUT",
-          "display_name": "チューリップテレビ（TUT）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@bansenTUT"
-        },
-        {
-          "status": "M",
-          "path": "data/channel_UCExGIeVLm6D.json",
-          "channel": "channel_UCExGIeVLm6D",
-          "display_name": "RCC中国放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/channel/UCExGIeVLm6DBd_dd7AC4L-A"
-        },
-        {
-          "status": "M",
-          "path": "data/channel_UCGCZAYq5Xxo.json",
-          "channel": "channel_UCGCZAYq5Xxo",
-          "display_name": "ANNnewsCH",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "テレビ朝日系",
-          "url": "https://www.youtube.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ"
-        },
-        {
-          "status": "M",
-          "path": "data/channel_UCI-w8qGuG.json",
-          "channel": "channel_UCI-w8qGuG",
-          "display_name": "テレビ朝日スポーツ【公式】",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "テレビ朝日系",
-          "url": "https://www.youtube.com/channel/UCI-w8qGuG4PlmZ25m9x_Q_A"
-        },
-        {
-          "status": "M",
-          "path": "data/channel_UCL3peEBSiAk.json",
-          "channel": "channel_UCL3peEBSiAk",
-          "display_name": "YBS山梨放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/channel/UCL3peEBSiAkEMDuxNkffbvw"
-        },
-        {
-          "status": "M",
-          "path": "data/channel_UCMoWRXDR4.json",
-          "channel": "channel_UCMoWRXDR4",
-          "display_name": "チバテレ（千葉テレビ放送）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "関東地方",
-          "url": "https://www.youtube.com/channel/UCMoWRXDR4-S_R8479Ru0HjQ"
-        },
-        {
-          "status": "M",
-          "path": "data/channel_UCWt0yfrBa.json",
-          "channel": "channel_UCWt0yfrBa",
-          "display_name": "日テレスポーツ【公式】",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "日本テレビ系",
-          "url": "https://www.youtube.com/channel/UCWt0yfrBaUk148rxaOp4b4w"
-        },
-        {
-          "status": "M",
-          "path": "data/channel_UCk2oG--VyYS.json",
-          "channel": "channel_UCk2oG--VyYS",
-          "display_name": "UTYテレビ山梨",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/channel/UCk2oG--VyYST4SYyQkeadjA"
-        },
-        {
-          "status": "M",
-          "path": "data/channel_UClElfQ7F1Qn.json",
-          "channel": "channel_UClElfQ7F1Qn",
-          "display_name": "仙台放送ニュースチャンネル",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/channel/UClElfQ7F1QndkPEFuqrDCLQ"
-        },
-        {
-          "status": "M",
-          "path": "data/daiichi-tvnews.json",
-          "channel": "daiichi-tvnews",
-          "display_name": "SDT静岡第一テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@daiichi-tvnews"
-        },
-        {
-          "status": "M",
-          "path": "data/ehimeasahiTV.json",
-          "channel": "ehimeasahiTV",
-          "display_name": "愛媛朝日テレビ（EAT）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "四国地方",
-          "url": "https://www.youtube.com/@ehimeasahiTV"
-        },
-        {
-          "status": "M",
-          "path": "data/fbs5ch.json",
-          "channel": "fbs5ch",
-          "display_name": "FBS福岡放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@fbs5ch"
-        },
-        {
-          "status": "M",
-          "path": "data/fbsnews5.json",
-          "channel": "fbsnews5",
-          "display_name": "FBS福岡放送ニュース",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@fbsnews5"
-        },
-        {
-          "status": "M",
-          "path": "data/fct_news.json",
-          "channel": "fct_news",
-          "display_name": "FCT福島中央テレビNEWS",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@fct_news"
-        },
-        {
-          "status": "M",
-          "path": "data/fctchannel.json",
-          "channel": "fctchannel",
-          "display_name": "FCT福島中央テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@fctchannel"
-        },
-        {
-          "status": "M",
-          "path": "data/fujitv.json",
-          "channel": "fujitv",
-          "display_name": "フジテレビ公式",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "フジテレビ系",
-          "url": "https://www.youtube.com/@fujitv"
-        },
-        {
-          "status": "M",
-          "path": "data/habmigochannel.json",
-          "channel": "habmigochannel",
-          "display_name": "HAB北陸朝日放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@habmigochannel"
-        },
-        {
-          "status": "M",
-          "path": "data/hiroshimatvnews.json",
-          "channel": "hiroshimatvnews",
-          "display_name": "広テレ!NEWS",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@hiroshimatvnews"
-        },
-        {
-          "status": "M",
-          "path": "data/htbnews.json",
-          "channel": "htbnews",
-          "display_name": "HTB Hokkaido News",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "北海道地方",
-          "url": "https://www.youtube.com/@htbnews"
-        },
-        {
-          "status": "M",
-          "path": "data/ibc6ch.json",
-          "channel": "ibc6ch",
-          "display_name": "IBC岩手放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@ibc6ch"
-        },
-        {
-          "status": "M",
-          "path": "data/ishikawaTV-channel.json",
-          "channel": "ishikawaTV-channel",
-          "display_name": "石川テレビ（ITC）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@ishikawaTV-channel"
-        },
-        {
-          "status": "M",
-          "path": "data/itv6ch.json",
-          "channel": "itv6ch",
-          "display_name": "itvあいテレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "四国地方",
-          "url": "https://www.youtube.com/@itv6ch"
-        },
-        {
-          "status": "M",
-          "path": "data/jrt6239.json",
-          "channel": "jrt6239",
-          "display_name": "四国放送（JRT）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "四国地方",
-          "url": "https://www.youtube.com/@jrt6239"
-        },
-        {
-          "status": "M",
-          "path": "data/kabnews5983.json",
-          "channel": "kabnews5983",
-          "display_name": "KAB熊本朝日放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@kabnews5983"
-        },
-        {
-          "status": "M",
-          "path": "data/kbskyoto.json",
-          "channel": "kbskyoto",
-          "display_name": "KBS京都",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@kbskyoto"
-        },
-        {
-          "status": "M",
-          "path": "data/khb.json",
-          "channel": "khb",
-          "display_name": "KHB東日本放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@khb"
-        },
-        {
-          "status": "M",
-          "path": "data/ksb5ch.json",
-          "channel": "ksb5ch",
-          "display_name": "瀬戸内海放送（KSB）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@ksb5ch"
-        },
-        {
-          "status": "M",
-          "path": "data/ktspoyo.json",
-          "channel": "ktspoyo",
-          "display_name": "KTS鹿児島テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@ktspoyo"
-        },
-        {
-          "status": "M",
-          "path": "data/ktvnews8.json",
-          "channel": "ktvnews8",
-          "display_name": "関西テレビ（KTV）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@ktvnews8"
-        },
-        {
-          "status": "M",
-          "path": "data/kutv.json",
-          "channel": "kutv",
-          "display_name": "KUTVテレビ高知",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "四国地方",
-          "url": "https://www.youtube.com/@kutv"
-        },
-        {
-          "status": "M",
-          "path": "data/menkoichannel.json",
-          "channel": "menkoichannel",
-          "display_name": "mit岩手めんこいテレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@menkoichannel"
-        },
-        {
-          "status": "M",
-          "path": "data/mextchannel.json",
-          "channel": "mextchannel",
-          "display_name": "mextchannel",
-          "type": "youtube",
-          "category": "エンタメ・Vlog",
-          "subcategory": "その他チャンネル",
-          "url": ""
-        },
-        {
-          "status": "M",
-          "path": "data/mezamashitvchannel.json",
-          "channel": "mezamashitvchannel",
-          "display_name": "めざましテレビチャンネル（フジテレビ）",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "フジテレビ系",
-          "url": "https://www.youtube.com/@mezamashitvchannel"
-        },
-        {
-          "status": "M",
-          "path": "data/miyateleNEWSNNN.json",
-          "channel": "miyateleNEWSNNN",
-          "display_name": "MMTミヤギテレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@miyateleNEWSNNN"
-        },
-        {
-          "status": "M",
-          "path": "data/mro_ishikawa.json",
-          "channel": "mro_ishikawa",
-          "display_name": "MRO北陸放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@mro_ishikawa"
-        },
-        {
-          "status": "M",
-          "path": "data/naratv9.json",
-          "channel": "naratv9",
-          "display_name": "奈良テレビ放送（TVN）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@naratv9"
-        },
-        {
-          "status": "M",
-          "path": "data/ncctvnagasaki.json",
-          "channel": "ncctvnagasaki",
-          "display_name": "NCC長崎文化放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@ncctvnagasaki"
-        },
-        {
-          "status": "M",
-          "path": "data/newsone4365.json",
-          "channel": "newsone4365",
-          "display_name": "東海テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@newsone4365"
-        },
-        {
-          "status": "M",
-          "path": "data/nihonkai-news.json",
-          "channel": "nihonkai-news",
-          "display_name": "日本海テレビ（NKT）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@nihonkai-news"
-        },
-        {
-          "status": "M",
-          "path": "data/nittele.json",
-          "channel": "nittele",
-          "display_name": "日テレ公式チャンネル",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "日本テレビ系",
-          "url": "https://www.youtube.com/@nittele"
-        },
-        {
-          "status": "M",
-          "path": "data/nst-tv.json",
-          "channel": "nst-tv",
-          "display_name": "NST新潟総合テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@nst-tv"
-        },
-        {
-          "status": "M",
-          "path": "data/oab8320.json",
-          "channel": "oab8320",
-          "display_name": "OAB大分朝日放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@oab8320"
-        },
-        {
-          "status": "M",
-          "path": "data/ohbsn.json",
-          "channel": "ohbsn",
-          "display_name": "BSN新潟放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@ohbsn"
-        },
-        {
-          "status": "M",
-          "path": "data/ohk163.json",
-          "channel": "ohk163",
-          "display_name": "岡山放送（OHK）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@ohk163"
-        },
-        {
-          "status": "M",
-          "path": "data/otv-okinawa.json",
-          "channel": "otv-okinawa",
-          "display_name": "OTV沖縄テレビ",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@otv-okinawa"
-        },
-        {
-          "status": "M",
-          "path": "data/rkc5325.json",
-          "channel": "rkc5325",
-          "display_name": "RKC高知放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "四国地方",
-          "url": "https://www.youtube.com/@rkc5325"
-        },
-        {
-          "status": "M",
-          "path": "data/rnc_tvradio.json",
-          "channel": "rnc_tvradio",
-          "display_name": "西日本放送（RNC）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@rnc_tvradio"
-        },
-        {
-          "status": "M",
-          "path": "data/rsk4243.json",
-          "channel": "rsk4243",
-          "display_name": "RSK山陽放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@rsk4243"
-        },
-        {
-          "status": "M",
-          "path": "data/sumasapo.json",
-          "channel": "sumasapo",
-          "display_name": "スマサポチャンネル",
-          "type": "youtube",
-          "category": "テック・ガジェット",
-          "subcategory": "その他チャンネル",
-          "url": "https://www.youtube.com/@sumasapo"
-        },
-        {
-          "status": "M",
-          "path": "data/sunsuntv.json",
-          "channel": "sunsuntv",
-          "display_name": "高知さんさんテレビ（KSS）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "四国地方",
-          "url": "https://www.youtube.com/@sunsuntv"
-        },
-        {
-          "status": "M",
-          "path": "data/tbc1260_official.json",
-          "channel": "tbc1260_official",
-          "display_name": "tbc東北放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@tbc1260_official"
-        },
-        {
-          "status": "M",
-          "path": "data/tbspr.json",
-          "channel": "tbspr",
-          "display_name": "TBS公式 YouTuboo",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "TBS系",
-          "url": "https://www.youtube.com/c/tbspr/featured/1000"
-        },
-        {
-          "status": "M",
-          "path": "data/telebee8ch.json",
-          "channel": "telebee8ch",
-          "display_name": "TNCテレビ西日本",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "九州・沖縄地方",
-          "url": "https://www.youtube.com/@telebee8ch"
-        },
-        {
-          "status": "M",
-          "path": "data/teletama3ch.json",
-          "channel": "teletama3ch",
-          "display_name": "テレ玉（テレビ埼玉）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "関東地方",
-          "url": "https://www.youtube.com/@teletama3ch"
-        },
-        {
-          "status": "M",
-          "path": "data/teletama_news.json",
-          "channel": "teletama_news",
-          "display_name": "テレ玉NEWS（テレビ埼玉）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "関東地方",
-          "url": "https://www.youtube.com/@teletama_news"
-        },
-        {
-          "status": "M",
-          "path": "data/telewaka5ch.json",
-          "channel": "telewaka5ch",
-          "display_name": "テレビ和歌山（WTV）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@telewaka5ch"
-        },
-        {
-          "status": "M",
-          "path": "data/tochitele_news.json",
-          "channel": "tochitele_news",
-          "display_name": "とちぎテレビNEWS",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "関東地方",
-          "url": "https://www.youtube.com/@tochitele_news"
-        },
-        {
-          "status": "M",
-          "path": "data/tokyomx.json",
-          "channel": "tokyomx",
-          "display_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "関東地方",
-          "url": "https://www.youtube.com/tokyomx"
-        },
-        {
-          "status": "M",
-          "path": "data/tsc2048.json",
-          "channel": "tsc2048",
-          "display_name": "テレビせとうち（TSC）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@tsc2048"
-        },
-        {
-          "status": "M",
-          "path": "data/tss3367.json",
-          "channel": "tss3367",
-          "display_name": "テレビ新広島（TSS）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@tss3367"
-        },
-        {
-          "status": "M",
-          "path": "data/tv_kanazawa.json",
-          "channel": "tv_kanazawa",
-          "display_name": "KTKテレビ金沢",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@tv_kanazawa"
-        },
-        {
-          "status": "M",
-          "path": "data/tvaichi10ch.json",
-          "channel": "tvaichi10ch",
-          "display_name": "テレビ愛知",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中部地方",
-          "url": "https://www.youtube.com/@tvaichi10ch"
-        },
-        {
-          "status": "M",
-          "path": "data/tvasahi.json",
-          "channel": "tvasahi",
-          "display_name": "テレビ朝日公式チャンネル",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "テレビ朝日系",
-          "url": "https://www.youtube.com/@tvasahi"
-        },
-        {
-          "status": "M",
-          "path": "data/tvimoviechannel.json",
-          "channel": "tvimoviechannel",
-          "display_name": "TVIテレビ岩手",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@tvimoviechannel"
-        },
-        {
-          "status": "M",
-          "path": "data/tvinewsch.json",
-          "channel": "tvinewsch",
-          "display_name": "テレビ岩手TVIニュースチャンネル",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@tvinewsch"
-        },
-        {
-          "status": "M",
-          "path": "data/tvk3ch.json",
-          "channel": "tvk3ch",
-          "display_name": "tvkテレビ神奈川",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "関東地方",
-          "url": "https://www.youtube.com/@tvk3ch"
-        },
-        {
-          "status": "M",
-          "path": "data/tvn_news9.json",
-          "channel": "tvn_news9",
-          "display_name": "奈良テレビNEWS",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@tvn_news9"
-        },
-        {
-          "status": "M",
-          "path": "data/tvosakanews.json",
-          "channel": "tvosakanews",
-          "display_name": "Television OSAKA NEWS",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@tvosakanews"
-        },
-        {
-          "status": "M",
-          "path": "data/tvtokyobiz.json",
-          "channel": "tvtokyobiz",
-          "display_name": "テレ東BIZ",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "テレビ東京系",
-          "url": "https://www.youtube.com/@tvtokyobiz"
-        },
-        {
-          "status": "M",
-          "path": "data/tvtokyosports.json",
-          "channel": "tvtokyosports",
-          "display_name": "テレ東スポーツ",
-          "type": "tv",
-          "category": "全国放送局",
-          "subcategory": "テレビ東京系",
-          "url": "https://www.youtube.com/@tvtokyosports"
-        },
-        {
-          "status": "M",
-          "path": "data/uhbhokkaido8ch.json",
-          "channel": "uhbhokkaido8ch",
-          "display_name": "UHB北海道文化放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "北海道地方",
-          "url": "https://www.youtube.com/@uhbhokkaido8ch"
-        },
-        {
-          "status": "M",
-          "path": "data/yab_beep.json",
-          "channel": "yab_beep",
-          "display_name": "山口朝日放送（yab）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@yab_beep"
-        },
-        {
-          "status": "M",
-          "path": "data/yab_news.json",
-          "channel": "yab_news",
-          "display_name": "yab山口ニュース",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "中国地方",
-          "url": "https://www.youtube.com/@yab_news"
-        },
-        {
-          "status": "M",
-          "path": "data/yamagatahoso.json",
-          "channel": "yamagatahoso",
-          "display_name": "YBC山形放送",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "東北地方",
-          "url": "https://www.youtube.com/@yamagatahoso"
-        },
-        {
-          "status": "M",
-          "path": "data/ytv_news.json",
-          "channel": "ytv_news",
-          "display_name": "読売テレビ（ytv）",
-          "type": "tv",
-          "category": "地方放送局",
-          "subcategory": "近畿地方",
-          "url": "https://www.youtube.com/@ytv_news"
-        },
-        {
-          "status": "M",
-          "path": "data/yuuka_chan815.json",
-          "channel": "yuuka_chan815",
-          "display_name": "鈴木優香",
-          "type": "youtube",
-          "category": "エンタメ・Vlog",
-          "subcategory": "その他チャンネル",
-          "url": "https://www.youtube.com/@yuuka_chan815"
         }
       ]
     }

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-04-09T16:19:45.927683",
+  "updated_at": "2026-04-10T15:56:18.335661",
   "videos": [
+    {
+      "id": "vF3xee64A9E",
+      "title": "【ヴィンテージカーで広島を観光してみんさい！】車好き必見のレンタカーショップ",
+      "description": "",
+      "publishedAt": "2026-04-10T09:30:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vF3xee64A9E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vF3xee64A9E"
+    },
+    {
+      "id": "dveT3UFkgp8",
+      "title": "【キッズチャレンジスタジアム】かんなちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-04-10T09:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dveT3UFkgp8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dveT3UFkgp8"
+    },
     {
       "id": "o0ghD7ZH6FE",
       "title": "【キッズチャレンジスタジアム】あきとくん＿広テレ",
