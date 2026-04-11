@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-04-09T16:20:47.073688",
+  "updated_at": "2026-04-11T15:38:05.151026",
   "videos": [
+    {
+      "id": "M5rM3IceqZU",
+      "title": "【テレQ番宣】ぐっ！ジョブ（4月18日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-04-11T15:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M5rM3IceqZU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M5rM3IceqZU"
+    },
+    {
+      "id": "PGrgdgQkXKs",
+      "title": "アイライフスタイル ♯44 「お庭でテント」（テレQ 2026年4月11日放送）",
+      "description": "",
+      "publishedAt": "2026-04-11T11:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PGrgdgQkXKs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PGrgdgQkXKs"
+    },
     {
       "id": "0kysHVZRRhg",
       "title": "【夢クルーズ】602 本岳寺(2026年4月9日放送)",

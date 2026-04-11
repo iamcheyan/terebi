@@ -1,8 +1,68 @@
 {
   "channel_id": "UCrEU0b3lpZyrFh7VImwWkxA",
   "channel_name": "テレビ朝日公式チャンネル",
-  "updated_at": "2026-04-10T15:56:48.217172",
+  "updated_at": "2026-04-11T15:38:16.004328",
   "videos": [
+    {
+      "id": "uKOSHdtCwjc",
+      "title": "【私の幸福時間】2026/04/11（土）放送 No.1008 大阪府／演劇",
+      "description": "",
+      "publishedAt": "2026-04-11T13:17:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uKOSHdtCwjc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uKOSHdtCwjc"
+    },
+    {
+      "id": "xtI9BiRzkqA",
+      "title": "高橋恭平 藤原丈一郎 バッテリィズ完コピ #なにわ男子の逆転男子 #shorts",
+      "description": "",
+      "publishedAt": "2026-04-11T10:30:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xtI9BiRzkqA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xtI9BiRzkqA"
+    },
+    {
+      "id": "srXwnTPq5q0",
+      "title": "道枝駿佑 大西流星 ぺこぱを完全再現 #なにわ男子の逆転男子 #shorts",
+      "description": "",
+      "publishedAt": "2026-04-11T10:30:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/srXwnTPq5q0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=srXwnTPq5q0"
+    },
+    {
+      "id": "AWCxuLVFYUk",
+      "title": "テレビアニメ【ドラえもん】2026年4月18日（土）放送 予告動画",
+      "description": "",
+      "publishedAt": "2026-04-11T08:28:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AWCxuLVFYUk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AWCxuLVFYUk"
+    },
+    {
+      "id": "u6xZ2olXbAs",
+      "title": "【食彩の王国】2026年4月18日（土）放送 予告動画",
+      "description": "",
+      "publishedAt": "2026-04-11T01:03:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u6xZ2olXbAs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u6xZ2olXbAs"
+    },
     {
       "id": "JQfdqtAOtaA",
       "title": "【私の幸福時間】2026/04/10（金）放送 No.1007 大阪府／酒蔵巡り",

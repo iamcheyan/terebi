@@ -1,8 +1,32 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-04-08T16:17:41.597853",
+  "updated_at": "2026-04-11T15:37:50.258086",
   "videos": [
+    {
+      "id": "Z4U9psC7nVY",
+      "title": "【わんにゃんプラスかごしま】「優しい心配り♪」",
+      "description": "",
+      "publishedAt": "2026-04-11T08:45:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z4U9psC7nVY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z4U9psC7nVY"
+    },
+    {
+      "id": "BPOfuK4ME-Y",
+      "title": "河内あづきの鹿児島あっちこっちスペシャル　4月11日（土）",
+      "description": "",
+      "publishedAt": "2026-04-11T08:25:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BPOfuK4ME-Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BPOfuK4ME-Y"
+    },
     {
       "id": "er_jjA__gLc",
       "title": "河内あづきの鹿児島あっちこっち　シーズン2　4月8日（水）",

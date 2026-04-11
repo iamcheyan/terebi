@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-10T15:56:48.731727",
+  "updated_at": "2026-04-11T15:38:17.277375",
   "videos": [
+    {
+      "id": "bSkGYQadV4g",
+      "title": "260411 155417 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-04-11T12:19:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bSkGYQadV4g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bSkGYQadV4g"
+    },
+    {
+      "id": "Cv7jKim7GsE",
+      "title": "260411 155037 兼近第１踏切 ２",
+      "description": "",
+      "publishedAt": "2026-04-11T12:15:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cv7jKim7GsE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cv7jKim7GsE"
+    },
+    {
+      "id": "WJ7IeXDCt3Y",
+      "title": "260411 154516 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-04-11T11:58:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WJ7IeXDCt3Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WJ7IeXDCt3Y"
+    },
+    {
+      "id": "XhVaQb9Fy1s",
+      "title": "260411 153552 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-04-11T11:42:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XhVaQb9Fy1s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XhVaQb9Fy1s"
+    },
+    {
+      "id": "iAJthCax7AI",
+      "title": "260411 153235 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-04-11T11:41:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iAJthCax7AI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iAJthCax7AI"
+    },
     {
       "id": "zSOmKPWQiRM",
       "title": "260410 135022 小井手踏切（かっぱ列車通過）",

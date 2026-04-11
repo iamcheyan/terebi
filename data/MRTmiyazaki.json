@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-04-09T16:20:37.677919",
+  "updated_at": "2026-04-11T15:37:52.056358",
   "videos": [
+    {
+      "id": "SMAhTIMYj4c",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-04-11T02:58:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SMAhTIMYj4c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SMAhTIMYj4c"
+    },
     {
       "id": "FE8tJlNkfMo",
       "title": "【第117回】だいちゃんと行く‼︎よりみちさんぽ〈ラン活事情〉",
