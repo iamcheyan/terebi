@@ -1,8 +1,20 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-04-11T15:38:05.151026",
+  "updated_at": "2026-04-12T15:38:51.764355",
   "videos": [
+    {
+      "id": "T9vaO3lOkmY",
+      "title": "【テレQ番宣】ブルーリバーの望むところだ！（4月19日（日）13:30～）",
+      "description": "",
+      "publishedAt": "2026-04-12T04:23:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T9vaO3lOkmY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T9vaO3lOkmY"
+    },
     {
       "id": "M5rM3IceqZU",
       "title": "【テレQ番宣】ぐっ！ジョブ（4月18日（土）14:30～）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCxiRdfyH0FtFCRZTRfRsdsA",
   "channel_name": "中京テレビ",
-  "updated_at": "2026-04-11T15:38:17.689995",
+  "updated_at": "2026-04-12T15:38:57.302673",
   "videos": [
+    {
+      "id": "IiLonieybpo",
+      "title": "三重・津市　「三多気の桜」見ごろ",
+      "description": "",
+      "publishedAt": "2026-04-12T02:45:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IiLonieybpo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IiLonieybpo"
+    },
+    {
+      "id": "KDcsjuZX2UM",
+      "title": "愛知・蒲郡市　樹熟デコポンの出荷最盛期",
+      "description": "",
+      "publishedAt": "2026-04-12T02:45:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KDcsjuZX2UM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KDcsjuZX2UM"
+    },
     {
       "id": "nlEzA4Y0R4E",
       "title": "「丸山千枚田」で田植えを前に「あぜ塗り」の作業　三重・熊野市",

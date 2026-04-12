@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-04-11T15:37:03.464767",
+  "updated_at": "2026-04-12T15:38:31.267215",
   "videos": [
+    {
+      "id": "Hc-MKhBBwGo",
+      "title": "食遺産File.242「アスパラとイカの焦がしバター炒め」＠奈良県・橿原市",
+      "description": "",
+      "publishedAt": "2026-04-12T03:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hc-MKhBBwGo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hc-MKhBBwGo"
+    },
     {
       "id": "PovJOFoSMVU",
       "title": "【よゐこ有野】この街、攻略しとく？祝プロ野球開幕！阪神甲子園球場を大解剖　～阪神OBのアノ人と行く⁉球場絶品グルメいただきま～すの巻～",

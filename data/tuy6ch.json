@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2026-04-11T15:38:04.143344",
+  "updated_at": "2026-04-12T15:38:51.324482",
   "videos": [
+    {
+      "id": "qQITRPUjcnE",
+      "title": "循環型肥育 尾花沢ブランド",
+      "description": "",
+      "publishedAt": "2026-04-12T04:01:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qQITRPUjcnE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qQITRPUjcnE"
+    },
     {
       "id": "LaFsTYWt1Pw",
       "title": "物価高の今こそ！お財布に優しいリーズナブルな食堂特集",
