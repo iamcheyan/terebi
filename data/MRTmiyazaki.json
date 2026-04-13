@@ -1,8 +1,68 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-04-11T15:37:52.056358",
+  "updated_at": "2026-04-13T16:16:33.167522",
   "videos": [
+    {
+      "id": "E1XTlTXTl5A",
+      "title": "2026年4月10日放送",
+      "description": "",
+      "publishedAt": "2026-04-13T05:38:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E1XTlTXTl5A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E1XTlTXTl5A"
+    },
+    {
+      "id": "1p6GACBYW34",
+      "title": "2026年4月9日放送",
+      "description": "",
+      "publishedAt": "2026-04-13T05:29:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1p6GACBYW34/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1p6GACBYW34"
+    },
+    {
+      "id": "_Wp9D9UTTLI",
+      "title": "2026年4月8日放送",
+      "description": "",
+      "publishedAt": "2026-04-13T05:29:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_Wp9D9UTTLI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_Wp9D9UTTLI"
+    },
+    {
+      "id": "Y4jiw8I740I",
+      "title": "2026年4月7日放送",
+      "description": "",
+      "publishedAt": "2026-04-13T05:23:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y4jiw8I740I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y4jiw8I740I"
+    },
+    {
+      "id": "9EDVIQtvnrQ",
+      "title": "2026年4月6日放送",
+      "description": "",
+      "publishedAt": "2026-04-13T05:23:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9EDVIQtvnrQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9EDVIQtvnrQ"
+    },
     {
       "id": "SMAhTIMYj4c",
       "title": "アバンなドッキング",

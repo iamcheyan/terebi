@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-04-12T15:38:25.117209",
+  "updated_at": "2026-04-13T16:15:57.759865",
   "videos": [
+    {
+      "id": "TGb07MWKUm4",
+      "title": "カナフルTV　次回予告（4月19日放送）",
+      "description": "",
+      "publishedAt": "2026-04-13T04:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TGb07MWKUm4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TGb07MWKUm4"
+    },
+    {
+      "id": "5ZCmRpYpexQ",
+      "title": "猫のひたいほどワイド #1720 潜入リポート・大久保琉唯「子どもが喜ぶ！○○パフォーマーを調査」（小田原市）",
+      "description": "",
+      "publishedAt": "2026-04-13T03:56:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5ZCmRpYpexQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5ZCmRpYpexQ"
+    },
+    {
+      "id": "M8IzS-a1lrc",
+      "title": "猫のひたいほどワイド #1720 潜入リポート・奥谷知弘「今年もよろしく！NEOちひろと楽しい朝活」（川崎市高津区）",
+      "description": "",
+      "publishedAt": "2026-04-13T03:56:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M8IzS-a1lrc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M8IzS-a1lrc"
+    },
     {
       "id": "TAW6RfEyJnA",
       "title": "【まばゆい】トヨタ ランクル プラドEX　「新車情報アーカイブス」　1990年放送",

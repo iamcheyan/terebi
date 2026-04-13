@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-04-11T15:36:59.409749",
+  "updated_at": "2026-04-13T16:16:15.486845",
   "videos": [
+    {
+      "id": "U-5WBbjvf5k",
+      "title": "めっちゃ怖い先輩アナ？車中トーク",
+      "description": "",
+      "publishedAt": "2026-04-13T08:04:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U-5WBbjvf5k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U-5WBbjvf5k"
+    },
     {
       "id": "Zu_SAAQ0b-I",
       "title": "第2824回 人間将棋対局開始　盤上の地方創生「提言の広場」",

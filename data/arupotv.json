@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-04-12T15:38:48.494028",
+  "updated_at": "2026-04-13T16:16:35.624249",
   "videos": [
+    {
+      "id": "LojBSg7VQak",
+      "title": "【番宣】４月１８日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-04-13T08:49:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LojBSg7VQak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LojBSg7VQak"
+    },
+    {
+      "id": "rZPaI3KF2tw",
+      "title": "【番宣】４月１５日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-04-13T05:09:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rZPaI3KF2tw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rZPaI3KF2tw"
+    },
     {
       "id": "W_350tzk9hY",
       "title": "第98回 めざせ！くまもとの若き匠たち【熊本工業高校 電子科】",
