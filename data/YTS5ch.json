@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-04-13T16:16:15.486845",
+  "updated_at": "2026-04-14T16:10:40.665647",
   "videos": [
+    {
+      "id": "HyjPKgmqhPA",
+      "title": "【あさは５ちゃん！】2026年4月18日放送",
+      "description": "",
+      "publishedAt": "2026-04-14T01:02:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HyjPKgmqhPA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HyjPKgmqhPA"
+    },
+    {
+      "id": "y6lTMiXvA-A",
+      "title": "シビれる辛さがクセになる！",
+      "description": "",
+      "publishedAt": "2026-04-14T00:24:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y6lTMiXvA-A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y6lTMiXvA-A"
+    },
     {
       "id": "U-5WBbjvf5k",
       "title": "めっちゃ怖い先輩アナ？車中トーク",

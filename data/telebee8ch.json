@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-04-12T15:38:50.848412",
+  "updated_at": "2026-04-14T16:11:30.192450",
   "videos": [
+    {
+      "id": "vf4yX0rbR6k",
+      "title": "【公式】「西隆行の1minute」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-14T03:01:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vf4yX0rbR6k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vf4yX0rbR6k"
+    },
+    {
+      "id": "b3hJXr68cJs",
+      "title": "【公式】「西隆行／陶芸家」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-14T03:00:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b3hJXr68cJs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b3hJXr68cJs"
+    },
     {
       "id": "XDOMY8_I9mE",
       "title": "【公式】「子どもの歯ぎしり 見守っていていい？」（2026年4月12日放送）｜テレビ西日本",

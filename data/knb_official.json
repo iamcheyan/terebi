@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-04-07T16:11:57.936933",
+  "updated_at": "2026-04-14T16:11:15.945062",
   "videos": [
+    {
+      "id": "9Qcm18WBI5o",
+      "title": "【旬景とやま】里の春を飾る",
+      "description": "",
+      "publishedAt": "2026-04-14T10:20:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9Qcm18WBI5o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9Qcm18WBI5o"
+    },
     {
       "id": "enkItGZaPO8",
       "title": "【旬景とやま】春の風 春の色",

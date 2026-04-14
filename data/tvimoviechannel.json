@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-13T16:16:40.818701",
+  "updated_at": "2026-04-14T16:11:31.799615",
   "videos": [
+    {
+      "id": "UdbYWgKVSqY",
+      "title": "今日の５きげんテレビ（4月15日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-14T15:00:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UdbYWgKVSqY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UdbYWgKVSqY"
+    },
+    {
+      "id": "sEBGqyfZFlA",
+      "title": "新体験の自家製パン｜MAISON DE L’AMITIÉ",
+      "description": "",
+      "publishedAt": "2026-04-14T10:53:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sEBGqyfZFlA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sEBGqyfZFlA"
+    },
+    {
+      "id": "GorZARQk4to",
+      "title": "５きげんクッキング ～ワンパンホットサンド～",
+      "description": "",
+      "publishedAt": "2026-04-14T08:25:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GorZARQk4to/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GorZARQk4to"
+    },
     {
       "id": "6YU86I-op2Q",
       "title": "今日の５きげんテレビ（4月14日）｜テレビ岩手",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-04-13T16:16:09.093533",
+  "updated_at": "2026-04-14T16:10:27.673169",
   "videos": [
+    {
+      "id": "08EgzpExQZI",
+      "title": "われら！シン・呉Tuber＃01「マイクレポイントをゲットしよう」",
+      "description": "",
+      "publishedAt": "2026-04-14T10:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/08EgzpExQZI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=08EgzpExQZI"
+    },
+    {
+      "id": "pNVVbzh-e2s",
+      "title": "【キッズチャレンジスタジアム】かなとくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-04-14T09:01:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pNVVbzh-e2s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pNVVbzh-e2s"
+    },
     {
       "id": "4mRlCOloOms",
       "title": "第501回　ひろおく便り　庄原市　里山の恵みを全国へ　「里山・庄原 セレクトショップ」",
