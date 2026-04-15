@@ -1,8 +1,20 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-04-14T16:10:55.437373",
+  "updated_at": "2026-04-15T16:08:04.746460",
   "videos": [
+    {
+      "id": "G7ioMTz-Idw",
+      "title": "Episode1　 結太朗　花見しまっせ",
+      "description": "",
+      "publishedAt": "2026-04-15T12:45:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G7ioMTz-Idw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G7ioMTz-Idw"
+    },
     {
       "id": "GBiAUwLEG5k",
       "title": "【いろはに千鳥】タバコ界の救世主、大悟が驚く　ロマンあふれるライターが勢揃い！【4/21予告】",

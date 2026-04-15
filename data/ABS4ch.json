@@ -1,8 +1,152 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-04-14T16:11:05.094860",
+  "updated_at": "2026-04-15T16:08:18.034690",
   "videos": [
+    {
+      "id": "He0d3o9sMLU",
+      "title": "【秋田広告協会賞】クリエーター部門・グランプリ作品一挙公開",
+      "description": "",
+      "publishedAt": "2026-04-15T06:09:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/He0d3o9sMLU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=He0d3o9sMLU"
+    },
+    {
+      "id": "QHuQpz-uDU8",
+      "title": "【秋田広告協会賞】ラジオ部門「シリーズ・秋田にお越しのみなさんへ」",
+      "description": "",
+      "publishedAt": "2026-04-15T06:09:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QHuQpz-uDU8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QHuQpz-uDU8"
+    },
+    {
+      "id": "c6omD93iv-Y",
+      "title": "【秋田広告協会賞】ABSあきたアプリCMが2部門で受賞！",
+      "description": "",
+      "publishedAt": "2026-04-15T06:09:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c6omD93iv-Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c6omD93iv-Y"
+    },
+    {
+      "id": "odYx9Ys1T94",
+      "title": "変わる男鹿！鉄工所跡地にピザ専門店オープン",
+      "description": "",
+      "publishedAt": "2026-04-15T05:30:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/odYx9Ys1T94/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=odYx9Ys1T94"
+    },
+    {
+      "id": "UuMeJVIASDw",
+      "title": "観光スポット巨大なまはげ像 一部破損が見つかる",
+      "description": "",
+      "publishedAt": "2026-04-15T03:09:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UuMeJVIASDw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UuMeJVIASDw"
+    },
+    {
+      "id": "7zPsWLTEP-Q",
+      "title": "竿燈まつりでドローンショー 35万円のプレミアム観覧席も！",
+      "description": "",
+      "publishedAt": "2026-04-15T02:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7zPsWLTEP-Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7zPsWLTEP-Q"
+    },
+    {
+      "id": "eEi-ta_OGJo",
+      "title": "ＧＷの秋田新幹線 去年より2割増の予約",
+      "description": "",
+      "publishedAt": "2026-04-15T01:30:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eEi-ta_OGJo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eEi-ta_OGJo"
+    },
+    {
+      "id": "qH2GLqvV7Yo",
+      "title": "【サクラ満開】秋田市千秋公園 大にぎわい！",
+      "description": "",
+      "publishedAt": "2026-04-15T00:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qH2GLqvV7Yo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qH2GLqvV7Yo"
+    },
+    {
+      "id": "Kqc6PgkS5Y0",
+      "title": "【カラス】高さ10ｍで巣の撤去 停電防ぐ作業に密着！",
+      "description": "",
+      "publishedAt": "2026-04-14T23:54:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kqc6PgkS5Y0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kqc6PgkS5Y0"
+    },
+    {
+      "id": "5ivRpynSXfQ",
+      "title": "【イノシシ】小学校グラウンドに無数の穴「外で遊べない…」",
+      "description": "",
+      "publishedAt": "2026-04-14T23:49:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5ivRpynSXfQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5ivRpynSXfQ"
+    },
+    {
+      "id": "oqaXnnogJng",
+      "title": "【クマ出没】秋田市新屋で複数目撃「クマ潜んでいる恐れ」",
+      "description": "",
+      "publishedAt": "2026-04-14T23:42:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oqaXnnogJng/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oqaXnnogJng"
+    },
+    {
+      "id": "rj8kstgPqrM",
+      "title": "【風車事故】鈴木知事経産省に緊急要望「1年で２度。重く受け止め」",
+      "description": "",
+      "publishedAt": "2026-04-14T23:41:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rj8kstgPqrM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rj8kstgPqrM"
+    },
     {
       "id": "2izgfUiHf_Y",
       "title": "【桜開花・投稿映像】仙北市角館町・武家屋敷通り 14日（火）AM10：00",

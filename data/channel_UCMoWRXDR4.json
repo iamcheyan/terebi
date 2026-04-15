@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-04-14T16:10:48.021040",
+  "updated_at": "2026-04-15T16:07:37.789650",
   "videos": [
+    {
+      "id": "0m-MgrUgY0I",
+      "title": "#27「韓国語でこそあど！」【KAN･KAN･KAN !～スンジュンの5分で完了簡単韓国語ドラマ～】（チバテレ公式）",
+      "description": "",
+      "publishedAt": "2026-04-15T08:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0m-MgrUgY0I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0m-MgrUgY0I"
+    },
     {
       "id": "oyNWnrRxmaM",
       "title": "チバテレ採用　INTERVIEW～営業部～",

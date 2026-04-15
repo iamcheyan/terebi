@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-04-11T15:37:09.060915",
+  "updated_at": "2026-04-15T16:07:39.048091",
   "videos": [
+    {
+      "id": "0FmaDz84XlE",
+      "title": "「ひとり親家庭を応援！とみまるデジタルポイント」教えて！ケロ先生 #122（2026年4月15日放送分）",
+      "description": "",
+      "publishedAt": "2026-04-15T14:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0FmaDz84XlE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0FmaDz84XlE"
+    },
+    {
+      "id": "rxToqjDMArw",
+      "title": "【ハイスクールチェック】富山工業高校（2026年4月6日～9日、15日放送）",
+      "description": "",
+      "publishedAt": "2026-04-15T03:01:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rxToqjDMArw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rxToqjDMArw"
+    },
     {
       "id": "QrvvuQZalDE",
       "title": "【カターレ富山】魅惑の韓国コンビ！インタビューフルバージョン～KICK OFF! TOYAMA（キックオフとやま）",
