@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-15T16:08:32.499127",
+  "updated_at": "2026-04-16T16:24:45.222800",
   "videos": [
+    {
+      "id": "wwziBM9j6po",
+      "title": "今日の５きげんテレビ（4月17日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-16T15:01:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wwziBM9j6po/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wwziBM9j6po"
+    },
+    {
+      "id": "RTPMw-LCK1k",
+      "title": "隠れた名店｜M@chou(マッシュ)",
+      "description": "",
+      "publishedAt": "2026-04-16T10:26:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RTPMw-LCK1k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RTPMw-LCK1k"
+    },
     {
       "id": "N7WJLnVM_ss",
       "title": "今日の５きげんテレビ（4月16日）｜テレビ岩手",

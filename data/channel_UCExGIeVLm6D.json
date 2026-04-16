@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-04-14T16:10:32.458273",
+  "updated_at": "2026-04-16T16:24:20.673642",
   "videos": [
+    {
+      "id": "szZGxrEsqSs",
+      "title": "RCCテレビ『元就。』2026年4月19日予告",
+      "description": "",
+      "publishedAt": "2026-04-16T01:39:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/szZGxrEsqSs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=szZGxrEsqSs"
+    },
+    {
+      "id": "0coJHIK6X4o",
+      "title": "RCCテレビ『アインシュタインの出没！ひな壇団』2026年4月25日予告",
+      "description": "",
+      "publishedAt": "2026-04-16T01:35:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0coJHIK6X4o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0coJHIK6X4o"
+    },
     {
       "id": "IpQY76Fy3W8",
       "title": "『元就。二百万一心！』 #251　2026年4月11日",

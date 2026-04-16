@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-15T16:08:38.603823",
+  "updated_at": "2026-04-16T16:24:51.201794",
   "videos": [
+    {
+      "id": "anlEjw9Of9I",
+      "title": "260416 155333 宮野下第１踏切",
+      "description": "",
+      "publishedAt": "2026-04-16T12:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/anlEjw9Of9I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=anlEjw9Of9I"
+    },
+    {
+      "id": "5VWjdhSL9Yw",
+      "title": "260416 154419 黄色い列車行き違い（伊予宮野下駅）",
+      "description": "",
+      "publishedAt": "2026-04-16T11:51:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5VWjdhSL9Yw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5VWjdhSL9Yw"
+    },
+    {
+      "id": "ySQzhd0uVFM",
+      "title": "260416 141204 出目踏切",
+      "description": "",
+      "publishedAt": "2026-04-16T11:47:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ySQzhd0uVFM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ySQzhd0uVFM"
+    },
+    {
+      "id": "VPJrwHoffto",
+      "title": "260416 140652 鬼列車（出目駅）",
+      "description": "",
+      "publishedAt": "2026-04-16T11:42:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VPJrwHoffto/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VPJrwHoffto"
+    },
     {
       "id": "3_-CHbaehlo",
       "title": "260415 173031 永野市第１踏切",

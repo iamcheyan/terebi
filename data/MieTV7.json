@@ -1,8 +1,80 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-04-15T16:08:38.205035",
+  "updated_at": "2026-04-16T16:24:50.679107",
   "videos": [
+    {
+      "id": "EHXnuvzzrUE",
+      "title": "「100円朝食」で学生支援　皇學館大学",
+      "description": "",
+      "publishedAt": "2026-04-16T07:24:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EHXnuvzzrUE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EHXnuvzzrUE"
+    },
+    {
+      "id": "LaQg_BWpVWs",
+      "title": "原油高、津市の物流・クリーニング現場を直撃　三重・津市",
+      "description": "",
+      "publishedAt": "2026-04-16T00:33:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LaQg_BWpVWs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LaQg_BWpVWs"
+    },
+    {
+      "id": "J9YsiwaWHwI",
+      "title": "福祉施設における虐待防止を　三重県社会福祉士会が声明",
+      "description": "",
+      "publishedAt": "2026-04-16T00:27:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J9YsiwaWHwI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J9YsiwaWHwI"
+    },
+    {
+      "id": "ZVaF-cOTwl4",
+      "title": "「100円朝食」で学生支援　皇學館大学",
+      "description": "",
+      "publishedAt": "2026-04-16T00:27:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZVaF-cOTwl4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZVaF-cOTwl4"
+    },
+    {
+      "id": "SB-GRc5-L5c",
+      "title": "中東情勢の悪化による原油価格の高騰　三重県が相談窓口を設置　経営や資金繰りの相談に対応",
+      "description": "",
+      "publishedAt": "2026-04-16T00:23:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SB-GRc5-L5c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SB-GRc5-L5c"
+    },
+    {
+      "id": "fSTLD9Yanuc",
+      "title": "三重県のレギュラーガソリン平均165.6円　4週連続で前週下回るも高値続く",
+      "description": "",
+      "publishedAt": "2026-04-16T00:22:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fSTLD9Yanuc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fSTLD9Yanuc"
+    },
     {
       "id": "LmXNTzwefcY",
       "title": "色が変わる珍しいサクラ　御衣黄桜が見ごろ",

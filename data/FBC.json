@@ -1,8 +1,20 @@
 {
   "channel_id": "UC1wYVW1ckPFokkVJMkZfZUw",
   "channel_name": "FBC福井放送",
-  "updated_at": "2026-01-21T15:35:52.099194",
+  "updated_at": "2026-04-16T16:24:37.357465",
   "videos": [
+    {
+      "id": "9wMZ2-3Ma1k",
+      "title": "Bandido Bom",
+      "description": "",
+      "publishedAt": "2026-04-16T10:02:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9wMZ2-3Ma1k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9wMZ2-3Ma1k"
+    },
     {
       "id": "NssD5LhRiyk",
       "title": "Auto Ajuda (Ao Vivo no Sonastério)",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-04-15T16:08:35.360646",
+  "updated_at": "2026-04-16T16:24:47.908467",
   "videos": [
+    {
+      "id": "XiAlVbq4Alk",
+      "title": "愛媛のニュース(04月16日)",
+      "description": "",
+      "publishedAt": "2026-04-16T11:43:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XiAlVbq4Alk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XiAlVbq4Alk"
+    },
+    {
+      "id": "VSPIL-hEGTU",
+      "title": "【突撃！古野拓巳の裏バイクス】武内 理貴選手編",
+      "description": "",
+      "publishedAt": "2026-04-16T08:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VSPIL-hEGTU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VSPIL-hEGTU"
+    },
     {
       "id": "N3eZ27-o630",
       "title": "愛媛のニュース(04月15日)",

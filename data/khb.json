@@ -1,8 +1,152 @@
 {
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "KHB東日本放送",
-  "updated_at": "2026-04-15T16:08:24.636189",
+  "updated_at": "2026-04-16T16:24:39.078038",
   "videos": [
+    {
+      "id": "RGbXj-YvLFI",
+      "title": "川沿いの桜並木に広がる春の景色　仙台・太白区",
+      "description": "",
+      "publishedAt": "2026-04-16T09:57:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RGbXj-YvLFI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RGbXj-YvLFI"
+    },
+    {
+      "id": "euzxlx-gArA",
+      "title": "新庁舎完成を前に市役所の歴史をユニークに振り返る　宮城・気仙沼市",
+      "description": "",
+      "publishedAt": "2026-04-16T09:33:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/euzxlx-gArA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=euzxlx-gArA"
+    },
+    {
+      "id": "kAjAbIiWMFE",
+      "title": "外国人が活躍できる社会に向けてシンポジウム",
+      "description": "",
+      "publishedAt": "2026-04-16T09:33:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kAjAbIiWMFE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kAjAbIiWMFE"
+    },
+    {
+      "id": "-Uq2I31Nbsg",
+      "title": "クマの出没　東北地方で８５社が業務に影響",
+      "description": "",
+      "publishedAt": "2026-04-16T09:25:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-Uq2I31Nbsg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-Uq2I31Nbsg"
+    },
+    {
+      "id": "hHrI7KAvrao",
+      "title": "東北大学川内キャンパスでナイフ２本を所持したとして男（１９）を現行犯逮捕",
+      "description": "",
+      "publishedAt": "2026-04-16T09:19:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hHrI7KAvrao/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hHrI7KAvrao"
+    },
+    {
+      "id": "omg4z8lNeL4",
+      "title": "こどもの日を前に端午の節句の企画展　宮城・齋理屋敷",
+      "description": "",
+      "publishedAt": "2026-04-16T08:40:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/omg4z8lNeL4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=omg4z8lNeL4"
+    },
+    {
+      "id": "K6eRZB6Nb4U",
+      "title": "仙台・青葉まつり　費用確保のためクラウドファンディング開始",
+      "description": "",
+      "publishedAt": "2026-04-16T07:55:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K6eRZB6Nb4U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K6eRZB6Nb4U"
+    },
+    {
+      "id": "YUU66mxJlQI",
+      "title": "宮城・村田町がｋｈｂ提供のデータ放送サービス「テレビ回覧板」導入へ",
+      "description": "",
+      "publishedAt": "2026-04-16T07:54:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YUU66mxJlQI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YUU66mxJlQI"
+    },
+    {
+      "id": "N9ZWMJ_w3oE",
+      "title": "そば店兼住宅から出火し倉庫にも延焼　けが人は無し　宮城・大和町",
+      "description": "",
+      "publishedAt": "2026-04-16T07:46:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N9ZWMJ_w3oE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N9ZWMJ_w3oE"
+    },
+    {
+      "id": "rf5banOlM4I",
+      "title": "宮城県でクマの目撃が相次ぐ　栗原市・富谷市・村田町",
+      "description": "",
+      "publishedAt": "2026-04-16T07:44:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rf5banOlM4I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rf5banOlM4I"
+    },
+    {
+      "id": "se8x6M0HJ3A",
+      "title": "宮城県がクマ被害対策チームを発足　必要に応じ万全の対策を",
+      "description": "",
+      "publishedAt": "2026-04-16T02:51:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/se8x6M0HJ3A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=se8x6M0HJ3A"
+    },
+    {
+      "id": "L0gGcvY4GwA",
+      "title": "巡視船重油流出　被害を受けた漁業者への融資を受け付け　宮城県",
+      "description": "",
+      "publishedAt": "2026-04-16T02:49:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L0gGcvY4GwA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L0gGcvY4GwA"
+    },
     {
       "id": "45RWvJuuZdk",
       "title": "地域のシンボル　仙台・太白区広瀬橋たもとの桜",
