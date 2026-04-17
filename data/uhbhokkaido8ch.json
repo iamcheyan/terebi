@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-04-16T16:24:47.005855",
+  "updated_at": "2026-04-17T16:04:20.582340",
   "videos": [
+    {
+      "id": "Nnl-vhDgvtw",
+      "title": "発見！タカトシランド 2026年4月24日（金）OA",
+      "description": "",
+      "publishedAt": "2026-04-17T11:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nnl-vhDgvtw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nnl-vhDgvtw"
+    },
+    {
+      "id": "B6gpxquSwlg",
+      "title": "みんテレ　4月20日（月）放送",
+      "description": "",
+      "publishedAt": "2026-04-17T10:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B6gpxquSwlg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B6gpxquSwlg"
+    },
     {
       "id": "id6idnShlUQ",
       "title": "みんテレ　4月17日（金）放送",

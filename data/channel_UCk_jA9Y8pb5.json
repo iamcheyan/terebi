@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-04-15T16:07:51.016764",
+  "updated_at": "2026-04-17T16:03:42.598838",
   "videos": [
+    {
+      "id": "L0sllBgR_cg",
+      "title": "あたらしいむがしコ「ウサギのしっぽ」",
+      "description": "",
+      "publishedAt": "2026-04-17T02:50:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L0sllBgR_cg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L0sllBgR_cg"
+    },
     {
       "id": "qC68-N7BvEE",
       "title": "【パシャロケ！】ベストショット探しの旅　十和田湖①",

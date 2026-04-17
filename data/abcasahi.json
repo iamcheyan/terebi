@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-04-16T16:24:27.097935",
+  "updated_at": "2026-04-17T16:03:31.696410",
   "videos": [
+    {
+      "id": "ksvgFLbcNdE",
+      "title": "５歳の息子渾身の獅子舞",
+      "description": "",
+      "publishedAt": "2026-04-17T09:01:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ksvgFLbcNdE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ksvgFLbcNdE"
+    },
+    {
+      "id": "nTwbt4fYfqo",
+      "title": "海外の旅はマカオ！ゲストの旅は畑芽育！「旅サラダ」4月18日（土）放送",
+      "description": "",
+      "publishedAt": "2026-04-17T01:21:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nTwbt4fYfqo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nTwbt4fYfqo"
+    },
     {
       "id": "huUDsRQyCEM",
       "title": "「なるみ・岡村の過ぎるTV」4月20日（月）放送",

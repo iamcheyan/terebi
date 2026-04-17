@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-04-16T16:24:44.689486",
+  "updated_at": "2026-04-17T16:04:15.745824",
   "videos": [
+    {
+      "id": "bpSlnNZxr-I",
+      "title": "【公式】2026年4月24日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-17T11:01:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bpSlnNZxr-I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bpSlnNZxr-I"
+    },
+    {
+      "id": "dKXcLUKZzc4",
+      "title": "【公式】「はじめての手つなぎ歩き」（04月17日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-17T03:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dKXcLUKZzc4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dKXcLUKZzc4"
+    },
     {
       "id": "gmoQAMGkMW0",
       "title": "【きっと青春の１ページ　福岡県編】＃２八幡中央高等学校 書道部",

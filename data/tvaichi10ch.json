@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-04-16T16:24:24.601211",
+  "updated_at": "2026-04-17T16:03:19.373538",
   "videos": [
+    {
+      "id": "3OCNwaDDHoY",
+      "title": "【ショートアニメ】メリ夫の大冒険#2 「ゆらゆら海藻の森」",
+      "description": "",
+      "publishedAt": "2026-04-17T10:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3OCNwaDDHoY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3OCNwaDDHoY"
+    },
+    {
+      "id": "S1IqJPxg1eM",
+      "title": "【全員探偵プロジェクト】大須商店街殺人事件　エピソード2　リアルイベント開催決定",
+      "description": "",
+      "publishedAt": "2026-04-17T01:01:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S1IqJPxg1eM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S1IqJPxg1eM"
+    },
     {
       "id": "9NTStXxKWrM",
       "title": "臭わない再生ゴムを作れ！【クルマとミライ】",

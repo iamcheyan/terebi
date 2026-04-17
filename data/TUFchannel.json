@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-04-16T16:24:45.079089",
+  "updated_at": "2026-04-17T16:04:17.050112",
   "videos": [
+    {
+      "id": "WvX5Yu3AbQ8",
+      "title": "【ふくしまSHOW】『外食チェーン店大特集　第４弾』",
+      "description": "",
+      "publishedAt": "2026-04-17T05:10:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WvX5Yu3AbQ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WvX5Yu3AbQ8"
+    },
     {
       "id": "5CuHr730wVs",
       "title": "【ふるさとを返せ！】原発事故の責任を問い続ける原告たちの15年【4月26日（日）15:30放送】",

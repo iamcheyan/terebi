@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-04-16T16:24:34.594518",
+  "updated_at": "2026-04-17T16:03:10.842075",
   "videos": [
+    {
+      "id": "QGzR5DP3YDs",
+      "title": "Bill Steckis' 27th Annual Free Baseball Clinic Gives Kids a Day to Learn the Game",
+      "description": "",
+      "publishedAt": "2026-04-16T22:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QGzR5DP3YDs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QGzR5DP3YDs"
+    },
+    {
+      "id": "V76ouozIMH0",
+      "title": "Omaha Supernovas Face a Pivotal Road Trip with Playoff Spot on the Line",
+      "description": "",
+      "publishedAt": "2026-04-16T19:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V76ouozIMH0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V76ouozIMH0"
+    },
     {
       "id": "2BI-gDNrUFY",
       "title": "NTV's Athlete of the Week: Hastings’ Thomsen leads Tigers with goal to return to State Tournament",
