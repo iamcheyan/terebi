@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-04-16T16:24:45.498307",
+  "updated_at": "2026-04-18T15:40:11.787845",
   "videos": [
+    {
+      "id": "3uG2g0AVbyY",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（4月25日（土）18:30～）",
+      "description": "",
+      "publishedAt": "2026-04-18T15:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3uG2g0AVbyY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3uG2g0AVbyY"
+    },
+    {
+      "id": "2PMeLkTNMlc",
+      "title": "4月25日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-04-18T12:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2PMeLkTNMlc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2PMeLkTNMlc"
+    },
+    {
+      "id": "TvwVyGHoMk4",
+      "title": "アイライフスタイル ♯45 「お揃いを編む」（テレQ 2026年4月18日放送）",
+      "description": "",
+      "publishedAt": "2026-04-18T11:59:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TvwVyGHoMk4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TvwVyGHoMk4"
+    },
+    {
+      "id": "YKd6XSrEWZ4",
+      "title": "【テレQ番宣】ちょっと福岡行ってきました！（4月25日(土)20:00～）放送",
+      "description": "",
+      "publishedAt": "2026-04-18T11:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YKd6XSrEWZ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YKd6XSrEWZ4"
+    },
     {
       "id": "eUNjtfVt4XA",
       "title": "【夢クルーズ】603 大原松露饅頭(2026年4月16日放送)",

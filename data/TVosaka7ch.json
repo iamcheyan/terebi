@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-04-12T15:38:31.267215",
+  "updated_at": "2026-04-18T15:39:35.249214",
   "videos": [
+    {
+      "id": "k6M_F-R4qAM",
+      "title": "【よゐこ有野】この街、攻略しとく？有野の地元！大阪・此花区ぶら～り ～３８年ぶり？よゐこ２人が青春時代を過ごした地で思い出探しの巻～",
+      "description": "",
+      "publishedAt": "2026-04-18T01:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k6M_F-R4qAM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k6M_F-R4qAM"
+    },
     {
       "id": "Hc-MKhBBwGo",
       "title": "食遺産File.242「アスパラとイカの焦がしバター炒め」＠奈良県・橿原市",

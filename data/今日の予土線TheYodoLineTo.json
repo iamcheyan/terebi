@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-17T16:04:30.734894",
+  "updated_at": "2026-04-18T15:40:16.551864",
   "videos": [
+    {
+      "id": "AkPBx5FYqFw",
+      "title": "260418 174914 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-04-18T11:48:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AkPBx5FYqFw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AkPBx5FYqFw"
+    },
+    {
+      "id": "haX5K5OPr3Q",
+      "title": "260418 174309 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-04-18T11:45:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/haX5K5OPr3Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=haX5K5OPr3Q"
+    },
+    {
+      "id": "6Z6V3LMA0rQ",
+      "title": "260418 174046 小井手踏切 ２",
+      "description": "",
+      "publishedAt": "2026-04-18T11:43:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6Z6V3LMA0rQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6Z6V3LMA0rQ"
+    },
+    {
+      "id": "-jOYqZs3RFk",
+      "title": "260418 173731 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-04-18T11:24:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-jOYqZs3RFk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-jOYqZs3RFk"
+    },
     {
       "id": "hiazGda04_U",
       "title": "260417 180649 深田第２踏切",
