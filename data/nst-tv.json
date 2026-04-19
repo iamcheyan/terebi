@@ -1,8 +1,869 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
-  "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2026-04-18T15:39:34.015427",
+  "channel_name": "NST Online",
+  "original_name": "NST新潟総合テレビ",
+  "updated_at": "2026-04-19T15:40:32.137070",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rQnthcUydexu29Ig5dd69eNOpTA",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjhSeTlaX0hjN1lv",
+      "snippet": {
+        "publishedAt": "2026-04-19T15:34:21Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Overlooked and underestimated,  this Wushu athlete still won medals",
+        "description": "STORYLINK:  https://www.nst.com.my/lifestyle/sunday-vibes/2026/04/1421046/malaysian-wushu-athlete-turned-discrimination-medals-—-and\n\nFrom facing prejudice to standing on international podiums, Jazmin Alag’s journey is one of resilience and determination. A wushu athlete since childhood, she has turned challenges into strength and continues to push forward, one performance at a time.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Ry9Z_Hc7Yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Ry9Z_Hc7Yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Ry9Z_Hc7Yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Ry9Z_Hc7Yo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Ry9Z_Hc7Yo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8Ry9Z_Hc7Yo"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gs7WzALdPSX_ciJcGdr88psgh3k",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkVlY0g5b1lvREhN",
+      "snippet": {
+        "publishedAt": "2026-04-14T03:04:17Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "US VP says ball now in Iran's court on peace talks",
+        "description": "Vice President JD Vance said Monday that Washington has made its red lines clear in talks with Iran on ending the Mideast war and it is now up to Teheran to take action.\n\nVance led a delegation that met with Iranian officials in Pakistan over the weekend, but the talks ended without securing a deal to end the more than five-week US-Israeli assault against the Islamic republic.\n\nRead more at: \nhttps://www.nst.com.my/world/world/2026/04/1417160/us-vp-says-ball-now-irans-court-peace-talks\n----------------------------------\n#NST #NSTTV #NSTOnline  #USIranTalks #JDVance #PeaceTalks #MiddleEastCrisis #IranNuclear #Geopolitics #GlobalSecurity #Diplomacy #NSTworld\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EecH9oYoDHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EecH9oYoDHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EecH9oYoDHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EecH9oYoDHM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EecH9oYoDHM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 73,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EecH9oYoDHM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4a6WTHxjtaDpjtwCGCEcEgsDYAo",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlNxYWFyaXdPdHZn",
+      "snippet": {
+        "publishedAt": "2026-04-14T03:00:36Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MARKET PULSE AM APR 14, 2026",
+        "description": "Bursa Malaysia opened higher on Tuesday, recouping some of the previous session’s losses in line with overnight gains on Wall Street.  \n\nWhile domestic stocks appear ripe for accumulation at current levels, investors are expected to remain on the sidelines.  \n\nThe index is likely to hover within the 1,675 to 1,690 range today.  \n\nIn the crypto market, Bitcoin fell to RM293,615.  \n\nEthereum declined to RM9,347, while Solana was down at RM340.  \n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SqaariwOtvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SqaariwOtvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SqaariwOtvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SqaariwOtvg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SqaariwOtvg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 74,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SqaariwOtvg"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2afl9cu1CY1C40pctSjVXwCZJp4",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlM5WEU1QjBjUWw4",
+      "snippet": {
+        "publishedAt": "2026-04-13T03:59:51Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Muhyiddin first to stand trial at newly established Special Corruption High Court",
+        "description": "Former prime minister Tan Sri Muhyiddin Yassin became the first accused to stand trial at the newly established Special Corruption High Court here today.\n\nThe Parti Pribumi Bersatu Malaysia president faces seven charges, comprising four counts of abuse of power and three counts of money laundering linked to the Jana Wibawa initiative.\n\nThe trial, presided over by High Court judge Noor Ruwena Md Nurdin, which was previously heard at the regular criminal High Court in March.\n\nThe case was moved to the Special Corruption High Court following Noor Ruwena's appointment, which took effect on April 1.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/04/1416513/muhyiddin-first-stand-trial-newly-established-special-corruption-high\n\n---------------------------------\n#NST #NSTTV #NSTOnline #MuhyiddinYassin #CorruptionTrial #SpecialCorruptionCourt #JanaWibawa #MACC #CourtCase #MalaysiaPolitics #RuleOfLaw #NSTnation\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S9XE5B0cQl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S9XE5B0cQl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S9XE5B0cQl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S9XE5B0cQl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S9XE5B0cQl8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 91,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S9XE5B0cQl8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cQaakfttsuDgJSg3E12KfhAFa_c",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm81S1lhdy1PalRn",
+      "snippet": {
+        "publishedAt": "2026-04-13T03:33:44Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Help pours in for Commonwealth Games legend Saravanan",
+        "description": "Former national race walker G. Saravanan, who won gold at the 1998 Commonwealth Games, is showing signs of improvement and is no longer heavily dependent on breathing assistance.\n\nThe 56-year-old has been battling Motor Neuron Disease since 2021, which previously left him bedridden and unable to speak.\n\nYouth and Sports Minister Dr Taufiq Johari said the ministry is not neglecting veteran athletes and is assessing Saravanan’s medical needs and monthly support.\n\nSaravanan made history at the Kuala Lumpur 1998 Games by winning the 50km race walk gold in 4 hours 10 minutes and 5 seconds, which remains a national record\nhttps://www.nst.com.my/sports/others/2026/04/1416232/help-pours-commonwealth-games-legend-saravanan.\n----------------------------------\n#NST #NSTTV #NST #MalaysiaNews #GSaravanan #aid #assistance #CommonwealthGames #legend #YouthMinister #DrTaufiqJohari #veteranathletes\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o5KYaw-OjTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o5KYaw-OjTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o5KYaw-OjTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o5KYaw-OjTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o5KYaw-OjTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 92,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o5KYaw-OjTg"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FWf6cYgsoPAUFwSmLrvuP9D3keg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkVza29wYzlmblZR",
+      "snippet": {
+        "publishedAt": "2026-04-13T03:28:03Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "B100 a 'genuine boost', set to disrupt diesel costs: Industry executives",
+        "description": "Felda’s plan to introduce 100 per cent palm oil based biodiesel B100 could reshape Malaysia’s fuel landscape by offering a cheaper alternative to conventional diesel.\n\nThe proposed fuel is estimated to cost below RM5 per litre at factory level, potentially delivering meaningful savings compared with current diesel prices of nearly RM7 per litre.\n\nIndustry players said locally produced palm oil biodiesel could reduce reliance on imported fuel while supporting smallholders and strengthening national energy security.\n\nThe pilot project remains limited to the Felda ecosystem for now, with broader rollout dependent on policy direction and sufficient palm oil supply.\n\nExperts said wider adoption could help ease subsidy pressures but must be carefully managed to avoid unintended impacts on cooking oil supply and prices.\n\nRead more: https://www.nst.com.my/business/economy/2026/04/1416395/b100-genuine-boost-set-disrupt-diesel-costs-industry-executives \n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Eskopc9fnVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Eskopc9fnVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Eskopc9fnVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Eskopc9fnVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Eskopc9fnVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 93,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Eskopc9fnVQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FhQEOOH3mRS9QSQinzl_fZB3DKQ",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnB3TjQ1QUhsd0g0",
+      "snippet": {
+        "publishedAt": "2026-04-13T03:16:55Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "RTD probes viral video of bus driver with woman on his lap",
+        "description": "The Road Transport Department (RTD) has launched an investigation after a viral video showed an express bus driver allegedly driving with a woman seated on his lap.\n\nIn the clip, believed to have been recorded by a passenger on board, the woman is seen handling the steering wheel while sitting on the driver's lap as the bus was in motion.\n\nA separate video, purportedly captured via dashcam from a trailing vehicle, also surfaced online showing what is believed to be the same bus swerving through traffic.\n\nBased on social media posts, the express bus was believed to have been travelling from Terminal Bersepadu Selatan (TBS) to Kulai when the incident occurred.\n\nRTD senior enforcement director Datuk Muhammad Kifli Ma Hassan said immediate action was taken after the videos went viral.\n\nRead more at:\nhttps://www.nst.com.my/news/regional/2026/04/1416501/rtd-probes-viral-video-bus-driver-woman-his-lap\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pwN45AHlwH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pwN45AHlwH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pwN45AHlwH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pwN45AHlwH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pwN45AHlwH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 94,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pwN45AHlwH4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5CwfZmGZHCl2eOcz7xXVeHUDXsE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlVPT01QT05reW0w",
+      "snippet": {
+        "publishedAt": "2026-04-13T03:16:20Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Teacher suspected of crashing into 2 students brought for remand",
+        "description": "A teacher suspected of crashing into two students in front of a school surau, resulting in the death of a Form One student yesterday, was brought to court this morning for a remand application.\n\nThe 57-year-old female teacher arrived at the magistrate's court at 8.40am in a police truck, dressed in a lock-up uniform.\n\nShe is expected to be remanded as the case is being investigated under Section 41(1) of the Road Transport Act 1987.\n\nYesterday, it was reported that a Form One student was killed while another was seriously injured after both were struck by a vehicle driven by a woman in front of the surau.\n\nDistrict police chief Assistant Commissioner Mohd Azmir Damiri said the 1.50pm incident involved a female driver and two female students.\n\nPreliminary investigations indicated that the woman is believed to have accidentally pressed the accelerator, causing the vehicle to lose control before crashing into the students of Sekolah Menengah Kebangsaan Tanjung Mas.\n\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/04/1416499/teacher-suspected-crashing-2-students-brought-remand\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UOOMPONkym0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UOOMPONkym0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UOOMPONkym0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UOOMPONkym0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UOOMPONkym0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 95,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UOOMPONkym0"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Cdnut9hOBc06AeNVFqFCH6F2giE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLklGQzYybjZ6R2VR",
+      "snippet": {
+        "publishedAt": "2026-04-13T03:12:43Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Two siblings, including SPM candidate, detained in border drug bust after Songkran trip",
+        "description": "Two siblings, including a Form Five student, were detained by the Kedah National Anti-Drugs Agency (Nada) after testing positive for drugs upon their return from Songkran celebrations in Dannok, Thailand, yesterday.\n\nThe siblings, aged 17 and 21, were intercepted during a roadblock at the Bukit Kayu Hitam Immigration, Customs, Quarantine and Security (ICQS) complex.\n\nUrine tests revealed the 21-year-old woman was positive for ketamine, MDMA, and methamphetamine. Her brother, a Sijil Pelajaran Malaysia (SPM) candidate, tested positive for ketamine.\n\nThe woman said they had travelled from their home in Kuala Perlis to Dannok by motorcycle on Saturday to join the festivities.\n\nHer brother admitted to being influenced by friends to try the substances.\n\nKedah Nada director Md Razif Wan said the special operation, which ran from Saturday morning until yesterday evening, followed intelligence that many Malaysians were crossing the border to visit entertainment outlets in Dannok.\n\nAuthorities inspected 25 cars and 35 motorcycles, screening 47 individuals in total.\n\nRead more at:\nhttps://www.nst.com.my/news/regional/2026/04/1416461/two-siblings-including-spm-candidate-detained-border-drug-bust-after\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IFC62n6zGeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IFC62n6zGeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IFC62n6zGeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IFC62n6zGeQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IFC62n6zGeQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 96,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IFC62n6zGeQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3hYrrT9HOT6MvVkKiRlQQ0pxPzM",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlRWdlZDNHdxMTJB",
+      "snippet": {
+        "publishedAt": "2026-04-13T03:11:11Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Police seize 76 vehicles in pre-dawn crackdown on illegal street racing",
+        "description": "Police mounted a pre-dawn crackdown on illegal racing hotspots here, screening 120 people and seizing 76 vehicles in an operation aimed at curbing dangerous \"road gangster\" activities.\n\nThe operation was carried out at the Gelang Patah northbound rest and service area and along the Nusajaya Highway in the early hours of yesterday.\n\nIskandar Puteri district police chief Assistant Commissioner M. Kumarasan said the targeted locations were identified through intelligence as gathering points for groups of motorcyclists and car enthusiasts involved in illegal racing and dangerous stunts.\n\nPolice inspected 51 cars and 55 motorcycles involving 107 men and 13 women aged between 13 and 45.\n\nA total of 107 summonses were issued for various traffic offences.\n\nAll seized vehicles will be referred to the Road Transport Department and the Environment Department for further action.\n\nRead more at:\nhttps://www.nst.com.my/news/regional/2026/04/1416474/police-seize-76-vehicles-pre-dawn-crackdown-illegal-street-racing\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TVvVC4wq12A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TVvVC4wq12A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TVvVC4wq12A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TVvVC4wq12A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TVvVC4wq12A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 97,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TVvVC4wq12A"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PHFd5Kvw6cWJUJqKTF0WJ7qRnF4",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlJ1NlN3ZWxfVVRj",
+      "snippet": {
+        "publishedAt": "2026-04-13T03:09:55Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Govt closely monitors Gaza aid flotilla mission – Amirudin",
+        "description": "The government will closely monitor the progress of the Global Sumud Flotilla (GSF) 2.0 humanitarian mission to ensure the safety of all Malaysian participants operating in high-risk zones.\n\nSpeaking aboard one of the vessels while observing activists who had begun their journey in the Mediterranean Sea, Selangor Menteri Besar Datuk Seri Amirudin Shari, who leads the Malaysian delegation, praised their resilience in undertaking the aid mission under challenging conditions.\n\nAmirudin, who was accompanied by lawyers from the Centre for Human Rights Research and Advocacy (Centhra), also offered words of encouragement to Malaysian activists, praying that the humanitarian voyage would proceed without disruption until it achieves its objectives.\n\nGSF 2.0 set sail from the Port of Barcelona to Gaza yesterday, with thousands of supporters from various countries gathering at Moll de la Fusta to send off the mission aimed at breaking the blockade on Gaza and delivering humanitarian aid to the Palestinian people.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/04/1416482/govt-closely-monitors-gaza-aid-flotilla-mission-–-amirudin\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ru6Swel_UTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ru6Swel_UTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ru6Swel_UTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ru6Swel_UTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ru6Swel_UTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 98,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ru6Swel_UTc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dCXnk3_r8Y4da8UJa-vcFeLSEXI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkNFS2VaYzc0ZG5n",
+      "snippet": {
+        "publishedAt": "2026-04-13T03:00:25Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM April 13, 2026",
+        "description": "Bursa Malaysia opened lower on Monday as cautious sentiment prevailed, with investors wary of uncertainties surrounding the fragile Iran–US ceasefire.  \n\nTrading remained muted as investors stayed sidelined amid a lack of clear catalysts, reflecting a broader wait-and-see approach.  \n\nThe benchmark index is expected to trend within the 1,685 to 1,695 range today. \n\nIn the crypto market, Bitcoin rose to RM282,507 on Iran's crypto toll plan for Strait of Hormuz. \n\nEthereum rose to RM8,749, while Solana was up at RM326. \n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CEKeZc74dng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CEKeZc74dng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CEKeZc74dng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CEKeZc74dng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CEKeZc74dng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 99,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CEKeZc74dng"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "69buRNRLrTlBz-g-APQB3GRxHzs",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnplTUpmeDBBb0o0",
+      "snippet": {
+        "publishedAt": "2026-04-12T16:30:31Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Trump says US to start blockading the Strait of Hormuz immediately",
+        "description": "US President Donald Trump on Sunday said the US Navy would immediately start blockading the Strait of Hormuz and would also interdict every vessel in international waters that had paid a toll to Iran.\n\nTrump made his remarks in a Truth Social post hours after US-Iran peace talks ended without a deal.\n\nTrump said the meeting \"went well, most points were agreed,\" but added the two sides had not agreed on Iran's nuclear programme.\n\nSTORYLINK: https://www.nst.com.my/world/world/2026/04/1416217/trump-says-us-start-blockading-strait-hormuz-immediately\n\n\n---------------------------------\n#NST #NSTTV  US, ISRAEL, US NAVY, IRAN, TRUMP, CEASEFIRE, PEACE TALK, STRAIT OF HORMUZ, BLOKADE\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zeMJfx0AoJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zeMJfx0AoJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zeMJfx0AoJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zeMJfx0AoJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zeMJfx0AoJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 100,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zeMJfx0AoJ4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QBd174ocOrzo_emG5Y1XjryDowM",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjdQZW5jNVpoQ3Nn",
+      "snippet": {
+        "publishedAt": "2026-04-09T03:30:58Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Anwar  True cost of Middle East crisis deeper than safe passage of ships",
+        "description": "Prime Minister Datuk Seri Anwar Ibrahim has pushed back against misinformation on rising fuel prices, warning that the true cost of the Middle East crisis runs far deeper than its critics acknowledge.\n\nAnwar said that while a Malaysian‑owned ship transited the Strait of Hormuz on April 7, weeks after the United States‑Israeli attacks on Iran began, safe passage was only part of the picture.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/04/1413626/anwar-true-cost-middle-east-crisis-deeper-safe-passage-ships\n\n----------------------------------\n#NST #NSTTV NSTOnline #NSTnation #AnwarIbrahim #MiddleEastCrisis #StraitOfHormuz #GlobalEconomy #OilCrisis #Geopolitics #Malaysia #EnergySecurity #WorldNews\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Penc5ZhCsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Penc5ZhCsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Penc5ZhCsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Penc5ZhCsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Penc5ZhCsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 137,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7Penc5ZhCsg"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oSMfTxsdc5XyYxb4ZZZc-Q6xTYU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnFiOUY0UDVSdmdV",
+      "snippet": {
+        "publishedAt": "2026-04-09T03:01:02Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM April 9, 2026",
+        "description": "Bursa Malaysia's 30-stock index opened lower on Thursday as investors remained cautious on the Middle East conflict.\n\nThe key index opened nearly four points lower at 1,692.\n\nIn the crypto exchange, Bitcoin dropped to RM282,247.\n\nEthereum traded lower at RM8,672 and Solana stood at RM326.\n\nThat's it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qb9F4P5RvgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qb9F4P5RvgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qb9F4P5RvgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qb9F4P5RvgU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qb9F4P5RvgU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 138,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qb9F4P5RvgU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5Nss71apF3v8uj4pjNeS9vpxcBc",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjZyWmpJWVFGSDdj",
+      "snippet": {
+        "publishedAt": "2026-04-09T02:45:31Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "A silat master combats crime, corruption and abuse of power",
+        "description": "Popular actor Beto Kusyairy is often praised as Malaysia's \"historical actor\" largely because he plays non-fiction characters with gusto.\n\nIn Gayong 2, the sequel to last year's Gayong, Beto plays the founder of Silat Gayong, the late Datuk Meor Abdul Rahman (ADMAR).\n\nBeto strongly identifies with ADMAR because he is a silat exponent and loves the country's homegrown martial art tradition.\n\nGayong 2's executive producer Khairul Anuar Latip said that the action-packed movie brings ADMAR's journey into a darker and more challenging phase of life, as a CID officer under the British administration after World War II in Singapore.\n\nSet against the backdrop of post-war Malaya, Gayong 2 explores the dilemmas of a man who adheres to principles to combat crime and corruption while facing abuse of power protected by the system.\n\nRead more at:\nhttps://www.nst.com.my/lifestyle/groove/2026/04/1413569/showbiz-silat-master-combats-crime-corruption-and-abuse-power\n\n\n----------------------------------\n#NST #NSTTV#NSTOnline #showbiz\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6rZjIYQFH7c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6rZjIYQFH7c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6rZjIYQFH7c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6rZjIYQFH7c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6rZjIYQFH7c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 139,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6rZjIYQFH7c"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "id": "bDTmg9InySQ",
+      "title": "Chef, comfort and calm drive Malaysia's Thomas Cup mission",
+      "description": "",
+      "publishedAt": "2026-04-19T15:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bDTmg9InySQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bDTmg9InySQ"
+    },
+    {
+      "id": "TQsEptHMr64",
+      "title": "'No, I am not retiring': Pandelela still Malaysia's diving queen",
+      "description": "",
+      "publishedAt": "2026-04-19T08:10:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TQsEptHMr64/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TQsEptHMr64"
+    },
+    {
+      "id": "cn1Yk3VOl_o",
+      "title": "7 men charged with cross dressing in Kota Baru",
+      "description": "",
+      "publishedAt": "2026-04-19T07:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cn1Yk3VOl_o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cn1Yk3VOl_o"
+    },
+    {
+      "id": "K73eZABc2Lk",
+      "title": "KLIA baggage system breakdown causes 2-4 hour delays, probe underway",
+      "description": "",
+      "publishedAt": "2026-04-19T05:24:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K73eZABc2Lk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K73eZABc2Lk"
+    },
+    {
+      "id": "J6mhSUL4Uwc",
+      "title": "Nasi kandar brawl over smoking dispute",
+      "description": "",
+      "publishedAt": "2026-04-19T04:13:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J6mhSUL4Uwc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J6mhSUL4Uwc"
+    },
+    {
+      "id": "NzPTrHG6AEQ",
+      "title": "Off-duty firemen rescue two women from food stall blaze",
+      "description": "",
+      "publishedAt": "2026-04-19T03:58:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NzPTrHG6AEQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NzPTrHG6AEQ"
+    },
+    {
+      "id": "Kp3qeGAecAc",
+      "title": "Iran keeps Hormuz shut until US ends port blockade",
+      "description": "",
+      "publishedAt": "2026-04-19T03:04:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kp3qeGAecAc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kp3qeGAecAc"
+    },
+    {
+      "id": "gddC86_r3qE",
+      "title": "200 homes razed in pre-dawn Sandakan fire",
+      "description": "",
+      "publishedAt": "2026-04-19T02:26:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gddC86_r3qE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gddC86_r3qE"
+    },
+    {
+      "id": "Uu6k_pHUBBI",
+      "title": "DBKL halts TTDI slope development after mud flood",
+      "description": "",
+      "publishedAt": "2026-04-19T02:10:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Uu6k_pHUBBI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Uu6k_pHUBBI"
+    },
     {
       "id": "Aj4sdc-tpFk",
       "title": "Rosman backs 'best team in Malaysia' to end Uber Cup knockout wait",
@@ -42082,6 +42943,102 @@
       "title": "Silva reveals Malaysia's role in helping Brazil win 2002 World Cup",
       "thumbnail": "https://i.ytimg.com/vi/4AaTTStmlYs/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=4AaTTStmlYs"
+    },
+    {
+      "id": "8Ry9Z_Hc7Yo",
+      "title": "Overlooked and underestimated,  this Wushu athlete still won medals",
+      "thumbnail": "https://i.ytimg.com/vi/8Ry9Z_Hc7Yo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8Ry9Z_Hc7Yo"
+    },
+    {
+      "id": "EecH9oYoDHM",
+      "title": "US VP says ball now in Iran's court on peace talks",
+      "thumbnail": "https://i.ytimg.com/vi/EecH9oYoDHM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EecH9oYoDHM"
+    },
+    {
+      "id": "SqaariwOtvg",
+      "title": "MARKET PULSE AM APR 14, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/SqaariwOtvg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SqaariwOtvg"
+    },
+    {
+      "id": "S9XE5B0cQl8",
+      "title": "Muhyiddin first to stand trial at newly established Special Corruption High Court",
+      "thumbnail": "https://i.ytimg.com/vi/S9XE5B0cQl8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S9XE5B0cQl8"
+    },
+    {
+      "id": "o5KYaw-OjTg",
+      "title": "Help pours in for Commonwealth Games legend Saravanan",
+      "thumbnail": "https://i.ytimg.com/vi/o5KYaw-OjTg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=o5KYaw-OjTg"
+    },
+    {
+      "id": "Eskopc9fnVQ",
+      "title": "B100 a 'genuine boost', set to disrupt diesel costs: Industry executives",
+      "thumbnail": "https://i.ytimg.com/vi/Eskopc9fnVQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Eskopc9fnVQ"
+    },
+    {
+      "id": "pwN45AHlwH4",
+      "title": "RTD probes viral video of bus driver with woman on his lap",
+      "thumbnail": "https://i.ytimg.com/vi/pwN45AHlwH4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pwN45AHlwH4"
+    },
+    {
+      "id": "UOOMPONkym0",
+      "title": "Teacher suspected of crashing into 2 students brought for remand",
+      "thumbnail": "https://i.ytimg.com/vi/UOOMPONkym0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UOOMPONkym0"
+    },
+    {
+      "id": "IFC62n6zGeQ",
+      "title": "Two siblings, including SPM candidate, detained in border drug bust after Songkran trip",
+      "thumbnail": "https://i.ytimg.com/vi/IFC62n6zGeQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IFC62n6zGeQ"
+    },
+    {
+      "id": "TVvVC4wq12A",
+      "title": "Police seize 76 vehicles in pre-dawn crackdown on illegal street racing",
+      "thumbnail": "https://i.ytimg.com/vi/TVvVC4wq12A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TVvVC4wq12A"
+    },
+    {
+      "id": "Ru6Swel_UTc",
+      "title": "Govt closely monitors Gaza aid flotilla mission – Amirudin",
+      "thumbnail": "https://i.ytimg.com/vi/Ru6Swel_UTc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ru6Swel_UTc"
+    },
+    {
+      "id": "CEKeZc74dng",
+      "title": "Market Pulse AM April 13, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/CEKeZc74dng/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CEKeZc74dng"
+    },
+    {
+      "id": "zeMJfx0AoJ4",
+      "title": "Trump says US to start blockading the Strait of Hormuz immediately",
+      "thumbnail": "https://i.ytimg.com/vi/zeMJfx0AoJ4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zeMJfx0AoJ4"
+    },
+    {
+      "id": "7Penc5ZhCsg",
+      "title": "Anwar  True cost of Middle East crisis deeper than safe passage of ships",
+      "thumbnail": "https://i.ytimg.com/vi/7Penc5ZhCsg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7Penc5ZhCsg"
+    },
+    {
+      "id": "qb9F4P5RvgU",
+      "title": "Market Pulse AM April 9, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/qb9F4P5RvgU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qb9F4P5RvgU"
+    },
+    {
+      "id": "6rZjIYQFH7c",
+      "title": "A silat master combats crime, corruption and abuse of power",
+      "thumbnail": "https://i.ytimg.com/vi/6rZjIYQFH7c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6rZjIYQFH7c"
     }
   ]
 }

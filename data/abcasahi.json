@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-04-17T16:03:31.696410",
+  "updated_at": "2026-04-19T15:39:41.966613",
   "videos": [
+    {
+      "id": "ARgu3piqN5s",
+      "title": "秘密基地でのカラオケ大会！ #ポツンと一軒家",
+      "description": "",
+      "publishedAt": "2026-04-19T08:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ARgu3piqN5s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ARgu3piqN5s"
+    },
+    {
+      "id": "SROM6mTj5O8",
+      "title": "松下奈緒と春の軽井沢へ！",
+      "description": "",
+      "publishedAt": "2026-04-19T00:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SROM6mTj5O8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SROM6mTj5O8"
+    },
     {
       "id": "ksvgFLbcNdE",
       "title": "５歳の息子渾身の獅子舞",

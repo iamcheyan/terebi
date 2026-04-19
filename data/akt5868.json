@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-04-18T15:39:59.703763",
+  "updated_at": "2026-04-19T15:39:59.165795",
   "videos": [
+    {
+      "id": "Yh8zc_BSewc",
+      "title": "あだまっこ体操！　2026年4月19日放送分",
+      "description": "",
+      "publishedAt": "2026-04-19T08:30:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yh8zc_BSewc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yh8zc_BSewc"
+    },
     {
       "id": "-eA5mRyr2nc",
       "title": "とびまめっ!!　～春の便りを感じに行こう！企画～　2026年4月17日放送分",
