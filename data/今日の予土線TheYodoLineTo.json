@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-19T15:40:19.937420",
+  "updated_at": "2026-04-20T16:14:05.536559",
   "videos": [
+    {
+      "id": "YbOkqiqhHsA",
+      "title": "260420 140959 深田第５踏切 ２",
+      "description": "",
+      "publishedAt": "2026-04-20T12:30:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YbOkqiqhHsA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YbOkqiqhHsA"
+    },
+    {
+      "id": "jum9YDgTtxU",
+      "title": "260420 140639 深田第５踏切",
+      "description": "",
+      "publishedAt": "2026-04-20T12:06:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jum9YDgTtxU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jum9YDgTtxU"
+    },
+    {
+      "id": "dq7l6UraJtU",
+      "title": "260420 135804 かっぱ列車（深田駅）",
+      "description": "",
+      "publishedAt": "2026-04-20T11:15:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dq7l6UraJtU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dq7l6UraJtU"
+    },
     {
       "id": "eoDzRuQwtt4",
       "title": "今週の予土線 The Yodo Line Weekly 2026 04 19",

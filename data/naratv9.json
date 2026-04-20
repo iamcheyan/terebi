@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-04-18T15:39:24.357899",
+  "updated_at": "2026-04-20T16:12:35.389741",
   "videos": [
+    {
+      "id": "R79S25RzTe8",
+      "title": "葛城市 芝桜まつり2026 開催中！夜間はライトアップも",
+      "description": "",
+      "publishedAt": "2026-04-20T05:32:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R79S25RzTe8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R79S25RzTe8"
+    },
     {
       "id": "ggCfBsultQA",
       "title": "春夏秋冬 奈良の祭時記・當麻寺「練供養」（葛城市・當麻寺）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-04-19T15:40:04.833889",
+  "updated_at": "2026-04-20T16:13:29.031204",
   "videos": [
+    {
+      "id": "FPoSKWoTFzY",
+      "title": "鹿児島わが町自慢　第18弾　今夜7時放送！",
+      "description": "",
+      "publishedAt": "2026-04-20T15:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FPoSKWoTFzY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FPoSKWoTFzY"
+    },
+    {
+      "id": "BoMxhEmewlM",
+      "title": "鹿児島グルメ　みんなが選ぶ春のパン大特集　今夜7時54分放送！",
+      "description": "",
+      "publishedAt": "2026-04-20T15:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BoMxhEmewlM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BoMxhEmewlM"
+    },
     {
       "id": "0Jzt23YD8OY",
       "title": "いまコレ！かごしま市　4月19日(日)",

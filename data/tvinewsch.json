@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-04-17T16:03:28.163769",
+  "updated_at": "2026-04-20T16:12:44.357493",
   "videos": [
+    {
+      "id": "UULPtLrjLno",
+      "title": "”勝利の女神”笑顔のデビュー（ニュースプラス1いわて 2026/4/7 OA）",
+      "description": "",
+      "publishedAt": "2026-04-20T07:05:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UULPtLrjLno/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UULPtLrjLno"
+    },
     {
       "id": "fYavZ3q-kIk",
       "title": "【プラス1ダイジェスト】4/17(金) のニュース",

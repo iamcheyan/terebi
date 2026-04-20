@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-19T15:40:12.026507",
+  "updated_at": "2026-04-20T16:13:47.188223",
   "videos": [
+    {
+      "id": "zi2KiA2n70U",
+      "title": "今日の５きげんテレビ（4月21日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-20T15:01:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zi2KiA2n70U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zi2KiA2n70U"
+    },
+    {
+      "id": "AhPV9eWlSN4",
+      "title": "ご当地フルコース～宮古市 渡辺裕太が巡る~",
+      "description": "",
+      "publishedAt": "2026-04-20T07:42:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AhPV9eWlSN4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AhPV9eWlSN4"
+    },
     {
       "id": "ZmCR-6eN5g4",
       "title": "今日の５きげんテレビ（4月20日）｜テレビ岩手",

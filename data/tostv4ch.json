@@ -1,8 +1,20 @@
 {
   "channel_id": "UC0k0UP7RA9l-X_3t8jElXQQ",
   "channel_name": "TOSテレビ大分",
-  "updated_at": "2026-04-01T16:07:41.071429",
+  "updated_at": "2026-04-20T16:12:45.738685",
   "videos": [
+    {
+      "id": "vj8E7v-14GI",
+      "title": "4/26(日)16:30放送「竹の道 ～人間国宝 岐部笙芳～」",
+      "description": "",
+      "publishedAt": "2026-04-20T06:07:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vj8E7v-14GI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vj8E7v-14GI"
+    },
     {
       "id": "Su5DYxGF7m8",
       "title": "TOSのカメラマンも！？🎶VAVAVA！バーチャル大分踊ってみた！#白銀ノエル",

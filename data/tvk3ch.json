@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-04-18T15:39:29.834338",
+  "updated_at": "2026-04-20T16:13:11.354109",
   "videos": [
+    {
+      "id": "fJBBLZ69VCE",
+      "title": "猫のひたいほどワイド #1724 潜入リポート・面髙ケンスケ「春の宝探し！里山で旬を掘る！」（川崎市麻生区）",
+      "description": "",
+      "publishedAt": "2026-04-20T08:02:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fJBBLZ69VCE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fJBBLZ69VCE"
+    },
+    {
+      "id": "UT0IZtdL3cI",
+      "title": "カナフルTV　次回予告（4月26日放送）",
+      "description": "",
+      "publishedAt": "2026-04-20T04:05:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UT0IZtdL3cI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UT0IZtdL3cI"
+    },
     {
       "id": "Vkt-Q_EIoqM",
       "title": "ハマナビ　次回予告（4月25日放送）",
