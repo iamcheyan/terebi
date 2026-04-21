@@ -1,8 +1,188 @@
 {
   "channel_id": "UCSWOnDD1KIriGmyQ7SgNA4A",
   "channel_name": "HTB Hokkaido News",
-  "updated_at": "2026-04-20T16:13:20.518687",
+  "updated_at": "2026-04-21T16:12:49.765276",
   "videos": [
+    {
+      "id": "qUIdFyDqJmw",
+      "title": "１審は無罪　７０歳の被告は「心神喪失」北広島市 生活困窮者向け施設への放火殺人　高裁は検察の控訴棄却",
+      "description": "",
+      "publishedAt": "2026-04-21T14:19:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qUIdFyDqJmw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qUIdFyDqJmw"
+    },
+    {
+      "id": "V5r9Qad6e4Q",
+      "title": "「ガスコンロから火が出た」札幌市中央区のスペイン料理店から火　従業員と客は無事　店舗の内部焼く",
+      "description": "",
+      "publishedAt": "2026-04-21T11:40:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V5r9Qad6e4Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V5r9Qad6e4Q"
+    },
+    {
+      "id": "UAmLPQ5iKmo",
+      "title": "専門家「もっと事故は全国で起きているのではー」札幌・園児死亡事故から１年半　教訓を未来にどうつなぐ？",
+      "description": "",
+      "publishedAt": "2026-04-21T11:30:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UAmLPQ5iKmo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UAmLPQ5iKmo"
+    },
+    {
+      "id": "qMX9_Cu6R50",
+      "title": "北海道ヒグマ対策推進会議　警察や環境省などの職員らも参加　赤外線カメラ搭載ドローンの活用など話し合う",
+      "description": "",
+      "publishedAt": "2026-04-21T11:12:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qMX9_Cu6R50/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qMX9_Cu6R50"
+    },
+    {
+      "id": "0sjG6_z6x-s",
+      "title": "札幌・70代女性　猛毒「コルヒチン」含む「イヌサフラン」を山菜の「ギョウジャニンニク」と誤って食べ死亡",
+      "description": "",
+      "publishedAt": "2026-04-21T11:12:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0sjG6_z6x-s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0sjG6_z6x-s"
+    },
+    {
+      "id": "liusGTm6S2c",
+      "title": "十勝・池田町の林野火災、丸２日で鎮火　焼失50ヘクタール超、建物４棟全焼、２人けが",
+      "description": "",
+      "publishedAt": "2026-04-21T11:11:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/liusGTm6S2c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=liusGTm6S2c"
+    },
+    {
+      "id": "8-aBLXBqxpg",
+      "title": "帯広市・上野庸介新市長が初登庁「みなさんと共に悩み共に汗をかきこの町の未来を背負っていく覚悟」",
+      "description": "",
+      "publishedAt": "2026-04-21T11:11:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8-aBLXBqxpg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8-aBLXBqxpg"
+    },
+    {
+      "id": "aMPnkuOHmYs",
+      "title": "患者の転院先は...市立室蘭総合病院の閉院めぐり市が町内会連合会と意見交換　参加者「通院が困難」",
+      "description": "",
+      "publishedAt": "2026-04-21T11:10:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aMPnkuOHmYs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aMPnkuOHmYs"
+    },
+    {
+      "id": "lST8lxdc4cc",
+      "title": "後発地震注意情報発令　沿岸・内陸部の住民が確認すべき避難経路と対策　専門家に聞く",
+      "description": "",
+      "publishedAt": "2026-04-21T11:10:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lST8lxdc4cc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lST8lxdc4cc"
+    },
+    {
+      "id": "hfqSvFWXM1o",
+      "title": "道北に桜前線が到達　 旭川市で観測史上最速！サクラの開花発表　２～３日後に満開を迎える見込み",
+      "description": "",
+      "publishedAt": "2026-04-21T11:09:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hfqSvFWXM1o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hfqSvFWXM1o"
+    },
+    {
+      "id": "IWQXHP2v39I",
+      "title": "香ばしさに誘われて「甘い！」タレが進化　名物「とうきびワゴン」登場　さっぽろ大通公園",
+      "description": "",
+      "publishedAt": "2026-04-21T11:08:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IWQXHP2v39I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IWQXHP2v39I"
+    },
+    {
+      "id": "8IX766u9duA",
+      "title": "事務所焼失からの再出発「北海道ブックシェアリング」が活動再開へ　江別市・大麻銀座商店街火災で被災",
+      "description": "",
+      "publishedAt": "2026-04-21T11:08:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8IX766u9duA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8IX766u9duA"
+    },
+    {
+      "id": "3ukn0xVwgDs",
+      "title": "専門家「もっと事故は全国で起きているのではー」札幌・園児死亡事故から１年半　教訓を未来にどうつなぐ？",
+      "description": "",
+      "publishedAt": "2026-04-21T10:27:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3ukn0xVwgDs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3ukn0xVwgDs"
+    },
+    {
+      "id": "C15TNtxWXg4",
+      "title": "「ガスコンロから火が出た」札幌市中央区のスペイン料理店から火　従業員と客は無事　店舗の内部焼く",
+      "description": "",
+      "publishedAt": "2026-04-21T10:16:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C15TNtxWXg4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C15TNtxWXg4"
+    },
+    {
+      "id": "Wn-nkgdNFDI",
+      "title": "帯広市・上野庸介新市長が初登庁「みなさんと共に悩み共に汗をかきこの町の未来を背負っていく覚悟」",
+      "description": "",
+      "publishedAt": "2026-04-21T10:08:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wn-nkgdNFDI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wn-nkgdNFDI"
+    },
     {
       "id": "FN06XQNgIL8",
       "title": "三陸沖を震源とする地震　気象庁「北海道・三陸沖後発地震注意情報」を発表し注意を呼びかけ",

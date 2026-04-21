@@ -1,8 +1,80 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-04-17T16:03:45.785649",
+  "updated_at": "2026-04-21T16:12:14.945959",
   "videos": [
+    {
+      "id": "J0jfWgYBQks",
+      "title": "東吉野村長選挙が告示　新人２人が立候補",
+      "description": "",
+      "publishedAt": "2026-04-21T10:49:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J0jfWgYBQks/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J0jfWgYBQks"
+    },
+    {
+      "id": "MqtN8RB9PvU",
+      "title": "春日大社　現代美術作家・杉本さんの屏風を奉納",
+      "description": "",
+      "publishedAt": "2026-04-21T10:49:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MqtN8RB9PvU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MqtN8RB9PvU"
+    },
+    {
+      "id": "5nf_ua914BU",
+      "title": "３カ月で約１７億円　特殊詐欺の被害総額　前年同様の約２倍に",
+      "description": "",
+      "publishedAt": "2026-04-21T10:48:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5nf_ua914BU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5nf_ua914BU"
+    },
+    {
+      "id": "WZixLCU9qcg",
+      "title": "竜田川に鯉のぼりの群れ",
+      "description": "",
+      "publishedAt": "2026-04-21T10:47:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WZixLCU9qcg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WZixLCU9qcg"
+    },
+    {
+      "id": "pVU78DXK4C4",
+      "title": "梅雨に備えて防災を確認　国交省と自治体職員　大和川を合同視察",
+      "description": "",
+      "publishedAt": "2026-04-21T01:52:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pVU78DXK4C4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pVU78DXK4C4"
+    },
+    {
+      "id": "ccdL4eNxOB0",
+      "title": "奈良大学博物館　ザ・コレクション展　モノを“集める”ということ",
+      "description": "",
+      "publishedAt": "2026-04-21T01:51:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ccdL4eNxOB0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ccdL4eNxOB0"
+    },
     {
       "id": "sLo4vZIiBwI",
       "title": "いのちに感謝し魚を池に放つ　興福寺　放生会　奈良",

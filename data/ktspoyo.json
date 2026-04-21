@@ -1,8 +1,44 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-04-20T16:13:29.031204",
+  "updated_at": "2026-04-21T16:12:54.397180",
   "videos": [
+    {
+      "id": "unI4xL-iWPM",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　牧園町",
+      "description": "",
+      "publishedAt": "2026-04-21T11:01:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/unI4xL-iWPM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=unI4xL-iWPM"
+    },
+    {
+      "id": "gr8Qg3m9-m4",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　清水町",
+      "description": "",
+      "publishedAt": "2026-04-21T11:01:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gr8Qg3m9-m4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gr8Qg3m9-m4"
+    },
+    {
+      "id": "Ss2lnHgKErI",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　薩摩川内市",
+      "description": "",
+      "publishedAt": "2026-04-21T11:00:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ss2lnHgKErI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ss2lnHgKErI"
+    },
     {
       "id": "FPoSKWoTFzY",
       "title": "鹿児島わが町自慢　第18弾　今夜7時放送！",

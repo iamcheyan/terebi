@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-04-19T15:40:11.270008",
+  "updated_at": "2026-04-21T16:13:03.306495",
   "videos": [
+    {
+      "id": "gT8ZfjdcPuI",
+      "title": "【公式】「Kodani Kazunoriの1minute」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-21T03:00:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gT8ZfjdcPuI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gT8ZfjdcPuI"
+    },
+    {
+      "id": "kXZ2hWXjAgo",
+      "title": "【公式】「Kodani Kazunori／コンテンポラリージュエリーアーティスト」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-21T03:00:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kXZ2hWXjAgo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kXZ2hWXjAgo"
+    },
     {
       "id": "tSEB8_P1sNY",
       "title": "【公式】「子どものメガネ いつからつくれる～！？」（2026年4月19日放送）｜テレビ西日本",

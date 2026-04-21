@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-20T16:13:47.188223",
+  "updated_at": "2026-04-21T16:13:04.063839",
   "videos": [
+    {
+      "id": "-1gHHAQfRa4",
+      "title": "今日の５きげんテレビ（4月22日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-21T15:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-1gHHAQfRa4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-1gHHAQfRa4"
+    },
+    {
+      "id": "d8Ef-HRoLq4",
+      "title": "季節のフルーツを楽しめるカフェ｜mi cafe",
+      "description": "",
+      "publishedAt": "2026-04-21T10:35:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d8Ef-HRoLq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d8Ef-HRoLq4"
+    },
+    {
+      "id": "fblXektpcUA",
+      "title": "５きげんクッキング ～春野菜と山菜のピクルス～",
+      "description": "",
+      "publishedAt": "2026-04-21T08:42:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fblXektpcUA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fblXektpcUA"
+    },
     {
       "id": "zi2KiA2n70U",
       "title": "今日の５きげんテレビ（4月21日）｜テレビ岩手",

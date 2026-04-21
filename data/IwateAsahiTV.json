@@ -1,8 +1,20 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-04-20T16:12:49.723976",
+  "updated_at": "2026-04-21T16:12:41.959781",
   "videos": [
+    {
+      "id": "kneOJqBfj6U",
+      "title": "【Go！Go！いわて】4月24日（土）予告",
+      "description": "",
+      "publishedAt": "2026-04-21T09:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kneOJqBfj6U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kneOJqBfj6U"
+    },
     {
       "id": "fvhm0WvonaE",
       "title": "【Go！Go！いわて】2026年4月11日（土）＜ごちそう岩手「春の味覚求めて三陸へ・・・」＞",

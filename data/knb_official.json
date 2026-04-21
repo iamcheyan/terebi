@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-04-16T16:24:39.621271",
+  "updated_at": "2026-04-21T16:12:53.132496",
   "videos": [
+    {
+      "id": "fkoPgDdJhn8",
+      "title": "【旬景とやま】花の夫婦山",
+      "description": "",
+      "publishedAt": "2026-04-21T11:02:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fkoPgDdJhn8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fkoPgDdJhn8"
+    },
     {
       "id": "R6xTOuZgcSg",
       "title": "【北陸３県イイトコどり～】この春デビューです",

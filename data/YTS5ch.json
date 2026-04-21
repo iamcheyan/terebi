@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-04-18T15:39:51.121267",
+  "updated_at": "2026-04-21T16:12:20.522437",
   "videos": [
+    {
+      "id": "Dtz4qXK2dws",
+      "title": "【あさは５ちゃん！】2026年4月25日放送",
+      "description": "",
+      "publishedAt": "2026-04-21T00:12:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Dtz4qXK2dws/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Dtz4qXK2dws"
+    },
     {
       "id": "3z5Mlrr0C7k",
       "title": "第2825回 ＤＸ推進で県民を幸せに「提言の広場」",

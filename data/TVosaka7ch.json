@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-04-19T15:39:48.576683",
+  "updated_at": "2026-04-21T16:12:07.447679",
   "videos": [
+    {
+      "id": "ssPbdWusHqE",
+      "title": "【特別展「鳥」】鳥界のアイドル！？カワイイあの“鳥”たちが大集合♪",
+      "description": "",
+      "publishedAt": "2026-04-21T10:52:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ssPbdWusHqE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ssPbdWusHqE"
+    },
     {
       "id": "8NQXn6coQsY",
       "title": "食遺産File.243「新玉ねぎのカルボナーラ仕立て」＠京都府・木津川市",

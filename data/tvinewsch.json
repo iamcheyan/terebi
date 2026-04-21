@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-04-20T16:12:44.357493",
+  "updated_at": "2026-04-21T16:12:41.636711",
   "videos": [
+    {
+      "id": "9-MAlr6w9No",
+      "title": "スタジオジブリの企画展始まる（ニュースプラス1いわて 2026/4/17 OA）",
+      "description": "",
+      "publishedAt": "2026-04-21T10:12:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9-MAlr6w9No/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9-MAlr6w9No"
+    },
     {
       "id": "UULPtLrjLno",
       "title": "”勝利の女神”笑顔のデビュー（ニュースプラス1いわて 2026/4/7 OA）",
