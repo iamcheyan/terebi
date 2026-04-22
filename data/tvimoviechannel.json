@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-21T16:13:04.063839",
+  "updated_at": "2026-04-22T16:10:56.688631",
   "videos": [
+    {
+      "id": "cUjGm8eSTOE",
+      "title": "今日の５きげんテレビ（4月23日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-22T15:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cUjGm8eSTOE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cUjGm8eSTOE"
+    },
+    {
+      "id": "Ne7wdCp-HmY",
+      "title": "100年の時を超えて復活した酒蔵～日詰平井邸～",
+      "description": "",
+      "publishedAt": "2026-04-22T10:14:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Ne7wdCp-HmY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ne7wdCp-HmY"
+    },
+    {
+      "id": "fRFkiWEfFo0",
+      "title": "５きげんクッキング ～タケノコ牛丼～",
+      "description": "",
+      "publishedAt": "2026-04-22T09:53:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fRFkiWEfFo0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fRFkiWEfFo0"
+    },
     {
       "id": "-1gHHAQfRa4",
       "title": "今日の５きげんテレビ（4月22日）｜テレビ岩手",

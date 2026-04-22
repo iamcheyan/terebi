@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-04-21T16:12:41.636711",
+  "updated_at": "2026-04-22T16:10:33.571684",
   "videos": [
+    {
+      "id": "hJ8jW1JiR_w",
+      "title": "【山林火災】大槌町で700世帯に避難指示",
+      "description": "",
+      "publishedAt": "2026-04-22T13:26:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hJ8jW1JiR_w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hJ8jW1JiR_w"
+    },
+    {
+      "id": "gfsRZ8i1wxM",
+      "title": "【速報】大槌町内2か所で火事　少なくとも住宅など5棟焼き山林にも延焼　消火活動中　(2026年4月22日)",
+      "description": "",
+      "publishedAt": "2026-04-22T09:37:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gfsRZ8i1wxM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gfsRZ8i1wxM"
+    },
+    {
+      "id": "J3nPsN7x2YI",
+      "title": "「雪の回廊」開通!!（ニュースプラス1いわて 2026/4/15放送）",
+      "description": "",
+      "publishedAt": "2026-04-22T09:25:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J3nPsN7x2YI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J3nPsN7x2YI"
+    },
     {
       "id": "9-MAlr6w9No",
       "title": "スタジオジブリの企画展始まる（ニュースプラス1いわて 2026/4/17 OA）",

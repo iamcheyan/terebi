@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-04-20T16:12:35.389741",
+  "updated_at": "2026-04-22T16:10:06.095618",
   "videos": [
+    {
+      "id": "YrvjSNRixOo",
+      "title": "【4月17日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-04-22T03:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YrvjSNRixOo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YrvjSNRixOo"
+    },
     {
       "id": "R79S25RzTe8",
       "title": "葛城市 芝桜まつり2026 開催中！夜間はライトアップも",

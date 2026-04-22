@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-21T16:13:13.408583",
+  "updated_at": "2026-04-22T16:11:04.708744",
   "videos": [
+    {
+      "id": "X2ib60q0OaM",
+      "title": "260422 153521 兼近第３踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-04-22T10:31:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X2ib60q0OaM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X2ib60q0OaM"
+    },
+    {
+      "id": "e0khv9bxXtM",
+      "title": "260422 153211 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-04-22T10:30:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e0khv9bxXtM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e0khv9bxXtM"
+    },
+    {
+      "id": "bDKER42dPsM",
+      "title": "260422 145038 土居中踏切 ２",
+      "description": "",
+      "publishedAt": "2026-04-22T10:12:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bDKER42dPsM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bDKER42dPsM"
+    },
+    {
+      "id": "rXpoIT0R0ZE",
+      "title": "260422 144731 土居中踏切",
+      "description": "",
+      "publishedAt": "2026-04-22T09:56:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rXpoIT0R0ZE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rXpoIT0R0ZE"
+    },
     {
       "id": "VUwYAWjnm-4",
       "title": "260421 141203 予讃線 松山行き普通列車（北宇和島駅）",
