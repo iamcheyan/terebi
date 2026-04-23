@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-04-14T16:11:27.062831",
+  "updated_at": "2026-04-23T16:45:29.617900",
   "videos": [
+    {
+      "id": "p-dKTpikac0",
+      "title": "ライブカメラ  大倉山ジャンプ競技場 山頂展望台(STV札幌テレビ放送)北海道札幌市中央区宮の森 /Live Camera Okurayama Ski Jump Stadium, Hokkaido",
+      "description": "",
+      "publishedAt": "2026-04-22T05:05:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p-dKTpikac0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p-dKTpikac0"
+    },
     {
       "id": "tC2zQr4ZNEY",
       "title": "#2　恵庭南高校男子新体操部（後編）",

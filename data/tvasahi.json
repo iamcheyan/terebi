@@ -1,8 +1,32 @@
 {
   "channel_id": "UCrEU0b3lpZyrFh7VImwWkxA",
   "channel_name": "テレビ朝日公式チャンネル",
-  "updated_at": "2026-04-22T16:11:03.389305",
+  "updated_at": "2026-04-23T16:45:40.094040",
   "videos": [
+    {
+      "id": "b6e4PlCRBtE",
+      "title": "【私の幸福時間】2025/4/23（木）放送 No.1016 愛知県／プロレスの観戦",
+      "description": "",
+      "publishedAt": "2026-04-23T11:39:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b6e4PlCRBtE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b6e4PlCRBtE"
+    },
+    {
+      "id": "ZW6OI6m4qBo",
+      "title": "【光一＆シゲのSHOWマン!!】2026年4月27日（月）放送",
+      "description": "",
+      "publishedAt": "2026-04-23T08:29:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZW6OI6m4qBo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZW6OI6m4qBo"
+    },
     {
       "id": "XIWGgD5V12Q",
       "title": "【健査官 ～サインを見逃すな～】2026年4月22日（水）放送",

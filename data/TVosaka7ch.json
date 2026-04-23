@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-04-21T16:12:07.447679",
+  "updated_at": "2026-04-23T16:45:05.939592",
   "videos": [
+    {
+      "id": "Na1bLzk4EK8",
+      "title": "【特別展「鳥」】主任学芸員に聞く！大阪湾岸の鳥たちについて",
+      "description": "",
+      "publishedAt": "2026-04-23T09:16:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Na1bLzk4EK8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Na1bLzk4EK8"
+    },
     {
       "id": "ssPbdWusHqE",
       "title": "【特別展「鳥」】鳥界のアイドル！？カワイイあの“鳥”たちが大集合♪",

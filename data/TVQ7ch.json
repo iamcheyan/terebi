@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-04-19T15:40:12.492633",
+  "updated_at": "2026-04-23T16:45:32.842773",
   "videos": [
+    {
+      "id": "3pwIDA8fKJ8",
+      "title": "カンパニーファイル「板倉冷機工業株式会社」（テレＱ2026年4月23日放送）",
+      "description": "",
+      "publishedAt": "2026-04-23T14:05:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3pwIDA8fKJ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3pwIDA8fKJ8"
+    },
+    {
+      "id": "d4g0XqT4dMU",
+      "title": "【夢クルーズ】604 まるは醤油味噌醸造元(2026年4月23日放送)",
+      "description": "",
+      "publishedAt": "2026-04-23T12:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d4g0XqT4dMU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d4g0XqT4dMU"
+    },
+    {
+      "id": "p5DxGtC3ZAM",
+      "title": "肉と野菜ののっけごはん／うどん入りごちそうチョップドサラダ／博多なすのゆずドレッシング（テレＱ2026年4月18日放送）",
+      "description": "",
+      "publishedAt": "2026-04-23T06:17:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p5DxGtC3ZAM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p5DxGtC3ZAM"
+    },
+    {
+      "id": "Ssy0_xKHRyA",
+      "title": "【テレQ番宣】ぐっ！ジョブ（4月25日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-04-23T05:06:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ssy0_xKHRyA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ssy0_xKHRyA"
+    },
     {
       "id": "vxUjolrlGtM",
       "title": "【テレQ番宣】ブルーリバーの望むところだ！（4月26日（日）13:30～）",

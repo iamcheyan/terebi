@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-04-20T16:12:53.501124",
+  "updated_at": "2026-04-23T16:44:43.310817",
   "videos": [
+    {
+      "id": "0s6GTsl1PVY",
+      "title": "【プライド せとうち経済のチカラ】岡山外語学院　2026年4月4日放送",
+      "description": "",
+      "publishedAt": "2026-04-23T15:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0s6GTsl1PVY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0s6GTsl1PVY"
+    },
     {
       "id": "zcE-aQgq1eA",
       "title": "4月25日のプライドは傑作選　さぬき市のゲンナイ",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-04-20T16:12:37.691135",
+  "updated_at": "2026-04-23T16:44:36.411331",
   "videos": [
+    {
+      "id": "xPhw-T0yGOA",
+      "title": "季節のいけばな３月２日テーマ「ひなまつり」",
+      "description": "",
+      "publishedAt": "2026-04-23T02:46:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xPhw-T0yGOA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xPhw-T0yGOA"
+    },
+    {
+      "id": "BOXRofF5Rxo",
+      "title": "季節のいけばな４月２０日テーマ「おめでとう２０歳！」",
+      "description": "",
+      "publishedAt": "2026-04-23T02:20:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BOXRofF5Rxo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BOXRofF5Rxo"
+    },
     {
       "id": "tZMFbT833OI",
       "title": "【Cross A】くまログあおもり 運用開始！",

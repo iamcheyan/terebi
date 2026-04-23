@@ -1,8 +1,92 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-04-22T16:10:33.571684",
+  "updated_at": "2026-04-23T16:45:07.277537",
   "videos": [
+    {
+      "id": "4x-qmucFgw4",
+      "title": "【山林火災】上空から広く燃えているのを確認",
+      "description": "",
+      "publishedAt": "2026-04-23T13:20:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4x-qmucFgw4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4x-qmucFgw4"
+    },
+    {
+      "id": "nVnhBKKzGeA",
+      "title": "【大槌町山林火災】延焼範囲201ヘクタールに拡大　なりわいへの影響も懸念",
+      "description": "",
+      "publishedAt": "2026-04-23T09:41:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nVnhBKKzGeA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nVnhBKKzGeA"
+    },
+    {
+      "id": "aV3SyITXEZ4",
+      "title": "【大槌町山林火災】現在の状況は？上空のヘリコプターからリポート",
+      "description": "",
+      "publishedAt": "2026-04-23T09:26:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aV3SyITXEZ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aV3SyITXEZ4"
+    },
+    {
+      "id": "pLSlIKffu8w",
+      "title": "盛岡白百合学園に野球部誕生（ニュースプラス1いわて 2026/4/22放送）",
+      "description": "",
+      "publishedAt": "2026-04-23T07:41:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pLSlIKffu8w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pLSlIKffu8w"
+    },
+    {
+      "id": "wHzGNCjrDKc",
+      "title": "【LIVE】岩手・大槌町　山林火災 現地からライブ配信",
+      "description": "",
+      "publishedAt": "2026-04-23T07:32:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wHzGNCjrDKc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wHzGNCjrDKc"
+    },
+    {
+      "id": "BvPRq7cJYRo",
+      "title": "元気○（マル）らいふ　【パーソナルカラー診断と骨格診断】（2026/4/22放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-04-23T05:20:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BvPRq7cJYRo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BvPRq7cJYRo"
+    },
+    {
+      "id": "lW9M_7h12w8",
+      "title": "【山林火災】大槌町 延焼 計201ヘクタールに広がる",
+      "description": "",
+      "publishedAt": "2026-04-23T04:30:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lW9M_7h12w8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lW9M_7h12w8"
+    },
     {
       "id": "hJ8jW1JiR_w",
       "title": "【山林火災】大槌町で700世帯に避難指示",

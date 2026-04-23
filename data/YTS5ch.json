@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-04-22T16:10:11.812730",
+  "updated_at": "2026-04-23T16:44:47.739114",
   "videos": [
+    {
+      "id": "Z84ZT-Gudrk",
+      "title": "【山形GWオススメスポット】YTSゴジダス水曜情報局",
+      "description": "",
+      "publishedAt": "2026-04-23T02:35:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z84ZT-Gudrk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z84ZT-Gudrk"
+    },
+    {
+      "id": "nt_n-D5RP4o",
+      "title": "毎日通いたい山形市のベーカリー特集",
+      "description": "",
+      "publishedAt": "2026-04-23T02:22:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nt_n-D5RP4o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nt_n-D5RP4o"
+    },
     {
       "id": "4Xn6Qvr-vhI",
       "title": "置賜さくら回廊で桜を満喫！",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-22T16:11:04.708744",
+  "updated_at": "2026-04-23T16:45:41.603048",
   "videos": [
+    {
+      "id": "P_YEyiS7dfE",
+      "title": "260423 180146 中野橋から中野踏切",
+      "description": "",
+      "publishedAt": "2026-04-23T12:42:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P_YEyiS7dfE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P_YEyiS7dfE"
+    },
+    {
+      "id": "izCGpOlZfC8",
+      "title": "260423 174945 予土新幹線（二名駅）",
+      "description": "",
+      "publishedAt": "2026-04-23T12:37:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/izCGpOlZfC8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=izCGpOlZfC8"
+    },
     {
       "id": "X2ib60q0OaM",
       "title": "260422 153521 兼近第３踏切（黄色い列車通過）",

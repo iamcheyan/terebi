@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-04-22T16:10:51.781218",
+  "updated_at": "2026-04-23T16:45:28.116443",
   "videos": [
+    {
+      "id": "_H2K7LudLf8",
+      "title": "【番宣】４月２７日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-04-23T06:25:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_H2K7LudLf8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_H2K7LudLf8"
+    },
     {
       "id": "lqIaibIIYwI",
       "title": "【番宣】５月２７日（水）おかえり熊本～ふるさとは明日も晴れる～",
