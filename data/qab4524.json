@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-04-23T16:45:27.430881",
+  "updated_at": "2026-04-24T16:06:18.217805",
   "videos": [
+    {
+      "id": "2UOtuLNSp2w",
+      "title": "「うちなー働き人」シママース本舗",
+      "description": "",
+      "publishedAt": "2026-04-24T08:20:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2UOtuLNSp2w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2UOtuLNSp2w"
+    },
+    {
+      "id": "JLp6UFBD9Jo",
+      "title": "スペシャルゲスト 戸田恵子さん",
+      "description": "",
+      "publishedAt": "2026-04-24T02:20:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JLp6UFBD9Jo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JLp6UFBD9Jo"
+    },
     {
       "id": "eJ4jZJcmFts",
       "title": "スペシャルゲスト 戸田恵子さん",

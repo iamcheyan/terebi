@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-04-23T16:45:28.116443",
+  "updated_at": "2026-04-24T16:06:18.943921",
   "videos": [
+    {
+      "id": "Jfa83tvBbCk",
+      "title": "【番宣】４月２８日（火）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-04-24T07:38:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Jfa83tvBbCk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Jfa83tvBbCk"
+    },
+    {
+      "id": "Imj2iiArpHE",
+      "title": "【番宣】５月１０日（日）ダイドーグループ日本の祭り「この地に生きる～阿蘇神社 田作祭・復興の灯～」",
+      "description": "",
+      "publishedAt": "2026-04-24T04:42:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Imj2iiArpHE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Imj2iiArpHE"
+    },
     {
       "id": "_H2K7LudLf8",
       "title": "【番宣】４月２７日（月）NEWSゲツキン",

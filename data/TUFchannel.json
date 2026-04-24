@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-04-23T16:45:32.235405",
+  "updated_at": "2026-04-24T16:06:20.777952",
   "videos": [
+    {
+      "id": "QlimoMQ5J8c",
+      "title": "【ふくしまSHOW】『田村市』大特集！",
+      "description": "",
+      "publishedAt": "2026-04-24T01:41:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QlimoMQ5J8c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QlimoMQ5J8c"
+    },
     {
       "id": "Ep4vwDKT4MQ",
       "title": "【明日への一歩】安達高校カヌー部",

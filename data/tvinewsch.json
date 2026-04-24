@@ -1,8 +1,56 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-04-23T16:45:07.277537",
+  "updated_at": "2026-04-24T16:05:54.137088",
   "videos": [
+    {
+      "id": "tizmHVKnRRU",
+      "title": "【大槌町山林火災】避難指示対象が３２００人に",
+      "description": "",
+      "publishedAt": "2026-04-24T12:24:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tizmHVKnRRU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tizmHVKnRRU"
+    },
+    {
+      "id": "CBBfJCBNEvE",
+      "title": "【大槌町山林火災】専門家に聞く",
+      "description": "",
+      "publishedAt": "2026-04-24T10:32:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CBBfJCBNEvE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CBBfJCBNEvE"
+    },
+    {
+      "id": "gHFXysK0XxM",
+      "title": "【大槌町山林火災】平成以降国内2番目の規模に",
+      "description": "",
+      "publishedAt": "2026-04-24T10:16:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gHFXysK0XxM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gHFXysK0XxM"
+    },
+    {
+      "id": "9dy8CTeRqKM",
+      "title": "【空から見た山林火災】24日午後6時15分ごろ",
+      "description": "",
+      "publishedAt": "2026-04-24T09:54:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9dy8CTeRqKM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9dy8CTeRqKM"
+    },
     {
       "id": "4x-qmucFgw4",
       "title": "【山林火災】上空から広く燃えているのを確認",

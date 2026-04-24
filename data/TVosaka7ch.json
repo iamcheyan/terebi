@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-04-23T16:45:05.939592",
+  "updated_at": "2026-04-24T16:05:59.868124",
   "videos": [
+    {
+      "id": "PO0GjUB2qa8",
+      "title": "【特別展「鳥」】常設展示も必見！魅力満載の大阪市立自然史博物館へ！",
+      "description": "",
+      "publishedAt": "2026-04-24T10:25:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PO0GjUB2qa8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PO0GjUB2qa8"
+    },
     {
       "id": "Na1bLzk4EK8",
       "title": "【特別展「鳥」】主任学芸員に聞く！大阪湾岸の鳥たちについて",

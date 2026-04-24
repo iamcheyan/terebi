@@ -1,8 +1,68 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-04-23T16:44:48.577972",
+  "updated_at": "2026-04-24T16:06:06.162694",
   "videos": [
+    {
+      "id": "DEx_1OAtPzQ",
+      "title": "ついに迎えた運命の最終ステージ｜レース後 #勝田貴元 の目には…",
+      "description": "",
+      "publishedAt": "2026-04-24T09:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DEx_1OAtPzQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DEx_1OAtPzQ"
+    },
+    {
+      "id": "vHUI7BQXvfw",
+      "title": "富樫勇樹が自身のスキルを高校生へ直接伝授",
+      "description": "",
+      "publishedAt": "2026-04-24T09:01:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vHUI7BQXvfw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vHUI7BQXvfw"
+    },
+    {
+      "id": "gkb0ettcpk8",
+      "title": "富樫勇樹が自身のスキルを高校生へ直接伝授",
+      "description": "",
+      "publishedAt": "2026-04-24T09:01:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gkb0ettcpk8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gkb0ettcpk8"
+    },
+    {
+      "id": "2Ayj4O7EUY4",
+      "title": "【密着】女子相撲部の寮生活＆土俵作りの舞台裏に潜入！八村塁選手注目のバスケ新星も続々！ 4/24(金)深夜1:52放送",
+      "description": "",
+      "publishedAt": "2026-04-24T08:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Ayj4O7EUY4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Ayj4O7EUY4"
+    },
+    {
+      "id": "kctgMWXBY_o",
+      "title": "【世界女王】坂本花織さんが味の素本社を訪問！ティラミスとスコーンを堪能！",
+      "description": "",
+      "publishedAt": "2026-04-24T01:33:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kctgMWXBY_o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kctgMWXBY_o"
+    },
     {
       "id": "9T5luUYCFPE",
       "title": "#福岡第一 スーパールーキー #宮城昊河 選手!！",

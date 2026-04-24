@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-04-23T16:45:31.474325",
+  "updated_at": "2026-04-24T16:06:20.531460",
   "videos": [
+    {
+      "id": "EXD_r5P1ebI",
+      "title": "【公式】2026年5月1日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-24T11:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EXD_r5P1ebI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EXD_r5P1ebI"
+    },
+    {
+      "id": "84bCl6EkW4s",
+      "title": "【公式】「はじめてのトマト」（04月24日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-04-24T03:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/84bCl6EkW4s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=84bCl6EkW4s"
+    },
     {
       "id": "bofZx8rgW2s",
       "title": "【きっと青春の１ページ　福岡県編】＃３福岡大学附属大濠高等学校　バレーボール部",

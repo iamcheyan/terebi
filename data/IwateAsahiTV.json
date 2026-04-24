@@ -1,8 +1,32 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-04-21T16:12:41.959781",
+  "updated_at": "2026-04-24T16:05:35.023328",
   "videos": [
+    {
+      "id": "V8J_-LV6eyc",
+      "title": "【ライブ配信】久慈情報カメラ",
+      "description": "",
+      "publishedAt": "2026-04-24T04:52:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V8J_-LV6eyc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V8J_-LV6eyc"
+    },
+    {
+      "id": "vMik8XBp3jI",
+      "title": "【ライブ配信】盛岡情報カメラ",
+      "description": "",
+      "publishedAt": "2026-04-24T04:50:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vMik8XBp3jI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vMik8XBp3jI"
+    },
     {
       "id": "kneOJqBfj6U",
       "title": "【Go！Go！いわて】4月24日（土）予告",

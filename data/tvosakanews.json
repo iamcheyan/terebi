@@ -1,8 +1,92 @@
 {
   "channel_id": "UCd6GEK664CTEWRZda7Fu7Lg",
   "channel_name": "Television OSAKA NEWS",
-  "updated_at": "2026-04-23T16:45:34.275092",
+  "updated_at": "2026-04-24T16:06:21.790880",
   "videos": [
+    {
+      "id": "I5DS1vdhAv4",
+      "title": "【天王寺動物園 ホッキョクグマ・ホウちゃん】水中も見える新飼育エリア公開 今夏オープン",
+      "description": "",
+      "publishedAt": "2026-04-24T09:39:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I5DS1vdhAv4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I5DS1vdhAv4"
+    },
+    {
+      "id": "oZ0ptqNgDps",
+      "title": "【捜査中の暴行で有罪】「捜査の範囲超える」元警察官に執行猶予判決",
+      "description": "",
+      "publishedAt": "2026-04-24T09:31:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oZ0ptqNgDps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oZ0ptqNgDps"
+    },
+    {
+      "id": "bNa8hYVr5MM",
+      "title": "【新観光列車「GRAN天空」運行開始】難波ー高野山 約100年振りに車内食提供も",
+      "description": "",
+      "publishedAt": "2026-04-24T09:22:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bNa8hYVr5MM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bNa8hYVr5MM"
+    },
+    {
+      "id": "PiqOxubKAg0",
+      "title": "SA・PAを離発着場に【空飛ぶクルマ×NEXCO西日本】遊覧体験に防災も",
+      "description": "",
+      "publishedAt": "2026-04-24T09:12:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PiqOxubKAg0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PiqOxubKAg0"
+    },
+    {
+      "id": "pOevjKlOYI0",
+      "title": "【世界358万人】公文式 少子化でも選ばれ続けるワケ KUMONグループ【関西リーダー列伝】",
+      "description": "",
+      "publishedAt": "2026-04-24T09:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pOevjKlOYI0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pOevjKlOYI0"
+    },
+    {
+      "id": "5ghmDpVoaIM",
+      "title": "生徒死亡の沖縄研修旅行事故【文科省が同志社に現地調査】",
+      "description": "",
+      "publishedAt": "2026-04-24T08:58:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5ghmDpVoaIM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5ghmDpVoaIM"
+    },
+    {
+      "id": "Nezu9nZo5YM",
+      "title": "【アーカイブ】2026.4.24 横山英幸市長 定例会見",
+      "description": "",
+      "publishedAt": "2026-04-23T06:16:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nezu9nZo5YM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nezu9nZo5YM"
+    },
     {
       "id": "k1H_GTh9Jhg",
       "title": "【大阪の中小企業直撃】中東情勢の調査 半数が「影響あり」先行き不安高まる",
