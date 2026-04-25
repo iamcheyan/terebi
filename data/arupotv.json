@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-04-24T16:06:18.943921",
+  "updated_at": "2026-04-25T15:41:57.669662",
   "videos": [
+    {
+      "id": "puuXLg2vtKA",
+      "title": "【番宣】５月２日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-04-25T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/puuXLg2vtKA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=puuXLg2vtKA"
+    },
+    {
+      "id": "YowfIyEgvwo",
+      "title": "知っておきたい脳の話～安東先生の医学講座～　第2回 「脳卒中とは？」",
+      "description": "",
+      "publishedAt": "2026-04-25T00:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YowfIyEgvwo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YowfIyEgvwo"
+    },
     {
       "id": "Jfa83tvBbCk",
       "title": "【番宣】４月２８日（火）NEWSゲツキン",

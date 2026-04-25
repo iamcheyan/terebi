@@ -1,8 +1,32 @@
 {
   "channel_id": "UC8Y0ZErdlAnA9uW7ZeRdreQ",
   "channel_name": "FCT福島中央テレビNEWS",
-  "updated_at": "2026-04-24T16:06:12.647704",
+  "updated_at": "2026-04-25T15:41:50.262345",
   "videos": [
+    {
+      "id": "wVH9cghLaic",
+      "title": "春の福島競馬「福島中央テレビ杯」開催　白熱のレースを制したのは…",
+      "description": "",
+      "publishedAt": "2026-04-25T08:36:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wVH9cghLaic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wVH9cghLaic"
+    },
+    {
+      "id": "ZyqBCF45zEg",
+      "title": "ダジャレではありません。「ムシできない虫たち」会津若松市の県立博物館で開催",
+      "description": "",
+      "publishedAt": "2026-04-25T08:36:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZyqBCF45zEg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZyqBCF45zEg"
+    },
     {
       "id": "JvZAGXLGO5o",
       "title": "「金を買ってください」偽警官が誘導 いわきで約2000万円の被害　福島",

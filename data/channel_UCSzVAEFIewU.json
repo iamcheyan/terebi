@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-04-24T16:05:51.616358",
+  "updated_at": "2026-04-25T15:41:32.535311",
   "videos": [
+    {
+      "id": "ejIyCVzbMA0",
+      "title": "【後編】ＧＷにおすすめ！みろくの里を大特集！",
+      "description": "",
+      "publishedAt": "2026-04-25T10:00:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ejIyCVzbMA0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ejIyCVzbMA0"
+    },
     {
       "id": "xKFVMcm32Xs",
       "title": "【愛媛の今むかし】内子の伝統行事「いかざき大凧合戦」",
