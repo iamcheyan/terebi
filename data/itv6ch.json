@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-04-25T15:42:04.596180",
+  "updated_at": "2026-04-26T15:45:07.333104",
   "videos": [
+    {
+      "id": "iiaHiIhEjT0",
+      "title": "愛媛のニュース(04月26日)",
+      "description": "",
+      "publishedAt": "2026-04-26T11:32:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iiaHiIhEjT0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iiaHiIhEjT0"
+    },
     {
       "id": "rOXfPcMnezY",
       "title": "【突撃！古野拓巳の裏バイクス】西井GMが突撃？！①",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-04-21T16:12:45.869028",
+  "updated_at": "2026-04-26T15:44:48.662456",
   "videos": [
+    {
+      "id": "w9ZGVawenno",
+      "title": "あだまっこ体操！　2026年4月26日放送分",
+      "description": "",
+      "publishedAt": "2026-04-26T08:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/w9ZGVawenno/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=w9ZGVawenno"
+    },
     {
       "id": "Q0j2xUplueY",
       "title": "スポーツの力　秋田商業高校男子剣道部　主将　小野翔選手　2026年4月21日放送分",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-04-24T16:05:33.676481",
+  "updated_at": "2026-04-26T15:44:13.494129",
   "videos": [
+    {
+      "id": "BhTiVDmAWkA",
+      "title": "先代から続く山を守る83歳 #ポツンと一軒家",
+      "description": "",
+      "publishedAt": "2026-04-26T08:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BhTiVDmAWkA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BhTiVDmAWkA"
+    },
+    {
+      "id": "ULhdY3U--XQ",
+      "title": "山里亮太とラーメン激戦区の二子玉川へ！",
+      "description": "",
+      "publishedAt": "2026-04-26T00:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ULhdY3U--XQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ULhdY3U--XQ"
+    },
     {
       "id": "TaHzh9tC5nc",
       "title": "ケムリ探偵、号泣！？",

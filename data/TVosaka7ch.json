@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-04-25T15:41:41.140952",
+  "updated_at": "2026-04-26T15:44:12.300376",
   "videos": [
+    {
+      "id": "FaAGMT_bF5U",
+      "title": "食遺産File.244「京たけのこの和風グラタン」＠京都府・長岡京市",
+      "description": "",
+      "publishedAt": "2026-04-26T03:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FaAGMT_bF5U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FaAGMT_bF5U"
+    },
     {
       "id": "tb5iZ5fkbME",
       "title": "【よゐこ有野】この街、攻略しとく？桜咲く関西屈指の名所・大阪城公園ぶ～らぶら！ ～桜とお花見屋台グルメ＆水上バスで大川沿いの絶景大満喫の巻～",
