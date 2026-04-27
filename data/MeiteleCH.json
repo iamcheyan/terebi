@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-04-25T15:41:44.106341",
+  "updated_at": "2026-04-27T16:27:47.035370",
   "videos": [
+    {
+      "id": "N-YUG4DYun0",
+      "title": "超町人！チョコレートサムネット 5/3(日)茶色グルメ 鶴舞エリア編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-04-27T06:35:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N-YUG4DYun0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N-YUG4DYun0"
+    },
     {
       "id": "aDvJwxB9xtA",
       "title": "【まるまる◎あいち】2026年4月25日放送 「劇場ワンダーランド」",

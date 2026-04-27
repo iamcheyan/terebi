@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-26T15:45:11.735641",
+  "updated_at": "2026-04-27T16:28:35.113628",
   "videos": [
+    {
+      "id": "i4QAiNpvgrM",
+      "title": "260427 155531 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-04-27T10:19:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i4QAiNpvgrM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i4QAiNpvgrM"
+    },
+    {
+      "id": "7X7pEEdNk3U",
+      "title": "260427 155214 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-04-27T10:17:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7X7pEEdNk3U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7X7pEEdNk3U"
+    },
     {
       "id": "OvuGaeDCBTc",
       "title": "今週の予土線 The Yodo Line Weekly 2026 04 26",

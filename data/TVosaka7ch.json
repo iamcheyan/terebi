@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-04-26T15:44:12.300376",
+  "updated_at": "2026-04-27T16:27:58.702830",
   "videos": [
+    {
+      "id": "PL5eukAlvg8",
+      "title": "【社会人１年目のとある日常】",
+      "description": "",
+      "publishedAt": "2026-04-27T09:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PL5eukAlvg8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PL5eukAlvg8"
+    },
+    {
+      "id": "xO9yY57nWTU",
+      "title": "【前代未聞ロケ】東ブクロが女子と散歩旅！みなみかわがツッコミまくる",
+      "description": "",
+      "publishedAt": "2026-04-27T03:01:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xO9yY57nWTU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xO9yY57nWTU"
+    },
     {
       "id": "FaAGMT_bF5U",
       "title": "食遺産File.244「京たけのこの和風グラタン」＠京都府・長岡京市",
