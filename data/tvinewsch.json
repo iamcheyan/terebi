@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-04-27T16:27:41.465065",
+  "updated_at": "2026-04-28T16:54:15.267275",
   "videos": [
+    {
+      "id": "ChbDxNTtcD8",
+      "title": "【大槌山林火災】7日目 午後から雨、鎮圧に期待（ニュースプラス1いわて 2026/4/28放送）",
+      "description": "",
+      "publishedAt": "2026-04-28T10:31:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ChbDxNTtcD8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ChbDxNTtcD8"
+    },
+    {
+      "id": "T0vfH1FFHGE",
+      "title": "【大槌町山林火災】住民生活への影響も（ニュースプラス1いわて 2026/4/27放送）",
+      "description": "",
+      "publishedAt": "2026-04-28T02:25:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T0vfH1FFHGE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T0vfH1FFHGE"
+    },
+    {
+      "id": "KKPFG2Y9RD4",
+      "title": "【大槌町山林火災】待望の雨！（ニュースプラス1いわて 2026/4/27放送）",
+      "description": "",
+      "publishedAt": "2026-04-28T02:07:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KKPFG2Y9RD4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KKPFG2Y9RD4"
+    },
     {
       "id": "UOo42WMD004",
       "title": "いわて春もよう～ガイドと楽しむ森林公園～（ニュースプラス1いわて 2026/4/24放送）",

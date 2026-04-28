@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-04-27T16:28:03.319262",
+  "updated_at": "2026-04-28T16:54:27.591700",
   "videos": [
+    {
+      "id": "hx7EO_A7mD0",
+      "title": "一般利用可能！安くておいしい学生食堂",
+      "description": "",
+      "publishedAt": "2026-04-28T02:46:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hx7EO_A7mD0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hx7EO_A7mD0"
+    },
+    {
+      "id": "drmY99QU5gg",
+      "title": "リナワールド人気アトラクションTOP３ ランキング",
+      "description": "",
+      "publishedAt": "2026-04-28T02:31:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/drmY99QU5gg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=drmY99QU5gg"
+    },
     {
       "id": "vvguS0hEFtg",
       "title": "山形南高校に有名人が訪問！？",
