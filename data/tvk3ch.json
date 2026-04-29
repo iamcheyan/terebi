@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-04-28T16:54:25.547234",
+  "updated_at": "2026-04-29T16:42:13.503087",
   "videos": [
+    {
+      "id": "a-LKIWMEbgU",
+      "title": "カナフルTV　4月26日　歩いて発見！魅力満載♪フォトジェニックな葉山",
+      "description": "",
+      "publishedAt": "2026-04-29T04:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a-LKIWMEbgU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a-LKIWMEbgU"
+    },
+    {
+      "id": "SRnUvbqLPCg",
+      "title": "かながわ旬菜ナビ　次回予告（5月3日放送）",
+      "description": "",
+      "publishedAt": "2026-04-29T03:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SRnUvbqLPCg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SRnUvbqLPCg"
+    },
     {
       "id": "WXoKbrXEA-0",
       "title": "tvk「クルマでいこう！」公式 ルノー グランカングー 2026/4/19放送(#936)",

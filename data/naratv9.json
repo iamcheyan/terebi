@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-04-24T16:05:32.713622",
+  "updated_at": "2026-04-29T16:42:23.068995",
   "videos": [
+    {
+      "id": "GDtQjP3mbXA",
+      "title": "【4月24日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-04-29T03:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GDtQjP3mbXA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GDtQjP3mbXA"
+    },
     {
       "id": "S82a1qtPWGw",
       "title": "DAIWA HOUSE GROUP DAY「奈良クラブ」に密着！",

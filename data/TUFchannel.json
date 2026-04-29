@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-04-24T16:06:20.777952",
+  "updated_at": "2026-04-29T16:42:37.301861",
   "videos": [
+    {
+      "id": "hAvkiPXiTJU",
+      "title": "TUFアプリ「たぷり」5月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-04-29T15:01:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hAvkiPXiTJU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hAvkiPXiTJU"
+    },
+    {
+      "id": "DhS2xz5yAYQ",
+      "title": "「福島日産自動車×ステップ」5月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-04-29T15:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DhS2xz5yAYQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DhS2xz5yAYQ"
+    },
     {
       "id": "QlimoMQ5J8c",
       "title": "【ふくしまSHOW】『田村市』大特集！",

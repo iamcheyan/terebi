@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-04-28T16:54:27.591700",
+  "updated_at": "2026-04-29T16:42:21.505467",
   "videos": [
+    {
+      "id": "V2hl1qIOYwY",
+      "title": "山形駅近くの角打ち酒場で気軽に地酒を飲み比べ！",
+      "description": "",
+      "publishedAt": "2026-04-29T13:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V2hl1qIOYwY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V2hl1qIOYwY"
+    },
     {
       "id": "hx7EO_A7mD0",
       "title": "一般利用可能！安くておいしい学生食堂",

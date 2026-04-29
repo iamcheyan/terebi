@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-27T16:28:28.176896",
+  "updated_at": "2026-04-29T16:42:37.503452",
   "videos": [
+    {
+      "id": "NQ0SkP-C0TE",
+      "title": "今日の５きげんテレビ（4月30日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-29T15:00:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NQ0SkP-C0TE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NQ0SkP-C0TE"
+    },
     {
       "id": "KZpfDfwjNyU",
       "title": "今日の５きげんテレビ（4月28日）｜テレビ岩手",

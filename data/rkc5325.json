@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-04-28T16:55:08.691881",
+  "updated_at": "2026-04-29T16:42:34.259151",
   "videos": [
+    {
+      "id": "oSZGobqjsvQ",
+      "title": "「《プロゲーマー×高校生の二刀流》高校生高知初プロeスポーツ選手誕生」2026/4/29放送",
+      "description": "",
+      "publishedAt": "2026-04-29T10:01:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oSZGobqjsvQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oSZGobqjsvQ"
+    },
+    {
+      "id": "TiBYn1Lrh4o",
+      "title": "「ゴールデンウィークスタート 高知市の高知城は朝から県外客でにぎわう」2026/4/29放送",
+      "description": "",
+      "publishedAt": "2026-04-29T10:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TiBYn1Lrh4o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TiBYn1Lrh4o"
+    },
     {
       "id": "uvfxmbHVE_g",
       "title": "「にとさん食堂」高知グルメ×ぐるぐるこうち",

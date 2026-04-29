@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-04-28T16:55:29.345070",
+  "updated_at": "2026-04-29T16:42:43.474023",
   "videos": [
+    {
+      "id": "2KZBsM_BCb4",
+      "title": "260429 160035 宮野下第３踏切",
+      "description": "",
+      "publishedAt": "2026-04-29T10:55:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2KZBsM_BCb4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2KZBsM_BCb4"
+    },
+    {
+      "id": "oEjiGvPzwJk",
+      "title": "260429 155400 宮野下第２踏切",
+      "description": "",
+      "publishedAt": "2026-04-29T10:35:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oEjiGvPzwJk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oEjiGvPzwJk"
+    },
+    {
+      "id": "S7od87JLS78",
+      "title": "260429 154452 トロッコ列車行き違い（伊予宮野下駅）",
+      "description": "",
+      "publishedAt": "2026-04-29T10:35:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S7od87JLS78/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S7od87JLS78"
+    },
     {
       "id": "tvCEo15S1Ds",
       "title": "260428 174609 予土新幹線行き違い（伊予宮野下駅）",
