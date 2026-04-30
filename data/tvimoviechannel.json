@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-04-29T16:42:37.503452",
+  "updated_at": "2026-04-30T16:21:43.941774",
   "videos": [
+    {
+      "id": "hI4AAru9KOY",
+      "title": "今日の５きげんテレビ（5月1日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-04-30T15:01:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hI4AAru9KOY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hI4AAru9KOY"
+    },
+    {
+      "id": "FIy-DY8X7uI",
+      "title": "５きげんクッキング ～ババロア～",
+      "description": "",
+      "publishedAt": "2026-04-30T08:41:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FIy-DY8X7uI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FIy-DY8X7uI"
+    },
+    {
+      "id": "D8BJPkfkS6w",
+      "title": "５きげん知恵袋 ～色とりどりキウイフルーツ～",
+      "description": "",
+      "publishedAt": "2026-04-30T08:32:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D8BJPkfkS6w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D8BJPkfkS6w"
+    },
     {
       "id": "NQ0SkP-C0TE",
       "title": "今日の５きげんテレビ（4月30日）｜テレビ岩手",

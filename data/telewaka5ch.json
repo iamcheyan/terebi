@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-04-29T16:42:18.677997",
+  "updated_at": "2026-04-30T16:20:57.396344",
   "videos": [
+    {
+      "id": "hxl4OiRtgoA",
+      "title": "WIB HERO'S 4月のゲスト 総集編",
+      "description": "",
+      "publishedAt": "2026-04-30T15:01:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hxl4OiRtgoA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hxl4OiRtgoA"
+    },
     {
       "id": "9OVmBwszPp4",
       "title": "最大12連休 GWスタート！生石高原で山開き 和歌山県",
