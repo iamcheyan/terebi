@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-04-30T16:21:42.728037",
+  "updated_at": "2026-05-01T15:59:44.442840",
   "videos": [
+    {
+      "id": "0nMparoRnwE",
+      "title": "5/3(日)ひる0時55分～生中継！",
+      "description": "",
+      "publishedAt": "2026-05-01T07:41:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0nMparoRnwE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0nMparoRnwE"
+    },
     {
       "id": "LhGFHF53qnQ",
       "title": "百年の計　私がつなぐまちづくり",

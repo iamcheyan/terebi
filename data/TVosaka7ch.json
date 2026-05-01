@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-04-27T16:27:58.702830",
+  "updated_at": "2026-05-01T15:59:09.277778",
   "videos": [
+    {
+      "id": "yuaaQRwf8QQ",
+      "title": "【爬虫類】小さな恐竜たちの夏が来る！レプタイルズフィーバー2026開催決定！【イベント】",
+      "description": "",
+      "publishedAt": "2026-05-01T01:01:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yuaaQRwf8QQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yuaaQRwf8QQ"
+    },
     {
       "id": "PL5eukAlvg8",
       "title": "【社会人１年目のとある日常】",

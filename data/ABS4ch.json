@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-04-30T16:21:22.633583",
+  "updated_at": "2026-05-01T15:59:29.815744",
   "videos": [
+    {
+      "id": "jr1VF7lqlzA",
+      "title": "５月１日（金）秋田県内のニュースヘッドライン",
+      "description": "",
+      "publishedAt": "2026-05-01T04:07:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jr1VF7lqlzA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jr1VF7lqlzA"
+    },
+    {
+      "id": "RYxMmVRJ6Wg",
+      "title": "【クマ被害防止】危険地域・鹿角市十和田大湯で入山禁止措置",
+      "description": "",
+      "publishedAt": "2026-05-01T00:09:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RYxMmVRJ6Wg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RYxMmVRJ6Wg"
+    },
     {
       "id": "Ap61PnjWa54",
       "title": "【詐欺】不審電話を遮断！対策アプリ鈴木知事もPR",

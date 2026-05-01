@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-04-29T16:42:21.505467",
+  "updated_at": "2026-05-01T15:58:55.786915",
   "videos": [
+    {
+      "id": "UxSPHCl2PUE",
+      "title": "【あさは５ちゃん！】2026年5月2日放送",
+      "description": "",
+      "publishedAt": "2026-05-01T01:57:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UxSPHCl2PUE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UxSPHCl2PUE"
+    },
     {
       "id": "V2hl1qIOYwY",
       "title": "山形駅近くの角打ち酒場で気軽に地酒を飲み比べ！",

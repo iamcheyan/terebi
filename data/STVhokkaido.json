@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-04-23T16:45:29.617900",
+  "updated_at": "2026-05-01T15:59:43.212481",
   "videos": [
+    {
+      "id": "NYpqzpAkYZI",
+      "title": "#4　北見藤高校カーリング部　（後編）",
+      "description": "",
+      "publishedAt": "2026-05-01T05:10:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NYpqzpAkYZI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NYpqzpAkYZI"
+    },
+    {
+      "id": "FsQh6EmYOaE",
+      "title": "＃３　北見藤高校カーリング部　＜前編＞",
+      "description": "",
+      "publishedAt": "2026-05-01T05:10:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FsQh6EmYOaE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FsQh6EmYOaE"
+    },
     {
       "id": "p-dKTpikac0",
       "title": "ライブカメラ  大倉山ジャンプ競技場 山頂展望台(STV札幌テレビ放送)北海道札幌市中央区宮の森 /Live Camera Okurayama Ski Jump Stadium, Hokkaido",
