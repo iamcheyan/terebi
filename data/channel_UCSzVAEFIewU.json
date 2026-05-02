@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-05-01T15:58:54.043449",
+  "updated_at": "2026-05-02T15:50:04.936617",
   "videos": [
+    {
+      "id": "1i6_nS3NgCc",
+      "title": "【ゆ～ばら！】小川アナと中岡さんが行く「伊方町 佐田岬半島」",
+      "description": "",
+      "publishedAt": "2026-05-02T10:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1i6_nS3NgCc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1i6_nS3NgCc"
+    },
     {
       "id": "FJ0UDMqj9bg",
       "title": "【愛媛のアリーナ構想】愛媛OV・青野オーナーが香川の先行事例を視察",

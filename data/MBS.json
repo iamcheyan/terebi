@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-05-01T15:59:18.312668",
+  "updated_at": "2026-05-02T15:50:00.171465",
   "videos": [
+    {
+      "id": "IbWD9myCJwM",
+      "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/5/2放送",
+      "description": "",
+      "publishedAt": "2026-05-02T01:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IbWD9myCJwM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IbWD9myCJwM"
+    },
+    {
+      "id": "IPYYsBMdCCo",
+      "title": "【週末KOREA】#3 韓国・ソンスでセンスのいい休日",
+      "description": "",
+      "publishedAt": "2026-05-01T16:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IPYYsBMdCCo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IPYYsBMdCCo"
+    },
     {
       "id": "xtqN6OSR3yg",
       "title": "気持ち良すぎるw新喜劇の神ラップ",

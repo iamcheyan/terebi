@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-05-01T15:59:50.368980",
+  "updated_at": "2026-05-02T15:50:33.678442",
   "videos": [
+    {
+      "id": "gj0zO1FadGM",
+      "title": "260502 164929 天理教踏切",
+      "description": "",
+      "publishedAt": "2026-05-02T11:56:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gj0zO1FadGM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gj0zO1FadGM"
+    },
+    {
+      "id": "XsQ_P3uCNv0",
+      "title": "260502 164745 天理教踏切（アンパンマン列車通過）",
+      "description": "",
+      "publishedAt": "2026-05-02T11:40:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XsQ_P3uCNv0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XsQ_P3uCNv0"
+    },
+    {
+      "id": "5s8jpJMyPYE",
+      "title": "260502 155454 務田踏切 ２",
+      "description": "",
+      "publishedAt": "2026-05-02T11:39:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5s8jpJMyPYE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5s8jpJMyPYE"
+    },
+    {
+      "id": "RbFk1JmYrC0",
+      "title": "260502 154920 トロッコ列車（務田駅）",
+      "description": "",
+      "publishedAt": "2026-05-02T11:31:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RbFk1JmYrC0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RbFk1JmYrC0"
+    },
+    {
+      "id": "weWRM4qZ-rE",
+      "title": "260502 154525 務田踏切",
+      "description": "",
+      "publishedAt": "2026-05-02T11:28:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/weWRM4qZ-rE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=weWRM4qZ-rE"
+    },
+    {
+      "id": "OmItDg_QUGM",
+      "title": "260502 154141 みきゃん列車（務田駅）",
+      "description": "",
+      "publishedAt": "2026-05-02T11:25:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OmItDg_QUGM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OmItDg_QUGM"
+    },
     {
       "id": "cznXYqmEJ4E",
       "title": "260501 174732 小井手踏切（予土新幹線通過）",

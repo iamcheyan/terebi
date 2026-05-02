@@ -1,8 +1,20 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-05-01T15:58:59.038968",
+  "updated_at": "2026-05-02T15:50:10.209282",
   "videos": [
+    {
+      "id": "dmhCHWi5yA0",
+      "title": "【キッズチャレンジスタジアム】ひろなちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-05-02T03:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dmhCHWi5yA0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dmhCHWi5yA0"
+    },
     {
       "id": "UfY5VZbcQxc",
       "title": "【農家だった住宅を改修した宿泊施設】",

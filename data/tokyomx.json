@@ -1,8 +1,20 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-05-01T15:59:10.947936",
+  "updated_at": "2026-05-02T15:49:59.979941",
   "videos": [
+    {
+      "id": "IML6aw60cfw",
+      "title": "日本の伝統“甘酒”都内からも魅力発信【TOKYO　LENS】",
+      "description": "",
+      "publishedAt": "2026-05-02T11:07:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IML6aw60cfw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IML6aw60cfw"
+    },
     {
       "id": "w1fFRIaHa68",
       "title": "東京・大田区議が政活費680万円を不正受給「切手を換金して飲食に充てた」",

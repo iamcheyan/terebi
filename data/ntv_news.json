@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-05-01T15:59:07.582189",
+  "updated_at": "2026-05-02T15:50:12.722860",
   "videos": [
+    {
+      "id": "RiNAAORQYwQ",
+      "title": "Grave Digger Driver Talks Monster Jam and the Honor of Driving the Legendary Truck",
+      "description": "",
+      "publishedAt": "2026-05-02T00:55:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RiNAAORQYwQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RiNAAORQYwQ"
+    },
+    {
+      "id": "-08PEto8bec",
+      "title": "Monster Jam Roars into Pinnacle Bank Arena May 2nd and May 3rd",
+      "description": "",
+      "publishedAt": "2026-05-01T23:49:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-08PEto8bec/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-08PEto8bec"
+    },
     {
       "id": "ubvMQ_y0i0k",
       "title": "Nebraska Softball Looks to Clinch the Big Ten Title while Baseball Marches to Hosting a Regional",

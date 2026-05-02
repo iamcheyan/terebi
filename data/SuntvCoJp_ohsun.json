@@ -1,8 +1,44 @@
 {
   "channel_id": "UCoslznRuvXIAriI5z51-DPg",
   "channel_name": "サテレビ",
-  "updated_at": "2026-05-01T15:59:49.041376",
+  "updated_at": "2026-05-02T15:50:32.222155",
   "videos": [
+    {
+      "id": "FG7KHBKhyts",
+      "title": "おっ！サンID「グラスハープ／15秒」編",
+      "description": "",
+      "publishedAt": "2026-05-02T12:30:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FG7KHBKhyts/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FG7KHBKhyts"
+    },
+    {
+      "id": "NFfmhzOsVzg",
+      "title": "【姫路市】姫路市消防局 消防指令センター ～安全と命を守る最前線～／はりまサタデー９・FOCUSはりま（2026年5月2日OA）",
+      "description": "",
+      "publishedAt": "2026-05-02T00:30:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NFfmhzOsVzg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NFfmhzOsVzg"
+    },
+    {
+      "id": "PJ9Lq_LBzEY",
+      "title": "【神河町】カロひめリバー 誕生／はりまサタデー９・FOCUSはりま（2026年5月2日OA）",
+      "description": "",
+      "publishedAt": "2026-05-02T00:30:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PJ9Lq_LBzEY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PJ9Lq_LBzEY"
+    },
     {
       "id": "M_qmMAURgGk",
       "title": "【サトテル 2日連続の猛打賞】止まらない！5打数3安打で驚異の高打率をキープ！（2026年5月1日 阪神ー巨人） #サンテレビボックス席",
