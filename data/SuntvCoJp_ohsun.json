@@ -1,8 +1,44 @@
 {
   "channel_id": "UCoslznRuvXIAriI5z51-DPg",
   "channel_name": "サテレビ",
-  "updated_at": "2026-05-02T15:50:32.222155",
+  "updated_at": "2026-05-03T15:51:25.563434",
   "videos": [
+    {
+      "id": "xXu4-HLuTjo",
+      "title": "おっ！サンID「ユーチューバー／15秒」編",
+      "description": "",
+      "publishedAt": "2026-05-03T12:31:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xXu4-HLuTjo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xXu4-HLuTjo"
+    },
+    {
+      "id": "jDRfM-gBUGo",
+      "title": "広澤克実・植手桃子のGOLFに夢中！【5月ゲスト：澁澤莉絵留プロ part1】（2026年5月1日OA）#サンテレビ",
+      "description": "",
+      "publishedAt": "2026-05-03T00:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jDRfM-gBUGo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jDRfM-gBUGo"
+    },
+    {
+      "id": "hwdjt03EOqM",
+      "title": "【有川ひろの拝啓、タカラヅカより】『ＲＹＯＦＵ』（月組／宝塚大劇場）を観たヨー",
+      "description": "",
+      "publishedAt": "2026-05-02T19:58:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hwdjt03EOqM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hwdjt03EOqM"
+    },
     {
       "id": "FG7KHBKhyts",
       "title": "おっ！サンID「グラスハープ／15秒」編",

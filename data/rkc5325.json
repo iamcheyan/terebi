@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-05-01T15:59:41.984423",
+  "updated_at": "2026-05-03T15:51:16.642473",
   "videos": [
+    {
+      "id": "NisdLUlAG5Y",
+      "title": "RKCアプリ漢字クイズ 5/4の問題 ～パタロウのヒント～",
+      "description": "",
+      "publishedAt": "2026-05-03T15:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NisdLUlAG5Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NisdLUlAG5Y"
+    },
     {
       "id": "KDAT-1p_O8Y",
       "title": "潜入！File 02「高知県立のいち動物公園に潜入せよ！」×こうちeye More！2026/5/1放送",

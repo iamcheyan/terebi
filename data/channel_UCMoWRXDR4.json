@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-05-01T15:59:16.393284",
+  "updated_at": "2026-05-03T15:50:33.603250",
   "videos": [
+    {
+      "id": "SAElZ3I_cV4",
+      "title": "『里崎智也のゴルフ直球勝負！』～ミニコーナー「ともやの小部屋」#285 ～ 菊地明砂美プロ",
+      "description": "",
+      "publishedAt": "2026-05-03T15:00:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SAElZ3I_cV4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SAElZ3I_cV4"
+    },
     {
       "id": "bQCttc-gzzI",
       "title": "『ホリプレゼンツ 求人任三郎がいく！』第410回「 Driven Properties LLC　ドリブン・プロパティーズ」～psrt1～(2026.5.1放送)【チバテレ公式】",

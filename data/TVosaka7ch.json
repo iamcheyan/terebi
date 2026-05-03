@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-05-02T15:50:14.997574",
+  "updated_at": "2026-05-03T15:50:40.091522",
   "videos": [
+    {
+      "id": "RNY2PYJWxk4",
+      "title": "【特別展「鳥」】来場の記念にパシャリ！フォトブースもあるよ♪",
+      "description": "",
+      "publishedAt": "2026-05-03T06:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RNY2PYJWxk4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RNY2PYJWxk4"
+    },
     {
       "id": "FvXFgWUyTxQ",
       "title": "【特別展「鳥」】会場限定商品も！充実の鳥グッズでお迎えします❤",

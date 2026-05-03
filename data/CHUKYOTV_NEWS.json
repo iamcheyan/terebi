@@ -1,8 +1,32 @@
 {
   "channel_id": "UCxiRdfyH0FtFCRZTRfRsdsA",
   "channel_name": "中京テレビ",
-  "updated_at": "2026-05-02T15:50:33.532573",
+  "updated_at": "2026-05-03T15:51:27.395444",
   "videos": [
+    {
+      "id": "EufTTdsnNFY",
+      "title": "GW後半　高速道路は各地で渋滞 東名高速・豊田JCT付近では23.8キロの渋滞も",
+      "description": "",
+      "publishedAt": "2026-05-03T01:54:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EufTTdsnNFY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EufTTdsnNFY"
+    },
+    {
+      "id": "GFwh7wb_tn4",
+      "title": "大海原をバックに250匹のこいのぼり泳ぐ 三重・熊野市七里御浜海岸",
+      "description": "",
+      "publishedAt": "2026-05-03T01:54:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GFwh7wb_tn4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GFwh7wb_tn4"
+    },
     {
       "id": "y87TuQochn4",
       "title": "三重・尾鷲で子どもが防災を学ぶイベント",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCu8GW2WcGp_9Lic2wZY_IVg",
   "channel_name": "KAB熊本朝日放送",
-  "updated_at": "2026-05-02T15:50:18.867822",
+  "updated_at": "2026-05-03T15:51:11.066284",
   "videos": [
+    {
+      "id": "rrqYRRVzCZE",
+      "title": "【熊本地震10年】崩れた自宅を見つめた少年の「今」と「未来」",
+      "description": "",
+      "publishedAt": "2026-05-03T09:30:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rrqYRRVzCZE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rrqYRRVzCZE"
+    },
+    {
+      "id": "YNkjbCB6aPk",
+      "title": "【お弁当の革命】タッパー1つで同時調理！包丁いらずで忙しい朝を乗り切る時短術",
+      "description": "",
+      "publishedAt": "2026-05-03T09:30:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YNkjbCB6aPk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YNkjbCB6aPk"
+    },
+    {
+      "id": "3sO7HxdAwf4",
+      "title": "チーム始動の初練習に密着！部員11人全員1年生〜始まったばかりの女子野球部〜",
+      "description": "",
+      "publishedAt": "2026-05-03T09:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3sO7HxdAwf4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3sO7HxdAwf4"
+    },
     {
       "id": "QxIqquX7m24",
       "title": "ヴォルターズ プレーオフ初戦敗れる",

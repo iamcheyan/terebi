@@ -1,8 +1,703 @@
 {
   "channel_id": "UC7_jFLwpm5apDF-v-pXZb4w",
-  "channel_name": "テレビ新広島（TSS）",
-  "updated_at": "2026-05-02T15:50:13.509731",
+  "channel_name": "広島ニュースTSS",
+  "original_name": "テレビ新広島（TSS）",
+  "updated_at": "2026-05-03T15:51:57.534640",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tg3uAt4frkd4u8wGqT29SFS9pz0",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LnM0Q0pmMVpKb2ZN",
+      "snippet": {
+        "publishedAt": "2026-05-03T15:49:06Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "3月に警察が現場近くにカメラ設置　三原の地中遺体 東広島殺人との関連は (2026/05/03 18:00)",
+        "description": "東広島市の殺人事件の捜査の過程で、三原市の地中から男性の遺体が見つかった事件で、警察が今年３月、三原市の現場の近くに監視カメラを設置していたことが新たにわかりました。\r\n\r\n徳田雅希さんの遺体が発見された三原市沼田の会社敷地の前は、これまでかけられていたブルーシートが外され、警察の現場検証はめどがたったとみられます。その現場にはけさ、徳田さんのかつての同僚が訪れ手を合わせていました。\r\n\r\n【徳田さんの元同僚】\r\n「友達はたくさんおったろういっつもにこにこしてから鉄工かなんか真面目にしよるとは聞いたことがある…自分で会社立ち上げて」\r\n\r\n徳田さんの遺体は、２月に東広島市の住宅で起きた川本健一さんが殺害された事件を捜査する過程で先月２９日にみつかりました。その現場近くの住民は、取材に対し３月に警察から「監視カメラを置く」と伝えられたとしています。\r\n\r\n【住民】\r\n「東広島市で事件があったでしょ その犯人の逃走経路になっとるから見えるけえと」\r\n警察は７５人態勢で、２つの事件の関連をくわしく調べています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s4CJf1ZJofM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s4CJf1ZJofM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s4CJf1ZJofM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s4CJf1ZJofM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s4CJf1ZJofM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s4CJf1ZJofM"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TfKKTTkKXaOf7d1urImvthsSR2w",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LkVweDY2REJEcXZj",
+      "snippet": {
+        "publishedAt": "2026-05-03T15:48:26Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "恒例の「フラワーフェスティバル」始まる　今年で４９回目 (2026/05/03 18:00)",
+        "description": "ゴールデンウィークも中盤広島市では、きょうから恒例のフラワーフェスティバルが始まりました。\r\n\r\n広島市中区の平和公園や平和大通りを舞台に開かれるフラワーフェスティバルは今年で４９回目、花の塔に点火され３日間の幕が開けました。７４の団体、およそ７０００人が参加したパレードでは、バトントワリングや太鼓の演技などが披露され、会場は天候をものともせず、多くの来場者でにぎわっていました。会場を沸かせたのはこれだけではありません。\r\n\r\nフラワーピースアンバサダー村上信五さん\r\n「声聞こえてますか大丈夫ですか。恵みの雨ではないですけど忘れられないメモリアルな初日になるかと思うし」\r\n\r\nフラワーピースアンバサダーを務めるＳＵＰＥＲＥＩＧＨＴの村上信五さんもステージを盛り上げました。また、スノーボード・アルペンで活躍し今年、引退した竹内智香さんも登場し、トークショーが行われました。あすは、人気テーマパーク「ユニバーサル・スタジオ・ジャパン」による２５周年スペシャルステージも開催され、今年は３日間でおよそ１７０万人の来場を見込んでいます。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Epx66DBDqvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Epx66DBDqvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Epx66DBDqvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Epx66DBDqvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Epx66DBDqvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Epx66DBDqvc"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z7t_0PKFJugKHY9CfmeLouQ6h7M",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LjY5amtsckRwb0h3",
+      "snippet": {
+        "publishedAt": "2026-05-03T15:46:57Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "報道機関の使命を守る決意を誓う　朝日新聞阪神支局　襲撃事件から３９年 (2026/05/03 18:00)",
+        "description": "朝日新聞阪神支局の襲撃事件からきょうで３９年です。呉市川尻町にある小尻記者の墓前では朝日新聞の関係者が手を合わせ、報道機関の使命を守る決意を誓いました。この事件は１９８７年５月３日、兵庫県西宮市の朝日新聞阪神支局に押し入った男が散弾銃を発砲。呉市出身の小尻知博記者が死亡、もう１人が重傷となったものです。\r\n\r\n朝日新聞大阪本社　龍沢正之編集局長\r\n「あらためて原点に立ち返り暴力や権力に屈することなくよりよい社会を築くために理不尽なことに対して臆せず批判し、社会の信頼に応えていくことを誓いたい」\r\n\r\n事件は未解決のまま時効が成立しています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/69jklrDpoHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/69jklrDpoHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/69jklrDpoHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/69jklrDpoHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/69jklrDpoHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "69jklrDpoHw"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AdImn6srV_n6ONmgBMXM4XrU87c",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LmUzZzQtLVB5d1hj",
+      "snippet": {
+        "publishedAt": "2026-05-03T15:46:22Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "日米「フレンドシップデー」開催　緊迫化する中東情勢の中 (2026/05/03 18:00)",
+        "description": "山口県岩国市のアメリカ軍岩国基地では基地の一部を一般公開するイベントが開催されました。\r\n\r\nあいにくの雨模様となったきょう、アメリカ軍岩国基地で開かれた「日米フレンドシップデー」には多くの航空ファンや家族連れが訪れました。緊迫化する中東情勢を受け、国内にあるほかの在日米軍基地でのイベントは中止が相次ぐ中、例年よりもセキュリティーを強化しての開催となりましたが目立った混乱やトラブルはありませんでした。会場ではアメリカ軍と自衛隊の航空機などが展示され、訪れた人は普段見ることのできない機体を写真に収めていました。目玉の航空ショーでは最新鋭の戦闘機によるデモンストレーションが行われ、訪れた人たちからは歓声が上がっていました。今年のフレンドシップデーにはおよそ４万５０００人が訪れたということです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e3g4--PywXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e3g4--PywXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e3g4--PywXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e3g4--PywXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e3g4--PywXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e3g4--PywXc"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AkuuRE50eg4_CvusdkXQfJLer0w",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LlJlNFBmWVptcEkw",
+      "snippet": {
+        "publishedAt": "2026-04-29T20:57:20Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "「呉みなと祭」賑わう　肉じゃが、細うどん…呉グルメに舌鼓　パレードでは呉氏とダンスパフォーマンス (2026/04/29 17:36)",
+        "description": "ゴールデンウィーク初日の２９日、呉市で行われた恒例の『みなと祭』。\r\n市役所前の蔵本通りには多くの露店が並びました。\n\nその中でも、特に人気を集めていたのは地元の名物料理たち。\r\n呉が発祥の地とも言われている『肉じゃが』や『細うどん』。\r\nそして、揚げたての『がんす』といった呉が誇る様々なグルメに訪れた人は舌鼓を打っていました。\r\n\r\n【訪れた人】\r\n「すごく美味しいです。だしが効いていて」\r\n「地元の空気感とか。地元が盛り上がっていることを感じられるのがいいなと思うので、そういうのを楽しみたい」\n\nまた、午後からは祭りのメインとなるパレードも開催。\r\n呉市のマスコットキャラクターの『呉氏』や、ダンススクールのメンバーなどおよそ２０００人によるパワフルなパフォーマンスが繰り広げられ、多くの家族連れなどが楽しんでいました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Re4PfYZmpI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Re4PfYZmpI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Re4PfYZmpI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Re4PfYZmpI0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Re4PfYZmpI0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Re4PfYZmpI0"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u4KKqmJT87OyirLeLxsauUmJh70",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LlhkYmdLamZPdzhN",
+      "snippet": {
+        "publishedAt": "2026-04-29T20:57:20Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "夏も近づく八十八夜　縮景園で「茶摘まつり」　茶道部の中高生が早乙女姿で　広島　 (2026/04/29 17:32)",
+        "description": "ゴールデンウィーク恒例です。新茶のシーズンがはじまり、広島市の名勝、縮景園では伝統の「茶摘まつり」が開かれました。\r\n\r\n緑が鮮やかな縮景園の茶畑では学校で茶道部に所属する中・高生たちが早乙女の衣装に身を包み茶摘みを行いました。\n\n江戸時代に広島藩主の浅野家が立春から８８日目にあたる八十八夜に行っていた茶摘み行事を再現し伝統文化の継承に取り組んでいるものです。\r\n\r\nその後、生徒たちはセイロで蒸した茶葉を手で揉んで風味を引き出す伝統技法を体験しました。\n\n【参加した生徒は】\r\n「自分は台湾の留学生で、こんな新しい経験が茶道部としてみんなで一緒にお茶摘みとか自分はとても楽しくて、うれしいと思います」\r\n「すごい大変な過程を経てお茶粉だったり、お抹茶ができてるって考えたらお茶を点てるときの気持ちも変わるなと思いました」\r\n\r\n園内では上田宗箇流による茶席が設けられ、訪れた人たちは和やかな空間の中でお茶を味わっていました。\r\n\r\n※八十八夜は立春から数えて８８日目。今年は５月２日。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XdbgKjfOw8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XdbgKjfOw8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XdbgKjfOw8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XdbgKjfOw8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XdbgKjfOw8M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XdbgKjfOw8M"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0F4vL-tYtNyv8bykJdoPgPb0L_A",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LlliY0h0MzBwS3ow",
+      "snippet": {
+        "publishedAt": "2026-04-29T20:57:20Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "レジェンド小野伸二さんがサッカー教室　子どもたちに「気候変動に関心持って！」　広島 (2026/04/29 17:47)",
+        "description": "子供たちにサッカーと気候変動の関係について知ってもらおうとあのレジェンドによるサッカー教室が行われました。\r\n\r\n２９日、行われたのは小学生を対象に開かれたＪスマイルフットボールツアー。\r\nサッカーを通して気候変動に関心を持ってもらおうと開かれました。\r\n\r\nメイン講師は、サッカー日本代表でも活躍したＪリーグ特任理事の小野伸二さん。\r\nトークセッションでは、クイズ形式で子供たちは気候変動とサッカーの関係を学びました。\n\n後半のサッカー教室では、サンフレッチェ広島アンバサダーの森崎浩司さんも参加し、ドリブルやリフティングでボールと触れ合いました。\r\n\r\n最後は、憧れのレジェンドとミニゲームで対戦。\r\n子どもたちはプロの技を間近で感じながら、サッカーを全身で楽しんでいました。\r\n\r\n【参加した子ども】\r\n「疲れたけどめっちゃ楽しかった。小野選手と戦って勝ったことが（楽しかった）」\r\n\r\n【Ｊリーグ特任理事・小野伸二さん】\r\n「子どもたちが終始笑顔でやることに一生懸命取り組んでくれたことが嬉しかった。子どもたちが（トークセッションでも）クイズに積極的に参加してくれて嬉しい。サッカーにおいては上手くなるよりも心から楽しいんだと感じてもらえたら」",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YbcHt30pKz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YbcHt30pKz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YbcHt30pKz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YbcHt30pKz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YbcHt30pKz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YbcHt30pKz0"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rYO7Oaq8j7K_XgXqHxVPi63Iva4",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3Llp1Z0x2REU5OUI4",
+      "snippet": {
+        "publishedAt": "2026-04-29T20:57:20Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "ベテラン警察犬と二人三脚　県警の新米ハンドラーに密着！　事件や行方不明者の捜査に奮闘！　広島 (2026/04/29 19:30)",
+        "description": "事件の捜査や行方不明者の捜索で力を発揮する警察犬。\r\nその、ベテラン警察犬と二人三脚で歩む広島県警の新米ハンドラーの姿を追いました。\r\n\r\n逃走した容疑者の捜索や認知症による高齢者の徘徊や子どもの迷子まで…。\r\n現場で重要な役割を担っているのが特別な訓練を受けた犬、警察犬です。\r\nその嗅覚は人間の何千倍もあるとされていて、道路などに残った匂いを頼りに捜索をします。\n\n広島県警に所属する警察犬の中でもベテランとして活躍する「クリア」、７歳です。少しだけ臆病な一面もありますが、嗅覚を含め、頼りになる警察犬です。\r\n\r\n【県警 鑑識課警察犬係・岸夕鶴さん（25）】\r\n「こんな子なんですけど、めっちゃいい子です。ねえ、クリちゃん。」\n\nクリアを担当しているのは岸夕鶴さん。\r\n広島県警 鑑識課警察犬係に所属する若手警察官です。\r\n\r\n【岸さん】\r\n「クリ。クリア。立って。座れ。」\r\n\r\n小さい頃から犬が好きだったという岸さん。\r\n警察官を目指したのは小学１年生のころでした。\n\n【岸さん】\r\n「フラワーフェスティバルのパレードに、たまたま警察官の方が警察犬のシェパードを連れて歩いている姿を見て、一目ぼれしてしまって。そこで私もこの人たちみたいに警察犬と一緒に働く人になりたいと思ったのがきっかけ」\r\n\r\n警察犬と一緒に働きたい。\r\nその一心で警察官を志してきたといいます。\r\n\r\nその後、警察官になる目標を無事かなえ様々な警察署を経験した後、去年、念願の警察犬係に配属されました。「警察犬係」を希望して１５年以上がたっていました。\n\n【岸さん】\r\n「めちゃくちゃうれしくて。自分もまさか警察犬係になると自分で思っていなかったのでうれしかったです。ちょっと泣きました。」警察官としては８年目。\r\nでも、ハンドラーとしてはまだまだ新米です。\r\n相棒のクリアから学ぶこともしばしば…。\r\n鍛錬の日々が続きます。\n\n県警によりますと去年、警察犬が出動した件数は４１３件に上っていて、毎年４００件以上の出動事案があります。\r\n今年に入ってからは３カ月間ほどですでに９６件。\r\n警察犬が活躍する現場は数多くあります。\r\n\r\n新米の岸さんも、クリアとともに行方不明者の捜索活動に向かいます。\r\n現場では「臭い」を追跡するだけでなくハンドラー自身の判断力が問われます。\n\n【岸さん】\r\n「夜、子供が帰ってこないという事案で（現場に）行かせてもらって。クリアが家の付近をくるくる回ってそこからあまり動こうとしなかったり、家の裏の方面を気にする様子があったので、そっち方面にいったのかなと思い、その周辺を探したが発見できず後々話を聞いたら、家の敷地内の配達用のバイクのようなものの狭いトランクの中に入って隠れていたいうことがあり…」\r\n\n\nクリアが示してくれた反応に気づくことができていれば、もっと早く子どもを見つけてあげることができたかもしれない。\r\nあの時の反省を胸にクリアの動きを一つ一つ窺いながら団地を練り歩きます。\r\n\r\nそんな岸さんをそばで見守る一人の男性。\r\n岸さんの目標でもある大先輩の八田警部補です。\n\n【県警 鑑識課警察犬係　八田智彦 警部補】\r\n「犬を扱うこと自体は問題ない。あとは現場のやり取り、警察官への説明とか行方不明の場合だったらご家族への説明とか判断の仕方とかはあるかもしれないが、あとは経験積んでもらって」\r\n\r\nベテランの「クリア」に助けられながら経験を積んでいる岸さん。\r\nハンドラーとして次の目標があります。\n\n【岸さん】\r\n「刑事部鑑識課なので犯罪現場に出て色々証拠だったり犯人の手掛かりになるようなことが、警察犬でわかるような活動ができたらなと思います」\r\n\r\n幼きころに見た警察犬と一緒に働く夢。\r\n二人三脚で地域社会の安全を守る、その歩みはきょうも続いています。\r\n\r\n\n\n■スタジオ\n\n広島県警にいる警察犬は県警に直絶所属している「直轄警察犬」が５頭。\r\nそして、民間で飼育・訓練されている「嘱託警察犬」と呼ばれる警察犬が２５頭います。\r\n\r\n出動要請が入ると基本的に「直轄警察犬」が現場に行きますが、要請の数が多かったり、場所が遠いなど応援が必要な場合は「嘱託警察犬」が出動することもあります。\r\n去年は２件、「嘱託警察犬」が行方不明者の捜索で活躍したそうです。\r\n\r\n直轄警察犬は、最近行方不明者の捜索だけでなく犯罪現場に積極的に出動しているということで岸さんとクリアの今後の活躍が期待されます。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZugLvDE99B8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZugLvDE99B8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZugLvDE99B8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZugLvDE99B8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZugLvDE99B8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZugLvDE99B8"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HhJevUXuWUhO0xu2IFkUMxYdoZQ",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LmFSbUpwcGhwQWtv",
+      "snippet": {
+        "publishedAt": "2026-04-29T20:57:20Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "歯科医師が減る！2040年問題　歯の健康守る「歯科衛生士」を養成　子育て世代に優しい専門学校誕生 (2026/04/29 19:04)",
+        "description": "来年春の開校を目指し海田町に校舎を構えた歯科衛生士専門学校…。\r\n少子化が進む中で新たな学校を開く背景には…。\n\n【広島たいよう歯科衛生士専門学校・岡本佳明 理事長】\r\n「我々の業界で課題になっている２０４０年問題というのがあるが、今後歯科医師の数が減っていく。人口の減少よりも早いスピードで歯医者の数が減っているのではと言われているし、これから２０４０年に向かってどんどん高齢化していく。歯医者に歩いて来られない人が増えてくる。そのときに訪問診療して患者の口の中の健康を保つのがまさに歯科医師よりも歯科衛生士のほうが大切になってくる」\n\n今月中旬、一足早く開いたオープンキャンパス。\r\n\r\n【高校３年生】\r\n「興味があってきた」\r\n「新しい学校だから気になる」\r\n\r\n体験型の催しで高校３年生が多く参加していましたが中には…。\r\n\r\n【入学を目指す２０代女性】\r\n「ママでもできそうだなと」\r\n\r\n高校卒業と同時に就職し現在は工場で働きながら子育てをしているというこちらの女性…。\r\n\n\n【入学を目指す２０代女性】\r\n「高校生のときは勉強が自信なかったり学費の不安はあって諦めたが、もう一回挑戦しようと思った」\r\n\r\n実はこの専門学校、全国的にも珍しい「午前中のみ」の授業スタイル。\r\n他の職種からのキャリアチェンジや子育てしながらの学び直しなどがしやすい環境を整えているんです。\n\n【広島たいよう歯科衛生士専門学校・岩井三賀 副校長】\r\n「私も１０年ほど幼稚園教諭をしていた。そこから子育てをしながらもう一度専門学校に通い歯科衛生士の国家資格を取得した。（教職員と）手を取ってきめ細かい丁寧な授業をしていきたい」\r\n\r\n一方、８年ほど前から構想し今回、海田町に校舎を構えたのにもある理由が…。\n\n【広島たいよう歯科衛生士専門学校・岡本佳明 理事長】\r\n「いま広島には５校ほど学校があるが、人口の多い呉市や東広島市、海田町、府中町のエリアで歯科衛生士を目指したいという人の学校ができたらいいなと思って」\r\n\r\nこれまで養成学校がなかったまさに”空白地帯”を埋める役割を担います。\r\n近年、歯科医院だけでなく介護・福祉施設や行政機関での業務など口の中の健康を管理するスペシャリストとして活躍の場が広がっている歯科衛生士…。\n\n広島たいよう歯科衛生士専門学校は来年４月の開校に向けて６月から総合型選抜のエントリー受付を始めるということです。\n\n■取材メモ\n\n人生１００年時代と言われる中で健康寿命の延伸に重要な役割を担う歯科衛生士の方々ですが、歯科衛生士の求人倍率も中四国地方ではおよそ２０倍と極めて高くなっているということです。\r\n\r\nそうした中で歯科衛生士という職は新卒じゃなくてはいけないという職ではなく学ぶ時間は必要ですがキャリアチェンジしやすいともおっしゃっていました。\r\n\r\nですから３０代、４０代、親の介護が身近な視野に入る世代でも十分チャレンジできる、親の健康を守るための知識を身につけることにもつながりそうです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aRmJpphpAko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aRmJpphpAko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aRmJpphpAko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aRmJpphpAko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aRmJpphpAko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aRmJpphpAko"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h101QPOoYboDFbCT3tgVhn032Tc",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LlVOb3hPVHNkSFRr",
+      "snippet": {
+        "publishedAt": "2026-04-26T20:52:02Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "『チェルノブイリ原発事故』から40年 「核と人類は共存できない」訴え ２６日 広島市 (2026/04/26 15:30)",
+        "description": "ウクライナのチョルノービリ＝当時のチェルノブイリ原発事故から、２６日で４０年です。県原水禁などは平和公園で「核と人類は共存できない」と訴える座り込みを行いました。\r\n\r\n雨が降る中、２６日、広島市中区の平和公園では県原水禁のメンバーなど、約３０人が集まり、座り込みを行いました。\r\n\r\nこの座り込みは、１９８６年４月２６日に起きた「チェルノブイリ原発事故」の翌年から行われています。\r\n\r\nＮＰＴ再検討会議の開催を２７日に控え、またアメリカによるイランの核施設攻撃など中東情勢が悪化する中、今年は福島第一原発の事故から１５年となり、「原子力緊急事態宣言」がいまだ解除できていないことなどから、脱原発を進めるべきだと強調しました。\r\n\r\n【アピール文 読みあげ】「新たなヒバクシャを作らないためには『核絶対否定』の道しかありません。私たちは、人類史上はじめて原子爆弾の惨禍を被った広島から改めて訴えます」\r\n\r\nこのアピール文は、高市総理宛てに郵送される予定です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UNoxOTsdHTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UNoxOTsdHTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UNoxOTsdHTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UNoxOTsdHTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UNoxOTsdHTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 66,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UNoxOTsdHTk"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9t0ul5WSicPA3GKX_q_6YVfYzlc",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LnlzWlBEa0lyOTFZ",
+      "snippet": {
+        "publishedAt": "2026-04-26T20:52:02Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "車いすユーザーと一緒に「自分らしく生きる」を考えるイベント ２５日 広島市 (2026/04/26 13:30)",
+        "description": "障がいがある人もない人も一緒になって「自分らしく生きる」を考えるワークショップが２５日、広島市で行われました。\r\n\r\nこの日は、福祉下着を開発している新藤杏菜さんのほか、県内で活動する車いすユーザーの竹上美枝子さん・藤井佳奈さんが講演。\r\n\r\n３人は、障がいがあるために感じる不便な点を挙げた上で、車いすでは通りづらい道も「誰かの声かけで『バリアフリー』になる」など、人とのつながりで前向きになれたエピソードを語りました。\r\n\r\nまた、ワークショップでは高校生や理学療法士など、約３０人の参加者と、自分らしく生きることについて意見を交わしました。\r\n\r\n参加した、看護を学ぶ高校生は「実際に障がいがある方と話す機会があまりないのでいろんな話が聞けた」と話し、企画した新藤杏菜さんは「参加者に『自分事』にとらえてもらえたり、自分の周りにそういう方がいたときに『こうしよう』と考えられるようになったらいい」と期待を寄せました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ysZPDkIr91Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ysZPDkIr91Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ysZPDkIr91Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ysZPDkIr91Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ysZPDkIr91Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 67,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ysZPDkIr91Y"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7jG21MquqiJCbqN234SBGNUBrfE",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LlV3LV9mTllxZ2Jn",
+      "snippet": {
+        "publishedAt": "2026-04-22T01:22:28Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "参政党　広島県内14選挙区　重要選挙区と位置づけ、候補者擁立を目指す　来年春の統一地方選に向けて (2026/04/22 10:02)",
+        "description": "来年春の統一地方選に向けて、参政党は県内１４の選挙区を重点区と位置づけ、候補者擁立を目指すと発表しました。\r\n\r\n【参政党広島県連　宮武洋成 会長】\r\n「地方議員を増やして参政党というものを議員の活動を通して地域の方にも広く知ってもらって、次の国政選挙という大きい選挙でまた国会議員を増やしていこうと」\r\n\r\n参政党広島県連は２１日、来年の統一地方選で、県議選・広島市議選・東広島市議選など、県内１４の選挙区を重点選挙区と位置づけ、候補者の擁立を目指すと発表しました。\r\n１４の選挙区はいずれも過去の選挙で参政党への支持が多かった選挙区だということです。\r\n\r\n参政党は、統一地方選で全国で６００人を擁立し、５００人の当選を目指す「プロジェクト６００」を打ち出しています。\r\n参政党所属の地方議員は現在、東広島市議など３人です。 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uw-_fNYqgbg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uw-_fNYqgbg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uw-_fNYqgbg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uw-_fNYqgbg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uw-_fNYqgbg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 112,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Uw-_fNYqgbg"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b5v9m-1OFWY-vrCd1hGg-W_Tb_g",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3Lm5LNlB2S29lN0NZ",
+      "snippet": {
+        "publishedAt": "2026-04-22T01:22:28Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "第六管区海上保安本部　新本部長に池上浩之氏が就任 「海上交通の安全確保は最重要課題」広島 (2026/04/22 10:03)",
+        "description": "瀬戸内海を中心に管轄する第六管区海上保安本部の本部長に池上浩之氏が就任し、今後の抱負を語りました。\r\n\r\n今月１５日付けで就任した池上本部長は、１９９２年に海上保安大学校を卒業し海上保安庁の警備救難部や熊本海上保安部長などを歴任し、先月まで第五管区海上保安本部で『ナンバー２』にあたる「次長」を務めていました。\r\n\r\n【第六管区海上保安本部 池上浩之 本部長】\r\n「海難の防止、海上交通の安全確保は当管区の最重要課題であると捉えています」\r\n\r\nまた、海上保安庁が課題としている人材確保ついて、採用に関わる人員を増やし、対応を強化する考えを示しました。\r\n一方で、六管区に所属する巡視船など５６隻のうち２１隻が、更新の目安となる耐用年数をすでに超えている実態も明らかにしたうえで、老朽化による故障を未然に防止するため乗組員による点検や整備を計画的に行っていくとしています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nK6PvKoe7CY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nK6PvKoe7CY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nK6PvKoe7CY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nK6PvKoe7CY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nK6PvKoe7CY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 113,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nK6PvKoe7CY"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nR8c5nmqvIy0N3-v1eRVVI8-BBQ",
+      "id": "VVU3X2pGTHdwbTVhcERGLXYtcFhaYjR3LjRKTjYwdmExSm1N",
+      "snippet": {
+        "publishedAt": "2026-04-16T03:11:15Z",
+        "channelId": "UC7_jFLwpm5apDF-v-pXZb4w",
+        "title": "『三次もののけミュージアム』入館者40万人達成記念セレモニー「忘れない出来事になった」 広島・三次市 (2026/04/16 12:03)",
+        "description": "妖怪をテーマにした「三次もののけミュージアム」の入館者が４０万人を達成し、記念セレモニーが開かれました。\r\n\r\n「よいしょ～！ぱちぱち！おお～！４０万人！！」\r\n\r\n４０万人目の記念入館者に選ばれたのは、広島市安芸区から一緒に訪れた茶井亮貴さんと中西歩さんです。\r\n２人には妖怪タンブラーをはじめ、記念品や博物館グッズが贈られました。\r\n\r\n【茶井亮貴さん】\r\n「４０万人記念ということろで私たちにとっても忘れられない出来事になるかなと。何年、何十年と続いていただけたらすごいいいなと思う」\r\n\r\n妖怪をテーマにした「三次もののけミュージアム」。\r\n江戸時代の妖怪物語「稲生物怪録」の舞台が三次市であることから、市が２０１９年にオープンし、地域を代表する観光地の１つとなっています。 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\nテレビ新広島がオススメするニュース、スポーツ、地域情報の最新情報をお届けするチャンネルです。チャンネル登録宜しくお願いします。\n※掲載されております情報は、取材当時のものですのでご了承ください。\n#広島ニュース #テレビ新広島 #TSS #ライク #プライムオンライン#ニュース #広島県 #HIROSHIMA\n★広島のニュースはこちらでチェック\nhttps://www.tss-tv.co.jp/tssnews/\n★テレビ新広島のホームページはこちら\nhttps://www.tss-tv.co.jp/\n★公式YouTubeチャンネル「広島ニュースTSS」\nhttps://www.youtube.com/channel/UC7_jFLwpm5apDF-v-pXZb4w\n★TSSオンデマンド(エンタメ系）\nhttps://www.youtube.com/channel/UCouV316ueTMMIlXvzKoe6kA\n★カープ全力応援チャンネル\nhttps://www.youtube.com/channel/UCGtlcql20e1g3iCn6LrWLug\n★TSSアーカイブプロジェクト\nhttps://www.tss-tv.co.jp/web/archive_project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4JN60va1JmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4JN60va1JmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4JN60va1JmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4JN60va1JmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4JN60va1JmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広島ニュースTSS",
+        "playlistId": "UU7_jFLwpm5apDF-v-pXZb4w",
+        "position": 145,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4JN60va1JmM"
+        },
+        "videoOwnerChannelTitle": "広島ニュースTSS",
+        "videoOwnerChannelId": "UC7_jFLwpm5apDF-v-pXZb4w"
+      }
+    },
+    {
+      "id": "Uxiq2Jj7HHY",
+      "title": "ＮＰＴ再検討会議５日目 被爆者ら核廃絶を世界に訴え アメリカ・ニューヨーク １日 (2026/05/02 16:00)",
+      "description": "",
+      "publishedAt": "2026-05-02T20:51:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Uxiq2Jj7HHY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Uxiq2Jj7HHY"
+    },
+    {
+      "id": "8SXJZI7mk3M",
+      "title": "初夏の風物詩　因島の除虫菊が見ごろ　広島・尾道市 (2026/05/02 12:00)",
+      "description": "",
+      "publishedAt": "2026-05-02T20:51:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8SXJZI7mk3M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8SXJZI7mk3M"
+    },
+    {
+      "id": "ehkiTf8o99U",
+      "title": "東広島殺人の捜査過程で 三原で遺体発見「捜査本部を拡充」２つの事件の関連捜査 ２日 広島 (2026/05/02 15:00)",
+      "description": "",
+      "publishedAt": "2026-05-02T20:50:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ehkiTf8o99U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ehkiTf8o99U"
+    },
     {
       "id": "Cn6rBM49CDM",
       "title": "最大１２連休のＧＷ 土日祝日が並ぶ５連休は２日から ＪＲ広島駅も旅行客・帰省客で混雑 広島市 (2026/05/02 12:00)",
@@ -21690,6 +22385,90 @@
       "title": "「竹とんぼ」、「こま回し」、「羽子板」など　昔遊びで小学生と地域住民が交流　東広島市 (2026/02/11 17:54)",
       "thumbnail": "https://i.ytimg.com/vi/zuE1kqrT2yg/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=zuE1kqrT2yg"
+    },
+    {
+      "id": "s4CJf1ZJofM",
+      "title": "3月に警察が現場近くにカメラ設置　三原の地中遺体 東広島殺人との関連は (2026/05/03 18:00)",
+      "thumbnail": "https://i.ytimg.com/vi/s4CJf1ZJofM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=s4CJf1ZJofM"
+    },
+    {
+      "id": "Epx66DBDqvc",
+      "title": "恒例の「フラワーフェスティバル」始まる　今年で４９回目 (2026/05/03 18:00)",
+      "thumbnail": "https://i.ytimg.com/vi/Epx66DBDqvc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Epx66DBDqvc"
+    },
+    {
+      "id": "69jklrDpoHw",
+      "title": "報道機関の使命を守る決意を誓う　朝日新聞阪神支局　襲撃事件から３９年 (2026/05/03 18:00)",
+      "thumbnail": "https://i.ytimg.com/vi/69jklrDpoHw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=69jklrDpoHw"
+    },
+    {
+      "id": "e3g4--PywXc",
+      "title": "日米「フレンドシップデー」開催　緊迫化する中東情勢の中 (2026/05/03 18:00)",
+      "thumbnail": "https://i.ytimg.com/vi/e3g4--PywXc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=e3g4--PywXc"
+    },
+    {
+      "id": "Re4PfYZmpI0",
+      "title": "「呉みなと祭」賑わう　肉じゃが、細うどん…呉グルメに舌鼓　パレードでは呉氏とダンスパフォーマンス (2026/04/29 17:36)",
+      "thumbnail": "https://i.ytimg.com/vi/Re4PfYZmpI0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Re4PfYZmpI0"
+    },
+    {
+      "id": "XdbgKjfOw8M",
+      "title": "夏も近づく八十八夜　縮景園で「茶摘まつり」　茶道部の中高生が早乙女姿で　広島　 (2026/04/29 17:32)",
+      "thumbnail": "https://i.ytimg.com/vi/XdbgKjfOw8M/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XdbgKjfOw8M"
+    },
+    {
+      "id": "YbcHt30pKz0",
+      "title": "レジェンド小野伸二さんがサッカー教室　子どもたちに「気候変動に関心持って！」　広島 (2026/04/29 17:47)",
+      "thumbnail": "https://i.ytimg.com/vi/YbcHt30pKz0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YbcHt30pKz0"
+    },
+    {
+      "id": "ZugLvDE99B8",
+      "title": "ベテラン警察犬と二人三脚　県警の新米ハンドラーに密着！　事件や行方不明者の捜査に奮闘！　広島 (2026/04/29 19:30)",
+      "thumbnail": "https://i.ytimg.com/vi/ZugLvDE99B8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZugLvDE99B8"
+    },
+    {
+      "id": "aRmJpphpAko",
+      "title": "歯科医師が減る！2040年問題　歯の健康守る「歯科衛生士」を養成　子育て世代に優しい専門学校誕生 (2026/04/29 19:04)",
+      "thumbnail": "https://i.ytimg.com/vi/aRmJpphpAko/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aRmJpphpAko"
+    },
+    {
+      "id": "UNoxOTsdHTk",
+      "title": "『チェルノブイリ原発事故』から40年 「核と人類は共存できない」訴え ２６日 広島市 (2026/04/26 15:30)",
+      "thumbnail": "https://i.ytimg.com/vi/UNoxOTsdHTk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UNoxOTsdHTk"
+    },
+    {
+      "id": "ysZPDkIr91Y",
+      "title": "車いすユーザーと一緒に「自分らしく生きる」を考えるイベント ２５日 広島市 (2026/04/26 13:30)",
+      "thumbnail": "https://i.ytimg.com/vi/ysZPDkIr91Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ysZPDkIr91Y"
+    },
+    {
+      "id": "Uw-_fNYqgbg",
+      "title": "参政党　広島県内14選挙区　重要選挙区と位置づけ、候補者擁立を目指す　来年春の統一地方選に向けて (2026/04/22 10:02)",
+      "thumbnail": "https://i.ytimg.com/vi/Uw-_fNYqgbg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Uw-_fNYqgbg"
+    },
+    {
+      "id": "nK6PvKoe7CY",
+      "title": "第六管区海上保安本部　新本部長に池上浩之氏が就任 「海上交通の安全確保は最重要課題」広島 (2026/04/22 10:03)",
+      "thumbnail": "https://i.ytimg.com/vi/nK6PvKoe7CY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nK6PvKoe7CY"
+    },
+    {
+      "id": "4JN60va1JmM",
+      "title": "『三次もののけミュージアム』入館者40万人達成記念セレモニー「忘れない出来事になった」 広島・三次市 (2026/04/16 12:03)",
+      "thumbnail": "https://i.ytimg.com/vi/4JN60va1JmM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4JN60va1JmM"
     }
   ]
 }

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCjPVLguFrd6DTfHl2McrPjw",
   "channel_name": "OTV沖縄テレビ",
-  "updated_at": "2026-05-02T15:50:22.411755",
+  "updated_at": "2026-05-03T15:51:15.603559",
   "videos": [
+    {
+      "id": "vsGkrSmG7h4",
+      "title": "那覇市長選挙　10月18日告示・25日投開票が決定 (26/05/03 13:30)",
+      "description": "",
+      "publishedAt": "2026-05-03T09:02:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vsGkrSmG7h4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vsGkrSmG7h4"
+    },
+    {
+      "id": "OC_XPBaGY4A",
+      "title": "若夏の風物詩　那覇ハーリーが開幕 (26/05/03 13:00)",
+      "description": "",
+      "publishedAt": "2026-05-03T04:54:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OC_XPBaGY4A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OC_XPBaGY4A"
+    },
     {
       "id": "TSK65Yv0QoM",
       "title": "日ごろの鍛錬の成果を披露！県少年少女空手道選手権大会 (26/05/02 18:00)",
