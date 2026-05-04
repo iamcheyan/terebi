@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-05-01T15:59:43.212481",
+  "updated_at": "2026-05-04T16:48:27.274697",
   "videos": [
+    {
+      "id": "cmOeYUmtRDM",
+      "title": "【どさんこWEEKEND】2026年4月25日放送  ReFa体験",
+      "description": "",
+      "publishedAt": "2026-05-04T05:52:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cmOeYUmtRDM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cmOeYUmtRDM"
+    },
     {
       "id": "NYpqzpAkYZI",
       "title": "#4　北見藤高校カーリング部　（後編）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-05-02T15:50:30.677594",
+  "updated_at": "2026-05-04T16:48:34.553333",
   "videos": [
+    {
+      "id": "eN5Kbw-y1eo",
+      "title": "愛媛のニュース(05月04日)",
+      "description": "",
+      "publishedAt": "2026-05-04T11:43:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eN5Kbw-y1eo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eN5Kbw-y1eo"
+    },
+    {
+      "id": "QkEHVCBkNbE",
+      "title": "味ひとすじ　永谷園　頑張れ！ニッポンの技 ～四国中央市　伊予水引～",
+      "description": "",
+      "publishedAt": "2026-05-04T03:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QkEHVCBkNbE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QkEHVCBkNbE"
+    },
     {
       "id": "DzTO9g61V4I",
       "title": "愛媛のニュース(05月02日)",

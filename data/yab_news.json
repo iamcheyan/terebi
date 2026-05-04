@@ -1,8 +1,32 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
   "channel_name": "yab山口ニュース",
-  "updated_at": "2026-05-03T15:50:49.892596",
+  "updated_at": "2026-05-04T16:48:12.341544",
   "videos": [
+    {
+      "id": "UYGnyh3i7wk",
+      "title": "【山口】防府・佐波川のこいながし",
+      "description": "",
+      "publishedAt": "2026-05-04T10:53:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UYGnyh3i7wk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UYGnyh3i7wk"
+    },
+    {
+      "id": "4CvgPjMpC9o",
+      "title": "【山口】宇部・ときわ動物園　来園１５０万人",
+      "description": "",
+      "publishedAt": "2026-05-04T10:53:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4CvgPjMpC9o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4CvgPjMpC9o"
+    },
     {
       "id": "HSpjwFNOWwc",
       "title": "【山口】フレンドシップデー　航空ショー雨で規模縮小も4.5万人来場",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCqobPh0K_bFAWurWVQrLtKQ",
   "channel_name": "UX新潟テレビ21",
-  "updated_at": "2026-05-02T15:50:30.188571",
+  "updated_at": "2026-05-04T16:48:33.429181",
   "videos": [
+    {
+      "id": "plmQyDBlgoE",
+      "title": "【ニイガタ◆メモリーズ】No.005『安田アイランド』",
+      "description": "",
+      "publishedAt": "2026-05-04T01:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/plmQyDBlgoE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=plmQyDBlgoE"
+    },
     {
       "id": "W_WKTMzee2E",
       "title": "【ラーメンの哲人たち】#4「らぁめん しょうがの海」佐藤直人 / 長岡市 しょうが醤油の哲人",
