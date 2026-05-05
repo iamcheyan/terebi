@@ -1,8 +1,20 @@
 {
   "channel_id": "UClLSrcngUHGfoLG7e4tGAlA",
   "channel_name": "しおねる",
-  "updated_at": "2026-05-04T16:48:35.912623",
+  "updated_at": "2026-05-05T16:27:37.348798",
   "videos": [
+    {
+      "id": "ahkDziggfZ0",
+      "title": "お久しぶりのYouTubeライブです",
+      "description": "",
+      "publishedAt": "2026-05-05T12:51:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ahkDziggfZ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ahkDziggfZ0"
+    },
     {
       "id": "9gNfW1AD3jI",
       "title": "【海と走る観光列車🌊】ふたつ星4047で行く、西九州の旅｜武雄温泉・長崎｜女子ひとり旅",

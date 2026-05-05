@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-05-04T16:48:01.514001",
+  "updated_at": "2026-05-05T16:26:49.419195",
   "videos": [
+    {
+      "id": "czO7nBYTutQ",
+      "title": "われら！シン・呉Tuber＃03「呉市の新しい名物をつくろう！」",
+      "description": "",
+      "publishedAt": "2026-05-05T10:00:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/czO7nBYTutQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=czO7nBYTutQ"
+    },
+    {
+      "id": "FaeQ_MycOq4",
+      "title": "【キッズチャレンジスタジアム】りつきくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-05-05T03:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FaeQ_MycOq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FaeQ_MycOq4"
+    },
     {
       "id": "z70OD_cm0OA",
       "title": "【地元の食材を使ったランチを提供するお店】",

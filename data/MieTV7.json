@@ -1,8 +1,32 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-05-04T16:48:39.205164",
+  "updated_at": "2026-05-05T16:27:40.569123",
   "videos": [
+    {
+      "id": "Q0r6WXVzgss",
+      "title": "正社員採用予定の企業増加　三重県内で3年ぶり上昇　三重",
+      "description": "",
+      "publishedAt": "2026-05-05T01:34:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q0r6WXVzgss/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q0r6WXVzgss"
+    },
+    {
+      "id": "jZpPTFBGEik",
+      "title": "快晴のGW　津市御殿場海岸で潮干狩り客",
+      "description": "",
+      "publishedAt": "2026-05-05T01:16:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jZpPTFBGEik/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jZpPTFBGEik"
+    },
     {
       "id": "ujyuWH2y4WE",
       "title": "勾玉作りに火起こし体験も　鈴鹿市考古博物館で日替わり体験会",

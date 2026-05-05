@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-05-03T15:51:05.507155",
+  "updated_at": "2026-05-05T16:27:15.741117",
   "videos": [
+    {
+      "id": "8vfWqp7cmcs",
+      "title": "スポーツの力　TDK硬式野球部　奥村幸太選手　2026年5月5日放送分",
+      "description": "",
+      "publishedAt": "2026-05-05T14:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8vfWqp7cmcs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8vfWqp7cmcs"
+    },
     {
       "id": "8wHzD3jo7VE",
       "title": "あだまっこ体操！　2026年5月3日放送分",
