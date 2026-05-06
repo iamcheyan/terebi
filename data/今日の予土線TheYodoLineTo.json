@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-05-05T16:27:40.906407",
+  "updated_at": "2026-05-06T16:43:33.426207",
   "videos": [
+    {
+      "id": "Ho40kk8DRjM",
+      "title": "260506 175636 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-05-06T11:47:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Ho40kk8DRjM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ho40kk8DRjM"
+    },
+    {
+      "id": "cr55mrOSTsk",
+      "title": "260506 175320 兼近第３踏切 ２",
+      "description": "",
+      "publishedAt": "2026-05-06T11:45:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cr55mrOSTsk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cr55mrOSTsk"
+    },
+    {
+      "id": "lGRTpg5Y0dc",
+      "title": "260506 175004 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-05-06T11:30:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lGRTpg5Y0dc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lGRTpg5Y0dc"
+    },
     {
       "id": "YIAqqIu2Kuo",
       "title": "260505 155611 宮野下第１踏切",

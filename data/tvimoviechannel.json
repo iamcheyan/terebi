@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-05-01T15:59:44.942317",
+  "updated_at": "2026-05-06T16:43:28.068288",
   "videos": [
+    {
+      "id": "9KJErpXvpL0",
+      "title": "今日の５きげんテレビ（5月7日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-05-06T15:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9KJErpXvpL0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9KJErpXvpL0"
+    },
     {
       "id": "MwHROu7PiwU",
       "title": "５きげんクッキング ～サーモンのゴマみそユッケ丼～",

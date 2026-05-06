@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-05-03T15:50:57.862658",
+  "updated_at": "2026-05-06T16:43:01.906268",
   "videos": [
+    {
+      "id": "Ev0S5kzKN3s",
+      "title": "ベッキオ・バンビーノ2026春季大会",
+      "description": "",
+      "publishedAt": "2026-05-06T06:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ev0S5kzKN3s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ev0S5kzKN3s"
+    },
     {
       "id": "N7xcR5kXpoY",
       "title": "しまじろうのわお！　#723「みみりんの　プレゼント」【5/9（土）放送📺】",
