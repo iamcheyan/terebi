@@ -1,8 +1,20 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-05-03T15:51:20.289430",
+  "updated_at": "2026-05-07T16:53:02.776796",
   "videos": [
+    {
+      "id": "1SgNXfefCM0",
+      "title": "【夢クルーズ】606 英彦山花園(2026年5月7日放送)",
+      "description": "",
+      "publishedAt": "2026-05-07T15:29:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1SgNXfefCM0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1SgNXfefCM0"
+    },
     {
       "id": "qq_TT25lmAM",
       "title": "【テレQ番宣】ブルーリバーの望むところだ！（5月10日（日）13:30～）",

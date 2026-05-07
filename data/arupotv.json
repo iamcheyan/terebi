@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-05-03T15:51:16.811077",
+  "updated_at": "2026-05-07T16:52:59.431136",
   "videos": [
+    {
+      "id": "CkzhGBEt32A",
+      "title": "【番宣】５月１１日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-05-07T06:49:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CkzhGBEt32A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CkzhGBEt32A"
+    },
+    {
+      "id": "DF9BrjANuns",
+      "title": "【番宣】５月１６日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-05-07T01:01:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DF9BrjANuns/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DF9BrjANuns"
+    },
     {
       "id": "5Cnfh7JO6nU",
       "title": "第101回 めざせ！くまもとの若き匠たち【水俣高校 機械科】",

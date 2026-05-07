@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-05-03T15:51:19.147099",
+  "updated_at": "2026-05-07T16:53:01.741761",
   "videos": [
+    {
+      "id": "M8UbO5WsCMQ",
+      "title": "【きっと青春の１ページ】#5 新宮高等学校　陸上部",
+      "description": "",
+      "publishedAt": "2026-05-07T15:45:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M8UbO5WsCMQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M8UbO5WsCMQ"
+    },
+    {
+      "id": "wudMDGYTI90",
+      "title": "【公式】2026年5月9日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-05-07T05:34:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wudMDGYTI90/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wudMDGYTI90"
+    },
     {
       "id": "WLYJqM18AGE",
       "title": "【公式】「一ノ宮優二／神獣画家」ミライへの１minute｜テレビ西日本",

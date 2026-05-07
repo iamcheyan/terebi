@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-05-02T15:49:59.461814",
+  "updated_at": "2026-05-07T16:52:14.452615",
   "videos": [
+    {
+      "id": "W0M1Gpa1Yd8",
+      "title": "入園無料・年中無休の動物園",
+      "description": "",
+      "publishedAt": "2026-05-07T05:05:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W0M1Gpa1Yd8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W0M1Gpa1Yd8"
+    },
+    {
+      "id": "FFURKzsOCL4",
+      "title": "【心身の疲れを癒やす】YTSゴジダス水曜情報局",
+      "description": "",
+      "publishedAt": "2026-05-07T02:34:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FFURKzsOCL4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FFURKzsOCL4"
+    },
     {
       "id": "Ft-N61ry2is",
       "title": "第2827回 全国経済同友会セミナー高知大会　前編「提言の広場」",

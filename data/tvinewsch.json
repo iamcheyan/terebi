@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-05-02T15:50:08.366181",
+  "updated_at": "2026-05-07T16:52:40.840420",
   "videos": [
+    {
+      "id": "AfllmE60mQs",
+      "title": "【わんカメ】10日は「母の日」感謝を込めて 美しい花を",
+      "description": "",
+      "publishedAt": "2026-05-07T10:35:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AfllmE60mQs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AfllmE60mQs"
+    },
+    {
+      "id": "F8JhyOMM1xY",
+      "title": "【GW振り返り】各地にぎわう 一方で山林火災で緊張も",
+      "description": "",
+      "publishedAt": "2026-05-07T10:30:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F8JhyOMM1xY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F8JhyOMM1xY"
+    },
     {
       "id": "wjDs0Qi_hS4",
       "title": "【大槌町山林火災】鎮圧宣言（news every.サタデーいわて 2026/5/2放送）",
