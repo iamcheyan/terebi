@@ -1,8 +1,44 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-05-07T16:52:37.330015",
+  "updated_at": "2026-05-08T16:15:19.977578",
   "videos": [
+    {
+      "id": "-1Mi-CH9pMs",
+      "title": "亡き愛犬の○○",
+      "description": "",
+      "publishedAt": "2026-05-08T09:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-1Mi-CH9pMs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-1Mi-CH9pMs"
+    },
+    {
+      "id": "pshFF5TpUZc",
+      "title": "「やすとものいたって真剣です」5月14日（木）よる11時17分放送！",
+      "description": "",
+      "publishedAt": "2026-05-08T01:13:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pshFF5TpUZc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pshFF5TpUZc"
+    },
+    {
+      "id": "AGit64a0RhU",
+      "title": "海外の旅はマカオ！ゲストの旅は勝村政信！「旅サラダ」5月9日（土）放送",
+      "description": "",
+      "publishedAt": "2026-05-08T01:11:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AGit64a0RhU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AGit64a0RhU"
+    },
     {
       "id": "Z6NfhKWq6w8",
       "title": "ゴール目前！",

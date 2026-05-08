@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-05-07T16:52:24.575606",
+  "updated_at": "2026-05-08T16:15:15.125869",
   "videos": [
+    {
+      "id": "dBTmF5XZG-Q",
+      "title": "NSAA Soccer: Kearney Catholic Girls and Kearney Boys fall one game short of State",
+      "description": "",
+      "publishedAt": "2026-05-08T15:07:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dBTmF5XZG-Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dBTmF5XZG-Q"
+    },
+    {
+      "id": "fCB203uXlb4",
+      "title": "Nebraska Hosting Iowa Big Ten Baseball Weekend Series Preview",
+      "description": "",
+      "publishedAt": "2026-05-08T15:01:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fCB203uXlb4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fCB203uXlb4"
+    },
     {
       "id": "N41eViAJa3k",
       "title": "Omaha Supernovas Embrace Underdog Role in Playoff Clash With Top-Seeded Indy Ignite",

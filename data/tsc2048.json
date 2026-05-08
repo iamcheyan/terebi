@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-05-06T16:43:01.906268",
+  "updated_at": "2026-05-08T16:14:52.925484",
   "videos": [
+    {
+      "id": "PDwDeDOFNiQ",
+      "title": "おばあちゃんの台所「典子おばあちゃんの海鮮かき揚げ丼」番宣CM",
+      "description": "",
+      "publishedAt": "2026-05-08T08:56:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PDwDeDOFNiQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PDwDeDOFNiQ"
+    },
     {
       "id": "Ev0S5kzKN3s",
       "title": "ベッキオ・バンビーノ2026春季大会",

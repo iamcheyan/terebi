@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-05-07T16:52:39.115621",
+  "updated_at": "2026-05-08T16:15:07.324504",
   "videos": [
+    {
+      "id": "6pzEC7tY6DU",
+      "title": "【静寂に包まれた禅寺】",
+      "description": "",
+      "publishedAt": "2026-05-08T09:30:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6pzEC7tY6DU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6pzEC7tY6DU"
+    },
+    {
+      "id": "EbjM5Wtpq_o",
+      "title": "【キッズチャレンジスタジアム】きゅうじくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-05-08T03:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EbjM5Wtpq_o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EbjM5Wtpq_o"
+    },
     {
       "id": "-Km5Q0btGgE",
       "title": "たからモノさがして　第５８０回",

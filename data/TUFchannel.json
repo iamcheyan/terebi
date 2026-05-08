@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-05-07T16:53:02.500026",
+  "updated_at": "2026-05-08T16:15:57.725323",
   "videos": [
+    {
+      "id": "YhaSvg01Nsg",
+      "title": "テレビユー福島のアナウンサーがSDGsの〇×クイズに挑戦！①",
+      "description": "",
+      "publishedAt": "2026-05-08T06:08:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YhaSvg01Nsg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YhaSvg01Nsg"
+    },
+    {
+      "id": "Xj7FU8zDOIM",
+      "title": "テレビユー福島のアナウンサーがSDGsの〇×クイズに挑戦！②",
+      "description": "",
+      "publishedAt": "2026-05-08T06:06:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Xj7FU8zDOIM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Xj7FU8zDOIM"
+    },
     {
       "id": "uIHoNBL-iSg",
       "title": "【ふくしまSHOW】『郡山市 安積町・三穂田町』大特集！",

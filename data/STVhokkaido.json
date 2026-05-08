@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-05-04T16:48:27.274697",
+  "updated_at": "2026-05-08T16:15:54.420080",
   "videos": [
+    {
+      "id": "q6u0lggO80M",
+      "title": "#5　立命館慶祥高校競技かるた部（前編）",
+      "description": "",
+      "publishedAt": "2026-05-08T02:12:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q6u0lggO80M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q6u0lggO80M"
+    },
     {
       "id": "cmOeYUmtRDM",
       "title": "【どさんこWEEKEND】2026年4月25日放送  ReFa体験",

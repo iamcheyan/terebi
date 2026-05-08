@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-05-07T16:52:12.562229",
+  "updated_at": "2026-05-08T16:15:08.930520",
   "videos": [
+    {
+      "id": "mLvxkA1qY9c",
+      "title": "【GW特集】 ”最後の滑り”リンクに別れ〈イヨテツスポーツセンター〉",
+      "description": "",
+      "publishedAt": "2026-05-08T08:19:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mLvxkA1qY9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mLvxkA1qY9c"
+    },
+    {
+      "id": "TV0R14ZOyJA",
+      "title": "【抽選会を生配信】2026愛媛県中学生バレー　さだ岬カップ in 伊方町",
+      "description": "",
+      "publishedAt": "2026-05-01T01:46:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TV0R14ZOyJA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TV0R14ZOyJA"
+    },
     {
       "id": "L6KKepO37T4",
       "title": "【観光】愛媛・松野町の大自然と地元グルメを満喫",
