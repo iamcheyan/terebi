@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-05-08T16:16:03.764056",
+  "updated_at": "2026-05-09T15:56:06.301105",
   "videos": [
+    {
+      "id": "cjCgfDmtsBw",
+      "title": "愛媛のニュース(05月09日)",
+      "description": "",
+      "publishedAt": "2026-05-09T11:31:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cjCgfDmtsBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cjCgfDmtsBw"
+    },
+    {
+      "id": "Cg45baq6uAM",
+      "title": "【3Pシュート対決】林選手VSハインズ選手　最強決定戦？！（前編）",
+      "description": "",
+      "publishedAt": "2026-05-09T03:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cg45baq6uAM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cg45baq6uAM"
+    },
     {
       "id": "dZEyds8_SfY",
       "title": "愛媛のニュース(05月08日)",

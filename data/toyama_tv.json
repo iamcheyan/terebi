@@ -1,8 +1,20 @@
 {
   "channel_id": "UCD1MsyeoR0St_aWxydu9law",
   "channel_name": "BBT富山テレビ",
-  "updated_at": "2026-05-07T16:52:50.532038",
+  "updated_at": "2026-05-09T15:55:47.084818",
   "videos": [
+    {
+      "id": "5gx_Eg6cmno",
+      "title": "令和の家持 〜宮田愛萌の超訳万葉集〜",
+      "description": "",
+      "publishedAt": "2026-05-09T02:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5gx_Eg6cmno/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5gx_Eg6cmno"
+    },
     {
       "id": "NJHKTaQd0Ts",
       "title": "街なかから見つめる星　富山駅前に突然現れた天体望遠鏡　『月面“X”』や『子持ち銀河』に通行人が驚きと笑顔【ジオグラフィックとやま】",

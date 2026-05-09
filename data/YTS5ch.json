@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-05-07T16:52:14.452615",
+  "updated_at": "2026-05-09T15:55:39.932082",
   "videos": [
+    {
+      "id": "mRL6BeT3qQo",
+      "title": "春限定の絶景カヌーツアー 湖面から巡る水没林",
+      "description": "",
+      "publishedAt": "2026-05-08T22:30:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mRL6BeT3qQo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mRL6BeT3qQo"
+    },
+    {
+      "id": "T-Biv1Iu8KE",
+      "title": "食べ放題の手打ちそば 知る人ぞ知る名店！大石田町「七兵衛そば」",
+      "description": "",
+      "publishedAt": "2026-05-08T22:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T-Biv1Iu8KE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T-Biv1Iu8KE"
+    },
     {
       "id": "W0M1Gpa1Yd8",
       "title": "入園無料・年中無休の動物園",

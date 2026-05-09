@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-05-08T16:15:13.824892",
+  "updated_at": "2026-05-09T15:55:26.657984",
   "videos": [
+    {
+      "id": "XhGx6BepRmk",
+      "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/5/9放送",
+      "description": "",
+      "publishedAt": "2026-05-09T01:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XhGx6BepRmk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XhGx6BepRmk"
+    },
+    {
+      "id": "-PMffBf8Yf4",
+      "title": "【週末KOREA】#4 韓国・ソウルのオアシスで大人旅",
+      "description": "",
+      "publishedAt": "2026-05-08T16:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-PMffBf8Yf4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-PMffBf8Yf4"
+    },
     {
       "id": "P90w2f41N_8",
       "title": "タメ口が許せない辻本vsジャボリ",
