@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-05-09T15:55:57.746632",
+  "updated_at": "2026-05-10T15:57:31.968953",
   "videos": [
+    {
+      "id": "AxJxua3qkSw",
+      "title": "RKCアプリ漢字クイズ 5/11の問題 ～丸山修アナウンサーのヒント～",
+      "description": "",
+      "publishedAt": "2026-05-10T15:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AxJxua3qkSw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AxJxua3qkSw"
+    },
     {
       "id": "3X7E1DAwY9g",
       "title": "「《全国の絶品ご当地グルメが高知に集結》『シューイチ全国うまいもの博』5月9日から18日まで高知大丸で開催中」2026/5/9放送",

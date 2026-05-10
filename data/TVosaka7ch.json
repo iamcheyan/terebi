@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-05-09T15:55:18.998402",
+  "updated_at": "2026-05-10T15:56:49.987777",
   "videos": [
+    {
+      "id": "qp5WAgQhdqs",
+      "title": "食遺産File.245「茶葉まるごと天丼」＠京都府・南山城村",
+      "description": "",
+      "publishedAt": "2026-05-10T03:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qp5WAgQhdqs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qp5WAgQhdqs"
+    },
     {
       "id": "d2k0koT2QQA",
       "title": "【よゐこ有野】この街、攻略しとく？大阪城でちょっと一息ぶーらぶら！ ～「豊臣兄弟」＆外国人観光客で大盛り上がりの大阪城を大攻略の巻～",

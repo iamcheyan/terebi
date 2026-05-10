@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-05-05T16:26:36.530549",
+  "updated_at": "2026-05-10T15:56:58.616959",
   "videos": [
+    {
+      "id": "kERuswpNHFc",
+      "title": "予告『ゴルフ☆パラダイス - THE GAME CHANGER -』5月17日（日）6：30～放送",
+      "description": "",
+      "publishedAt": "2026-05-09T22:00:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kERuswpNHFc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kERuswpNHFc"
+    },
     {
       "id": "ncyjUccQWVA",
       "title": "【ソノタネ2.0】#1～中国電力ネットワーク～",

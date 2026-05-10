@@ -1,8 +1,32 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
   "channel_name": "yab山口ニュース",
-  "updated_at": "2026-05-09T15:55:17.392816",
+  "updated_at": "2026-05-10T15:57:08.074754",
   "videos": [
+    {
+      "id": "IJC-bCj5zsQ",
+      "title": "【山口】親子の昆虫教室",
+      "description": "",
+      "publishedAt": "2026-05-10T09:23:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IJC-bCj5zsQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IJC-bCj5zsQ"
+    },
+    {
+      "id": "wniI9p1MUy4",
+      "title": "【山口】パワスポマルシェｉｎ八坂神社",
+      "description": "",
+      "publishedAt": "2026-05-10T09:23:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wniI9p1MUy4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wniI9p1MUy4"
+    },
     {
       "id": "_6iDkMoODtU",
       "title": "【山口】カキツバタが見ごろ 県内最大規模の面積に自生 美祢市の「二反田ため池」",

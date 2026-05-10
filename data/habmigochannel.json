@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-05-09T15:55:12.883142",
+  "updated_at": "2026-05-10T15:56:55.726225",
   "videos": [
+    {
+      "id": "itxIILr47Jc",
+      "title": "赤ちゃんの泣き相撲 はっけよい、のこった！",
+      "description": "",
+      "publishedAt": "2026-05-10T10:14:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/itxIILr47Jc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=itxIILr47Jc"
+    },
+    {
+      "id": "-N0NWuEy1eU",
+      "title": "金沢の中山間地でサツマイモ苗植え",
+      "description": "",
+      "publishedAt": "2026-05-10T03:38:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-N0NWuEy1eU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-N0NWuEy1eU"
+    },
     {
       "id": "VzPAIlqqMHI",
       "title": "小松でお旅まつり「曳山子供歌舞伎」熱演",

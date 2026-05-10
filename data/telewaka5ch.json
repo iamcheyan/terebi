@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-05-08T16:15:28.593356",
+  "updated_at": "2026-05-10T15:56:50.663302",
   "videos": [
+    {
+      "id": "lIOrulGHWyU",
+      "title": "ゲンワカ・深川耕司さん",
+      "description": "",
+      "publishedAt": "2026-05-10T00:00:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lIOrulGHWyU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lIOrulGHWyU"
+    },
+    {
+      "id": "JAkoq6naptA",
+      "title": "あのじゅうよ〜 第198回「和歌山市中央卸売市場のあのじゅう＜後編＞",
+      "description": "",
+      "publishedAt": "2026-05-09T19:59:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JAkoq6naptA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JAkoq6naptA"
+    },
     {
       "id": "fQT0nkA16Z0",
       "title": "「ツール・ド・熊野」自転車ロードレース国際大会 紀伊半島の豊かな自然の中を走り抜ける！和歌山県",
