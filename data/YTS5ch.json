@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-05-09T15:55:39.932082",
+  "updated_at": "2026-05-11T17:27:05.044468",
   "videos": [
+    {
+      "id": "V8Jw4qpylAQ",
+      "title": "湖上のティータイム",
+      "description": "",
+      "publishedAt": "2026-05-11T05:55:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V8Jw4qpylAQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V8Jw4qpylAQ"
+    },
+    {
+      "id": "-x9tUC123X0",
+      "title": "第2828回 全国経済同友会セミナー高知大会　後編",
+      "description": "",
+      "publishedAt": "2026-05-11T00:32:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-x9tUC123X0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-x9tUC123X0"
+    },
     {
       "id": "mRL6BeT3qQo",
       "title": "春限定の絶景カヌーツアー 湖面から巡る水没林",

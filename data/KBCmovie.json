@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-05-10T15:56:53.931612",
+  "updated_at": "2026-05-11T17:27:11.573591",
   "videos": [
+    {
+      "id": "fQ0W4WBnC1Q",
+      "title": "島田洋七の朝から言わせろ　～商魂たくましく～",
+      "description": "",
+      "publishedAt": "2026-05-11T09:00:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fQ0W4WBnC1Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fQ0W4WBnC1Q"
+    },
     {
       "id": "hKohCuDopr8",
       "title": "面彫師｜舞う神楽面彫師",

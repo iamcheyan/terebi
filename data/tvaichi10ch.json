@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-05-08T16:15:28.185371",
+  "updated_at": "2026-05-11T17:26:50.566692",
   "videos": [
+    {
+      "id": "ZuUhugBX0zY",
+      "title": "2026.5.17 野球中継 中日ｘヤクルト｜テレビ愛知",
+      "description": "",
+      "publishedAt": "2026-05-11T08:24:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZuUhugBX0zY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZuUhugBX0zY"
+    },
+    {
+      "id": "VWy1XGS6zCY",
+      "title": "「10チャンベースボール　中日vsヤクルト」2026年5月17日（日） 午後1時25分放送｜テレビ愛知",
+      "description": "",
+      "publishedAt": "2026-05-11T03:28:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VWy1XGS6zCY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VWy1XGS6zCY"
+    },
     {
       "id": "LzYN4m7-hv4",
       "title": "【絶品うなぎ】江戸から続く味 うなぎや（岐阜県多治見市）【あまドラ～天野っちのドライブしよう！！～】",

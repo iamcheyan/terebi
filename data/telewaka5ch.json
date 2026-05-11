@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-05-10T15:56:50.663302",
+  "updated_at": "2026-05-11T17:26:57.930975",
   "videos": [
+    {
+      "id": "XheDp_iPlMA",
+      "title": "暮らしのカルチャータイム　ガーデニング入門　　第16回",
+      "description": "",
+      "publishedAt": "2026-05-11T06:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XheDp_iPlMA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XheDp_iPlMA"
+    },
+    {
+      "id": "_yiDW156hbg",
+      "title": "安心・安全に手術を受けてもらうために【わかやま医療ナビ】",
+      "description": "",
+      "publishedAt": "2026-05-11T00:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_yiDW156hbg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_yiDW156hbg"
+    },
     {
       "id": "lIOrulGHWyU",
       "title": "ゲンワカ・深川耕司さん",

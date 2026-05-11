@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-05-09T15:55:34.992229",
+  "updated_at": "2026-05-11T17:26:49.700830",
   "videos": [
+    {
+      "id": "p0pCY0yTzOU",
+      "title": "超町人！チョコレートサムネット 5/17(日)三重・桑名市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-05-11T02:23:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p0pCY0yTzOU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p0pCY0yTzOU"
+    },
     {
       "id": "SSl8AA9A3Co",
       "title": "【まるまる◎あいち】2026年5月9日放送 「愛知・名古屋2026大会ファミリー招待」",

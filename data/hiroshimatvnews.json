@@ -1,8 +1,152 @@
 {
   "channel_id": "UCyHdFYJyt4Ihwuscuk5ALJA",
   "channel_name": "広テレ!NEWS",
-  "updated_at": "2026-05-10T15:56:54.727342",
+  "updated_at": "2026-05-11T17:27:00.311191",
   "videos": [
+    {
+      "id": "cQJw62laaOM",
+      "title": "広島市　5月12日の天気",
+      "description": "",
+      "publishedAt": "2026-05-11T11:36:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cQJw62laaOM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cQJw62laaOM"
+    },
+    {
+      "id": "Lm4iHwh8J5w",
+      "title": "是枝裕和監督に単独インタビュー　最新映画「箱の中の羊」で描くAI",
+      "description": "",
+      "publishedAt": "2026-05-11T11:16:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Lm4iHwh8J5w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Lm4iHwh8J5w"
+    },
+    {
+      "id": "QbEEBBW6M6M",
+      "title": "【母の日】カープ赤木晴哉が親子リレー！【週スポ一気見せ】",
+      "description": "",
+      "publishedAt": "2026-05-11T11:15:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QbEEBBW6M6M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QbEEBBW6M6M"
+    },
+    {
+      "id": "uVkWmYimFyU",
+      "title": "解体される吾妻山ロッジ　庄原市・八谷市長が活用方法を広島県と協議",
+      "description": "",
+      "publishedAt": "2026-05-11T11:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uVkWmYimFyU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uVkWmYimFyU"
+    },
+    {
+      "id": "zdm4gZcLVV4",
+      "title": "自転車の『青切符』61件交付　「ながらスマホ」が全体の7割　広島県",
+      "description": "",
+      "publishedAt": "2026-05-11T10:34:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zdm4gZcLVV4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zdm4gZcLVV4"
+    },
+    {
+      "id": "rQXee08HJLc",
+      "title": "広島ガス　2025年度は「減収増益」　8月からガス料金値上げの見通し",
+      "description": "",
+      "publishedAt": "2026-05-11T10:33:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rQXee08HJLc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rQXee08HJLc"
+    },
+    {
+      "id": "yD7VAOdqiqo",
+      "title": "南極を通し環境保護を考える写真展＆南極条約会議が開幕　広島市",
+      "description": "",
+      "publishedAt": "2026-05-11T10:31:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yD7VAOdqiqo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yD7VAOdqiqo"
+    },
+    {
+      "id": "mD477cXmY74",
+      "title": "広島ドラゴンフライズが今シーズン終了の報告　広島市・松井市長を表敬訪問",
+      "description": "",
+      "publishedAt": "2026-05-11T10:22:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mD477cXmY74/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mD477cXmY74"
+    },
+    {
+      "id": "zr0BR3Z7W0I",
+      "title": "エアコンの「2027年問題」で何が変わる？　買い替えのポイントは？",
+      "description": "",
+      "publishedAt": "2026-05-11T10:19:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zr0BR3Z7W0I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zr0BR3Z7W0I"
+    },
+    {
+      "id": "h9C2E5XSftY",
+      "title": "『広島市プレミアム付商品券』　各区役所にサポートセンター開設",
+      "description": "",
+      "publishedAt": "2026-05-11T10:18:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h9C2E5XSftY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h9C2E5XSftY"
+    },
+    {
+      "id": "Su_zYJWJEUc",
+      "title": "福山市の観光アシスタント「ローズ福山」　今月16日から活動スタート",
+      "description": "",
+      "publishedAt": "2026-05-11T03:21:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Su_zYJWJEUc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Su_zYJWJEUc"
+    },
+    {
+      "id": "XjXCMF6Ajpo",
+      "title": "真珠湾攻撃から85年「心の終戦」を願う式典を開催へ",
+      "description": "",
+      "publishedAt": "2026-05-11T03:19:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XjXCMF6Ajpo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XjXCMF6Ajpo"
+    },
     {
       "id": "tQt3H_VLMrE",
       "title": "11日の広島県の天気（10日午後6時50分頃放送）",

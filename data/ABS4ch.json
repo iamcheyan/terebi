@@ -1,8 +1,128 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-05-08T16:15:33.911350",
+  "updated_at": "2026-05-11T17:27:18.291553",
   "videos": [
+    {
+      "id": "kW9-qTcVPes",
+      "title": "【熊を多角的に知る】専門医師が語る「クマ外傷とは？」",
+      "description": "",
+      "publishedAt": "2026-05-11T07:19:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kW9-qTcVPes/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kW9-qTcVPes"
+    },
+    {
+      "id": "SYsZpSuCx9o",
+      "title": "【プロ直伝！簡単レシピ】おてがる白和え     by 渡部 恵美",
+      "description": "",
+      "publishedAt": "2026-05-11T04:48:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SYsZpSuCx9o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SYsZpSuCx9o"
+    },
+    {
+      "id": "T7z9L6w7xsg",
+      "title": "５月１１日（月）秋田県内のニュースヘッドライン",
+      "description": "",
+      "publishedAt": "2026-05-11T04:28:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T7z9L6w7xsg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T7z9L6w7xsg"
+    },
+    {
+      "id": "4IwkE3pwJuc",
+      "title": "春の味覚！秋田市・山菜直売所からリポート",
+      "description": "",
+      "publishedAt": "2026-05-11T02:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4IwkE3pwJuc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4IwkE3pwJuc"
+    },
+    {
+      "id": "LZ7injWIcVY",
+      "title": "【特集】密着！水族館の飼育員 シロクマ居住室の掃除とは？",
+      "description": "",
+      "publishedAt": "2026-05-11T01:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LZ7injWIcVY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LZ7injWIcVY"
+    },
+    {
+      "id": "tl33na7lXDs",
+      "title": "ハピネッツ感謝祭 1300人が来季にエール",
+      "description": "",
+      "publishedAt": "2026-05-11T00:42:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tl33na7lXDs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tl33na7lXDs"
+    },
+    {
+      "id": "as1zQFw4E8s",
+      "title": "5/16 午後4時30分～「ABS news every.＋＃43　能代　新時代の幕開け」",
+      "description": "",
+      "publishedAt": "2026-05-11T00:36:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/as1zQFw4E8s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=as1zQFw4E8s"
+    },
+    {
+      "id": "o8Jc25rjj0g",
+      "title": "5/17 午後4時30分～「ABS news every.＋＃44　BA5E（ベイス）～私がイチバン秋田民謡が好き～」",
+      "description": "",
+      "publishedAt": "2026-05-11T00:36:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o8Jc25rjj0g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o8Jc25rjj0g"
+    },
+    {
+      "id": "Mu1pB656pFE",
+      "title": "国鉄ロマンを掘り起こす！北秋田市・線路の「ほじくり隊」",
+      "description": "",
+      "publishedAt": "2026-05-11T00:30:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Mu1pB656pFE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Mu1pB656pFE"
+    },
+    {
+      "id": "rCzMMvNQWrE",
+      "title": "街の保健室⁉能代市・喫茶休み時間",
+      "description": "",
+      "publishedAt": "2026-05-11T00:18:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rCzMMvNQWrE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rCzMMvNQWrE"
+    },
     {
       "id": "9BG0uIo3I3I",
       "title": "【クマ出没】視聴者投稿・大仙市大型商業施設駐車場にクマ",

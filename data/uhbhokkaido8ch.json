@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-05-09T15:56:04.743878",
+  "updated_at": "2026-05-11T17:27:35.303592",
   "videos": [
+    {
+      "id": "sDWvF7QCNJc",
+      "title": "みんテレ　5月12日（火）放送",
+      "description": "",
+      "publishedAt": "2026-05-11T10:01:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sDWvF7QCNJc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sDWvF7QCNJc"
+    },
+    {
+      "id": "qVsobMYiwOs",
+      "title": "発見！タカトシランド 2026年5月22日（金）OA",
+      "description": "",
+      "publishedAt": "2026-05-11T06:45:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qVsobMYiwOs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qVsobMYiwOs"
+    },
     {
       "id": "gZ9YHDYx9lg",
       "title": "いっとこ！：5月16日（土）放送",

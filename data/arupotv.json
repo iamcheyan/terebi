@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-05-10T15:57:32.138816",
+  "updated_at": "2026-05-11T17:27:29.206205",
   "videos": [
+    {
+      "id": "toefvGHuSyk",
+      "title": "【番宣】５月１３日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-05-11T09:30:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/toefvGHuSyk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=toefvGHuSyk"
+    },
+    {
+      "id": "tukXx-aJK68",
+      "title": "【番宣】５月１３日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2026-05-11T01:39:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tukXx-aJK68/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tukXx-aJK68"
+    },
     {
       "id": "P7bX8e0OXWU",
       "title": "第102回 めざせ！くまもとの若き匠たち【熊本工業高校 土木科】",
