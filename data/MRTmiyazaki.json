@@ -1,8 +1,68 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-05-07T16:52:56.925448",
+  "updated_at": "2026-05-12T17:14:15.102312",
   "videos": [
+    {
+      "id": "p9kgZNLf4dg",
+      "title": "2026年5月8日放送",
+      "description": "",
+      "publishedAt": "2026-05-12T05:16:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p9kgZNLf4dg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p9kgZNLf4dg"
+    },
+    {
+      "id": "HWolSN9Mlng",
+      "title": "2026年5月7日放送",
+      "description": "",
+      "publishedAt": "2026-05-12T05:10:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HWolSN9Mlng/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HWolSN9Mlng"
+    },
+    {
+      "id": "tiSlCYuy52o",
+      "title": "2026年5月6日放送",
+      "description": "",
+      "publishedAt": "2026-05-12T05:10:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tiSlCYuy52o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tiSlCYuy52o"
+    },
+    {
+      "id": "pt2F4zkJcNo",
+      "title": "2026年5月5日放送",
+      "description": "",
+      "publishedAt": "2026-05-12T05:10:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pt2F4zkJcNo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pt2F4zkJcNo"
+    },
+    {
+      "id": "LT_4gQl0JO8",
+      "title": "2026年5月4日放送",
+      "description": "",
+      "publishedAt": "2026-05-12T05:02:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LT_4gQl0JO8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LT_4gQl0JO8"
+    },
     {
       "id": "9Y90UzSy9Ro",
       "title": "2026年5月1日放送",

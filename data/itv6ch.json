@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-05-11T17:27:37.529754",
+  "updated_at": "2026-05-12T17:14:24.088293",
   "videos": [
+    {
+      "id": "XeE8TL4W9qs",
+      "title": "愛媛のニュース(05月12日)",
+      "description": "",
+      "publishedAt": "2026-05-12T11:39:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XeE8TL4W9qs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XeE8TL4W9qs"
+    },
+    {
+      "id": "0BLXaL_nFDA",
+      "title": "#あなたはどっち #TBS系地球を笑顔にするWEEK 5月11日から5月17日まで #山田祐也 #山下毬絵 #竹之熊和也 #あいテレビ #愛媛",
+      "description": "",
+      "publishedAt": "2026-05-12T10:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0BLXaL_nFDA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0BLXaL_nFDA"
+    },
     {
       "id": "ffjZfleZTwc",
       "title": "愛媛のニュース(05月11日)",

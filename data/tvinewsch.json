@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-05-08T16:14:41.956328",
+  "updated_at": "2026-05-12T17:13:28.341621",
   "videos": [
+    {
+      "id": "a_tV0Y7RUsQ",
+      "title": "わんカメＬＩＶＥ ～ご当地ソフトクリーム～（ニュースプラス1いわて 2026/5/12放送）",
+      "description": "",
+      "publishedAt": "2026-05-12T10:10:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a_tV0Y7RUsQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a_tV0Y7RUsQ"
+    },
+    {
+      "id": "GEZ0f1VfqNg",
+      "title": "Ｏｎｅスポ ～相撲からボクサーの道へ～（ニュースプラス1いわて 2026/5/11放送）",
+      "description": "",
+      "publishedAt": "2026-05-12T05:43:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GEZ0f1VfqNg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GEZ0f1VfqNg"
+    },
     {
       "id": "Yvl-qoxqUoA",
       "title": "芽吹きの定点観測①春彩るりんご園　人気のカフェも",

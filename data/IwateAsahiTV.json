@@ -1,8 +1,20 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-05-11T17:26:59.960305",
+  "updated_at": "2026-05-12T17:13:42.226627",
   "videos": [
+    {
+      "id": "mrcG4NtoK2A",
+      "title": "【Go！Go！いわて】5月16日（土）予告",
+      "description": "",
+      "publishedAt": "2026-05-12T10:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mrcG4NtoK2A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mrcG4NtoK2A"
+    },
     {
       "id": "Hw38t7DFpHQ",
       "title": "女子野球 世界一の選手へ【Jチャンいわて動画】",

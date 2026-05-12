@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-05-11T17:27:35.303592",
+  "updated_at": "2026-05-12T17:14:22.904595",
   "videos": [
+    {
+      "id": "Qqmbsa71XYs",
+      "title": "みんテレ　5月13日（水）放送",
+      "description": "",
+      "publishedAt": "2026-05-12T10:00:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Qqmbsa71XYs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Qqmbsa71XYs"
+    },
     {
       "id": "sDWvF7QCNJc",
       "title": "みんテレ　5月12日（火）放送",

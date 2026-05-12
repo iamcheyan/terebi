@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-05-05T16:27:22.425713",
+  "updated_at": "2026-05-12T17:14:12.957995",
   "videos": [
+    {
+      "id": "OUSzYqEhqVY",
+      "title": "【旬景とやま】水田の海に映る",
+      "description": "",
+      "publishedAt": "2026-05-12T10:16:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OUSzYqEhqVY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OUSzYqEhqVY"
+    },
     {
       "id": "3sO1saoBmJg",
       "title": "【旬景とやま】山笑う縄ヶ池",

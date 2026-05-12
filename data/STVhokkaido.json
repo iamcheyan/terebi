@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-05-08T16:15:54.420080",
+  "updated_at": "2026-05-12T17:14:18.939930",
   "videos": [
+    {
+      "id": "zBslf1ZrK4Q",
+      "title": "#6　立命館慶祥高校競技かるた部（後編）",
+      "description": "",
+      "publishedAt": "2026-05-12T06:13:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zBslf1ZrK4Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zBslf1ZrK4Q"
+    },
     {
       "id": "q6u0lggO80M",
       "title": "#5　立命館慶祥高校競技かるた部（前編）",

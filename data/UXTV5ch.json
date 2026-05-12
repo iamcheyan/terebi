@@ -1,8 +1,20 @@
 {
   "channel_id": "UCqobPh0K_bFAWurWVQrLtKQ",
   "channel_name": "UX新潟テレビ21",
-  "updated_at": "2026-05-11T17:27:36.173239",
+  "updated_at": "2026-05-12T17:14:23.225269",
   "videos": [
+    {
+      "id": "EVEeY3ar4WI",
+      "title": "豊かな自然環境　初夏の鳥屋野潟を紹介",
+      "description": "",
+      "publishedAt": "2026-05-12T04:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EVEeY3ar4WI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EVEeY3ar4WI"
+    },
     {
       "id": "DzQFgNf4l5w",
       "title": "【ニイガタ◆メモリーズ】No.006『チューリップ』",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-05-11T17:26:58.602521",
+  "updated_at": "2026-05-12T17:13:58.807862",
   "videos": [
+    {
+      "id": "WZWnxYTYRjE",
+      "title": "われら！シン・呉Tuber＃03「呉ご当地キャラ祭」",
+      "description": "",
+      "publishedAt": "2026-05-12T10:00:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WZWnxYTYRjE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WZWnxYTYRjE"
+    },
+    {
+      "id": "VroVnHG66g8",
+      "title": "【キッズチャレンジスタジアム】まおちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-05-12T09:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VroVnHG66g8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VroVnHG66g8"
+    },
     {
       "id": "oGqI9TRhy5g",
       "title": "第503回　ひろおく便り　世羅町　オススメ！森と花の絵本ミュージアム！",
