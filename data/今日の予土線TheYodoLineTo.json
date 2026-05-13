@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-05-12T17:14:28.015190",
+  "updated_at": "2026-05-13T17:19:37.884372",
   "videos": [
+    {
+      "id": "d9u1LHaewr4",
+      "title": "260513 181333 近永第４踏切 ２",
+      "description": "",
+      "publishedAt": "2026-05-13T13:33:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d9u1LHaewr4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d9u1LHaewr4"
+    },
+    {
+      "id": "vUSMCF0KBGk",
+      "title": "260513 180933 近永第４踏切",
+      "description": "",
+      "publishedAt": "2026-05-13T13:15:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vUSMCF0KBGk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vUSMCF0KBGk"
+    },
+    {
+      "id": "WY2t0BphvuM",
+      "title": "260513 180420 近永第４踏切",
+      "description": "",
+      "publishedAt": "2026-05-13T13:06:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WY2t0BphvuM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WY2t0BphvuM"
+    },
+    {
+      "id": "NvfHXErShDY",
+      "title": "260513 175831 近永第３踏切",
+      "description": "",
+      "publishedAt": "2026-05-13T13:03:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NvfHXErShDY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NvfHXErShDY"
+    },
     {
       "id": "d_y2S5uN2jA",
       "title": "260512 115346 宮野下第１踏切",

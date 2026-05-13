@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-05-12T17:13:29.544603",
+  "updated_at": "2026-05-13T17:18:44.801237",
   "videos": [
+    {
+      "id": "REn5RvCPDMI",
+      "title": "【モーニング】SKE48・篠原京香は名古屋の喫茶店で経験した“思いがけないサービス”を紹介！！│ 愛知あたりまえ倶楽部",
+      "description": "",
+      "publishedAt": "2026-05-13T14:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/REn5RvCPDMI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=REn5RvCPDMI"
+    },
+    {
+      "id": "sA_NrF7H7UA",
+      "title": "【LBS】トレンドをつかんだ製本技術",
+      "description": "",
+      "publishedAt": "2026-05-13T12:01:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sA_NrF7H7UA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sA_NrF7H7UA"
+    },
     {
       "id": "1c3CC9FZaHc",
       "title": "【サカエ理研工業】自動運転や自動ブレーキなどに合わせて電波透過型外装品を製造【開発現場へ行こう #63】",

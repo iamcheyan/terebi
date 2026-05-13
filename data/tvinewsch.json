@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-05-12T17:13:28.341621",
+  "updated_at": "2026-05-13T17:18:57.030501",
   "videos": [
+    {
+      "id": "m0viIUqKtzA",
+      "title": "元気〇らいふ ～命の砦ドクターヘリ～（ニュースプラス1いわて 2026/5/13放送）",
+      "description": "",
+      "publishedAt": "2026-05-13T11:48:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m0viIUqKtzA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m0viIUqKtzA"
+    },
     {
       "id": "a_tV0Y7RUsQ",
       "title": "わんカメＬＩＶＥ ～ご当地ソフトクリーム～（ニュースプラス1いわて 2026/5/12放送）",

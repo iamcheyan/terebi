@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-05-10T15:57:34.796890",
+  "updated_at": "2026-05-13T17:19:32.238171",
   "videos": [
+    {
+      "id": "yEdd4kuLHSY",
+      "title": "ふくしまSHOWカレーまつり2026 開催【9/12~13 四季の里】",
+      "description": "",
+      "publishedAt": "2026-05-13T11:01:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yEdd4kuLHSY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yEdd4kuLHSY"
+    },
+    {
+      "id": "A6G_dLZvpDU",
+      "title": "【明日への一歩】福島西高校 書道部",
+      "description": "",
+      "publishedAt": "2026-05-13T10:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A6G_dLZvpDU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A6G_dLZvpDU"
+    },
     {
       "id": "UMd0WzrqpMc",
       "title": "【推しTIME,】福島西高校　書道部",

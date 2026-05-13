@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-05-12T17:13:45.195598",
+  "updated_at": "2026-05-13T17:18:59.151314",
   "videos": [
+    {
+      "id": "y5Joc8oRNEU",
+      "title": "【広島!中高生ニュース】高取北中学校 美術部【広島の朝は THE TIME, !!】",
+      "description": "",
+      "publishedAt": "2026-05-13T08:34:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y5Joc8oRNEU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y5Joc8oRNEU"
+    },
+    {
+      "id": "b0O4Hb79FWU",
+      "title": "【広島!中高生ニュース】市立広島工業高校 自転車競技部【広島の朝は THE TIME, !!】",
+      "description": "",
+      "publishedAt": "2026-05-13T08:24:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b0O4Hb79FWU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b0O4Hb79FWU"
+    },
     {
       "id": "5J2GfHxmhl4",
       "title": "『元就。二百万一心！』 #255　2026年5月9日",

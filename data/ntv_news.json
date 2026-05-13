@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-05-12T17:13:39.009210",
+  "updated_at": "2026-05-13T17:19:12.918503",
   "videos": [
+    {
+      "id": "Hwxij9ufn6M",
+      "title": "Supreme Court overturns Alex Murdaugh's 2023 murder conviction",
+      "description": "",
+      "publishedAt": "2026-05-13T17:01:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hwxij9ufn6M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hwxij9ufn6M"
+    },
+    {
+      "id": "KDf7M9S0s7w",
+      "title": "Jordy Frahm Leads Huskers Softball Into NCAA Regional With Championship Mindset",
+      "description": "",
+      "publishedAt": "2026-05-12T22:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KDf7M9S0s7w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KDf7M9S0s7w"
+    },
     {
       "id": "xEI1oryl04Q",
       "title": "Nebraska Softball is Ready to Host a Regional for the First Time in Over Ten Years",
