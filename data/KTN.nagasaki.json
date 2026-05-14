@@ -1,8 +1,104 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-05-13T17:18:54.960194",
+  "updated_at": "2026-05-14T17:02:56.477102",
   "videos": [
+    {
+      "id": "-eKV0kytn0A",
+      "title": "道路の陥没などインフラ管理が課題に　長崎大学でシンポジウム　技術者を養成し早めに点検・保守を",
+      "description": "",
+      "publishedAt": "2026-05-14T10:10:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-eKV0kytn0A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-eKV0kytn0A"
+    },
+    {
+      "id": "JyB6TQenGtM",
+      "title": "ひとり向け商品も増加　高齢者や単身者など利用者層の変化に対応　イオン九州が展開するスーパーが長崎県佐世保市の商店街に4年ぶりにオープン",
+      "description": "",
+      "publishedAt": "2026-05-14T10:03:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JyB6TQenGtM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JyB6TQenGtM"
+    },
+    {
+      "id": "_eMkZvjyFoI",
+      "title": "若者の長崎県内への就職を増やそう　高校生対象の求人票の受付前に県が経済団体に要請",
+      "description": "",
+      "publishedAt": "2026-05-14T10:01:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_eMkZvjyFoI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_eMkZvjyFoI"
+    },
+    {
+      "id": "sI2dJiU1MOs",
+      "title": "激しい流れに逆らってジャンプの妙技　失敗しても何度も挑戦　五島市で天然アユの遡上",
+      "description": "",
+      "publishedAt": "2026-05-14T09:59:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sI2dJiU1MOs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sI2dJiU1MOs"
+    },
+    {
+      "id": "I2btoLzRumk",
+      "title": "アイスクリームの「万博」　アミュプラザ長崎で「あいぱく」　今年のトレンドはソフトクリーム　長崎初出店も",
+      "description": "",
+      "publishedAt": "2026-05-14T09:56:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I2btoLzRumk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I2btoLzRumk"
+    },
+    {
+      "id": "iw3FEczY_rQ",
+      "title": "シーカヤックで涼む人も　長崎県佐世保市で最高気温30℃　県内7地点で2026年で一番の暑さに",
+      "description": "",
+      "publishedAt": "2026-05-14T09:54:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iw3FEczY_rQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iw3FEczY_rQ"
+    },
+    {
+      "id": "T3gfgodw_Tw",
+      "title": "長崎県対馬市で20代の男性が車にはねられ重傷",
+      "description": "",
+      "publishedAt": "2026-05-14T06:05:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T3gfgodw_Tw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T3gfgodw_Tw"
+    },
+    {
+      "id": "YjtPXitw5OE",
+      "title": "長崎県松浦市　松浦貯蓄共済組合　市の責任求め元組合員が集団提訴",
+      "description": "",
+      "publishedAt": "2026-05-14T06:03:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YjtPXitw5OE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YjtPXitw5OE"
+    },
     {
       "id": "aHwsbTEdPUg",
       "title": "熊本震災から10年　長崎バイオパークがYouTubeで記憶を発信",

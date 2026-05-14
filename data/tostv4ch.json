@@ -1,8 +1,20 @@
 {
   "channel_id": "UC0k0UP7RA9l-X_3t8jElXQQ",
   "channel_name": "TOSテレビ大分",
-  "updated_at": "2026-05-04T16:48:01.252744",
+  "updated_at": "2026-05-14T17:02:46.039725",
   "videos": [
+    {
+      "id": "QfRbmam15Ac",
+      "title": "第７４回大分県高等学校総合体育大会 総合開会式",
+      "description": "",
+      "publishedAt": "2026-05-12T07:41:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QfRbmam15Ac/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QfRbmam15Ac"
+    },
     {
       "id": "JTEyabaEXjI",
       "title": "道の駅あさじすぐ側に県産牛を贅沢に使った牛すじカレーの店「アマンダ」元栄養士が夢を込めた至福の一皿",
