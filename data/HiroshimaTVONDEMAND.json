@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-05-14T17:02:43.894915",
+  "updated_at": "2026-05-15T16:52:51.240152",
   "videos": [
+    {
+      "id": "Pwi54FP3Nps",
+      "title": "【料理が我流!ランチはやる気なし!?】",
+      "description": "",
+      "publishedAt": "2026-05-15T09:30:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Pwi54FP3Nps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Pwi54FP3Nps"
+    },
+    {
+      "id": "LZlBBStuPS0",
+      "title": "【キッズチャレンジスタジアム】おうすけくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-05-15T09:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LZlBBStuPS0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LZlBBStuPS0"
+    },
     {
       "id": "Cbszfqkzaiw",
       "title": "たからモノさがして　第５８１回",

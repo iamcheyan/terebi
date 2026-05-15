@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-05-14T17:03:04.982516",
+  "updated_at": "2026-05-15T16:52:55.950525",
   "videos": [
+    {
+      "id": "UxYZ_XdM2wg",
+      "title": "元気○（マル）らいふ　【ドクターヘリに密着】（2026/5/13放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-05-15T06:13:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UxYZ_XdM2wg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UxYZ_XdM2wg"
+    },
     {
       "id": "DHB_1dy-3sQ",
       "title": "【警戒】岩手大学敷地内にクマ居座る　市は緊急銃猟体制整えるも日没などで中止",
