@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-05-14T17:03:33.184400",
+  "updated_at": "2026-05-16T16:00:18.784304",
   "videos": [
+    {
+      "id": "kp0w8v5oz8I",
+      "title": "17日(日)よる11時25分～生放送　#信州ブレイブウォリアーズ",
+      "description": "",
+      "publishedAt": "2026-05-16T01:00:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kp0w8v5oz8I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kp0w8v5oz8I"
+    },
     {
       "id": "UuYY2sMNdsM",
       "title": "5/29(金)よる6時58分から放送！ #山里亮太",

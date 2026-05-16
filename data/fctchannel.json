@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2026-05-13T17:19:20.805066",
+  "updated_at": "2026-05-16T16:00:10.853111",
   "videos": [
+    {
+      "id": "Gvlv5mIob7s",
+      "title": "#56【本編】きょうはみんな期待してて",
+      "description": "",
+      "publishedAt": "2026-05-16T08:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Gvlv5mIob7s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Gvlv5mIob7s"
+    },
     {
       "id": "2m9ut5NCf8Y",
       "title": "おゆらじ #55.5【番外編】漬物ミュージカル",
