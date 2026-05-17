@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-05-16T16:00:13.776831",
+  "updated_at": "2026-05-17T16:01:12.071111",
   "videos": [
+    {
+      "id": "6YWCrGyg18Y",
+      "title": "いまコレ！かごしま市　5月17日(日)",
+      "description": "",
+      "publishedAt": "2026-05-17T06:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6YWCrGyg18Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6YWCrGyg18Y"
+    },
     {
       "id": "7DC-PIlom1M",
       "title": "【わんにゃんプラスかごしま】「絆を深めるドッグヨガ♪」",

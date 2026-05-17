@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-05-15T16:52:38.967102",
+  "updated_at": "2026-05-17T16:01:00.273141",
   "videos": [
+    {
+      "id": "CqbBYtISsT4",
+      "title": "『里崎智也のゴルフ直球勝負！』～ミニコーナー「ともやの小部屋」#287 ～ 金子未来プロ",
+      "description": "",
+      "publishedAt": "2026-05-17T15:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CqbBYtISsT4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CqbBYtISsT4"
+    },
     {
       "id": "qIrcx5ehFas",
       "title": "『市町村てくてく散歩』第183回「大多喜町」(2026.5.15放送)【チバテレ公式】",
