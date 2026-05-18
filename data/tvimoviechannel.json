@@ -1,8 +1,56 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-05-17T16:01:19.365232",
+  "updated_at": "2026-05-18T17:31:25.601260",
   "videos": [
+    {
+      "id": "-KrnS7uEdjk",
+      "title": "今日の５きげんテレビ（5月19日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-05-18T15:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-KrnS7uEdjk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-KrnS7uEdjk"
+    },
+    {
+      "id": "czcjB7OGAWs",
+      "title": "５きげん知恵袋 ～初夏のフルーツ～",
+      "description": "",
+      "publishedAt": "2026-05-18T09:01:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/czcjB7OGAWs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=czcjB7OGAWs"
+    },
+    {
+      "id": "3laOarEPeWY",
+      "title": "５きげんクッキング ～チキンガーリックライス～",
+      "description": "",
+      "publishedAt": "2026-05-18T08:55:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3laOarEPeWY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3laOarEPeWY"
+    },
+    {
+      "id": "MevuxIot1FM",
+      "title": "【ぼくのケツは青い#7】盛岡市出身で新宿の美容室で店長を務める人気美容師に密着！",
+      "description": "",
+      "publishedAt": "2026-05-18T04:24:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MevuxIot1FM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MevuxIot1FM"
+    },
     {
       "id": "QYJGzT73FmY",
       "title": "今日の５きげんテレビ（5月18日）｜テレビ岩手",

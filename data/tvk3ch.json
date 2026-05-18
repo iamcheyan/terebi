@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-05-16T16:00:05.227597",
+  "updated_at": "2026-05-18T17:30:54.825615",
   "videos": [
+    {
+      "id": "wkql9JsW8sQ",
+      "title": "猫のひたいほどワイド #1732 潜入リポート・奥谷知弘「厚木市で誕生！NEWスポーツ○○を体験！」（厚木市）",
+      "description": "",
+      "publishedAt": "2026-05-18T08:31:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wkql9JsW8sQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wkql9JsW8sQ"
+    },
+    {
+      "id": "I5Z36WHY-VA",
+      "title": "カナフルTV　次回予告（5月24日放送）",
+      "description": "",
+      "publishedAt": "2026-05-18T04:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I5Z36WHY-VA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I5Z36WHY-VA"
+    },
     {
       "id": "5md-ZRtgkHg",
       "title": "ハマナビ　次回予告（5月23日放送）",

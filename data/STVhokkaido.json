@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-05-12T17:14:18.939930",
+  "updated_at": "2026-05-18T17:31:23.878005",
   "videos": [
+    {
+      "id": "VZSrCwBZBbw",
+      "title": "ライブカメラ  大倉山ジャンプ競技場 山頂展望台(STV札幌テレビ放送)北海道札幌市中央区宮の森 /Live Camera Okurayama Ski Jump Stadium, Hokkaido",
+      "description": "",
+      "publishedAt": "2026-05-18T00:25:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VZSrCwBZBbw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VZSrCwBZBbw"
+    },
+    {
+      "id": "nK2OVrgK3oQ",
+      "title": "ライブカメラ  北海道（札幌・大通公園・新千歳空港・小樽・稚内・留萌・旭川・室蘭・浦河・江差・函館山・紋別・網走・帯広・釧路・根室）//LiveCamera Hokkaido Japan",
+      "description": "",
+      "publishedAt": "2026-05-18T00:24:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nK2OVrgK3oQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nK2OVrgK3oQ"
+    },
     {
       "id": "zBslf1ZrK4Q",
       "title": "#6　立命館慶祥高校競技かるた部（後編）",
