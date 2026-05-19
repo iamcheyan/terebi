@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-05-18T17:31:27.572448",
+  "updated_at": "2026-05-19T17:40:19.973810",
   "videos": [
+    {
+      "id": "ByOrXC2A67M",
+      "title": "愛媛のニュース(05月19日)",
+      "description": "",
+      "publishedAt": "2026-05-19T11:38:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ByOrXC2A67M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ByOrXC2A67M"
+    },
+    {
+      "id": "7CbdZQ5ro1s",
+      "title": "【愛媛・新居浜市】美しく咲き誇る 約3万本の「シャクヤク」",
+      "description": "",
+      "publishedAt": "2026-05-19T09:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7CbdZQ5ro1s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7CbdZQ5ro1s"
+    },
+    {
+      "id": "Fd0MvdRwnt8",
+      "title": "STU48が愛媛をEVドライブ！【第18回】ブルークエスト with STU48（新居浜市　みんなのコーヒー編）",
+      "description": "",
+      "publishedAt": "2026-05-19T03:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fd0MvdRwnt8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fd0MvdRwnt8"
+    },
     {
       "id": "VAsliXj8-0Q",
       "title": "愛媛のニュース(05月18日)",

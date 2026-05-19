@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-05-18T17:31:23.878005",
+  "updated_at": "2026-05-19T17:40:09.523054",
   "videos": [
+    {
+      "id": "o1vRXpI1xmQ",
+      "title": "#7　札幌山の手高校ラグビー部（前編）",
+      "description": "",
+      "publishedAt": "2026-05-19T01:54:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o1vRXpI1xmQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o1vRXpI1xmQ"
+    },
     {
       "id": "VZSrCwBZBbw",
       "title": "ライブカメラ  大倉山ジャンプ競技場 山頂展望台(STV札幌テレビ放送)北海道札幌市中央区宮の森 /Live Camera Okurayama Ski Jump Stadium, Hokkaido",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-05-17T16:01:12.071111",
+  "updated_at": "2026-05-19T17:40:00.675533",
   "videos": [
+    {
+      "id": "hE63LaEroJo",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　出水市",
+      "description": "",
+      "publishedAt": "2026-05-19T11:01:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hE63LaEroJo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hE63LaEroJo"
+    },
+    {
+      "id": "_9NGyu2jg2Q",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　志布志市",
+      "description": "",
+      "publishedAt": "2026-05-19T11:00:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_9NGyu2jg2Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_9NGyu2jg2Q"
+    },
+    {
+      "id": "RMkit098R18",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～　指宿市",
+      "description": "",
+      "publishedAt": "2026-05-19T11:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RMkit098R18/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RMkit098R18"
+    },
     {
       "id": "6YWCrGyg18Y",
       "title": "いまコレ！かごしま市　5月17日(日)",

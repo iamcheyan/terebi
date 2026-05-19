@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-05-18T17:30:57.713607",
+  "updated_at": "2026-05-19T17:39:29.417371",
   "videos": [
+    {
+      "id": "Wgi4cpA2gbM",
+      "title": "【ピリサタ】 アイ工務店　2026年5月16日放送",
+      "description": "",
+      "publishedAt": "2026-05-19T07:30:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wgi4cpA2gbM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wgi4cpA2gbM"
+    },
     {
       "id": "6BFiX2o6IxY",
       "title": "【舞台はいのち】99歳の看板俳優に別れ",
