@@ -1,8 +1,80 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-05-19T17:40:26.376696",
+  "updated_at": "2026-05-20T17:55:25.763513",
   "videos": [
+    {
+      "id": "YS8nSjwN1zU",
+      "title": "三重県遊技業協同組合総会　地域貢献とコンプライアンス強化へ",
+      "description": "",
+      "publishedAt": "2026-05-20T00:42:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YS8nSjwN1zU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YS8nSjwN1zU"
+    },
+    {
+      "id": "lLyVpiuJp1A",
+      "title": "JR運休と高速道路夜間閉鎖　三重県内で注意呼びかけ",
+      "description": "",
+      "publishedAt": "2026-05-20T00:39:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lLyVpiuJp1A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lLyVpiuJp1A"
+    },
+    {
+      "id": "0yNc3ed5Ku8",
+      "title": "三重県議長に藤田氏　副議長は津田氏　選出",
+      "description": "",
+      "publishedAt": "2026-05-20T00:38:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0yNc3ed5Ku8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0yNc3ed5Ku8"
+    },
+    {
+      "id": "urPyAN-Vg6w",
+      "title": "伊勢志摩サミット振り返る写真展　三重県立図書館で開催",
+      "description": "",
+      "publishedAt": "2026-05-20T00:37:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/urPyAN-Vg6w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=urPyAN-Vg6w"
+    },
+    {
+      "id": "NxWssrs5dH8",
+      "title": "熱中症の傾向と対策　県内の企業は",
+      "description": "",
+      "publishedAt": "2026-05-20T00:29:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NxWssrs5dH8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NxWssrs5dH8"
+    },
+    {
+      "id": "qs08GCx6vjo",
+      "title": "三重のおいしい米を届けたい　鈴鹿でブランド米「結びの神」田植え",
+      "description": "",
+      "publishedAt": "2026-05-20T00:25:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qs08GCx6vjo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qs08GCx6vjo"
+    },
     {
       "id": "PPtO_pKie74",
       "title": "焼け跡から2人の遺体　津市美杉町で住宅火災",

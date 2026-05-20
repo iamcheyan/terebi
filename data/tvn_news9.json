@@ -1,8 +1,56 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-05-19T17:39:18.042597",
+  "updated_at": "2026-05-20T17:54:53.284209",
   "videos": [
+    {
+      "id": "TsUeUZtsu1A",
+      "title": "県立大学附属高校　台湾の学校と国際交流",
+      "description": "",
+      "publishedAt": "2026-05-20T10:47:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TsUeUZtsu1A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TsUeUZtsu1A"
+    },
+    {
+      "id": "qwuDUiJHx9M",
+      "title": "県立図書情報館　世界のブックデザインの潮流に触れる",
+      "description": "",
+      "publishedAt": "2026-05-20T10:47:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qwuDUiJHx9M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qwuDUiJHx9M"
+    },
+    {
+      "id": "O4HChGx3ogw",
+      "title": "負債総額　去年の４倍以上　４月の倒産大幅増加",
+      "description": "",
+      "publishedAt": "2026-05-20T10:47:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O4HChGx3ogw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O4HChGx3ogw"
+    },
+    {
+      "id": "k533oCmBLss",
+      "title": "県内で特殊詐欺発生　３件で計２億３０００万円相当の被害",
+      "description": "",
+      "publishedAt": "2026-05-20T10:47:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k533oCmBLss/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k533oCmBLss"
+    },
     {
       "id": "nw3Mgh_fl3E",
       "title": "ハート形のうちわが舞う　唐招提寺　うちわまき",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-05-18T17:31:25.058922",
+  "updated_at": "2026-05-20T17:55:20.732192",
   "videos": [
+    {
+      "id": "ZZ_oleAripk",
+      "title": "29日(金)よる6時58分放送 #山里亮太",
+      "description": "",
+      "publishedAt": "2026-05-20T10:00:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZZ_oleAripk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZZ_oleAripk"
+    },
     {
       "id": "EJOxO7WTPWc",
       "title": "29日（金）よる6時58分放送 #山里亮太",

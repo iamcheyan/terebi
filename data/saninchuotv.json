@@ -1,8 +1,32 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-05-18T17:30:59.961652",
+  "updated_at": "2026-05-20T17:55:00.866705",
   "videos": [
+    {
+      "id": "zUYjsBrk0DM",
+      "title": "予告【しまねっこの宅配便X】5/27（水）放送「発見！おいしい水のヒミツ」",
+      "description": "",
+      "publishedAt": "2026-05-20T12:01:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zUYjsBrk0DM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zUYjsBrk0DM"
+    },
+    {
+      "id": "Idh4N8z05rE",
+      "title": "【ソノタネ2 0】#3～スケッチャーズ～",
+      "description": "",
+      "publishedAt": "2026-05-20T05:32:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Idh4N8z05rE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Idh4N8z05rE"
+    },
     {
       "id": "0uAShl4PCT8",
       "title": "【しまねっこの宅配便X】#04 新しい私を探しに～シニア世代の学び舎・くにびき学園～",

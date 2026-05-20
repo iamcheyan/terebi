@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-05-19T17:40:07.289803",
+  "updated_at": "2026-05-20T17:55:18.368693",
   "videos": [
+    {
+      "id": "bLnOTKN6PPo",
+      "title": "【番宣】５月２７日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2026-05-20T11:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bLnOTKN6PPo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bLnOTKN6PPo"
+    },
+    {
+      "id": "6K2CKSuGzsA",
+      "title": "【番宣】５月２１日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-05-20T00:08:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6K2CKSuGzsA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6K2CKSuGzsA"
+    },
     {
       "id": "QOntFGNPKbc",
       "title": "【番宣】５月２２日（金）NEWSゲツキン",

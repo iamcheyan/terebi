@@ -1,8 +1,32 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-05-19T17:39:17.403191",
+  "updated_at": "2026-05-20T17:54:55.304165",
   "videos": [
+    {
+      "id": "KRFq5FDxLiU",
+      "title": "Episode6　米屋の太郎でおむすび食べまっせ",
+      "description": "",
+      "publishedAt": "2026-05-20T12:45:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KRFq5FDxLiU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KRFq5FDxLiU"
+    },
+    {
+      "id": "kDfjf224b5w",
+      "title": "【戦評】西武首位！「エラーが重なる展開の中で、今日の武内のピッチングは価値がある」元埼玉西武監督辻さんの戦評（2026/5/19埼玉西武ライオンズvs千葉ロッテマリーンズ）",
+      "description": "",
+      "publishedAt": "2026-05-19T22:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kDfjf224b5w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kDfjf224b5w"
+    },
     {
       "id": "z7__GJUcN38",
       "title": "【いろはに千鳥】ガチ岩津めし第9弾　初心返りめし！【5/26予告】",
