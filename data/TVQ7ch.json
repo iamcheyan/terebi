@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-05-20T17:55:21.422532",
+  "updated_at": "2026-05-21T17:32:35.504589",
   "videos": [
+    {
+      "id": "gxfx4hxE3mk",
+      "title": "【夢クルーズ】608 馬場水車場(2026年5月21日放送)",
+      "description": "",
+      "publishedAt": "2026-05-21T12:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gxfx4hxE3mk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gxfx4hxE3mk"
+    },
+    {
+      "id": "MIUJduKK8II",
+      "title": "番組の評判が気になる2人【なかやまきんに君】【ゲスト：吉住】",
+      "description": "",
+      "publishedAt": "2026-05-21T10:30:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MIUJduKK8II/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MIUJduKK8II"
+    },
     {
       "id": "f6liQhI3Ukg",
       "title": "野良のレッグランジに大はしゃぎするきんに君",

@@ -1,8 +1,80 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-05-20T17:55:16.447462",
+  "updated_at": "2026-05-21T17:32:27.165645",
   "videos": [
+    {
+      "id": "TP4fEiLT0Mw",
+      "title": "5/24(日)午前10時35分放送『かごしまシティ・パレット』",
+      "description": "",
+      "publishedAt": "2026-05-21T09:12:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TP4fEiLT0Mw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TP4fEiLT0Mw"
+    },
+    {
+      "id": "I9dDnUqp4f4",
+      "title": "【MRT×MBC】5月27日 (水) 21:00～放送『ちゃんぴおんずの隣県ワンダーランド』",
+      "description": "",
+      "publishedAt": "2026-05-21T04:40:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I9dDnUqp4f4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I9dDnUqp4f4"
+    },
+    {
+      "id": "1dA9w7D7LcE",
+      "title": "ふくしのラジオ!　EP#163　『介護労働安定センターとは②賃金・人材確保について』",
+      "description": "",
+      "publishedAt": "2026-05-21T04:20:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1dA9w7D7LcE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1dA9w7D7LcE"
+    },
+    {
+      "id": "tIhrgNQP9so",
+      "title": "【5/27(水)夜7時～】てゲてゲ『対決！温泉クエスト・スタンプラリー』＆『潜入！フィールドレコーディングの世界』",
+      "description": "",
+      "publishedAt": "2026-05-21T02:27:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tIhrgNQP9so/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tIhrgNQP9so"
+    },
+    {
+      "id": "kOE8n9o__GY",
+      "title": "【鹿児島！中高生ニュース】大口明光学園中学校・高等学校　剣道部(2026年5月18日・5月21日放送)",
+      "description": "",
+      "publishedAt": "2026-05-21T01:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kOE8n9o__GY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kOE8n9o__GY"
+    },
+    {
+      "id": "yq__gTGudkM",
+      "title": "【鹿児島！中高生ニュース】大口明光学園中学校・高等学校　剣道部(2026年5月18日・5月21日放送)",
+      "description": "",
+      "publishedAt": "2026-05-21T01:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yq__gTGudkM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yq__gTGudkM"
+    },
     {
       "id": "Gu3q4_TLvY8",
       "title": "【震度5強の地震　揺れの瞬間】奄美地方で地震　与論島町で最大震度5強",

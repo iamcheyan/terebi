@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-05-20T17:54:46.534061",
+  "updated_at": "2026-05-21T17:31:42.243752",
   "videos": [
+    {
+      "id": "ih0J8Ns-CnM",
+      "title": "【ビジネストレンド】和想館（2026年5月21日放送）【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-05-21T13:01:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ih0J8Ns-CnM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ih0J8Ns-CnM"
+    },
     {
       "id": "skeENMpCj5Q",
       "title": "『市町村てくてく散歩』第183回「大多喜町」(2026.5.15放送)【チバテレ公式】",
