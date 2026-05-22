@@ -1,8 +1,116 @@
 {
   "channel_id": "UCyHdFYJyt4Ihwuscuk5ALJA",
   "channel_name": "広テレ!NEWS",
-  "updated_at": "2026-05-21T17:32:11.113743",
+  "updated_at": "2026-05-22T17:09:56.584132",
   "videos": [
+    {
+      "id": "3ymEMJnu9wU",
+      "title": "世界最大規模の酒の審査会　呉市の林酒造が受賞",
+      "description": "",
+      "publishedAt": "2026-05-22T10:24:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3ymEMJnu9wU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3ymEMJnu9wU"
+    },
+    {
+      "id": "GFBsGENZebU",
+      "title": "災害復旧工事の公文書　広島市は「虚偽作成の事実はない」と否定",
+      "description": "",
+      "publishedAt": "2026-05-22T10:20:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GFBsGENZebU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GFBsGENZebU"
+    },
+    {
+      "id": "5yQNKFvrvIQ",
+      "title": "新高速船「AIVINT」試乗会　中東情勢の影響でフェリー減便＆ネギ農家はフィルム高騰に悲鳴",
+      "description": "",
+      "publishedAt": "2026-05-22T10:20:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5yQNKFvrvIQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5yQNKFvrvIQ"
+    },
+    {
+      "id": "JlY1c21ZrBU",
+      "title": "大和ミュージアムが街を盛り上げ　リニューアルから１か月",
+      "description": "",
+      "publishedAt": "2026-05-22T10:19:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JlY1c21ZrBU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JlY1c21ZrBU"
+    },
+    {
+      "id": "Y0YyZlYSMIg",
+      "title": "アメリカ現職大統領が広島訪問から10年　歴史的瞬間に立ち会った人々",
+      "description": "",
+      "publishedAt": "2026-05-22T10:19:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y0YyZlYSMIg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y0YyZlYSMIg"
+    },
+    {
+      "id": "ibeTS8cqQ_o",
+      "title": "サンフレッチェ大迫敬介選手「日本代表に行く前にいい結果で」　W杯前最後のリーグ戦へ",
+      "description": "",
+      "publishedAt": "2026-05-22T10:13:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ibeTS8cqQ_o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ibeTS8cqQ_o"
+    },
+    {
+      "id": "arlvGHIbMK8",
+      "title": "下瀬美術館・絹谷幸二親子3人の企画展　来場者１万人を達成",
+      "description": "",
+      "publishedAt": "2026-05-22T10:13:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/arlvGHIbMK8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=arlvGHIbMK8"
+    },
+    {
+      "id": "4DGYyydcOE4",
+      "title": "コウテイペンギン「特別保護種」指定の合意に至らず　南極条約協議国会議が閉幕　広島市で開催",
+      "description": "",
+      "publishedAt": "2026-05-22T03:03:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4DGYyydcOE4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4DGYyydcOE4"
+    },
+    {
+      "id": "mRPyNkLoaEo",
+      "title": "アユの友釣りが解禁　広島・安芸高田市　江の川支流",
+      "description": "",
+      "publishedAt": "2026-05-22T03:03:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mRPyNkLoaEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mRPyNkLoaEo"
+    },
     {
       "id": "4wfPK0gh_Uc",
       "title": "【防災プロジェクト】どう変わる？新・防災気象情報　5月28日からスタート",

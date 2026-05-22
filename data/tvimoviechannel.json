@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-05-21T17:32:34.977308",
+  "updated_at": "2026-05-22T17:10:20.766807",
   "videos": [
+    {
+      "id": "GZ49TUwhjG0",
+      "title": "５きげんクッキング～ホヤと枝豆のアヒージョ～",
+      "description": "",
+      "publishedAt": "2026-05-22T10:13:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GZ49TUwhjG0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GZ49TUwhjG0"
+    },
     {
       "id": "nQOaJkS8w0Y",
       "title": "今日の５きげんテレビ（5月22日）｜テレビ岩手",

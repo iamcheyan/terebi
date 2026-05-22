@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-05-20T17:55:01.572085",
+  "updated_at": "2026-05-22T17:10:10.223523",
   "videos": [
+    {
+      "id": "UCJxJb9YZOs",
+      "title": "大洲の武家屋敷からアートで地方活性化",
+      "description": "",
+      "publishedAt": "2026-05-22T10:21:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UCJxJb9YZOs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UCJxJb9YZOs"
+    },
+    {
+      "id": "qaaCFM2fALI",
+      "title": "【梅雨】アイデアグッズで長雨を快適に",
+      "description": "",
+      "publishedAt": "2026-05-22T10:17:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qaaCFM2fALI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qaaCFM2fALI"
+    },
     {
       "id": "oCNOKWtSHQI",
       "title": "【ベジ得】夏野菜の代表格「キュウリ」",

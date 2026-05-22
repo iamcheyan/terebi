@@ -1,8 +1,20 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-05-21T17:32:23.256941",
+  "updated_at": "2026-05-22T17:10:13.933894",
   "videos": [
+    {
+      "id": "X-uYr2V4HGA",
+      "title": "相馬野馬追ライブ配信2026 \"Real Samurai Spirits of Soma Nomaoi: Live Streaming\"",
+      "description": "",
+      "publishedAt": "2026-05-14T00:50:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X-uYr2V4HGA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X-uYr2V4HGA"
+    },
     {
       "id": "LKyvxrkzx5Q",
       "title": "福島の5月を楽しもう！イベント＆番組情報一挙紹介【ときまるニュース】",

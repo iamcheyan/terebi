@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-05-21T17:32:05.160313",
+  "updated_at": "2026-05-22T17:10:05.005467",
   "videos": [
+    {
+      "id": "TifXk7gNaa8",
+      "title": "【パン食べ放題でおなかいっぱい！】ゆっくりできるパンレストラン",
+      "description": "",
+      "publishedAt": "2026-05-22T09:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TifXk7gNaa8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TifXk7gNaa8"
+    },
+    {
+      "id": "lEZ1qmsSGVA",
+      "title": "【キッズチャレンジスタジアム】あさひくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-05-22T09:00:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lEZ1qmsSGVA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lEZ1qmsSGVA"
+    },
     {
       "id": "v43JcpOi5J4",
       "title": "たからモノさがして　第５８２回",
