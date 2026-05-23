@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-05-21T17:32:14.343691",
+  "updated_at": "2026-05-23T16:03:16.458562",
   "videos": [
+    {
+      "id": "OnWpTOUs-is",
+      "title": "【特別展「鳥」】鳥のひみつ　”翼”に注目！",
+      "description": "",
+      "publishedAt": "2026-05-23T01:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OnWpTOUs-is/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OnWpTOUs-is"
+    },
+    {
+      "id": "mb3SP87Pp6E",
+      "title": "【よゐこ有野】この街、攻略しとく？リニューアルした“なんば”ぶーらぶら！ ～新しくなったなんばで美味いもんと最新家電を大満喫！の巻～",
+      "description": "",
+      "publishedAt": "2026-05-23T01:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mb3SP87Pp6E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mb3SP87Pp6E"
+    },
     {
       "id": "am0r-TNqvJI",
       "title": "「誰も見たことがない \"テレビ\" 、作ってみない？」テレビ大阪『ネクストIPプロジェクト』企画募集中！",

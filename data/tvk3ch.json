@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-05-22T17:09:56.420226",
+  "updated_at": "2026-05-23T16:03:19.476508",
   "videos": [
+    {
+      "id": "AyoF6sNwo48",
+      "title": "ハマナビ　2026年5月23日放送　潜入！ハマの深部",
+      "description": "",
+      "publishedAt": "2026-05-23T09:30:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AyoF6sNwo48/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AyoF6sNwo48"
+    },
+    {
+      "id": "-mf9h8DIQ-A",
+      "title": "ハマナビ　次回予告（5月30日放送）",
+      "description": "",
+      "publishedAt": "2026-05-23T09:30:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-mf9h8DIQ-A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-mf9h8DIQ-A"
+    },
+    {
+      "id": "TeraA3BwLKQ",
+      "title": "LOVEかわさき　5月23日放送：登戸・向ヶ丘遊園の今！",
+      "description": "",
+      "publishedAt": "2026-05-23T00:30:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TeraA3BwLKQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TeraA3BwLKQ"
+    },
+    {
+      "id": "4UAjI7pm38o",
+      "title": "【価格＆スペック】ホンダ レジェンドクーペ　tvk「新車情報」公式　1991年放送",
+      "description": "",
+      "publishedAt": "2026-05-23T00:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4UAjI7pm38o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4UAjI7pm38o"
+    },
     {
       "id": "7ylqQHRts7M",
       "title": "13分のステージ【FUN×FUN】5/22 O.A.",

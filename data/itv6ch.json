@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-05-21T17:32:38.634617",
+  "updated_at": "2026-05-23T16:04:24.703429",
   "videos": [
+    {
+      "id": "RUpUINKq4jU",
+      "title": "愛媛のニュース(05月23日)",
+      "description": "",
+      "publishedAt": "2026-05-23T11:32:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RUpUINKq4jU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RUpUINKq4jU"
+    },
+    {
+      "id": "eGYxzWGEf8U",
+      "title": "「遊びの中に学びの種がある」元小学校教諭が松山のオルタナティブスクールで目指す、子どもたちの主体性を引き出す“伴走型”教育",
+      "description": "",
+      "publishedAt": "2026-05-23T11:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eGYxzWGEf8U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eGYxzWGEf8U"
+    },
     {
       "id": "QCFyYxyKmOE",
       "title": "伊予鉄道の新型車両「7000系」がローレル賞 四国の私鉄で初 未来志向のデザインなど評価",

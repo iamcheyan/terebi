@@ -1,8 +1,188 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
   "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2026-05-22T17:10:05.489924",
+  "updated_at": "2026-05-23T16:03:24.405229",
   "videos": [
+    {
+      "id": "CN3XrDONwN4",
+      "title": "#NSTviral: Alamanda parking area flooded after heavy downpour",
+      "description": "",
+      "publishedAt": "2026-05-23T15:21:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CN3XrDONwN4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CN3XrDONwN4"
+    },
+    {
+      "id": "L64OH3OKQWg",
+      "title": "After Rafizi and Nik Nazmi, What’s Next for PKR?",
+      "description": "",
+      "publishedAt": "2026-05-23T15:11:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L64OH3OKQWg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L64OH3OKQWg"
+    },
+    {
+      "id": "xCkxet-6jLs",
+      "title": "PAS-Bersatu: The 48-Hour Decision",
+      "description": "",
+      "publishedAt": "2026-05-23T15:09:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xCkxet-6jLs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xCkxet-6jLs"
+    },
+    {
+      "id": "NyaruIxfbCU",
+      "title": "Danes crush hopes of all-Malaysian final at Malaysia Masters",
+      "description": "",
+      "publishedAt": "2026-05-23T13:28:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NyaruIxfbCU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NyaruIxfbCU"
+    },
+    {
+      "id": "OYmbx6kiieY",
+      "title": "2026-05-23",
+      "description": "",
+      "publishedAt": "2026-05-23T12:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OYmbx6kiieY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OYmbx6kiieY"
+    },
+    {
+      "id": "kkrNK9-YdbQ",
+      "title": "Angry Aaron flings racquet, Sze Fei-Izzuddin eye Malaysia Masters title",
+      "description": "",
+      "publishedAt": "2026-05-23T11:43:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kkrNK9-YdbQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kkrNK9-YdbQ"
+    },
+    {
+      "id": "9k6-2D7b__E",
+      "title": "US, Mexico border agencies coordinate ahead of World Cup",
+      "description": "",
+      "publishedAt": "2026-05-23T10:35:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9k6-2D7b__E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9k6-2D7b__E"
+    },
+    {
+      "id": "1Ire7TjNILc",
+      "title": "Lauren-Allison achieve their American dream at Malaysia Masters",
+      "description": "",
+      "publishedAt": "2026-05-23T10:02:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1Ire7TjNILc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1Ire7TjNILc"
+    },
+    {
+      "id": "sKqmINj3kzA",
+      "title": "Third time is the charm for Panitchaphon in Malaysia Masters final",
+      "description": "",
+      "publishedAt": "2026-05-23T09:12:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sKqmINj3kzA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sKqmINj3kzA"
+    },
+    {
+      "id": "5LSJap_kQMk",
+      "title": "Anwar calls for end to politics of hate and division",
+      "description": "",
+      "publishedAt": "2026-05-23T08:13:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5LSJap_kQMk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5LSJap_kQMk"
+    },
+    {
+      "id": "r3YCJWtKOMM",
+      "title": "Suspects flee with Ford Ranger after test drive in Gemencheh",
+      "description": "",
+      "publishedAt": "2026-05-23T08:12:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r3YCJWtKOMM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r3YCJWtKOMM"
+    },
+    {
+      "id": "Y59cM-p42gc",
+      "title": "Nova fears financial comfort is ruining Tang Jie-Ee Wei's hunger for victory",
+      "description": "",
+      "publishedAt": "2026-05-23T08:10:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y59cM-p42gc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y59cM-p42gc"
+    },
+    {
+      "id": "Jz1pWhvIDPA",
+      "title": "Police nab six over youth's murder in Pekan Nanas",
+      "description": "",
+      "publishedAt": "2026-05-23T07:55:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Jz1pWhvIDPA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Jz1pWhvIDPA"
+    },
+    {
+      "id": "WSxo4aY5wQc",
+      "title": "2026-05-23",
+      "description": "",
+      "publishedAt": "2026-05-23T06:38:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WSxo4aY5wQc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WSxo4aY5wQc"
+    },
+    {
+      "id": "0prdknRs6Uc",
+      "title": "Coach Jonassen says rising women singles pair must trust the process",
+      "description": "",
+      "publishedAt": "2026-05-23T06:36:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0prdknRs6Uc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0prdknRs6Uc"
+    },
     {
       "id": "qGebdrFXduQ",
       "title": "KLIA taxi tout caught offering RM109 ride to Sungai Long",

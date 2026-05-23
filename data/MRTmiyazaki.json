@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-05-21T17:32:27.489504",
+  "updated_at": "2026-05-23T16:04:02.946187",
   "videos": [
+    {
+      "id": "s5o5U4QZjag",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-05-23T02:59:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s5o5U4QZjag/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s5o5U4QZjag"
+    },
     {
       "id": "fXWSVYHCyAI",
       "title": "【第123回】だいちゃんと行く‼︎よりみちさんぽ〈子育ての後悔〉",
