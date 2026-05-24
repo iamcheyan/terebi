@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-05-22T17:10:18.168307",
+  "updated_at": "2026-05-24T16:02:56.521338",
   "videos": [
+    {
+      "id": "68_hgxw0kKU",
+      "title": "RKCアプリ漢字クイズ 5/25の問題 ～揚田葵衣アナウンサーのヒント～",
+      "description": "",
+      "publishedAt": "2026-05-24T15:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/68_hgxw0kKU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=68_hgxw0kKU"
+    },
     {
       "id": "DGqoGxNMlLk",
       "title": "「《すでに前回超えの申し込み》よさこい祭り 196チームが申し込み完了」2026/5/22放送",

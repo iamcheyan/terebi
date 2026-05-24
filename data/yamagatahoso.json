@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-05-17T16:01:21.564899",
+  "updated_at": "2026-05-24T16:03:03.428207",
   "videos": [
+    {
+      "id": "qmJTaiwSoIw",
+      "title": "やまがたサンデー５　５月２４日放送分　ブナの森トレッキングでリフレッシュ！",
+      "description": "",
+      "publishedAt": "2026-05-24T08:30:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qmJTaiwSoIw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qmJTaiwSoIw"
+    },
     {
       "id": "9wYOU9dLyHw",
       "title": "やまがたサンデー５　５月１７日放送分　自然の恵みで暮らしを支える企業局",

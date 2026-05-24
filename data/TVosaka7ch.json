@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-05-23T16:03:16.458562",
+  "updated_at": "2026-05-24T16:02:30.554595",
   "videos": [
+    {
+      "id": "IF1rHt3sgZ0",
+      "title": "【特別展「鳥」】開催は6月14日まで！お見逃しなく！！",
+      "description": "",
+      "publishedAt": "2026-05-24T07:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IF1rHt3sgZ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IF1rHt3sgZ0"
+    },
+    {
+      "id": "QttMImdh_h8",
+      "title": "食遺産File.247「炊き込まないタコ飯」＠大阪府・堺市",
+      "description": "",
+      "publishedAt": "2026-05-24T03:45:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QttMImdh_h8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QttMImdh_h8"
+    },
     {
       "id": "OnWpTOUs-is",
       "title": "【特別展「鳥」】鳥のひみつ　”翼”に注目！",

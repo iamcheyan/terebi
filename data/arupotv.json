@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-05-23T16:04:08.721101",
+  "updated_at": "2026-05-24T16:02:56.383540",
   "videos": [
+    {
+      "id": "yY1FKDhx1bE",
+      "title": "第104回 めざせ！くまもとの若き匠たち【小川工業高校 土木科】",
+      "description": "",
+      "publishedAt": "2026-05-24T14:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yY1FKDhx1bE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yY1FKDhx1bE"
+    },
+    {
+      "id": "5UoudUsUrYw",
+      "title": "【番宣】５月３１日（日）新 窓をあけて九州",
+      "description": "",
+      "publishedAt": "2026-05-24T01:15:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5UoudUsUrYw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5UoudUsUrYw"
+    },
     {
       "id": "_ugLX7hKlFA",
       "title": "【番宣】５月３０日（土）からふる",

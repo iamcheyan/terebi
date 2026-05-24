@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-05-23T16:04:18.139941",
+  "updated_at": "2026-05-24T16:03:01.106595",
   "videos": [
+    {
+      "id": "6tf8ozlZu-U",
+      "title": "パワーではどうにもならない時もある【ゲスト：吉住】",
+      "description": "",
+      "publishedAt": "2026-05-24T10:30:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6tf8ozlZu-U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6tf8ozlZu-U"
+    },
+    {
+      "id": "qODpqfT8BRc",
+      "title": "【テレQ番宣】ブルーリバーの望むところだ！（5月31日（日）13:30～）",
+      "description": "",
+      "publishedAt": "2026-05-24T05:23:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qODpqfT8BRc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qODpqfT8BRc"
+    },
     {
       "id": "_DDRtPqRrcA",
       "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（5月30日（土）18:30～）",

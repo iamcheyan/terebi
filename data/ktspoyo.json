@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-05-23T16:04:00.858740",
+  "updated_at": "2026-05-24T16:02:52.981035",
   "videos": [
+    {
+      "id": "gcc4vobjXVo",
+      "title": "いまコレ！かごしま市　5月24日(日)",
+      "description": "",
+      "publishedAt": "2026-05-24T06:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gcc4vobjXVo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gcc4vobjXVo"
+    },
     {
       "id": "s0HSdV32v48",
       "title": "【わんにゃんプラスかごしま】「家族のアイドル♪」",
