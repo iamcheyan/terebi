@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-05-24T16:03:04.032810",
+  "updated_at": "2026-05-25T17:08:30.822818",
   "videos": [
+    {
+      "id": "VAyyd-rLH_s",
+      "title": "市の発行する商品券のタイトル文字を書で揮ごう！地元高校生が奮闘「せーのっ！未来への一歩」",
+      "description": "",
+      "publishedAt": "2026-05-25T11:30:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VAyyd-rLH_s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VAyyd-rLH_s"
+    },
+    {
+      "id": "gBUrKL09ofw",
+      "title": "フラワーデザインの全国大会目指して競う！個性豊かな作品ずらり「せーのっ！未来への一歩」",
+      "description": "",
+      "publishedAt": "2026-05-25T11:25:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gBUrKL09ofw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gBUrKL09ofw"
+    },
+    {
+      "id": "vnKhWoNXGfE",
+      "title": "学校の中に動物園！野村高校「のむこうふれあい動物園」オープンへ「せーのっ！未来への一歩」",
+      "description": "",
+      "publishedAt": "2026-05-25T11:19:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vnKhWoNXGfE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vnKhWoNXGfE"
+    },
     {
       "id": "phZBIzs1bBk",
       "title": "愛媛のニュース(05月24日)",

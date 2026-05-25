@@ -1,8 +1,20 @@
 {
   "channel_id": "UCE5ajTJVTrsmxZJ-V3y8CLA",
   "channel_name": "ABA青森朝日放送",
-  "updated_at": "2026-05-22T17:10:10.768586",
+  "updated_at": "2026-05-25T17:08:16.101681",
   "videos": [
+    {
+      "id": "pcA1VW0n7JU",
+      "title": "青森空港 ライブ配信",
+      "description": "",
+      "publishedAt": "2026-05-25T11:28:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pcA1VW0n7JU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pcA1VW0n7JU"
+    },
     {
       "id": "dsnB6FmKMas",
       "title": "【平沼日菜子】全力チャレンジャー35～これができたら冠番組～青森県市町村チャレンジ！#全力チャレンジャー #平沼日菜子",

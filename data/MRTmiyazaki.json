@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-05-23T16:04:02.946187",
+  "updated_at": "2026-05-25T17:08:22.248464",
   "videos": [
+    {
+      "id": "Kkb5DDJVD_c",
+      "title": "2026年4月1日放送",
+      "description": "",
+      "publishedAt": "2026-05-25T05:23:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kkb5DDJVD_c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kkb5DDJVD_c"
+    },
     {
       "id": "s5o5U4QZjag",
       "title": "アバンなドッキング",

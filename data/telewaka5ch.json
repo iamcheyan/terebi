@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-05-23T16:03:15.960581",
+  "updated_at": "2026-05-25T17:08:11.614132",
   "videos": [
+    {
+      "id": "5NmRwBy57Xk",
+      "title": "スタントマンによる自転車事故の再現 交通安全教室 和歌山県橋本市",
+      "description": "",
+      "publishedAt": "2026-05-25T10:16:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5NmRwBy57Xk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5NmRwBy57Xk"
+    },
     {
       "id": "WPmgBjdgtTY",
       "title": "あのじゅうよ〜 第200回「視聴者情報〜巻物に描かれた本町通りを訪ねる〜＜後編＞",

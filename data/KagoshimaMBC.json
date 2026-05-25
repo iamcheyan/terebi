@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-05-24T16:02:53.615962",
+  "updated_at": "2026-05-25T17:08:21.813675",
   "videos": [
+    {
+      "id": "hT8JmHyknc4",
+      "title": "#19 錦江町立大根占小学校（5/18放送）",
+      "description": "",
+      "publishedAt": "2026-05-25T03:08:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hT8JmHyknc4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hT8JmHyknc4"
+    },
+    {
+      "id": "Q5xFampev0c",
+      "title": "九州最高峰の屋久島・宮之浦で「岳参り」山の神に祈り捧げる(MBCニュース 2026年5月24日放送）",
+      "description": "",
+      "publishedAt": "2026-05-25T02:22:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q5xFampev0c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q5xFampev0c"
+    },
     {
       "id": "nWu387Xiqws",
       "title": "阿久根市・長島町　黒之瀬戸【かごしまドローンTRIP】",

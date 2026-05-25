@@ -1,8 +1,44 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-05-24T16:03:03.136398",
+  "updated_at": "2026-05-25T17:08:29.858947",
   "videos": [
+    {
+      "id": "IQsp0qA6W0Q",
+      "title": "みんテレ　5月26日（火）放送",
+      "description": "",
+      "publishedAt": "2026-05-25T10:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IQsp0qA6W0Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IQsp0qA6W0Q"
+    },
+    {
+      "id": "GHfEqsj3Dls",
+      "title": "板ばさみ　違法動物園と、人間たち",
+      "description": "",
+      "publishedAt": "2026-05-25T04:19:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GHfEqsj3Dls/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GHfEqsj3Dls"
+    },
+    {
+      "id": "4QCBhYomcag",
+      "title": "いっとこ！：5月30日（土）放送",
+      "description": "",
+      "publishedAt": "2026-05-25T00:38:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4QCBhYomcag/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4QCBhYomcag"
+    },
     {
       "id": "Ls59ktx2qbE",
       "title": "松本裕子の病を知るー5月24日　光が変える！第５のがん治療 “光免疫療法”【前編】",

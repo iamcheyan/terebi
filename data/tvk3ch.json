@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-05-23T16:03:19.476508",
+  "updated_at": "2026-05-25T17:07:57.348194",
   "videos": [
+    {
+      "id": "qlnXeOrKAGY",
+      "title": "カナフルTV　12月7日　文字から伝わる思い ～手紙のぬくもりを感じる冬～",
+      "description": "",
+      "publishedAt": "2026-05-25T06:37:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qlnXeOrKAGY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qlnXeOrKAGY"
+    },
+    {
+      "id": "JJSlCP_dcxo",
+      "title": "カナフルTV　次回予告（5月31日放送）",
+      "description": "",
+      "publishedAt": "2026-05-25T04:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JJSlCP_dcxo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JJSlCP_dcxo"
+    },
     {
       "id": "AyoF6sNwo48",
       "title": "ハマナビ　2026年5月23日放送　潜入！ハマの深部",
