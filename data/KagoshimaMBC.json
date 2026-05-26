@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-05-25T17:08:21.813675",
+  "updated_at": "2026-05-26T17:56:54.469524",
   "videos": [
+    {
+      "id": "iBvjqxfdcig",
+      "title": "【5月29日(金) 午後3時49分～】かごよんフライデー",
+      "description": "",
+      "publishedAt": "2026-05-26T09:25:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iBvjqxfdcig/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iBvjqxfdcig"
+    },
     {
       "id": "hT8JmHyknc4",
       "title": "#19 錦江町立大根占小学校（5/18放送）",

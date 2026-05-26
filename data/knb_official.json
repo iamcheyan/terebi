@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-05-19T17:39:59.089230",
+  "updated_at": "2026-05-26T17:56:53.403073",
   "videos": [
+    {
+      "id": "0bmn6sRkWSE",
+      "title": "【旬景とやま】富山湾 初夏の輝き",
+      "description": "",
+      "publishedAt": "2026-05-26T10:44:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0bmn6sRkWSE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0bmn6sRkWSE"
+    },
     {
       "id": "O28dmsDTbIk",
       "title": "【旬景とやま】緑の回廊　負釣山",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-05-23T16:03:33.454139",
+  "updated_at": "2026-05-26T17:56:37.194446",
   "videos": [
+    {
+      "id": "961YDrszB64",
+      "title": "【お天気カメラ】テレビ岩手おてんきＬＩＶＥ",
+      "description": "",
+      "publishedAt": "2026-05-26T03:59:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/961YDrszB64/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=961YDrszB64"
+    },
     {
       "id": "GYNbq1H0Y5M",
       "title": "大槌町山林火災1か月 平野町長に聞く（ニュースプラス1いわて 2026/5/22放送）",

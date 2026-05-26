@@ -1,8 +1,32 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-05-25T17:07:51.801445",
+  "updated_at": "2026-05-26T17:56:47.211086",
   "videos": [
+    {
+      "id": "55GRtbJBLKM",
+      "title": "【特別展「鳥」】長居駅から会場へLet's Go！",
+      "description": "",
+      "publishedAt": "2026-05-26T07:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/55GRtbJBLKM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=55GRtbJBLKM"
+    },
+    {
+      "id": "M-s4RdacIBs",
+      "title": "5月30日（土）午後4時放送「ウチワケ社会」",
+      "description": "",
+      "publishedAt": "2026-05-26T03:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M-s4RdacIBs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M-s4RdacIBs"
+    },
     {
       "id": "xA7Z_4rzrxM",
       "title": "【特別展「鳥」】音声ガイドで楽しさ倍増！！",

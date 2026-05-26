@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-05-25T17:08:04.570643",
+  "updated_at": "2026-05-26T17:56:30.689061",
   "videos": [
+    {
+      "id": "ZTiflflIpKk",
+      "title": "【パシャロケ！】ベストショット探しの旅　八戸市②",
+      "description": "",
+      "publishedAt": "2026-05-26T09:44:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZTiflflIpKk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZTiflflIpKk"
+    },
+    {
+      "id": "UMnfmYZPIB8",
+      "title": "【パシャロケ！】ベストショット探しの旅　八戸市①",
+      "description": "",
+      "publishedAt": "2026-05-26T08:29:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UMnfmYZPIB8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UMnfmYZPIB8"
+    },
     {
       "id": "0qLTf7LoYi4",
       "title": "【パシャロケ！】ベストショット探しの旅　十和田湖②",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-05-19T17:40:09.523054",
+  "updated_at": "2026-05-26T17:56:57.710472",
   "videos": [
+    {
+      "id": "A_gmOuEYO3M",
+      "title": "#8　札幌山の手高校ラグビー部（後編）",
+      "description": "",
+      "publishedAt": "2026-05-26T00:38:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A_gmOuEYO3M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A_gmOuEYO3M"
+    },
     {
       "id": "o1vRXpI1xmQ",
       "title": "#7　札幌山の手高校ラグビー部（前編）",
