@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-05-26T17:56:47.020121",
+  "updated_at": "2026-05-27T17:57:35.246934",
   "videos": [
+    {
+      "id": "SRF4PSBTUDg",
+      "title": "【えひめの食 盛り上げまっぷ】愛媛生まれの新しい柑橘“紅プリンセス”を使ってお料理に挑戦",
+      "description": "",
+      "publishedAt": "2026-05-27T01:40:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SRF4PSBTUDg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SRF4PSBTUDg"
+    },
+    {
+      "id": "c9or9q_pLh8",
+      "title": "【えひめの食 盛り上げまっぷ】愛媛生まれの新しい柑橘“紅プリンセス”",
+      "description": "",
+      "publishedAt": "2026-05-27T01:40:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c9or9q_pLh8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c9or9q_pLh8"
+    },
     {
       "id": "G9ngEYOe1WU",
       "title": "きょうの俳句＜令和8年5月放送＞ 兼題「白鷺」（後半）",

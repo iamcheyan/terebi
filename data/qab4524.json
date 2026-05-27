@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-05-26T17:56:56.199805",
+  "updated_at": "2026-05-27T17:58:06.469858",
   "videos": [
+    {
+      "id": "vqz_XY7R-A0",
+      "title": "たまごのSOLENA",
+      "description": "",
+      "publishedAt": "2026-05-27T08:04:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vqz_XY7R-A0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vqz_XY7R-A0"
+    },
     {
       "id": "s0xiYFoudek",
       "title": "第60回 琉球銀行新本店にお出かけ！",

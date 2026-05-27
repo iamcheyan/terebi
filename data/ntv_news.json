@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-05-25T17:07:58.429803",
+  "updated_at": "2026-05-27T17:57:32.801516",
   "videos": [
+    {
+      "id": "VbUrYaEBlDw",
+      "title": "Jordy Frahm Named USA Softball Collegiate Player of the Year",
+      "description": "",
+      "publishedAt": "2026-05-27T02:21:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VbUrYaEBlDw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VbUrYaEBlDw"
+    },
+    {
+      "id": "jyvPOFNUoVw",
+      "title": "Nebraska Softball Arrives in OKC for Women’s College World Series",
+      "description": "",
+      "publishedAt": "2026-05-27T01:46:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jyvPOFNUoVw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jyvPOFNUoVw"
+    },
     {
       "id": "lDqrSfowUm0",
       "title": "Nebraska to Host 2026 NCAA Baseball Regional",

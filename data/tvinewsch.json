@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-05-26T17:56:37.194446",
+  "updated_at": "2026-05-27T17:57:36.507104",
   "videos": [
+    {
+      "id": "-7OlgyYN4D8",
+      "title": "山地酪農 苦難の先に見えた光（ニュースプラス1いわて 2026/5/26放送）",
+      "description": "",
+      "publishedAt": "2026-05-27T04:11:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-7OlgyYN4D8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-7OlgyYN4D8"
+    },
+    {
+      "id": "ZrOpsju9D9o",
+      "title": "〇〇〇タコ焼き！わんカメＬＩＶＥ（ニュースプラス1いわて 2026/5/26放送）",
+      "description": "",
+      "publishedAt": "2026-05-27T02:59:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZrOpsju9D9o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZrOpsju9D9o"
+    },
     {
       "id": "961YDrszB64",
       "title": "【お天気カメラ】テレビ岩手おてんきＬＩＶＥ",

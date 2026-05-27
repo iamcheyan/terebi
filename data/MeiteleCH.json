@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-05-23T16:03:06.167836",
+  "updated_at": "2026-05-27T17:57:56.577667",
   "videos": [
+    {
+      "id": "fNeQV0G3R-E",
+      "title": "『ハムレット』 舞台映像ダイジェスト（東京公演）",
+      "description": "",
+      "publishedAt": "2026-05-27T01:15:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fNeQV0G3R-E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fNeQV0G3R-E"
+    },
     {
       "id": "3h7SKEhsPYs",
       "title": "【まるまる◎あいち】2026年5月23日放送 「FIA世界ラリー選手権フォーラムエイト・ラリージャパン2026」",
