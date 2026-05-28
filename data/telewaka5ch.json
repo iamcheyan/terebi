@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-05-27T17:57:33.626280",
+  "updated_at": "2026-05-28T18:13:19.607852",
   "videos": [
+    {
+      "id": "ou0NQz2t8e4",
+      "title": "WIB HERO'S 和歌山イノベーションベース近況",
+      "description": "",
+      "publishedAt": "2026-05-28T16:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ou0NQz2t8e4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ou0NQz2t8e4"
+    },
     {
       "id": "glurUwJ9UEI",
       "title": "【WAKAYAMA SDGs】#058- 津田工業株式会社",

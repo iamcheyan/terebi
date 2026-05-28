@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-05-27T17:58:06.895388",
+  "updated_at": "2026-05-28T18:14:10.841658",
   "videos": [
+    {
+      "id": "80dpzMD8ijM",
+      "title": "【大分市】Roppinドーナツ（2026年5月20日放送分）",
+      "description": "",
+      "publishedAt": "2026-05-28T04:11:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/80dpzMD8ijM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=80dpzMD8ijM"
+    },
     {
       "id": "iVZj5f5oXX4",
       "title": "【大分市】中津からあげ本田家 米良店（2026年5月20日放送分）",

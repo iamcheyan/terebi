@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-05-24T16:02:59.952268",
+  "updated_at": "2026-05-28T18:14:17.939647",
   "videos": [
+    {
+      "id": "4JJZPHKpqDY",
+      "title": "【きっと青春の１ページ】#8 福岡舞鶴高等学校　男子新体操部",
+      "description": "",
+      "publishedAt": "2026-05-28T15:45:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4JJZPHKpqDY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4JJZPHKpqDY"
+    },
+    {
+      "id": "zcl7PP-HMmg",
+      "title": "【公式】2026年5月30日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-05-28T05:09:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zcl7PP-HMmg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zcl7PP-HMmg"
+    },
     {
       "id": "cYO5j_-CRdo",
       "title": "【公式】「kiiの1minute」ミライへの１minute｜テレビ西日本",

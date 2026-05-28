@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-05-26T17:56:42.397943",
+  "updated_at": "2026-05-28T18:13:56.164832",
   "videos": [
+    {
+      "id": "iIGH7VNBfqA",
+      "title": "月山の残雪トレッキングツアー",
+      "description": "",
+      "publishedAt": "2026-05-28T01:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iIGH7VNBfqA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iIGH7VNBfqA"
+    },
     {
       "id": "Wk6IWhYiuD0",
       "title": "ラーメン専門店として再出発！【麺道自然や】",

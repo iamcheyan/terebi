@@ -1,8 +1,20 @@
 {
   "channel_id": "UC0k0UP7RA9l-X_3t8jElXQQ",
   "channel_name": "TOSテレビ大分",
-  "updated_at": "2026-05-24T16:02:44.457105",
+  "updated_at": "2026-05-28T18:13:24.779053",
   "videos": [
+    {
+      "id": "mxwr1-8qRLQ",
+      "title": "【ＴＯＳ報道特別番組】2026年5月31日(日)　午後4時55分～『ずっと、この町で ～大火から半年　佐賀関はいま～』",
+      "description": "",
+      "publishedAt": "2026-05-28T08:09:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mxwr1-8qRLQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mxwr1-8qRLQ"
+    },
     {
       "id": "PY-IpFJP32Q",
       "title": "津久見市で１０年以上続く「つくみ朝市」毎月第2日曜日に開催の人の温かさに出会える場",

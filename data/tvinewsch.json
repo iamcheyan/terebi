@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-05-27T17:57:36.507104",
+  "updated_at": "2026-05-28T18:13:32.080616",
   "videos": [
+    {
+      "id": "a9lKRSGZTac",
+      "title": "クマ捕獲わなの設置訓練（ニュースプラス1いわて 2026/5/27放送）",
+      "description": "",
+      "publishedAt": "2026-05-28T06:25:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a9lKRSGZTac/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a9lKRSGZTac"
+    },
+    {
+      "id": "M2Wr2m6ZfD8",
+      "title": "報道初公開 県警機動隊クマ駆除対応訓練（ニュースプラス1いわて 2026/5/27放送）",
+      "description": "",
+      "publishedAt": "2026-05-28T06:10:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M2Wr2m6ZfD8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M2Wr2m6ZfD8"
+    },
+    {
+      "id": "snW-a1T1H2o",
+      "title": "元気○（マル）らいふ　【これからの時期に気をつけたい食中毒】（2026/5/27放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-05-28T05:38:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/snW-a1T1H2o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=snW-a1T1H2o"
+    },
     {
       "id": "-7OlgyYN4D8",
       "title": "山地酪農 苦難の先に見えた光（ニュースプラス1いわて 2026/5/26放送）",

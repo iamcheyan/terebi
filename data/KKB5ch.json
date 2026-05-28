@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAhZnTMHk-TPyDzT0rt34IQ",
   "channel_name": "KKB鹿児島放送",
-  "updated_at": "2026-05-27T17:58:02.300552",
+  "updated_at": "2026-05-28T18:14:05.147896",
   "videos": [
+    {
+      "id": "I1SD37HCe5s",
+      "title": "【新しくなった防災気象情報】レベルと色でわかる避難のタイミング～早めの避難で命を守ろう～",
+      "description": "",
+      "publishedAt": "2026-05-28T13:02:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I1SD37HCe5s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I1SD37HCe5s"
+    },
+    {
+      "id": "5Ok2qLVecoU",
+      "title": "【かご探】ご存じですか？パーキングパーミット制度～鹿児島県身障者用駐車場利用証制度～(5月23日放送)",
+      "description": "",
+      "publishedAt": "2026-05-28T12:35:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5Ok2qLVecoU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5Ok2qLVecoU"
+    },
     {
       "id": "K3XB877fv5I",
       "title": "飲めるパンケーキ？鹿児島で見つけた異次元の食感",

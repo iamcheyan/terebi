@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-05-27T17:57:32.801516",
+  "updated_at": "2026-05-28T18:13:28.547143",
   "videos": [
+    {
+      "id": "MaXAJVUoZZ4",
+      "title": "Nebraska, Arkansas Set for WCWS Clash in Oklahoma City",
+      "description": "",
+      "publishedAt": "2026-05-28T01:06:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MaXAJVUoZZ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MaXAJVUoZZ4"
+    },
+    {
+      "id": "BtKt7m4qASw",
+      "title": "Nebraska’s WCWS Journey Begins Thursday Against Arkansas",
+      "description": "",
+      "publishedAt": "2026-05-28T00:56:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BtKt7m4qASw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BtKt7m4qASw"
+    },
     {
       "id": "VbUrYaEBlDw",
       "title": "Jordy Frahm Named USA Softball Collegiate Player of the Year",
