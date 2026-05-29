@@ -1,8 +1,44 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-05-28T18:14:22.866189",
+  "updated_at": "2026-05-29T18:13:59.554819",
   "videos": [
+    {
+      "id": "4HaERO6lzMs",
+      "title": "発見！タカトシランド 2026年6月5日（金）OA",
+      "description": "",
+      "publishedAt": "2026-05-29T11:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4HaERO6lzMs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4HaERO6lzMs"
+    },
+    {
+      "id": "IuZzjC41Pf0",
+      "title": "みんテレ　6月1日（月）放送",
+      "description": "",
+      "publishedAt": "2026-05-29T10:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IuZzjC41Pf0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IuZzjC41Pf0"
+    },
+    {
+      "id": "goA7uBNt6r0",
+      "title": "FumuFumu　2026年5月29日放送",
+      "description": "",
+      "publishedAt": "2026-05-29T02:30:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/goA7uBNt6r0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=goA7uBNt6r0"
+    },
     {
       "id": "OXfiQdEqPwY",
       "title": "みんテレ　5月29日（金）放送",

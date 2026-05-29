@@ -1,8 +1,104 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-05-28T18:13:26.733269",
+  "updated_at": "2026-05-29T18:13:20.123726",
   "videos": [
+    {
+      "id": "oXoDeOkseYc",
+      "title": "那谷寺で職員がクマを目撃　一部拝観停止に",
+      "description": "",
+      "publishedAt": "2026-05-29T10:07:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oXoDeOkseYc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oXoDeOkseYc"
+    },
+    {
+      "id": "lCA8pq9ozoU",
+      "title": "金沢武士団　山野知事にシーズン終了を報告",
+      "description": "",
+      "publishedAt": "2026-05-29T10:07:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lCA8pq9ozoU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lCA8pq9ozoU"
+    },
+    {
+      "id": "UKtLVY6D_b0",
+      "title": "にぎわい創出へ　金沢駅西口に新施設が完成",
+      "description": "",
+      "publishedAt": "2026-05-29T03:04:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UKtLVY6D_b0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UKtLVY6D_b0"
+    },
+    {
+      "id": "xoRHCI7ipYI",
+      "title": "金沢市の国道８号で３台絡む事故　１人搬送",
+      "description": "",
+      "publishedAt": "2026-05-29T03:04:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xoRHCI7ipYI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xoRHCI7ipYI"
+    },
+    {
+      "id": "eDD8HiCxyV0",
+      "title": "パン耳リポート　名店出身シェフの芸術的なパン屋さん　金沢市の「二コネ」",
+      "description": "",
+      "publishedAt": "2026-05-29T02:27:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eDD8HiCxyV0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eDD8HiCxyV0"
+    },
+    {
+      "id": "hk2IlMFJ69w",
+      "title": "店主のいちおしは「ガレット」！　能美市にあるカフェでくつろぎのひとときを",
+      "description": "",
+      "publishedAt": "2026-05-29T01:57:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hk2IlMFJ69w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hk2IlMFJ69w"
+    },
+    {
+      "id": "Sy-tmtKINZw",
+      "title": "ホテル日航金沢が「ふむふむ」コラボランチ！　今回は「新感覚の中国料理」",
+      "description": "",
+      "publishedAt": "2026-05-29T01:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Sy-tmtKINZw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Sy-tmtKINZw"
+    },
+    {
+      "id": "wkQciHEsnb0",
+      "title": "【シモダ目線！】来年の全国高校総文祭「２０２７いしかわ総文」のイメージソングを初披露！",
+      "description": "",
+      "publishedAt": "2026-05-29T00:58:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wkQciHEsnb0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wkQciHEsnb0"
+    },
     {
       "id": "bh4AnvzFxlc",
       "title": "河北潟干拓地「ひまわり村」種まき",

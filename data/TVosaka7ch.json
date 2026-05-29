@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-05-26T17:56:47.211086",
+  "updated_at": "2026-05-29T18:13:35.371900",
   "videos": [
+    {
+      "id": "4jTA3RbYts0",
+      "title": "【加守アナウンサーがビートチャレンジしてみた】",
+      "description": "",
+      "publishedAt": "2026-05-29T08:52:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4jTA3RbYts0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4jTA3RbYts0"
+    },
     {
       "id": "55GRtbJBLKM",
       "title": "【特別展「鳥」】長居駅から会場へLet's Go！",

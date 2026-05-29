@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-05-28T18:13:32.080616",
+  "updated_at": "2026-05-29T18:13:25.120283",
   "videos": [
+    {
+      "id": "sf3czeoklRc",
+      "title": "大槌町山林火災 鎮火宣言（ニュースプラス1いわて 2026/5/29放送）",
+      "description": "",
+      "publishedAt": "2026-05-29T10:48:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sf3czeoklRc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sf3czeoklRc"
+    },
+    {
+      "id": "PJTT2gBRJnk",
+      "title": "ナフサ不安 記者解説（ニュースプラス1いわて 2026/5/29放送）",
+      "description": "",
+      "publishedAt": "2026-05-29T10:38:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PJTT2gBRJnk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PJTT2gBRJnk"
+    },
+    {
+      "id": "VuJ51r0NqcE",
+      "title": "新しい防災気象情報、台風6号の影響（ニュースプラス1いわて 2026/5/29放送）",
+      "description": "",
+      "publishedAt": "2026-05-29T10:28:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VuJ51r0NqcE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VuJ51r0NqcE"
+    },
     {
       "id": "a9lKRSGZTac",
       "title": "クマ捕獲わなの設置訓練（ニュースプラス1いわて 2026/5/27放送）",

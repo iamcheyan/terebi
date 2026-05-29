@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-05-28T18:14:17.939647",
+  "updated_at": "2026-05-29T18:13:57.411733",
   "videos": [
+    {
+      "id": "VduIONxa6vs",
+      "title": "【公式】2026年6月5日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-05-29T11:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VduIONxa6vs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VduIONxa6vs"
+    },
+    {
+      "id": "TGQcDQC2bDw",
+      "title": "【公式】「はじめての寝返り」（05月29日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-05-29T03:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TGQcDQC2bDw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TGQcDQC2bDw"
+    },
     {
       "id": "4JJZPHKpqDY",
       "title": "【きっと青春の１ページ】#8 福岡舞鶴高等学校　男子新体操部",

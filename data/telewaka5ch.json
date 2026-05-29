@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-05-28T18:13:19.607852",
+  "updated_at": "2026-05-29T18:13:10.531665",
   "videos": [
+    {
+      "id": "Fdb9MbNF9vg",
+      "title": "児童が「税」「選挙」学ぶ 和歌山県那智勝浦町",
+      "description": "",
+      "publishedAt": "2026-05-29T09:54:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fdb9MbNF9vg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fdb9MbNF9vg"
+    },
     {
       "id": "ou0NQz2t8e4",
       "title": "WIB HERO'S 和歌山イノベーションベース近況",
