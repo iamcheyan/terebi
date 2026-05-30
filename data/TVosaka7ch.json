@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-05-29T18:13:35.371900",
+  "updated_at": "2026-05-30T16:05:59.664960",
   "videos": [
+    {
+      "id": "nW-BEcLONDE",
+      "title": "【よゐこ有野】この街、攻略しとく？天王寺動物園ぶーらぶら！～今、話題のどうぶつからしゃべる〇〇まで徹底攻略の巻～",
+      "description": "",
+      "publishedAt": "2026-05-30T01:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nW-BEcLONDE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nW-BEcLONDE"
+    },
     {
       "id": "4jTA3RbYts0",
       "title": "【加守アナウンサーがビートチャレンジしてみた】",

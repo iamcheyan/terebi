@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-05-29T18:14:00.525560",
+  "updated_at": "2026-05-30T16:07:31.252327",
   "videos": [
+    {
+      "id": "YHzy6HcVvgw",
+      "title": "愛媛のニュース(05月30日)",
+      "description": "",
+      "publishedAt": "2026-05-30T11:31:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YHzy6HcVvgw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YHzy6HcVvgw"
+    },
     {
       "id": "cs5GL2BoARI",
       "title": "）【続・後編】あの人気美術館での展示が始まった唯一現存「戦前の道路標識」定点観測をしてみると意外な反応続々と 石川県内の道路事情も取材しました",

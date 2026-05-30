@@ -1,8 +1,32 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-05-29T18:13:54.839965",
+  "updated_at": "2026-05-30T16:07:13.597488",
   "videos": [
+    {
+      "id": "3phUwad9EvI",
+      "title": "沖縄・北海道の伝統舞踊を学ぶワークショップ",
+      "description": "",
+      "publishedAt": "2026-05-30T08:53:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3phUwad9EvI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3phUwad9EvI"
+    },
+    {
+      "id": "v2TlwjD73MU",
+      "title": "鳥獣被害対策の一手に？狩猟スタートアップセミナー",
+      "description": "",
+      "publishedAt": "2026-05-30T08:53:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v2TlwjD73MU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v2TlwjD73MU"
+    },
     {
       "id": "w260rfa90uo",
       "title": "大型台風の爪痕…線状降水帯“直前予測”とは？",
