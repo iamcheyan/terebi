@@ -1,8 +1,44 @@
 {
   "channel_id": "UCzeRR8rMI8IkjqGx_MFlUjQ",
   "channel_name": "KTKテレビ金沢",
-  "updated_at": "2026-05-30T16:07:08.071002",
+  "updated_at": "2026-05-31T16:11:58.597346",
   "videos": [
+    {
+      "id": "lb4qd5BHVaQ",
+      "title": "【ニュースまとめ】　5月31日放送分　まもなく本州初のトキ放鳥 トキを乗せた車両が能登・羽咋市に到着　本州で初 国の特別天然記念物トキが石川・羽咋市で放鳥",
+      "description": "",
+      "publishedAt": "2026-05-31T09:01:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lb4qd5BHVaQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lb4qd5BHVaQ"
+    },
+    {
+      "id": "PKOHA2Nl2zY",
+      "title": "【能登の空へ】本州で初　国の特別天然記念物トキが石川・羽咋市で放鳥",
+      "description": "",
+      "publishedAt": "2026-05-31T08:26:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PKOHA2Nl2zY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PKOHA2Nl2zY"
+    },
+    {
+      "id": "juy_1wI9g-0",
+      "title": "【能登の空へ】まもなく本州初のトキ放鳥　トキを乗せた車両が能登・羽咋市に到着",
+      "description": "",
+      "publishedAt": "2026-05-31T02:55:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/juy_1wI9g-0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=juy_1wI9g-0"
+    },
     {
       "id": "YtWBYK0sjd4",
       "title": "【ニュースまとめ】　5月30日放送分　石川県内は高気圧に覆われ気温上昇 小松運動公園のバラ園 バラが見頃迎える　新たな交流拠点に 石川・JR金沢駅西口エリアに体験型複合施設誕生　など",

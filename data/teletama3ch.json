@@ -1,8 +1,20 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-05-30T16:06:41.995089",
+  "updated_at": "2026-05-31T16:11:24.397417",
   "videos": [
+    {
+      "id": "GZ8WD8XfhBQ",
+      "title": "【V-Clips】AWA特集",
+      "description": "",
+      "publishedAt": "2026-05-31T10:28:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GZ8WD8XfhBQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GZ8WD8XfhBQ"
+    },
     {
       "id": "u8_yIC493P0",
       "title": "第37回テレ玉親子ふれあいマラソンに参加したショコラミに密着！【ショコラミタイム～夢に向かってゴーゴゴー！～】#３１",

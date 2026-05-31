@@ -1,8 +1,56 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-05-30T16:06:16.363310",
+  "updated_at": "2026-05-31T16:11:38.252285",
   "videos": [
+    {
+      "id": "6gETGUerjHM",
+      "title": "和歌山で働こう！カンパニーガイド【和歌山バス50周年記念篇】",
+      "description": "",
+      "publishedAt": "2026-05-31T15:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6gETGUerjHM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6gETGUerjHM"
+    },
+    {
+      "id": "BVwJfsI2Bfk",
+      "title": "和歌山で働こう！カンパニーガイド【菱岡工業株式会社】",
+      "description": "",
+      "publishedAt": "2026-05-31T15:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BVwJfsI2Bfk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BVwJfsI2Bfk"
+    },
+    {
+      "id": "UJNoUENxz74",
+      "title": "和歌山で働こう！カンパニーガイド【山本化学工業株式会社】",
+      "description": "",
+      "publishedAt": "2026-05-31T15:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UJNoUENxz74/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UJNoUENxz74"
+    },
+    {
+      "id": "h0jRJfX5fHk",
+      "title": "WIB HERO'S 5月のゲスト 総集編",
+      "description": "",
+      "publishedAt": "2026-05-31T00:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h0jRJfX5fHk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h0jRJfX5fHk"
+    },
     {
       "id": "2cgZvF2978o",
       "title": "和歌山de乾杯!086田辺市・Amore　後編",

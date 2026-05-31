@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-05-27T17:57:53.805368",
+  "updated_at": "2026-05-31T16:11:17.580205",
   "videos": [
+    {
+      "id": "S1jy0kNNTII",
+      "title": "しまじろうのわお！　#727「はみがき　シュッシュッ！」【6/6（土）放送📺】",
+      "description": "",
+      "publishedAt": "2026-05-31T15:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S1jy0kNNTII/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S1jy0kNNTII"
+    },
     {
       "id": "iIUPOrDA6OE",
       "title": "ファジアーノ岡山の歴史を描く「地熱の奇跡」　著者・島沢優子さんにインタビュー",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-05-28T18:14:19.078365",
+  "updated_at": "2026-05-31T16:12:06.040763",
   "videos": [
+    {
+      "id": "J8eJB0SueGA",
+      "title": "TUFアプリ「たぷり」6月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-05-31T15:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J8eJB0SueGA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J8eJB0SueGA"
+    },
+    {
+      "id": "E5FGBfi5tS0",
+      "title": "「福島日産自動車×ステップ」6月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-05-31T15:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E5FGBfi5tS0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E5FGBfi5tS0"
+    },
     {
       "id": "4oub3p9pSB8",
       "title": "【ふくしまSHOWは】「緑もえる磐梯エリア」 ！",
