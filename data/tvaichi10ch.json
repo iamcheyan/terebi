@@ -1,8 +1,44 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-05-30T16:06:37.489595",
+  "updated_at": "2026-06-01T19:56:17.802226",
   "videos": [
+    {
+      "id": "5zak1gHLtIM",
+      "title": "野球中継 ロッテ×中日 6月9日（火）テレビ愛知 10チャンベースボール",
+      "description": "",
+      "publishedAt": "2026-06-01T09:09:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5zak1gHLtIM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5zak1gHLtIM"
+    },
+    {
+      "id": "h947L38J_LU",
+      "title": "野球中継 中日×西武 6月6日（土）テレビ愛知 10チャンベースボール",
+      "description": "",
+      "publishedAt": "2026-06-01T09:01:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h947L38J_LU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h947L38J_LU"
+    },
+    {
+      "id": "aUL19V7ju0U",
+      "title": "工場へ行こうⅢ6月6日（土）放送【鉄筋一筋90年！“縁の下の力持ち”　圧巻の製造現場】",
+      "description": "",
+      "publishedAt": "2026-05-28T09:29:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aUL19V7ju0U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aUL19V7ju0U"
+    },
     {
       "id": "hMtF3RnykKE",
       "title": "【白い天津飯】人気NO.1の「しーなし」が絶品！　サンコック　大垣本店（岐阜県大垣市）【あまドラ～天野っちのドライブしよう！！～】",

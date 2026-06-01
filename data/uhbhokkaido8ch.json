@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-05-30T16:07:28.368005",
+  "updated_at": "2026-06-01T19:57:16.115315",
   "videos": [
+    {
+      "id": "NZh8QszJMk8",
+      "title": "みんテレ　6月2日（火）放送",
+      "description": "",
+      "publishedAt": "2026-06-01T10:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NZh8QszJMk8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NZh8QszJMk8"
+    },
     {
       "id": "83URxf2WKbE",
       "title": "いっとこ！：6月6日（土）放送",

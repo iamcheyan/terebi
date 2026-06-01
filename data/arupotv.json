@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-05-29T18:13:55.739106",
+  "updated_at": "2026-06-01T19:57:04.132374",
   "videos": [
+    {
+      "id": "GiNPjgxBnSo",
+      "title": "【番宣】６月３日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-01T08:45:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GiNPjgxBnSo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GiNPjgxBnSo"
+    },
+    {
+      "id": "2zyBfE9iwiU",
+      "title": "【番宣】６月４日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-01T08:33:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2zyBfE9iwiU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2zyBfE9iwiU"
+    },
+    {
+      "id": "x52CxiYJ6OQ",
+      "title": "【番宣】６月６日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-06-01T00:03:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x52CxiYJ6OQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x52CxiYJ6OQ"
+    },
     {
       "id": "C9NkyvMPomY",
       "title": "【番宣】６月２日（火）NEWSゲツキン",

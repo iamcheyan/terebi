@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-05-31T16:11:40.051397",
+  "updated_at": "2026-06-01T19:56:21.092569",
   "videos": [
+    {
+      "id": "SMjFQxktJFc",
+      "title": "島田洋七の朝から言わせろ　～佐賀の魅力で取り込む？～",
+      "description": "",
+      "publishedAt": "2026-06-01T09:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SMjFQxktJFc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SMjFQxktJFc"
+    },
     {
       "id": "gvZH9aC_Nto",
       "title": "人形師｜親子で陶人形を作り続けて20年　変わりゆく焼き物業界と向き合う父と息子",

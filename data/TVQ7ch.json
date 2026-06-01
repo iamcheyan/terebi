@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-05-31T16:12:06.840549",
+  "updated_at": "2026-06-01T19:57:12.638172",
   "videos": [
+    {
+      "id": "2loETpfl2Uo",
+      "title": "逃げながら鍛える なかやまきんに君",
+      "description": "",
+      "publishedAt": "2026-06-01T11:30:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2loETpfl2Uo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2loETpfl2Uo"
+    },
+    {
+      "id": "C0OMRVz94mA",
+      "title": "そもそも「ドボン」って、どこに落ちているのだろう",
+      "description": "",
+      "publishedAt": "2026-06-01T09:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C0OMRVz94mA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C0OMRVz94mA"
+    },
     {
       "id": "Ll6g52sgWos",
       "title": "【連チャン】褒めたらフルーツがもらえる街ぶら確変モード突入",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-05-31T16:11:59.725387",
+  "updated_at": "2026-06-01T19:56:57.789720",
   "videos": [
+    {
+      "id": "5cVgHswZcNE",
+      "title": "【同時配信】MBC報道特別番組　台風6号最新情報（2026年6月2日9時55分～10時25分放送予定）",
+      "description": "",
+      "publishedAt": "2026-06-01T05:02:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5cVgHswZcNE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5cVgHswZcNE"
+    },
+    {
+      "id": "EwX21jLzZYc",
+      "title": "#20 阿久根市立脇本小学校（5/25放送）",
+      "description": "",
+      "publishedAt": "2026-06-01T03:06:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EwX21jLzZYc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EwX21jLzZYc"
+    },
+    {
+      "id": "MK7YHcmZRfU",
+      "title": "【ジドリセン】アメニティも充実！地域に愛される温泉【針持温泉】",
+      "description": "",
+      "publishedAt": "2026-06-01T02:04:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MK7YHcmZRfU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MK7YHcmZRfU"
+    },
     {
       "id": "b0btcuWasTs",
       "title": "鹿児島市・錦江湾に浮かぶ沖小島【かごしまドローンTRIP】",

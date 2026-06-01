@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-05-29T18:13:32.985322",
+  "updated_at": "2026-06-01T19:56:36.487012",
   "videos": [
+    {
+      "id": "M_0jdMwTiqM",
+      "title": "超町人！チョコレートサムネット 6/7(日)茶色グルメ 新栄編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-06-01T06:48:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M_0jdMwTiqM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M_0jdMwTiqM"
+    },
     {
       "id": "9f3BSkIKDxg",
       "title": "家族と過ごす時間の尊さに気づいた上京の日😭【アナメロ】",

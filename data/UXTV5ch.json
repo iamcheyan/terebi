@@ -1,8 +1,32 @@
 {
   "channel_id": "UCqobPh0K_bFAWurWVQrLtKQ",
   "channel_name": "UX新潟テレビ21",
-  "updated_at": "2026-05-31T16:12:09.367736",
+  "updated_at": "2026-06-01T19:57:17.548146",
   "videos": [
+    {
+      "id": "NBh6AA-aKZY",
+      "title": "マリンピアのいきものじかん　2026年5月／鯉のひげ篇",
+      "description": "",
+      "publishedAt": "2026-06-01T03:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NBh6AA-aKZY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NBh6AA-aKZY"
+    },
+    {
+      "id": "InkccZ1lj4U",
+      "title": "あのころの新潟を振り返る…【ニイガタ◆メモリーズ】NO.009『旧新潟県庁』",
+      "description": "",
+      "publishedAt": "2026-06-01T00:30:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/InkccZ1lj4U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=InkccZ1lj4U"
+    },
     {
       "id": "VCOUM-BliYU",
       "title": "🔍探県プロジェクト ー 新しい防災気象情報①【30秒メッセージCM】",

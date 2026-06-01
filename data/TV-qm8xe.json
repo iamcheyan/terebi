@@ -1,8 +1,20 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-05-22T17:10:13.933894",
+  "updated_at": "2026-06-01T19:56:51.831801",
   "videos": [
+    {
+      "id": "0E7WnGqRPiY",
+      "title": "【電波の日】ときまるの様子が…",
+      "description": "",
+      "publishedAt": "2026-06-01T03:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0E7WnGqRPiY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0E7WnGqRPiY"
+    },
     {
       "id": "X-uYr2V4HGA",
       "title": "相馬野馬追ライブ配信2026 \"Real Samurai Spirits of Soma Nomaoi: Live Streaming\"",
