@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-06-01T19:57:12.638172",
+  "updated_at": "2026-06-02T18:42:18.621297",
   "videos": [
+    {
+      "id": "RkHLu1b2cyo",
+      "title": "これで終われる？【なかやまきんに君】",
+      "description": "",
+      "publishedAt": "2026-06-02T11:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RkHLu1b2cyo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RkHLu1b2cyo"
+    },
+    {
+      "id": "vfvU8AQuaRE",
+      "title": "【福岡】超人気天ぷら店のランキングがすごかった",
+      "description": "",
+      "publishedAt": "2026-06-02T09:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vfvU8AQuaRE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vfvU8AQuaRE"
+    },
     {
       "id": "2loETpfl2Uo",
       "title": "逃げながら鍛える なかやまきんに君",

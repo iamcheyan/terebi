@@ -1,8 +1,68 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-05-29T18:13:53.642039",
+  "updated_at": "2026-06-02T18:42:04.553685",
   "videos": [
+    {
+      "id": "DPHE9VgAWvM",
+      "title": "2026年5月29日放送",
+      "description": "",
+      "publishedAt": "2026-06-02T02:45:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DPHE9VgAWvM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DPHE9VgAWvM"
+    },
+    {
+      "id": "untlEshxMoo",
+      "title": "2026年5月28日放送",
+      "description": "",
+      "publishedAt": "2026-06-02T02:45:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/untlEshxMoo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=untlEshxMoo"
+    },
+    {
+      "id": "3mo6PK5L4sA",
+      "title": "2026年5月27日放送",
+      "description": "",
+      "publishedAt": "2026-06-02T02:45:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3mo6PK5L4sA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3mo6PK5L4sA"
+    },
+    {
+      "id": "UXUkdkN40pY",
+      "title": "2026年5月26日放送",
+      "description": "",
+      "publishedAt": "2026-06-02T02:40:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UXUkdkN40pY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UXUkdkN40pY"
+    },
+    {
+      "id": "8Twx0__H12A",
+      "title": "2026年5月25日放送",
+      "description": "",
+      "publishedAt": "2026-06-02T02:40:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8Twx0__H12A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8Twx0__H12A"
+    },
     {
       "id": "2TZN9b-eohI",
       "title": "#5　新宿みやざき館 KONNEでついつい買ってしまうもの （寺坂調べ）ベスト５",
