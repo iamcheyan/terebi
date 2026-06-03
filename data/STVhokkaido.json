@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-06-02T18:42:13.311329",
+  "updated_at": "2026-06-03T18:46:53.523523",
   "videos": [
+    {
+      "id": "z3OUPSoABJk",
+      "title": "いまの札幌 ライブカメラ（STV札幌テレビ放送）北海道札幌市中央区 /Live Camera Sapporo , Hokkaido",
+      "description": "",
+      "publishedAt": "2026-06-03T06:14:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/z3OUPSoABJk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=z3OUPSoABJk"
+    },
     {
       "id": "NnEsIKhf1LU",
       "title": "#9　札幌旭丘高校合唱部（前編）",

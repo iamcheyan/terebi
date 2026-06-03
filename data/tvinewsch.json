@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-06-02T18:41:20.249760",
+  "updated_at": "2026-06-03T18:46:18.984700",
   "videos": [
+    {
+      "id": "r-LxHNEV3TQ",
+      "title": "体操白井健三さん「夢をかなえるために！」（ニュースプラス1いわて 2026/6/2放送）",
+      "description": "",
+      "publishedAt": "2026-06-03T10:10:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r-LxHNEV3TQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r-LxHNEV3TQ"
+    },
+    {
+      "id": "uZNRVo5Z7eg",
+      "title": "【高校サッカー】専大北上５年ぶりインターハイ出場！（ニュースプラス1いわて 2026/6/2放送）",
+      "description": "",
+      "publishedAt": "2026-06-03T04:43:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uZNRVo5Z7eg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uZNRVo5Z7eg"
+    },
     {
       "id": "Zv3jJ-4yxpo",
       "title": "被害のハンター”背後にクマが立っていた！”（ニュースプラス1いわて 2026/6/2放送）",

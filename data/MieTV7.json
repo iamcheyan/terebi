@@ -1,8 +1,32 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-06-02T18:42:32.476981",
+  "updated_at": "2026-06-03T18:47:05.111613",
   "videos": [
+    {
+      "id": "Uwa7NGZ-sU4",
+      "title": "県内初　最新手術支援ロボットで高度医療へ",
+      "description": "",
+      "publishedAt": "2026-06-02T23:57:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Uwa7NGZ-sU4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Uwa7NGZ-sU4"
+    },
+    {
+      "id": "H1vgDzBWUD8",
+      "title": "「らくらくサイクル」始動　地域活性化に期待",
+      "description": "",
+      "publishedAt": "2026-06-02T23:55:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H1vgDzBWUD8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H1vgDzBWUD8"
+    },
     {
       "id": "fP9RRJ3LxlA",
       "title": "ダニ対策グッズに防水シート　梅雨や台風に備える商品並ぶ",

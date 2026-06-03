@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-06-01T19:55:57.655683",
+  "updated_at": "2026-06-03T18:45:58.447695",
   "videos": [
+    {
+      "id": "tyL-XTaEfPI",
+      "title": "松山・学生街の今むかし”令和の学生マンション事情”",
+      "description": "",
+      "publishedAt": "2026-06-03T08:06:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tyL-XTaEfPI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tyL-XTaEfPI"
+    },
+    {
+      "id": "oUuBp_ag-VU",
+      "title": "【Dream＋】地元から日本一へ！ヴェロリアン松山 注目クライマー",
+      "description": "",
+      "publishedAt": "2026-06-03T08:06:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oUuBp_ag-VU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oUuBp_ag-VU"
+    },
     {
       "id": "snz7GcCgLFI",
       "title": "【熱中症企画】夏を乗り切る！きょうから始める暑熱順化",

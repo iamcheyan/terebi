@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-06-02T18:42:09.996078",
+  "updated_at": "2026-06-03T18:46:51.230462",
   "videos": [
+    {
+      "id": "4hlIuTRATiI",
+      "title": "「6/5(金)放送 きいてMIHOちゃんねる」",
+      "description": "",
+      "publishedAt": "2026-06-03T02:37:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4hlIuTRATiI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4hlIuTRATiI"
+    },
     {
       "id": "CftujxvI_1g",
       "title": "「《すい臓がんの治療薬実用化に向けて》高知大学のベンチャー企業と医薬品卸業の会社が資本業務提携」2026/6/2放送",

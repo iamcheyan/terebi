@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-06-02T18:41:39.817792",
+  "updated_at": "2026-06-03T18:46:04.750986",
   "videos": [
+    {
+      "id": "EQXuBc2X6c0",
+      "title": "暮らしのカルチャー＆健康タイム　現役歯科医が教える歯と口の健康講座　第3回",
+      "description": "",
+      "publishedAt": "2026-06-03T05:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EQXuBc2X6c0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EQXuBc2X6c0"
+    },
     {
       "id": "vE_uvhBFs-0",
       "title": "とうもろこし「ゴールドラッシュ」収穫始まる 和歌山県白浜町",

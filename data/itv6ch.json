@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-06-02T18:42:24.888174",
+  "updated_at": "2026-06-03T18:47:01.663235",
   "videos": [
+    {
+      "id": "Vb0R6HO0NJc",
+      "title": "愛媛のニュース(06月03日)",
+      "description": "",
+      "publishedAt": "2026-06-03T11:37:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Vb0R6HO0NJc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Vb0R6HO0NJc"
+    },
+    {
+      "id": "Rkjb-oPNrjo",
+      "title": "【特集】EVで変わる未来の暮らし②「エネルギーの自給自足」を体験",
+      "description": "",
+      "publishedAt": "2026-06-03T05:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rkjb-oPNrjo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rkjb-oPNrjo"
+    },
+    {
+      "id": "w2GBhtnwFSI",
+      "title": "愛媛MP 夢のクロスロード 上野雄大選手",
+      "description": "",
+      "publishedAt": "2026-06-03T03:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/w2GBhtnwFSI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=w2GBhtnwFSI"
+    },
     {
       "id": "FpeK0Ml5Ibg",
       "title": "愛媛のニュース(06月02日)",

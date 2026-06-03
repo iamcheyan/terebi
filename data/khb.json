@@ -1,8 +1,140 @@
 {
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "KHB東日本放送",
-  "updated_at": "2026-06-02T18:41:57.471976",
+  "updated_at": "2026-06-03T18:46:44.098235",
   "videos": [
+    {
+      "id": "STBvPGaAtI4",
+      "title": "宮城県のレギュラーガソリン　全国最安値の１６３．２円",
+      "description": "",
+      "publishedAt": "2026-06-03T10:12:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/STBvPGaAtI4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=STBvPGaAtI4"
+    },
+    {
+      "id": "3FjYiGc2uqQ",
+      "title": "創業６８年　東日本大震災後の人の輪が支える銭湯　宮城・気仙沼市",
+      "description": "",
+      "publishedAt": "2026-06-03T10:06:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3FjYiGc2uqQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3FjYiGc2uqQ"
+    },
+    {
+      "id": "W1SDOsvPXJ0",
+      "title": "製造業・建設業・農業・漁業　ナフサ不足による宮城県の産業への影響は",
+      "description": "",
+      "publishedAt": "2026-06-03T09:45:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W1SDOsvPXJ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W1SDOsvPXJ0"
+    },
+    {
+      "id": "8Zimeu7Q-xY",
+      "title": "殺虫剤の誤飲を受けて宮城県が全市町村に注意喚起",
+      "description": "",
+      "publishedAt": "2026-06-03T09:42:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8Zimeu7Q-xY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8Zimeu7Q-xY"
+    },
+    {
+      "id": "axcjjzGl_GE",
+      "title": "箱わなに掛かったクマを駆除　宮城・東松島市の山林",
+      "description": "",
+      "publishedAt": "2026-06-03T09:31:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/axcjjzGl_GE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=axcjjzGl_GE"
+    },
+    {
+      "id": "oO6o4aAunCE",
+      "title": "台風６号の影響　宮城県は４日朝まで大雨に注意",
+      "description": "",
+      "publishedAt": "2026-06-03T09:28:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oO6o4aAunCE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oO6o4aAunCE"
+    },
+    {
+      "id": "eEprgn7X_mA",
+      "title": "観光や仕事で訪れてふるさと納税　デジタル商品券ですぐに返礼　仙台市",
+      "description": "",
+      "publishedAt": "2026-06-03T08:41:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eEprgn7X_mA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eEprgn7X_mA"
+    },
+    {
+      "id": "zHOSJy-EI1E",
+      "title": "児童が歯磨きを学ぶ　６月４日から歯と口の健康週間　仙台・青葉区",
+      "description": "",
+      "publishedAt": "2026-06-03T07:51:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zHOSJy-EI1E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zHOSJy-EI1E"
+    },
+    {
+      "id": "Sdrluvcien4",
+      "title": "クマの対策について東北６県・新潟県・国が連絡会議",
+      "description": "",
+      "publishedAt": "2026-06-03T07:49:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Sdrluvcien4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Sdrluvcien4"
+    },
+    {
+      "id": "so0gqt38-JI",
+      "title": "米の平均小売価格が徐々に値下がり　山形県産米が顕著",
+      "description": "",
+      "publishedAt": "2026-06-03T07:47:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/so0gqt38-JI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=so0gqt38-JI"
+    },
+    {
+      "id": "Yo1ID7wMq0Q",
+      "title": "客引き行為を撲滅　警備会社がパトロールを開始　仙台・国分町",
+      "description": "",
+      "publishedAt": "2026-06-03T02:52:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yo1ID7wMq0Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yo1ID7wMq0Q"
+    },
     {
       "id": "cCgVq_mafgA",
       "title": "震災復旧工事で架空請求　被害額は２億円超か　２人を再逮捕",

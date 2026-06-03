@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-06-01T19:57:11.533041",
+  "updated_at": "2026-06-03T18:46:56.009622",
   "videos": [
+    {
+      "id": "u_x-90wme_I",
+      "title": "【明日への一歩】学法福島高校　エコラン研究部",
+      "description": "",
+      "publishedAt": "2026-06-03T10:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u_x-90wme_I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u_x-90wme_I"
+    },
     {
       "id": "FEyC_Os3RWI",
       "title": "【仲間と踊る最高の夏】第3回高校生ダンスライブ参加者募集【7/3(金)締切】",

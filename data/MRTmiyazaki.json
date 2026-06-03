@@ -1,8 +1,32 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-06-02T18:42:04.553685",
+  "updated_at": "2026-06-03T18:46:47.572894",
   "videos": [
+    {
+      "id": "1aBEPYLG5jo",
+      "title": "【GO!GO! CookingZX】納豆！パート１",
+      "description": "",
+      "publishedAt": "2026-06-03T05:47:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1aBEPYLG5jo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1aBEPYLG5jo"
+    },
+    {
+      "id": "qfpcYjlAUes",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-05-30T03:04:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qfpcYjlAUes/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qfpcYjlAUes"
+    },
     {
       "id": "DPHE9VgAWvM",
       "title": "2026年5月29日放送",

@@ -1,8 +1,68 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-06-01T19:56:20.116663",
+  "updated_at": "2026-06-03T18:46:13.700732",
   "videos": [
+    {
+      "id": "AdRMTQLSHmk",
+      "title": "KOBOトレイル2026 ～弘法大師の道を走る～",
+      "description": "",
+      "publishedAt": "2026-06-03T08:28:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AdRMTQLSHmk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AdRMTQLSHmk"
+    },
+    {
+      "id": "UoW1cf_Y9QU",
+      "title": "弁護士が教える不動産相続の４つのポイント【ナラハ奈良法律事務所】｜ゆうドキッ！ドキッと情報",
+      "description": "",
+      "publishedAt": "2026-06-03T04:05:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UoW1cf_Y9QU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UoW1cf_Y9QU"
+    },
+    {
+      "id": "LtOgMEFhgSg",
+      "title": "【5月29日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-06-03T03:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LtOgMEFhgSg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LtOgMEFhgSg"
+    },
+    {
+      "id": "zvVx1HBGyYs",
+      "title": "奈良県高校ラグビー新人大会 天理×御所実業",
+      "description": "",
+      "publishedAt": "2026-06-03T01:51:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zvVx1HBGyYs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zvVx1HBGyYs"
+    },
+    {
+      "id": "QlObEX1UuoI",
+      "title": "ラグビースプリングカーニバルIN奈良 天理大学×帝京大学",
+      "description": "",
+      "publishedAt": "2026-06-03T01:50:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QlObEX1UuoI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QlObEX1UuoI"
+    },
     {
       "id": "hQSdpKOki6o",
       "title": "【奈良県】中小企業 賃上げ環境整備支援補助金のお知らせ",

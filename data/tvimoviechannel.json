@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-06-02T18:42:17.969882",
+  "updated_at": "2026-06-03T18:46:56.641008",
   "videos": [
+    {
+      "id": "WKDPgz0EMSo",
+      "title": "今日の５きげんテレビ（6月4日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-06-03T15:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WKDPgz0EMSo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WKDPgz0EMSo"
+    },
+    {
+      "id": "Qj2mHvzBBXw",
+      "title": "５きげんクッキング ～お刺身のアボカドなめろう～",
+      "description": "",
+      "publishedAt": "2026-06-03T09:02:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Qj2mHvzBBXw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Qj2mHvzBBXw"
+    },
+    {
+      "id": "Jq7C707c7ec",
+      "title": "命を無駄にしない美味しいジビエ｜meetme｜リピってまち探｜岩手・岩泉町｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-06-03T08:29:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Jq7C707c7ec/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Jq7C707c7ec"
+    },
     {
       "id": "qcgtVWkJ9bU",
       "title": "今日の５きげんテレビ（6月3日）｜テレビ岩手",
