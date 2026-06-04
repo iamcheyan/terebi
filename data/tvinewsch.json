@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-06-03T18:46:18.984700",
+  "updated_at": "2026-06-04T17:46:54.845791",
   "videos": [
+    {
+      "id": "HzTr8ayn2Uo",
+      "title": "元気○（マル）らいふ　【グップラ×元気〇らいふ「かんなくずでフラワーアート」】（2026/6/3放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-06-04T06:34:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HzTr8ayn2Uo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HzTr8ayn2Uo"
+    },
     {
       "id": "r-LxHNEV3TQ",
       "title": "体操白井健三さん「夢をかなえるために！」（ニュースプラス1いわて 2026/6/2放送）",

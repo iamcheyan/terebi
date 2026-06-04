@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-06-01T19:56:36.487012",
+  "updated_at": "2026-06-04T17:46:42.341159",
   "videos": [
+    {
+      "id": "Uj2q3lg3x1o",
+      "title": "『セールスマンの死』愛知公演 SPOT",
+      "description": "",
+      "publishedAt": "2026-06-04T05:25:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Uj2q3lg3x1o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Uj2q3lg3x1o"
+    },
     {
       "id": "M_0jdMwTiqM",
       "title": "超町人！チョコレートサムネット 6/7(日)茶色グルメ 新栄編【メ～テレ】",

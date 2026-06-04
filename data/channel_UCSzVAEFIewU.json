@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-06-03T18:45:58.447695",
+  "updated_at": "2026-06-04T17:46:55.598967",
   "videos": [
+    {
+      "id": "AimR5C1uSLE",
+      "title": "【6/6(土) 男子Dコート２・３回戦】愛媛県高校総体２０２６バレーボール競技",
+      "description": "",
+      "publishedAt": "2026-05-18T23:17:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AimR5C1uSLE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AimR5C1uSLE"
+    },
     {
       "id": "tyL-XTaEfPI",
       "title": "松山・学生街の今むかし”令和の学生マンション事情”",

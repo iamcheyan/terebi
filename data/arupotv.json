@@ -1,8 +1,56 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-06-01T19:57:04.132374",
+  "updated_at": "2026-06-04T17:47:13.763673",
   "videos": [
+    {
+      "id": "dpn6o8spKVQ",
+      "title": "【番宣】６月１３日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-06-04T09:27:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dpn6o8spKVQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dpn6o8spKVQ"
+    },
+    {
+      "id": "wXU5dMeElho",
+      "title": "【番宣】６月８日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-04T06:58:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wXU5dMeElho/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wXU5dMeElho"
+    },
+    {
+      "id": "pu7RLex45oE",
+      "title": "【番宣】６月５日（金）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-04T05:28:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pu7RLex45oE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pu7RLex45oE"
+    },
+    {
+      "id": "0UNoE070jIc",
+      "title": "【番宣】６月１３日（土）ミライのタネ",
+      "description": "",
+      "publishedAt": "2026-06-04T01:11:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0UNoE070jIc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0UNoE070jIc"
+    },
     {
       "id": "GiNPjgxBnSo",
       "title": "【番宣】６月３日（水）NEWSゲツキン",
