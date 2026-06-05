@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-04T17:47:25.336099",
+  "updated_at": "2026-06-05T17:21:49.220431",
   "videos": [
+    {
+      "id": "M1SHL1y1MwM",
+      "title": "260605 175052 小井手踏切（予土新幹線通過）",
+      "description": "",
+      "publishedAt": "2026-06-05T11:30:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M1SHL1y1MwM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M1SHL1y1MwM"
+    },
+    {
+      "id": "k6dFhsLFYUA",
+      "title": "260605 174735 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-06-05T11:22:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k6dFhsLFYUA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k6dFhsLFYUA"
+    },
+    {
+      "id": "cOqHuu-ZK7I",
+      "title": "260605 174225 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-06-05T11:08:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cOqHuu-ZK7I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cOqHuu-ZK7I"
+    },
     {
       "id": "nWFyLzy_1qo",
       "title": "260604 154423 大内第１踏切",

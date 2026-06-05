@@ -1,8 +1,44 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-06-04T17:46:40.868531",
+  "updated_at": "2026-06-05T17:21:10.645367",
   "videos": [
+    {
+      "id": "vH4Efbnmo_s",
+      "title": "【見逃し】山形市・夜のさくらんぼ狩り園から生中継　中野暁アナウンサー",
+      "description": "",
+      "publishedAt": "2026-06-05T09:50:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vH4Efbnmo_s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vH4Efbnmo_s"
+    },
+    {
+      "id": "YeULA62Wa2c",
+      "title": "【オンライン版で復活！「やまがた検定」に挑戦】ゴジダス特集",
+      "description": "",
+      "publishedAt": "2026-06-05T07:04:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YeULA62Wa2c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YeULA62Wa2c"
+    },
+    {
+      "id": "3o90CXDIcBw",
+      "title": "汗をかきながらでも食べたい！あんかけ特集",
+      "description": "",
+      "publishedAt": "2026-06-05T01:52:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3o90CXDIcBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3o90CXDIcBw"
+    },
     {
       "id": "lPIlwxCshfQ",
       "title": "【山形県で絶品あんかけ料理！】あんかけ焼きそば、ふわふわえびチリソースチャーハン、金多楼のスーラータンメン玉子とじ YTSゴジダス水曜情報局",

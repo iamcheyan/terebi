@@ -1,8 +1,44 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-06-04T17:46:52.416306",
+  "updated_at": "2026-06-05T17:21:04.373316",
   "videos": [
+    {
+      "id": "MqmRpomF4X4",
+      "title": "「やすとものいたって真剣です」6月11日（木）よる11時17分放送！",
+      "description": "",
+      "publishedAt": "2026-06-05T07:50:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MqmRpomF4X4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MqmRpomF4X4"
+    },
+    {
+      "id": "LMIH7rTTAiE",
+      "title": "「相席食堂」6月9日（火）よる放送！",
+      "description": "",
+      "publishedAt": "2026-06-05T05:53:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LMIH7rTTAiE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LMIH7rTTAiE"
+    },
+    {
+      "id": "rTiFZJQn3W4",
+      "title": "ロコレコは北海道へ！ゲストの旅は高橋ユウ！「旅サラダ」6月6日（土）放送",
+      "description": "",
+      "publishedAt": "2026-06-05T01:20:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rTiFZJQn3W4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rTiFZJQn3W4"
+    },
     {
       "id": "hvSDxJZ6CVM",
       "title": "借金200万、衝撃の使い道!?",

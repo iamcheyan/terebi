@@ -1,8 +1,68 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-06-04T17:47:13.477248",
+  "updated_at": "2026-06-05T17:21:37.187792",
   "videos": [
+    {
+      "id": "2OH-cSHMDiU",
+      "title": "「おぼろ昆布の佃煮サラちゃん×ときめくおうちごはん」2026/6/5放送",
+      "description": "",
+      "publishedAt": "2026-06-05T10:10:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2OH-cSHMDiU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2OH-cSHMDiU"
+    },
+    {
+      "id": "rA6V20mxgBg",
+      "title": "「大豊町の嶺北木材協同組合 大径材を加工できる製材ライン完成」2026/6/5放送",
+      "description": "",
+      "publishedAt": "2026-06-05T10:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rA6V20mxgBg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rA6V20mxgBg"
+    },
+    {
+      "id": "JcMJ7kOGV7g",
+      "title": "土佐酒アドバイザー「こうちeye More！×フカボリ」2026/6/5放送",
+      "description": "",
+      "publishedAt": "2026-06-05T08:57:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JcMJ7kOGV7g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JcMJ7kOGV7g"
+    },
+    {
+      "id": "8PKC_vhBQ0o",
+      "title": "「菊地美香のとなりの席、あいてます。」6/5は「昭和歌謡」について話してます🌟",
+      "description": "",
+      "publishedAt": "2026-06-05T03:42:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8PKC_vhBQ0o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8PKC_vhBQ0o"
+    },
+    {
+      "id": "B74WVyVyv90",
+      "title": "「ヤマアのお碗」高知グルメ×ぐるぐるこうち",
+      "description": "",
+      "publishedAt": "2026-06-05T00:29:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B74WVyVyv90/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B74WVyVyv90"
+    },
     {
       "id": "SZIuR91mf6c",
       "title": "「《清掃しながら防災意識高めよう！》清掃防災さんぽ」2026/6/4放送",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-06-04T17:47:18.769805",
+  "updated_at": "2026-06-05T17:21:42.030774",
   "videos": [
+    {
+      "id": "ZGZGvgMtnRo",
+      "title": "【吉住】正論すぎるツッコミ【なかやまきんに君】",
+      "description": "",
+      "publishedAt": "2026-06-05T11:30:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZGZGvgMtnRo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZGZGvgMtnRo"
+    },
+    {
+      "id": "QAHd1lg1mXk",
+      "title": "【開催迫る】ピアニスト亀井聖矢 緊急メッセージ【6.19(金)@アクロス福岡】",
+      "description": "",
+      "publishedAt": "2026-06-05T03:09:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QAHd1lg1mXk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QAHd1lg1mXk"
+    },
     {
       "id": "Bpk9igh8Cro",
       "title": "【夢クルーズ】610 永利牛乳 まきばの家(2026年6月4日放送)",

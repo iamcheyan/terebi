@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-06-02T18:40:58.814047",
+  "updated_at": "2026-06-05T17:21:04.120649",
   "videos": [
+    {
+      "id": "am8V9IfLkc8",
+      "title": "【京都市会】令和8年5月市会 / 代表質問",
+      "description": "",
+      "publishedAt": "2026-06-05T02:22:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/am8V9IfLkc8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=am8V9IfLkc8"
+    },
     {
       "id": "RBXqM0EQQQ0",
       "title": "AIインテリアシミュレーターを活用した新しい家具選びを提案する「フレーバー」を取材／京都企業ビジット!!",

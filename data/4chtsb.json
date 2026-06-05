@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-06-01T19:57:10.773433",
+  "updated_at": "2026-06-05T17:21:41.251420",
   "videos": [
+    {
+      "id": "E-KvIcwvLFs",
+      "title": "フードドライブ統一キャンペーン",
+      "description": "",
+      "publishedAt": "2026-06-05T07:34:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E-KvIcwvLFs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E-KvIcwvLFs"
+    },
     {
       "id": "qKKGR2ZyUIE",
       "title": "再放送決定！　#turkey",
