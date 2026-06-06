@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAhZnTMHk-TPyDzT0rt34IQ",
   "channel_name": "KKB鹿児島放送",
-  "updated_at": "2026-06-05T17:21:31.011360",
+  "updated_at": "2026-06-06T16:07:45.889995",
   "videos": [
+    {
+      "id": "42RPfZ-cjMk",
+      "title": "【極真空手】第42回オープントーナメント鹿児島県空手道選手権大会",
+      "description": "",
+      "publishedAt": "2026-06-06T13:04:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/42RPfZ-cjMk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=42RPfZ-cjMk"
+    },
     {
       "id": "yt6miWcXiDA",
       "title": "【ビアガーデンで乾杯！】食べ放題・飲み放題・ライブも！！満月のビアガーデンから中継 －オプシアミスミ－ ～週末イチオシ！Live 6月5日号～",
