@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-06-05T17:21:41.761693",
+  "updated_at": "2026-06-07T16:20:03.313450",
   "videos": [
+    {
+      "id": "Igz7DI4jCss",
+      "title": "今日の５きげんテレビ（6月8日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-06-07T15:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Igz7DI4jCss/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Igz7DI4jCss"
+    },
     {
       "id": "a9349NKkPmc",
       "title": "いわて味技マルシェ ～ごとうさくら混ぜご飯の素とみそっこサブレ～",

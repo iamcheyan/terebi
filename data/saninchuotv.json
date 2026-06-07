@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-06-04T17:46:37.252989",
+  "updated_at": "2026-06-07T16:19:21.773348",
   "videos": [
+    {
+      "id": "gRvn9jROgTY",
+      "title": "予告『ゴルフ☆パラダイス - THE GAME CHANGER -』6月14日（日）6：30～放送",
+      "description": "",
+      "publishedAt": "2026-06-06T22:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gRvn9jROgTY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gRvn9jROgTY"
+    },
     {
       "id": "0DTlkqIVF1s",
       "title": "【しまねっこの宅配便X】#07「病気を早期発見！～県立中央病院・高機能ドック～」",
