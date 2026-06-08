@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-06-07T16:19:06.586036",
+  "updated_at": "2026-06-08T17:56:15.894895",
   "videos": [
+    {
+      "id": "argM2nVVd5g",
+      "title": "【6/8(月) 男子 決勝・３位決定戦】愛媛県高校総体２０２６バレーボール競技",
+      "description": "",
+      "publishedAt": "2026-06-08T07:20:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/argM2nVVd5g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=argM2nVVd5g"
+    },
+    {
+      "id": "rgvHA7cBlM0",
+      "title": "【6/8(月) 女子 決勝・３位決定戦】愛媛県高校総体２０２６バレーボール競技",
+      "description": "",
+      "publishedAt": "2026-06-08T07:16:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rgvHA7cBlM0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rgvHA7cBlM0"
+    },
     {
       "id": "BdLxgn0jUNQ",
       "title": "【6/7(日) 女子 準決勝】愛媛県高校総体２０２６バレーボール競技",

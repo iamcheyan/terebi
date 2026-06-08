@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-06-07T16:19:58.528277",
+  "updated_at": "2026-06-08T17:57:02.537896",
   "videos": [
+    {
+      "id": "vKimZm-tGnU",
+      "title": "【番宣】６月１０日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-08T06:58:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vKimZm-tGnU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vKimZm-tGnU"
+    },
+    {
+      "id": "Wc-RT87oUwk",
+      "title": "【番宣】６月１７日（水）ＪＡ共済スポーツスペシャル 輝け！高校生アスリート",
+      "description": "",
+      "publishedAt": "2026-06-08T04:26:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wc-RT87oUwk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wc-RT87oUwk"
+    },
     {
       "id": "op8DzP9RJcY",
       "title": "第105回 めざせ！くまもとの若き匠たち【小川工業高校 土木科】",

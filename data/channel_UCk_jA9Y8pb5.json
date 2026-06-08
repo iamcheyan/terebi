@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-06-05T17:21:14.559845",
+  "updated_at": "2026-06-08T17:56:23.698837",
   "videos": [
+    {
+      "id": "YxB4OpZsaFY",
+      "title": "タイムトラベラー・ジョナゴールドの青森満喫フルコース旅②",
+      "description": "",
+      "publishedAt": "2026-06-08T01:21:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YxB4OpZsaFY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YxB4OpZsaFY"
+    },
+    {
+      "id": "r2yDaK1moL4",
+      "title": "タイムトラベラー・ジョナゴールドの青森フルコース旅①",
+      "description": "",
+      "publishedAt": "2026-06-08T01:15:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r2yDaK1moL4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r2yDaK1moL4"
+    },
     {
       "id": "LVHiQGsqbF0",
       "title": "白菜300gがペロリ！？食べ応え満点の辛みあんかけ【ヘルシーうれしー】",
