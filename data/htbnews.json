@@ -1,8 +1,188 @@
 {
   "channel_id": "UCSWOnDD1KIriGmyQ7SgNA4A",
   "channel_name": "HTB Hokkaido News",
-  "updated_at": "2026-06-08T17:56:51.911632",
+  "updated_at": "2026-06-09T17:26:14.989306",
   "videos": [
+    {
+      "id": "RoN03X8iVrY",
+      "title": "【LIVE】６月９日（火）お昼の北海道のニュースとお天気",
+      "description": "",
+      "publishedAt": "2026-06-09T16:26:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RoN03X8iVrY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RoN03X8iVrY"
+    },
+    {
+      "id": "uVaZiGJItSs",
+      "title": "共同住宅で大麻栽培・所持か 乾燥大麻だけで末端価格515万円 飲食店経営３９歳の男逮捕 容疑の一部否認",
+      "description": "",
+      "publishedAt": "2026-06-09T14:39:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uVaZiGJItSs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uVaZiGJItSs"
+    },
+    {
+      "id": "qE-LY4arBN4",
+      "title": "「ギャンブルに使った」 函館市競輪事業部職員、160万円詐取の疑いで送検　他にも余罪の可能性",
+      "description": "",
+      "publishedAt": "2026-06-09T09:14:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qE-LY4arBN4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qE-LY4arBN4"
+    },
+    {
+      "id": "4_Ku3vHf7FU",
+      "title": "「自身の所有物」と主張　羅臼漁協の天然コンブを横領した罪、元職員の男に懲役1年6カ月の判決　釧路地裁",
+      "description": "",
+      "publishedAt": "2026-06-09T09:06:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4_Ku3vHf7FU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4_Ku3vHf7FU"
+    },
+    {
+      "id": "5SdCMWF0p8k",
+      "title": "銃駆除で日当2万円 北海道、クマ駆除行う「ガバメントハンター」への手当新設へ　条例案を道議会に提出予定",
+      "description": "",
+      "publishedAt": "2026-06-09T09:05:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5SdCMWF0p8k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5SdCMWF0p8k"
+    },
+    {
+      "id": "aVy25fLo8zo",
+      "title": "イカ消滅の危機…救世主なるか？「海のダイヤ」の豊漁で直面する矛盾　ピンチを乗り越える鍵は函館の歴史に",
+      "description": "",
+      "publishedAt": "2026-06-09T08:57:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aVy25fLo8zo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aVy25fLo8zo"
+    },
+    {
+      "id": "AjX28dSpiHM",
+      "title": "「自身の所有物」と主張　羅臼漁協の天然コンブを横領した罪、元職員の男に懲役1年6カ月の判決　釧路地裁",
+      "description": "",
+      "publishedAt": "2026-06-09T08:56:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AjX28dSpiHM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AjX28dSpiHM"
+    },
+    {
+      "id": "gvnCMRpzqns",
+      "title": "銃駆除で日当2万円 北海道、クマ駆除行う「ガバメントハンター」への手当新設へ　条例案を道議会に提出予定",
+      "description": "",
+      "publishedAt": "2026-06-09T08:43:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gvnCMRpzqns/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gvnCMRpzqns"
+    },
+    {
+      "id": "UQtKLloAAzA",
+      "title": "糖度13度超えの甘さ！「らいでんスイカ」初競りで過去最高値の2玉40万円を記録",
+      "description": "",
+      "publishedAt": "2026-06-09T08:12:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UQtKLloAAzA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UQtKLloAAzA"
+    },
+    {
+      "id": "3lcHP1q2e-o",
+      "title": "札幌・白石区のマンション浴室に20代くらいの女性3人の遺体　燃やされた練炭、自殺の可能性",
+      "description": "",
+      "publishedAt": "2026-06-09T08:11:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3lcHP1q2e-o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3lcHP1q2e-o"
+    },
+    {
+      "id": "cUbay9nhUEM",
+      "title": "空き巣が嫌がる「５分の壁」とは？ロックの日に学ぶ、今すぐできる防犯対策　札幌駅前通地下歩行空間",
+      "description": "",
+      "publishedAt": "2026-06-09T08:11:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cUbay9nhUEM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cUbay9nhUEM"
+    },
+    {
+      "id": "MDIJpttW3j4",
+      "title": "「ギャンブルに使った」 函館市競輪事業部職員、160万円詐取の疑いで送検　他にも余罪の可能性",
+      "description": "",
+      "publishedAt": "2026-06-09T08:04:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MDIJpttW3j4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MDIJpttW3j4"
+    },
+    {
+      "id": "rnIyOaqq1vg",
+      "title": "糖度13度超えの甘さ！「らいでんスイカ」初競りで過去最高値の2玉40万円を記録",
+      "description": "",
+      "publishedAt": "2026-06-09T07:52:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rnIyOaqq1vg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rnIyOaqq1vg"
+    },
+    {
+      "id": "0UiMBtjQ6Fw",
+      "title": "桂田社長「荒れるまでに戻ってくると」出航判断が焦点　知床沖観光船沈没事故　集団訴訟",
+      "description": "",
+      "publishedAt": "2026-06-09T07:22:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0UiMBtjQ6Fw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0UiMBtjQ6Fw"
+    },
+    {
+      "id": "sZ4yq9HpV5s",
+      "title": "空き巣が嫌がる「５分の壁」とは？ロックの日に学ぶ、今すぐできる防犯対策　札幌駅前通地下歩行空間",
+      "description": "",
+      "publishedAt": "2026-06-09T07:03:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sZ4yq9HpV5s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sZ4yq9HpV5s"
+    },
     {
       "id": "DtekY340AH0",
       "title": "札幌市、指定ごみ袋の品薄受け市販の透明・半透明袋でも 回収可能に　6月15日から9月末までの臨時措置",

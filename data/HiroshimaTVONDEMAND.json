@@ -1,8 +1,20 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-06-08T17:56:29.646097",
+  "updated_at": "2026-06-09T17:25:49.743111",
   "videos": [
+    {
+      "id": "mbawZA5FtdQ",
+      "title": "【キッズチャレンジスタジアム】かなたくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-06-09T09:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mbawZA5FtdQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mbawZA5FtdQ"
+    },
     {
       "id": "oQBkRwoobxI",
       "title": "第505回　ひろおく便り　庄原市　時を紡ぐ町家へ ― 東城・三楽荘を訪ねて",

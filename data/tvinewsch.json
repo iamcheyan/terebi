@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-06-08T17:56:11.845988",
+  "updated_at": "2026-06-09T17:25:43.365597",
   "videos": [
+    {
+      "id": "CMLoSZpFaYg",
+      "title": "【Oneスポ】「天然理心流」は実戦を意識した古武術の一つで、幕末には、京の町で活躍した新選組も学んだ流派です",
+      "description": "",
+      "publishedAt": "2026-06-09T08:17:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CMLoSZpFaYg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CMLoSZpFaYg"
+    },
     {
       "id": "uYKGaW57JR8",
       "title": "【フカボリ】森林が焼けたことで大雨による土砂災害のリスクが高まっています",

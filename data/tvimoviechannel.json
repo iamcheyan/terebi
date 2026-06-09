@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-06-08T17:57:07.486071",
+  "updated_at": "2026-06-09T17:26:28.926185",
   "videos": [
+    {
+      "id": "eonWElxXYiQ",
+      "title": "今日の５きげんテレビ（6月10日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-06-09T15:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eonWElxXYiQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eonWElxXYiQ"
+    },
+    {
+      "id": "uOnPA7p9haM",
+      "title": "重茂でウニの殻剥き体験 | ごきげんバスツアー",
+      "description": "",
+      "publishedAt": "2026-06-09T10:12:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uOnPA7p9haM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uOnPA7p9haM"
+    },
+    {
+      "id": "2BayUeSHRzs",
+      "title": "さっぱりレモンとシーフードの和風パスタ  | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-06-09T08:28:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2BayUeSHRzs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2BayUeSHRzs"
+    },
     {
       "id": "kiesOXEzB9o",
       "title": "今日の５きげんテレビ（6月9日）｜テレビ岩手",

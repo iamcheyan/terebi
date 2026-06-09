@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-06-08T17:56:25.007249",
+  "updated_at": "2026-06-09T17:26:05.656939",
   "videos": [
+    {
+      "id": "bJLm5zPE16Q",
+      "title": "Nebraska Baseball's Drew Grego Named Freshman All-American",
+      "description": "",
+      "publishedAt": "2026-06-08T22:18:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bJLm5zPE16Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bJLm5zPE16Q"
+    },
+    {
+      "id": "lIvJP8R11BI",
+      "title": "Nebraska Softball Turns to Transfer Portal to Reload After Women's College World Series Run",
+      "description": "",
+      "publishedAt": "2026-06-08T22:05:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lIvJP8R11BI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lIvJP8R11BI"
+    },
     {
       "id": "XRbk1Ijzqdc",
       "title": "Nebraska Baseball Adds Transfer Portal Talent While Facing Key Departure",
