@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-06-03T18:46:13.700732",
+  "updated_at": "2026-06-10T17:58:52.087216",
   "videos": [
+    {
+      "id": "AHozyJomWdg",
+      "title": "【6月5日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-06-10T03:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AHozyJomWdg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AHozyJomWdg"
+    },
     {
       "id": "AdRMTQLSHmk",
       "title": "KOBOトレイル2026 ～弘法大師の道を走る～",

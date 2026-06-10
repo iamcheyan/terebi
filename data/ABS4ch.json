@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-06-09T17:26:11.207491",
+  "updated_at": "2026-06-10T17:59:18.179336",
   "videos": [
+    {
+      "id": "RzbR0GzeN6o",
+      "title": "６月１０日（水）秋田県内のニュースヘッドライン",
+      "description": "",
+      "publishedAt": "2026-06-10T04:22:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RzbR0GzeN6o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RzbR0GzeN6o"
+    },
+    {
+      "id": "KOIi9jkBDjY",
+      "title": "【特集】秋田・水難救助隊初の女性隊員 潜水訓練に密着",
+      "description": "",
+      "publishedAt": "2026-06-10T02:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KOIi9jkBDjY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KOIi9jkBDjY"
+    },
+    {
+      "id": "wxOB88vFofM",
+      "title": "【処分】顧客から350万横領 JA秋田やまもと職員「遊興費に使った」",
+      "description": "",
+      "publishedAt": "2026-06-10T01:15:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wxOB88vFofM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wxOB88vFofM"
+    },
+    {
+      "id": "_uwvLkBzads",
+      "title": "【処分】部下にパワハラ 秋田海保の職員減給",
+      "description": "",
+      "publishedAt": "2026-06-10T01:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_uwvLkBzads/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_uwvLkBzads"
+    },
+    {
+      "id": "byGiPb89Go0",
+      "title": "【特集】マタギ感じるクマ変化「イノシシに追われて里へ」",
+      "description": "",
+      "publishedAt": "2026-06-10T00:31:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/byGiPb89Go0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=byGiPb89Go0"
+    },
+    {
+      "id": "nBEZMihUooE",
+      "title": "【クマ】由利本荘市に連日出没 スナック「客が全然来ない」",
+      "description": "",
+      "publishedAt": "2026-06-10T00:25:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nBEZMihUooE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nBEZMihUooE"
+    },
     {
       "id": "nTmEAYyZEpU",
       "title": "【クマ】玄関出たらクマ 女性転倒しけが・由利本荘市",

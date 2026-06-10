@@ -1,8 +1,56 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-06-09T17:26:32.336648",
+  "updated_at": "2026-06-10T17:59:40.887712",
   "videos": [
+    {
+      "id": "mDVWBctUqEI",
+      "title": "愛媛のニュース(06月10日)",
+      "description": "",
+      "publishedAt": "2026-06-10T11:42:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mDVWBctUqEI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mDVWBctUqEI"
+    },
+    {
+      "id": "1WMD1sr-4ps",
+      "title": "【愛媛・新居浜市】全国唯一！”幻のサツマイモ”七福芋の苗植え",
+      "description": "",
+      "publishedAt": "2026-06-10T09:30:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1WMD1sr-4ps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1WMD1sr-4ps"
+    },
+    {
+      "id": "W7wqoSJ_qNQ",
+      "title": "【愛媛・鬼北町】93年間の歴史に幕 世界的な建築家・隈研吾氏による新駅舎へ",
+      "description": "",
+      "publishedAt": "2026-06-10T09:30:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W7wqoSJ_qNQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W7wqoSJ_qNQ"
+    },
+    {
+      "id": "ftZdOTLfMpM",
+      "title": "【愛媛・新居浜市】池田池公園のハナショウブ5万本とアジサイの絶景コラボ！",
+      "description": "",
+      "publishedAt": "2026-06-10T09:30:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ftZdOTLfMpM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ftZdOTLfMpM"
+    },
     {
       "id": "YBV3d1IXmHw",
       "title": "愛媛のニュース(06月09日)",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-06-09T17:26:31.291711",
+  "updated_at": "2026-06-10T17:59:39.432830",
   "videos": [
+    {
+      "id": "e4w5CwBikjg",
+      "title": "みんテレ　6月11日（木）放送",
+      "description": "",
+      "publishedAt": "2026-06-10T10:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e4w5CwBikjg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e4w5CwBikjg"
+    },
     {
       "id": "03mzQGu71OI",
       "title": "＃１「北海道マラソンのコースの魅力」",

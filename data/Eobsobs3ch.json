@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-06-09T17:26:23.008411",
+  "updated_at": "2026-06-10T17:59:30.379495",
   "videos": [
+    {
+      "id": "RKODSTjndVY",
+      "title": "【大分市】宮崎炭火焼 えれこっちゃ（2026年5月27日放送分）",
+      "description": "",
+      "publishedAt": "2026-06-10T00:58:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RKODSTjndVY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RKODSTjndVY"
+    },
     {
       "id": "uv-qfkSh5ec",
       "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年6月8日放送分】",

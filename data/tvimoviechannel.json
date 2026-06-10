@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-06-09T17:26:28.926185",
+  "updated_at": "2026-06-10T17:59:36.858113",
   "videos": [
+    {
+      "id": "LVv7bb_r6iU",
+      "title": "今日の５きげんテレビ（6月11日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-06-10T15:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LVv7bb_r6iU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LVv7bb_r6iU"
+    },
+    {
+      "id": "RxkXQLbw6DY",
+      "title": "ちらしそば  | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-06-10T10:04:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RxkXQLbw6DY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RxkXQLbw6DY"
+    },
     {
       "id": "eonWElxXYiQ",
       "title": "今日の５きげんテレビ（6月10日）｜テレビ岩手",
