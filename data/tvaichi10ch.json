@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-06-10T17:59:13.473998",
+  "updated_at": "2026-06-11T18:16:58.929835",
   "videos": [
+    {
+      "id": "S49cGIvTIqo",
+      "title": "シリーズ【クルマのシートで描くミライ】クルマ技術で快適スポーツ観戦！【クルマとミライ】",
+      "description": "",
+      "publishedAt": "2026-06-11T14:06:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S49cGIvTIqo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S49cGIvTIqo"
+    },
+    {
+      "id": "IozN_GQBJLI",
+      "title": "アカリノコマド（2026年6月10日放送）",
+      "description": "",
+      "publishedAt": "2026-06-11T12:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IozN_GQBJLI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IozN_GQBJLI"
+    },
     {
       "id": "IACrlR33X9A",
       "title": "【癒し】SKE48大村杏＆浅井裕華が“推し犬”と2ショットチェキ撮影！！│ 愛知あたりまえ倶楽部",

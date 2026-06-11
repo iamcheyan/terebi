@@ -1,9 +1,20 @@
 {
   "channel_id": "UCA0x9FFb02x6B7ZQj1gIG7Q",
-  "channel_name": "Ayano's Japanese Learning Hub",
-  "original_name": "あやの〻日本語学習チャンネル𓂃𖧷",
-  "updated_at": "2026-06-10T18:02:53.449437",
+  "channel_name": "あやの〻日本語学習チャンネル𓂃𖧷",
+  "updated_at": "2026-06-11T18:17:51.832312",
   "videos": [
+    {
+      "id": "ff7XJdkhRV0",
+      "title": "【N3-N2】Real Japan: 7 Huge Changes in 30 Years | Japanese Listening Podcast #98",
+      "description": "",
+      "publishedAt": "2026-06-11T10:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ff7XJdkhRV0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ff7XJdkhRV0"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "v8zqHIf3ov61bP2ytxKDzBshE8o",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-10T17:59:45.161662",
+  "updated_at": "2026-06-11T18:17:57.116514",
   "videos": [
+    {
+      "id": "9gWgYnEWpPk",
+      "title": "260611 181111 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-06-11T12:58:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9gWgYnEWpPk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9gWgYnEWpPk"
+    },
+    {
+      "id": "3UHQoTYbk2s",
+      "title": "260611 180548 深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-06-11T12:35:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3UHQoTYbk2s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3UHQoTYbk2s"
+    },
+    {
+      "id": "F0jWFVxn9w8",
+      "title": "260611 175608 鬼列車（深田駅）",
+      "description": "",
+      "publishedAt": "2026-06-11T12:25:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F0jWFVxn9w8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F0jWFVxn9w8"
+    },
     {
       "id": "ugITTMkgLZM",
       "title": "260610 175635 元宗踏切 ２",

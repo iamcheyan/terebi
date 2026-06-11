@@ -1,8 +1,116 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-06-10T17:59:31.684169",
+  "updated_at": "2026-06-11T18:17:31.336927",
   "videos": [
+    {
+      "id": "TbMNnlmPwm4",
+      "title": "「部活遠征の安全、どう守る？磐越道バス事故から1か月 高知県内の現状は」2026/6/11放送",
+      "description": "",
+      "publishedAt": "2026-06-11T10:47:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TbMNnlmPwm4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TbMNnlmPwm4"
+    },
+    {
+      "id": "gs8WrD-ZSy4",
+      "title": "「《青切符制度導入から約2か月》高知県内の傾向は？」2026/6/11放送",
+      "description": "",
+      "publishedAt": "2026-06-11T10:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gs8WrD-ZSy4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gs8WrD-ZSy4"
+    },
+    {
+      "id": "YVPo_VCymyU",
+      "title": "「《おまちDEおもてなし》外国人観光客が浴衣で高知を満喫」2026/6/11放送",
+      "description": "",
+      "publishedAt": "2026-06-11T10:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YVPo_VCymyU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YVPo_VCymyU"
+    },
+    {
+      "id": "7ZnTA_SArIo",
+      "title": "「特別支援学校でよさこいメダル作り」2026/6/11放送",
+      "description": "",
+      "publishedAt": "2026-06-11T10:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7ZnTA_SArIo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7ZnTA_SArIo"
+    },
+    {
+      "id": "VBrnuar4Zvg",
+      "title": "「6/12(金)放送 きいてMIHOちゃんねる」",
+      "description": "",
+      "publishedAt": "2026-06-11T07:52:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VBrnuar4Zvg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VBrnuar4Zvg"
+    },
+    {
+      "id": "JDLnFNlqnjM",
+      "title": "「大豊町の嶺北林材協同組合 大径材を加工できる製材ライン完成」2026/6/5放送",
+      "description": "",
+      "publishedAt": "2026-06-11T03:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JDLnFNlqnjM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JDLnFNlqnjM"
+    },
+    {
+      "id": "HdzaHXSbc1E",
+      "title": "「《6月は環境月間》約700人が高知市内を一斉清掃」2026/6/11放送",
+      "description": "",
+      "publishedAt": "2026-06-11T03:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HdzaHXSbc1E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HdzaHXSbc1E"
+    },
+    {
+      "id": "T-ZPww6TF54",
+      "title": "「W杯3度出場 酒井宏樹選手らが小学生に夢授業 競技との向き合い方から夢の実現について学ぶ」2026/6/11放送",
+      "description": "",
+      "publishedAt": "2026-06-11T03:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T-ZPww6TF54/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T-ZPww6TF54"
+    },
+    {
+      "id": "5hDG1O_RMZU",
+      "title": "「菊地美香のとなりの席、あいてます。」6/12は「カリー🍛好きだよね？」🌟",
+      "description": "",
+      "publishedAt": "2026-06-11T01:31:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5hDG1O_RMZU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5hDG1O_RMZU"
+    },
     {
       "id": "Gr3Z2KA0nsA",
       "title": "「新高知県民体育館の最終案まとまる」2026/6/10放送",

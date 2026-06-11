@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-06-10T17:58:47.701342",
+  "updated_at": "2026-06-11T18:17:02.914305",
   "videos": [
+    {
+      "id": "5mEn7yhfeqw",
+      "title": "元気○（マル）らいふ　【プロが指南　エアコン賢く使おう】（2026/6/10放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-06-11T08:35:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5mEn7yhfeqw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5mEn7yhfeqw"
+    },
     {
       "id": "FWBDvRArxCA",
       "title": "【ネコ研究】岩手大学農学部にネコの研究で国内外で注目を集める研究室があります",

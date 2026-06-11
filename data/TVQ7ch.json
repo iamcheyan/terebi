@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-06-09T17:26:29.223401",
+  "updated_at": "2026-06-11T18:17:40.659304",
   "videos": [
+    {
+      "id": "TyrXQm6_KLA",
+      "title": "【夢クルーズ】611 大聖寺(2026年6月11日放送)",
+      "description": "",
+      "publishedAt": "2026-06-11T12:59:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TyrXQm6_KLA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TyrXQm6_KLA"
+    },
+    {
+      "id": "TNlLbioZ7s0",
+      "title": "【ヒント】冒頭の「ティー！」は笛の音です",
+      "description": "",
+      "publishedAt": "2026-06-11T11:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TNlLbioZ7s0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TNlLbioZ7s0"
+    },
     {
       "id": "8X1yS_TFK6U",
       "title": "【ヒント】10秒まで見たらわかるかも！？",
