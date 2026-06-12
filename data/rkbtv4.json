@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk0ErOa1N6CXes8l81lrTUg",
   "channel_name": "RKB毎日放送",
-  "updated_at": "2026-06-10T17:59:31.337008",
+  "updated_at": "2026-06-12T17:39:40.866934",
   "videos": [
+    {
+      "id": "sFwKkjmxURk",
+      "title": "松重豊×井桁弘恵　いやしのチェジュ　～福岡から1時間　自然と美食満喫！～　6月17日(水) よる7時57分放送",
+      "description": "",
+      "publishedAt": "2026-06-12T08:02:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sFwKkjmxURk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sFwKkjmxURk"
+    },
+    {
+      "id": "ToUkjMIvf-Q",
+      "title": "ムーブ「さよなら、みんなのホーム～再開発の影で消えゆく居場所～」｜6月21日（日）あさ5時放送",
+      "description": "",
+      "publishedAt": "2026-06-12T03:51:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ToUkjMIvf-Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ToUkjMIvf-Q"
+    },
     {
       "id": "3yWIM4KPg24",
       "title": "全国1万人が選ぶ！福岡屋台ランキングTOP20 / まじもん！ 水曜よる7時",

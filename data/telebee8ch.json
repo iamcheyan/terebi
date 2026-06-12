@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-06-11T18:17:37.806031",
+  "updated_at": "2026-06-12T17:39:45.008092",
   "videos": [
+    {
+      "id": "XAfumFal3Dk",
+      "title": "【公式】2026年6月19日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-06-12T11:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XAfumFal3Dk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XAfumFal3Dk"
+    },
+    {
+      "id": "qJm7R_sWmN8",
+      "title": "【公式】「はじめての熱唱」（06月12日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-06-12T03:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qJm7R_sWmN8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qJm7R_sWmN8"
+    },
     {
       "id": "8tIM57xS5pI",
       "title": "【きっと青春の１ページ】#10 福岡女子高等学校　ソフトボール部",

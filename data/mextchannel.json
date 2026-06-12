@@ -1,8 +1,32 @@
 {
   "channel_id": "UCL2DLwqqYxa0Q5DcGoQGbrw",
   "channel_name": "文部科学省（MEXT）",
-  "updated_at": "2026-06-10T17:58:46.596800",
+  "updated_at": "2026-06-12T17:38:57.473603",
   "videos": [
+    {
+      "id": "bXOaycmX08Q",
+      "title": "【Ｈ3ロケット6号機（30形態試験機）打上げ成功】",
+      "description": "",
+      "publishedAt": "2026-06-12T09:25:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bXOaycmX08Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bXOaycmX08Q"
+    },
+    {
+      "id": "t31AwS5iFlA",
+      "title": "松本文部科学大臣記者会見（令和8年6月12日）：文部科学省",
+      "description": "",
+      "publishedAt": "2026-06-12T02:21:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t31AwS5iFlA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t31AwS5iFlA"
+    },
     {
       "id": "L2JFrUmZExA",
       "title": "高校・大学・企業が連携する国際協働探究の実践（筑波大学附属坂戸高等学校）",

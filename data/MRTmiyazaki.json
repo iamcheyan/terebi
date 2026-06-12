@@ -1,8 +1,56 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-06-11T18:17:24.811636",
+  "updated_at": "2026-06-12T17:39:37.448411",
   "videos": [
+    {
+      "id": "4nnNDWs-ubA",
+      "title": "けんかでGO!GO!2026年6月5日放送",
+      "description": "",
+      "publishedAt": "2026-06-12T02:47:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4nnNDWs-ubA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4nnNDWs-ubA"
+    },
+    {
+      "id": "GrxoskvAwwM",
+      "title": "けんかでGO!GO!2026年5月29日放送",
+      "description": "",
+      "publishedAt": "2026-06-12T02:40:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GrxoskvAwwM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GrxoskvAwwM"
+    },
+    {
+      "id": "9FD8AwLV4O4",
+      "title": "けんかでGO!GO!2026年5月22日放送",
+      "description": "",
+      "publishedAt": "2026-06-12T02:40:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9FD8AwLV4O4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9FD8AwLV4O4"
+    },
+    {
+      "id": "lnW4JdExd2U",
+      "title": "けんかでGO!GO!2026年5月15日放送",
+      "description": "",
+      "publishedAt": "2026-06-12T02:30:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lnW4JdExd2U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lnW4JdExd2U"
+    },
     {
       "id": "uhsFIlMGVGo",
       "title": "社長と社員が本音でカタル　トップ＆ビギナー　第2回　巴設備工業株式会社",

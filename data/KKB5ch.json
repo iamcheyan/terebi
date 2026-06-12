@@ -1,8 +1,92 @@
 {
   "channel_id": "UCAhZnTMHk-TPyDzT0rt34IQ",
   "channel_name": "KKB鹿児島放送",
-  "updated_at": "2026-06-11T18:17:18.764345",
+  "updated_at": "2026-06-12T17:39:32.914850",
   "videos": [
+    {
+      "id": "cYx0_NpJrt0",
+      "title": "【復活40年のきらめき】伝統と新しさが息づく薩摩切子の世界へ！エコなカット体験も！！ －霧島市・ART DESHIMARU－ ～週末イチオシ！Live 6月12日号～",
+      "description": "",
+      "publishedAt": "2026-06-12T14:14:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cYx0_NpJrt0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cYx0_NpJrt0"
+    },
+    {
+      "id": "SIt3knclIWk",
+      "title": "【川島葉留美の漢方相談】五十肩(6月12日放送)",
+      "description": "",
+      "publishedAt": "2026-06-12T14:11:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SIt3knclIWk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SIt3knclIWk"
+    },
+    {
+      "id": "H6jiAzFfMgU",
+      "title": "就活応援キャンペーン「カゴシマシゴト」”中外電工株式会社”",
+      "description": "",
+      "publishedAt": "2026-06-12T12:41:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H6jiAzFfMgU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H6jiAzFfMgU"
+    },
+    {
+      "id": "pihRs46jWRs",
+      "title": "就活応援キャンペーン「カゴシマシゴト」”株式会社鹿栄電設”",
+      "description": "",
+      "publishedAt": "2026-06-12T12:36:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pihRs46jWRs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pihRs46jWRs"
+    },
+    {
+      "id": "rAdFU4J7j8Q",
+      "title": "H3ロケット6号機 打ち上げ【種子島宇宙センター】",
+      "description": "",
+      "publishedAt": "2026-06-12T01:32:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rAdFU4J7j8Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rAdFU4J7j8Q"
+    },
+    {
+      "id": "GjzXarc6RJA",
+      "title": "え、ここ寿司屋だよね…！？マニアも驚く「だし巻きタマゴサンド」",
+      "description": "",
+      "publishedAt": "2026-06-11T23:10:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GjzXarc6RJA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GjzXarc6RJA"
+    },
+    {
+      "id": "c1cbWNMPeMo",
+      "title": "【かご探】みんなで守る美しい川～みんなの水辺サポーター～ (6月6日放送)",
+      "description": "",
+      "publishedAt": "2026-06-11T23:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c1cbWNMPeMo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c1cbWNMPeMo"
+    },
     {
       "id": "SRA5qj3ei6g",
       "title": "H3ロケット6号機 打ち上げライブ配信【種子島宇宙センター】",

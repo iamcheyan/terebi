@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiyk6cY1ux2HCDycnMTksdg",
   "channel_name": "KYT鹿児島読売テレビ",
-  "updated_at": "2026-06-11T18:17:22.743534",
+  "updated_at": "2026-06-12T17:39:35.980509",
   "videos": [
+    {
+      "id": "GU7N79gOzY0",
+      "title": "【配信】H３ロケット6号機打ち上げ　　[Live] H3 Rocket Unit 6 will be launched",
+      "description": "",
+      "publishedAt": "2026-06-12T13:31:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GU7N79gOzY0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GU7N79gOzY0"
+    },
+    {
+      "id": "WdPwL9n-JJ4",
+      "title": "鹿児島の最新ニュース",
+      "description": "",
+      "publishedAt": "2026-06-11T23:38:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WdPwL9n-JJ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WdPwL9n-JJ4"
+    },
     {
       "id": "DiOa4dRnzGA",
       "title": "【中継】H3ロケット6号機12日に打ち上げへ　“新形態”で失敗からの再起を　種子島宇宙センター",
