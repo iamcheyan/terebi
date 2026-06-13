@@ -1,8 +1,20 @@
 {
   "channel_id": "UCuhA-fogYs0MwglwZbnL_8A",
   "channel_name": "四国放送（JRT）",
-  "updated_at": "2026-06-12T17:39:02.209198",
+  "updated_at": "2026-06-13T16:14:50.061336",
   "videos": [
+    {
+      "id": "X_OmFRomeFY",
+      "title": "【おもっしょいぞう】鳴門マリーンズ",
+      "description": "",
+      "publishedAt": "2026-06-12T21:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X_OmFRomeFY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X_OmFRomeFY"
+    },
     {
       "id": "VaRrwN2PhHs",
       "title": "【徳島】ついに「自動改札なし県」卒業！ 13日運用開始",

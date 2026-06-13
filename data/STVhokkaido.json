@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-06-09T17:26:26.339050",
+  "updated_at": "2026-06-13T16:15:30.950882",
   "videos": [
+    {
+      "id": "oSvqnB_SPX8",
+      "title": "トレンド☆サプリ#178「スーパーガール」",
+      "description": "",
+      "publishedAt": "2026-06-13T12:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oSvqnB_SPX8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oSvqnB_SPX8"
+    },
     {
       "id": "jtVvkU_EvmA",
       "title": "#10　札幌旭丘高校合唱部（後編）",

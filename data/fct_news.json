@@ -1,8 +1,44 @@
 {
   "channel_id": "UC8Y0ZErdlAnA9uW7ZeRdreQ",
   "channel_name": "FCT福島中央テレビNEWS",
-  "updated_at": "2026-06-12T17:39:29.137807",
+  "updated_at": "2026-06-13T16:15:17.831210",
   "videos": [
+    {
+      "id": "AP8pnfPNgLY",
+      "title": "“輝きのアーティスト”中村元風さんの作品展　福島・郡山",
+      "description": "",
+      "publishedAt": "2026-06-13T08:33:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AP8pnfPNgLY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AP8pnfPNgLY"
+    },
+    {
+      "id": "nID13uMVAzQ",
+      "title": "非常ボタン押す体験も!?　JRのお仕事体験会　福島・郡山",
+      "description": "",
+      "publishedAt": "2026-06-13T08:33:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nID13uMVAzQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nID13uMVAzQ"
+    },
+    {
+      "id": "PdXTEYKaw6Y",
+      "title": "郡山市安積2丁目の事故　重軽傷者は4人に　福島",
+      "description": "",
+      "publishedAt": "2026-06-13T08:33:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PdXTEYKaw6Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PdXTEYKaw6Y"
+    },
     {
       "id": "rTWOhQScrLM",
       "title": "旧薬局を改装し開業　南相馬に新たなハンバーガー店　福島",

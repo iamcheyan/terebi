@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-06-12T17:39:19.156679",
+  "updated_at": "2026-06-13T16:15:04.052102",
   "videos": [
+    {
+      "id": "eiWaF9-jvpw",
+      "title": "パティシエ発想！進化系たい焼き 14種類のたい焼きサンドが人気",
+      "description": "",
+      "publishedAt": "2026-06-12T22:30:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eiWaF9-jvpw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eiWaF9-jvpw"
+    },
+    {
+      "id": "Lud4ecpDPx8",
+      "title": "生ドーナツ専門店が山形初上陸！ 口の中でとろける、もちふわ新食感！",
+      "description": "",
+      "publishedAt": "2026-06-12T22:30:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Lud4ecpDPx8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Lud4ecpDPx8"
+    },
     {
       "id": "dNxBY3fINlg",
       "title": "【見逃し】デジタルアクアリウム・米沢市から生中継　和田孝太郎アナウンサー",
