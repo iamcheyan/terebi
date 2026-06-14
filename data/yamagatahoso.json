@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-06-07T16:20:05.925458",
+  "updated_at": "2026-06-14T16:24:57.381329",
   "videos": [
+    {
+      "id": "bb72XA3ivXY",
+      "title": "やまがたサンデー５　６月１４日放送分　輝く県民活躍大賞",
+      "description": "",
+      "publishedAt": "2026-06-14T08:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bb72XA3ivXY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bb72XA3ivXY"
+    },
     {
       "id": "s1ywvYU-xuQ",
       "title": "やまがたサンデー５　６月７日放送分　地域産業を支える人材育成拠点　～県立山形職業能力開発専門校～",

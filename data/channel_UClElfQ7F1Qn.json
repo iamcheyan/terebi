@@ -1,8 +1,32 @@
 {
   "channel_id": "UClElfQ7F1QndkPEFuqrDCLQ",
   "channel_name": "仙台放送ニュースチャンネル",
-  "updated_at": "2026-06-13T16:14:57.134044",
+  "updated_at": "2026-06-14T16:23:57.739208",
   "videos": [
+    {
+      "id": "cDnXH71uRao",
+      "title": "「ゲートボールが日々の楽しみ」宮城県ゲートボール大会　青空の下はつらつプレー (26/06/14 15:00)",
+      "description": "",
+      "publishedAt": "2026-06-14T09:24:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cDnXH71uRao/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cDnXH71uRao"
+    },
+    {
+      "id": "WSCm_9ywNHo",
+      "title": "岩手・宮城内陸地震の発生から１８年　「すごく早い１８年だった」　栗原市で遺族や住民が祈りをささげる (26/06/14 12:05)",
+      "description": "",
+      "publishedAt": "2026-06-14T03:09:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WSCm_9ywNHo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WSCm_9ywNHo"
+    },
     {
       "id": "6uZdkC5c1zk",
       "title": "週末の宮城県内のイベント　障がいの有無にかかわらず楽しむフットサル大会　特産のウメを販売「梅まつり」 (26/06/13 17:35)",

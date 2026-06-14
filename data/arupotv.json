@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-06-13T16:15:28.860095",
+  "updated_at": "2026-06-14T16:24:45.155963",
   "videos": [
+    {
+      "id": "x3TmrUj4cVM",
+      "title": "第106回 めざせ！くまもとの若き匠たち",
+      "description": "",
+      "publishedAt": "2026-06-14T14:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/x3TmrUj4cVM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=x3TmrUj4cVM"
+    },
+    {
+      "id": "AatXw2cdjKU",
+      "title": "第7回 ミライのタネ【八代農業高校 食農創造科】",
+      "description": "",
+      "publishedAt": "2026-06-14T01:19:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AatXw2cdjKU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AatXw2cdjKU"
+    },
     {
       "id": "BeQCgeSWrAI",
       "title": "知っておきたい脳の話～安東先生の医学講座～　第5回 「がんと脳梗塞」",

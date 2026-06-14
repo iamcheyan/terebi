@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7oQ9uMD7914CY7-ZheHrow",
   "channel_name": "山口朝日放送（yab）",
-  "updated_at": "2026-06-11T18:16:45.187466",
+  "updated_at": "2026-06-14T16:24:13.136520",
   "videos": [
+    {
+      "id": "S_zG8WvvwxA",
+      "title": "山口の朝はyab！",
+      "description": "",
+      "publishedAt": "2026-06-14T11:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S_zG8WvvwxA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S_zG8WvvwxA"
+    },
     {
       "id": "7FrO1qxx3Sw",
       "title": "📺️6/14(日)19：54『ポツンと一軒家』",
