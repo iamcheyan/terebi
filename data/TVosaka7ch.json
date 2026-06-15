@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-06-14T16:24:25.537353",
+  "updated_at": "2026-06-15T19:05:13.576867",
   "videos": [
+    {
+      "id": "VtHZB8k7Ehg",
+      "title": "ドラマ「夫に不倫をお願いされました」7月9日(木)深夜24時スタート！",
+      "description": "",
+      "publishedAt": "2026-06-15T03:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VtHZB8k7Ehg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VtHZB8k7Ehg"
+    },
     {
       "id": "YgEGpiwyfgg",
       "title": "食遺産File.250「ししとうのすき焼き風」＠和歌山県・有田川町",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-06-14T16:24:45.155963",
+  "updated_at": "2026-06-15T19:05:42.976378",
   "videos": [
+    {
+      "id": "-WvF70gG3g0",
+      "title": "【番宣】６月１７日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-15T02:54:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-WvF70gG3g0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-WvF70gG3g0"
+    },
+    {
+      "id": "i0RRJ_B_yo0",
+      "title": "【番宣】６月１８日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-15T00:22:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i0RRJ_B_yo0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i0RRJ_B_yo0"
+    },
     {
       "id": "x3TmrUj4cVM",
       "title": "第106回 めざせ！くまもとの若き匠たち",

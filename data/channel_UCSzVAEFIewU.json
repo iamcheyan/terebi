@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-06-13T16:14:40.837279",
+  "updated_at": "2026-06-15T19:04:56.085902",
   "videos": [
+    {
+      "id": "VzaHS00JEWs",
+      "title": "【ゆ～ばら！】飲めなくても楽しめる酒場特集　フレアバーテンダー",
+      "description": "",
+      "publishedAt": "2026-06-15T03:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VzaHS00JEWs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VzaHS00JEWs"
+    },
     {
       "id": "RHxyclNePNI",
       "title": "２０２６愛媛県中学生バレー さだ岬カップ in 伊方町　～夢にむかって　高く翔べ～",

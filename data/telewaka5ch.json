@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-06-13T16:14:53.770568",
+  "updated_at": "2026-06-15T19:05:11.964393",
   "videos": [
+    {
+      "id": "gLATbOoErZ0",
+      "title": "血液の病気―気をつけたいサインと進歩する治療―【わかやま医療ナビ】",
+      "description": "",
+      "publishedAt": "2026-06-15T00:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gLATbOoErZ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gLATbOoErZ0"
+    },
     {
       "id": "zuZCHRSYGXU",
       "title": "和歌山de乾杯! 087 田辺市・輝　Kirari",
