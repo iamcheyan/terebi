@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-06-11T18:17:19.440612",
+  "updated_at": "2026-06-16T18:55:43.184893",
   "videos": [
+    {
+      "id": "9qoWBrAsqJs",
+      "title": "【旬景とやま】里山 命の揺りかご",
+      "description": "",
+      "publishedAt": "2026-06-16T10:41:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9qoWBrAsqJs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9qoWBrAsqJs"
+    },
     {
       "id": "NuMce_iSdCI",
       "title": "【北陸３県イイトコどり~】実は ここで作ってます",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-06-15T19:05:16.038908",
+  "updated_at": "2026-06-16T18:55:23.864329",
   "videos": [
+    {
+      "id": "TaGUUM-X5SA",
+      "title": "われら！シン・呉Tuber＃08「働く女性を応援！」",
+      "description": "",
+      "publishedAt": "2026-06-16T10:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TaGUUM-X5SA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TaGUUM-X5SA"
+    },
+    {
+      "id": "hWOBWjh3SAs",
+      "title": "【キッズチャレンジスタジアム】ちひろくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-06-16T09:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hWOBWjh3SAs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hWOBWjh3SAs"
+    },
     {
       "id": "svHKGIzSvGU",
       "title": "【広島県内の学生を応援】学生専用！物々交換アプリを運営する会社",

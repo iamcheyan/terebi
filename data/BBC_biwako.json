@@ -1,8 +1,44 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-06-15T19:05:21.553770",
+  "updated_at": "2026-06-16T18:55:28.551647",
   "videos": [
+    {
+      "id": "SmzoB9CFRDY",
+      "title": "近江鉄道が創立１３０周年　新キャッチコピーは『鼓動、つくる、つなぐ』",
+      "description": "",
+      "publishedAt": "2026-06-16T09:47:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SmzoB9CFRDY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SmzoB9CFRDY"
+    },
+    {
+      "id": "GSMWW8AZrxw",
+      "title": "スポーツで地域交流　甲賀市の高校生が外国人市民とボッチャ交流会",
+      "description": "",
+      "publishedAt": "2026-06-16T09:44:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GSMWW8AZrxw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GSMWW8AZrxw"
+    },
+    {
+      "id": "IVjLOyB9U0A",
+      "title": "憂鬱な気分でも空を見上げれば「アンブレラ・パティオ」が人気",
+      "description": "",
+      "publishedAt": "2026-06-16T09:43:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IVjLOyB9U0A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IVjLOyB9U0A"
+    },
     {
       "id": "u5ZT0aXVkQo",
       "title": "安土城築城４５０年を盛り上げたい　熱気あふれる奉納祭を！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-06-15T19:05:24.903320",
+  "updated_at": "2026-06-16T18:55:30.774141",
   "videos": [
+    {
+      "id": "5BmvDM7yM0Q",
+      "title": "島田洋七の朝から言わせろ～ローカル線はいつもさわやかです～",
+      "description": "",
+      "publishedAt": "2026-06-16T09:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5BmvDM7yM0Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5BmvDM7yM0Q"
+    },
     {
       "id": "AeFgDJGy3Os",
       "title": "福岡で働くってどう？どんな就職活動した？プライベートは？入社6年目が語る、ぶっちゃけ福岡テレビ業界",

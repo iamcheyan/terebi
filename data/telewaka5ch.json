@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-06-15T19:05:11.964393",
+  "updated_at": "2026-06-16T18:55:29.213558",
   "videos": [
+    {
+      "id": "p2gxa7x576Y",
+      "title": "たなべ未来創造塾 10周年記念シンポジウム 和歌山県田辺市",
+      "description": "",
+      "publishedAt": "2026-06-16T09:49:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p2gxa7x576Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p2gxa7x576Y"
+    },
     {
       "id": "gLATbOoErZ0",
       "title": "血液の病気―気をつけたいサインと進歩する治療―【わかやま医療ナビ】",

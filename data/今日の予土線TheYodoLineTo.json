@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-15T19:05:58.076256",
+  "updated_at": "2026-06-16T18:56:05.230555",
   "videos": [
+    {
+      "id": "YrH8M8voZj4",
+      "title": "260616 114755 鬼列車（務田駅）",
+      "description": "",
+      "publishedAt": "2026-06-16T10:57:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YrH8M8voZj4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YrH8M8voZj4"
+    },
+    {
+      "id": "YQO75_xU1NA",
+      "title": "260616 114403 務田踏切",
+      "description": "",
+      "publishedAt": "2026-06-16T10:54:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YQO75_xU1NA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YQO75_xU1NA"
+    },
+    {
+      "id": "9dFhS7VJxRA",
+      "title": "260616 113843 トンネルを出て務田踏切へ",
+      "description": "",
+      "publishedAt": "2026-06-16T10:49:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9dFhS7VJxRA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9dFhS7VJxRA"
+    },
     {
       "id": "vSLO_8VR5Tk",
       "title": "260615 155124 宮野下第１踏切",

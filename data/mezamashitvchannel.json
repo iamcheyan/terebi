@@ -1,8 +1,32 @@
 {
   "channel_id": "UCrrsHarrLoiLTqu1LHxDJpw",
   "channel_name": "めざましテレビチャンネル（フジテレビ）",
-  "updated_at": "2026-06-15T19:05:01.700280",
+  "updated_at": "2026-06-16T18:55:27.736565",
   "videos": [
+    {
+      "id": "zndWHMU35w4",
+      "title": "【防災】めざましテレビが横浜市とコラボ！高崎春アナが防災授業を実施！",
+      "description": "",
+      "publishedAt": "2026-06-16T08:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zndWHMU35w4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zndWHMU35w4"
+    },
+    {
+      "id": "ivDFlDlZNL4",
+      "title": "【公式】『ちいかわ』第352話「あくむ④」※1週間限定配信＜6/23 (火)AM7:59まで＞",
+      "description": "",
+      "publishedAt": "2026-06-15T23:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ivDFlDlZNL4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ivDFlDlZNL4"
+    },
     {
       "id": "SsE3_2ASgpo",
       "title": "【ココ調見逃し配信】梅雨のお役立ち情報を高崎春アナが専門家に直撃！除湿・冷房どっちが快適？炊飯予約は何時間後までOK？効果的な洗濯方法は？",

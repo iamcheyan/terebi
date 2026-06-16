@@ -1,8 +1,44 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-06-15T19:05:17.267519",
+  "updated_at": "2026-06-16T18:54:59.484829",
   "videos": [
+    {
+      "id": "_kLz2keu6Ts",
+      "title": "【高知にきいや！③】江戸時代から続く匠の技「内原野焼」",
+      "description": "",
+      "publishedAt": "2026-06-16T01:32:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_kLz2keu6Ts/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_kLz2keu6Ts"
+    },
+    {
+      "id": "qq7Rng2wR7U",
+      "title": "【高知にきいや！②】高知とフランスつなぐ「モネの庭」",
+      "description": "",
+      "publishedAt": "2026-06-16T01:29:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qq7Rng2wR7U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qq7Rng2wR7U"
+    },
+    {
+      "id": "4B58tdtrrU8",
+      "title": "【高知にきいや！①】日本一活きのいい廃校",
+      "description": "",
+      "publishedAt": "2026-06-16T01:22:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4B58tdtrrU8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4B58tdtrrU8"
+    },
     {
       "id": "4VHhlfmw4MY",
       "title": "【高知特集③】江戸時代から続く匠の技「内原野焼」",

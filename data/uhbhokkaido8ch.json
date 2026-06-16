@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-06-15T19:05:50.557039",
+  "updated_at": "2026-06-16T18:55:59.406994",
   "videos": [
+    {
+      "id": "6REsMgwr9as",
+      "title": "#２「42.195kmを駆け抜けるために。練習、みんなで。」",
+      "description": "",
+      "publishedAt": "2026-06-16T13:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6REsMgwr9as/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6REsMgwr9as"
+    },
+    {
+      "id": "KnUw8PJbgbE",
+      "title": "みんテレ　6月17日（水）放送",
+      "description": "",
+      "publishedAt": "2026-06-16T10:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KnUw8PJbgbE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KnUw8PJbgbE"
+    },
     {
       "id": "6uAzAzizWus",
       "title": "みんテレ　6月16日（火）放送",
