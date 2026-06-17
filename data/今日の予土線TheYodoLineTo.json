@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-16T18:56:05.230555",
+  "updated_at": "2026-06-17T17:51:02.845348",
   "videos": [
+    {
+      "id": "zuqJ_dmAr4I",
+      "title": "260617 160134 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-06-17T12:34:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zuqJ_dmAr4I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zuqJ_dmAr4I"
+    },
+    {
+      "id": "2JVsXTiFYic",
+      "title": "260617 155201 小井手踏切",
+      "description": "",
+      "publishedAt": "2026-06-17T12:21:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2JVsXTiFYic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2JVsXTiFYic"
+    },
+    {
+      "id": "dJrqoOBJswc",
+      "title": "260617 154204 小井手踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-06-17T12:19:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dJrqoOBJswc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dJrqoOBJswc"
+    },
     {
       "id": "YrH8M8voZj4",
       "title": "260616 114755 鬼列車（務田駅）",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-06-16T18:55:56.556152",
+  "updated_at": "2026-06-17T17:50:54.476235",
   "videos": [
+    {
+      "id": "XlrQMKl4GUk",
+      "title": "今日の５きげんテレビ（6月18日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-06-17T15:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XlrQMKl4GUk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XlrQMKl4GUk"
+    },
+    {
+      "id": "AdUiyUTUiuY",
+      "title": "世界最小の犬種「チワワ」｜チョペット天国",
+      "description": "",
+      "publishedAt": "2026-06-17T09:56:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AdUiyUTUiuY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AdUiyUTUiuY"
+    },
+    {
+      "id": "P6By-dpvGN4",
+      "title": "ピクルスサンドのポークソテー | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-06-17T09:03:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P6By-dpvGN4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P6By-dpvGN4"
+    },
     {
       "id": "7MYn2Qm7opg",
       "title": "今日の５きげんテレビ（6月17日）｜テレビ岩手",

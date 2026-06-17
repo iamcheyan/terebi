@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-06-14T16:24:37.973346",
+  "updated_at": "2026-06-17T17:50:44.916861",
   "videos": [
+    {
+      "id": "5eAdADBcCEc",
+      "title": "鹿児島グルメ～アジア飯～　(6月16日(火)夜7時放送)",
+      "description": "",
+      "publishedAt": "2026-06-17T02:09:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5eAdADBcCEc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5eAdADBcCEc"
+    },
     {
       "id": "Bg9cJGmYBYE",
       "title": "いまコレ！かごしま市　6月14日(日)",

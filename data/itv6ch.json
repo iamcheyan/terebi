@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-06-16T18:56:00.969030",
+  "updated_at": "2026-06-17T17:50:58.268760",
   "videos": [
+    {
+      "id": "3LpFfZP9N7o",
+      "title": "愛媛のニュース(06月17日)",
+      "description": "",
+      "publishedAt": "2026-06-17T11:39:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3LpFfZP9N7o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3LpFfZP9N7o"
+    },
+    {
+      "id": "Sr06DMaFb4Q",
+      "title": "STU48が愛媛をEVドライブ！【第22回】ブルークエスト with STU48（新居浜市 元祖 驢馬（ロバ）編）",
+      "description": "",
+      "publishedAt": "2026-06-17T09:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Sr06DMaFb4Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Sr06DMaFb4Q"
+    },
     {
       "id": "vnq143hrmL4",
       "title": "愛媛のニュース(06月16日)",

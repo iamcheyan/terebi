@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-06-15T19:04:50.984678",
+  "updated_at": "2026-06-17T17:50:11.199544",
   "videos": [
+    {
+      "id": "0P4jMH4iIs8",
+      "title": "【あさは５ちゃん！】2026年6月20日放送",
+      "description": "",
+      "publishedAt": "2026-06-17T03:56:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0P4jMH4iIs8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0P4jMH4iIs8"
+    },
     {
       "id": "PVMCxlbq7OI",
       "title": "約1万人が参加！東根市「さくらんぼマラソン大会」 石井アナがハーフマラソンに挑戦",

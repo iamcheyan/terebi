@@ -1,8 +1,116 @@
 {
   "channel_id": "UCAhZnTMHk-TPyDzT0rt34IQ",
   "channel_name": "KKB鹿児島放送",
-  "updated_at": "2026-06-16T18:55:42.335078",
+  "updated_at": "2026-06-17T17:50:42.321812",
   "videos": [
+    {
+      "id": "odburuxnFTU",
+      "title": "【めざせ!!甲子園】2026夏の高校野球 出場校紹介『指宿』",
+      "description": "",
+      "publishedAt": "2026-06-17T14:12:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/odburuxnFTU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=odburuxnFTU"
+    },
+    {
+      "id": "apopdl_UFTw",
+      "title": "【めざせ!!甲子園】2026夏の高校野球 出場校紹介『曽於』",
+      "description": "",
+      "publishedAt": "2026-06-17T14:07:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/apopdl_UFTw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=apopdl_UFTw"
+    },
+    {
+      "id": "9GA0NTVShwk",
+      "title": "【めざせ!!甲子園】2026夏の高校野球 出場校紹介『出水商業』",
+      "description": "",
+      "publishedAt": "2026-06-17T14:00:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9GA0NTVShwk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9GA0NTVShwk"
+    },
+    {
+      "id": "dGdCoqp7BUM",
+      "title": "【めざせ!!甲子園】2026夏の高校野球 出場校紹介『市来農芸』",
+      "description": "",
+      "publishedAt": "2026-06-17T13:54:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dGdCoqp7BUM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dGdCoqp7BUM"
+    },
+    {
+      "id": "qvRi-0Y8dlY",
+      "title": "【めざせ!!甲子園】2026夏の高校野球 出場校紹介『錦江湾』",
+      "description": "",
+      "publishedAt": "2026-06-17T13:49:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qvRi-0Y8dlY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qvRi-0Y8dlY"
+    },
+    {
+      "id": "NABDOecE8Jw",
+      "title": "【めざせ!!甲子園】2026夏の高校野球 出場校紹介『出水工業』",
+      "description": "",
+      "publishedAt": "2026-06-17T13:39:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NABDOecE8Jw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NABDOecE8Jw"
+    },
+    {
+      "id": "D1nD9d1Ey4M",
+      "title": "【てとてと】あったらいいなを形にする雑貨屋 第30回「手作り雑貨 Twill」～好きがカタチになる～",
+      "description": "",
+      "publishedAt": "2026-06-17T13:31:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D1nD9d1Ey4M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D1nD9d1Ey4M"
+    },
+    {
+      "id": "FUO0t6NtffQ",
+      "title": "【経済コーナー】「イチローさんのお金のハナシ」～AIが変える私たちの暮らしと経済～ News＋おやっと！特集(6月17日(水)放送)",
+      "description": "",
+      "publishedAt": "2026-06-17T13:10:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FUO0t6NtffQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FUO0t6NtffQ"
+    },
+    {
+      "id": "HduNQBeX3Oo",
+      "title": "【めざせ!!甲子園】2026夏の高校野球 出場校紹介『屋久島』",
+      "description": "",
+      "publishedAt": "2026-06-17T05:22:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HduNQBeX3Oo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HduNQBeX3Oo"
+    },
     {
       "id": "6-zVcTo6UnU",
       "title": "【めざせ!!甲子園】2026夏の高校野球 出場校紹介『国分』",

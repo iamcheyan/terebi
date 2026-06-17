@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMbq0m2vILQTbc0VhOcVWaQ",
   "channel_name": "IBC岩手放送",
-  "updated_at": "2026-06-16T18:55:40.733838",
+  "updated_at": "2026-06-17T17:50:40.826564",
   "videos": [
+    {
+      "id": "8XDHZ4DwIzk",
+      "title": "【LIVE】宮古情報カメラ",
+      "description": "",
+      "publishedAt": "2026-06-17T03:29:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8XDHZ4DwIzk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8XDHZ4DwIzk"
+    },
     {
       "id": "_9kladVilhI",
       "title": "岩手県立水沢工業高等学校【熱血ものづくり宣言 ガンバレ！いわての工業高校生】",
