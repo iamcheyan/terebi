@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-06-17T17:50:28.453735",
+  "updated_at": "2026-06-18T18:06:35.547155",
   "videos": [
+    {
+      "id": "lT8zRauVpWk",
+      "title": "【ビジネストレンド】株式会社HAL（2026年6月18日放送）【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-06-18T13:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lT8zRauVpWk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lT8zRauVpWk"
+    },
     {
       "id": "s7AsMY9gLF0",
       "title": "【ビジネスインサイト】株式会社スリーステップ　前編 (2026年6月17日放送)【チバテレ公式】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-06-17T17:50:13.913152",
+  "updated_at": "2026-06-18T18:06:37.673738",
   "videos": [
+    {
+      "id": "5_PtLKocpPY",
+      "title": "【ソノタネ2.0】#7～テクニカルカンパニー～",
+      "description": "",
+      "publishedAt": "2026-06-18T08:58:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5_PtLKocpPY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5_PtLKocpPY"
+    },
+    {
+      "id": "hQbHZMXgZGs",
+      "title": "【しまねっこの宅配便X】#09「思いやり駐車場」",
+      "description": "",
+      "publishedAt": "2026-06-18T04:03:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hQbHZMXgZGs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hQbHZMXgZGs"
+    },
     {
       "id": "jO9bGeIZ1TE",
       "title": "予告【しまねっこの宅配便X】6/24（水）放送「思いやり駐車場」",

@@ -1,8 +1,116 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-06-17T17:50:21.007647",
+  "updated_at": "2026-06-18T18:06:41.347153",
   "videos": [
+    {
+      "id": "3kvLFWVGEcg",
+      "title": "被爆二世の遺伝的影響は　放射線影響研究所90人分の「ゲノム解析」開始",
+      "description": "",
+      "publishedAt": "2026-06-18T13:04:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3kvLFWVGEcg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3kvLFWVGEcg"
+    },
+    {
+      "id": "XV4sKDOs1fk",
+      "title": "地場スーパーを吸収合併　イオン系スーパーがオープン　価格据え置きや人気総菜に多くの買い物客",
+      "description": "",
+      "publishedAt": "2026-06-18T11:49:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XV4sKDOs1fk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XV4sKDOs1fk"
+    },
+    {
+      "id": "QRalbDGLjX8",
+      "title": "中東情勢悪化の影響　タクシー業界にも　佐世保市内唯一のLPG販売業者廃業へ",
+      "description": "",
+      "publishedAt": "2026-06-18T11:43:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QRalbDGLjX8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QRalbDGLjX8"
+    },
+    {
+      "id": "ZzFJQUbUE18",
+      "title": "長崎市「市の事業に支障をきたすおそれも」と答弁　中東情勢悪化の影響は",
+      "description": "",
+      "publishedAt": "2026-06-18T11:40:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZzFJQUbUE18/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZzFJQUbUE18"
+    },
+    {
+      "id": "iZ9LdwJas44",
+      "title": "「息子を侮辱するかのような言動を容認するのは到底認められない」　海星高校いじめ自殺訴訟　両親が控訴",
+      "description": "",
+      "publishedAt": "2026-06-18T11:33:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iZ9LdwJas44/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iZ9LdwJas44"
+    },
+    {
+      "id": "ncSDq6pAMRA",
+      "title": "乳幼児に多い「手足口病」　長崎県内で5週続けて増加　県内の発症は約９割が２歳以下",
+      "description": "",
+      "publishedAt": "2026-06-18T11:24:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ncSDq6pAMRA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ncSDq6pAMRA"
+    },
+    {
+      "id": "BaS82MsiO7Y",
+      "title": "長崎県五島市で特産品「ミズイカ」の産卵床を設置",
+      "description": "",
+      "publishedAt": "2026-06-18T05:20:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BaS82MsiO7Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BaS82MsiO7Y"
+    },
+    {
+      "id": "lwE8RAQd_uI",
+      "title": "長崎県海星高校いじめ自殺訴訟　判決不服として原告側が控訴へ",
+      "description": "",
+      "publishedAt": "2026-06-18T05:15:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lwE8RAQd_uI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lwE8RAQd_uI"
+    },
+    {
+      "id": "ARLKcUrLYZQ",
+      "title": "地元食材を生かした新たな食文化を　「規格外」野菜活用の試み",
+      "description": "",
+      "publishedAt": "2026-06-18T03:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ARLKcUrLYZQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ARLKcUrLYZQ"
+    },
     {
       "id": "mFP9gq6LDwI",
       "title": "「諫早市の川の堤防が決壊したら」大雨災害に備えて訓練",

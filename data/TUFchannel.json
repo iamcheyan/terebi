@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-06-17T17:50:53.966719",
+  "updated_at": "2026-06-18T18:07:19.556611",
   "videos": [
+    {
+      "id": "t-MifbzUoBw",
+      "title": "和田聰宏のやってみっぺ！福島究極グルメ２",
+      "description": "",
+      "publishedAt": "2026-06-18T06:20:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t-MifbzUoBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t-MifbzUoBw"
+    },
     {
       "id": "eG3gd_zI87E",
       "title": "【ふくしまSHOW】カレーまつり2026！注目店舗紹介 第1弾",
