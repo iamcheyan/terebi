@@ -1,8 +1,44 @@
 {
   "channel_id": "UCL2DLwqqYxa0Q5DcGoQGbrw",
   "channel_name": "文部科学省（MEXT）",
-  "updated_at": "2026-06-17T17:50:31.692040",
+  "updated_at": "2026-06-19T17:20:55.135239",
   "videos": [
+    {
+      "id": "Kj1TR7Znmjk",
+      "title": "学習者用デジタル教科書を活用した実践事例（理科/社会）",
+      "description": "",
+      "publishedAt": "2026-06-19T08:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kj1TR7Znmjk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kj1TR7Znmjk"
+    },
+    {
+      "id": "hzE_cYZQNV4",
+      "title": "学習者用デジタル教科書を活用した実践事例（算数・数学/国語）",
+      "description": "",
+      "publishedAt": "2026-06-19T08:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hzE_cYZQNV4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hzE_cYZQNV4"
+    },
+    {
+      "id": "0fgxrKjyywU",
+      "title": "松本文部科学大臣記者会見（令和8年6月19日）：文部科学省",
+      "description": "",
+      "publishedAt": "2026-06-19T05:35:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0fgxrKjyywU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0fgxrKjyywU"
+    },
     {
       "id": "vdoj6skmuNg",
       "title": "探究学習と国際会議が育てる学びの文化（新潟県立三条高等学校）",

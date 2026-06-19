@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-18T18:07:27.742151",
+  "updated_at": "2026-06-19T17:21:35.897379",
   "videos": [
+    {
+      "id": "GCUZfTX3mzY",
+      "title": "260619 181203 予土新幹線遅れて到着（深田駅）",
+      "description": "",
+      "publishedAt": "2026-06-19T12:20:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GCUZfTX3mzY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GCUZfTX3mzY"
+    },
+    {
+      "id": "VpwWDbu1hnI",
+      "title": "260619 175816 深田駅（列車遅延）",
+      "description": "",
+      "publishedAt": "2026-06-19T12:17:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VpwWDbu1hnI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VpwWDbu1hnI"
+    },
+    {
+      "id": "vNyloDu0hBk",
+      "title": "260619 175339 深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-06-19T12:15:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vNyloDu0hBk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vNyloDu0hBk"
+    },
     {
       "id": "nUNFHy7FDjM",
       "title": "260618 175406 鉄橋（月見橋）３",

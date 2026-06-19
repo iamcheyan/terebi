@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-06-13T16:15:30.950882",
+  "updated_at": "2026-06-19T17:21:22.612757",
   "videos": [
+    {
+      "id": "IrCB8NZJHSM",
+      "title": "どさんこ調査隊「肉の山本」",
+      "description": "",
+      "publishedAt": "2026-06-19T05:22:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IrCB8NZJHSM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IrCB8NZJHSM"
+    },
+    {
+      "id": "byQht2YJD0U",
+      "title": "#11　栗山高校女子硬式野球部（前編）",
+      "description": "",
+      "publishedAt": "2026-06-19T00:44:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/byQht2YJD0U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=byQht2YJD0U"
+    },
     {
       "id": "oSvqnB_SPX8",
       "title": "トレンド☆サプリ#178「スーパーガール」",
