@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-06-19T17:21:31.090485",
+  "updated_at": "2026-06-20T16:22:14.296133",
   "videos": [
+    {
+      "id": "a61zqc7syxw",
+      "title": "愛媛のニュース(06月20日)",
+      "description": "",
+      "publishedAt": "2026-06-20T11:31:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a61zqc7syxw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a61zqc7syxw"
+    },
+    {
+      "id": "TJeDL538aQw",
+      "title": "【愛媛・久万高原町】絶景！棚田を照らす幻想的な光 「竹灯籠まつり」が感動の美しさだった",
+      "description": "",
+      "publishedAt": "2026-06-19T23:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TJeDL538aQw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TJeDL538aQw"
+    },
+    {
+      "id": "dHxrvhv1YCg",
+      "title": "【愛媛・新居浜市】地元を離れた新入生へ！3,000円相当の特産品が“無料”で届く「ふるさとにいはま便」",
+      "description": "",
+      "publishedAt": "2026-06-19T23:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dHxrvhv1YCg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dHxrvhv1YCg"
+    },
     {
       "id": "-aALK0BhUI0",
       "title": "愛媛のニュース(06月19日)",

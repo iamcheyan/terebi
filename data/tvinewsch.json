@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-06-18T18:06:34.926536",
+  "updated_at": "2026-06-20T16:21:12.069019",
   "videos": [
+    {
+      "id": "cmEOcxIw6zQ",
+      "title": "【毛越寺×コスプレ】コスプレイヤーたちの撮影会、その名も「毛越寺コス」",
+      "description": "",
+      "publishedAt": "2026-06-20T00:40:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cmEOcxIw6zQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cmEOcxIw6zQ"
+    },
+    {
+      "id": "kIfUBtNxlB8",
+      "title": "【レトロゲストハウス】「伝統」と「自然」の魅力を\"レトロな宿\"から発信しています",
+      "description": "",
+      "publishedAt": "2026-06-19T23:58:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kIfUBtNxlB8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kIfUBtNxlB8"
+    },
     {
       "id": "M8FMYl4hrs4",
       "title": "【クマ被害】一戸町と二戸市にまたがる山林で漆搔きをしていた３０代の男性がクマに頭をかまれケガ",

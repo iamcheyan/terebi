@@ -1,8 +1,20 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2026-06-17T17:50:54.900867",
+  "updated_at": "2026-06-20T16:22:10.678359",
   "videos": [
+    {
+      "id": "HVp23sVtsqM",
+      "title": "260620TVhサマー競馬NEXT反省会＃１",
+      "description": "",
+      "publishedAt": "2026-06-20T08:02:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HVp23sVtsqM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HVp23sVtsqM"
+    },
     {
       "id": "6LAPNlSYzmA",
       "title": "2026年6月17日放送　今から始める資産運用 season3 #6「アクティブ型は買っていい？」",

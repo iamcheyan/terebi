@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-06-18T18:06:41.724422",
+  "updated_at": "2026-06-20T16:21:12.434264",
   "videos": [
+    {
+      "id": "UufwFMrLCEo",
+      "title": "【ゆ～ばら！】飲めなくても楽しめる酒場特集　マジックバー",
+      "description": "",
+      "publishedAt": "2026-06-20T08:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UufwFMrLCEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UufwFMrLCEo"
+    },
     {
       "id": "mrDxF7wlyBo",
       "title": "移住者増加中！松山・中島は魅力でいっぱい",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-06-18T18:07:11.577461",
+  "updated_at": "2026-06-20T16:22:02.015907",
   "videos": [
+    {
+      "id": "2OJXB-1GTAY",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-06-20T03:03:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2OJXB-1GTAY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2OJXB-1GTAY"
+    },
     {
       "id": "SaR_SMajSIg",
       "title": "社長と社員が本音でカタル　トップ＆ビギナー　第3回　有限会社 一政設備",
