@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-06-18T18:06:55.197338",
+  "updated_at": "2026-06-21T16:46:55.833685",
   "videos": [
+    {
+      "id": "VbUINUv_8mQ",
+      "title": "しまじろうのわお！　#730「しあわせ　パンケーキ」【6/27（土）放送📺】",
+      "description": "",
+      "publishedAt": "2026-06-21T15:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VbUINUv_8mQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VbUINUv_8mQ"
+    },
     {
       "id": "VcVzqnBkNIM",
       "title": "ロープウェイ運転士とＣＡの「二刀流」　寒霞渓に初の女性運転士",

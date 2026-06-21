@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-06-20T16:21:32.668852",
+  "updated_at": "2026-06-21T16:47:06.076083",
   "videos": [
+    {
+      "id": "sMkojwGnH34",
+      "title": "好井まさおのコワイハナシ「深夜の来客」",
+      "description": "",
+      "publishedAt": "2026-06-21T16:20:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sMkojwGnH34/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sMkojwGnH34"
+    },
     {
       "id": "b4IHkVha23o",
       "title": "【サッカー神社】日本代表エンブレムの大絵馬を奉納！ 白山宮（愛知県日進市）【あまドラ～天野っちのドライブしよう！！～】",

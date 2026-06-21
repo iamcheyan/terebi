@@ -1,8 +1,68 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-06-20T16:22:01.268186",
+  "updated_at": "2026-06-21T16:47:29.681991",
   "videos": [
+    {
+      "id": "kbgd9yzt-0I",
+      "title": "出水市・東雲の里【かごしまドローンTRIP】",
+      "description": "",
+      "publishedAt": "2026-06-21T14:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kbgd9yzt-0I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kbgd9yzt-0I"
+    },
+    {
+      "id": "dVXGbD0enqk",
+      "title": "6/21『認定こども園 つるみね保育園』のわんぱく君・わんぱくちゃんを紹介！【MBCテレビ『わんぱくてれび』】",
+      "description": "",
+      "publishedAt": "2026-06-21T08:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dVXGbD0enqk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dVXGbD0enqk"
+    },
+    {
+      "id": "OmaOQPnOqZo",
+      "title": "【かごしまシティ・パレットミニ情報】鹿児島市の戦災と復興資料・写真展　ほか（2026年6月21日放送）",
+      "description": "",
+      "publishedAt": "2026-06-21T05:55:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OmaOQPnOqZo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OmaOQPnOqZo"
+    },
+    {
+      "id": "rSNJecVSwx8",
+      "title": "【たわわのわ】かぼちゃ(2026年6月21日放送)",
+      "description": "",
+      "publishedAt": "2026-06-21T02:35:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rSNJecVSwx8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rSNJecVSwx8"
+    },
+    {
+      "id": "-cY2dROTRzU",
+      "title": "【宝☆かご掲示板】『なんさつファミリーキャンプ　夏　ほか』（2026年6月21日放送）",
+      "description": "",
+      "publishedAt": "2026-06-21T01:35:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-cY2dROTRzU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-cY2dROTRzU"
+    },
     {
       "id": "OCpzmZXvNlw",
       "title": "#54【実録⑫】Bluetooth、いつのまに。",

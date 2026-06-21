@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-06-20T16:21:12.069019",
+  "updated_at": "2026-06-21T16:46:56.799134",
   "videos": [
+    {
+      "id": "2xkkntu4-Rg",
+      "title": "【プラストーリーズ】昭和・平成の岩手と、いまの岩手の移り変わりを見つめます。今回は「ジューンブライド」。",
+      "description": "",
+      "publishedAt": "2026-06-21T01:21:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2xkkntu4-Rg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2xkkntu4-Rg"
+    },
+    {
+      "id": "Gax1kcHv-S0",
+      "title": "【由来にいたずらか】「岩手」という名の由来ともされる石にいたずらとみられる被害",
+      "description": "",
+      "publishedAt": "2026-06-21T00:59:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Gax1kcHv-S0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Gax1kcHv-S0"
+    },
     {
       "id": "cmEOcxIw6zQ",
       "title": "【毛越寺×コスプレ】コスプレイヤーたちの撮影会、その名も「毛越寺コス」",

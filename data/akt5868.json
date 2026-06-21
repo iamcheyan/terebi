@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-06-16T18:55:35.202173",
+  "updated_at": "2026-06-21T16:47:19.659483",
   "videos": [
+    {
+      "id": "iZ3P1a3H5X8",
+      "title": "あだまっこ体操！　2026年6月21日放送分",
+      "description": "",
+      "publishedAt": "2026-06-21T08:30:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iZ3P1a3H5X8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iZ3P1a3H5X8"
+    },
+    {
+      "id": "9bvstXr-HMU",
+      "title": "『むせるのは歳のせい？オーラルフレイルとは？』真田かずみの「おくち研究室」～きょうの口活 ５分レッスン～2026年6月21日放送",
+      "description": "",
+      "publishedAt": "2026-06-21T08:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9bvstXr-HMU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9bvstXr-HMU"
+    },
     {
       "id": "vKyQiu_VMhU",
       "title": "スポーツの力　秋田令和高校　陸上競技部　桜田俊弥選手　2026年6月16日放送分",

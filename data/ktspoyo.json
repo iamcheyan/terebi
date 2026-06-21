@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-06-20T16:22:00.983811",
+  "updated_at": "2026-06-21T16:47:29.112365",
   "videos": [
+    {
+      "id": "Y3K-LlrH6io",
+      "title": "いまコレ！かごしま市　6月21日(日)",
+      "description": "",
+      "publishedAt": "2026-06-21T06:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y3K-LlrH6io/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y3K-LlrH6io"
+    },
     {
       "id": "WUXJQgy6xbE",
       "title": "【わんにゃんプラスかごしま】「毎週日曜日に開催！動物愛護センター犬猫譲渡会」",

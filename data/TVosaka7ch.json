@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-06-20T16:21:07.645756",
+  "updated_at": "2026-06-21T16:47:16.683568",
   "videos": [
+    {
+      "id": "F1FRTEcZLfE",
+      "title": "食遺産File.251「マーボーズッキーニ」＠大阪府・羽曳野市",
+      "description": "",
+      "publishedAt": "2026-06-21T03:45:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F1FRTEcZLfE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F1FRTEcZLfE"
+    },
     {
       "id": "ctZUXC8CLSg",
       "title": "【よゐこ有野】この街、攻略しとく？住吉大社の門前町・粉浜商店街ぶーらぶら ～下町情緒たっぷりの商店街で人情あるれる街の名物おじさん徹底攻略！の巻～",

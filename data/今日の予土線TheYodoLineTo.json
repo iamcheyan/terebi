@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-20T16:22:19.002371",
+  "updated_at": "2026-06-21T16:47:50.146344",
   "videos": [
+    {
+      "id": "j2Xe44SAf7Q",
+      "title": "今週の予土線 The Yodo Line Weekly 2026 06 21",
+      "description": "",
+      "publishedAt": "2026-06-21T12:23:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/j2Xe44SAf7Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=j2Xe44SAf7Q"
+    },
+    {
+      "id": "qHxxwL0Y-D8",
+      "title": "260621 121725 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-06-21T09:45:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qHxxwL0Y-D8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qHxxwL0Y-D8"
+    },
     {
       "id": "HGSyk-k_GzA",
       "title": "260620 153536 雨の兼近第３踏切",

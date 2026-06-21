@@ -1,8 +1,32 @@
 {
   "channel_id": "UClElfQ7F1QndkPEFuqrDCLQ",
   "channel_name": "仙台放送ニュースチャンネル",
-  "updated_at": "2026-06-20T16:21:44.593582",
+  "updated_at": "2026-06-21T16:47:12.654392",
   "videos": [
+    {
+      "id": "C5fFO44TbeY",
+      "title": "宮城県内２２日夕方にかけて大雨になるところも 土砂災害や低い土地の浸水などに十分注意  (26/06/21 18:05)",
+      "description": "",
+      "publishedAt": "2026-06-21T09:19:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C5fFO44TbeY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C5fFO44TbeY"
+    },
+    {
+      "id": "s8RQUALvZV0",
+      "title": "警報級の大雨の恐れ 宮城県内は２２日まで土砂災害などに十分注意 交通機関にも影響 (26/06/21 12:10)",
+      "description": "",
+      "publishedAt": "2026-06-21T03:15:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s8RQUALvZV0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s8RQUALvZV0"
+    },
     {
       "id": "mX-fXxkSF6o",
       "title": "大量のカキ殻漂着で今年も渡波海水浴場開設困難か　住民たちが清掃活動〈宮城・石巻市〉 (26/06/20 17:42)",
