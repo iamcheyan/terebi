@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-06-20T16:21:12.434264",
+  "updated_at": "2026-06-22T18:47:57.265441",
   "videos": [
+    {
+      "id": "GxUU0pGEs5g",
+      "title": "きょうの俳句＜令和8年6月放送＞ 兼題「百合」（後半）",
+      "description": "",
+      "publishedAt": "2026-06-22T06:44:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GxUU0pGEs5g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GxUU0pGEs5g"
+    },
+    {
+      "id": "ETXBYNJuwM8",
+      "title": "きょうの俳句＜令和8年6月放送＞ 兼題「百合」（前半）",
+      "description": "",
+      "publishedAt": "2026-06-22T06:43:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ETXBYNJuwM8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ETXBYNJuwM8"
+    },
     {
       "id": "UufwFMrLCEo",
       "title": "【ゆ～ばら！】飲めなくても楽しめる酒場特集　マジックバー",

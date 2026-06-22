@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-06-21T16:47:29.681991",
+  "updated_at": "2026-06-22T18:48:22.398914",
   "videos": [
+    {
+      "id": "XeufhfzoxL4",
+      "title": "#23 鹿屋市立田崎小学校（6/15放送）",
+      "description": "",
+      "publishedAt": "2026-06-22T03:07:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XeufhfzoxL4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XeufhfzoxL4"
+    },
+    {
+      "id": "MPhhsqVMujI",
+      "title": "相次ぐサル被害「ネコ20匹襲われる」　自治体も対応に困惑(MBCニューズナウ 2026年6月19日放送）",
+      "description": "",
+      "publishedAt": "2026-06-22T01:26:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MPhhsqVMujI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MPhhsqVMujI"
+    },
     {
       "id": "kbgd9yzt-0I",
       "title": "出水市・東雲の里【かごしまドローンTRIP】",

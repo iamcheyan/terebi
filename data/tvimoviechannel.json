@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-06-21T16:47:39.907006",
+  "updated_at": "2026-06-22T18:48:36.441120",
   "videos": [
+    {
+      "id": "F4V67_Uk5tE",
+      "title": "今日の５きげんテレビ（6月23日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-06-22T15:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F4V67_Uk5tE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F4V67_Uk5tE"
+    },
+    {
+      "id": "IOr2up1pYPs",
+      "title": "もやしとキャベツのパスタ  | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-06-22T08:45:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IOr2up1pYPs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IOr2up1pYPs"
+    },
+    {
+      "id": "cgDxOq5Dl6U",
+      "title": "今昔さんぽ 〜現代の原型となった昔の道具たち〜｜岩手・北上市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-06-22T07:37:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cgDxOq5Dl6U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cgDxOq5Dl6U"
+    },
     {
       "id": "-7ott7OYWiA",
       "title": "今日の５きげんテレビ（6月22日）｜テレビ岩手",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-06-20T16:21:45.422695",
+  "updated_at": "2026-06-22T18:47:14.581195",
   "videos": [
+    {
+      "id": "eWtqOwfP3pQ",
+      "title": "超町人！チョコレートサムネット 6/28(日)名古屋・緑区編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-06-22T06:21:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eWtqOwfP3pQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eWtqOwfP3pQ"
+    },
     {
       "id": "j91gbJHGB4c",
       "title": "【まるまる◎あいち】2026年6月20日放送 「子どもと大人のためのリラックスパフォーマンス『やさしい革命』」",

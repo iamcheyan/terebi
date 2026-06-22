@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-06-20T16:22:05.698333",
+  "updated_at": "2026-06-22T18:48:28.828466",
   "videos": [
+    {
+      "id": "SPd_-CbrI2s",
+      "title": "【番宣】６月２４日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-22T03:10:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SPd_-CbrI2s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SPd_-CbrI2s"
+    },
+    {
+      "id": "3Hi9e7WFftU",
+      "title": "第107回 めざせ！くまもとの若き匠たち【球磨工業高校 建設工学科】",
+      "description": "",
+      "publishedAt": "2026-06-21T23:58:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3Hi9e7WFftU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3Hi9e7WFftU"
+    },
     {
       "id": "i4NNRTGuUjg",
       "title": "【番宣】６月２７日（土）からふる",
