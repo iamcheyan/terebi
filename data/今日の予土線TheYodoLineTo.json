@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-22T18:48:52.677111",
+  "updated_at": "2026-06-23T17:20:05.714886",
   "videos": [
+    {
+      "id": "HRQOMcL-sfM",
+      "title": "260623 135430 大内駅（かっぱ列車かと思ったら）",
+      "description": "",
+      "publishedAt": "2026-06-23T13:01:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HRQOMcL-sfM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HRQOMcL-sfM"
+    },
+    {
+      "id": "ekPqWLBUVPA",
+      "title": "260623 134441 大内駅から大内第１踏切へ",
+      "description": "",
+      "publishedAt": "2026-06-23T12:59:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ekPqWLBUVPA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ekPqWLBUVPA"
+    },
     {
       "id": "4GvKuGn7l9Y",
       "title": "260622 175608 二名駅からのぞむ中野踏切",

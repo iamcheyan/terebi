@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-06-21T16:46:43.643663",
+  "updated_at": "2026-06-23T17:19:00.011191",
   "videos": [
+    {
+      "id": "rq_fjLgXXDw",
+      "title": "RCCテレビ『元就。』2026年6月28日予告",
+      "description": "",
+      "publishedAt": "2026-06-23T08:38:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rq_fjLgXXDw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rq_fjLgXXDw"
+    },
+    {
+      "id": "QlMMz2tl-dY",
+      "title": "『元就。二百万一心！』 #261　2026年6月20日",
+      "description": "",
+      "publishedAt": "2026-06-23T04:10:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QlMMz2tl-dY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QlMMz2tl-dY"
+    },
     {
       "id": "gyjtWkvmO3w",
       "title": "＜予告＞情熱サンフレッチェ 6月26日放送",

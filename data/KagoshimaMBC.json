@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-06-22T18:48:22.398914",
+  "updated_at": "2026-06-23T17:19:45.946076",
   "videos": [
+    {
+      "id": "Z4_rIVnHeWc",
+      "title": "6/28(日)午前10時35分放送『かごしまシティ・パレット』",
+      "description": "",
+      "publishedAt": "2026-06-22T23:50:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z4_rIVnHeWc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z4_rIVnHeWc"
+    },
+    {
+      "id": "kX14rYHGMaY",
+      "title": "【6月26日(金) 午後3時49分～】かごよんフライデー",
+      "description": "",
+      "publishedAt": "2026-06-22T23:37:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kX14rYHGMaY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kX14rYHGMaY"
+    },
     {
       "id": "XeufhfzoxL4",
       "title": "#23 鹿屋市立田崎小学校（6/15放送）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-06-22T18:48:28.828466",
+  "updated_at": "2026-06-23T17:19:50.570076",
   "videos": [
+    {
+      "id": "eFwVuxU2VB8",
+      "title": "【番宣】７月１日（水）リコとカズと、カリスマさん",
+      "description": "",
+      "publishedAt": "2026-06-23T11:57:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eFwVuxU2VB8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eFwVuxU2VB8"
+    },
+    {
+      "id": "lgZlAulVS3g",
+      "title": "【番宣】６月２５日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-23T06:29:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lgZlAulVS3g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lgZlAulVS3g"
+    },
     {
       "id": "SPd_-CbrI2s",
       "title": "【番宣】６月２４日（水）NEWSゲツキン",

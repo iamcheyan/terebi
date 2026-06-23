@@ -1,8 +1,44 @@
 {
   "channel_id": "UC9r31LvpWhWU0aJdAirOZDQ",
   "channel_name": "テレビ山口（tys）",
-  "updated_at": "2026-06-01T19:55:54.123788",
+  "updated_at": "2026-06-23T17:19:07.684559",
   "videos": [
+    {
+      "id": "Q-tY6YdLcvc",
+      "title": "【ライブ配信】仁保川・氷上橋 山口市大内千坊 情報カメラ ＜tysテレビ山口【公式】＞",
+      "description": "",
+      "publishedAt": "2026-06-23T07:01:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q-tY6YdLcvc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q-tY6YdLcvc"
+    },
+    {
+      "id": "ZOScw9H4D94",
+      "title": "【ライブ配信】山口県下関市・関門橋　ライブカメラ ＜tysテレビ山口【公式】＞",
+      "description": "",
+      "publishedAt": "2026-06-23T06:57:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZOScw9H4D94/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZOScw9H4D94"
+    },
+    {
+      "id": "qqrGSjdqfdQ",
+      "title": "【ライブ配信】山口市・ｔｙｓ本社ライブカメラ（仁保川） ＜tysテレビ山口【公式】＞",
+      "description": "",
+      "publishedAt": "2026-06-23T06:44:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qqrGSjdqfdQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qqrGSjdqfdQ"
+    },
     {
       "id": "apEnAhkWL4U",
       "title": "【ライブ配信】山口市大内千坊六丁目　仁保川 情報カメラ ＜tysテレビ山口【公式】＞",
