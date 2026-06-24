@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-23T17:20:05.714886",
+  "updated_at": "2026-06-24T17:07:28.518078",
   "videos": [
+    {
+      "id": "1miYpVy9OCw",
+      "title": "260624 175233 雨の麓踏切",
+      "description": "",
+      "publishedAt": "2026-06-24T11:55:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1miYpVy9OCw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1miYpVy9OCw"
+    },
+    {
+      "id": "97guBlZo7PU",
+      "title": "260624 174800 雨の麓踏切",
+      "description": "",
+      "publishedAt": "2026-06-24T11:40:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/97guBlZo7PU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=97guBlZo7PU"
+    },
+    {
+      "id": "0OZZNULrrD0",
+      "title": "260624 174227 雨の鉄橋（予土新幹線通過）",
+      "description": "",
+      "publishedAt": "2026-06-24T11:39:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0OZZNULrrD0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0OZZNULrrD0"
+    },
+    {
+      "id": "gjRjVh8gNTA",
+      "title": "260624 173742 雨の鉄橋（月見橋）",
+      "description": "",
+      "publishedAt": "2026-06-24T11:34:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gjRjVh8gNTA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gjRjVh8gNTA"
+    },
     {
       "id": "HRQOMcL-sfM",
       "title": "260623 135430 大内駅（かっぱ列車かと思ったら）",

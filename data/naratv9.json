@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-06-17T17:50:23.426893",
+  "updated_at": "2026-06-24T17:06:37.826905",
   "videos": [
+    {
+      "id": "gwvGoGoq5gU",
+      "title": "【6月19日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-06-24T03:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gwvGoGoq5gU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gwvGoGoq5gU"
+    },
     {
       "id": "ZiAqqvWC5Uo",
       "title": "【6月12日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-06-20T16:21:21.107812",
+  "updated_at": "2026-06-24T17:06:31.071974",
   "videos": [
+    {
+      "id": "sL6pyeiK114",
+      "title": "【1日5000本】豆腐店から生まれただんご店　人気の秘訣に迫る！（最上川千本だんご）",
+      "description": "",
+      "publishedAt": "2026-06-24T05:18:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sL6pyeiK114/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sL6pyeiK114"
+    },
+    {
+      "id": "eITnyXxuYfA",
+      "title": "【あさは５ちゃん！】2026年6月27日放送",
+      "description": "",
+      "publishedAt": "2026-06-24T04:11:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eITnyXxuYfA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eITnyXxuYfA"
+    },
     {
       "id": "WaYPd0W8_L4",
       "title": "第2834回　地域資源を活用した関係人口、交流人口の拡大に向けて「提言の広場」",

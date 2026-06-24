@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-06-23T17:20:00.555725",
+  "updated_at": "2026-06-24T17:07:24.714601",
   "videos": [
+    {
+      "id": "c5jYdYNNr7w",
+      "title": "愛媛のニュース(06月24日)",
+      "description": "",
+      "publishedAt": "2026-06-24T11:41:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c5jYdYNNr7w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c5jYdYNNr7w"
+    },
+    {
+      "id": "pa1l2RlqPK4",
+      "title": "愛媛MP 夢のクロスロード 林 颯太投手",
+      "description": "",
+      "publishedAt": "2026-06-24T03:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pa1l2RlqPK4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pa1l2RlqPK4"
+    },
     {
       "id": "69pXcB2Qr-E",
       "title": "「ほぼ100％右折不可」「取り残される」と評判 恐怖の交差点 詳しく調べてみると様々な事実が判明…そして警察の回答は",

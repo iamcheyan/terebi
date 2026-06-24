@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-06-22T18:48:35.467672",
+  "updated_at": "2026-06-24T17:07:20.376624",
   "videos": [
+    {
+      "id": "90N478GExBE",
+      "title": "【ふくしまSHOW】「喜多方市」大特集！",
+      "description": "",
+      "publishedAt": "2026-06-24T01:05:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/90N478GExBE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=90N478GExBE"
+    },
     {
       "id": "s6SET9ODrIc",
       "title": "【映像】珈琲で人をつないで半世紀　昭和レトロな喫茶店　福島市【カメラめせん㊽】",
