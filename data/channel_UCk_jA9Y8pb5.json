@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-06-23T17:19:10.552658",
+  "updated_at": "2026-06-25T17:12:54.020588",
   "videos": [
+    {
+      "id": "uLtMcPb72ZI",
+      "title": "栗原心平の青森いただきまーす！「わかめとしらすのたまご炒め」",
+      "description": "",
+      "publishedAt": "2026-06-25T07:21:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uLtMcPb72ZI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uLtMcPb72ZI"
+    },
+    {
+      "id": "ZiwNLph2jxc",
+      "title": "季節のいけばな６月22日「梅雨の晴れ間に」",
+      "description": "",
+      "publishedAt": "2026-06-25T06:59:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZiwNLph2jxc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZiwNLph2jxc"
+    },
     {
       "id": "ZfwBD929h3c",
       "title": "Withベジ「新人・佐藤悦好アナウンサーが大好物を植える」",

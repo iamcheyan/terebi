@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-06-24T17:07:20.882826",
+  "updated_at": "2026-06-25T17:13:21.897522",
   "videos": [
+    {
+      "id": "5erXpFKYzWE",
+      "title": "【夢クルーズ】613 姫島 (2026年6月25日放送)",
+      "description": "",
+      "publishedAt": "2026-06-25T12:59:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5erXpFKYzWE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5erXpFKYzWE"
+    },
+    {
+      "id": "N2eXtbqjqXs",
+      "title": "#中村豪志 世界一のけん玉キッズ直伝「けんさし」をマスター！？",
+      "description": "",
+      "publishedAt": "2026-06-25T09:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N2eXtbqjqXs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N2eXtbqjqXs"
+    },
     {
       "id": "innyQKhxe-k",
       "title": "#内田金吾 vs. #中村豪志",

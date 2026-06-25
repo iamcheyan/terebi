@@ -1,8 +1,20 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-06-24T17:06:47.187233",
+  "updated_at": "2026-06-25T17:12:59.808409",
   "videos": [
+    {
+      "id": "VZOTGGKnzkA",
+      "title": "【LIVE】青森県・八戸港情報カメラ",
+      "description": "",
+      "publishedAt": "2026-06-25T14:22:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VZOTGGKnzkA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VZOTGGKnzkA"
+    },
     {
       "id": "aoVUh8rdj5M",
       "title": "【#タマ伸也のドライ風呂・Season2】「ご飯5合・カツ1.5kg」デカ盛りカツ丼に撃沈…源泉100%の湯でととのう！”履ける足湯”を体験 [青森の温泉 Aomori ONSEN]",

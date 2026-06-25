@@ -1,8 +1,80 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-06-24T17:06:32.843589",
+  "updated_at": "2026-06-25T17:12:56.556424",
   "videos": [
+    {
+      "id": "ZDjmtYaB0yI",
+      "title": "にんにく風呂",
+      "description": "",
+      "publishedAt": "2026-06-25T11:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZDjmtYaB0yI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZDjmtYaB0yI"
+    },
+    {
+      "id": "nTBw96n0AGM",
+      "title": "「相席食堂」6月30日（火）よる放送！",
+      "description": "",
+      "publishedAt": "2026-06-25T07:03:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nTBw96n0AGM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nTBw96n0AGM"
+    },
+    {
+      "id": "Qyaq5N583aw",
+      "title": "『リア突WEST. レボリューション』6月27日（土）深夜0時放送",
+      "description": "",
+      "publishedAt": "2026-06-25T05:25:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Qyaq5N583aw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Qyaq5N583aw"
+    },
+    {
+      "id": "WpuYzxaZuGU",
+      "title": "「エンターティーチャー　限界弟子入り中！」6月28日(日)午前10時～放送",
+      "description": "",
+      "publishedAt": "2026-06-25T03:29:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WpuYzxaZuGU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WpuYzxaZuGU"
+    },
+    {
+      "id": "g_-3DJGTHTM",
+      "title": "【キラスマ】競技ヨーヨー世界チャンピオンの華麗なテクニック #294",
+      "description": "",
+      "publishedAt": "2026-06-25T01:13:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g_-3DJGTHTM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g_-3DJGTHTM"
+    },
+    {
+      "id": "BO_30_rUMZw",
+      "title": "「これ余談なんですけど・・・」7月1日（水）よる放送！",
+      "description": "",
+      "publishedAt": "2026-06-25T00:47:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BO_30_rUMZw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BO_30_rUMZw"
+    },
     {
       "id": "LzCiN2-RbMY",
       "title": "秒でつまずくライバル",

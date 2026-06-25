@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-06-24T17:07:20.376624",
+  "updated_at": "2026-06-25T17:13:21.151379",
   "videos": [
+    {
+      "id": "MoeF8Vl6FBM",
+      "title": "【明日への一歩】県立川口高校　総合文化部 茶華道班",
+      "description": "",
+      "publishedAt": "2026-06-25T02:02:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MoeF8Vl6FBM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MoeF8Vl6FBM"
+    },
     {
       "id": "90N478GExBE",
       "title": "【ふくしまSHOW】「喜多方市」大特集！",

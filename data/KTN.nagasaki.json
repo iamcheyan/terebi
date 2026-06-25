@@ -1,8 +1,56 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-06-24T17:06:59.463299",
+  "updated_at": "2026-06-25T17:12:57.951667",
   "videos": [
+    {
+      "id": "KRZeoqmdMHI",
+      "title": "海星いじめ自殺裁判の判決受け　卒業生有志が学校に抗議文「誇れるような学校に」遺族に謝罪求める",
+      "description": "",
+      "publishedAt": "2026-06-25T11:21:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KRZeoqmdMHI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KRZeoqmdMHI"
+    },
+    {
+      "id": "jaIi4OnRdGg",
+      "title": "地元愛あふれる強力な助っ人たちが大活躍！ 「長崎WOW！」2026年6月26日（金）放送告知　#岡田圭右 #清水柚梨恵 #ますだおかだ #長崎",
+      "description": "",
+      "publishedAt": "2026-06-25T05:27:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jaIi4OnRdGg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jaIi4OnRdGg"
+    },
+    {
+      "id": "kHE1Sa0cNlg",
+      "title": "大雨の影響で住宅裏でがけ崩れが発生　小屋がほぼ全壊　７人在住もけが人なし",
+      "description": "",
+      "publishedAt": "2026-06-25T03:44:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kHE1Sa0cNlg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kHE1Sa0cNlg"
+    },
+    {
+      "id": "zMie-4iYMik",
+      "title": "長崎県内で大雨続く　降り始めからの降水量は最大533ミリ超　５市町で避難指示発令",
+      "description": "",
+      "publishedAt": "2026-06-25T03:38:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zMie-4iYMik/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zMie-4iYMik"
+    },
     {
       "id": "voqAUSNHQq8",
       "title": "長崎県の学力調査結果　小学校「国語」中学校「数学」で平均正答率50％下回る",

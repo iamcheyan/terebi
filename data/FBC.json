@@ -1,8 +1,20 @@
 {
   "channel_id": "UC1wYVW1ckPFokkVJMkZfZUw",
   "channel_name": "FBC福井放送",
-  "updated_at": "2026-04-30T16:21:24.703499",
+  "updated_at": "2026-06-25T17:13:11.205749",
   "videos": [
+    {
+      "id": "Nb7DBC5-Pgw",
+      "title": "Rumo ao Hexa",
+      "description": "",
+      "publishedAt": "2026-06-24T20:04:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nb7DBC5-Pgw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nb7DBC5-Pgw"
+    },
     {
       "id": "LoGK4HQO73k",
       "title": "O RONCO DA CUÍCA",

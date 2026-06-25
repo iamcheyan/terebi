@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-06-24T17:07:24.714601",
+  "updated_at": "2026-06-25T17:13:24.909614",
   "videos": [
+    {
+      "id": "14dGGWqs2Dg",
+      "title": "愛媛のニュース(06月25日)",
+      "description": "",
+      "publishedAt": "2026-06-25T11:38:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/14dGGWqs2Dg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=14dGGWqs2Dg"
+    },
+    {
+      "id": "nnUMzrXSd4k",
+      "title": "【愛媛・新居浜市】絶景「あじさいロード」が美しすぎる…！約7,000株の花と癒やしの風景",
+      "description": "",
+      "publishedAt": "2026-06-25T11:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nnUMzrXSd4k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nnUMzrXSd4k"
+    },
+    {
+      "id": "VsuqbiMW_BM",
+      "title": "昔の道後温泉本館 車がひっきりなし⁉",
+      "description": "",
+      "publishedAt": "2026-06-25T03:01:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VsuqbiMW_BM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VsuqbiMW_BM"
+    },
     {
       "id": "c5jYdYNNr7w",
       "title": "愛媛のニュース(06月24日)",

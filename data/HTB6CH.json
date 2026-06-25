@@ -1,8 +1,32 @@
 {
   "channel_id": "UCuY1i-Tic2G2xmox2_0h-Fw",
   "channel_name": "HTB北海道テレビ",
-  "updated_at": "2026-06-23T17:19:40.191763",
+  "updated_at": "2026-06-25T17:13:12.143065",
   "videos": [
+    {
+      "id": "cGlqOxojtks",
+      "title": "【深川グルメ】地元民100人が選ぶ！ガチで美味しい名店TOP3！絶品大エビ天丼＆最高峰のレバニラ【世界に一つだけの味】",
+      "description": "",
+      "publishedAt": "2026-06-25T09:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cGlqOxojtks/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cGlqOxojtks"
+    },
+    {
+      "id": "akFrR_cOB3U",
+      "title": "【未公開映像も】和太鼓の魅力に迫る！人生100年時代、真剣に趣味をみつけ隊！【イチモニ！】",
+      "description": "",
+      "publishedAt": "2026-06-25T04:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/akFrR_cOB3U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=akFrR_cOB3U"
+    },
     {
       "id": "OWZXPzAiScw",
       "title": "【密着】50歳で脱サラ！札幌の人気ケバブキッチンカー「kuku-ru」の裏側に潜入！圧倒的迫力の肉タワーの秘密とは？【イチモニ！】",

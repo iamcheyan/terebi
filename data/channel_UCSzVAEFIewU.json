@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-06-24T17:06:41.295529",
+  "updated_at": "2026-06-25T17:12:59.602377",
   "videos": [
+    {
+      "id": "IaKZLlxexk0",
+      "title": "【青春にエール！】野村高校　愛媛唯一の高校動物園密着！",
+      "description": "",
+      "publishedAt": "2026-06-25T11:25:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IaKZLlxexk0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IaKZLlxexk0"
+    },
     {
       "id": "9AyvReVoDMU",
       "title": "愛媛・鬼北の「スギ」で作るプラスチック代わりの新素材！「改質リグニン」",

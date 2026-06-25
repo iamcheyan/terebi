@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-06-24T17:07:20.514797",
+  "updated_at": "2026-06-25T17:13:21.657019",
   "videos": [
+    {
+      "id": "2BJpBIZtGX4",
+      "title": "今日の５きげんテレビ（6月26日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-06-25T15:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2BJpBIZtGX4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2BJpBIZtGX4"
+    },
+    {
+      "id": "2Q_44gYYpZ0",
+      "title": "田野畑村のハックの家｜リピってまち探",
+      "description": "",
+      "publishedAt": "2026-06-25T10:37:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Q_44gYYpZ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Q_44gYYpZ0"
+    },
+    {
+      "id": "MFB2dYWnuTU",
+      "title": "バナナのカップケーキ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-06-25T09:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MFB2dYWnuTU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MFB2dYWnuTU"
+    },
     {
       "id": "PcZgh4sRVB4",
       "title": "今日の５きげんテレビ（6月25日）｜テレビ岩手",

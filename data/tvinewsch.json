@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-06-24T17:06:33.549755",
+  "updated_at": "2026-06-25T17:12:50.714509",
   "videos": [
+    {
+      "id": "ddOuYVA3Ot0",
+      "title": "【県内で震度５強】青森県で震度６強、県内で震度５強を観測する震がありました",
+      "description": "",
+      "publishedAt": "2026-06-25T10:09:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ddOuYVA3Ot0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ddOuYVA3Ot0"
+    },
+    {
+      "id": "AKHzweSE6dI",
+      "title": "元気○（マル）らいふ　【髪の湿気対策】（2026/6/24放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-06-25T05:49:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AKHzweSE6dI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AKHzweSE6dI"
+    },
     {
       "id": "ksD-pBaXobo",
       "title": "【地元を元気にしたい】プロレスで地元を元気にしたい。熱い思いを胸に、リングに上がった男性に密着！",
