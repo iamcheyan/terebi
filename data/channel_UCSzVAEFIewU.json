@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-06-25T17:12:59.602377",
+  "updated_at": "2026-06-26T17:01:37.711052",
   "videos": [
+    {
+      "id": "avFECrRsMx4",
+      "title": "【便利】転職に電話対応まで！愛媛のＡＩ最前線",
+      "description": "",
+      "publishedAt": "2026-06-26T08:40:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/avFECrRsMx4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=avFECrRsMx4"
+    },
+    {
+      "id": "Y_HhzDJw15c",
+      "title": "【青春にエール】野村高校　愛媛県唯一の高校動物園",
+      "description": "",
+      "publishedAt": "2026-06-26T01:18:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y_HhzDJw15c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y_HhzDJw15c"
+    },
     {
       "id": "IaKZLlxexk0",
       "title": "【青春にエール！】野村高校　愛媛唯一の高校動物園密着！",

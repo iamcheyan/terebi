@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-06-24T17:06:31.071974",
+  "updated_at": "2026-06-26T17:01:48.794169",
   "videos": [
+    {
+      "id": "vEzAxBdJXfM",
+      "title": "最上川千本だんご人気No.1とは！？",
+      "description": "",
+      "publishedAt": "2026-06-26T13:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vEzAxBdJXfM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vEzAxBdJXfM"
+    },
+    {
+      "id": "XwCOSWGpvoM",
+      "title": "酒田港クロマグロ水揚げに密着",
+      "description": "",
+      "publishedAt": "2026-06-26T02:16:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XwCOSWGpvoM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XwCOSWGpvoM"
+    },
     {
       "id": "sL6pyeiK114",
       "title": "【1日5000本】豆腐店から生まれただんご店　人気の秘訣に迫る！（最上川千本だんご）",

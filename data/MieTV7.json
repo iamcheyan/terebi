@@ -1,8 +1,80 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-06-25T17:13:28.444719",
+  "updated_at": "2026-06-26T17:02:40.448386",
   "videos": [
+    {
+      "id": "fq7RTr3VK1g",
+      "title": "日本三大御田植祭の一つ「御田植祭」　伊雑宮で五穀豊穣願う",
+      "description": "",
+      "publishedAt": "2026-06-26T01:46:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fq7RTr3VK1g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fq7RTr3VK1g"
+    },
+    {
+      "id": "aVH8kehYvHI",
+      "title": "地域に寄り添う移動スーパー　運行再開",
+      "description": "",
+      "publishedAt": "2026-06-26T01:13:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aVH8kehYvHI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aVH8kehYvHI"
+    },
+    {
+      "id": "p4Pe4kTOD28",
+      "title": "医療センターで虐待認定　看護師の不適切行為",
+      "description": "",
+      "publishedAt": "2026-06-26T00:34:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p4Pe4kTOD28/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p4Pe4kTOD28"
+    },
+    {
+      "id": "gxzM4hUAR8w",
+      "title": "地域に寄り添う移動スーパー　運行再開",
+      "description": "",
+      "publishedAt": "2026-06-26T00:33:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gxzM4hUAR8w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gxzM4hUAR8w"
+    },
+    {
+      "id": "s5uhxfMYOTo",
+      "title": "災害医療支援へ新たな救急車　いなべ総合病院DMATが活動強化",
+      "description": "",
+      "publishedAt": "2026-06-26T00:27:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s5uhxfMYOTo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s5uhxfMYOTo"
+    },
+    {
+      "id": "w29qPJfRTEo",
+      "title": "小学生が歯みがき学ぶ特別授業　色素で汚れ確認しブラッシング",
+      "description": "",
+      "publishedAt": "2026-06-26T00:18:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/w29qPJfRTEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=w29qPJfRTEo"
+    },
     {
       "id": "Z1ap5v6VzjA",
       "title": "ハンセン病問題の歴史と現実学んで　県庁でパネル展",

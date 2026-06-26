@@ -1,8 +1,44 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-06-25T17:12:51.549593",
+  "updated_at": "2026-06-26T17:02:03.969346",
   "videos": [
+    {
+      "id": "EfumHkb4yzM",
+      "title": "【京都府議会】令和8年6月定例会／代表質問2日目",
+      "description": "",
+      "publishedAt": "2026-06-26T11:05:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EfumHkb4yzM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EfumHkb4yzM"
+    },
+    {
+      "id": "el-BUcbT_98",
+      "title": "【京都府議会】令和8年6月定例会／代表質問1日目",
+      "description": "",
+      "publishedAt": "2026-06-26T11:05:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/el-BUcbT_98/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=el-BUcbT_98"
+    },
+    {
+      "id": "MRlJvs6FqLg",
+      "title": "ゲスト：文化庁 伊藤学司 長官／京の風",
+      "description": "",
+      "publishedAt": "2026-06-26T09:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MRlJvs6FqLg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MRlJvs6FqLg"
+    },
     {
       "id": "d5VFhbeme1I",
       "title": "【かき氷】先斗町にオープン「旅氷」／おでかけキュンと！",

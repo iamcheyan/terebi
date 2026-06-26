@@ -1,8 +1,32 @@
 {
   "channel_id": "UCqHczYty3emqunOz4dZFFqw",
   "channel_name": "テレビ静岡（テレしず）",
-  "updated_at": "2026-06-23T17:19:22.797259",
+  "updated_at": "2026-06-26T17:01:56.715149",
   "videos": [
+    {
+      "id": "mQhaFvonCBI",
+      "title": "7/5(日)夕方4時5分フジテレビ系全国27局ネット『海だけバラエティ　ウナバラ！』みどころ",
+      "description": "",
+      "publishedAt": "2026-06-26T10:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mQhaFvonCBI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mQhaFvonCBI"
+    },
+    {
+      "id": "UavgZcI6h9k",
+      "title": "【牧之原市・一如（いちにょ）】「みんなおなじ、ちがいなし」凸凹隊が届ける心温まる手作り弁当！自家製味噌のジューシーチキンと濃厚とろけるプリン",
+      "description": "",
+      "publishedAt": "2026-06-26T02:19:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UavgZcI6h9k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UavgZcI6h9k"
+    },
     {
       "id": "YO9ejf4p8dg",
       "title": "ウナバラ！勝手に港メシ診断",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-06-25T17:12:53.799319",
+  "updated_at": "2026-06-26T17:01:34.479734",
   "videos": [
+    {
+      "id": "94CzlIAaNzk",
+      "title": "【ハイスクールチェック】高岡第一高校（2026年6月22日～6月26日放送）",
+      "description": "",
+      "publishedAt": "2026-06-26T03:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/94CzlIAaNzk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=94CzlIAaNzk"
+    },
     {
       "id": "nkf7xnicM6M",
       "title": "ハッピーイオン「いいね☆ 夏ビジュ イオンのゆかた2026」（2026年6月25日放送分）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-06-25T17:12:56.556424",
+  "updated_at": "2026-06-26T17:02:02.413778",
   "videos": [
+    {
+      "id": "rFUkYYLDO30",
+      "title": "「news おかえり」6月29日(月)午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-06-26T08:15:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rFUkYYLDO30/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rFUkYYLDO30"
+    },
+    {
+      "id": "l_hyIJlku_s",
+      "title": "ロコレコは佐賀県唐津市へ！ゲストの旅は国仲涼子！「旅サラダ」6月27日（土）放送",
+      "description": "",
+      "publishedAt": "2026-06-26T02:21:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l_hyIJlku_s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l_hyIJlku_s"
+    },
     {
       "id": "ZDjmtYaB0yI",
       "title": "にんにく風呂",
