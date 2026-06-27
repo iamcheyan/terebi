@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-26T17:02:40.756475",
+  "updated_at": "2026-06-27T16:08:10.013537",
   "videos": [
+    {
+      "id": "rj-0_Xg3UIc",
+      "title": "260627 174856 増田踏切",
+      "description": "",
+      "publishedAt": "2026-06-27T11:40:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rj-0_Xg3UIc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rj-0_Xg3UIc"
+    },
+    {
+      "id": "ozYp2eVR1_w",
+      "title": "260627 174244 増田踏切",
+      "description": "",
+      "publishedAt": "2026-06-27T11:31:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ozYp2eVR1_w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ozYp2eVR1_w"
+    },
+    {
+      "id": "JgUwcCZgAfE",
+      "title": "260627 173857 増田踏切",
+      "description": "",
+      "publishedAt": "2026-06-27T11:26:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JgUwcCZgAfE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JgUwcCZgAfE"
+    },
     {
       "id": "S4kBMFx2z4g",
       "title": "260626 172855 河渡踏切",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-06-18T18:06:37.673738",
+  "updated_at": "2026-06-27T16:07:16.696629",
   "videos": [
+    {
+      "id": "iHX_9Hj5EQA",
+      "title": "【6月27日(土)放送】「山陰TECH MAKERS」 ＃1島根県立松江工業高等学校　機械科",
+      "description": "",
+      "publishedAt": "2026-06-27T12:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iHX_9Hj5EQA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iHX_9Hj5EQA"
+    },
     {
       "id": "5_PtLKocpPY",
       "title": "【ソノタネ2.0】#7～テクニカルカンパニー～",
