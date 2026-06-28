@@ -1,8 +1,20 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-06-26T17:01:53.770838",
+  "updated_at": "2026-06-28T16:12:38.873189",
   "videos": [
+    {
+      "id": "FZdbYcdvC1k",
+      "title": "外国人の経営管理ビザ　厳格化の影響【TOKYO　LENS】",
+      "description": "",
+      "publishedAt": "2026-06-28T09:05:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FZdbYcdvC1k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FZdbYcdvC1k"
+    },
     {
       "id": "CtRgRjxNN3k",
       "title": "ダブル台風　北上で東京直撃の恐れも　去年浸水被害の自由が丘でも警戒続く",

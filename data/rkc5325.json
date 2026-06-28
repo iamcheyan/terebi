@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-06-27T16:07:37.419778",
+  "updated_at": "2026-06-28T16:13:16.011514",
   "videos": [
+    {
+      "id": "5CXuAech4_w",
+      "title": "RKCアプリ漢字クイズ 6/29の問題 ～有𠮷都アナのヒント～",
+      "description": "",
+      "publishedAt": "2026-06-28T15:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5CXuAech4_w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5CXuAech4_w"
+    },
+    {
+      "id": "kD-rxYkWhAY",
+      "title": "「ジミー大西、試合に勝つと思わず…」",
+      "description": "",
+      "publishedAt": "2026-06-28T11:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kD-rxYkWhAY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kD-rxYkWhAY"
+    },
     {
       "id": "TYy-PPF6UWg",
       "title": "「野球に没頭していた少年時代のジミー大西」",

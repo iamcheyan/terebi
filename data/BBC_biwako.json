@@ -1,8 +1,32 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-06-27T16:07:03.388497",
+  "updated_at": "2026-06-28T16:12:37.313554",
   "videos": [
+    {
+      "id": "vBixe6c3TZE",
+      "title": "20260628 サッカー教室",
+      "description": "",
+      "publishedAt": "2026-06-28T09:58:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vBixe6c3TZE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vBixe6c3TZE"
+    },
+    {
+      "id": "MWuMUO2X6ac",
+      "title": "20260628　彦根城石垣崩落",
+      "description": "",
+      "publishedAt": "2026-06-28T09:57:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MWuMUO2X6ac/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MWuMUO2X6ac"
+    },
     {
       "id": "DYwPunn7X7o",
       "title": "【企業密着】世界的ブランドを地域へ！事業承継から始まったサイクルライフの挑戦｜株式会社ニューフィールドワークス（滋賀経済NOW）2026年6月27日放送",

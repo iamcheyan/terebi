@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-06-26T17:02:29.865063",
+  "updated_at": "2026-06-28T16:13:20.401661",
   "videos": [
+    {
+      "id": "yKUWhvPhAFk",
+      "title": "【公式】「大西淳夫の1minute」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-06-28T08:30:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yKUWhvPhAFk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yKUWhvPhAFk"
+    },
+    {
+      "id": "jdiNURyH1y4",
+      "title": "【公式】「大西淳夫／庭アーティスト」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-06-28T08:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jdiNURyH1y4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jdiNURyH1y4"
+    },
     {
       "id": "BuvYiRiqWn4",
       "title": "【公式】「はじめての○○役」（06月26日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
