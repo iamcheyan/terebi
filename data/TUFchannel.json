@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-06-25T17:13:21.151379",
+  "updated_at": "2026-06-29T17:39:59.717278",
   "videos": [
+    {
+      "id": "wz0Iba3VJxg",
+      "title": "推しTIMEショート動画",
+      "description": "",
+      "publishedAt": "2026-06-29T09:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wz0Iba3VJxg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wz0Iba3VJxg"
+    },
     {
       "id": "MoeF8Vl6FBM",
       "title": "【明日への一歩】県立川口高校　総合文化部 茶華道班",

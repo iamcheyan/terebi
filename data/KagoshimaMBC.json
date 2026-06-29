@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-06-28T16:13:10.845959",
+  "updated_at": "2026-06-29T17:39:50.541670",
   "videos": [
+    {
+      "id": "HJievuWKITw",
+      "title": "#24 鹿児島市立西田小学校（6/22放送）",
+      "description": "",
+      "publishedAt": "2026-06-29T03:09:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HJievuWKITw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HJievuWKITw"
+    },
     {
       "id": "L-S1eypKGCo",
       "title": "薩摩川内市入来町・践祚の滝【かごしまドローンTRIP】",

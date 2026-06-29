@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-06-28T16:12:44.273917",
+  "updated_at": "2026-06-29T17:39:30.353035",
   "videos": [
+    {
+      "id": "RhxZQBtGTko",
+      "title": "バラで始める地域おこし 和歌山県古座川町【特集】",
+      "description": "",
+      "publishedAt": "2026-06-29T12:05:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RhxZQBtGTko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RhxZQBtGTko"
+    },
+    {
+      "id": "lJAl3n4RJL0",
+      "title": "WIB HERO'S 7月特別編 年次総会総集編",
+      "description": "",
+      "publishedAt": "2026-06-29T09:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lJAl3n4RJL0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lJAl3n4RJL0"
+    },
     {
       "id": "37lTDzZv5oI",
       "title": "和歌山県 引き続き土砂災害に注意 二つの台風と前線の影響",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-06-28T16:13:21.214127",
+  "updated_at": "2026-06-29T17:40:00.258342",
   "videos": [
+    {
+      "id": "qCyKZ0MZjRc",
+      "title": "今日の５きげんテレビ（6月30日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-06-29T15:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qCyKZ0MZjRc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qCyKZ0MZjRc"
+    },
+    {
+      "id": "KaSIu65r5xE",
+      "title": "鶏肉のトマトニラだれ  | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-06-29T08:40:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KaSIu65r5xE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KaSIu65r5xE"
+    },
+    {
+      "id": "fsF_D7Y6ai0",
+      "title": "５きげん知恵袋 ～鰹～",
+      "description": "",
+      "publishedAt": "2026-06-29T08:35:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fsF_D7Y6ai0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fsF_D7Y6ai0"
+    },
     {
       "id": "KmThnAsfFFU",
       "title": "【ぼくのケツは青い#13】東京モード学園でヘアメイクを学ぶ専門学生に密着！",

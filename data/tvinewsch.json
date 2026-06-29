@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-06-25T17:12:50.714509",
+  "updated_at": "2026-06-29T17:39:03.631201",
   "videos": [
+    {
+      "id": "bzvPpJyuuaw",
+      "title": "【こどもクリニック閉院】難病や重い障がいがある子どもたちを受け入れてきた病院が３７年の歴史に幕を下ろします",
+      "description": "",
+      "publishedAt": "2026-06-29T01:24:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bzvPpJyuuaw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bzvPpJyuuaw"
+    },
     {
       "id": "ddOuYVA3Ot0",
       "title": "【県内で震度５強】青森県で震度６強、県内で震度５強を観測する震がありました",

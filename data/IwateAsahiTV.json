@@ -1,8 +1,20 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-06-27T16:07:18.590902",
+  "updated_at": "2026-06-29T17:39:12.854022",
   "videos": [
+    {
+      "id": "nIVScELRrIU",
+      "title": "【ライブ配信】盛岡情報カメラ",
+      "description": "",
+      "publishedAt": "2026-06-29T00:47:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nIVScELRrIU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nIVScELRrIU"
+    },
     {
       "id": "apY7kvDbUos",
       "title": "ロピア花巻店で１周年祭　開店直後から大勢の客でにぎわう【Jチャンいわて動画】",

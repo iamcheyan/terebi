@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-06-27T16:07:20.336427",
+  "updated_at": "2026-06-29T17:39:37.154354",
   "videos": [
+    {
+      "id": "RBkTlvLfZLI",
+      "title": "カナフルTV　次回予告（7月5日放送）",
+      "description": "",
+      "publishedAt": "2026-06-29T04:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RBkTlvLfZLI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RBkTlvLfZLI"
+    },
+    {
+      "id": "f3qvRKzN33s",
+      "title": "Yokohama Live Cam 横浜定点ライブカメラ テレビ神奈川屋上",
+      "description": "",
+      "publishedAt": "2026-06-29T01:50:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/f3qvRKzN33s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=f3qvRKzN33s"
+    },
     {
       "id": "1qrd78lafco",
       "title": "ハマナビ　次回予告（7月4日放送）",
