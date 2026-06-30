@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-06-27T16:07:59.120553",
+  "updated_at": "2026-06-30T17:08:53.824861",
   "videos": [
+    {
+      "id": "rxh1kgVmk1s",
+      "title": "#13　総集編",
+      "description": "",
+      "publishedAt": "2026-06-30T02:01:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rxh1kgVmk1s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rxh1kgVmk1s"
+    },
     {
       "id": "Ivb2LykrC5I",
       "title": "5⃣✨完結編✨ベストたまごっちファーザー賞に輝くのは…⁉️STV ベテランアナウンサーが＼ たまごっち を育ててみた ／#大たまごっち展 #たまごっち #tamagotchi",

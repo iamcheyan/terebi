@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-06-29T17:39:55.040489",
+  "updated_at": "2026-06-30T17:08:42.300125",
   "videos": [
+    {
+      "id": "s7nlbdZPrUQ",
+      "title": "【番宣】７月２日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-06-30T07:29:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s7nlbdZPrUQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s7nlbdZPrUQ"
+    },
     {
       "id": "1Yj2DPukV84",
       "title": "【番宣】７月１日（水）NEWSゲツキン",

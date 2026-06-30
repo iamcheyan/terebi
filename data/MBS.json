@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-06-29T17:39:22.151664",
+  "updated_at": "2026-06-30T17:07:59.567228",
   "videos": [
+    {
+      "id": "bVL1J3vOXlA",
+      "title": "★7月4日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-06-30T06:02:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bVL1J3vOXlA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bVL1J3vOXlA"
+    },
     {
       "id": "7XCah6G2XOA",
       "title": "アキ助にいじられまくる五十嵐サキw",

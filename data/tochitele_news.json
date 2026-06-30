@@ -1,8 +1,92 @@
 {
   "channel_id": "UC_SN3bimHrEFQ0qe-5X5zFw",
   "channel_name": "とちぎテレビNEWS",
-  "updated_at": "2026-06-29T17:40:06.487153",
+  "updated_at": "2026-06-30T17:09:03.850815",
   "videos": [
+    {
+      "id": "gJ5T0ERVcYk",
+      "title": "アークタウン宇都宮で初の３×３公式戦　宇都宮",
+      "description": "",
+      "publishedAt": "2026-06-30T03:05:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gJ5T0ERVcYk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gJ5T0ERVcYk"
+    },
+    {
+      "id": "hGld9ACvAoU",
+      "title": "次の５０年へ　創立５０周年記念式典　宇都宮メディア・アーツ専門学校",
+      "description": "",
+      "publishedAt": "2026-06-30T01:07:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hGld9ACvAoU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hGld9ACvAoU"
+    },
+    {
+      "id": "FQLNnVZjeGY",
+      "title": "当選無効の現職が提訴へ　「町民分断懸念」　一票差の那須町長選",
+      "description": "",
+      "publishedAt": "2026-06-30T01:03:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FQLNnVZjeGY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FQLNnVZjeGY"
+    },
+    {
+      "id": "faC-YTOSFX0",
+      "title": "栃木県総合文化センターのグランドピアノ新調へ　「ふるさと納税型 　クラウドファンディング」実施へ",
+      "description": "",
+      "publishedAt": "2026-06-30T01:02:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/faC-YTOSFX0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=faC-YTOSFX0"
+    },
+    {
+      "id": "iQZUH-O2l_A",
+      "title": "園児が七夕飾りづくり　地元の企業が貢献　上三川町",
+      "description": "",
+      "publishedAt": "2026-06-30T01:01:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iQZUH-O2l_A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iQZUH-O2l_A"
+    },
+    {
+      "id": "1QBcRGZnsBM",
+      "title": "新スローガンは「WE　EARN　ＩＴ　WE　ENJOY　ＩＴ」　栃木日光アイスバックスが新体制を発表",
+      "description": "",
+      "publishedAt": "2026-06-30T00:52:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1QBcRGZnsBM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1QBcRGZnsBM"
+    },
+    {
+      "id": "C6p3N_J6wtU",
+      "title": "現職が無投票７選か　茂木町長選３０日に告示",
+      "description": "",
+      "publishedAt": "2026-06-30T00:50:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C6p3N_J6wtU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C6p3N_J6wtU"
+    },
     {
       "id": "nNdQD8iuePo",
       "title": "駅そばは「文化」…各地で名店消える　茂木駅構内の駅そば店6月末でのれん下ろす",

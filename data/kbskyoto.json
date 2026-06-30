@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-06-26T17:02:03.969346",
+  "updated_at": "2026-06-30T17:07:52.455158",
   "videos": [
+    {
+      "id": "RUfgpU6T2u8",
+      "title": "【特集】次世代エネルギーを支える膜技術！／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-06-30T09:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RUfgpU6T2u8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RUfgpU6T2u8"
+    },
     {
       "id": "EfumHkb4yzM",
       "title": "【京都府議会】令和8年6月定例会／代表質問2日目",

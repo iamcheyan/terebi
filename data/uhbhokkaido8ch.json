@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-06-29T17:40:02.973805",
+  "updated_at": "2026-06-30T17:09:00.073908",
   "videos": [
+    {
+      "id": "N6RQqYq3B5I",
+      "title": "#4「最後尾を見守り続け、拾い、励まし、支えるプロギングプロジェクト。」",
+      "description": "",
+      "publishedAt": "2026-06-30T14:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N6RQqYq3B5I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N6RQqYq3B5I"
+    },
+    {
+      "id": "ZcA64RcEDWA",
+      "title": "みんテレ　7月1日（水）放送",
+      "description": "",
+      "publishedAt": "2026-06-30T10:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZcA64RcEDWA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZcA64RcEDWA"
+    },
     {
       "id": "X9XYU1IrCk0",
       "title": "みんテレ　6月30日（火）放送",

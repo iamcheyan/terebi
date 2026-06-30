@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-06-29T17:39:16.772004",
+  "updated_at": "2026-06-30T17:07:44.237959",
   "videos": [
+    {
+      "id": "AihYD1eKcbY",
+      "title": "超町人！チョコレートサムネット 7/5(日)名古屋・東区編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-06-30T04:48:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AihYD1eKcbY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AihYD1eKcbY"
+    },
     {
       "id": "mF6GVf7Hezk",
       "title": "『Yerma イェルマ』愛知公演 30秒SPOT",
