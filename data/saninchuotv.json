@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-06-29T17:39:10.843864",
+  "updated_at": "2026-07-01T17:16:26.214997",
   "videos": [
+    {
+      "id": "04frmBvCt5c",
+      "title": "「山陰TECH MAKERS」　＃１島根県立松江工業高等学校　機械科",
+      "description": "",
+      "publishedAt": "2026-07-01T09:18:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/04frmBvCt5c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=04frmBvCt5c"
+    },
     {
       "id": "ybx5CiVXY98",
       "title": "【6月27日(土)放送】「山陰TECH MAKERS」 ＃1島根県立松江工業高等学校　機械科",

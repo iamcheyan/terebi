@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2026-06-30T17:08:09.462021",
+  "updated_at": "2026-07-01T17:16:26.682736",
   "videos": [
+    {
+      "id": "kXamvfCP6qg",
+      "title": "#1000パーセント かかったら踊ってしまう#classroom with #箕面自由学園",
+      "description": "",
+      "publishedAt": "2026-07-01T12:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kXamvfCP6qg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kXamvfCP6qg"
+    },
+    {
+      "id": "CGz7T5n-7So",
+      "title": "上から#happiness #愛媛の背中男 × #goldenbears #嵐",
+      "description": "",
+      "publishedAt": "2026-07-01T00:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CGz7T5n-7So/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CGz7T5n-7So"
+    },
     {
       "id": "-gJ_vyOFXw8",
       "title": "#happiness #results #take1 #愛媛の背中男 × #goldenbears",

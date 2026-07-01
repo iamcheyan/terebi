@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-06-30T17:08:57.212536",
+  "updated_at": "2026-07-01T17:17:27.683658",
   "videos": [
+    {
+      "id": "UG9FmKAe6kg",
+      "title": "今日の５きげんテレビ（7月2日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-07-01T15:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UG9FmKAe6kg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UG9FmKAe6kg"
+    },
+    {
+      "id": "P4CN4_kKa0Q",
+      "title": "ギュッと肉巻きおにぎり  | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-07-01T09:21:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P4CN4_kKa0Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P4CN4_kKa0Q"
+    },
+    {
+      "id": "4dABZzj693Y",
+      "title": "うまいチャーハンともう一品 | 中華料理 正華 みたけ店",
+      "description": "",
+      "publishedAt": "2026-07-01T09:18:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4dABZzj693Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4dABZzj693Y"
+    },
     {
       "id": "t7JW7W9W1MA",
       "title": "今日の５きげんテレビ（7月1日）｜テレビ岩手",

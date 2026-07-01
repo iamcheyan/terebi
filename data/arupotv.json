@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-06-30T17:08:42.300125",
+  "updated_at": "2026-07-01T17:17:21.595859",
   "videos": [
+    {
+      "id": "IMMa0HlV05o",
+      "title": "【番宣】７月１１日（土）ミライのタネ",
+      "description": "",
+      "publishedAt": "2026-07-01T01:27:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IMMa0HlV05o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IMMa0HlV05o"
+    },
     {
       "id": "s7nlbdZPrUQ",
       "title": "【番宣】７月２日（木）NEWSゲツキン",

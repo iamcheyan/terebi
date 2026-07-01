@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-06-30T17:07:58.395223",
+  "updated_at": "2026-07-01T17:17:03.007065",
   "videos": [
+    {
+      "id": "e_GZkYf6SSk",
+      "title": "【とべZOO】動物たちの“クールビズ”",
+      "description": "",
+      "publishedAt": "2026-07-01T09:58:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e_GZkYf6SSk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e_GZkYf6SSk"
+    },
     {
       "id": "rn063-2pauw",
       "title": "【愛媛の今むかし】夏の風物詩・伊予市の土曜夜市を歩いてみたら…商店街はいま",

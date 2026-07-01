@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-06-30T17:09:06.491052",
+  "updated_at": "2026-07-01T17:17:36.527600",
   "videos": [
+    {
+      "id": "txn4SaKDmw4",
+      "title": "260701 135849 かっぱ列車（雨の深田駅）",
+      "description": "",
+      "publishedAt": "2026-07-01T10:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/txn4SaKDmw4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=txn4SaKDmw4"
+    },
+    {
+      "id": "ZtCgfJPfb2Y",
+      "title": "260701 135312 雨の深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-07-01T09:45:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZtCgfJPfb2Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZtCgfJPfb2Y"
+    },
+    {
+      "id": "VkYDWoqImlQ",
+      "title": "260701 134834 雨の深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-07-01T09:30:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VkYDWoqImlQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VkYDWoqImlQ"
+    },
     {
       "id": "BaQkX_v6LQo",
       "title": "260630 153651 兼近第３踏切（黄色い列車通過）",
