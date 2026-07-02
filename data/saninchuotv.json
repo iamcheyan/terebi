@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-07-01T17:16:26.214997",
+  "updated_at": "2026-07-02T16:51:04.554512",
   "videos": [
+    {
+      "id": "SH2CHgZkzv0",
+      "title": "【ソノタネ2.0】#8～小林製薬～",
+      "description": "",
+      "publishedAt": "2026-07-02T05:49:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SH2CHgZkzv0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SH2CHgZkzv0"
+    },
     {
       "id": "04frmBvCt5c",
       "title": "「山陰TECH MAKERS」　＃１島根県立松江工業高等学校　機械科",

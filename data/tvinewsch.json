@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-01T17:16:27.702422",
+  "updated_at": "2026-07-02T16:51:07.636820",
   "videos": [
+    {
+      "id": "EsfZr3xTPLc",
+      "title": "【デフリンピック目指す】難聴の女子高校生ランナー　高校最後の夏、日本代表への挑戦",
+      "description": "",
+      "publishedAt": "2026-07-02T11:10:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EsfZr3xTPLc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EsfZr3xTPLc"
+    },
+    {
+      "id": "H_dLB1z5T8U",
+      "title": "【わんカメLIVE】東京ドーム3個分！日本最大級の「あじさい園」を生中継！",
+      "description": "",
+      "publishedAt": "2026-07-02T10:21:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H_dLB1z5T8U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H_dLB1z5T8U"
+    },
+    {
+      "id": "lWstUMLX4rE",
+      "title": "【岩手山２年ぶり山開き】多くの登山客でにぎわいました",
+      "description": "",
+      "publishedAt": "2026-07-02T01:55:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lWstUMLX4rE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lWstUMLX4rE"
+    },
     {
       "id": "6rxAZps17aw",
       "title": "【わんカメＬＩＶＥ】一風変わったうどんを紹介します",

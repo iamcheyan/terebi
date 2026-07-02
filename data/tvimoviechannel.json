@@ -1,8 +1,56 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-07-01T17:17:27.683658",
+  "updated_at": "2026-07-02T16:52:04.275585",
   "videos": [
+    {
+      "id": "ff_nRzditDg",
+      "title": "今日の５きげんテレビ（7月3日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-07-02T15:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ff_nRzditDg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ff_nRzditDg"
+    },
+    {
+      "id": "Jr6B1bwh1TU",
+      "title": "YUDAミルク｜みるくぼーやショップ",
+      "description": "",
+      "publishedAt": "2026-07-02T10:23:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Jr6B1bwh1TU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Jr6B1bwh1TU"
+    },
+    {
+      "id": "S6YqfPm9ew4",
+      "title": "シンプル！豚汁  | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-07-02T09:04:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S6YqfPm9ew4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S6YqfPm9ew4"
+    },
+    {
+      "id": "sMzrV7uwNOM",
+      "title": "岩瀬・きぬ・天津木村が行く！無人駅ごはん｜JR大船渡線 折壁駅・矢越駅｜岩手・一関市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-07-02T03:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sMzrV7uwNOM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sMzrV7uwNOM"
+    },
     {
       "id": "UG9FmKAe6kg",
       "title": "今日の５きげんテレビ（7月2日）｜テレビ岩手",
