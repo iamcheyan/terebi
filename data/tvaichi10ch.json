@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-07-02T16:51:08.218234",
+  "updated_at": "2026-07-03T16:26:42.561634",
   "videos": [
+    {
+      "id": "jYnyoxFz1NA",
+      "title": "【共鳴】#22 こすって水しぶきをあげろ！「実験ヒーロー カガーク」",
+      "description": "",
+      "publishedAt": "2026-07-03T08:55:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jYnyoxFz1NA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jYnyoxFz1NA"
+    },
+    {
+      "id": "5TJNEWS7qEQ",
+      "title": "野球中継 7月11日（土）中日×広島 テレビ愛知",
+      "description": "",
+      "publishedAt": "2026-07-03T06:44:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5TJNEWS7qEQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5TJNEWS7qEQ"
+    },
     {
       "id": "U6xTk71HKlw",
       "title": "AI技術で物流を救え！【クルマとミライ】",

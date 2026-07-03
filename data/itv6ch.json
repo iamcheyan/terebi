@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-07-02T16:52:08.986063",
+  "updated_at": "2026-07-03T16:27:51.809115",
   "videos": [
+    {
+      "id": "hTa3sB4sDeg",
+      "title": "愛媛のニュース(07月03日)",
+      "description": "",
+      "publishedAt": "2026-07-03T11:35:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hTa3sB4sDeg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hTa3sB4sDeg"
+    },
+    {
+      "id": "WJBHmt4HXzg",
+      "title": "STU48が愛媛をEVドライブ！【第24回】ブルークエスト with STU48（新居浜市 Cafe La Miell編）",
+      "description": "",
+      "publishedAt": "2026-07-03T03:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WJBHmt4HXzg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WJBHmt4HXzg"
+    },
     {
       "id": "b8cde4vR9fc",
       "title": "愛媛のニュース(07月02日)",

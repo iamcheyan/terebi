@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-07-02T16:51:41.641664",
+  "updated_at": "2026-07-03T16:27:17.163309",
   "videos": [
+    {
+      "id": "WrA80IIMWQo",
+      "title": "07/03 #26 W杯、サッカーを語るとどうなるか検証 其の弍",
+      "description": "",
+      "publishedAt": "2026-07-03T10:11:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WrA80IIMWQo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WrA80IIMWQo"
+    },
+    {
+      "id": "Sc3OmzmJxlE",
+      "title": "#155 2026年7月3日(金)に行われたリレーの裏話",
+      "description": "",
+      "publishedAt": "2026-07-03T06:16:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Sc3OmzmJxlE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Sc3OmzmJxlE"
+    },
     {
       "id": "wRLwiOoscLU",
       "title": "BSNアナウンサー防災朗読劇　「VOICE of 2004 ～つなぐ声、つむぐ記憶～」",

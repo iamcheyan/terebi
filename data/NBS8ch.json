@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-07-02T16:51:53.427882",
+  "updated_at": "2026-07-03T16:27:32.532798",
   "videos": [
+    {
+      "id": "99JAWkCvrnI",
+      "title": "#03 里山をダッシュ！初めてのアマワラビ採り（5/16放送）",
+      "description": "",
+      "publishedAt": "2026-07-03T10:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/99JAWkCvrnI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=99JAWkCvrnI"
+    },
     {
       "id": "CAibyCFJ0gI",
       "title": "#02 絶景でダッシュ！芝桜と残雪の北アルプス（5/9放送）",
