@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-07-02T16:51:52.525210",
+  "updated_at": "2026-07-04T16:05:03.707781",
   "videos": [
+    {
+      "id": "9p-qO3UbbIw",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-07-04T03:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9p-qO3UbbIw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9p-qO3UbbIw"
+    },
     {
       "id": "O8lcAqmlhY8",
       "title": "社長と社員が本音でカタル　トップ＆ビギナー　第5回　風来軒",

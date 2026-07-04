@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-02T16:51:07.636820",
+  "updated_at": "2026-07-04T16:04:15.341074",
   "videos": [
+    {
+      "id": "ikMAX2Aat-I",
+      "title": "【ゲームを通じて広がる世界】ゲームやeスポーツは体に障がいがある人たちにとって様々な壁を取り外してくれる大切な存在です",
+      "description": "",
+      "publishedAt": "2026-07-04T12:31:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ikMAX2Aat-I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ikMAX2Aat-I"
+    },
     {
       "id": "EsfZr3xTPLc",
       "title": "【デフリンピック目指す】難聴の女子高校生ランナー　高校最後の夏、日本代表への挑戦",

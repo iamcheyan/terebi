@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-03T16:26:21.387061",
+  "updated_at": "2026-07-04T16:04:47.497694",
   "videos": [
+    {
+      "id": "nboNGQHNJtk",
+      "title": "ハマナビ　次回予告（7月11日放送）",
+      "description": "",
+      "publishedAt": "2026-07-04T09:30:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nboNGQHNJtk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nboNGQHNJtk"
+    },
+    {
+      "id": "E4nkiZEoiRw",
+      "title": "ハマナビ　2026年7月4日放送　道志村から横浜へ 水がつなぐ絆",
+      "description": "",
+      "publishedAt": "2026-07-04T09:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E4nkiZEoiRw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E4nkiZEoiRw"
+    },
+    {
+      "id": "YY-4dgReqh0",
+      "title": "LOVEかわさき　7月4日放送　未来をつくる健康都市・かわさき ～誰もが健康で幸せに生きるまちへ～",
+      "description": "",
+      "publishedAt": "2026-07-04T00:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YY-4dgReqh0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YY-4dgReqh0"
+    },
     {
       "id": "OruDqcZLcrY",
       "title": "13分のステージ【代々木女子音楽院】7/3 O.A.",

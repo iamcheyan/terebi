@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-07-03T16:26:39.309948",
+  "updated_at": "2026-07-04T16:04:47.017788",
   "videos": [
+    {
+      "id": "atAeTQWM0Gw",
+      "title": "【まるまる◎あいち】2026年7月4日放送 「アジアパラ競技大会100日前イベント」",
+      "description": "",
+      "publishedAt": "2026-07-04T09:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/atAeTQWM0Gw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=atAeTQWM0Gw"
+    },
     {
       "id": "bDnpMiBqBf0",
       "title": "7月3日(金)放送「レコメシ～自慢のひとさら～」A5黒毛和牛ステーキ（エロい肉）",

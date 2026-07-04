@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-07-03T16:27:43.560912",
+  "updated_at": "2026-07-04T16:05:11.972339",
   "videos": [
+    {
+      "id": "mh-28c5Teu4",
+      "title": "7月11日（土）ごご3時55分放送「里山ものがたり特別編 森からはじまる信州の水物語」",
+      "description": "",
+      "publishedAt": "2026-07-04T07:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mh-28c5Teu4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mh-28c5Teu4"
+    },
+    {
+      "id": "vXiaoWKARuo",
+      "title": "森に蓄えられた水がやがて里へ　自然の恵み\"大町の天然水\"",
+      "description": "",
+      "publishedAt": "2026-07-01T08:46:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vXiaoWKARuo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vXiaoWKARuo"
+    },
     {
       "id": "lex1Z3peRy8",
       "title": "【7月11日放送】里山ものがたり特別編",
