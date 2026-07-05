@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-07-04T16:05:02.107213",
+  "updated_at": "2026-07-05T16:12:29.806837",
   "videos": [
+    {
+      "id": "QVD6yyXrgCA",
+      "title": "いまコレ！かごしま市　7月5日(日)",
+      "description": "",
+      "publishedAt": "2026-07-05T06:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QVD6yyXrgCA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QVD6yyXrgCA"
+    },
     {
       "id": "GmOPNQ0dbBo",
       "title": "【わんにゃんプラスかごしま】「独り占めがお好き♪」",

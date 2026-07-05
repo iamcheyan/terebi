@@ -1,8 +1,20 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-04T16:04:47.497694",
+  "updated_at": "2026-07-05T16:11:33.305925",
   "videos": [
+    {
+      "id": "cPF637lVNDY",
+      "title": "JA共済杯  第12回神奈川県女子学童選抜野球大会",
+      "description": "",
+      "publishedAt": "2026-07-05T11:55:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cPF637lVNDY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cPF637lVNDY"
+    },
     {
       "id": "nboNGQHNJtk",
       "title": "ハマナビ　次回予告（7月11日放送）",

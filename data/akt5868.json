@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-07-01T17:17:06.111240",
+  "updated_at": "2026-07-05T16:12:13.216265",
   "videos": [
+    {
+      "id": "VZsQfXeN6gE",
+      "title": "あだまっこ体操！　2026年7月5日放送分",
+      "description": "",
+      "publishedAt": "2026-07-05T08:30:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VZsQfXeN6gE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VZsQfXeN6gE"
+    },
     {
       "id": "58wV45WB9yI",
       "title": "スポーツの力　IRISOアリーナ横手（横手市立体育館）　畑山陽一さん（横手市教育委員会　教育総務部スポーツ振興課）　2026年6月30日放送分",

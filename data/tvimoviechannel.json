@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-07-03T16:27:45.085104",
+  "updated_at": "2026-07-05T16:12:46.645959",
   "videos": [
+    {
+      "id": "1ouWLBXkx7k",
+      "title": "今日の５きげんテレビ（7月6日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-07-05T15:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1ouWLBXkx7k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1ouWLBXkx7k"
+    },
     {
       "id": "y7Fav4r9-8Y",
       "title": "金ヶ崎町で新ネタ調査！|まち探5",

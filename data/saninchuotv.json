@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-07-02T16:51:04.554512",
+  "updated_at": "2026-07-05T16:11:14.268342",
   "videos": [
+    {
+      "id": "yrzc1ZmoCXE",
+      "title": "予告『ゴルフ☆パラダイス - THE GAME CHANGER -』7月12日（日）6：30～放送",
+      "description": "",
+      "publishedAt": "2026-07-04T22:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yrzc1ZmoCXE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yrzc1ZmoCXE"
+    },
     {
       "id": "SH2CHgZkzv0",
       "title": "【ソノタネ2.0】#8～小林製薬～",

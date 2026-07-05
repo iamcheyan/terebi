@@ -1,8 +1,32 @@
 {
   "channel_id": "UC_0tfCjB-pPNR8r9G9G1fTA",
   "channel_name": "TeNY新潟一番ニュース",
-  "updated_at": "2026-07-04T16:05:14.379199",
+  "updated_at": "2026-07-05T16:12:49.362946",
   "videos": [
+    {
+      "id": "R1rOn69glD4",
+      "title": "【犯罪を防げ】学生114人が「サイバーボランティア」に《新潟》",
+      "description": "",
+      "publishedAt": "2026-07-05T10:15:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R1rOn69glD4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R1rOn69glD4"
+    },
+    {
+      "id": "VLpTIwD-zBM",
+      "title": "“名物看板”が撤去へ",
+      "description": "",
+      "publishedAt": "2026-07-05T09:15:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VLpTIwD-zBM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VLpTIwD-zBM"
+    },
     {
       "id": "791HwhLaLus",
       "title": "≪新潟・阿賀野市≫屋根の上から地域見守る 瓦ぶき職人の救命講習",

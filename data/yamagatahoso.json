@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-06-28T16:13:24.352256",
+  "updated_at": "2026-07-05T16:12:52.580929",
   "videos": [
+    {
+      "id": "cA9eAHmZjkI",
+      "title": "やまがたサンデー５　７月５日放送分　やまがたの山　魅力満点プロジェクト",
+      "description": "",
+      "publishedAt": "2026-07-05T08:30:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cA9eAHmZjkI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cA9eAHmZjkI"
+    },
     {
       "id": "xJCV2xUtTcw",
       "title": "やまがたサンデー５　６月２８日放送分　県土に路を拓く　～土木インフラ１５０年の歩み～",

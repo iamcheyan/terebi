@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-07-03T16:27:37.761305",
+  "updated_at": "2026-07-05T16:12:37.396781",
   "videos": [
+    {
+      "id": "sgzDS8W7iI8",
+      "title": "RKCアプリ漢字クイズ 7/6の問題 ～髙橋龍介アナのヒント～",
+      "description": "",
+      "publishedAt": "2026-07-05T15:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sgzDS8W7iI8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sgzDS8W7iI8"
+    },
+    {
+      "id": "m85K3a5cWTs",
+      "title": "「ジミーちゃん、帰国の理由」",
+      "description": "",
+      "publishedAt": "2026-07-05T09:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m85K3a5cWTs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m85K3a5cWTs"
+    },
     {
       "id": "wfmZZVktfrc",
       "title": "【おじたグッズ新アイテム登場🐟】販売は7月4日(土)からドンキ高知店で！",
