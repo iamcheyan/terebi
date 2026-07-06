@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-07-04T16:05:11.972339",
+  "updated_at": "2026-07-06T17:46:28.816792",
   "videos": [
+    {
+      "id": "UVpcUNylLZ4",
+      "title": "写真展「Sustainable World－佐藤大史・磯部昭子ふたりの視点から－」（令和８年９月１９日～１2月６日）",
+      "description": "",
+      "publishedAt": "2026-07-06T09:03:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UVpcUNylLZ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UVpcUNylLZ4"
+    },
+    {
+      "id": "ZB_seDaVEkE",
+      "title": "極寒の大地・アラスカ　いのちの物語を切り取る　写真展「Sustainable World－佐藤大史・磯部昭子ふたりの視点から－」（令和８年９月１９日～１2月６日）",
+      "description": "",
+      "publishedAt": "2026-07-06T08:54:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZB_seDaVEkE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZB_seDaVEkE"
+    },
     {
       "id": "mh-28c5Teu4",
       "title": "7月11日（土）ごご3時55分放送「里山ものがたり特別編 森からはじまる信州の水物語」",

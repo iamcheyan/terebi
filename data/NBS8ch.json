@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-07-05T16:12:32.772837",
+  "updated_at": "2026-07-06T17:46:21.022063",
   "videos": [
+    {
+      "id": "00lYshnbntg",
+      "title": "#06 ますダッシュvsアルパカダッシュ！（6/6放送）",
+      "description": "",
+      "publishedAt": "2026-07-06T10:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/00lYshnbntg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=00lYshnbntg"
+    },
     {
       "id": "eX9w213-jLo",
       "title": "#05 益田のダッシュをカメラが追う！ピンクの花畑へ（5/30放送）",

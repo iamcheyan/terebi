@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-07-05T16:11:54.339300",
+  "updated_at": "2026-07-06T17:45:46.687283",
   "videos": [
+    {
+      "id": "9BFpAnj8Oq4",
+      "title": "RCCテレビ「味ひとすじ 永谷園　頑張れ！ニッポンの技～広島県北広島町 芸北神楽面～」2026年7月5日放送",
+      "description": "",
+      "publishedAt": "2026-07-06T04:46:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9BFpAnj8Oq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9BFpAnj8Oq4"
+    },
+    {
+      "id": "rUB2SS8hIFc",
+      "title": "RCCテレビ『アインシュタインの出没！ひな壇団』2026年7月11日予告",
+      "description": "",
+      "publishedAt": "2026-07-06T01:34:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rUB2SS8hIFc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rUB2SS8hIFc"
+    },
     {
       "id": "pHvrqpa2Vhs",
       "title": "＜予告＞情熱サンフレッチェ 7月10日放送",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-07-04T16:04:43.107641",
+  "updated_at": "2026-07-06T17:45:53.661933",
   "videos": [
+    {
+      "id": "snDlvPCAzbc",
+      "title": "【LBS】AI＋ロボット技術で広める脱炭素農業",
+      "description": "",
+      "publishedAt": "2026-07-06T12:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/snDlvPCAzbc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=snDlvPCAzbc"
+    },
+    {
+      "id": "sW_aMdCLnDw",
+      "title": "好井まさおのコワイハナシ「北海道にて」",
+      "description": "",
+      "publishedAt": "2026-07-06T00:54:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sW_aMdCLnDw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sW_aMdCLnDw"
+    },
     {
       "id": "gmFR4gtDakE",
       "title": "【絶景】美しい棚田が広がる 四谷の千枚田（愛知県新城市）【あまドラ～天野っちのドライブしよう！！～】",

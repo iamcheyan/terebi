@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-07-05T16:12:43.744931",
+  "updated_at": "2026-07-06T17:46:28.650016",
   "videos": [
+    {
+      "id": "pezsUcgcd8U",
+      "title": "【公式】ドキュメント九州「人生一席～その噺家、曰くものにつき～」（2026年7月5日OA）",
+      "description": "",
+      "publishedAt": "2026-07-05T16:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pezsUcgcd8U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pezsUcgcd8U"
+    },
     {
       "id": "hO7YP5fbaaY",
       "title": "【公式】「橘家文太の1minute」ミライへの１minute｜テレビ西日本",
