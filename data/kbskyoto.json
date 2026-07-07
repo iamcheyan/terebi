@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-07-03T16:27:04.446125",
+  "updated_at": "2026-07-07T17:17:29.143114",
   "videos": [
+    {
+      "id": "wSRdaidyIoc",
+      "title": "【特集】スタートアップカンファレンスIVS2026／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-07-07T09:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wSRdaidyIoc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wSRdaidyIoc"
+    },
     {
       "id": "mp0sY-G14fA",
       "title": "仏教の世界観を身近に体験できる「煩悩シューティング」！？／きょうと経済テラス キュンと！",

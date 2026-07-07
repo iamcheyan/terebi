@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-07-04T16:04:35.659934",
+  "updated_at": "2026-07-07T17:16:32.606215",
   "videos": [
+    {
+      "id": "2GZPvLcloWI",
+      "title": "【ベジ得】大葉",
+      "description": "",
+      "publishedAt": "2026-07-07T02:36:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2GZPvLcloWI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2GZPvLcloWI"
+    },
+    {
+      "id": "ae08__0pBX0",
+      "title": "川にはライフジャケットでも防げない危険が…",
+      "description": "",
+      "publishedAt": "2026-07-07T02:35:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ae08__0pBX0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ae08__0pBX0"
+    },
     {
       "id": "SPyeAuJBbUQ",
       "title": "【ゆ～ばら！】夏バテ防止グルメをご紹介！",

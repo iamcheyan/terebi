@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-07-06T17:46:08.151829",
+  "updated_at": "2026-07-07T17:17:33.656929",
   "videos": [
+    {
+      "id": "xcKjRxIxuqI",
+      "title": "スポーツの力　湯沢高校 陸上競技部　小川章介選手　2026年7月7日放送分",
+      "description": "",
+      "publishedAt": "2026-07-07T14:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xcKjRxIxuqI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xcKjRxIxuqI"
+    },
     {
       "id": "EAQx8HCZv_E",
       "title": "『最近しゃべりにくい？話す力・滑舌について』真田かずみの「おくち研究室」～きょうの口活 ５分レッスン～2026年7月5日放送",

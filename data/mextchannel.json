@@ -1,8 +1,32 @@
 {
   "channel_id": "UCL2DLwqqYxa0Q5DcGoQGbrw",
   "channel_name": "文部科学省（MEXT）",
-  "updated_at": "2026-07-03T16:26:27.977019",
+  "updated_at": "2026-07-07T17:17:15.046046",
   "videos": [
+    {
+      "id": "s65e0OEKPNI",
+      "title": "【令和8年版白書紹介】科学とイノベーションが切り拓く我が国の未来",
+      "description": "",
+      "publishedAt": "2026-07-07T03:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s65e0OEKPNI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s65e0OEKPNI"
+    },
+    {
+      "id": "vow5qUpi37c",
+      "title": "松本文部科学大臣記者会見（令和8年7月7日）：文部科学省",
+      "description": "",
+      "publishedAt": "2026-07-07T02:59:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vow5qUpi37c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vow5qUpi37c"
+    },
     {
       "id": "8y0wiLtyOJc",
       "title": "松本文部科学大臣記者会見（令和8年7月3日）：文部科学省",

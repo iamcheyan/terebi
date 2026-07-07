@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-06-30T17:08:33.768202",
+  "updated_at": "2026-07-07T17:17:45.679699",
   "videos": [
+    {
+      "id": "Q3qE5e6TZIM",
+      "title": "【旬景とやま】苔の渓谷",
+      "description": "",
+      "publishedAt": "2026-07-07T10:28:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q3qE5e6TZIM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q3qE5e6TZIM"
+    },
     {
       "id": "76O-ttYSsVY",
       "title": "【旬景とやま】白木峰 雲上のお花畑",

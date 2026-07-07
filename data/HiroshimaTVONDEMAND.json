@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-07-06T17:46:02.978237",
+  "updated_at": "2026-07-07T17:16:56.380302",
   "videos": [
+    {
+      "id": "egAecm_ttbg",
+      "title": "われら！シン・呉Tuber＃11「呉市産業マイスター知ってる？」",
+      "description": "",
+      "publishedAt": "2026-07-07T10:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/egAecm_ttbg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=egAecm_ttbg"
+    },
+    {
+      "id": "7RkIuwhD9jA",
+      "title": "【キッズチャレンジスタジアム】えまちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-07-07T09:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7RkIuwhD9jA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7RkIuwhD9jA"
+    },
     {
       "id": "yRqVNDoyGG0",
       "title": "【室町時代から続く古刹（こさつ）】市指定重要文化財の三十三観音菩薩像",
