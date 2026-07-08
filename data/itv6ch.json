@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-07-07T17:18:14.760369",
+  "updated_at": "2026-07-08T16:42:13.016950",
   "videos": [
+    {
+      "id": "uAVT-8ffyW8",
+      "title": "愛媛のニュース(07月08日)",
+      "description": "",
+      "publishedAt": "2026-07-08T11:38:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uAVT-8ffyW8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uAVT-8ffyW8"
+    },
+    {
+      "id": "OmW-vkv2aUo",
+      "title": "愛媛MP 夢のクロスロード 高橋駿介キャプテン",
+      "description": "",
+      "publishedAt": "2026-07-08T09:30:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OmW-vkv2aUo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OmW-vkv2aUo"
+    },
+    {
+      "id": "13AL0Xxi984",
+      "title": "ゼロからの挑戦！東温高校レスリング部「せーのっ！未来への一歩」",
+      "description": "",
+      "publishedAt": "2026-07-08T09:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/13AL0Xxi984/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=13AL0Xxi984"
+    },
     {
       "id": "WrxrhAWBJYw",
       "title": "愛媛のニュース(07月07日)",

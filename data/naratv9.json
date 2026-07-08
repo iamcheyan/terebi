@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-07-06T17:45:29.292002",
+  "updated_at": "2026-07-08T16:41:30.522875",
   "videos": [
+    {
+      "id": "gsKhVpTlqRo",
+      "title": "奈良マツダ『新型CX-5』吉川アナがドライブしてみた！",
+      "description": "",
+      "publishedAt": "2026-07-08T09:30:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gsKhVpTlqRo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gsKhVpTlqRo"
+    },
+    {
+      "id": "aZW0ytjLt5E",
+      "title": "【7月3日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-07-08T04:23:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aZW0ytjLt5E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aZW0ytjLt5E"
+    },
     {
       "id": "-dd7CKEA_eM",
       "title": "KOBO TRAIL2026～弘法大師の道～　番宣",

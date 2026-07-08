@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-07T17:18:22.760462",
+  "updated_at": "2026-07-08T16:42:18.094213",
   "videos": [
+    {
+      "id": "tm2P60MWPOc",
+      "title": "260708 135059 宮野下第３踏切 ２",
+      "description": "",
+      "publishedAt": "2026-07-08T12:46:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tm2P60MWPOc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tm2P60MWPOc"
+    },
+    {
+      "id": "zQdlku4hw2Q",
+      "title": "260708 134458 宮野下第３踏切（予土新幹線とキハ54通過）",
+      "description": "",
+      "publishedAt": "2026-07-08T12:32:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zQdlku4hw2Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zQdlku4hw2Q"
+    },
+    {
+      "id": "RWoyC8glAcE",
+      "title": "260708 134054 宮野下第３踏切",
+      "description": "",
+      "publishedAt": "2026-07-08T12:28:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RWoyC8glAcE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RWoyC8glAcE"
+    },
     {
       "id": "x9h16bl5XD4",
       "title": "260707 175212 元宗踏切 ２",

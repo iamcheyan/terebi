@@ -1,8 +1,32 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-07-06T17:46:00.646824",
+  "updated_at": "2026-07-08T16:41:21.671278",
   "videos": [
+    {
+      "id": "fPNeZmFSwuc",
+      "title": "予告【しまねっこの宅配便X】7/15（水）放送「島根に暮らす外国人を支える拠点～しまね国際センター～」",
+      "description": "",
+      "publishedAt": "2026-07-08T12:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fPNeZmFSwuc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fPNeZmFSwuc"
+    },
+    {
+      "id": "tF53k8DRi2M",
+      "title": "【しまねっこの宅配便X】#10「島根に暮らす外国人を支える拠点～しまね国際センター～」",
+      "description": "",
+      "publishedAt": "2026-07-08T08:15:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tF53k8DRi2M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tF53k8DRi2M"
+    },
     {
       "id": "I5y4GnkGBoA",
       "title": "「山陰TECH MAKERS」　＃１島根県立松江工業高等学校　機械科",

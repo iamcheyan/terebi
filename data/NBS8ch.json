@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-07-07T17:17:52.529174",
+  "updated_at": "2026-07-08T16:41:59.606252",
   "videos": [
+    {
+      "id": "ksfLmOWqRpI",
+      "title": "#08 風鈴とダッシュ！鹿児島のパパも登場（6/20放送）",
+      "description": "",
+      "publishedAt": "2026-07-08T10:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ksfLmOWqRpI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ksfLmOWqRpI"
+    },
     {
       "id": "fPI-XljAaKU",
       "title": "#07 洗濯物とダッシュ！梅雨のお悩み解決（6/13放送）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-07-07T17:16:32.606215",
+  "updated_at": "2026-07-08T16:41:30.221600",
   "videos": [
+    {
+      "id": "tPyI_8jkIc4",
+      "title": "【青春にエール】魂の一筆を～伊予高校書道部",
+      "description": "",
+      "publishedAt": "2026-07-08T10:30:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tPyI_8jkIc4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tPyI_8jkIc4"
+    },
+    {
+      "id": "Z20UQb94AFU",
+      "title": "デジタル絵本で豪雨を伝える高校生",
+      "description": "",
+      "publishedAt": "2026-07-08T08:25:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z20UQb94AFU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z20UQb94AFU"
+    },
     {
       "id": "2GZPvLcloWI",
       "title": "【ベジ得】大葉",

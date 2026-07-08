@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-07-07T17:18:10.620767",
+  "updated_at": "2026-07-08T16:42:11.385212",
   "videos": [
+    {
+      "id": "E3yNH2NF2Wk",
+      "title": "みんテレ　7月9日（木）放送",
+      "description": "",
+      "publishedAt": "2026-07-08T10:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E3yNH2NF2Wk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E3yNH2NF2Wk"
+    },
     {
       "id": "WAGAmeCCtSY",
       "title": "#5「あの味と、仲間に会いに今年も北海道へ。老舗店主がつなぐ市民ランナー。」",
