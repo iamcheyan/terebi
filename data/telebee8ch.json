@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-07-07T17:18:04.164162",
+  "updated_at": "2026-07-09T17:24:03.039209",
   "videos": [
+    {
+      "id": "ppUbMPNaJ2w",
+      "title": "【お弁当、もった？】#2 福岡市西区 高2の娘さんにつくるお弁当",
+      "description": "",
+      "publishedAt": "2026-07-09T12:57:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ppUbMPNaJ2w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ppUbMPNaJ2w"
+    },
+    {
+      "id": "cCStOXZY9a4",
+      "title": "【公式】2026年7月11日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-07-09T04:20:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cCStOXZY9a4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cCStOXZY9a4"
+    },
     {
       "id": "LZBKlrnvrXc",
       "title": "【トラックがつなぐ、未来の物流 】「緊急事態」燃油価格の高騰で苦悩する運送会社　#01",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-07-08T16:42:08.327875",
+  "updated_at": "2026-07-09T17:24:03.883011",
   "videos": [
+    {
+      "id": "sAJNyw-nUCI",
+      "title": "今日の５きげんテレビ（7月10日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-07-09T15:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sAJNyw-nUCI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sAJNyw-nUCI"
+    },
+    {
+      "id": "Rph0lCGE4D0",
+      "title": "鶏ムネ肉のソテー　ガスパチョソース | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-07-09T08:38:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rph0lCGE4D0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rph0lCGE4D0"
+    },
     {
       "id": "iBXhoonygts",
       "title": "今日の５きげんテレビ（7月9日）｜テレビ岩手",

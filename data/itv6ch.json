@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-07-08T16:42:13.016950",
+  "updated_at": "2026-07-09T17:24:07.160514",
   "videos": [
+    {
+      "id": "OsijP_u7GCQ",
+      "title": "愛媛のニュース(07月09日)",
+      "description": "",
+      "publishedAt": "2026-07-09T11:38:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OsijP_u7GCQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OsijP_u7GCQ"
+    },
+    {
+      "id": "J66mQN3sCVQ",
+      "title": "三島高校柔道部 伝説の父を追う双子と若き女性監督「せーのっ！未来への一歩」",
+      "description": "",
+      "publishedAt": "2026-07-09T09:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J66mQN3sCVQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J66mQN3sCVQ"
+    },
     {
       "id": "uAVT-8ffyW8",
       "title": "愛媛のニュース(07月08日)",

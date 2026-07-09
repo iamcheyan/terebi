@@ -1,8 +1,68 @@
 {
   "channel_id": "UCuhA-fogYs0MwglwZbnL_8A",
   "channel_name": "四国放送（JRT）",
-  "updated_at": "2026-07-08T16:41:31.452708",
+  "updated_at": "2026-07-09T17:23:35.661828",
   "videos": [
+    {
+      "id": "gXzCAMk1nv4",
+      "title": "【注目校】アマ球界名将と目指す甲子園　戦力豊富な海部高校",
+      "description": "",
+      "publishedAt": "2026-07-09T10:59:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gXzCAMk1nv4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gXzCAMk1nv4"
+    },
+    {
+      "id": "s0bOIY95Mr4",
+      "title": "【とくしま百名店】徳島ラーメンの名店　藍住町の王王軒",
+      "description": "",
+      "publishedAt": "2026-07-09T10:44:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s0bOIY95Mr4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s0bOIY95Mr4"
+    },
+    {
+      "id": "Bnf8zOt33VY",
+      "title": "【ゴジカル！】つぐみんのスイーツ予想「カフェ・ド・パティスリー 菓子工房47」（徳島市渋野町）",
+      "description": "",
+      "publishedAt": "2026-07-09T10:33:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Bnf8zOt33VY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Bnf8zOt33VY"
+    },
+    {
+      "id": "aEXglNDlyGY",
+      "title": "【ゴジカル！】つぐみんのスイーツ予想・CAFE KOFS 徳島本店（徳島市八万町）",
+      "description": "",
+      "publishedAt": "2026-07-09T10:33:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aEXglNDlyGY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aEXglNDlyGY"
+    },
+    {
+      "id": "gv2EsZWiUS8",
+      "title": "【ゴジカル！】みなみの麺日和・中華そば伊緒利",
+      "description": "",
+      "publishedAt": "2026-07-09T02:11:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gv2EsZWiUS8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gv2EsZWiUS8"
+    },
     {
       "id": "Uw0Id1oAYMI",
       "title": "【難病の画家】原点の地で描く命の色彩　徳島で作品展",

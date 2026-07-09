@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-08T16:42:18.094213",
+  "updated_at": "2026-07-09T17:24:11.046537",
   "videos": [
+    {
+      "id": "RkLZ8_EY3Fc",
+      "title": "260709 135332 ちいさな鉄橋を渡るすまいるえきちゃん号",
+      "description": "",
+      "publishedAt": "2026-07-09T11:02:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RkLZ8_EY3Fc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RkLZ8_EY3Fc"
+    },
+    {
+      "id": "ZFzgkhCukf0",
+      "title": "260709 134811 ちいさな鉄橋 ２",
+      "description": "",
+      "publishedAt": "2026-07-09T11:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZFzgkhCukf0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZFzgkhCukf0"
+    },
+    {
+      "id": "OBaMDtZaa94",
+      "title": "260709 134401 ちいさな鉄橋",
+      "description": "",
+      "publishedAt": "2026-07-09T10:45:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OBaMDtZaa94/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OBaMDtZaa94"
+    },
+    {
+      "id": "X6jJqvVufxI",
+      "title": "260709 133521 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-07-09T10:27:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X6jJqvVufxI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X6jJqvVufxI"
+    },
+    {
+      "id": "aVlCN-mYtDc",
+      "title": "260709 133149 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-07-09T10:24:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aVlCN-mYtDc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aVlCN-mYtDc"
+    },
     {
       "id": "tm2P60MWPOc",
       "title": "260708 135059 宮野下第３踏切 ２",

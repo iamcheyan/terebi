@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-08T16:41:36.594618",
+  "updated_at": "2026-07-09T17:23:32.019005",
   "videos": [
+    {
+      "id": "veUsC1SEUJ0",
+      "title": "【クマ被害】民家にクマが３回にわたって侵入！",
+      "description": "",
+      "publishedAt": "2026-07-09T10:43:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/veUsC1SEUJ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=veUsC1SEUJ0"
+    },
+    {
+      "id": "YAKRl8XM6Ak",
+      "title": "元気○（マル）らいふ　【野草の魅力】（2026/7/8放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-07-09T05:47:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YAKRl8XM6Ak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YAKRl8XM6Ak"
+    },
     {
       "id": "CCgiJYUSJA4",
       "title": "【バンカラ！初女性部長】黒沢尻北高１００年以上続く応援部で初めての女性部長！",
