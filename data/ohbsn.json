@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-07-09T17:23:52.588101",
+  "updated_at": "2026-07-10T16:58:18.103527",
   "videos": [
+    {
+      "id": "3UT7QjFYMLc",
+      "title": "07/10 #27 デジタル凸とアナログ凹",
+      "description": "",
+      "publishedAt": "2026-07-10T10:06:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3UT7QjFYMLc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3UT7QjFYMLc"
+    },
+    {
+      "id": "5XKkcAZcwDk",
+      "title": "#156 2026年7月10日(金) 書き順と怖い話",
+      "description": "",
+      "publishedAt": "2026-07-10T06:22:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5XKkcAZcwDk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5XKkcAZcwDk"
+    },
     {
       "id": "gsNu2AHo0DM",
       "title": "私立高校スマートNAVI2026「新潟第一高等学校」",

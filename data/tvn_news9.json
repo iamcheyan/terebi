@@ -1,8 +1,68 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-07-09T17:23:38.954452",
+  "updated_at": "2026-07-10T16:57:55.341278",
   "videos": [
+    {
+      "id": "udOoAUqBwGU",
+      "title": "来訪者に合わせたＡＩガイド開発など　奈文研×大日本印刷 「次世代型遺跡博物館」へ協定",
+      "description": "",
+      "publishedAt": "2026-07-10T10:03:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/udOoAUqBwGU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=udOoAUqBwGU"
+    },
+    {
+      "id": "4nbsNjyyj_A",
+      "title": "奈良県交通安全アンバサダー　県広報担当VTｕｂｅｒ「奈々鹿」を委嘱",
+      "description": "",
+      "publishedAt": "2026-07-10T09:59:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4nbsNjyyj_A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4nbsNjyyj_A"
+    },
+    {
+      "id": "Ksr6KW49lm4",
+      "title": "近鉄百貨店奈良店　日本人メジャーリーガー・ミュージアム風ショップ",
+      "description": "",
+      "publishedAt": "2026-07-10T09:59:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ksr6KW49lm4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ksr6KW49lm4"
+    },
+    {
+      "id": "Kzcs4VdzGZk",
+      "title": "全国制覇へ士気高める　全国高校総体　県選手団結団式",
+      "description": "",
+      "publishedAt": "2026-07-10T09:57:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kzcs4VdzGZk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kzcs4VdzGZk"
+    },
+    {
+      "id": "TqNitBLuuw0",
+      "title": "大淀町の山林で女性を殺害　とび職の男に拘禁４年を求刑",
+      "description": "",
+      "publishedAt": "2026-07-10T09:57:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TqNitBLuuw0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TqNitBLuuw0"
+    },
     {
       "id": "C84R3GbInkQ",
       "title": "支給額抑制の動きも・・・　県内企業の夏のボーナス　６年連続増額",
