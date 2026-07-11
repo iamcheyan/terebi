@@ -1,8 +1,44 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-07-10T16:58:47.654815",
+  "updated_at": "2026-07-11T15:59:43.783813",
   "videos": [
+    {
+      "id": "zgt45eRlkJw",
+      "title": "配送業の42歳男をひき逃げ容疑で逮捕「人だとはわからなかった」　三重・津市",
+      "description": "",
+      "publishedAt": "2026-07-11T03:21:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zgt45eRlkJw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zgt45eRlkJw"
+    },
+    {
+      "id": "0o3IRPkxg6k",
+      "title": "一般ドライバーが有料で運行　ライドシェア実証へ　夜間の移動手段確保に期待　三重・伊勢市",
+      "description": "",
+      "publishedAt": "2026-07-11T03:17:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0o3IRPkxg6k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0o3IRPkxg6k"
+    },
+    {
+      "id": "0F8pjeTgKEo",
+      "title": "シマウマやヒョウの剥製標本など約180点　三重県総合博物館MieMuで企画展",
+      "description": "",
+      "publishedAt": "2026-07-11T03:15:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0F8pjeTgKEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0F8pjeTgKEo"
+    },
     {
       "id": "WfonmyVzkIQ",
       "title": "【三重大会】1回戦（4日～8日）の試合結果はこちら！",

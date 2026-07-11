@@ -1,8 +1,44 @@
 {
   "channel_id": "UCu8GW2WcGp_9Lic2wZY_IVg",
   "channel_name": "KAB熊本朝日放送",
-  "updated_at": "2026-07-10T16:58:23.314906",
+  "updated_at": "2026-07-11T15:59:19.093000",
   "videos": [
+    {
+      "id": "3Mwg-eCB46k",
+      "title": "夏の高校野球熊本大会2回戦　大会第2号ホームラン　八代東VSルーテル学院",
+      "description": "",
+      "publishedAt": "2026-07-11T11:03:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3Mwg-eCB46k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3Mwg-eCB46k"
+    },
+    {
+      "id": "xUIKyPSBzrU",
+      "title": "夏の高校野球熊本大会2回戦　大会第1号ホームラン　熊本工VS水俣",
+      "description": "",
+      "publishedAt": "2026-07-11T11:03:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xUIKyPSBzrU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xUIKyPSBzrU"
+    },
+    {
+      "id": "oxLu8umumzk",
+      "title": "熊本県内各地で猛暑日に　熊本市では「あさがお市」",
+      "description": "",
+      "publishedAt": "2026-07-11T11:02:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oxLu8umumzk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oxLu8umumzk"
+    },
     {
       "id": "0h1SUpwz7NI",
       "title": "夏の高校野球熊本大会1回戦　打者一巡の猛攻で…翔陽VS鹿本商工",

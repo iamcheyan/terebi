@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2026-07-10T16:58:11.789815",
+  "updated_at": "2026-07-11T15:59:05.360534",
   "videos": [
+    {
+      "id": "GBBK1vdKMD4",
+      "title": "ライフカードpresents【Life of Ryoma】＃２７龍馬と武市半平太",
+      "description": "",
+      "publishedAt": "2026-07-11T14:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GBBK1vdKMD4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GBBK1vdKMD4"
+    },
     {
       "id": "OHVwUDqj2P0",
       "title": "高知の天気　11日　西部を中心に雲広がりやすい一日　山岸拓気象予報士が解説",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-07-10T16:57:54.174425",
+  "updated_at": "2026-07-11T15:59:04.787580",
   "videos": [
+    {
+      "id": "k0it0vHRYoA",
+      "title": "鈴木農水大臣らが白米千枚田でボランティア",
+      "description": "",
+      "publishedAt": "2026-07-11T09:50:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k0it0vHRYoA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k0it0vHRYoA"
+    },
+    {
+      "id": "GpMGWzeXLQc",
+      "title": "【高校野球】星稜－北陸学院",
+      "description": "",
+      "publishedAt": "2026-07-11T09:50:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GpMGWzeXLQc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GpMGWzeXLQc"
+    },
     {
       "id": "RZJpptwo0zM",
       "title": "【高校野球】石川高専－金沢市立工業",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-07-10T16:58:43.205076",
+  "updated_at": "2026-07-11T15:59:38.917628",
   "videos": [
+    {
+      "id": "nIjwjrBvQE0",
+      "title": "愛媛のニュース(07月11日)",
+      "description": "",
+      "publishedAt": "2026-07-11T11:32:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nIjwjrBvQE0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nIjwjrBvQE0"
+    },
+    {
+      "id": "4gu5vAm73_g",
+      "title": "「赤ちゃんを助けて」胸まで迫る濁流へ…豪雨で孤立した警察署で何が起きたのか",
+      "description": "",
+      "publishedAt": "2026-07-11T08:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4gu5vAm73_g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4gu5vAm73_g"
+    },
     {
       "id": "Pqhm2kpr9OM",
       "title": "愛媛のニュース(07月10日)",

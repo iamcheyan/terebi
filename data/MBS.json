@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-07-10T16:58:01.076130",
+  "updated_at": "2026-07-11T15:58:57.813804",
   "videos": [
+    {
+      "id": "CbFbkLW6f0w",
+      "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/7/11放送",
+      "description": "",
+      "publishedAt": "2026-07-11T01:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CbFbkLW6f0w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CbFbkLW6f0w"
+    },
     {
       "id": "60wJmSnCDE0",
       "title": "愚痴と照れが止まらない内場夫婦",

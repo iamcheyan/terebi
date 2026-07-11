@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-07-10T16:58:09.416084",
+  "updated_at": "2026-07-11T15:58:41.546899",
   "videos": [
+    {
+      "id": "0lGcrJuVoSE",
+      "title": "【まるまる◎あいち】2026年7月11日放送 「クーリングシェルターの開放」",
+      "description": "",
+      "publishedAt": "2026-07-11T09:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0lGcrJuVoSE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0lGcrJuVoSE"
+    },
     {
       "id": "KfZwyKnpRgM",
       "title": "7月10日(金)放送「レコメシ～自慢のひとさら～」幻の手羽先",
