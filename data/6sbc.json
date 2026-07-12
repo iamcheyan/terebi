@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwVMadMSXOS0AMuW_3nlyRQ",
   "channel_name": "SBC信越放送",
-  "updated_at": "2026-07-09T17:24:00.729546",
+  "updated_at": "2026-07-12T16:01:55.349757",
   "videos": [
+    {
+      "id": "1sj6cQJomBQ",
+      "title": "信州松代 初夏の城下町散歩～真田の秘宝と善光寺の絆を訪ねて～",
+      "description": "",
+      "publishedAt": "2026-07-12T06:30:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1sj6cQJomBQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1sj6cQJomBQ"
+    },
+    {
+      "id": "bqAR6Z7ml5U",
+      "title": "長野から起業家を～NIB 長野イノベーションベースの挑戦～51",
+      "description": "",
+      "publishedAt": "2026-07-12T02:30:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bqAR6Z7ml5U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bqAR6Z7ml5U"
+    },
     {
       "id": "A6ukJ7PQF9U",
       "title": "ＹＥＳ！ものづくり 国立長野工業高等専門学校②",

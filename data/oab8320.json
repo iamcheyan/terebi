@@ -1,8 +1,32 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-07-11T15:59:26.402070",
+  "updated_at": "2026-07-12T16:01:53.024756",
   "videos": [
+    {
+      "id": "SgAruKvH4Is",
+      "title": "【2回戦】7/12 第1試合 中津東vs大分東",
+      "description": "",
+      "publishedAt": "2026-07-12T09:02:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SgAruKvH4Is/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SgAruKvH4Is"
+    },
+    {
+      "id": "z5DggD8Us10",
+      "title": "学生の視点で地球温暖化を防ぐ",
+      "description": "",
+      "publishedAt": "2026-07-12T08:55:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/z5DggD8Us10/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=z5DggD8Us10"
+    },
     {
       "id": "Um3rFxIhIhA",
       "title": "料理で国際交流！",

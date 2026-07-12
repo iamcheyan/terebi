@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-07-11T15:59:22.711756",
+  "updated_at": "2026-07-12T16:01:50.502181",
   "videos": [
+    {
+      "id": "-mfzV0eAMck",
+      "title": "いまコレ！かごしま市　7月12日(日)",
+      "description": "",
+      "publishedAt": "2026-07-12T06:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-mfzV0eAMck/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-mfzV0eAMck"
+    },
     {
       "id": "dbxAzh7k7wc",
       "title": "【わんにゃんプラスかごしま】「わが家の熱中症対策」",

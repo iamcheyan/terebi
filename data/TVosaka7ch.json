@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-07-11T15:58:48.900121",
+  "updated_at": "2026-07-12T16:01:31.700676",
   "videos": [
+    {
+      "id": "YPwnsNhoL6s",
+      "title": "食遺産File.254「超やわらか梅とんかつ」＠大阪府・和泉市",
+      "description": "",
+      "publishedAt": "2026-07-12T03:45:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YPwnsNhoL6s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YPwnsNhoL6s"
+    },
     {
       "id": "-adu6ornydw",
       "title": "【よゐこ有野】この街、攻略しとく？路地裏さんぽが楽しい玉造ぶーらぶら 〜異国情緒漂う下町グルメ＆音楽を大攻略の巻〜",

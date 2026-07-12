@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-07-11T15:59:09.676856",
+  "updated_at": "2026-07-12T16:01:41.034554",
   "videos": [
+    {
+      "id": "zTVRXxfxxpk",
+      "title": "「自分らしく歳を重ねる」を支える医療【わかやま医療ナビ】",
+      "description": "",
+      "publishedAt": "2026-07-12T08:45:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zTVRXxfxxpk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zTVRXxfxxpk"
+    },
+    {
+      "id": "c4qmb28v9WU",
+      "title": "ゲンワカ・山田 晃佑",
+      "description": "",
+      "publishedAt": "2026-07-12T00:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c4qmb28v9WU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c4qmb28v9WU"
+    },
     {
       "id": "AdtbJFTo5x4",
       "title": "あのじゅうよ〜 第206回「東ぶらくり丁のお店&番外編」",

@@ -1,8 +1,163 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-07-11T15:59:23.760659",
+  "original_name": "MBC南日本放送",
+  "updated_at": "2026-07-12T16:03:17.148927",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bRM6KDUXjqNaT9CJYaKIvOY_O-8",
+      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLjcwV2VwMHVBbUE0",
+      "snippet": {
+        "publishedAt": "2026-07-12T16:00:12Z",
+        "channelId": "UC7f4czw8TuG69HuVt_uXRtQ",
+        "title": "曽於市財部町・悠久の森【かごしまドローンTRIP】",
+        "description": "MBCテレビ「かごしまドローンTRIP」\n2026年7月12日放送\n撮影：柿木田崇\n\n今回の舞台は曽於市財部町にある悠久の森。\n緑ときらめきの感動を与えてくれる森を子孫に引き継ぎ、永久に残していこうと名付けられた森林浴に適した森。針葉樹も広葉樹も新緑に輝く季節の深い森の中の遊歩道や清らかな清流や滝をドローンで眺める旅へと案内する。\n＝＝＝＝＝＝\n❏番組HP「かごしまドローンTRIP」\nhttps://www.mbc.co.jp/tv/dronetrip/\n\n❏再生リスト「かごしまドローンTRIP」\nhttps://www.youtube.com/playlist?list=PLCkwfNbA_Nqu06clsbWYka9vEOpDH6hRR",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/70Wep0uAmA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/70Wep0uAmA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/70Wep0uAmA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/70Wep0uAmA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/70Wep0uAmA4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBC南日本放送",
+        "playlistId": "UU7f4czw8TuG69HuVt_uXRtQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "70Wep0uAmA4"
+        },
+        "videoOwnerChannelTitle": "MBC南日本放送",
+        "videoOwnerChannelId": "UC7f4czw8TuG69HuVt_uXRtQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uFjqY2STUnBAn4QRQpIilN2f-oA",
+      "id": "VVU3ZjRjenc4VHVHNjlIdVZ0X3VYUnRRLk1ZM1F4elNYTS04",
+      "snippet": {
+        "publishedAt": "2026-07-08T15:00:00Z",
+        "channelId": "UC7f4czw8TuG69HuVt_uXRtQ",
+        "title": "第９４回鹿屋市のフルート奏者　久保篤弘さん",
+        "description": "全日本管楽コンクールで日本一に輝き、受賞記念のコンサートもひらく。フルートの魅力や目標などについて話を聞いた。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MY3QxzSXM-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MY3QxzSXM-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MY3QxzSXM-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MY3QxzSXM-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MY3QxzSXM-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MBC南日本放送",
+        "playlistId": "UU7f4czw8TuG69HuVt_uXRtQ",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MY3QxzSXM-8"
+        },
+        "videoOwnerChannelTitle": "MBC南日本放送",
+        "videoOwnerChannelId": "UC7f4czw8TuG69HuVt_uXRtQ"
+      }
+    },
+    {
+      "id": "Q6nJc5V_q20",
+      "title": "【懐かしの映像】63歳の高校新入生　鹿児島市（1988）MBCテレビ『あの日のふるさと』より｜鹿児島県",
+      "description": "",
+      "publishedAt": "2026-07-12T09:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q6nJc5V_q20/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q6nJc5V_q20"
+    },
+    {
+      "id": "cUlcj8FmQ68",
+      "title": "【かごしまシティ・パレットミニ情報】図書館バックヤードツアー　ほか（2026年7月12日放送）",
+      "description": "",
+      "publishedAt": "2026-07-12T05:55:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cUlcj8FmQ68/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cUlcj8FmQ68"
+    },
+    {
+      "id": "Rn8znkkHgfw",
+      "title": "【伊敷中学校男子バレー部の皆さん】MBCテレビで日本戦放送中！【MBCも全力応援】",
+      "description": "",
+      "publishedAt": "2026-07-12T03:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rn8znkkHgfw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rn8znkkHgfw"
+    },
+    {
+      "id": "ht8wwweXxUo",
+      "title": "【たわわのわ】オクラのミニ手巻き(2026年7月12日放送)",
+      "description": "",
+      "publishedAt": "2026-07-12T02:35:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ht8wwweXxUo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ht8wwweXxUo"
+    },
+    {
+      "id": "nJS2Rxg2KR8",
+      "title": "【宝☆かご掲示板】『黎明館企画展「鹿児島県誕生」開催中　ほか』（2026年7月12日放送）",
+      "description": "",
+      "publishedAt": "2026-07-12T01:35:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nJS2Rxg2KR8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nJS2Rxg2KR8"
+    },
     {
       "id": "nzEi-OVoErY",
       "title": "陶山賢治の風まかせ　ゲスト： 鹿児島市ふるさと考古歴史館の学芸員・川野聖人さん④",
@@ -18041,6 +18196,18 @@
         "videoOwnerChannelTitle": "MBC南日本放送",
         "videoOwnerChannelId": "UC7f4czw8TuG69HuVt_uXRtQ"
       }
+    },
+    {
+      "id": "70Wep0uAmA4",
+      "title": "曽於市財部町・悠久の森【かごしまドローンTRIP】",
+      "thumbnail": "https://i.ytimg.com/vi/70Wep0uAmA4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=70Wep0uAmA4"
+    },
+    {
+      "id": "MY3QxzSXM-8",
+      "title": "第９４回鹿屋市のフルート奏者　久保篤弘さん",
+      "thumbnail": "https://i.ytimg.com/vi/MY3QxzSXM-8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MY3QxzSXM-8"
     }
   ]
 }

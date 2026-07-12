@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-07-05T16:12:52.580929",
+  "updated_at": "2026-07-12T16:02:03.023325",
   "videos": [
+    {
+      "id": "lR6n7hDqkU0",
+      "title": "やまがたサンデー５　７月１２日放送分　めざせ！世界のアスリート　ＹＡＭＡＧＡＴＡドリームキッズ",
+      "description": "",
+      "publishedAt": "2026-07-12T08:30:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lR6n7hDqkU0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lR6n7hDqkU0"
+    },
     {
       "id": "cA9eAHmZjkI",
       "title": "やまがたサンデー５　７月５日放送分　やまがたの山　魅力満点プロジェクト",
