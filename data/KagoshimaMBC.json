@@ -1,9 +1,68 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "original_name": "MBC南日本放送",
-  "updated_at": "2026-07-12T16:03:17.148927",
+  "updated_at": "2026-07-13T17:14:12.308112",
   "videos": [
+    {
+      "id": "bdwWCWLdlf4",
+      "title": "【7月17日(金) 午後3時49分～】かごよんフライデー",
+      "description": "",
+      "publishedAt": "2026-07-13T08:22:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bdwWCWLdlf4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bdwWCWLdlf4"
+    },
+    {
+      "id": "tN8Uq7pXQ3c",
+      "title": "動き出す妖怪展　来場者1万人突破「楽しかった」(MBCニュース 2026年7月12日放送）",
+      "description": "",
+      "publishedAt": "2026-07-13T08:02:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tN8Uq7pXQ3c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tN8Uq7pXQ3c"
+    },
+    {
+      "id": "gAWdJskPKTI",
+      "title": "プロ顔負け高校生の力作ずらり　九州総文「写真部門大会」はじまる　鹿児島市(MBCニューズナウ 2026年7月10日放送）",
+      "description": "",
+      "publishedAt": "2026-07-13T08:02:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gAWdJskPKTI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gAWdJskPKTI"
+    },
+    {
+      "id": "ub2ityrTOKU",
+      "title": "JR肥薩線沿線の素材にこだわったふくれ菓子・運行再開前に地元の和菓子店は　鹿児島(MBCニューズナウ 2026年7月10日放送）",
+      "description": "",
+      "publishedAt": "2026-07-13T08:02:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ub2ityrTOKU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ub2ityrTOKU"
+    },
+    {
+      "id": "FRwB6-XgsOI",
+      "title": "#26 垂水市立垂水小学校（7/6放送）",
+      "description": "",
+      "publishedAt": "2026-07-13T03:10:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FRwB6-XgsOI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FRwB6-XgsOI"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "bRM6KDUXjqNaT9CJYaKIvOY_O-8",

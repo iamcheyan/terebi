@@ -1,8 +1,32 @@
 {
   "channel_id": "UCMbq0m2vILQTbc0VhOcVWaQ",
   "channel_name": "IBC岩手放送",
-  "updated_at": "2026-07-08T16:41:54.503837",
+  "updated_at": "2026-07-13T17:14:07.843627",
   "videos": [
+    {
+      "id": "P9lb7el5hfA",
+      "title": "2026/7/10【ワイドステーション（金）オープニングトーク】",
+      "description": "",
+      "publishedAt": "2026-07-13T08:31:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P9lb7el5hfA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P9lb7el5hfA"
+    },
+    {
+      "id": "bv0Nod4fFCs",
+      "title": "2026/7/10 ＃青の国ふだい【カネシメ水産】",
+      "description": "",
+      "publishedAt": "2026-07-13T00:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bv0Nod4fFCs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bv0Nod4fFCs"
+    },
     {
       "id": "gYgqtE3VGTQ",
       "title": "岩手県立北桜高等学校【熱血ものづくり宣言 ガンバレ！いわての工業高校生】",

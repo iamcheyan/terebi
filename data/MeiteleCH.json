@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-07-11T15:58:41.546899",
+  "updated_at": "2026-07-13T17:13:58.116148",
   "videos": [
+    {
+      "id": "SYG9ElihY0g",
+      "title": "超町人！チョコレートサムネット 7/19(日)愛知・西尾市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-07-13T08:35:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SYG9ElihY0g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SYG9ElihY0g"
+    },
     {
       "id": "0lGcrJuVoSE",
       "title": "【まるまる◎あいち】2026年7月11日放送 「クーリングシェルターの開放」",

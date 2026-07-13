@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-07-10T16:58:18.103527",
+  "updated_at": "2026-07-13T17:14:03.379721",
   "videos": [
+    {
+      "id": "TBB17CsMyJw",
+      "title": "#75  シアトル・ゴッサムご当地トーク",
+      "description": "",
+      "publishedAt": "2026-07-13T03:07:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TBB17CsMyJw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TBB17CsMyJw"
+    },
     {
       "id": "3UT7QjFYMLc",
       "title": "07/10 #27 デジタル凸とアナログ凹",
