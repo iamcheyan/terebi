@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-07-13T17:14:23.376760",
+  "updated_at": "2026-07-14T16:17:57.767152",
   "videos": [
+    {
+      "id": "-Mq6FVHolbQ",
+      "title": "#6「走る明日を味わう前夜、仲間と囲むエールの食卓」",
+      "description": "",
+      "publishedAt": "2026-07-14T13:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-Mq6FVHolbQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-Mq6FVHolbQ"
+    },
+    {
+      "id": "yG1Y1koY8RQ",
+      "title": "みんテレ　7月15日（水）放送",
+      "description": "",
+      "publishedAt": "2026-07-14T10:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yG1Y1koY8RQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yG1Y1koY8RQ"
+    },
     {
       "id": "PFpKhtg4SL8",
       "title": "みんテレ　7月14日（火）放送",

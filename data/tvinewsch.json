@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-10T16:57:48.345283",
+  "updated_at": "2026-07-14T16:17:09.522330",
   "videos": [
+    {
+      "id": "vmuvTgcqBRQ",
+      "title": "【Ｏｎｅスポ】夢は横綱！世界一の豆力士",
+      "description": "",
+      "publishedAt": "2026-07-14T02:55:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vmuvTgcqBRQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vmuvTgcqBRQ"
+    },
     {
       "id": "vBmHeWgvh0U",
       "title": "【わんカメＬＩＶＥ】寂聴さんのアジサイ",

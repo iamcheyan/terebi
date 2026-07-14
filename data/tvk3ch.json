@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-13T17:13:45.664124",
+  "updated_at": "2026-07-14T16:17:22.067785",
   "videos": [
+    {
+      "id": "z1B-ai7-KZc",
+      "title": "tvk「クルマでいこう！」公式 藤トモEYE よりスポーティに!スバル レヴォーグ レイバック 2026/7/5放送(#947)",
+      "description": "",
+      "publishedAt": "2026-07-14T09:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/z1B-ai7-KZc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=z1B-ai7-KZc"
+    },
+    {
+      "id": "ycEAPkQlMjk",
+      "title": "tvk「クルマでいこう！」公式 トヨタ RAV4 2026/7/5放送(#947)",
+      "description": "",
+      "publishedAt": "2026-07-14T09:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ycEAPkQlMjk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ycEAPkQlMjk"
+    },
     {
       "id": "L3fjWrS2VQY",
       "title": "カナフルTV　次回予告（7月19日放送）",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-13T17:14:31.344749",
+  "updated_at": "2026-07-14T16:18:03.499427",
   "videos": [
+    {
+      "id": "lXEFTuxXSJI",
+      "title": "260714 155241 増田踏切",
+      "description": "",
+      "publishedAt": "2026-07-14T11:02:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lXEFTuxXSJI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lXEFTuxXSJI"
+    },
+    {
+      "id": "6lyzs1_7uE0",
+      "title": "260714 154812 増田踏切",
+      "description": "",
+      "publishedAt": "2026-07-14T11:01:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6lyzs1_7uE0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6lyzs1_7uE0"
+    },
+    {
+      "id": "Qhy9bcTFBnA",
+      "title": "260714 154453 増田踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-07-14T10:55:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Qhy9bcTFBnA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Qhy9bcTFBnA"
+    },
     {
       "id": "GNgucLQA4eA",
       "title": "260713 175603 宮野下第１踏切",

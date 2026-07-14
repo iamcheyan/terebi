@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-07-13T17:13:58.116148",
+  "updated_at": "2026-07-14T16:17:11.064996",
   "videos": [
+    {
+      "id": "ZyVY-qXiwlw",
+      "title": "『セールスマンの死』 舞台映像ダイジェスト（東京公演）",
+      "description": "",
+      "publishedAt": "2026-07-14T01:33:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZyVY-qXiwlw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZyVY-qXiwlw"
+    },
     {
       "id": "SYG9ElihY0g",
       "title": "超町人！チョコレートサムネット 7/19(日)愛知・西尾市編【メ～テレ】",

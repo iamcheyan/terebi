@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-07-10T16:57:51.613323",
+  "updated_at": "2026-07-14T16:17:28.975487",
   "videos": [
+    {
+      "id": "agTwI5qzPhQ",
+      "title": "Ginger's Journey: From Nebraska to Paris... and Beyond",
+      "description": "",
+      "publishedAt": "2026-07-14T05:01:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/agTwI5qzPhQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=agTwI5qzPhQ"
+    },
     {
       "id": "A0b8M-jq85A",
       "title": "Huskers Men's Basketball transfer Taj DeGourville embracing learning new role",

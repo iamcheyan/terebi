@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-07-10T16:58:25.232317",
+  "updated_at": "2026-07-14T16:17:43.770980",
   "videos": [
+    {
+      "id": "9IsXBbZ1VPQ",
+      "title": "【旬景とやま】国分浜の夜明け",
+      "description": "",
+      "publishedAt": "2026-07-14T10:33:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9IsXBbZ1VPQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9IsXBbZ1VPQ"
+    },
     {
       "id": "SacRt8SUFvM",
       "title": "【北陸３県イイトコどり~】夏に向けて",

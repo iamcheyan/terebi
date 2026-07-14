@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-07-13T17:13:56.322119",
+  "updated_at": "2026-07-14T16:17:30.483828",
   "videos": [
+    {
+      "id": "1NWUXMYmV9g",
+      "title": "防災アプリで「情報格差」を考える",
+      "description": "",
+      "publishedAt": "2026-07-14T02:21:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1NWUXMYmV9g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1NWUXMYmV9g"
+    },
     {
       "id": "SjhfBqxN4AU",
       "title": "【ベジ得】エダマメ",

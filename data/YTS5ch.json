@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-07-11T15:58:40.576570",
+  "updated_at": "2026-07-14T16:17:32.453788",
   "videos": [
+    {
+      "id": "bImAcObsxyY",
+      "title": "【あさは５ちゃん！】2026年7月18日放送",
+      "description": "",
+      "publishedAt": "2026-07-14T02:48:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bImAcObsxyY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bImAcObsxyY"
+    },
     {
       "id": "rAQjQG5MlKM",
       "title": "第2837回 移住の活性化と定住の促進に向けて「提言の広場」",
