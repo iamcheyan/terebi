@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-07-14T16:17:54.556021",
+  "updated_at": "2026-07-15T16:25:06.924966",
   "videos": [
+    {
+      "id": "hiLiJGa96-M",
+      "title": "今日の５きげんテレビ（7月16日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-07-15T15:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hiLiJGa96-M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hiLiJGa96-M"
+    },
+    {
+      "id": "lL1S8nfejrM",
+      "title": "今昔さんぽ ～南部古代型染元・小野染彩所～",
+      "description": "",
+      "publishedAt": "2026-07-15T10:38:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lL1S8nfejrM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lL1S8nfejrM"
+    },
+    {
+      "id": "EJ3S7wFJCSU",
+      "title": "アジの土佐揚げ| ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-07-15T08:57:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EJ3S7wFJCSU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EJ3S7wFJCSU"
+    },
     {
       "id": "faPsdX9gvVE",
       "title": "今日の５きげんテレビ（7月15日）｜テレビ岩手",

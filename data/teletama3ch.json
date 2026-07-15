@@ -1,8 +1,20 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-07-14T16:17:18.066258",
+  "updated_at": "2026-07-15T16:24:42.190321",
   "videos": [
+    {
+      "id": "dG7N09Y1Jyw",
+      "title": "Episode1　結太朗 キャンプしまっせ",
+      "description": "",
+      "publishedAt": "2026-07-15T12:45:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dG7N09Y1Jyw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dG7N09Y1Jyw"
+    },
     {
       "id": "tFtEdlFKdEw",
       "title": "【いろはに千鳥】とろサーモン久保田参戦！ガチ岩レジェンド企画 第2弾【8/4予告】",

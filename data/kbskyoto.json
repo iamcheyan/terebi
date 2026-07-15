@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-07-13T17:13:37.100745",
+  "updated_at": "2026-07-15T16:24:14.441068",
   "videos": [
+    {
+      "id": "JhqSn-BRY5s",
+      "title": "【イシダ】気になる社内制度とは？／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-07-15T09:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JhqSn-BRY5s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JhqSn-BRY5s"
+    },
+    {
+      "id": "5sx-5oL4-w4",
+      "title": "【特集】学生アトツギのためのコミュニティとは？／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-07-15T04:34:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5sx-5oL4-w4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5sx-5oL4-w4"
+    },
     {
       "id": "JAJ9Y83oBH4",
       "title": "【京都府議会】令和8年7月予算特別委員会総括質疑",

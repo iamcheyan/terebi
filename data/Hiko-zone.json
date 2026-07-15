@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7iu-QVp1HlMhhV9wnSs5gQ",
   "channel_name": "Hiko-zone（ヒコぞーん）",
-  "updated_at": "2026-07-06T17:46:00.202456",
+  "updated_at": "2026-07-15T16:24:11.424344",
   "videos": [
+    {
+      "id": "JyXT6i55blY",
+      "title": "Windows95時代思い出3選",
+      "description": "",
+      "publishedAt": "2026-07-15T12:22:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JyXT6i55blY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JyXT6i55blY"
+    },
     {
       "id": "P-3ZOyfYSRg",
       "title": "ハドフで購入したRTX2070 Superのジャンク品で無事終了",

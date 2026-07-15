@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-07-13T17:14:11.488696",
+  "updated_at": "2026-07-15T16:24:55.920183",
   "videos": [
+    {
+      "id": "fshypZ8ogqM",
+      "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～",
+      "description": "",
+      "publishedAt": "2026-07-15T07:47:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fshypZ8ogqM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fshypZ8ogqM"
+    },
     {
       "id": "GJmuGmByq5E",
       "title": "鹿児島県・大塚製薬・ファミリーマートが協働で「熱中症対策」（2026/7/10　OA　チェック！かごしま）",

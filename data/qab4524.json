@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-07-14T16:17:48.138680",
+  "updated_at": "2026-07-15T16:24:59.771633",
   "videos": [
+    {
+      "id": "gAlJsqDXcds",
+      "title": "#05 ほけんを学ぼう「保険のアップデート」",
+      "description": "",
+      "publishedAt": "2026-07-15T07:42:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gAlJsqDXcds/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gAlJsqDXcds"
+    },
     {
       "id": "qpm7v868rDE",
       "title": "キンキンに冷やして飲みごたえアップ！？暑い日に飲みたい「アサヒスーパードライ」",

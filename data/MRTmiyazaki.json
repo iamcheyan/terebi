@@ -1,8 +1,32 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-07-09T17:23:58.166692",
+  "updated_at": "2026-07-15T16:24:57.378559",
   "videos": [
+    {
+      "id": "pZAc_K3W2YU",
+      "title": "アバンなドッキング夏ナビSp",
+      "description": "",
+      "publishedAt": "2026-07-15T05:46:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pZAc_K3W2YU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pZAc_K3W2YU"
+    },
+    {
+      "id": "OGzDl_yqU7c",
+      "title": "【GO!GO! CookingZX】ゴーヤ！パート3",
+      "description": "",
+      "publishedAt": "2026-07-15T05:35:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OGzDl_yqU7c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OGzDl_yqU7c"
+    },
     {
       "id": "H76lQq2H_YI",
       "title": "社長と社員が本音でカタル　トップ＆ビギナー　第6回　株式会社フォレスト",

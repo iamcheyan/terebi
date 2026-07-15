@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-07-10T16:58:02.345707",
+  "updated_at": "2026-07-15T16:24:09.875788",
   "videos": [
+    {
+      "id": "sPgzMXaBm8A",
+      "title": "【7月10日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",
+      "description": "",
+      "publishedAt": "2026-07-15T03:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sPgzMXaBm8A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sPgzMXaBm8A"
+    },
     {
       "id": "Cw-T_gmUyWo",
       "title": "【手嶌葵 20th Anniversary Concert 2026-2027開催】奈良テレビだけの特別コメント！手嶌葵さんからメッセージ！",

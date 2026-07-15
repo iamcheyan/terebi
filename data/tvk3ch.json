@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-14T16:17:22.067785",
+  "updated_at": "2026-07-15T16:24:13.190938",
   "videos": [
+    {
+      "id": "TC_xA2IQ5Og",
+      "title": "カナフルTV　7月12日　未来を担う新人警察官たちが訓練に励む\"教場\"に潜入！",
+      "description": "",
+      "publishedAt": "2026-07-15T04:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TC_xA2IQ5Og/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TC_xA2IQ5Og"
+    },
+    {
+      "id": "yVueLE7rGDg",
+      "title": "かながわ旬菜ナビ　次回予告（7月19日放送）",
+      "description": "",
+      "publishedAt": "2026-07-15T03:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yVueLE7rGDg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yVueLE7rGDg"
+    },
     {
       "id": "z1B-ai7-KZc",
       "title": "tvk「クルマでいこう！」公式 藤トモEYE よりスポーティに!スバル レヴォーグ レイバック 2026/7/5放送(#947)",

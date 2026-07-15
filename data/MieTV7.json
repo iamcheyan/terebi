@@ -1,8 +1,56 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-07-14T16:18:03.193107",
+  "updated_at": "2026-07-15T16:25:15.337837",
   "videos": [
+    {
+      "id": "UWMBpRKSfsE",
+      "title": "三重大学で生命保険学ぶ講義　学生約120人が参加",
+      "description": "",
+      "publishedAt": "2026-07-15T00:39:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UWMBpRKSfsE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UWMBpRKSfsE"
+    },
+    {
+      "id": "cVnlsWi82MQ",
+      "title": "脱炭素をビジネスチャンスに　観光事業者向けセミナー開催",
+      "description": "",
+      "publishedAt": "2026-07-15T00:36:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cVnlsWi82MQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cVnlsWi82MQ"
+    },
+    {
+      "id": "zX3lUwfBmzs",
+      "title": "あおり運転など危険運転を空から　「スカイアイ取り締まり」実施",
+      "description": "",
+      "publishedAt": "2026-07-15T00:35:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zX3lUwfBmzs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zX3lUwfBmzs"
+    },
+    {
+      "id": "NDbVv5XdFlo",
+      "title": "三重県内各地で猛暑日　大紀町では80代女性死亡",
+      "description": "",
+      "publishedAt": "2026-07-15T00:33:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NDbVv5XdFlo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NDbVv5XdFlo"
+    },
     {
       "id": "j3Difv-dgJo",
       "title": "子どもの居場所づくり支援　県が補助制度創設",

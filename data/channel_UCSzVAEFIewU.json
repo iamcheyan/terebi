@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-07-14T16:17:30.483828",
+  "updated_at": "2026-07-15T16:24:35.512992",
   "videos": [
+    {
+      "id": "CtaWns4Dc7k",
+      "title": "剣道界の“神様”　週６日の稽古でつかんだ最高位『範士』",
+      "description": "",
+      "publishedAt": "2026-07-15T10:07:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CtaWns4Dc7k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CtaWns4Dc7k"
+    },
+    {
+      "id": "b1y7RJQgTL4",
+      "title": "【媛さんぽ】今回は松前町をおさんぽします。",
+      "description": "",
+      "publishedAt": "2026-07-15T08:26:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b1y7RJQgTL4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b1y7RJQgTL4"
+    },
     {
       "id": "1NWUXMYmV9g",
       "title": "防災アプリで「情報格差」を考える",

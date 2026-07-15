@@ -1,8 +1,92 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-14T16:18:03.499427",
+  "updated_at": "2026-07-15T16:25:15.798264",
   "videos": [
+    {
+      "id": "Wzjv3nHIEV8",
+      "title": "260715 135848 大内第２踏切",
+      "description": "",
+      "publishedAt": "2026-07-15T12:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wzjv3nHIEV8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wzjv3nHIEV8"
+    },
+    {
+      "id": "XuBX083hMX4",
+      "title": "260715 135630 大内第２踏切",
+      "description": "",
+      "publishedAt": "2026-07-15T11:45:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XuBX083hMX4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XuBX083hMX4"
+    },
+    {
+      "id": "CRkfvDY0vfw",
+      "title": "260715 135356 大内第２踏切（列車無し）",
+      "description": "",
+      "publishedAt": "2026-07-15T11:30:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CRkfvDY0vfw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CRkfvDY0vfw"
+    },
+    {
+      "id": "JpcADywK02M",
+      "title": "260715 134636 線路わき探索（大内第１踏切から大内第２踏切へ）Part ２",
+      "description": "",
+      "publishedAt": "2026-07-15T11:15:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JpcADywK02M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JpcADywK02M"
+    },
+    {
+      "id": "cBetdVKlIn0",
+      "title": "260715 134636 線路わき探索（大内第１踏切から大内第２踏切へ）Part 1",
+      "description": "",
+      "publishedAt": "2026-07-15T11:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cBetdVKlIn0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cBetdVKlIn0"
+    },
+    {
+      "id": "wtarE6DjYaI",
+      "title": "260715 134327 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-07-15T10:43:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wtarE6DjYaI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wtarE6DjYaI"
+    },
+    {
+      "id": "ABe_RfArXkE",
+      "title": "260715 133835 大内駅から大内第１踏切へ",
+      "description": "",
+      "publishedAt": "2026-07-15T10:42:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ABe_RfArXkE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ABe_RfArXkE"
+    },
     {
       "id": "lXEFTuxXSJI",
       "title": "260714 155241 増田踏切",
