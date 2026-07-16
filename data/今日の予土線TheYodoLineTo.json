@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-15T16:25:15.798264",
+  "updated_at": "2026-07-16T16:18:48.400725",
   "videos": [
+    {
+      "id": "6HtqtqG49tM",
+      "title": "260716 154913 務田踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-07-16T10:50:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6HtqtqG49tM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6HtqtqG49tM"
+    },
+    {
+      "id": "aZE0gjc9yo4",
+      "title": "260716 154550 務田踏切",
+      "description": "",
+      "publishedAt": "2026-07-16T10:35:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aZE0gjc9yo4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aZE0gjc9yo4"
+    },
+    {
+      "id": "ULj3H2nAxLI",
+      "title": "260716 154002 みきゃん列車（務田駅）",
+      "description": "",
+      "publishedAt": "2026-07-16T10:33:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ULj3H2nAxLI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ULj3H2nAxLI"
+    },
     {
       "id": "Wzjv3nHIEV8",
       "title": "260715 135848 大内第２踏切",

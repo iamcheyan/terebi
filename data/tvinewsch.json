@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-15T16:24:29.588551",
+  "updated_at": "2026-07-16T16:18:20.148428",
   "videos": [
+    {
+      "id": "OzIPT9_FCF0",
+      "title": "【わんカメＬＩＶＥ】もりおかＳＵＭＭＥＲガーデン",
+      "description": "",
+      "publishedAt": "2026-07-16T10:48:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OzIPT9_FCF0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OzIPT9_FCF0"
+    },
+    {
+      "id": "TcnCsZooJ1Y",
+      "title": "元気○（マル）らいふ　【消費者トラブルに注意】（2026/7/15放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-07-16T07:47:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TcnCsZooJ1Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TcnCsZooJ1Y"
+    },
+    {
+      "id": "mJSg0EMudK0",
+      "title": "【写真に収めて65年】ふるさとを見つめ続けるまなざしの奥には",
+      "description": "",
+      "publishedAt": "2026-07-16T06:25:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mJSg0EMudK0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mJSg0EMudK0"
+    },
     {
       "id": "WrG0aKYtOwA",
       "title": "【解説】県議会議員定数削減 経緯と背景",

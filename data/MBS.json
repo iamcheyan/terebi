@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-07-15T16:24:23.786790",
+  "updated_at": "2026-07-16T16:18:15.456321",
   "videos": [
+    {
+      "id": "SVRKnVTyWqI",
+      "title": "★7月18日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-07-16T09:13:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SVRKnVTyWqI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SVRKnVTyWqI"
+    },
     {
       "id": "45Qrv9hkZpc",
       "title": "しがみつかれて小さくなる池乃めだか",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCZpJu6cXaHvfEdFGMx-NYRg",
   "channel_name": "交通新聞 電子版【交通新聞社】",
-  "updated_at": "2026-07-09T17:23:42.204857",
+  "updated_at": "2026-07-16T16:18:23.182995",
   "videos": [
+    {
+      "id": "MPoyeBi3Tek",
+      "title": "キハ2000 「くまモンアドベンチャー号」出発進行！熊本駅もくまモン一色に【熊本DC】",
+      "description": "",
+      "publishedAt": "2026-07-16T09:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MPoyeBi3Tek/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MPoyeBi3Tek"
+    },
     {
       "id": "wIwTLzdEz_Q",
       "title": "【初のハイブリッド】JR四国3600系　徳島エリアにデビュー　非電化線区向け約20年ぶり新形式",
