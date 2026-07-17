@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-07-13T17:14:15.515435",
+  "updated_at": "2026-07-17T16:18:03.912297",
   "videos": [
+    {
+      "id": "XD4lgdhIXxo",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年7月13日放送分】",
+      "description": "",
+      "publishedAt": "2026-07-17T08:52:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XD4lgdhIXxo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XD4lgdhIXxo"
+    },
     {
       "id": "G8OKYTtS7cs",
       "title": "【大分市】みどり工場直売所 中央町出張所（2026年7月1日放送分）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-07-15T16:24:35.127957",
+  "updated_at": "2026-07-17T16:16:54.113692",
   "videos": [
+    {
+      "id": "joC-6tWWmnk",
+      "title": "島田洋七の朝から言わせろ～時代のトップは時代遅れ？！～",
+      "description": "",
+      "publishedAt": "2026-07-17T09:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/joC-6tWWmnk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=joC-6tWWmnk"
+    },
+    {
+      "id": "3jUulWHQXSM",
+      "title": "ユーチューニャーのおしごとずかん｜プールのおしごと 編",
+      "description": "",
+      "publishedAt": "2026-07-17T03:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3jUulWHQXSM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3jUulWHQXSM"
+    },
     {
       "id": "1QYYFbseG-k",
       "title": "博多祇園山笠2026　八番山笠「上川端通」",

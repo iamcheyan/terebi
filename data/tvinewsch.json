@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-16T16:18:20.148428",
+  "updated_at": "2026-07-17T16:17:39.015327",
   "videos": [
+    {
+      "id": "pB0koXmVY7I",
+      "title": "【青に魅せられて】ブルーの海 ブランド化目指すホタテ",
+      "description": "",
+      "publishedAt": "2026-07-17T10:03:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pB0koXmVY7I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pB0koXmVY7I"
+    },
     {
       "id": "OzIPT9_FCF0",
       "title": "【わんカメＬＩＶＥ】もりおかＳＵＭＭＥＲガーデン",

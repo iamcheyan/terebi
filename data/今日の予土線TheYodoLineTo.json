@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-16T16:18:48.400725",
+  "updated_at": "2026-07-17T16:18:27.527488",
   "videos": [
+    {
+      "id": "d4HWJjETyP4",
+      "title": "260717 180250 近永駅",
+      "description": "",
+      "publishedAt": "2026-07-17T11:30:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d4HWJjETyP4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d4HWJjETyP4"
+    },
+    {
+      "id": "ZsZtDtVd_9s",
+      "title": "260717 175755 近永駅（建て替え中、その後）",
+      "description": "",
+      "publishedAt": "2026-07-17T11:15:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZsZtDtVd_9s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZsZtDtVd_9s"
+    },
+    {
+      "id": "DW8BtfJHeUw",
+      "title": "260717 175400 近永第３踏切",
+      "description": "",
+      "publishedAt": "2026-07-17T10:48:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DW8BtfJHeUw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DW8BtfJHeUw"
+    },
     {
       "id": "6HtqtqG49tM",
       "title": "260716 154913 務田踏切（黄色い列車通過）",

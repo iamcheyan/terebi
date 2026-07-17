@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-07-16T16:18:26.368608",
+  "updated_at": "2026-07-17T16:17:35.960502",
   "videos": [
+    {
+      "id": "7iJ0jab_S2M",
+      "title": "『ハイスクールチェック』ネーションズリーグ編（2026年7月13日～17日放送）",
+      "description": "",
+      "publishedAt": "2026-07-17T03:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7iJ0jab_S2M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7iJ0jab_S2M"
+    },
     {
       "id": "LQlgNF3E9Q0",
       "title": "ハッピーイオン「暑さ対策グッズ」（2026年7月16日放送分）",
