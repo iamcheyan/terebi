@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-07-17T16:18:20.827439",
+  "updated_at": "2026-07-18T16:00:29.225875",
   "videos": [
+    {
+      "id": "QLdxoJM4ZNA",
+      "title": "愛媛のニュース(07月18日)",
+      "description": "",
+      "publishedAt": "2026-07-18T11:31:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QLdxoJM4ZNA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QLdxoJM4ZNA"
+    },
+    {
+      "id": "u8KYrRhwI4c",
+      "title": "【わいワイ!Friday】冷たいご当地麵開発プロジェクト#3",
+      "description": "",
+      "publishedAt": "2026-07-18T11:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u8KYrRhwI4c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u8KYrRhwI4c"
+    },
     {
       "id": "jufobzNd9fA",
       "title": "【愛媛・西条市】地域一丸で農業の未来を守る!「たんばら農村未来会議」",

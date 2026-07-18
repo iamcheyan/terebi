@@ -1,8 +1,32 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-07-17T16:17:17.383779",
+  "updated_at": "2026-07-18T15:59:38.432243",
   "videos": [
+    {
+      "id": "5JTZY_WLn90",
+      "title": "“B制覇”長崎ヴェルカ伊藤GMが伝授したものとは！？",
+      "description": "",
+      "publishedAt": "2026-07-18T11:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5JTZY_WLn90/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5JTZY_WLn90"
+    },
+    {
+      "id": "KZmgF-7VKuM",
+      "title": "夏バテ予防～暑さに負けない体づくり～【週刊健康マガジン】",
+      "description": "",
+      "publishedAt": "2026-07-18T01:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KZmgF-7VKuM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KZmgF-7VKuM"
+    },
     {
       "id": "f0U3Id77tnw",
       "title": "長崎・長与町に新住宅地「ヒナタヒルズ長与」完成",

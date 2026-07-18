@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-07-17T16:17:18.006098",
+  "updated_at": "2026-07-18T15:59:29.366030",
   "videos": [
+    {
+      "id": "fdaptzED0rE",
+      "title": "【まるまる◎あいち】2026年7月18日放送 「県政世論調査」",
+      "description": "",
+      "publishedAt": "2026-07-18T09:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fdaptzED0rE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fdaptzED0rE"
+    },
     {
       "id": "RjRneoI1U_o",
       "title": "7月17日(金)放送「レコメシ～自慢のひとさら～」飛騨牛おひつ御膳",

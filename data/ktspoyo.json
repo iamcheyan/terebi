@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-07-15T16:24:55.920183",
+  "updated_at": "2026-07-18T16:00:11.255061",
   "videos": [
+    {
+      "id": "YgaYkJB62TQ",
+      "title": "【わんにゃんプラスかごしま】「私の恩返し♪」",
+      "description": "",
+      "publishedAt": "2026-07-18T08:45:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YgaYkJB62TQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YgaYkJB62TQ"
+    },
     {
       "id": "fshypZ8ogqM",
       "title": "鹿児島わが町自慢 ～地元の“とっておき”教えて～",

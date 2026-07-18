@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-07-16T16:18:35.722837",
+  "updated_at": "2026-07-18T16:00:12.366683",
   "videos": [
+    {
+      "id": "bqzgvRQ7tfE",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-07-18T03:03:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bqzgvRQ7tfE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bqzgvRQ7tfE"
+    },
     {
       "id": "n35cMvWKT3k",
       "title": "社長と社員が本音でカタル　トップ＆ビギナー　第7回　日髙水産",
