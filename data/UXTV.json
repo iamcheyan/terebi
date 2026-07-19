@@ -1,8 +1,32 @@
 {
   "channel_id": "UCmBnPrnbYpbUZ10TMIlY9YA",
   "channel_name": "The Niigata Television Network 21",
-  "updated_at": "2026-07-18T16:00:24.274153",
+  "updated_at": "2026-07-19T16:00:43.254588",
   "videos": [
+    {
+      "id": "wWeiGS2inj4",
+      "title": "元銀行の建物をネットセキュリティー拠点に 佐渡市に開設",
+      "description": "",
+      "publishedAt": "2026-07-19T11:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wWeiGS2inj4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wWeiGS2inj4"
+    },
+    {
+      "id": "mi_i6za5-ys",
+      "title": "柏崎刈羽原発の再稼働受け 経済振興を官民で連携 協議体が発足",
+      "description": "",
+      "publishedAt": "2026-07-19T10:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mi_i6za5-ys/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mi_i6za5-ys"
+    },
     {
       "id": "AExaBdvcffA",
       "title": "伊香保・草津温泉へ 県内各地に停車「高速バス路線」新設 9月運行開始",

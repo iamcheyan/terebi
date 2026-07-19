@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-07-18T15:59:37.895200",
+  "updated_at": "2026-07-19T16:00:05.899148",
   "videos": [
+    {
+      "id": "HyJYVQkMW34",
+      "title": "食遺産File.255「スズキの二度旨い丼」＠兵庫県・明石市",
+      "description": "",
+      "publishedAt": "2026-07-19T03:45:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HyJYVQkMW34/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HyJYVQkMW34"
+    },
     {
       "id": "4mt73-M9bkE",
       "title": "【よゐこ有野】この街、攻略しとく？玉造の名物商店街をぶーらぶら〜下町の昭和レトロな名店めぐりの巻〜",

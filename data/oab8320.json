@@ -1,8 +1,32 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-07-18T16:00:15.579867",
+  "updated_at": "2026-07-19T16:00:30.524967",
   "videos": [
+    {
+      "id": "bhUTaCqCiDM",
+      "title": "子どもたちに発表の場を　奉仕団体がイベント",
+      "description": "",
+      "publishedAt": "2026-07-19T08:54:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bhUTaCqCiDM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bhUTaCqCiDM"
+    },
+    {
+      "id": "mS7nwkETo30",
+      "title": "【準々決勝】7/19 第1試合 明豊vs藤蔭",
+      "description": "",
+      "publishedAt": "2026-07-19T08:54:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mS7nwkETo30/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mS7nwkETo30"
+    },
     {
       "id": "Y1mXbwsgi14",
       "title": "【3回戦】7/18 第1試合 佐伯鶴城vs柳ヶ浦",

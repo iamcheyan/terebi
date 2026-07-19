@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-07-18T15:59:27.267688",
+  "updated_at": "2026-07-19T15:59:46.910635",
   "videos": [
+    {
+      "id": "Et9zcSdDVrU",
+      "title": "【ついに今夜】フジテレビ夏の月曜2ドラマ・スペシャルPR映像15秒",
+      "description": "",
+      "publishedAt": "2026-07-19T15:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Et9zcSdDVrU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Et9zcSdDVrU"
+    },
+    {
+      "id": "bBiU8brxdiY",
+      "title": "【ついに今夜】フジテレビ夏の月曜2ドラマ・スペシャルPR映像30秒",
+      "description": "",
+      "publishedAt": "2026-07-19T15:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bBiU8brxdiY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bBiU8brxdiY"
+    },
     {
       "id": "MLyJvkkk-Vs",
       "title": "【ついに明日】フジテレビ夏の月曜2ドラマ・スペシャルPR映像15秒",

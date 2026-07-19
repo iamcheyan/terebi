@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-07-18T16:00:29.225875",
+  "updated_at": "2026-07-19T16:00:48.099968",
   "videos": [
+    {
+      "id": "m7_vI1dF1WM",
+      "title": "愛媛のニュース(07月19日)",
+      "description": "",
+      "publishedAt": "2026-07-19T11:31:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m7_vI1dF1WM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m7_vI1dF1WM"
+    },
+    {
+      "id": "VTxY3MI0reM",
+      "title": "【愛媛・久万高原町】絶品ケチャップ作り!地域を照らす女性農家たちの温かい交流会",
+      "description": "",
+      "publishedAt": "2026-07-19T11:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VTxY3MI0reM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VTxY3MI0reM"
+    },
     {
       "id": "QLdxoJM4ZNA",
       "title": "愛媛のニュース(07月18日)",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEobbi8fWt_DibQzOImnKqQ",
   "channel_name": "AAB秋田朝日放送",
-  "updated_at": "2026-07-18T15:59:57.377013",
+  "updated_at": "2026-07-19T16:00:10.205394",
   "videos": [
+    {
+      "id": "jA7p1cAVlNg",
+      "title": "【知りたい！がん検診】Vol.791「子宮頸がんに立ち向かうために」",
+      "description": "",
+      "publishedAt": "2026-07-19T09:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jA7p1cAVlNg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jA7p1cAVlNg"
+    },
+    {
+      "id": "j47WBC0LuFw",
+      "title": "【だがしと】2026年7月26日(日)放送",
+      "description": "",
+      "publishedAt": "2026-07-19T08:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/j47WBC0LuFw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=j47WBC0LuFw"
+    },
     {
       "id": "KzrGXZ1yuXE",
       "title": "秋田県内の手足口病の患者数が前週比２．３倍増　手洗いの徹底など呼びかけ (2026/07/18 18:26)",

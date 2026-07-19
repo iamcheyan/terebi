@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwVMadMSXOS0AMuW_3nlyRQ",
   "channel_name": "SBC信越放送",
-  "updated_at": "2026-07-17T16:18:07.209588",
+  "updated_at": "2026-07-19T16:00:34.461725",
   "videos": [
+    {
+      "id": "LstuWZGVVkw",
+      "title": "明日を造れ！ものづくりナガノ　株式会社サンジュニア",
+      "description": "",
+      "publishedAt": "2026-07-19T07:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LstuWZGVVkw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LstuWZGVVkw"
+    },
+    {
+      "id": "JuK31chHJXQ",
+      "title": "長野から起業家を～NIB 長野イノベーションベースの挑戦～51",
+      "description": "",
+      "publishedAt": "2026-07-19T02:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JuK31chHJXQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JuK31chHJXQ"
+    },
     {
       "id": "CfJR_u7oaoY",
       "title": "ＹＥＳ！ものづくり モールズアクト①",
