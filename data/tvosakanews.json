@@ -1,8 +1,32 @@
 {
   "channel_id": "UCd6GEK664CTEWRZda7Fu7Lg",
   "channel_name": "Television OSAKA NEWS",
-  "updated_at": "2026-07-19T16:00:42.844738",
+  "updated_at": "2026-07-20T16:26:03.372472",
   "videos": [
+    {
+      "id": "5P12P0_5r3k",
+      "title": "動くレタス畑？【最新スマート農業】",
+      "description": "",
+      "publishedAt": "2026-07-20T01:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5P12P0_5r3k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5P12P0_5r3k"
+    },
+    {
+      "id": "PrgzWjiQFj4",
+      "title": "【未来の食卓を変える】タンパク質は大豆超え！次世代スーパーフード \"ウォルフィア\"（LBS・ローカルビジネスサテライト）",
+      "description": "",
+      "publishedAt": "2026-07-20T00:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PrgzWjiQFj4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PrgzWjiQFj4"
+    },
     {
       "id": "hPXHgvTdLAE",
       "title": "撮って出し！ブルーインパルス展示飛行in小松島港まつり",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-07-18T15:59:29.366030",
+  "updated_at": "2026-07-20T16:25:16.228743",
   "videos": [
+    {
+      "id": "bUgG45PQ_mg",
+      "title": "超町人！チョコレートサムネット 7/26(日)岐阜・養老エリア編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-07-20T05:53:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bUgG45PQ_mg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bUgG45PQ_mg"
+    },
     {
       "id": "fdaptzED0rE",
       "title": "【まるまる◎あいち】2026年7月18日放送 「県政世論調査」",
