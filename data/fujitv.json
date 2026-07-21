@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-07-20T16:25:25.363160",
+  "updated_at": "2026-07-21T16:24:45.383476",
   "videos": [
+    {
+      "id": "EoJQJXQtFOs",
+      "title": "【第4話予告】火9ドラマ「さよならノワール」7月28日よる9時放送",
+      "description": "",
+      "publishedAt": "2026-07-21T12:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EoJQJXQtFOs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EoJQJXQtFOs"
+    },
+    {
+      "id": "XifPdY2IfRY",
+      "title": "#ネプリーグ 7月27日よる7時放送",
+      "description": "",
+      "publishedAt": "2026-07-21T01:50:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XifPdY2IfRY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XifPdY2IfRY"
+    },
     {
       "id": "r8gmS1PBj1o",
       "title": "フジテレビ夏の月曜2ドラマ・スペシャルPR映像15秒",

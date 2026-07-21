@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-20T16:25:13.182555",
+  "updated_at": "2026-07-21T16:24:49.632723",
   "videos": [
+    {
+      "id": "kWcyQemp0c4",
+      "title": "tvk「クルマでいこう！」公式 藤トモEYE 新型 日産 キックス 2026/7/12放送(#948)",
+      "description": "",
+      "publishedAt": "2026-07-21T09:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kWcyQemp0c4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kWcyQemp0c4"
+    },
+    {
+      "id": "c13EhN33i8E",
+      "title": "tvk「クルマでいこう！」公式 シトロエン C5 AIRCROSS 2026/7/12放送(#948)",
+      "description": "",
+      "publishedAt": "2026-07-21T09:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c13EhN33i8E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c13EhN33i8E"
+    },
+    {
+      "id": "MA8qFeteihk",
+      "title": "カナフルTV　次回予告（7月26日放送）",
+      "description": "",
+      "publishedAt": "2026-07-21T01:08:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MA8qFeteihk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MA8qFeteihk"
+    },
     {
       "id": "qBuR9D3e17M",
       "title": "【四輪⇔二輪 聴き比べ】三菱　パジェロ　XR―Ⅱ　tvk「新車情報」公式　1991年放送",

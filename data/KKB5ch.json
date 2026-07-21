@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAhZnTMHk-TPyDzT0rt34IQ",
   "channel_name": "KKB鹿児島放送",
-  "updated_at": "2026-07-19T16:00:22.192998",
+  "updated_at": "2026-07-21T16:25:09.102190",
   "videos": [
+    {
+      "id": "-zukKIR_lno",
+      "title": "【映画がつないだ縁】山田洋次監督と奄美大島",
+      "description": "",
+      "publishedAt": "2026-07-21T16:08:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-zukKIR_lno/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-zukKIR_lno"
+    },
+    {
+      "id": "eh7qEBE_uRU",
+      "title": "【かご探】安心・安全な農林水産物～新K-GAP認証～(7月18日放送)",
+      "description": "",
+      "publishedAt": "2026-07-21T16:07:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eh7qEBE_uRU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eh7qEBE_uRU"
+    },
     {
       "id": "ZzeP4B5bVoM",
       "title": "【てとてと】木とともに曽於に根差す 第36回「深川木工芸」～好きがカタチになる～",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-20T16:26:10.777004",
+  "updated_at": "2026-07-21T16:25:30.424783",
   "videos": [
+    {
+      "id": "FmOAYxwjNco",
+      "title": "260721 180414 永野市第１踏切（鬼列車通過）",
+      "description": "",
+      "publishedAt": "2026-07-21T13:12:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FmOAYxwjNco/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FmOAYxwjNco"
+    },
+    {
+      "id": "WC7CoXQeFiE",
+      "title": "260721 175919 永野市第１踏切 ２",
+      "description": "",
+      "publishedAt": "2026-07-21T12:58:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WC7CoXQeFiE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WC7CoXQeFiE"
+    },
+    {
+      "id": "Gx_q8vZlXVg",
+      "title": "260721 175546 永野市第１踏切",
+      "description": "",
+      "publishedAt": "2026-07-21T12:15:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Gx_q8vZlXVg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Gx_q8vZlXVg"
+    },
     {
       "id": "JjYuDK6GtBE",
       "title": "260720 155423 鉄橋（月見橋）２",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-17T16:17:39.015327",
+  "updated_at": "2026-07-21T16:24:27.587731",
   "videos": [
+    {
+      "id": "Uc-lrfkvyrA",
+      "title": "【海水浴で気を付けたいこと】安全に海で遊ぶために気をつけること、おぼれているひとがいた場合の対処法",
+      "description": "",
+      "publishedAt": "2026-07-21T02:09:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Uc-lrfkvyrA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Uc-lrfkvyrA"
+    },
+    {
+      "id": "TL6ZG3ODnQE",
+      "title": "【フカボリ】記者解説・生態系や農業への被害が問題となっているアメリカザリガニの駆除について",
+      "description": "",
+      "publishedAt": "2026-07-21T02:01:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TL6ZG3ODnQE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TL6ZG3ODnQE"
+    },
     {
       "id": "pB0koXmVY7I",
       "title": "【青に魅せられて】ブルーの海 ブランド化目指すホタテ",

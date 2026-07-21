@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-07-14T16:17:43.770980",
+  "updated_at": "2026-07-21T16:25:09.762739",
   "videos": [
+    {
+      "id": "q5xcAX6n6DM",
+      "title": "【旬景とやま】百間滑 涼を求めて",
+      "description": "",
+      "publishedAt": "2026-07-21T10:29:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q5xcAX6n6DM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q5xcAX6n6DM"
+    },
     {
       "id": "9IsXBbZ1VPQ",
       "title": "【旬景とやま】国分浜の夜明け",

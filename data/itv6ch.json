@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-07-20T16:26:05.389256",
+  "updated_at": "2026-07-21T16:25:25.730134",
   "videos": [
+    {
+      "id": "ubnDNWnPKao",
+      "title": "愛媛のニュース(07月21日)",
+      "description": "",
+      "publishedAt": "2026-07-21T11:39:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ubnDNWnPKao/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ubnDNWnPKao"
+    },
+    {
+      "id": "T7bM--k0zMA",
+      "title": "宇和島市出身の同級生アーティストが地元でコラボ",
+      "description": "",
+      "publishedAt": "2026-07-21T09:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T7bM--k0zMA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T7bM--k0zMA"
+    },
     {
       "id": "vcHR_JtCSu8",
       "title": "愛媛のニュース(07月20日)",

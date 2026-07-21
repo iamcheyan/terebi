@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-07-20T16:25:02.649431",
+  "updated_at": "2026-07-21T16:24:40.511990",
   "videos": [
+    {
+      "id": "4IQXQmpQKxo",
+      "title": "地域の歴史をたどる奥道後大蛇伝説",
+      "description": "",
+      "publishedAt": "2026-07-21T12:09:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4IQXQmpQKxo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4IQXQmpQKxo"
+    },
     {
       "id": "jOc3_fjU_ro",
       "title": "愛媛県内女性の元“受け子”が語るトクリュウの闇",
