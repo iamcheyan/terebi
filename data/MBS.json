@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-07-20T16:25:10.671079",
+  "updated_at": "2026-07-22T16:21:14.559246",
   "videos": [
+    {
+      "id": "OcumHZHeDMc",
+      "title": "新喜劇の最高の瞬間w",
+      "description": "",
+      "publishedAt": "2026-07-22T10:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OcumHZHeDMc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OcumHZHeDMc"
+    },
+    {
+      "id": "3NUShqHLshQ",
+      "title": "★7月25日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-07-22T08:18:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3NUShqHLshQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3NUShqHLshQ"
+    },
     {
       "id": "yWAUDPSJrQo",
       "title": "新喜劇のこの曲 中毒性がやばすぎるw",

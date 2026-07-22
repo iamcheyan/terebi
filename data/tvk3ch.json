@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-21T16:24:49.632723",
+  "updated_at": "2026-07-22T16:21:08.144538",
   "videos": [
+    {
+      "id": "WrtPAiATaFM",
+      "title": "カナフルTV　7月19日　新たなビジネスチャンス！！ ～「海業」で海辺のまちの賑わいづくり～",
+      "description": "",
+      "publishedAt": "2026-07-22T04:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WrtPAiATaFM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WrtPAiATaFM"
+    },
+    {
+      "id": "23bZyFj2fs0",
+      "title": "かながわ旬菜ナビ　次回予告（7月26日放送）",
+      "description": "",
+      "publishedAt": "2026-07-22T03:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/23bZyFj2fs0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=23bZyFj2fs0"
+    },
     {
       "id": "kWcyQemp0c4",
       "title": "tvk「クルマでいこう！」公式 藤トモEYE 新型 日産 キックス 2026/7/12放送(#948)",

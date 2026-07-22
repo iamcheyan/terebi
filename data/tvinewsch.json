@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-21T16:24:27.587731",
+  "updated_at": "2026-07-22T16:21:32.490812",
   "videos": [
+    {
+      "id": "MKIMr4Vv-Gw",
+      "title": "【どうなる？北上市立大学】市と市民団体で議論は平行線",
+      "description": "",
+      "publishedAt": "2026-07-22T04:38:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MKIMr4Vv-Gw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MKIMr4Vv-Gw"
+    },
+    {
+      "id": "NldrQHruLbY",
+      "title": "【浴衣で歩く盛岡】盛岡の街を浴衣で歩くとちょっとうれしいサービスがあります",
+      "description": "",
+      "publishedAt": "2026-07-22T03:27:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NldrQHruLbY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NldrQHruLbY"
+    },
     {
       "id": "Uc-lrfkvyrA",
       "title": "【海水浴で気を付けたいこと】安全に海で遊ぶために気をつけること、おぼれているひとがいた場合の対処法",
