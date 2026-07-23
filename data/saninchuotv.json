@@ -1,8 +1,32 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-07-22T16:21:32.999215",
+  "updated_at": "2026-07-23T16:29:37.329757",
   "videos": [
+    {
+      "id": "CnEaRYCXZOQ",
+      "title": "【ソノタネ2.0】#11～たつみ建匠舎～",
+      "description": "",
+      "publishedAt": "2026-07-23T04:33:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CnEaRYCXZOQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CnEaRYCXZOQ"
+    },
+    {
+      "id": "5_rsnWKtxBE",
+      "title": "【しまねっこの宅配便X】#12「大山隠岐国立公園を楽しもう」",
+      "description": "",
+      "publishedAt": "2026-07-22T10:36:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5_rsnWKtxBE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5_rsnWKtxBE"
+    },
     {
       "id": "cKUdeER8pyY",
       "title": "予告【しまねっこの宅配便X】7/29（水）放送「大山隠岐送りつ公園を楽しもう」",

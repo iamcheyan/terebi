@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-07-22T16:21:08.593814",
+  "updated_at": "2026-07-23T16:28:15.942577",
   "videos": [
+    {
+      "id": "S5H7-c1KL5Y",
+      "title": "無駄ゼロを目指せ！AREA35とは？【クルマとミライ】",
+      "description": "",
+      "publishedAt": "2026-07-23T14:06:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S5H7-c1KL5Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S5H7-c1KL5Y"
+    },
+    {
+      "id": "NYHKMu53Sr0",
+      "title": "アカリノコマド（2026年7月22日放送）",
+      "description": "",
+      "publishedAt": "2026-07-23T12:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NYHKMu53Sr0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NYHKMu53Sr0"
+    },
     {
       "id": "BL0tO83Xi2A",
       "title": "坂本・浅井が新ユニット結成！？レギュラーメンバー全員集合スペシャルpart2！│ 愛知あたりまえ倶楽部 #伊能忠敬界隈",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-22T16:22:05.886208",
+  "updated_at": "2026-07-23T16:36:47.327532",
   "videos": [
+    {
+      "id": "Gt9IJ2_O5Yw",
+      "title": "260723 135336 宮野下第１踏切",
+      "description": "",
+      "publishedAt": "2026-07-23T10:30:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Gt9IJ2_O5Yw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Gt9IJ2_O5Yw"
+    },
+    {
+      "id": "ToXFgcry3bQ",
+      "title": "260723 134333 かっぱ列車行き違い（伊予宮野下駅）",
+      "description": "",
+      "publishedAt": "2026-07-23T10:14:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ToXFgcry3bQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ToXFgcry3bQ"
+    },
+    {
+      "id": "qqHwkNV-478",
+      "title": "260723 133624 宮野下第３踏切",
+      "description": "",
+      "publishedAt": "2026-07-23T10:10:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qqHwkNV-478/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qqHwkNV-478"
+    },
     {
       "id": "B8y64Z1dIxg",
       "title": "260722 175518 大内第２踏切（鬼列車通過）",

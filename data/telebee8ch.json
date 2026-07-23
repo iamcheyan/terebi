@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-07-21T16:25:20.230189",
+  "updated_at": "2026-07-23T16:35:02.094535",
   "videos": [
+    {
+      "id": "ysoM_04FtUo",
+      "title": "【お弁当、もった？】#4 北九州市・旦過市場 郷土の味をつなぐお弁当屋さん",
+      "description": "",
+      "publishedAt": "2026-07-23T12:57:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ysoM_04FtUo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ysoM_04FtUo"
+    },
+    {
+      "id": "wxyzFahG0bE",
+      "title": "【公式】2026年7月25日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-07-23T04:04:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wxyzFahG0bE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wxyzFahG0bE"
+    },
     {
       "id": "WCJXIi3m3I0",
       "title": "【トラックがつなぐ、未来の物流 】厳しい基準　安心・安全の証「Gマーク」#03",

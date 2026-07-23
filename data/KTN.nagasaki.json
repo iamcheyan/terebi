@@ -1,8 +1,116 @@
 {
   "channel_id": "UCFVI14YKxx42CZPRyZX_g0A",
   "channel_name": "KTNテレビ長崎",
-  "updated_at": "2026-07-22T16:21:18.228832",
+  "updated_at": "2026-07-23T16:32:51.177532",
   "videos": [
+    {
+      "id": "0u3GN-DLQAY",
+      "title": "県庁舎跡地で11月からサーカス公演　4万人の集客見込む　長崎市での開催は11年ぶり",
+      "description": "",
+      "publishedAt": "2026-07-23T11:33:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0u3GN-DLQAY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0u3GN-DLQAY"
+    },
+    {
+      "id": "pe0vqQNub2U",
+      "title": "「非常に大きな一歩」 JR九州の古宮市長　国と佐賀県の九州新幹線西九州ルート環境アセス実施合意を評価",
+      "description": "",
+      "publishedAt": "2026-07-23T11:27:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pe0vqQNub2U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pe0vqQNub2U"
+    },
+    {
+      "id": "o0dTE26beV8",
+      "title": "長崎大学が新たな感染症に対応するワクチン研究開発の中核拠点に　ジャパネットたかた創業者・高田明さん“客員教授”就任も発表",
+      "description": "",
+      "publishedAt": "2026-07-23T11:17:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o0dTE26beV8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o0dTE26beV8"
+    },
+    {
+      "id": "r3hY1s4Yb2I",
+      "title": "「平屋の家が燃えている」佐世保市で住宅2棟全焼",
+      "description": "",
+      "publishedAt": "2026-07-23T11:10:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r3hY1s4Yb2I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r3hY1s4Yb2I"
+    },
+    {
+      "id": "Z59oknRZKaQ",
+      "title": "長崎大水害から44年　土石流で34人が犠牲となった川平地区で慰霊祭",
+      "description": "",
+      "publishedAt": "2026-07-23T11:04:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z59oknRZKaQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z59oknRZKaQ"
+    },
+    {
+      "id": "_-FYn5wP6Mk",
+      "title": "みんなで子育て～ママのお悩み解決ひろば～",
+      "description": "",
+      "publishedAt": "2026-07-23T10:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_-FYn5wP6Mk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_-FYn5wP6Mk"
+    },
+    {
+      "id": "a6wP5IfbFZk",
+      "title": "佐世保市の住宅で火災　消火活動中",
+      "description": "",
+      "publishedAt": "2026-07-23T05:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a6wP5IfbFZk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a6wP5IfbFZk"
+    },
+    {
+      "id": "nB4rwABduD8",
+      "title": "雲仙市でトラックと電動車いすが衝突　80代女性が重体",
+      "description": "",
+      "publishedAt": "2026-07-23T04:58:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nB4rwABduD8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nB4rwABduD8"
+    },
+    {
+      "id": "HASvYJ6tVAw",
+      "title": "佐世保市の造船所で火事　けが人なし",
+      "description": "",
+      "publishedAt": "2026-07-23T04:53:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HASvYJ6tVAw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HASvYJ6tVAw"
+    },
     {
       "id": "I9YQHmm4M5A",
       "title": "「泳げるようになりたい」夏休み恒例の水泳教室がスタート　8月に立ち泳ぎで「大名行列」の再現目指す",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-07-18T15:59:31.842158",
+  "updated_at": "2026-07-23T16:28:20.227017",
   "videos": [
+    {
+      "id": "ADJcXmzad_A",
+      "title": "【あさは５ちゃん！】2026年7月25日放送",
+      "description": "",
+      "publishedAt": "2026-07-23T00:27:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ADJcXmzad_A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ADJcXmzad_A"
+    },
     {
       "id": "aJRsQWYeSb8",
       "title": "第2838回 新東根市長に聞く～市政の課題と針路～「提言の広場」",

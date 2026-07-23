@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-07-22T16:22:01.670783",
+  "updated_at": "2026-07-23T16:36:43.049353",
   "videos": [
+    {
+      "id": "iBZyS1moBlc",
+      "title": "愛媛のニュース(07月23日)",
+      "description": "",
+      "publishedAt": "2026-07-23T11:41:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iBZyS1moBlc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iBZyS1moBlc"
+    },
+    {
+      "id": "qj06kl2LX_M",
+      "title": "【知らないと損】防災グッズだけで安心?家が全壊した時の「地震保険」",
+      "description": "",
+      "publishedAt": "2026-07-23T04:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qj06kl2LX_M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qj06kl2LX_M"
+    },
+    {
+      "id": "cAHRCp8DSo0",
+      "title": "いざインターハイへ!東雲高校バレー部キャプテンに密着",
+      "description": "",
+      "publishedAt": "2026-07-23T03:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cAHRCp8DSo0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cAHRCp8DSo0"
+    },
     {
       "id": "fBsGkGUMLDE",
       "title": "愛媛のニュース(07月22日)",

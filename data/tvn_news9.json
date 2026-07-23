@@ -1,8 +1,56 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-07-22T16:21:17.729455",
+  "updated_at": "2026-07-23T16:28:35.436120",
   "videos": [
+    {
+      "id": "f55Oh9eer3E",
+      "title": "奈良県も危険な暑さつづく　奈良市針で３６．２℃　観測史上最高",
+      "description": "",
+      "publishedAt": "2026-07-23T09:58:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/f55Oh9eer3E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=f55Oh9eer3E"
+    },
+    {
+      "id": "lTO17ekXpvk",
+      "title": "夏休みお天気フェア",
+      "description": "",
+      "publishedAt": "2026-07-23T09:55:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lTO17ekXpvk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lTO17ekXpvk"
+    },
+    {
+      "id": "1XJ8As1DI8w",
+      "title": "大神神社　巫女が神楽舞の稽古",
+      "description": "",
+      "publishedAt": "2026-07-23T09:49:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1XJ8As1DI8w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1XJ8As1DI8w"
+    },
+    {
+      "id": "cpJIvgG7K0A",
+      "title": "ミグランス展望フロア　藤原宮跡などを一望",
+      "description": "",
+      "publishedAt": "2026-07-23T09:41:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cpJIvgG7K0A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cpJIvgG7K0A"
+    },
     {
       "id": "UgdF0qcS_Fk",
       "title": "７月の観測史上最高　十津川村で３８．６℃　危険な暑さつづく",

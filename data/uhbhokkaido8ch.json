@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-07-22T16:22:00.029699",
+  "updated_at": "2026-07-23T16:36:41.722049",
   "videos": [
+    {
+      "id": "Dhfrf0RHdNE",
+      "title": "みんテレ　7月24日（金）放送",
+      "description": "",
+      "publishedAt": "2026-07-23T10:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Dhfrf0RHdNE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Dhfrf0RHdNE"
+    },
     {
       "id": "VOj7L-iDNR4",
       "title": "みんテレ　7月23日（木）放送",

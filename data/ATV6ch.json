@@ -1,8 +1,20 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-07-22T16:21:15.412368",
+  "updated_at": "2026-07-23T16:28:27.747813",
   "videos": [
+    {
+      "id": "eYVnOfAwAhE",
+      "title": "ふるさと歴史館77　軍都から学都へ 弘前市の変貌",
+      "description": "",
+      "publishedAt": "2026-07-23T07:14:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eYVnOfAwAhE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eYVnOfAwAhE"
+    },
     {
       "id": "R7Kki8hxRtM",
       "title": "【#タマ伸也のドライ風呂】「朝5時前から10台くらいの車が待機」の人気温泉は棚田のような湯舟がユニーク「温泉みちのく」八戸市 [青森の温泉 Aomori ONSEN]",

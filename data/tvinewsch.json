@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-22T16:21:32.490812",
+  "updated_at": "2026-07-23T16:32:46.770436",
   "videos": [
+    {
+      "id": "IzunuVme25I",
+      "title": "【大槌山林火災】大規模な山林火災の発生から３か月 森林再生で模索",
+      "description": "",
+      "publishedAt": "2026-07-23T02:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IzunuVme25I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IzunuVme25I"
+    },
     {
       "id": "MKIMr4Vv-Gw",
       "title": "【どうなる？北上市立大学】市と市民団体で議論は平行線",
