@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-07-23T16:34:28.596666",
+  "updated_at": "2026-07-24T16:45:11.849144",
   "videos": [
+    {
+      "id": "nlPCQlVF13c",
+      "title": "【番宣】７月２８日（火）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-07-24T13:59:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nlPCQlVF13c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nlPCQlVF13c"
+    },
+    {
+      "id": "rbJW0OFoQfQ",
+      "title": "【番宣】７月２９日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-07-24T00:45:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rbJW0OFoQfQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rbJW0OFoQfQ"
+    },
+    {
+      "id": "jz3DR-zNSBQ",
+      "title": "【番宣】８月１日（土）くまもと、バド熱！",
+      "description": "",
+      "publishedAt": "2026-07-24T00:42:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jz3DR-zNSBQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jz3DR-zNSBQ"
+    },
     {
       "id": "0n0PjSkRCOg",
       "title": "【番宣】７月２７日（月）NEWSゲツキン",

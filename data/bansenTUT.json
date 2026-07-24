@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-07-23T16:28:32.714148",
+  "updated_at": "2026-07-24T16:44:12.071195",
   "videos": [
+    {
+      "id": "cPlqJqJRxIg",
+      "title": "『ハイスクールチェック』若年者ものづくり競技大会編（2026年7月20日～24日放送）",
+      "description": "",
+      "publishedAt": "2026-07-24T03:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cPlqJqJRxIg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cPlqJqJRxIg"
+    },
     {
       "id": "V1gDBr99JgI",
       "title": "ハッピーイオン「ネットでもお店でも お盆のごちそう予約受付中」（2026年7月23日放送分）",

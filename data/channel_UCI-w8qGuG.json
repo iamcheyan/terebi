@@ -1,8 +1,44 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-07-23T16:28:22.270011",
+  "updated_at": "2026-07-24T16:44:47.873803",
   "videos": [
+    {
+      "id": "uk_qotbEJ9c",
+      "title": "【ダンクコンテスト】ウインターカップ２連覇・福岡大学附属大濠",
+      "description": "",
+      "publishedAt": "2026-07-24T11:55:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uk_qotbEJ9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uk_qotbEJ9c"
+    },
+    {
+      "id": "4hwmj9KuCcU",
+      "title": "【LIVE】サッカー日本代表監督 記者会見 森保監督登壇",
+      "description": "",
+      "publishedAt": "2026-07-24T06:30:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4hwmj9KuCcU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4hwmj9KuCcU"
+    },
+    {
+      "id": "M5rVjrnNDhQ",
+      "title": "八村塁取材 BLACK SAMURAI SUMMIT 2025 シンデレラボーイ 齋藤アリンゼ陽",
+      "description": "",
+      "publishedAt": "2026-07-24T04:45:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M5rVjrnNDhQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M5rVjrnNDhQ"
+    },
     {
       "id": "qwi0re0VqoU",
       "title": "【SP対談】八村塁×田臥勇太　「八村塁スペシャルマッチ BLACK SAMURAI SUMMIT」",

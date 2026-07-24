@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-07-22T16:21:28.669149",
+  "updated_at": "2026-07-24T16:44:49.058012",
   "videos": [
+    {
+      "id": "RG2FjP2kWnA",
+      "title": "笠岡・白石踊　未来につなぐ島の伝統",
+      "description": "",
+      "publishedAt": "2026-07-24T13:18:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RG2FjP2kWnA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RG2FjP2kWnA"
+    },
+    {
+      "id": "sx_FjaOjyNs",
+      "title": "峰竜太親子の新しい岡山発見さんぽ  美食浪漫！山田方谷ゆかりの高梁篇",
+      "description": "",
+      "publishedAt": "2026-07-24T08:54:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sx_FjaOjyNs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sx_FjaOjyNs"
+    },
     {
       "id": "dSjBdPDJB20",
       "title": "【ピリッとサタデー】自社農園で育てたブドウをゼリーに　谷尾食糧工業が進める取り組み",

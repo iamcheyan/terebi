@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-07-21T16:24:40.511990",
+  "updated_at": "2026-07-24T16:44:42.154686",
   "videos": [
+    {
+      "id": "7mXW_rOmgFI",
+      "title": "令和8年7月13日～17日 きょうの俳句 兼題涼し",
+      "description": "",
+      "publishedAt": "2026-07-24T05:16:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7mXW_rOmgFI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7mXW_rOmgFI"
+    },
+    {
+      "id": "NyIkfh-Nai8",
+      "title": "【愛媛の今むかし】 “手仕事”受け継ぐ砥部焼の今 戦後の不況期に大きな決断",
+      "description": "",
+      "publishedAt": "2026-07-24T02:02:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NyIkfh-Nai8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NyIkfh-Nai8"
+    },
     {
       "id": "4IQXQmpQKxo",
       "title": "地域の歴史をたどる奥道後大蛇伝説",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-07-21T16:25:08.642867",
+  "updated_at": "2026-07-24T16:45:00.277444",
   "videos": [
+    {
+      "id": "xwy6Nwdhkig",
+      "title": "第６４回福島県吹奏楽コンクール　ライブ配信　【中学生の部・7/25(土)】",
+      "description": "",
+      "publishedAt": "2026-07-23T05:38:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xwy6Nwdhkig/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xwy6Nwdhkig"
+    },
     {
       "id": "OEhJo6yKNao",
       "title": "KFB開局45周年記念　草間彌生　版画の世界－反復と増殖－",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-23T16:36:47.327532",
+  "updated_at": "2026-07-24T16:45:30.973155",
   "videos": [
+    {
+      "id": "1VVCW2XBElQ",
+      "title": "260724 135210 麓踏切",
+      "description": "",
+      "publishedAt": "2026-07-24T10:52:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1VVCW2XBElQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1VVCW2XBElQ"
+    },
+    {
+      "id": "frtldrVCI74",
+      "title": "260724 134740 麓踏切",
+      "description": "",
+      "publishedAt": "2026-07-24T10:49:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/frtldrVCI74/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=frtldrVCI74"
+    },
+    {
+      "id": "xAT299Tv28E",
+      "title": "260724 134033 麓踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-07-24T10:41:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xAT299Tv28E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xAT299Tv28E"
+    },
     {
       "id": "Gt9IJ2_O5Yw",
       "title": "260723 135336 宮野下第１踏切",

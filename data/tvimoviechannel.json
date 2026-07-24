@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-07-23T16:35:03.116967",
+  "updated_at": "2026-07-24T16:45:18.416215",
   "videos": [
+    {
+      "id": "o_J9uS8RASg",
+      "title": "うなぎの生春巻き | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-07-24T08:57:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o_J9uS8RASg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o_J9uS8RASg"
+    },
     {
       "id": "UGARIfhI3oE",
       "title": "今日の５きげんテレビ（7月24日）｜テレビ岩手",
