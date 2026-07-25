@@ -1,8 +1,56 @@
 {
   "channel_id": "UCk2oG--VyYST4SYyQkeadjA",
   "channel_name": "UTYテレビ山梨",
-  "updated_at": "2026-07-24T16:44:05.382724",
+  "updated_at": "2026-07-25T16:05:52.710160",
   "videos": [
+    {
+      "id": "KG1UzBh1Ibo",
+      "title": "【時を紡ぐ老舗】　創業110年の『国本屋』　富士川舟運で栄えた町で続くウナギの専門店　山梨",
+      "description": "",
+      "publishedAt": "2026-07-25T02:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KG1UzBh1Ibo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KG1UzBh1Ibo"
+    },
+    {
+      "id": "BaG2HQwqF9s",
+      "title": "精進湖ライブカメラ タイムラプス映像（2026年7月24日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-07-24T23:44:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BaG2HQwqF9s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BaG2HQwqF9s"
+    },
+    {
+      "id": "LdjH5UxnIb8",
+      "title": "西湖ライブカメラ タイムラプス映像（2026年7月24日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-07-24T23:42:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LdjH5UxnIb8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LdjH5UxnIb8"
+    },
+    {
+      "id": "WbjyapklMqU",
+      "title": "山中湖ライブカメラ タイムラプス映像（2026年7月24日） 提供：UTYテレビ山梨",
+      "description": "",
+      "publishedAt": "2026-07-24T23:41:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WbjyapklMqU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WbjyapklMqU"
+    },
     {
       "id": "V-J0PgDEojk",
       "title": "“地域全体で多くのデータ収集でコスト削減に繋がる”　地方創生デジタル技術活用フォーラム　山梨・富士川町",

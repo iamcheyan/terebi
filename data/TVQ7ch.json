@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-07-24T16:45:19.018008",
+  "updated_at": "2026-07-25T16:06:23.751660",
   "videos": [
+    {
+      "id": "21KB_zb3lM4",
+      "title": "【テレQ番宣】ぐっ！ジョブ（8月1日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-07-25T15:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/21KB_zb3lM4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=21KB_zb3lM4"
+    },
+    {
+      "id": "MDM1aizwg1Y",
+      "title": "アイライフスタイル ♯59 「今日もサッカーを」（テレQ 2026年7月25日放送）",
+      "description": "",
+      "publishedAt": "2026-07-25T11:59:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MDM1aizwg1Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MDM1aizwg1Y"
+    },
     {
       "id": "4HsGWRluD28",
       "title": "【TVer7/25まで】ストリートけん玉世界一の技がスゴすぎる",

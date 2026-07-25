@@ -1,8 +1,20 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-07-24T16:45:00.277444",
+  "updated_at": "2026-07-25T16:06:11.509541",
   "videos": [
+    {
+      "id": "n-Wbnl53pZI",
+      "title": "第６４回福島県吹奏楽コンクール　ライブ配信　【高校・職場一般の部・7/26(日) 10:00～】",
+      "description": "",
+      "publishedAt": "2026-07-23T05:46:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n-Wbnl53pZI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n-Wbnl53pZI"
+    },
     {
       "id": "xwy6Nwdhkig",
       "title": "第６４回福島県吹奏楽コンクール　ライブ配信　【中学生の部・7/25(土)】",

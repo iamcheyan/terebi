@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-24T16:44:29.478467",
+  "updated_at": "2026-07-25T16:05:47.471498",
   "videos": [
+    {
+      "id": "jqqJhQHlPEQ",
+      "title": "ハマナビ　2026年7月25日放送　見て・体験して！大人の自由研究",
+      "description": "",
+      "publishedAt": "2026-07-25T09:30:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jqqJhQHlPEQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jqqJhQHlPEQ"
+    },
+    {
+      "id": "CAOc3bxCf8k",
+      "title": "ハマナビ　次回予告（8月1日放送）",
+      "description": "",
+      "publishedAt": "2026-07-25T09:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CAOc3bxCf8k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CAOc3bxCf8k"
+    },
+    {
+      "id": "iwfs8KRPjhg",
+      "title": "『腰越城 （埼玉県）』【中島卓偉のお城へ行こう！せーの、キャッスル！キャッスル！】城マニアがうなる…！超勉強になる山城",
+      "description": "",
+      "publishedAt": "2026-07-25T09:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iwfs8KRPjhg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iwfs8KRPjhg"
+    },
+    {
+      "id": "sVZXWtslV0Q",
+      "title": "LOVEかわさき　7月25日放送：自由研究、どこ行く？ かわさき！",
+      "description": "",
+      "publishedAt": "2026-07-25T00:30:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sVZXWtslV0Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sVZXWtslV0Q"
+    },
     {
       "id": "lfmFmSz1quE",
       "title": "【静音性も】三菱　ディアマンテ　tvk「新車情報」公式　1990年放送",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-07-23T16:33:24.807453",
+  "updated_at": "2026-07-25T16:06:16.115768",
   "videos": [
+    {
+      "id": "G-sG6Ex03Qk",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-07-25T15:01:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G-sG6Ex03Qk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G-sG6Ex03Qk"
+    },
     {
       "id": "_g4KCTZLSN8",
       "title": "社長と社員が本音でカタル　トップ＆ビギナー　第8回　このはな不動産",

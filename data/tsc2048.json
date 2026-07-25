@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-07-24T16:44:49.058012",
+  "updated_at": "2026-07-25T16:05:44.195085",
   "videos": [
+    {
+      "id": "N6qGSf-EtYg",
+      "title": "【特別番組】峰竜太親子の新しい岡山発見さんぽ 美食浪漫！山田方谷ゆかりの高梁篇",
+      "description": "",
+      "publishedAt": "2026-07-25T11:55:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N6qGSf-EtYg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N6qGSf-EtYg"
+    },
     {
       "id": "RG2FjP2kWnA",
       "title": "笠岡・白石踊　未来につなぐ島の伝統",
