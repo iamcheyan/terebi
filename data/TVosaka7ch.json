@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-07-25T16:05:59.835771",
+  "updated_at": "2026-07-26T16:03:06.184019",
   "videos": [
+    {
+      "id": "S-Zrxhz07eo",
+      "title": "食遺産File.256「モロヘイヤの和風天津飯」＠兵庫県・神戸市",
+      "description": "",
+      "publishedAt": "2026-07-26T03:45:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S-Zrxhz07eo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S-Zrxhz07eo"
+    },
     {
       "id": "PTTRSQKL62g",
       "title": "【よゐこ有野】この街、攻略しとく？東大阪石切のグルメ通りをぶーらぶら 〜関西人気街ブラ番組の大物芸能人と遭遇！？の巻～",

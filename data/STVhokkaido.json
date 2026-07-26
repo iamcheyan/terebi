@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-07-22T16:21:55.177623",
+  "updated_at": "2026-07-26T16:03:52.366489",
   "videos": [
+    {
+      "id": "Qx-xNx2R5y4",
+      "title": "7月25日OAどさんこWEEKEND 万世閣",
+      "description": "",
+      "publishedAt": "2026-07-26T15:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Qx-xNx2R5y4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Qx-xNx2R5y4"
+    },
     {
       "id": "zXIXgnpPjvc",
       "title": "今年は“道庁赤れんがガーデン”で開催！【大ほっかいどう祭 2026】",

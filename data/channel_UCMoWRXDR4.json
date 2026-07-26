@@ -1,8 +1,32 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-07-25T16:05:55.666935",
+  "updated_at": "2026-07-26T16:03:26.614263",
   "videos": [
+    {
+      "id": "RUTN1i8NLSQ",
+      "title": "里崎智也のゴルフ直球勝負！ 第282回【ゲスト】森彩乃プロ③（2026年4月5日放送）",
+      "description": "",
+      "publishedAt": "2026-07-26T10:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RUTN1i8NLSQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RUTN1i8NLSQ"
+    },
+    {
+      "id": "rljtjSCd82U",
+      "title": "里崎智也のゴルフ直球勝負！ 第281回【ゲスト】森彩乃プロ②（2026年3月29日放送）",
+      "description": "",
+      "publishedAt": "2026-07-26T10:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rljtjSCd82U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rljtjSCd82U"
+    },
     {
       "id": "FDUn0KqyBnE",
       "title": "『里崎智也のゴルフ直球勝負！』～ミニコーナー「ともやの小部屋」#297 ～ 竹村真琴プロ",

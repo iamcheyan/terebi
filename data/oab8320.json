@@ -1,8 +1,20 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-07-25T16:06:17.437732",
+  "updated_at": "2026-07-26T16:03:48.056197",
   "videos": [
+    {
+      "id": "iK254SbevsQ",
+      "title": "子どもたちがエネルギーを学ぶ",
+      "description": "",
+      "publishedAt": "2026-07-26T11:19:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iK254SbevsQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iK254SbevsQ"
+    },
     {
       "id": "b-pzOTzZyDg",
       "title": "【決勝】7/25 大分商vs津久見",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2026-07-25T16:05:34.950587",
+  "updated_at": "2026-07-26T16:03:13.255276",
   "videos": [
+    {
+      "id": "vas4O148Ktc",
+      "title": "７月２８日のからふる",
+      "description": "",
+      "publishedAt": "2026-07-26T09:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vas4O148Ktc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vas4O148Ktc"
+    },
     {
       "id": "QswuQeuP6Y0",
       "title": "ライフカードpresents【Life of Ryoma】＃２９龍馬と中岡慎太郎",

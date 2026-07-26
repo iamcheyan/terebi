@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-07-23T16:35:02.557045",
+  "updated_at": "2026-07-26T16:03:54.302569",
   "videos": [
+    {
+      "id": "TBfJaTRZlgY",
+      "title": "【前編】TUF番組「U字工事が推す！那須！夏！家族旅行」",
+      "description": "",
+      "publishedAt": "2026-07-26T15:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TBfJaTRZlgY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TBfJaTRZlgY"
+    },
     {
       "id": "-Smy7lghT7o",
       "title": "【明日への一歩】葵高校　ギターマンドリン部",

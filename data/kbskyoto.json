@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-07-24T16:44:17.271267",
+  "updated_at": "2026-07-26T16:03:23.351140",
   "videos": [
+    {
+      "id": "VQkCSkfVaCc",
+      "title": "笑顔をつくる みんなの農園｜向日市｜【ふるさとDays】",
+      "description": "",
+      "publishedAt": "2026-07-26T07:19:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VQkCSkfVaCc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VQkCSkfVaCc"
+    },
+    {
+      "id": "YBbCK_jVWQc",
+      "title": "久御山町に魚市場がやってきた？水産会社の挑戦｜久御山町｜【ふるさとDays】",
+      "description": "",
+      "publishedAt": "2026-07-26T04:05:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YBbCK_jVWQc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YBbCK_jVWQc"
+    },
     {
       "id": "R_T7jJB6YO8",
       "title": "【函谷鉾×亀岡蒸留所】祇園祭お囃子を聴かせた紫芋焼酎「かんこはやし」とは？／きょうと経済テラス キュンと！",
