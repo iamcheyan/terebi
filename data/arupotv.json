@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-07-26T16:03:50.529635",
+  "updated_at": "2026-07-27T17:00:04.670504",
   "videos": [
+    {
+      "id": "KWxcQzu_QTk",
+      "title": "【番宣】７月３０日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-07-27T00:45:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KWxcQzu_QTk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KWxcQzu_QTk"
+    },
+    {
+      "id": "qyAqi37HJcU",
+      "title": "未来をつくるヒーローたち 第17話",
+      "description": "",
+      "publishedAt": "2026-07-27T00:05:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qyAqi37HJcU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qyAqi37HJcU"
+    },
     {
       "id": "JSNMbAt3foE",
       "title": "第112回 めざせ！くまもとの若き匠たち【小川工業高校 設備工業科】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-07-26T16:03:58.770826",
+  "updated_at": "2026-07-27T17:00:12.958503",
   "videos": [
+    {
+      "id": "cIg8py0tbR8",
+      "title": "愛媛のニュース(07月27日)",
+      "description": "",
+      "publishedAt": "2026-07-27T11:40:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cIg8py0tbR8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cIg8py0tbR8"
+    },
+    {
+      "id": "6JfdmiZ3e_E",
+      "title": "【愛媛県警】機動捜査分析課の女性捜査員に密着",
+      "description": "",
+      "publishedAt": "2026-07-27T03:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6JfdmiZ3e_E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6JfdmiZ3e_E"
+    },
     {
       "id": "NGgzvWFfW2Q",
       "title": "愛媛のニュース(07月26日)",

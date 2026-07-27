@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-07-26T16:03:56.887736",
+  "updated_at": "2026-07-27T17:00:11.079803",
   "videos": [
+    {
+      "id": "A5kmlmGIjHw",
+      "title": "みんテレ　7月28日（火）放送",
+      "description": "",
+      "publishedAt": "2026-07-27T10:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A5kmlmGIjHw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A5kmlmGIjHw"
+    },
     {
       "id": "rcS58rIDYOw",
       "title": "松本裕子の病を知るー7月26日　シリーズ光がひらく命の選択③　体内で光る！見える手術と光治療の最前線",

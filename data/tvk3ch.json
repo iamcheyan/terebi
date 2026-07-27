@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-25T16:05:47.471498",
+  "updated_at": "2026-07-27T16:59:46.292756",
   "videos": [
+    {
+      "id": "aSWYcVDWr9M",
+      "title": "晴の輔・めろんのかなフィルふぃ～る【ディレクターズカット版】",
+      "description": "",
+      "publishedAt": "2026-07-27T09:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aSWYcVDWr9M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aSWYcVDWr9M"
+    },
+    {
+      "id": "WzgNg7lghFs",
+      "title": "カナフルTV　次回予告（8月2日放送）",
+      "description": "",
+      "publishedAt": "2026-07-27T04:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WzgNg7lghFs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WzgNg7lghFs"
+    },
     {
       "id": "jqqJhQHlPEQ",
       "title": "ハマナビ　2026年7月25日放送　見て・体験して！大人の自由研究",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-07-24T16:45:09.359422",
+  "updated_at": "2026-07-27T17:00:03.046484",
   "videos": [
+    {
+      "id": "XCD70CyS33I",
+      "title": "【大分市】嫁の中華そば（2026年7月22日放送分）",
+      "description": "",
+      "publishedAt": "2026-07-27T02:38:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XCD70CyS33I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XCD70CyS33I"
+    },
     {
       "id": "7SM2L0m_0L8",
       "title": "【大分市】炒飯の中華一番（2026年7月8日放送分）",

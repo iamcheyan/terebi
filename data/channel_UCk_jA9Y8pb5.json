@@ -1,8 +1,44 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-07-24T16:44:20.476042",
+  "updated_at": "2026-07-27T16:59:32.672455",
   "videos": [
+    {
+      "id": "s3fHLf3wuD0",
+      "title": "【6分でわかる】ネバネバで箸が止まらない！もずく油そば（ヘルシーうれしー）",
+      "description": "",
+      "publishedAt": "2026-07-27T06:23:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s3fHLf3wuD0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s3fHLf3wuD0"
+    },
+    {
+      "id": "6fT9rz3u6jA",
+      "title": "【和えるだけ！】わらび＆サーモンの押し寿司風ごはんレシピ（ヘルシーうれしー）",
+      "description": "",
+      "publishedAt": "2026-07-27T06:12:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6fT9rz3u6jA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6fT9rz3u6jA"
+    },
+    {
+      "id": "injLNLkMlaE",
+      "title": "季節のいけばな７月２１日テーマ「手遊び」",
+      "description": "",
+      "publishedAt": "2026-07-27T01:14:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/injLNLkMlaE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=injLNLkMlaE"
+    },
     {
       "id": "5EWzkmC374k",
       "title": "シーズンinthe産「六戸町・大玉にんにく」【父を越えろ！親子農家】Vol.99",

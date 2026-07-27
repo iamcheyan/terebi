@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-07-26T16:03:07.755977",
+  "updated_at": "2026-07-27T16:59:33.869487",
   "videos": [
+    {
+      "id": "EVk2icC08lY",
+      "title": "超町人！チョコレートサムネット 8/2(日)三重・伊勢市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-07-27T04:13:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EVk2icC08lY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EVk2icC08lY"
+    },
     {
       "id": "wStMPncREfw",
       "title": "【メ～テレ新人アナ】伊藤アナはじめての66秒自己紹介🎤✨",
