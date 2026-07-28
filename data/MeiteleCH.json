@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-07-27T16:59:33.869487",
+  "updated_at": "2026-07-28T16:42:05.605002",
   "videos": [
+    {
+      "id": "3IEvl5488Mo",
+      "title": "ウルフィが指揮者に!? 名古屋芸術大学ウインドオーケストラが『サンキューウルフィ』を熱演！",
+      "description": "",
+      "publishedAt": "2026-07-28T03:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3IEvl5488Mo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3IEvl5488Mo"
+    },
     {
       "id": "EVk2icC08lY",
       "title": "超町人！チョコレートサムネット 8/2(日)三重・伊勢市編【メ～テレ】",

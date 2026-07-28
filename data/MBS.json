@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-07-27T16:59:34.268087",
+  "updated_at": "2026-07-28T16:41:29.102573",
   "videos": [
+    {
+      "id": "Xi7hMZHZuhs",
+      "title": "★8月1日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-07-28T08:31:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Xi7hMZHZuhs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Xi7hMZHZuhs"
+    },
+    {
+      "id": "CmhdaUvL844",
+      "title": "【新人アナウンサー ニュースデビューまでの日々に密着！】8月2日 MBSマンスリーリポート20260802",
+      "description": "",
+      "publishedAt": "2026-07-28T02:51:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CmhdaUvL844/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CmhdaUvL844"
+    },
     {
       "id": "6hpiZSKCjoM",
       "title": "珠代さんのあみだくじ まさかの結果にw",

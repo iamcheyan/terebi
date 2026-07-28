@@ -1,8 +1,44 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-07-26T16:03:53.699278",
+  "updated_at": "2026-07-28T16:42:29.896241",
   "videos": [
+    {
+      "id": "hSVBSAO5NQA",
+      "title": "【トラックがつなぐ、未来の物流 】長距離ドライバーはYouTuber #04",
+      "description": "",
+      "publishedAt": "2026-07-28T13:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hSVBSAO5NQA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hSVBSAO5NQA"
+    },
+    {
+      "id": "D2Enf1-YRK0",
+      "title": "【とびうめ探究】ＣＭ_30秒Aパターン 26/07/01~ | 【公式】テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-07-28T05:43:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D2Enf1-YRK0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D2Enf1-YRK0"
+    },
+    {
+      "id": "assXSk5UzPY",
+      "title": "【とびうめ探究】ＣＭ_30秒Bパターン 26/07/01~ | 【公式】テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-07-28T05:42:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/assXSk5UzPY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=assXSk5UzPY"
+    },
     {
       "id": "umkGirvAOjE",
       "title": "【公式】「金堂礼／画家」ミライへの１minute｜テレビ西日本",

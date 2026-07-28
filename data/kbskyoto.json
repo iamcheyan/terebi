@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-07-26T16:03:23.351140",
+  "updated_at": "2026-07-28T16:41:32.224969",
   "videos": [
+    {
+      "id": "QuJ_q193IFk",
+      "title": "特集①サンマルクの「テストキッチン」オープン！／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-07-28T09:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QuJ_q193IFk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QuJ_q193IFk"
+    },
+    {
+      "id": "ehvOPhZxhKo",
+      "title": "特集②次世代イノベーターを育成「IVS Youth」／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-07-28T09:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ehvOPhZxhKo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ehvOPhZxhKo"
+    },
     {
       "id": "VQkCSkfVaCc",
       "title": "笑顔をつくる みんなの農園｜向日市｜【ふるさとDays】",

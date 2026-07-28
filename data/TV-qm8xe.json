@@ -1,8 +1,20 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-07-25T16:06:11.509541",
+  "updated_at": "2026-07-28T16:42:15.766055",
   "videos": [
+    {
+      "id": "01CuwhpsvbI",
+      "title": "株式会社マルト　ふくしまの輝くシゴト２０２６",
+      "description": "",
+      "publishedAt": "2026-07-28T02:51:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/01CuwhpsvbI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=01CuwhpsvbI"
+    },
     {
       "id": "n-Wbnl53pZI",
       "title": "第６４回福島県吹奏楽コンクール　ライブ配信　【高校・職場一般の部・7/26(日) 10:00～】",

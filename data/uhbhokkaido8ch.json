@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-07-27T17:00:11.079803",
+  "updated_at": "2026-07-28T16:42:34.223890",
   "videos": [
+    {
+      "id": "0qaIvN4VlnY",
+      "title": "#8「失われない輝きをかたちに、純金メダルに託した思い」＃北海道マラソン　＃SGC",
+      "description": "",
+      "publishedAt": "2026-07-28T13:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0qaIvN4VlnY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0qaIvN4VlnY"
+    },
+    {
+      "id": "1-ieqmF_89Q",
+      "title": "みんテレ　7月29日（水）放送",
+      "description": "",
+      "publishedAt": "2026-07-28T10:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1-ieqmF_89Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1-ieqmF_89Q"
+    },
     {
       "id": "A5kmlmGIjHw",
       "title": "みんテレ　7月28日（火）放送",

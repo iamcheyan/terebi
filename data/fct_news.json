@@ -1,8 +1,104 @@
 {
   "channel_id": "UC8Y0ZErdlAnA9uW7ZeRdreQ",
   "channel_name": "FCT福島中央テレビNEWS",
-  "updated_at": "2026-07-27T16:59:54.634432",
+  "updated_at": "2026-07-28T16:42:12.814951",
   "videos": [
+    {
+      "id": "2X5wPbIngAU",
+      "title": "浪江町の請戸海水浴場１６年ぶり再開へ　シャワーや海の家設置　８月１日「浪江浜まつり」も",
+      "description": "",
+      "publishedAt": "2026-07-28T03:06:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2X5wPbIngAU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2X5wPbIngAU"
+    },
+    {
+      "id": "0Zq-czdvZ10",
+      "title": "「水質が最も良好な河川」16年連続！福島市内を流れる荒川が水質日本一",
+      "description": "",
+      "publishedAt": "2026-07-28T03:06:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0Zq-czdvZ10/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0Zq-czdvZ10"
+    },
+    {
+      "id": "zcHy70Jyiz0",
+      "title": "優勝者にプロトーナメントへの出場権　「福島県オープンゴルフ選手権」いわき市で開催",
+      "description": "",
+      "publishedAt": "2026-07-28T03:06:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zcHy70Jyiz0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zcHy70Jyiz0"
+    },
+    {
+      "id": "oxPjpeDRqRA",
+      "title": "「朝活」が人気 夏の猛暑の影響も… エクササイズスタジオやゴルフ練習場を取材 福島",
+      "description": "",
+      "publishedAt": "2026-07-28T01:48:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oxPjpeDRqRA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oxPjpeDRqRA"
+    },
+    {
+      "id": "-LysH0U5lhc",
+      "title": "福島市長「進めることに価値がある特殊な現場」　福島駅前の再開発現場を視察　総事業費は来年度に確定へ",
+      "description": "",
+      "publishedAt": "2026-07-28T01:48:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-LysH0U5lhc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-LysH0U5lhc"
+    },
+    {
+      "id": "DhXjXQeNDi8",
+      "title": "いわき市から新地町に至る「浜サイ」 ナショナルサイクルルートに指定 知事「多くの方に自転車で走ってほしい」 福島",
+      "description": "",
+      "publishedAt": "2026-07-28T01:48:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DhXjXQeNDi8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DhXjXQeNDi8"
+    },
+    {
+      "id": "UPkA-vM3atI",
+      "title": "東京電力HD横尾敬介新会長「福島への責任の貫徹が当社最大の使命であり原点」　内堀福島県知事と会談",
+      "description": "",
+      "publishedAt": "2026-07-28T01:48:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UPkA-vM3atI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UPkA-vM3atI"
+    },
+    {
+      "id": "gh3Bce1-uWg",
+      "title": "全焼から再出発へ　笹正宗酒造の日本酒が来月出荷　福島",
+      "description": "",
+      "publishedAt": "2026-07-28T01:48:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gh3Bce1-uWg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gh3Bce1-uWg"
+    },
     {
       "id": "5THmrYxLXCw",
       "title": "「不安の声を受け止める」馬場市長が福島駅東口の再開発現場を視察",

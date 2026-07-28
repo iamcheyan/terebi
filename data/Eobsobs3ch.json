@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-07-27T17:00:03.046484",
+  "updated_at": "2026-07-28T16:42:23.986848",
   "videos": [
+    {
+      "id": "zJz5rlCK508",
+      "title": "【大分市】あんていはなれ（2026年7月22日放送分）",
+      "description": "",
+      "publishedAt": "2026-07-28T02:26:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zJz5rlCK508/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zJz5rlCK508"
+    },
     {
       "id": "XCD70CyS33I",
       "title": "【大分市】嫁の中華そば（2026年7月22日放送分）",

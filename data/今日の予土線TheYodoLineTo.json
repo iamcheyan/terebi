@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-27T17:00:18.314897",
+  "updated_at": "2026-07-28T16:42:43.913753",
   "videos": [
+    {
+      "id": "uMmXn-ECCyk",
+      "title": "260728 180516 永野市第２踏切（鬼列車通過）",
+      "description": "",
+      "publishedAt": "2026-07-28T12:19:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uMmXn-ECCyk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uMmXn-ECCyk"
+    },
+    {
+      "id": "YhSkEaZgrLY",
+      "title": "260728 180142 永野市第２踏切",
+      "description": "",
+      "publishedAt": "2026-07-28T12:15:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YhSkEaZgrLY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YhSkEaZgrLY"
+    },
     {
       "id": "SeWnwmc6q84",
       "title": "260727 173010 河渡踏切",

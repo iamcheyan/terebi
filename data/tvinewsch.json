@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-25T16:05:36.825289",
+  "updated_at": "2026-07-28T16:41:35.410098",
   "videos": [
+    {
+      "id": "Olyp00clytc",
+      "title": "【Ｏｎｅスポ】底上げに奮闘！サッカー技術専任コーチ",
+      "description": "",
+      "publishedAt": "2026-07-28T02:43:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Olyp00clytc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Olyp00clytc"
+    },
     {
       "id": "4qEeBS_LLeM",
       "title": "【現場に密着】「広報もりおか」この春リニューアル",
