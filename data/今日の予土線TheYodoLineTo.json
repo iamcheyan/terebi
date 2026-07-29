@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-07-28T16:42:43.913753",
+  "updated_at": "2026-07-29T16:24:44.205243",
   "videos": [
+    {
+      "id": "P-cdd7Ne3NI",
+      "title": "260729 154851 増田踏切（すまいるえきちゃん号通過）",
+      "description": "",
+      "publishedAt": "2026-07-29T10:03:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P-cdd7Ne3NI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P-cdd7Ne3NI"
+    },
+    {
+      "id": "2Gxjdmwfx54",
+      "title": "260729 154522 増田踏切",
+      "description": "",
+      "publishedAt": "2026-07-29T10:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Gxjdmwfx54/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Gxjdmwfx54"
+    },
+    {
+      "id": "bEPoyTENcvQ",
+      "title": "260729 154205 増田踏切 ２",
+      "description": "",
+      "publishedAt": "2026-07-29T09:58:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bEPoyTENcvQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bEPoyTENcvQ"
+    },
+    {
+      "id": "ZPa01CL96ko",
+      "title": "260729 153821 増田踏切",
+      "description": "",
+      "publishedAt": "2026-07-29T09:29:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZPa01CL96ko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZPa01CL96ko"
+    },
     {
       "id": "uMmXn-ECCyk",
       "title": "260728 180516 永野市第２踏切（鬼列車通過）",

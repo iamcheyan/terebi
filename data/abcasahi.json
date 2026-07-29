@@ -1,8 +1,44 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-07-28T16:42:03.133984",
+  "updated_at": "2026-07-29T16:23:40.111027",
   "videos": [
+    {
+      "id": "zPPIAwuix0o",
+      "title": "盆踊りコンビ再び",
+      "description": "",
+      "publishedAt": "2026-07-29T11:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zPPIAwuix0o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zPPIAwuix0o"
+    },
+    {
+      "id": "9-hu34YTQUs",
+      "title": "50代芸人の本音炸裂！？",
+      "description": "",
+      "publishedAt": "2026-07-29T09:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9-hu34YTQUs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9-hu34YTQUs"
+    },
+    {
+      "id": "ckoDnz8w3iw",
+      "title": "「ポツンと一軒家」8月2日（日）よる7:54放送！",
+      "description": "",
+      "publishedAt": "2026-07-29T03:52:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ckoDnz8w3iw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ckoDnz8w3iw"
+    },
     {
       "id": "l7ySHOQTD1s",
       "title": "「探偵！ナイトスクープ」7月31日（金）深夜放送！",

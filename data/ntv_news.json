@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-07-17T16:17:21.222262",
+  "updated_at": "2026-07-29T16:23:45.780050",
   "videos": [
+    {
+      "id": "dFl75MBuDns",
+      "title": "Remembering Kent Boughton",
+      "description": "",
+      "publishedAt": "2026-07-28T19:12:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dFl75MBuDns/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dFl75MBuDns"
+    },
     {
       "id": "_CBPKRoY60A",
       "title": "Leo Curtis Is Ready for a Breakout Season with Nebraska Men's Basketball",

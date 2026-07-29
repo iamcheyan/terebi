@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-07-28T16:42:31.501335",
+  "updated_at": "2026-07-29T16:24:35.203134",
   "videos": [
+    {
+      "id": "cEke-NuqDjk",
+      "title": "ご当地フルコース～八幡平市～",
+      "description": "",
+      "publishedAt": "2026-07-29T10:39:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cEke-NuqDjk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cEke-NuqDjk"
+    },
     {
       "id": "ygZYphDTong",
       "title": "今日の５きげんテレビ（7月29日）｜テレビ岩手",

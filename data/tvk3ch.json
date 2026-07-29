@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-28T16:41:42.926175",
+  "updated_at": "2026-07-29T16:24:09.059131",
   "videos": [
+    {
+      "id": "4TlwRh2sjwo",
+      "title": "カナフルTV　7月26日　知って安心！かながわ夏の涼スポット",
+      "description": "",
+      "publishedAt": "2026-07-29T04:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4TlwRh2sjwo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4TlwRh2sjwo"
+    },
+    {
+      "id": "Vbmt9ZGWpWk",
+      "title": "かながわ旬菜ナビ　次回予告（8月2日放送）",
+      "description": "",
+      "publishedAt": "2026-07-29T03:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Vbmt9ZGWpWk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Vbmt9ZGWpWk"
+    },
     {
       "id": "FUqTjmCHim4",
       "title": "tvk「クルマでいこう！」公式 DS N°4 ETOILE HYBRID 2026/7/19放送(#949)",

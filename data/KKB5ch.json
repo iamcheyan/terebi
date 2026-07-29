@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAhZnTMHk-TPyDzT0rt34IQ",
   "channel_name": "KKB鹿児島放送",
-  "updated_at": "2026-07-26T16:03:42.318833",
+  "updated_at": "2026-07-29T16:24:21.868900",
   "videos": [
+    {
+      "id": "KtHpNTMlgJc",
+      "title": "一番人気「クリチ×赤しそ」がもはやおむすびの皮を被ったリゾットだった件",
+      "description": "",
+      "publishedAt": "2026-07-29T04:54:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KtHpNTMlgJc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KtHpNTMlgJc"
+    },
+    {
+      "id": "qEvEgZhAre0",
+      "title": "【てとてと】うさぎさんと鹿児島を眺める 第34回「ヨシサコツバサ」～好きがカタチになる～",
+      "description": "",
+      "publishedAt": "2026-07-29T04:49:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qEvEgZhAre0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qEvEgZhAre0"
+    },
     {
       "id": "iZjXxVRUCf0",
       "title": "【てとてと】未来に届ける縁起物 第37回「Reprise」てとてと～好きがカタチになる～",
