@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-07-27T16:59:32.672455",
+  "updated_at": "2026-07-30T16:28:40.861563",
   "videos": [
+    {
+      "id": "5WzTZW0vd-0",
+      "title": "栗原心平の青森いただきまーす！7月13日「サルティンボッカ」",
+      "description": "",
+      "publishedAt": "2026-07-30T08:28:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5WzTZW0vd-0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5WzTZW0vd-0"
+    },
+    {
+      "id": "7ZMjc8khT-0",
+      "title": "季節の生け花7月27日テーマ「晴れわたり」",
+      "description": "",
+      "publishedAt": "2026-07-30T08:24:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7ZMjc8khT-0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7ZMjc8khT-0"
+    },
     {
       "id": "s3fHLf3wuD0",
       "title": "【6分でわかる】ネバネバで箸が止まらない！もずく油そば（ヘルシーうれしー）",

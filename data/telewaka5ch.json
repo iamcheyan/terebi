@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-07-29T16:24:00.850416",
+  "updated_at": "2026-07-30T16:28:15.498696",
   "videos": [
+    {
+      "id": "pDQ90VTq6wU",
+      "title": "和歌山市 熊本に給水車と職員を派遣 令和8年熊本地震の被災地支援",
+      "description": "",
+      "publishedAt": "2026-07-30T10:20:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pDQ90VTq6wU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pDQ90VTq6wU"
+    },
     {
       "id": "4xD9GkqqxxE",
       "title": "災害による停電で交差点の信号が消えたことを想定 警察官の交通整理と信号機の復旧訓練 和歌山市",

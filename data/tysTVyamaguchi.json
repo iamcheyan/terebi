@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9r31LvpWhWU0aJdAirOZDQ",
   "channel_name": "テレビ山口（tys）",
-  "updated_at": "2026-06-23T17:19:07.684559",
+  "updated_at": "2026-07-30T16:28:24.591070",
   "videos": [
+    {
+      "id": "aNMzQIPHLko",
+      "title": "【LIVE配信】萩・花火大会２０２６ ＜山口県萩市・8月1日（土）＞ ｔｙｓテレビ山口【公式】",
+      "description": "",
+      "publishedAt": "2026-07-15T05:32:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aNMzQIPHLko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aNMzQIPHLko"
+    },
     {
       "id": "Q-tY6YdLcvc",
       "title": "【ライブ配信】仁保川・氷上橋 山口市大内千坊 情報カメラ ＜tysテレビ山口【公式】＞",

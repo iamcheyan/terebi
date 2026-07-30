@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-07-28T16:42:23.986848",
+  "updated_at": "2026-07-30T16:28:56.339287",
   "videos": [
+    {
+      "id": "pR3r_CYuO0U",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年7月27日放送分】",
+      "description": "",
+      "publishedAt": "2026-07-30T08:11:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pR3r_CYuO0U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pR3r_CYuO0U"
+    },
     {
       "id": "zJz5rlCK508",
       "title": "【大分市】あんていはなれ（2026年7月22日放送分）",

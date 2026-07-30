@@ -1,8 +1,32 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-07-29T16:23:39.090449",
+  "updated_at": "2026-07-30T16:28:23.871752",
   "videos": [
+    {
+      "id": "b5SPiDl3XR0",
+      "title": "【ソノタネ2.0】#12～ゴビウス～",
+      "description": "",
+      "publishedAt": "2026-07-30T08:08:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b5SPiDl3XR0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b5SPiDl3XR0"
+    },
+    {
+      "id": "8sLqc5YJ5vk",
+      "title": "【しまねっこの宅配便X】#13「未来へつなごう！しまねの農業」",
+      "description": "",
+      "publishedAt": "2026-07-30T07:14:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8sLqc5YJ5vk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8sLqc5YJ5vk"
+    },
     {
       "id": "izzHFXTY5ys",
       "title": "予告【しまねっこの宅配便X】8/5（水）放送「未来へつなごう！しまねの農業」",
