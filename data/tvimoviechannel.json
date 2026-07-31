@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-07-30T16:29:02.157476",
+  "updated_at": "2026-07-31T16:48:02.445991",
   "videos": [
+    {
+      "id": "p_qrw1SnOLo",
+      "title": "白ナスとトマトのオーブン焼き | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-07-31T09:20:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p_qrw1SnOLo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p_qrw1SnOLo"
+    },
     {
       "id": "MkBGCl3373U",
       "title": "今日の５きげんテレビ（7月31日）｜テレビ岩手",

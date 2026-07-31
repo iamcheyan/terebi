@@ -1,8 +1,116 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-07-30T16:28:57.298557",
+  "updated_at": "2026-07-31T16:47:56.493893",
   "videos": [
+    {
+      "id": "5ifFZ8h_y4g",
+      "title": "RKCコメ作りプロジェクト！コメ作りが抱える問題",
+      "description": "",
+      "publishedAt": "2026-07-31T11:02:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5ifFZ8h_y4g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5ifFZ8h_y4g"
+    },
+    {
+      "id": "zlEV-Pyk7Oc",
+      "title": "「きょうのジミーちゃん♪#08  ～高知生活の様子をお届け～」",
+      "description": "",
+      "publishedAt": "2026-07-31T10:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zlEV-Pyk7Oc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zlEV-Pyk7Oc"
+    },
+    {
+      "id": "P6OnFyTdrEo",
+      "title": "「《特製のエンブレム入り》高知ユナイテッドがよさこい祭りで木製メダルを配布」2026/7/31放送",
+      "description": "",
+      "publishedAt": "2026-07-31T10:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P6OnFyTdrEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P6OnFyTdrEo"
+    },
+    {
+      "id": "7bL0DSW5Q9o",
+      "title": "「高知県と高知市が被災地へ職員5人を派遣」2026/7/31放送",
+      "description": "",
+      "publishedAt": "2026-07-31T10:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7bL0DSW5Q9o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7bL0DSW5Q9o"
+    },
+    {
+      "id": "zlcimwEK2R0",
+      "title": "「熱中症予防にも！暑さ対策グッズ×フカボリ」2026/6/19放送",
+      "description": "",
+      "publishedAt": "2026-07-31T09:30:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zlcimwEK2R0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zlcimwEK2R0"
+    },
+    {
+      "id": "3JI21EMXMs0",
+      "title": "「本山町農業公社『土佐あかうし牛すじ煮込み甘辛みそ味』×ときめくおうちごはん」2026/7/31放送",
+      "description": "",
+      "publishedAt": "2026-07-31T09:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3JI21EMXMs0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3JI21EMXMs0"
+    },
+    {
+      "id": "a4StmzRo_PM",
+      "title": "「高知県内の建設会社が県内ではじめて 建設用3Dプリンターを購入」2026/7/31放送",
+      "description": "",
+      "publishedAt": "2026-07-31T08:30:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a4StmzRo_PM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a4StmzRo_PM"
+    },
+    {
+      "id": "CUgMmPRlvYM",
+      "title": "「県立牧野植物園で熱帯の花ザーバオバブが開花」2026/7/31放送",
+      "description": "",
+      "publishedAt": "2026-07-31T03:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CUgMmPRlvYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CUgMmPRlvYM"
+    },
+    {
+      "id": "AuH2KUbgdwU",
+      "title": "「《一戦必勝で》明徳義塾 甲子園に向け壮行式」2026/7/31放送",
+      "description": "",
+      "publishedAt": "2026-07-31T03:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AuH2KUbgdwU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AuH2KUbgdwU"
+    },
     {
       "id": "qKUkJYA4YsI",
       "title": "「高知県内で始まった小学校のチーム担任制」2026/7/30放送",

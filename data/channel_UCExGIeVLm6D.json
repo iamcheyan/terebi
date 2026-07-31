@@ -1,8 +1,44 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-07-29T16:23:55.133318",
+  "updated_at": "2026-07-31T16:47:30.448556",
   "videos": [
+    {
+      "id": "nffbjzD7Khk",
+      "title": "HIPPYさんメッセージ｜「ヒロシマのユーカリ～あの日を知る旅人～」RCCテレビで８月３日(月)放送",
+      "description": "",
+      "publishedAt": "2026-07-31T05:50:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nffbjzD7Khk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nffbjzD7Khk"
+    },
+    {
+      "id": "xonpDTnI8Nc",
+      "title": "26/7/26OA　イマナマ！ワールド「話題のクリニックに潜入取材！」【RCCテレビ】",
+      "description": "",
+      "publishedAt": "2026-07-31T03:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xonpDTnI8Nc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xonpDTnI8Nc"
+    },
+    {
+      "id": "N8AZnys62mU",
+      "title": "26/7/31OA　ランキンLand！「いつものアレにちょい足し」【RCCテレビ】",
+      "description": "",
+      "publishedAt": "2026-07-31T02:25:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N8AZnys62mU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N8AZnys62mU"
+    },
     {
       "id": "FBkVHyyVE_w",
       "title": "RCCテレビ『元就。』2026年8月2日予告",

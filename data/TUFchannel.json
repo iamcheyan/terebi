@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-07-28T16:42:31.110476",
+  "updated_at": "2026-07-31T16:48:02.121998",
   "videos": [
+    {
+      "id": "FGpBETYIrdM",
+      "title": "「福島日産自動車×ステップ」8月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-07-31T15:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FGpBETYIrdM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FGpBETYIrdM"
+    },
+    {
+      "id": "KSrUQuMYpWM",
+      "title": "TUFアプリ「たぷり」8月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-07-31T15:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KSrUQuMYpWM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KSrUQuMYpWM"
+    },
     {
       "id": "RQlMStR_2Pg",
       "title": "【ふくしまSHOW】『2時間SP！郡山市内環状線＆会中浜ラーメン対決の二本立て！』",
