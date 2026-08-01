@@ -1,8 +1,20 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-07-30T16:28:34.050385",
+  "updated_at": "2026-08-01T16:02:30.865595",
   "videos": [
+    {
+      "id": "WDk8uoVdTgo",
+      "title": "【LIVE】八戸三社大祭2026～青森の祭りを未来へつなごう～　Live stream of the Hachinohe Sansha Taisai parade.",
+      "description": "",
+      "publishedAt": "2026-08-01T09:21:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WDk8uoVdTgo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WDk8uoVdTgo"
+    },
     {
       "id": "nZJNFWAm7uI",
       "title": "【LIVE】黒石ねぷた祭り2026～青森の祭りを未来へつなごう～　概要欄に運行順あり。 Kuroishi Neputa Festival　青森県黒石市",

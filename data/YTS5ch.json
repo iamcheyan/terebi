@@ -1,8 +1,44 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-07-29T16:23:57.201826",
+  "updated_at": "2026-08-01T16:02:41.325595",
   "videos": [
+    {
+      "id": "k2TpBnVqmLw",
+      "title": "第2840回 やまがた景観賞 募集「提言の広場」",
+      "description": "",
+      "publishedAt": "2026-07-31T23:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k2TpBnVqmLw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k2TpBnVqmLw"
+    },
+    {
+      "id": "Zuk4I-VTAOg",
+      "title": "【肘折温泉】100年続く「肘折朝市」へ！早朝から旬の味覚を買って食べて楽しみ尽くす！",
+      "description": "",
+      "publishedAt": "2026-07-31T22:30:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Zuk4I-VTAOg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Zuk4I-VTAOg"
+    },
+    {
+      "id": "T-9OhP50YCU",
+      "title": "【大蔵村】県内一のトマト王国！ブランドトマトが絶品そば＆スイーツに！",
+      "description": "",
+      "publishedAt": "2026-07-31T22:30:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T-9OhP50YCU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T-9OhP50YCU"
+    },
     {
       "id": "GuXMYj6bGqE",
       "title": "グルメ天国・道の駅むらやま ガクットが秘密に迫る！",

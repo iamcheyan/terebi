@@ -1,8 +1,20 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-07-31T16:47:04.810962",
+  "updated_at": "2026-08-01T16:02:56.841535",
   "videos": [
+    {
+      "id": "S81xJDbjDoE",
+      "title": "山奥の”元祖ポツン” #ポツンと一軒家",
+      "description": "",
+      "publishedAt": "2026-08-01T13:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S81xJDbjDoE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S81xJDbjDoE"
+    },
     {
       "id": "tbo59M-o2Kk",
       "title": "Vaundy Interview at 阪神甲子園球場 / \"かげろう\"  (夏の高校野球応援ソング/「熱闘甲子園」テーマソング)",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-07-30T16:28:18.318524",
+  "updated_at": "2026-08-01T16:03:01.442529",
   "videos": [
+    {
+      "id": "tLNT8fj-QoY",
+      "title": "【プラストーリーズ】盛岡さんさ踊り",
+      "description": "",
+      "publishedAt": "2026-08-01T10:18:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tLNT8fj-QoY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tLNT8fj-QoY"
+    },
+    {
+      "id": "e1vhhXVwv7A",
+      "title": "【青に魅せられて】岩泉町・龍泉洞ドラゴンブルー",
+      "description": "",
+      "publishedAt": "2026-08-01T00:52:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e1vhhXVwv7A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e1vhhXVwv7A"
+    },
     {
       "id": "siq3u8X52Uw",
       "title": "元気○（マル）らいふ　【手軽にできる自由研究】（2026/7/29放送　ニュースプラス１いわて）",

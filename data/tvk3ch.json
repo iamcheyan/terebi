@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-07-31T16:47:26.275735",
+  "updated_at": "2026-08-01T16:02:59.852996",
   "videos": [
+    {
+      "id": "abOBoT5FBTA",
+      "title": "ハマナビ　次回予告（8月8日放送）",
+      "description": "",
+      "publishedAt": "2026-08-01T09:30:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/abOBoT5FBTA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=abOBoT5FBTA"
+    },
+    {
+      "id": "ivJIVjdX-1Q",
+      "title": "ハマナビ　2026年8月1日放送　アレも！コレも！ハマのハシ",
+      "description": "",
+      "publishedAt": "2026-08-01T09:30:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ivJIVjdX-1Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ivJIVjdX-1Q"
+    },
+    {
+      "id": "NVKhvRG70hs",
+      "title": "かながわMIRAI すくすくパシャリ（2026年8月ver）",
+      "description": "",
+      "publishedAt": "2026-08-01T01:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NVKhvRG70hs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NVKhvRG70hs"
+    },
+    {
+      "id": "EWjNOvNaLhY",
+      "title": "LOVEかわさき　8月1日放送：新シーズンへ始動！NECレッドロケッツ川崎",
+      "description": "",
+      "publishedAt": "2026-08-01T00:30:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EWjNOvNaLhY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EWjNOvNaLhY"
+    },
     {
       "id": "dYEYUE2yZvk",
       "title": "13分のステージ【ワンダーウィード天】7/31 O.A.",

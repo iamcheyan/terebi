@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-07-30T16:28:15.498696",
+  "updated_at": "2026-08-01T16:02:29.261843",
   "videos": [
+    {
+      "id": "ERx_qOZ9TcY",
+      "title": "あのじゅうよ〜 第209回「懐かしい和歌山城のあのじゅうやで〜」",
+      "description": "",
+      "publishedAt": "2026-08-01T14:30:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ERx_qOZ9TcY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ERx_qOZ9TcY"
+    },
     {
       "id": "pDQ90VTq6wU",
       "title": "和歌山市 熊本に給水車と職員を派遣 令和8年熊本地震の被災地支援",

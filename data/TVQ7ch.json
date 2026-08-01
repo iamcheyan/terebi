@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-07-30T16:29:02.454674",
+  "updated_at": "2026-08-01T16:03:23.558494",
   "videos": [
+    {
+      "id": "MiiqxH52Woo",
+      "title": "【テレQ番宣】ぐっ！ジョブ（8月8日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-08-01T15:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MiiqxH52Woo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MiiqxH52Woo"
+    },
+    {
+      "id": "KIRBAIN8NWY",
+      "title": "アイライフスタイル ♯60 「描くたのしさ」（テレQ 2026年8月1日放送）",
+      "description": "",
+      "publishedAt": "2026-08-01T11:59:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KIRBAIN8NWY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KIRBAIN8NWY"
+    },
     {
       "id": "S-HO9qxxSZE",
       "title": "【夢クルーズ】618 河村光陽(2026年7月30日放送)",

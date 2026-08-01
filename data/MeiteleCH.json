@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-07-31T16:47:20.373827",
+  "updated_at": "2026-08-01T16:02:40.382628",
   "videos": [
+    {
+      "id": "7bXdcqaOk60",
+      "title": "【まるまる◎あいち】2026年8月1日放送 『8月は「食品衛生月間」』",
+      "description": "",
+      "publishedAt": "2026-08-01T09:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7bXdcqaOk60/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7bXdcqaOk60"
+    },
     {
       "id": "ZGHz5vckB40",
       "title": "7月31日(金)放送「レコメシ～自慢のひとさら～」近江牛赤肉の「塩ロース」",
