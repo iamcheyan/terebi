@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-08-01T16:02:30.524341",
+  "updated_at": "2026-08-02T16:03:10.158828",
   "videos": [
+    {
+      "id": "Gs3iiM6gLIg",
+      "title": "食遺産File.257「レンコダイの南蛮」＠福井県・高浜町",
+      "description": "",
+      "publishedAt": "2026-08-02T03:45:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Gs3iiM6gLIg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Gs3iiM6gLIg"
+    },
     {
       "id": "xhqFsN1uHc4",
       "title": "【チャリキシャ！】 走ってみたいグルっとMAP  大阪・河内長野編　#チャリキシャ　#自転車　#旅　#チャリ　#高橋ユウ　#卜部弘嵩",

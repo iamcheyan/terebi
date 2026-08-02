@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-08-01T16:03:01.442529",
+  "updated_at": "2026-08-02T16:03:40.743031",
   "videos": [
+    {
+      "id": "FYp1XBB52OU",
+      "title": "【早稲田ラグビー釜石合宿】大学ラグビー日本一を目指す早稲田大学ラグビー蹴球部が釜石市で夏合宿を行いました",
+      "description": "",
+      "publishedAt": "2026-08-02T11:47:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FYp1XBB52OU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FYp1XBB52OU"
+    },
     {
       "id": "tLNT8fj-QoY",
       "title": "【プラストーリーズ】盛岡さんさ踊り",

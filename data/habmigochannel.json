@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-08-01T16:02:48.021718",
+  "updated_at": "2026-08-02T16:03:22.279936",
   "videos": [
+    {
+      "id": "5dowO2f5YCU",
+      "title": "ドクターヘリこども見学会",
+      "description": "",
+      "publishedAt": "2026-08-02T09:30:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5dowO2f5YCU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5dowO2f5YCU"
+    },
+    {
+      "id": "VUHi2uc7kPA",
+      "title": "金沢梨「幸水」出荷始まる　順調な仕上がり",
+      "description": "",
+      "publishedAt": "2026-08-02T09:30:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VUHi2uc7kPA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VUHi2uc7kPA"
+    },
     {
       "id": "sfoYfaYfOg8",
       "title": "遊びながら電気工事士の仕事を学ぼう",
