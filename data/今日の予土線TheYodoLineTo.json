@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-08-02T16:04:15.290568",
+  "updated_at": "2026-08-03T17:11:06.114036",
   "videos": [
+    {
+      "id": "RcsGqlwikPw",
+      "title": "260803 175531 久々の雨とともに新幹線復活（兼近第３踏切）",
+      "description": "",
+      "publishedAt": "2026-08-03T12:32:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RcsGqlwikPw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RcsGqlwikPw"
+    },
+    {
+      "id": "Nw0T7YCbFes",
+      "title": "260803 175225 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-08-03T12:21:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nw0T7YCbFes/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nw0T7YCbFes"
+    },
     {
       "id": "Nx76t01LcmQ",
       "title": "今週の予土線 The Yodo Line Weekly 2026 08 02",

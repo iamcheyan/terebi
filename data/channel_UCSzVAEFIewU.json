@@ -1,8 +1,56 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-08-01T16:02:38.882605",
+  "updated_at": "2026-08-03T17:10:19.951876",
   "videos": [
+    {
+      "id": "cDCxUKk9f1U",
+      "title": "【青春にエール】愛媛から世界へ！愛媛FC U-18",
+      "description": "",
+      "publishedAt": "2026-08-03T09:49:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cDCxUKk9f1U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cDCxUKk9f1U"
+    },
+    {
+      "id": "CSxt7z1yqKM",
+      "title": "【青春にエール】魂の一筆を～伊予高校書道部",
+      "description": "",
+      "publishedAt": "2026-08-03T09:49:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CSxt7z1yqKM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CSxt7z1yqKM"
+    },
+    {
+      "id": "QpNUyWVb58w",
+      "title": "【青春にエール】県内唯一の高校動物園を開園！野村高校　動物ふれあい部",
+      "description": "",
+      "publishedAt": "2026-08-03T09:44:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QpNUyWVb58w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QpNUyWVb58w"
+    },
+    {
+      "id": "VTV1R9Yo2Vk",
+      "title": "【青春にエール】宇和島東少林寺拳法部",
+      "description": "",
+      "publishedAt": "2026-08-03T09:44:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VTV1R9Yo2Vk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VTV1R9Yo2Vk"
+    },
     {
       "id": "wk15RMqfryM",
       "title": "【ゆ～ばら！】夏のイベント「レゴランド(R)でびしょぬれの夏！」に参加！【レゴランド(R)・ジャパン】",

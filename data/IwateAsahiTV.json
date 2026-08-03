@@ -1,8 +1,20 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-07-31T16:47:06.898065",
+  "updated_at": "2026-08-03T17:10:14.346735",
   "videos": [
+    {
+      "id": "WIKiWNwzkhU",
+      "title": "【ライブ配信】盛岡情報カメラ",
+      "description": "",
+      "publishedAt": "2026-08-03T00:56:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WIKiWNwzkhU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WIKiWNwzkhU"
+    },
     {
       "id": "3vEiU3q31L0",
       "title": "【天津木村のへぇ～　第１８９　盛岡に根付く豆腐文化・・・豆腐と南部家＿最終章】",

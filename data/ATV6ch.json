@@ -1,8 +1,32 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-08-01T16:02:30.865595",
+  "updated_at": "2026-08-03T17:10:02.277722",
   "videos": [
+    {
+      "id": "K4LvMhrQSBI",
+      "title": "【LIVE】平川ねぷたまつり2026～青森の祭りを未来へつなごう～ Hirakawa Neputa Festival",
+      "description": "",
+      "publishedAt": "2026-08-03T12:27:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K4LvMhrQSBI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K4LvMhrQSBI"
+    },
+    {
+      "id": "sLF_6xOo0uo",
+      "title": "【#旅々スミマセン】濃厚煮干し＆あっさり塩ラーメン、枝豆シュークリームに舌鼓！外国人観光客に「ブラックストーン八郎」は通じるか!?青森市中央大橋通りをアポなし散歩",
+      "description": "",
+      "publishedAt": "2026-08-03T08:30:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sLF_6xOo0uo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sLF_6xOo0uo"
+    },
     {
       "id": "WDk8uoVdTgo",
       "title": "【LIVE】八戸三社大祭2026～青森の祭りを未来へつなごう～　Live stream of the Hachinohe Sansha Taisai parade.",

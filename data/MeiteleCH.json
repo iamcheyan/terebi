@@ -1,8 +1,44 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-01T16:02:40.382628",
+  "updated_at": "2026-08-03T17:10:27.426125",
   "videos": [
+    {
+      "id": "0IeJIqKPsvM",
+      "title": "超町人！チョコレートサムネット 8/9(日)茶色グルメ 大須商店街編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-08-03T09:05:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0IeJIqKPsvM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0IeJIqKPsvM"
+    },
+    {
+      "id": "DOCzIfRphHo",
+      "title": "舞台『Yerma イェルマ』　出演 #咲妃みゆ コメント #shorts",
+      "description": "",
+      "publishedAt": "2026-08-03T08:33:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DOCzIfRphHo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DOCzIfRphHo"
+    },
+    {
+      "id": "c6uX2TgSYLk",
+      "title": "＜咲妃みゆコメント＞『Yerma イェルマ』愛知公演",
+      "description": "",
+      "publishedAt": "2026-08-03T08:32:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c6uX2TgSYLk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c6uX2TgSYLk"
+    },
     {
       "id": "7bXdcqaOk60",
       "title": "【まるまる◎あいち】2026年8月1日放送 『8月は「食品衛生月間」』",

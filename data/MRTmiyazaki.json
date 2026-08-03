@@ -1,8 +1,68 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-07-30T16:28:53.932962",
+  "updated_at": "2026-08-03T17:10:39.899009",
   "videos": [
+    {
+      "id": "wddof1grpoQ",
+      "title": "2026年7月31日放送",
+      "description": "",
+      "publishedAt": "2026-08-03T05:19:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wddof1grpoQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wddof1grpoQ"
+    },
+    {
+      "id": "6Dvp1i3zYVs",
+      "title": "2026年7月30日放送",
+      "description": "",
+      "publishedAt": "2026-08-03T05:19:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6Dvp1i3zYVs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6Dvp1i3zYVs"
+    },
+    {
+      "id": "zP6WoAx-Eh0",
+      "title": "2026年7月29日放送",
+      "description": "",
+      "publishedAt": "2026-08-03T05:19:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zP6WoAx-Eh0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zP6WoAx-Eh0"
+    },
+    {
+      "id": "XR00jxHnbco",
+      "title": "2026年7月28日放送",
+      "description": "",
+      "publishedAt": "2026-08-03T05:03:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XR00jxHnbco/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XR00jxHnbco"
+    },
+    {
+      "id": "TsdlzaZwFNg",
+      "title": "2026年7月27日放送",
+      "description": "",
+      "publishedAt": "2026-08-03T05:03:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TsdlzaZwFNg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TsdlzaZwFNg"
+    },
     {
       "id": "e7HYFJVALj8",
       "title": "社長と社員が本音でカタル　トップ＆ビギナー　第9回　まなべる薬局",
