@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-07-30T16:28:50.976321",
+  "updated_at": "2026-08-04T16:53:59.061333",
   "videos": [
+    {
+      "id": "kNib1NRe2Ko",
+      "title": "【旬景とやま】蓮の花幻想",
+      "description": "",
+      "publishedAt": "2026-08-04T11:05:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kNib1NRe2Ko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kNib1NRe2Ko"
+    },
     {
       "id": "KqQ9OvvHjZQ",
       "title": "【旬景とやま】庄川 夏の清流",

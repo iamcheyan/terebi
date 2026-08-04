@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-08-02T16:03:57.088053",
+  "updated_at": "2026-08-04T16:54:04.085749",
   "videos": [
+    {
+      "id": "DM6zYm1N4x8",
+      "title": "知っておこう！命を守る救急法①",
+      "description": "",
+      "publishedAt": "2026-08-04T01:26:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DM6zYm1N4x8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DM6zYm1N4x8"
+    },
     {
       "id": "tUc4j3tiRGs",
       "title": "【三和ロボティクス】『日々改善』未来への便り（2026年8月放送）",

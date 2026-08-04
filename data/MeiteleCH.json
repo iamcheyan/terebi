@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-03T17:10:27.426125",
+  "updated_at": "2026-08-04T16:53:42.203313",
   "videos": [
+    {
+      "id": "UD3o_eVjNh0",
+      "title": "＜渡邊圭祐コメント＞『Yerma イェルマ』愛知公演",
+      "description": "",
+      "publishedAt": "2026-08-04T15:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UD3o_eVjNh0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UD3o_eVjNh0"
+    },
+    {
+      "id": "pVDtbXZVbwg",
+      "title": "舞台『Yerma イェルマ』　出演 #渡邊圭祐 コメント #shorts",
+      "description": "",
+      "publishedAt": "2026-08-04T15:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pVDtbXZVbwg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pVDtbXZVbwg"
+    },
     {
       "id": "0IeJIqKPsvM",
       "title": "超町人！チョコレートサムネット 8/9(日)茶色グルメ 大須商店街編【メ～テレ】",

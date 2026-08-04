@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-08-03T17:10:22.257332",
+  "updated_at": "2026-08-04T16:53:32.346768",
   "videos": [
+    {
+      "id": "nsBn_nCWj4Y",
+      "title": "【あさは５ちゃん！】2026年8月8日放送",
+      "description": "",
+      "publishedAt": "2026-08-04T05:19:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nsBn_nCWj4Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nsBn_nCWj4Y"
+    },
     {
       "id": "xmgvQhlylrQ",
       "title": "【肘折温泉】100年続く「肘折朝市」へ！早朝から旬の味覚を買って食べて楽しみ尽くす！",

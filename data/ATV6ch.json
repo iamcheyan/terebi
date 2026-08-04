@@ -1,8 +1,20 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-08-03T17:10:02.277722",
+  "updated_at": "2026-08-04T16:53:49.197122",
   "videos": [
+    {
+      "id": "Yfd3hHByC80",
+      "title": "【LIVE】弘前ねぷたまつり2026～青森の祭りを未来へつなごう～ Hirosaki Neputa Festival  弘前睡魔祭",
+      "description": "",
+      "publishedAt": "2026-08-04T11:57:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yfd3hHByC80/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yfd3hHByC80"
+    },
     {
       "id": "K4LvMhrQSBI",
       "title": "【LIVE】平川ねぷたまつり2026～青森の祭りを未来へつなごう～ Hirakawa Neputa Festival",

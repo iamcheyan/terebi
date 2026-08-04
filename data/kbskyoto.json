@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-07-31T16:47:11.291055",
+  "updated_at": "2026-08-04T16:53:21.787249",
   "videos": [
+    {
+      "id": "6evdN8e22Wk",
+      "title": "特集　“イノベーションの祭典” KRPフェス／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-08-04T09:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6evdN8e22Wk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6evdN8e22Wk"
+    },
+    {
+      "id": "kESTXpS3RHk",
+      "title": "京都経営者協会会長・SCREENホールディングス　廣江敏朗会長に聞く「経営のカギ」／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-08-04T09:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kESTXpS3RHk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kESTXpS3RHk"
+    },
     {
       "id": "pyS2voY1Y0Y",
       "title": "祇園祭を彩る技術　川島織物セルコンの挑戦！／きょうと経済テラス キュンと！",
