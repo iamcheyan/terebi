@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-07-29T16:24:32.123571",
+  "updated_at": "2026-08-05T16:44:42.056385",
   "videos": [
+    {
+      "id": "9kSgVitueaI",
+      "title": "札幌ではなかなか “食べられない” 北海道グルメがやってくる！【大ほっかいどう祭2026】",
+      "description": "",
+      "publishedAt": "2026-08-05T12:22:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9kSgVitueaI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9kSgVitueaI"
+    },
     {
       "id": "_zokd5Dzgb0",
       "title": "【懐かしの映像も！】8/8コンサドーレ 新シーズン開幕戦！元日本代表・西大伍さんメッセージ",

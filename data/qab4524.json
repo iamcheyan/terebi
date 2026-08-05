@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-08-03T17:10:43.250975",
+  "updated_at": "2026-08-05T16:44:38.400897",
   "videos": [
+    {
+      "id": "lfanr5LgVlw",
+      "title": "ウォーキングプロデューサー OK和男さんのSOLENA",
+      "description": "",
+      "publishedAt": "2026-08-05T06:45:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lfanr5LgVlw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lfanr5LgVlw"
+    },
     {
       "id": "cdg2uPZRzTg",
       "title": "Listen195 沖縄アクターズスクール 知花球亜さん、マツリカさん",

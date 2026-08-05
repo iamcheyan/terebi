@@ -1,8 +1,44 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-08-04T16:53:30.547881",
+  "updated_at": "2026-08-05T16:43:47.824613",
   "videos": [
+    {
+      "id": "LpJ4h0XKaXo",
+      "title": "足立区立の小学校で…プールのマンホールに児童が落下　全治約3週間のけが",
+      "description": "",
+      "publishedAt": "2026-08-05T12:05:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LpJ4h0XKaXo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LpJ4h0XKaXo"
+    },
+    {
+      "id": "KXd1bzZnzgA",
+      "title": "東京都“ゲリラ豪雨で浸水”　地下からの避難を学ぶイベント",
+      "description": "",
+      "publishedAt": "2026-08-05T11:20:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KXd1bzZnzgA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KXd1bzZnzgA"
+    },
+    {
+      "id": "-fDB2V8HPzY",
+      "title": "東京都、熊本地震被災者を都営住宅で受け入れ　受け付け開始",
+      "description": "",
+      "publishedAt": "2026-08-05T11:15:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-fDB2V8HPzY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-fDB2V8HPzY"
+    },
     {
       "id": "R1uiFb6WCwE",
       "title": "都立病院で初　最新の不妊治療「生殖医療外来」を大塚病院に開設",

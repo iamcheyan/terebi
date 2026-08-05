@@ -1,8 +1,80 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-08-04T16:54:21.810255",
+  "updated_at": "2026-08-05T16:44:59.630654",
   "videos": [
+    {
+      "id": "c0McCjzlxPQ",
+      "title": "260805 155814 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-08-05T11:15:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c0McCjzlxPQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c0McCjzlxPQ"
+    },
+    {
+      "id": "QnolGvORh2A",
+      "title": "260805 155421 深田第２踏切 ２",
+      "description": "",
+      "publishedAt": "2026-08-05T11:12:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QnolGvORh2A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QnolGvORh2A"
+    },
+    {
+      "id": "22kFmdxsxyA",
+      "title": "260805 155136 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-08-05T10:55:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/22kFmdxsxyA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=22kFmdxsxyA"
+    },
+    {
+      "id": "FAavw7SbsA4",
+      "title": "260805 153926 鉄橋近くで飼われているヤギたち",
+      "description": "",
+      "publishedAt": "2026-08-05T10:28:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FAavw7SbsA4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FAavw7SbsA4"
+    },
+    {
+      "id": "s9ZYKg3z8xA",
+      "title": "260805 153413 深田駅近くの鉄橋（ヤギの声を背後に黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-08-05T10:16:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s9ZYKg3z8xA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s9ZYKg3z8xA"
+    },
+    {
+      "id": "5-NSQ8KjdCg",
+      "title": "260805 152858 深田駅近くの鉄橋",
+      "description": "",
+      "publishedAt": "2026-08-05T10:08:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5-NSQ8KjdCg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5-NSQ8KjdCg"
+    },
     {
       "id": "U0EsLmObKKM",
       "title": "260804 175827 深田第４踏切（予土新幹線通過）",

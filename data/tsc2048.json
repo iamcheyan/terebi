@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-08-03T17:10:07.808550",
+  "updated_at": "2026-08-05T16:43:59.932254",
   "videos": [
+    {
+      "id": "nldnt5Oz-vY",
+      "title": "J１ファジアーノ岡山のホーム開幕戦を生中継",
+      "description": "",
+      "publishedAt": "2026-08-05T12:35:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nldnt5Oz-vY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nldnt5Oz-vY"
+    },
+    {
+      "id": "FoxldsQxBK4",
+      "title": "【ななスパＢＩＺ】熊本地震 現地取材　ＴＳＣカメラが見た　被災地のいま",
+      "description": "",
+      "publishedAt": "2026-08-05T12:02:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FoxldsQxBK4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FoxldsQxBK4"
+    },
     {
       "id": "9UYw5TwcxYE",
       "title": "8月8日のプライドは高松市のアロバー",

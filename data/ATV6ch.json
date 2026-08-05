@@ -1,8 +1,20 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-08-04T16:53:49.197122",
+  "updated_at": "2026-08-05T16:44:02.474607",
   "videos": [
+    {
+      "id": "Ekm6q_rK5kc",
+      "title": "【LIVE】青森ねぶた祭2026～青森の祭りを未来へつなごう～ Aomori Nebuta Festival",
+      "description": "",
+      "publishedAt": "2026-08-05T12:25:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ekm6q_rK5kc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ekm6q_rK5kc"
+    },
     {
       "id": "Yfd3hHByC80",
       "title": "【LIVE】弘前ねぷたまつり2026～青森の祭りを未来へつなごう～ Hirosaki Neputa Festival  弘前睡魔祭",

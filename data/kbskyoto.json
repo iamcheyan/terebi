@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-08-04T16:53:21.787249",
+  "updated_at": "2026-08-05T16:43:37.330780",
   "videos": [
+    {
+      "id": "97_O03sc0w0",
+      "title": "京都で開発 クマ対策グッズ【特集・シリーズ「備え」】",
+      "description": "",
+      "publishedAt": "2026-08-05T11:31:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/97_O03sc0w0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=97_O03sc0w0"
+    },
+    {
+      "id": "gL5sSos76e4",
+      "title": "老舗洋菓子店「村上開新堂」が手がける新ブランドMaison de Murakami／おでかけキュンと！",
+      "description": "",
+      "publishedAt": "2026-08-05T09:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gL5sSos76e4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gL5sSos76e4"
+    },
     {
       "id": "6evdN8e22Wk",
       "title": "特集　“イノベーションの祭典” KRPフェス／きょうと経済テラス キュンと！",
