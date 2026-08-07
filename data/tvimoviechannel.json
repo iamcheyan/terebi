@@ -1,8 +1,80 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-08-05T16:44:46.622734",
+  "updated_at": "2026-08-07T15:58:52.915261",
   "videos": [
+    {
+      "id": "PG0h6Fs3npY",
+      "title": "夏真っ盛り！龍泉洞の水もちでスッキリ気分！",
+      "description": "",
+      "publishedAt": "2026-08-07T10:22:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PG0h6Fs3npY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PG0h6Fs3npY"
+    },
+    {
+      "id": "SW7e5TAVY-I",
+      "title": "梨とクルミのミルク大福 | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-08-07T08:03:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SW7e5TAVY-I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SW7e5TAVY-I"
+    },
+    {
+      "id": "jVgp0DNUOYk",
+      "title": "新人アナウンサー、泥んこバレーで洗礼を受ける！｜岩手・二戸市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-08-07T05:10:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jVgp0DNUOYk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jVgp0DNUOYk"
+    },
+    {
+      "id": "78idnDTusDc",
+      "title": "今日の５きげんテレビ（8月7日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-08-06T15:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/78idnDTusDc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=78idnDTusDc"
+    },
+    {
+      "id": "myRhWDX4zPY",
+      "title": "ご当地フルコース～二戸市～",
+      "description": "",
+      "publishedAt": "2026-08-06T10:32:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/myRhWDX4zPY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=myRhWDX4zPY"
+    },
+    {
+      "id": "VZ-MKpbujEI",
+      "title": "スイカパンチ| ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-08-06T08:50:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VZ-MKpbujEI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VZ-MKpbujEI"
+    },
     {
       "id": "mo37VeugnkI",
       "title": "今日の５きげんテレビ（8月6日）｜テレビ岩手",

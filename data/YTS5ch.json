@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-08-04T16:53:32.346768",
+  "updated_at": "2026-08-07T15:58:12.073761",
   "videos": [
+    {
+      "id": "uswQ1nGSvVc",
+      "title": "水産技術のフロンティア～気仙沼から世界へ（シー・テック SEA･TECH）",
+      "description": "",
+      "publishedAt": "2026-08-07T00:30:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uswQ1nGSvVc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uswQ1nGSvVc"
+    },
     {
       "id": "nsBn_nCWj4Y",
       "title": "【あさは５ちゃん！】2026年8月8日放送",

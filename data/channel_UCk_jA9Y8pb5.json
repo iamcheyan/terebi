@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-07-31T16:47:22.294008",
+  "updated_at": "2026-08-07T15:58:15.154761",
   "videos": [
+    {
+      "id": "ruLFdPk_D4M",
+      "title": "栗原心平の青森いただきまーす！「トマトとかつお出汁のリゾット風」",
+      "description": "",
+      "publishedAt": "2026-08-07T02:13:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ruLFdPk_D4M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ruLFdPk_D4M"
+    },
+    {
+      "id": "AiltZmbJNR4",
+      "title": "季節のいけばな8月3日テーマ「水しぶき」",
+      "description": "",
+      "publishedAt": "2026-08-07T01:52:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AiltZmbJNR4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AiltZmbJNR4"
+    },
     {
       "id": "a-gKC5pxU0Q",
       "title": "栗原心平の青森いただきまーす！7月27日「ブロッコリーのペペロンチーノ」",

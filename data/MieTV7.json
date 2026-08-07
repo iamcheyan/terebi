@@ -1,8 +1,80 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-08-05T16:44:58.876987",
+  "updated_at": "2026-08-07T15:59:02.564156",
   "videos": [
+    {
+      "id": "pTtJYYKlfwg",
+      "title": "三重県産ウイスキーを発信　おかげ横丁に新ブース",
+      "description": "",
+      "publishedAt": "2026-08-07T06:44:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pTtJYYKlfwg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pTtJYYKlfwg"
+    },
+    {
+      "id": "UzaZqmkUgXU",
+      "title": "全国植樹祭を三重に　51年ぶりへ",
+      "description": "",
+      "publishedAt": "2026-08-07T00:27:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UzaZqmkUgXU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UzaZqmkUgXU"
+    },
+    {
+      "id": "eEkJJFQGAII",
+      "title": "核兵器廃絶訴え平和考える写真展",
+      "description": "",
+      "publishedAt": "2026-08-07T00:25:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eEkJJFQGAII/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eEkJJFQGAII"
+    },
+    {
+      "id": "Ew6wwscYoxw",
+      "title": "電気を届ける仕事の裏側　津工業高校生が中部電力の配電指令室を見学",
+      "description": "",
+      "publishedAt": "2026-08-07T00:24:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ew6wwscYoxw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ew6wwscYoxw"
+    },
+    {
+      "id": "bu9NrtOEh-k",
+      "title": "甘みたっぷり松阪梨　お盆前に出荷ピーク",
+      "description": "",
+      "publishedAt": "2026-08-06T01:04:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bu9NrtOEh-k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bu9NrtOEh-k"
+    },
+    {
+      "id": "Fe8PfCCiZsY",
+      "title": "色・香り・味で最高の茶を選ぶ　6府県の品評会が三重で開催",
+      "description": "",
+      "publishedAt": "2026-08-06T00:42:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fe8PfCCiZsY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fe8PfCCiZsY"
+    },
     {
       "id": "Knmakr7HYIU",
       "title": "返済不要で年間48万円を給付　三重大学で奨学金の伝達式",

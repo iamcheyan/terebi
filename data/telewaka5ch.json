@@ -1,8 +1,68 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-08-05T16:44:17.321962",
+  "updated_at": "2026-08-07T15:58:25.000771",
   "videos": [
+    {
+      "id": "IDKdqf9Cf-o",
+      "title": "新属・新種 クモヒトデ化石 レプリカ展示 和歌山県立自然博物館",
+      "description": "",
+      "publishedAt": "2026-08-07T10:44:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IDKdqf9Cf-o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IDKdqf9Cf-o"
+    },
+    {
+      "id": "UH--TlfkvZc",
+      "title": "【yell】JFAバーモントカップ第36回U-12和歌山県大会優勝！全国の強豪に挑む！【フットサル】",
+      "description": "",
+      "publishedAt": "2026-08-07T09:26:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UH--TlfkvZc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UH--TlfkvZc"
+    },
+    {
+      "id": "kZMvT0I1GAU",
+      "title": "暮らしのカルチャー＆健康タイム　きもの時間　浴衣を楽しむ　第5回",
+      "description": "",
+      "publishedAt": "2026-08-07T05:15:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kZMvT0I1GAU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kZMvT0I1GAU"
+    },
+    {
+      "id": "n7Jgwc0hbao",
+      "title": "WIB HERO'S 合同会社BEST ONE代表 山本真志 #1",
+      "description": "",
+      "publishedAt": "2026-08-06T17:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n7Jgwc0hbao/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n7Jgwc0hbao"
+    },
+    {
+      "id": "oojDujGWIiA",
+      "title": "暮らしのカルチャー＆健康タイム　きもの時間　浴衣を楽しむ　第4回",
+      "description": "",
+      "publishedAt": "2026-08-06T05:15:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oojDujGWIiA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oojDujGWIiA"
+    },
     {
       "id": "r1jDvPpNka4",
       "title": "パリ五輪 ケイリン金メダル選手ら 和歌山県庁を訪問",
