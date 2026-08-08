@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-07T15:57:50.192960",
+  "updated_at": "2026-08-08T15:31:57.014216",
   "videos": [
+    {
+      "id": "5u6igQWoCxc",
+      "title": "【まるまる◎あいち】2026年8月8日放送 「令和8年度アートフェスタ－愛知県高等学校総合文化祭－」",
+      "description": "",
+      "publishedAt": "2026-08-08T09:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5u6igQWoCxc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5u6igQWoCxc"
+    },
     {
       "id": "1ufQP-JHkGU",
       "title": "8月7日(金)放送「レコメシ～自慢のひとさら～」西山の豚キムチ",

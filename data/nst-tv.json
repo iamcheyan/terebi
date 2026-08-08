@@ -1,8 +1,2526 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
-  "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2026-08-07T15:58:17.555615",
+  "channel_name": "NST Online",
+  "original_name": "NST新潟総合テレビ",
+  "updated_at": "2026-08-08T15:33:19.219036",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fU2m1KPmNBHBBdQWJpnJHJqUJ5Y",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjFFWTNzdEhOLWhj",
+      "snippet": {
+        "publishedAt": "2026-08-08T15:26:29Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Sports surgeon: Pickleball and Hyrox injuries on the rise, but football still tops list",
+        "description": "Pickleball and Hyrox are booming in Malaysia — and sports doctors are starting to see the consequences.\n\nBut when it comes to injuries, football and futsal still top the list.\n\nConsultant orthopaedic and sports medicine surgeon Dr Gan Eng Cheng says knee injuries account for about 60 per cent of the cases he treats.\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1EY3stHN-hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1EY3stHN-hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1EY3stHN-hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1EY3stHN-hc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1EY3stHN-hc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1EY3stHN-hc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3k7gZPEhThF4os2S0D8yrXyzdBI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLndlU19Penc4TkY4",
+      "snippet": {
+        "publishedAt": "2026-08-08T15:21:20Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Kundasang’s beauty belies growing landslide risk",
+        "description": "Sabah’s “New Zealand” faces a looming disaster. Unchecked development, deforestation, and active fault lines are destabilising slopes, while climate change fuels intense rainfall. Experts warn landslides could devastate homes, farms, and tourism. Safeguarding Kundasang’s future demands urgent action.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/weS_Ozw8NF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/weS_Ozw8NF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/weS_Ozw8NF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/weS_Ozw8NF8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/weS_Ozw8NF8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "weS_Ozw8NF8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o4UeW8vqvOAf8-AzQ1XYgNG4-1o",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnFHVndTa1B0aFFZ",
+      "snippet": {
+        "publishedAt": "2026-08-07T02:37:04Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Ismail Sabri's charge deferred to Aug 27 after health issues",
+        "description": "Former prime minister Datuk Seri Ismail Sabri Yaakob's charge reading and plea recording have been deferred to Aug 27 after the court was informed that he was admitted to the National Heart Institute (IJN) due to health issues.\n\nSessions Court Judge Suzana Hussin fixed the date for the Bera Member of Parliament to appear and have the charge read to him.\n\nThe decision was made after the prosecution did not object to the defence's request for the matter to be postponed on humanitarian grounds.\n\nhttps://www.nst.com.my/news/nation/2026/08/1505873/ismail-sabris-charge-deferred-aug-27-after-health-issues\n----------------------------------\n#NST #NSTTV #IsmailSabri #IJN #Charge #Deferred #Crime #Courts #MalaysiaNews #NSTNews\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qGVwSkPthQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qGVwSkPthQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qGVwSkPthQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qGVwSkPthQY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qGVwSkPthQY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qGVwSkPthQY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "57CPXdU6pbacWnC2AH1LYm5GOPg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnFid1NrNnBkSjhr",
+      "snippet": {
+        "publishedAt": "2026-08-07T02:00:07Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "[EP143] BTH: Airport safety, security & screening",
+        "description": "Recent headlines involving the alleged drug-smuggling case linked to a Malaysian pilot have put Kuala Lumpur International Airport (KLIA) under renewed scrutiny. \n\nBut how does airport security actually work, and can any aviation security system ever be completely foolproof? \n\nAviation safety and security expert Associate Professor Major Dr Mohd Harridon Mohamed Suffian shares his insights\n----------------------------------\n#NST #NSTTV #NSTBeyondTheHeadlines #KLIA #AirportSecurity #AviationSafety #Malaysia \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qbwSk6pdJ8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qbwSk6pdJ8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qbwSk6pdJ8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qbwSk6pdJ8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qbwSk6pdJ8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qbwSk6pdJ8k"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8MeO62h3ACHjisoGtU-qQtQxvkU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlRxSEI3OXAxYmxJ",
+      "snippet": {
+        "publishedAt": "2026-08-07T01:16:08Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Ismail Sabri admitted to IJN ahead of court appearance",
+        "description": "Former prime minister Datuk Seri Ismail Sabri Yaakob has been admitted to the National Heart Institute (IJN) ahead of his scheduled appearance in the Sessions Court today. \n\nHis lawyer Ragunath Kesavan confirmed this when contacted.\n\n\nREAD MORE : https://www.nst.com.my/news/nation/2026/08/1505801/ismail-sabri-admitted-ijn-ahead-court-appearance\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TqHB79p1blI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TqHB79p1blI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TqHB79p1blI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TqHB79p1blI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TqHB79p1blI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TqHB79p1blI"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_tBSUM6Jmrohb8ATpucjyVEOheU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmVUWWNJSmhNMXNr",
+      "snippet": {
+        "publishedAt": "2026-08-07T00:00:11Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MRCB-Theta Edge JV wins RM3.03bil Penang LRT systems contract",
+        "description": "Mass Rapid Transit Corp Sdn Bhd (MRT Corp) has awarded a RM3.03 billion system turnkey contract for the Penang Mutiara Line LRT to a joint venture between Malaysian Resources Corp Bhd (MRCB) and Theta Edge Bhd.\n\nThe contract covers the design, supply, installation, testing and commissioning of the railway's core operating systems.\n\nMRT Corp said the 29km line remains on track for completion by December 2031, with civil works progressing across most sections.\n\nFollowing the announcement, Theta Edge shares surged to a six-month high, while MRCB also traded higher.\n\nThe Penang Mutiara Line will be the state's first metro rail network, linking Silicon Island to Penang Sentral.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eTYcIJhM1sk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eTYcIJhM1sk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eTYcIJhM1sk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eTYcIJhM1sk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eTYcIJhM1sk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eTYcIJhM1sk"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kOfTKTxlfB230yHiVWMUG9KKpkM",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm03VTI3Zzd2VW13",
+      "snippet": {
+        "publishedAt": "2026-08-06T23:00:32Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Police urge kootu players to come forward",
+        "description": "Kedah police are searching for more individuals allegedly involved in an illegal kootu scheme linked to a couple remanded after surrendering to authorities. \n\nThe couple, along with their nine‑year‑old child, had been reported missing since July 20 from their home in Bukit Kayu Hitam.\n\nInvestigators believe they were fleeing debtors tied to the scheme.\n\n Police have so far received one report from a man claiming RM25,000 in losses. \n\nPreliminary checks showed the scheme did not operate like a conventional rotating pool, with participants receiving only part of their contributions.\n\nFunds retained were allegedly used to lure replacements with promises of extra payments. \n\nPolice are investigating the case under Section 420 of the Penal Code for cheating.\n\nOperating or promoting kootu schemes is prohibited under the Kootu Funds Act 1971, carrying penalties of up to RM500,000 in fines or 10 years’ imprisonment.\n----------------------------------\n#NST #NSTTV #Crime #Kedah #Police #Kutu #Kootu #BukitKayuHitam #CCM #Cheating #NST #News #MalaysiaNews \n\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m7U27g7vUmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m7U27g7vUmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m7U27g7vUmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m7U27g7vUmw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m7U27g7vUmw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m7U27g7vUmw"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mUKdAq4vhr3P_JI1UvNYLgoljjw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjd4NU1LWmxXVEhR",
+      "snippet": {
+        "publishedAt": "2026-08-06T23:00:28Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Tabung Haji RCI briefing to boost BN ahead of Melaka polls",
+        "description": "Barisan Nasional’s briefing on the Royal Commission of Inquiry report into Tabung Haji is seen as timely ahead of the Melaka election.\n\nPPP president Datuk Dr Loga Bala Mohan said grassroots members were invested in the issue, noting the report was released during campaigning for the Negri Sembilan election. \n\nHe said Monday’s briefing for BN leaders, MPs and senators would help the coalition explain the matter to the people.\n\nLoga added that BN chairman Datuk Seri Dr Ahmad Zahid Hamidi had pledged the coalition would not compromise on wrongdoing if investigations found crimes were committed.\n---------------------------------\n#NST #NSTTV #TH #TabungHaji #BN #BarisanNasional #RCI #PPP #Election #Melaka #ZahidHamidi #StateElection #Vote #NST #News #MalaysiaNews \n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7x5MKZlWTHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7x5MKZlWTHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7x5MKZlWTHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7x5MKZlWTHQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7x5MKZlWTHQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7x5MKZlWTHQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e0fDsKlBAbWzoTONvBf2UtIIGSg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmo5djdQdHhHSEdR",
+      "snippet": {
+        "publishedAt": "2026-08-06T23:00:27Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "AI scanners not enough after pilot’s drug arrest, experts warn",
+        "description": "Malaysia should follow Indonesia’s lead in introducing behaviour detection officers as an added layer of airport security, experts said after the arrest of a Malaysia Airlines pilot in Jakarta for allegedly smuggling drugs.\n\nAssociate Professor Major Dr Mohd Harridon Mohamed Suffian noted Kuala Lumpur International Airport is equipped with advanced AI and tomography systems, but stressed the need for trained personnel to interpret data and spot anomalies. \n\nHe said a behaviour detection programme assessing gait, posture and gestures would strengthen screening.\n\nCriminologist Dr Haezreena Begum Abdul Hamid added behaviour detection should complement, not replace, existing intelligence and technology, warning experienced couriers can appear calm while innocent travellers may look nervous.\n\nMeanwhile, Federal Narcotic Crime Investigation Department investigators will spend four days in Jakarta working with Indonesian authorities to probe the syndicate behind the pilot’s case.\n----------------------------------\n#NST #NSTTV #Crime #MAG #MAS #MalaysiaAirlines #Pilot #Drugs #Police #Indonesia #SoekarnoHatta #Immigration #Scanner #Aviation  #NST #News #MalaysiaNews \n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j9v7PtxGHGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j9v7PtxGHGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j9v7PtxGHGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j9v7PtxGHGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j9v7PtxGHGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j9v7PtxGHGQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2hpTH9DwryYtE6jNeuZ0UdO1zKM",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkFJSnBaNm9xeDFz",
+      "snippet": {
+        "publishedAt": "2026-08-06T13:43:59Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Three policemen killed in suspected electrocution incident",
+        "description": "Tragedy struck in Sabah this afternoon when three police personnel were killed in a suspected electrocution incident along Jalan Weston in Kampung Weston.\n\nThe Sabah Fire and Rescue Department's operations centre received an emergency call at 5.56pm.\n\nSeven firefighters from the Beaufort Fire and Rescue Station, along with a Fire Rescue Tender, were dispatched to the scene, about 28 kilometres from the station.\n\nAll three victims were rank-and-file police personnel. Two were from Kelantan, while the third was from Sibu, Sarawak.\n\nThe exact cause of the incident remains under investigation.\n\nRead more: https://www.nst.com.my/news/nation/2026/08/1505602/three-cops-die-suspected-electrocution-beaufort\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AIJpZ6oqx1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AIJpZ6oqx1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AIJpZ6oqx1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AIJpZ6oqx1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AIJpZ6oqx1s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AIJpZ6oqx1s"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n_TBybU4z-hZhcT2bQm5jvx9mzs",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjZOV25aZlZYUUJv",
+      "snippet": {
+        "publishedAt": "2026-08-06T13:00:30Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "NEWS@9 – Thursday, August 6",
+        "description": "1MDB probe  \nHigh Court heard Datuk Seri Najib’s bank accounts barred from Auditor General scrutiny, with former PAC member Tony Pua saying missing 1MDB documents limited audit scope.\n\nPerkeso fraud  \nMACC crackdown sees about 100 people expected to face charges nationwide over fraudulent Perkeso Daya Kerjaya 2.0 claims.\n\nHumane Ops  \nRocky’s death in Klang sparked calls to review stray animal procedures, ensuring enforcement operations are more humane and systematic.\n\nContraband seized  \nPolice seized contraband cigarettes and vape products worth RM15.5 million in two major Selangor operations targeting smuggling syndicates.\n---------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6NWnZfVXQBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6NWnZfVXQBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6NWnZfVXQBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6NWnZfVXQBo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6NWnZfVXQBo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6NWnZfVXQBo"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dUYBXV7ZmV-BNvxCJ1DF1ELwVQg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLko5dmFJTmMtb25B",
+      "snippet": {
+        "publishedAt": "2026-08-06T12:45:55Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Nurul Izzah steps aside, Saifuddin takes over as interim deputy president",
+        "description": "PKR’s central leadership council has granted Nurul Izzah Anwar temporary leave from her role as deputy president. \n\nThe leave will begin after the party’s national congress and continue until a date to be announced.\n\nVice‑president Datuk Seri Saifuddin Nasution Ismail will assume deputy president duties on an interim basis, while Datuk Seri Amirudin Shari takes full charge as PKR election director. \n\nDespite stepping aside after the congress, Nurul Izzah will officiate the PKR women’s and youth wing congresses on August 14.\n\nThe decision follows PKR’s poor performance in the recent Johor and Negri Sembilan elections.\n\n\nhttps://www.nst.com.my/news/nation/2026/08/1505586/updated-nurul-izzah-steps-aside-saifuddin-takes-over-interim-deputy\n---------------------------------\n#NST #NSTTV  #Politics #PKR #NurulIzzahAnwar #NegriSembilan #Johor #SaifuddinNasution #AmirudinShari  #NST #News #MalaysiaNews \n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J9vaINc-onA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J9vaINc-onA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J9vaINc-onA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J9vaINc-onA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J9vaINc-onA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J9vaINc-onA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o852_LgiR2ym55jDhDyu74opmKk",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkNLM04wd2dYSXNz",
+      "snippet": {
+        "publishedAt": "2026-08-06T11:00:19Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse PM Aug 6, 2026",
+        "description": "Bursa Malaysia closed lower as investors took profit after the recent rebound, with telecommunications and industrial stocks among the biggest decliners.\n\nAsian markets also ended lower as investors cashed in gains from the recent technology-led rally, particularly in semiconductor and artificial intelligence-related stocks.\n\nMeanwhile, the ringgit strengthened against the US dollar to 4.0870.\n\nIn the cryptocurrency market, Bitcoin rose to RM265,202, while Ethereum edged slightly higher to RM7,820.\n\nSolana, however, slipped to RM300.\n\nThat wraps up today’s Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CK3N0wgXIss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CK3N0wgXIss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CK3N0wgXIss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CK3N0wgXIss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CK3N0wgXIss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CK3N0wgXIss"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UYlSvNpvPHDAJ0WsirINKyHutck",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnZRYkFkaW1pVFpV",
+      "snippet": {
+        "publishedAt": "2026-08-06T10:15:00Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Auditor General blocked from probing Najib's accounts, says Pua",
+        "description": "The High Court heard that the Auditor General was barred from examining Datuk Seri Najib Razak’s bank accounts during its audit of 1MDB.\n\nFormer PAC member Tony Pua testified that the restriction, combined with 1MDB’s failure to provide key documents, significantly limited the scope of the audit. \n\nThe Auditor General had to rely solely on 1MDB’s audited financial statements and supporting documents from external auditors, as investment agreements and overseas bank statements were withheld.\n\nInvestigations revealed that no scrutiny of Najib’s accounts was permitted, underscoring the lack of cooperation from 1MDB.\n\nThe testimony came during 1MDB’s US$5.64 billion civil suit against Najib and seven others\n\nhttps://www.nst.com.my/news/nation/2026/08/1505472/auditor-general-blocked-probing-najibs-accounts-says-pua\n----------------------------------\n#NST #NSTTV #Court #1MDB #NajibRazak #TonyPua #PAC #AuditorGeneral #Corruption #NST #News #MalaysiaNews \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vQbAdimiTZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vQbAdimiTZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQbAdimiTZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vQbAdimiTZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vQbAdimiTZU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vQbAdimiTZU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GmNJ7tplzLTrPJrenHQeagcJ3Yk",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnJXS2hxemo1OWg4",
+      "snippet": {
+        "publishedAt": "2026-08-06T09:46:50Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Something is not right with Pearly-Thinaah",
+        "description": "James Selvaraj urges the Malaysian pair to fix tactical flaws before New Delhi.\n\nRead more:\nhttps://www.nst.com.my/sports/badminton/2026/08/1505382/something-not-right-pearly-thinaah-says-ex-national-shuttler\n\n----------------------------------\n#NST #NSTTV #PearlyTan #MThinaah #PearlyThinaah #JamesSelvaraj #RosmanRazak #WorldChampionships #BWFWorldChampionships #NewDelhi #Malaysia #Badminton #womensdoubles #BaekHaNa #LeeSoHee #FebrianaDwipujiKusuma #MeilysaTriasPuspitasari #SumireNakade #MiyuTakahashi #TaiwanOpen #NST #Sport\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rWKhqzj59h8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rWKhqzj59h8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rWKhqzj59h8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rWKhqzj59h8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rWKhqzj59h8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rWKhqzj59h8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EcSaKNIKpyMMSHiu2SrJkpoGPFY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLi03TEFSalQwU05N",
+      "snippet": {
+        "publishedAt": "2026-08-06T07:59:31Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "New BMW iX3 heralds Neue Klasse era in Malaysia, priced at RM378,800",
+        "description": "BMW Group Malaysia has unveiled the all-new BMW iX3 50 xDrive M Sport Pro, the first Neue Klasse electric vehicle to debut in Malaysia.\n\nPriced at RM378,800, the fully electric SUV delivers up to 805km of driving range and supports 400kW DC fast charging.\n\nBMW Group Malaysia managing director Benjamin Nagel said the iX3 represents the brand's biggest technological leap in a generation.\n\nThe model features BMW's latest 800-volt platform, sixth-generation eDrive technology and a redesigned digital-focused interior.\n\nIt is also the first Neue Klasse model to arrive in Malaysia and has been named the 2026 World Car of the Year and World Electric Vehicle of the Year.\n\nRead more: https://www.nst.com.my/news-cars-bikes-trucks/2026/08/1505288/new-bmw-ix3-heralds-neue-klasse-era-malaysia-priced-rm378800 \n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-7LARjT0SNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-7LARjT0SNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-7LARjT0SNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-7LARjT0SNM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-7LARjT0SNM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-7LARjT0SNM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ofzj0sOedVvqZrhY3PSgIpYazvs",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkM3cnBueTVjMVJv",
+      "snippet": {
+        "publishedAt": "2026-08-06T07:44:22Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Danish Iftikhar becomes only second Malaysian in World U20 100m final",
+        "description": "Danish Iftikhar is the only Asian sprinter in the World U20 100m final.\n\nRead more at: https://www.nst.com.my/sports/others/2026/08/1505256/sprinter-danish-iftikhar-charges-world-under-20-final\n\n\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C7rpny5c1Ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C7rpny5c1Ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C7rpny5c1Ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C7rpny5c1Ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C7rpny5c1Ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C7rpny5c1Ro"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FZynO7zQubhf6eX9co8rOt9my6k",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnB0eGZKZG82dWxR",
+      "snippet": {
+        "publishedAt": "2026-08-06T06:44:38Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Perkeso 24-hour protection claims surge more than threefold in July",
+        "description": "Social Security Organisation (Perkeso) said claims under its Lindung 24 hour scheme more than tripled to 2,135 in July from 616 in June.\n\nThe scheme provides round-the-clock social protection for contributors, including accidents occurring outside working hours.\n\nPerkeso disbursed RM3.45 million to 2,508 beneficiaries in July, with most payments going towards rehabilitation equipment, implants and temporary disablement benefits.\n\nThe agency said more than 90 per cent of claims were approved within an overall processing period of less than five days.\n\nPerkeso urged contributors to maintain Lindung 24 hour coverage, saying the rise in claims highlights the need for comprehensive social protection beyond the workplace.\n\nRead more: https://www.nst.com.my/business/corporate/2026/08/1505265/perkeso-24-hour-potection-claims-surge-more-threefold-july \n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ptxfJdo6ulQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ptxfJdo6ulQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ptxfJdo6ulQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ptxfJdo6ulQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ptxfJdo6ulQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ptxfJdo6ulQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Iq9zcYEpiFuDnm1N2IoT_oPrg68",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkFoQzMtWEFTajU0",
+      "snippet": {
+        "publishedAt": "2026-08-06T06:39:24Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Zahid: BN to defend all 21 Melaka seats",
+        "description": "Barisan Nasional aims to defend all twenty-one state seats it currently holds in Melaka during the upcoming state election.\n\nBN chairman Datuk Seri Dr Ahmad Zahid Hamidi confirmed that while the coalition will not share its winning seats, it remains open to political cooperation if negotiations are conducted in good faith.\n\nSpeaking in Putrajaya, the Deputy Prime Minister emphasised that any final decision on electoral pacts will be reached through consensus between local and federal leadership.\n\nZahid expressed hope that the coalition's recent electoral momentum in Johor and Negeri Sembilan will continue into Melaka and across Peninsular Malaysia.\n\nSTORYLINK: https://www.nst.com.my/news/nation/2026/08/1505174/update-zahid-bn-defend-all-21-melaka-seats\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AhC3-XASj54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AhC3-XASj54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AhC3-XASj54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AhC3-XASj54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AhC3-XASj54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AhC3-XASj54"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "78qCgxHDljB8IIiSq43jY32PNz0",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkR0U3M0bkxuZVVJ",
+      "snippet": {
+        "publishedAt": "2026-08-06T06:09:07Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Zahid: BN, Umno will not compromise if TH RCI finds wrongdoing",
+        "description": "BN and Umno will not compromise if the Tabung Haji RCI finds any individual or group responsible for wrongdoing, criminal breach of trust or poor governance, said Datuk Seri Dr Ahmad Zahid Hamidi.\n\nThe BN chairman said those found responsible must face the consequences, while findings without evidence of misconduct would only result in recommendations.\n\nZahid said the RCI report will be debated in the Dewan Rakyat on Aug 11.\n\nHe was responding to former Umno Youth chief Khairy Jamaluddin’s call for Umno to acknowledge governance failures at Tabung Haji during the BN administration between 2014 and 2017.\n\nZahid said the government will wait for the parliamentary debate before deciding on the next steps.\n\nThe RCI report into Tabung Haji’s management between 2014 and 2020 was released last week after years of scrutiny over the institution’s governance.\n\nhttps://www.nst.com.my/news/nation/2026/08/1505183/updated-zahid-bn-umno-will-not-compromise-if-th-rci-finds-wrongdoing\n----------------------------------\n#NST #NSTTV \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DtSs4nLneUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DtSs4nLneUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DtSs4nLneUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DtSs4nLneUI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DtSs4nLneUI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DtSs4nLneUI"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bwYKh5T_fvA0K80sbWgI2CVlmYA",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlhLSTAwaEhOU1JN",
+      "snippet": {
+        "publishedAt": "2026-08-06T04:48:33Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "FIFA back Infantino, apologise for World Cup privatisation plan",
+        "description": "FIFA president Gianni Infantino has received the\"full support of senior directors but world football's governing body apologised for the controversy of the now-shelved plan to open the World Cup to private investment.\n\nhttps://www.nst.com.my/sports/football/2026/08/1505155/fifa-back-infantino-apologise-world-cup-privatisation-plan\n\n----------------------------------\n#NST #NSTTV Business, Sports, Meeting, Uefa, Gianni Infantino, Fifa, World Cup, Football, NST, Luis Figo, Fouzi Lekjaa, Mattias Grafstrom\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XKI00hHNSRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XKI00hHNSRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XKI00hHNSRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XKI00hHNSRM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XKI00hHNSRM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XKI00hHNSRM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JKwoWK1N1OvOibLsSvUlYuBgvNc",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnRlM01URVlsaVhJ",
+      "snippet": {
+        "publishedAt": "2026-08-06T04:20:56Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "How a pilot who tested positive for drugs bypassed aviation's safety nets",
+        "description": "A Malaysia Airlines pilot arrested in Indonesia for allegedly attempting to smuggle more than 70,000 ecstasy pills had met all technical requirements to fly commercially despite concerns over his temperament, according to industry insiders.\n\nThe pilot, who tested positive for methamphetamine, MDMA and cocaine, has raised questions over gaps in aviation safety beyond technical competency.\n\nA veteran pilot said existing assessments focus mainly on flying skills, with limited psychological screening and no formal mechanisms to monitor personality concerns or mental wellbeing.\n\nHe said pilots may be reluctant to seek mental health support due to workplace culture, despite medical leave being available for such issues.\n\nThe industry insider said investigators should also examine possible personal pressures, including financial or family problems, that may have contributed to the alleged offence.\n\nSTORYLINK: https://www.nst.com.my/news/nation/2026/08/1505059/how-pilot-who-tested-positive-drugs-bypassed-aviations-safety-nets\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/te3MTEYliXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/te3MTEYliXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/te3MTEYliXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/te3MTEYliXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/te3MTEYliXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "te3MTEYliXI"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pmARCoAMliRCtZwZlXoZSfy-HpM",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLklJVmFTbHdQSDdn",
+      "snippet": {
+        "publishedAt": "2026-08-06T03:06:45Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM Aug 6, 2026",
+        "description": "Bursa Malaysia opened higher on Thursday but slipped into negative territory in early trade as profit-taking emerged after recent gains.\n\nBuying has been-broad based as we noticed foreign funds may be returning to the local bourse.\n\nThe FBM KLCI will hover between 1,730 and 1,740 today.\n\nIn the cryptocurrency market, Bitcoin saw an uptrend, trading at RM264,078.\n\nFollowing the trend, Ethereum rose to RM7,796, while Solana traded at RM302.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IIVaSlwPH7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IIVaSlwPH7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IIVaSlwPH7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IIVaSlwPH7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IIVaSlwPH7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IIVaSlwPH7g"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rWqbY85WoodG8U_6PIZHm8g96vE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnhYN3pVTW11VTJz",
+      "snippet": {
+        "publishedAt": "2026-08-06T01:53:15Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Pilot arrest puts KLIA, MAS security procedures under scrutiny",
+        "description": "Senior pilots are demanding answers over how a Malaysia Airlines pilot allegedly smuggled 25kg of ecstasy pills through multiple security checks at Kuala Lumpur International Airport before being arrested in Indonesia.\n\nFormer Malaysia Airlines chief pilot Datuk Captain Nik Ahmad Huzlan Nik Hussain questioned whether all crew screening procedures were properly followed and where the security chain may have failed.\n\nHe said investigators should determine whether the pilot's baggage passed through the correct screening process and whether expedited crew processing reduced vigilance.\n\nPilots also called for a review of Malaysia Airlines' recruitment, behavioural assessment and internal oversight systems following the incident.\n\nThey warned that organised crime syndicates could exploit predictable security procedures and urged more frequent random screening of flight crews.\n\nhttps://www.nst.com.my/news/nation/2026/08/1505054/pilot-arrest-puts-klia-mas-security-procedures-under-scrutiny\n----------------------------------\n#NST #NSTTV \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xX7zUMmuU2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xX7zUMmuU2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xX7zUMmuU2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xX7zUMmuU2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xX7zUMmuU2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xX7zUMmuU2s"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qm1EHuuU-AOVSKgKPkf3CMtc8ig",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk0yRGhfS3BMMktz",
+      "snippet": {
+        "publishedAt": "2026-08-06T00:00:22Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Boustead eyes RM30bil revenue in next five years, expands defence ambitions",
+        "description": "Boustead Holdings Bhd is targeting RM30 billion in annual revenue within five years, up from RM12 billion currently.\n\nBoustead Holdings Bhd group managing director Datuk Indera Dr Ahmad Sabirin Arshad said the group will focus on defence, property and commercial services while supporting Malaysia's National Defence Industry Policy.\n\nBoustead has been entrusted with four national defence projects and aims to achieve at least 30 per cent local content in defence technology by 2030.\n\nIt also plans to develop about 400 local defence vendors and expand its Royal Chulan Hotels & Resorts management business.\n\nThe plans were unveiled as Boustead launched celebrations leading up to its 200th anniversary in 2028.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M2Dh_KpL2Ks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M2Dh_KpL2Ks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M2Dh_KpL2Ks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M2Dh_KpL2Ks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M2Dh_KpL2Ks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M2Dh_KpL2Ks"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2UG9T05S7q3QwOp1yr4hVjWuo4U",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlBDZ042bjkwQzd3",
+      "snippet": {
+        "publishedAt": "2026-08-05T23:00:14Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Pilots’ chief calls pilot’s arrest a ‘double embarrassment’ for Malaysia Airlines",
+        "description": "The Malaysian Pilots Association has described the arrest of a Malaysia Airlines pilot in Indonesia for allegedly attempting to smuggle 25kg of ecstasy pills as a “double embarrassment.”\n\nIts president, Captain Ab Manan Mansor, said the involvement of a crew member from the national carrier tarnished the industry and the nation’s image. \n\nHe urged stricter monitoring of employees, including random urine tests for all staff.\n\nManan also questioned the pilot’s slow career progression, noting he was still a Second Officer at 39, when most Malaysia Airlines pilots reach Captain rank by 30.\n\nIndonesian authorities arrested the pilot at Soekarno‑Hatta  International Airport on July 28 after Customs officers allegedly found 70,114 ecstasy pills worth RM45 million concealed in his luggage. He also tested positive for multiple drugs.\n\nAt press time, Malaysia Airlines had not issued a statement.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCgN6n90C7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCgN6n90C7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCgN6n90C7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCgN6n90C7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCgN6n90C7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 50,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PCgN6n90C7w"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "56PtAOBVVafeuhEeX5Ll6eD96nY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjJJUnpPeE83cHZV",
+      "snippet": {
+        "publishedAt": "2026-08-05T23:00:10Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "DAP’s Aug 16 vote a test of Anwar’s unity government",
+        "description": "Political observers say DAP’s national congress on August 16 will be a defining moment for the party and the unity government, as more than 4,000 delegates vote by secret ballot on whether to remain in the Cabinet.\n\nAnalyst Ong Kian Ming described the motion as a referendum on Prime Minister Anwar Ibrahim’s leadership, warning the government could collapse if other coalition partners also withdrew.\n\nDAP vice‑chairman Syahredzan Johan said the vote is about whether ministers should stay in office, stressing the party will continue supporting Anwar until the end of the parliamentary term, though any withdrawal could trigger political tremors.\n\nOn the ground, Penang delegates overwhelmingly favoured staying in government, citing stability and reforms over election setbacks. DAP secretary‑general Anthony Loke confirmed the secret ballot will decide the party’s position.\n----------------------------------\n#NST #NSTTV  #Politics #DAP #AnwarIbrahim #UnityGovernment #Sabah #Johor #NegriSembilan #StateElection #Election #OngKianMing #GE16 #BarisanNasional #Umno #NST #News #MalaysiaNews \n\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2IRzOxO7pvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2IRzOxO7pvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2IRzOxO7pvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2IRzOxO7pvU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2IRzOxO7pvU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 51,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2IRzOxO7pvU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ACGS6mYnHFUisD8pch2-YZFjn-s",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnhyYUJOaWJNYXk4",
+      "snippet": {
+        "publishedAt": "2026-08-05T23:00:09Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Drug arrests raise fears of syndicates recruiting Malaysians",
+        "description": "A string of arrests involving Malaysians in Indonesia, Singapore and Thailand has raised fears of a broader recruitment drive by international drug syndicates.\n\nMalaysians Against Rape, Assault and Snatch Theft founder Dave Avran warned the cases should not be seen as isolated, but as signs of organised networks exploiting vulnerable Malaysians as disposable couriers.\n\nRecent arrests include a Malaysia Airlines pilot in Jakarta with more than 70,000 ecstasy tablets, a 22‑year‑old in Surabaya carrying methamphetamine strapped to his body, a man in Singapore caught with cannabis and methamphetamine, and three men in Hat Yai with 87kg of meth.\n\nAvran said syndicates are targeting people from different walks of life, exploiting debt and vulnerability, and urged authorities to treat the arrests as border security matters requiring greater intelligence‑sharing.\n\n----------------------------------\n#NST #NSTTV #Crime #MalaysiaAirlines #Pilot #Drugs #Police #Indonesia #Thailand #HatYai #Jakarta #SoekarnoHatta #Sydiate #NST #News #MalaysiaNews \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xraBNibMay8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xraBNibMay8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xraBNibMay8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xraBNibMay8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xraBNibMay8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xraBNibMay8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XAMXUN3waSWLCRUGpDWFjz8Sc5E",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnpiaFF0THowVnNR",
+      "snippet": {
+        "publishedAt": "2026-08-05T06:13:08Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Couple injured after MPV crashes into herd of elephants",
+        "description": "A couple were injured when their multi-purpose vehicle collided with a herd of elephants along the East Coast Expressway 2 (LPT 2) near the Cheneh toll plaza last night.\n\nAbdul Wahid Ismail, 54, and his wife, Fauziah Muda @ Jusoh, 52, sustained injuries to their hands in the 10.20pm incident.\n\nKemaman police chief Superintendent Mohd Razi Rosli said the couple was travelling towards Pasir Gajah when the accident occurred.\n\nHe said the driver spotted the herd upon reaching the area but was unable to avoid the animals despite applying the brakes.\n\nCheneh Fire and Rescue Station operations commander Zubaderi Dahari said emergency responders rescued the victims from the Toyota Estima and administered initial medical treatment.\n\nThe case is being investigated under Rule 10 of the Road Traffic Rules 1959 for failing to control a vehicle, which carries a fine of up to RM300.\n\nhttps://www.nst.com.my/news/regional/2026/08/1504438/couple-injured-after-mpv-crashes-herd-elephants\n----------------------------------\n#NST #NSTTV #Accident #RoadAccident #Elephants #Cheneh #EastCoastExpressway2 #Kemaman #MalaysiaNews #NSTNews\n \nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zbhQtLz0VsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zbhQtLz0VsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zbhQtLz0VsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zbhQtLz0VsQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zbhQtLz0VsQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 68,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zbhQtLz0VsQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qs8USQWE1votFC69vSmksZHWN2g",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnJ5X0F2WmE5UlRF",
+      "snippet": {
+        "publishedAt": "2026-08-05T05:39:31Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Bank Rakyat buys MNRB's Takaful Ikhlas for RM1.64bil",
+        "description": "MNRB Holdings Bhd is selling its entire stakes in Takaful Ikhlas Family Bhd and Takaful Ikhlas General Bhd to Rakyat Nominees Sdn Bhd for RM1.64 billion.\n\nThe proposed divestment will allow MNRB to sharpen its focus on its core reinsurance and retakaful businesses.\n\nThe acquisition, backed by Bank Kerjasama Rakyat Malaysia Bhd (Bank Rakyat), is subject to regulatory and shareholder approvals.\n\nBank Rakyat said the deal will strengthen its Syariah-compliant offerings and expand financial inclusion through the takaful business.\n\nUpon completion, both Takaful Ikhlas companies will cease to be wholly owned subsidiaries of MNRB.\n\nRead more: https://www.nst.com.my/business/corporate/2026/08/1504174/bank-rakyat-buys-mnrbs-takaful-ikhlas-rm164bil \n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ry_AvZa9RTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ry_AvZa9RTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ry_AvZa9RTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ry_AvZa9RTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ry_AvZa9RTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 69,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ry_AvZa9RTE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NPuZIyefpX0fhY0tg2gWIIUkyHM",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnJzMFQxUk1obEZv",
+      "snippet": {
+        "publishedAt": "2026-08-05T03:00:01Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM August 5, 2026",
+        "description": "Bursa Malaysia opened slightly higher on Wednesday, tracking overnight gains on Wall Street amid optimism over a possible US-Iran deal to reopen the Strait of Hormuz.\n\nBuying interest was broad based, with foreign funds also appearing to return to the local bourse. \n\nFor today, the index is expected to trend within the 1,730 to 1,740 range.\n\nIn the crypto market, Bitcoin rose to RM262,212.\n\nEthereum fell to RM7,641, while Solana was down at RM301.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rs0T1RMhlFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rs0T1RMhlFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rs0T1RMhlFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rs0T1RMhlFo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rs0T1RMhlFo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 70,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rs0T1RMhlFo"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VN95RhdSwUI8EqMa_zvr_b69KR8",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjJsMWZOUlhkMVlz",
+      "snippet": {
+        "publishedAt": "2026-08-05T02:12:03Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Kian Meng welcomes Herry's decision to reshuffle doubles",
+        "description": "Former international Tan Kian Meng believes the BA of Malaysia's (BAM) decision to reshuffle its men's doubles pairs is a refreshing move\n\nStorylink: https://www.nst.com.my/sports/badminton/2026/08/1503979/kian-meng-welcomes-herrys-decision-reshuffle-doubles\n----------------------------------\n#NST #NSTTVNST, #Malaysia, #Sports, #Badminton, #Men’s Doubles, #Tan Kian Meng, #World Championships, #New Delhi, #Herry IP, #Aaron Chia, #Soh Wooi Yik\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2l1fNRXd1Ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2l1fNRXd1Ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2l1fNRXd1Ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2l1fNRXd1Ys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2l1fNRXd1Ys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 71,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2l1fNRXd1Ys"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fQNp4IXNXzMKUxFRtijH5PD8NOc",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjNZdVY4Vks5cnVZ",
+      "snippet": {
+        "publishedAt": "2026-08-05T01:12:42Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Mammoth remains revealed in Bulgaria after Danube water levels hit record low",
+        "description": "The remains of what is believed to be an ancient mammoth have been revealed in northern Bulgaria, after Danube River water levels receded to a record low level, the BTA news agency reported on Wednesday, citing historians.\n\nRead more: https://www.nst.com.my/world/world/2026/07/1499955/mammoth-remains-revealed-bulgaria-after-danube-water-levels-hit-record\n\n----------------------------------\n#NST #NSTTV Bulgaria, Danube, Mammoth Remains, Ryahovo Village, Regional History Museum\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3YuV8VK9ruY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3YuV8VK9ruY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3YuV8VK9ruY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3YuV8VK9ruY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3YuV8VK9ruY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 72,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3YuV8VK9ruY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UCWEOB9PrhzkcMVVNjxDbnMraiI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlJQRDR5NGFtUFJB",
+      "snippet": {
+        "publishedAt": "2026-08-04T03:47:45Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Firemen capture nearly 100kg python",
+        "description": "Firefighters captured a nearly 100kg python believed to have been attempting to prey on a goat at the Limau Kasturi Land Rehabilitation Scheme here late yesterday.\n\nGua Musang Fire and Rescue Station chief Muhammad Azrul Izzham Zulkifli said the department received a distress call at 11.40pm after the reptile was spotted.\n\nHe said four firemen from the Gua Musang Fire and Rescue Station successfully captured the five-metre-long python.\n\nThe snake has been taken to the Gua Musang Fire and Rescue Station and will be handed over to the Department of Wildlife and National Parks (Perhilitan).\n\nAzrul also advised residents, especially those living near orchards, plantations and villages, to remain vigilant for the presence of wild animals.\n\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RPD4y4amPRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RPD4y4amPRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RPD4y4amPRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RPD4y4amPRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RPD4y4amPRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 88,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RPD4y4amPRA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kr_JMUpcn5SRLbO3qgywpue8zGg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLngtbFhlV0RueUUw",
+      "snippet": {
+        "publishedAt": "2026-08-04T03:06:39Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM Aug 4, 2026",
+        "description": "Bursa Malaysia's key index opened flat on Tuesday dragged down by selling activities in the financial services heavyweights.\n\nThe FBM KLCI opened less than one point higher at 1,725.\n\nIn the crypto exchange, Bitcoin rose to RM260,711.\n\nEthereum dropped to RM7,628 and Solana stood at RM301.\n\nThat's it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-lXeWDnyE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-lXeWDnyE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-lXeWDnyE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x-lXeWDnyE0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x-lXeWDnyE0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 89,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x-lXeWDnyE0"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z8JGaSO8ZuJrSoS-b1w7CYm4F5I",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnNkd1ROVDQteHFz",
+      "snippet": {
+        "publishedAt": "2026-08-04T02:19:07Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Landfill fire at Pulau Burung brought under control after four-hour operation",
+        "description": "Firefighters brought a solid waste fire at the Pulau Burung landfill under control after a four-hour operation involving multiple stations, volunteer units and heavy machinery.\n\nRead more:\nhttps://www.nst.com.my/news/regional/2026/08/1503681/landfill-fire-pulau-burung-brought-under-control-after-four-hour\n\n----------------------------------\n#NST #NSTTV Pulau Burung, Fire, Firefighters, Landfill, Solid waste, Bomba, John Sagun Francis, Penang, NST, Malaysia News\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sdwTNT4-xqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sdwTNT4-xqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sdwTNT4-xqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sdwTNT4-xqs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sdwTNT4-xqs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 90,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sdwTNT4-xqs"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KlBDRvGiRL6f3-FhP1VqGY7zHIw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlpYQ1ppZldiUHFN",
+      "snippet": {
+        "publishedAt": "2026-08-03T17:14:46Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "DAP to decide stay in unity government or otherwise at Aug 16 congress",
+        "description": "DAP will table a motion at its national congress on Aug 16 to decide whether the party should remain in the unity government or withdraw.\n\nSecretary-general Anthony Loke said more than 4,000 delegates will vote by secret ballot, with the outcome determining the party's future direction.\n\nSTORYLINK: https://www.nst.com.my/news/nation/2026/08/1503547/updated-dap-decide-stay-unity-government-or-otherwise-aug-16-congress\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZXCZifWbPqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZXCZifWbPqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZXCZifWbPqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZXCZifWbPqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZXCZifWbPqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 91,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZXCZifWbPqM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3JKSTSZPRRf5__UU20TTejh-2ok",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnZmeFFFU0pQQ3Vj",
+      "snippet": {
+        "publishedAt": "2026-08-03T03:32:22Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Firemen battle hillside forest fire near Sepang IPD",
+        "description": "A forest fire covering about 2.83 hectares — roughly the size of four football fields — broke out on hilly terrain near the Sepang district police headquarters (IPD) early today.\n\nRead more: https://www.nst.com.my/news/nation/2026/08/1503084/firemen-battle-hillside-forest-fire-near-sepang-ipd\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vfxQESJPCuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vfxQESJPCuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vfxQESJPCuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vfxQESJPCuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vfxQESJPCuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 107,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vfxQESJPCuc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FrPFYvrvd_veFPF3JjTDfDHdqr8",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnBpbGd1dk5sdjhB",
+      "snippet": {
+        "publishedAt": "2026-08-03T03:00:21Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM Aug 3, 2026",
+        "description": "Bursa Malaysia opened slightly higher on Monday before retreating as investors remained cautious amid intermittent selling pressure. \n\nThe market undertone remained cautious following some profit-taking last Friday.\n\nFor today, the index is expected to hover within the 1,720 to 1,735 range.\n\nIn the crypto market, Bitcoin fell to RM257,588.\n\nEthereum fell to RM7,629, while Solana was down at RM298.\n\nThat’s it for Market Pulse.\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pilguvNlv8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pilguvNlv8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pilguvNlv8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pilguvNlv8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pilguvNlv8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 108,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pilguvNlv8A"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "To8nFxY5OqvRzKiZMmnw7yw9mwo",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlJLM1BYeDlrdTBr",
+      "snippet": {
+        "publishedAt": "2026-08-03T02:38:08Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Glasgow 2026: Small contingent, big returns for Malaysia",
+        "description": "Malaysia ended its Glasgow 2026 Commonwealth Games campaign with an impressive haul of eight gold, three silver and five bronze medals to finish 10th in the overall medal standings\n\nRead more: https://www.nst.com.my/sports/others/2026/08/1502974/glasgow-2026-small-contingent-big-returns-malaysia\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RK3PXx9ku0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RK3PXx9ku0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RK3PXx9ku0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RK3PXx9ku0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RK3PXx9ku0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 109,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RK3PXx9ku0k"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J1f8hAVUOF6kTMnMlhSOyZvg20k",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmNXNlhJTGQ5aXVN",
+      "snippet": {
+        "publishedAt": "2026-08-03T01:09:46Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Peru probes crash of tourist plane that killed 13",
+        "description": "Peruvian authorities said on Sunday they are investigating the crash of a small plane carrying tourists to view the famous Nazca Lines, which killed all 13 people on board.\n\nRead more: https://www.nst.com.my/world/world/2026/08/1503045/peru-probes-crash-tourist-plane-killed-13\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cW6XILd9iuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cW6XILd9iuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cW6XILd9iuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cW6XILd9iuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cW6XILd9iuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 110,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cW6XILd9iuM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dQ1HU26wOytjoBdYvVn_mgsPbmU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmMxTVBRZWdwNExj",
+      "snippet": {
+        "publishedAt": "2026-08-02T23:00:33Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Negri polls expose PH’s struggle to win Malay support",
+        "description": "The outcome of the Negri Sembilan election has exposed deeper challenges for Pakatan Harapan, particularly its ability to retain and expand Malay support ahead of future national contests.\n\nBarisan Nasional emerged the biggest winner with 18 seats, followed by PH with 11 and Perikatan Nasional with seven. Umno secured 16 seats for BN, while MCA won two. \n\nWithin PH, DAP won nine seats and PKR two. \n\nPN’s seven seats came from Pas with four and Parti Wawasan Negara with three, while Bersatu failed to win any.\n\nAnalysts said the defeat of former menteri besar Datuk Seri Aminuddin Harun and DAP secretary‑general Anthony Loke showed voters were influenced by broader political narratives, including Malay‑Islam issues, beyond state performance.\n\nExperts said BN‑PN cooperation consolidated Malay votes, while PH remained reliant on urban and non‑Malay support. .\n\nDAP’s loss in Chennah and Repah highlighted pressure on its cross‑community appeal.\n\nThe DAP National Congress on August 16 is expected to serve as a key post‑election review platform.\n\n----------------------------------\n#NST #NSTTV  #PakatanHarapan #PH #PKR #PerikatanNasional #Umno #MCA #BN #BarisanNasional #AminuddinHarun #DAP #AnthonyLoke #NegriSembilan #PRNNegeri #Politics #Malay #NST #News #WorldNews \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c1MPQegp4Lc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c1MPQegp4Lc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c1MPQegp4Lc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c1MPQegp4Lc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c1MPQegp4Lc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 111,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c1MPQegp4Lc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IGwfbsFQ5Pq_xXbDa1glXMh4iXI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlFOdlJKazNSMTNB",
+      "snippet": {
+        "publishedAt": "2026-08-02T23:00:11Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "DAP warned against Cabinet exit after electoral setbacks",
+        "description": "Quitting the cabinet may help DAP rebuild credibility among its supporters, but the political cost would outweigh any benefits, said former MP Dr Ong Kian Ming.\n\nHe warned such a move could cost DAP control of Penang and its role in Selangor, while weakening its ability to campaign for Prime Minister Datuk Seri Anwar Ibrahim.\n\nOng’s remarks came after Pakatan Harapan’s defeat in Negri Sembilan, where DAP lost Chennah and Repah. He said the party struggled to mobilise Chinese voters and counter the Malay unity narrative of BN and PN.\n\nDAP deputy secretary‑general Ramkarpal Singh defended Anthony Loke, saying the loss was not solely his fault. \n\nAnalysts added leaving PH would be a double‑edged sword, risking instability and influence.\n\n----------------------------------\n#NST #NSTTV #PakatanHarapan #PH #PKR #PerikatanNasional #Umno #MCA #BN #BarisanNasional #DAP #AnthonyLoke #OngKianMing #RamkarpalSingh #NegriSembilan #PRNNegeri #Politics #Malay #NST #News #WorldNews \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QNvRJk3R13A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QNvRJk3R13A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QNvRJk3R13A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QNvRJk3R13A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QNvRJk3R13A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 112,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QNvRJk3R13A"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HMD9Jf5PPBKpTdMmbYwNTxZJJIw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjlXWmMxMDdTTzhF",
+      "snippet": {
+        "publishedAt": "2026-08-02T16:19:57Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "[LIVE] The swearing-in ceremony for the new Negri Sembilan Menteri Besar",
+        "description": "[LIVE] The swearing-in ceremony for the new Negri Sembilan Menteri Besar \n\n#NSTTV\n#BHTV\n#METROTV\n\nVisit us at www.nst.com.my\nOur Facebook www.facebook.com/nstonline\nMore news at www.twitter.com/NST_Online\nAnd also www.instagram.com/nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9WZc107SO8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9WZc107SO8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9WZc107SO8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9WZc107SO8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9WZc107SO8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 113,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9WZc107SO8E"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lu150ONjxDQWxiItQqf_LFTXb-M",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk5lTnJsMXVwT1hZ",
+      "snippet": {
+        "publishedAt": "2026-08-02T02:29:49Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Zahid submits three names to Negri Sembilan palace for MB post",
+        "description": "Barisan Nasional chairman Datuk Seri Dr Ahmad Zahid Hamidi has submitted three names to the Negri Sembilan palace for consideration as the state's next Menteri Besar.\n\nStorylink: https://www.nst.com.my/news/nation/2026/08/1502403/zahid-submits-three-names-negri-sembilan-palace-mb-post\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NeNrl1upOXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NeNrl1upOXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NeNrl1upOXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NeNrl1upOXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NeNrl1upOXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 129,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NeNrl1upOXY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZzLaJOh3Ot_mLiI0eBkJbYMNNwc",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmtQN1Z4bGFVLU5j",
+      "snippet": {
+        "publishedAt": "2026-08-02T02:28:12Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Glasgow 2026: Historic win at judo arena, anxious moments at velodrome mark eventful day for M'sian",
+        "description": "The ninth day of the Glasgow 2026 Commonwealth Games served up a roller coaster of emotions for the Malaysian contingent as Judoka Amir Daniel Abdul Majeed created a sensation by delivering Malaysia's eighth gold medal.\n\nStorylink: https://www.nst.com.my/sports/others/2026/08/1502418/glasgow-2026-historic-win-judo-arena-anxious-moments-velodrome-mark\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kP7VxlaU-Nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kP7VxlaU-Nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kP7VxlaU-Nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kP7VxlaU-Nc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kP7VxlaU-Nc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 130,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kP7VxlaU-Nc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fGHzAg3hd97DDeTRgmcWuBHi3z8",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkJ1RVlsOEo4cjVB",
+      "snippet": {
+        "publishedAt": "2026-08-02T02:26:59Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Maresca backs City to fight for every trophy",
+        "description": "Enzo Maresca insists Manchester City have the quality to challenge for silverware in the upcoming season despite suffering defeat in his first game in charge.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BuEYl8J8r5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BuEYl8J8r5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BuEYl8J8r5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BuEYl8J8r5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BuEYl8J8r5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 131,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BuEYl8J8r5A"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2wWwaAKddQ--X7815ToU9Pa6eEo",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjA2Y05kQ3hUUFFn",
+      "snippet": {
+        "publishedAt": "2026-08-02T00:57:45Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Team Spirit make MLBB history in Paris",
+        "description": "Spirit survive Yangon’s comeback to win 4-3 and claim the US$1 million prize.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/06cNdCxTPQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/06cNdCxTPQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/06cNdCxTPQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/06cNdCxTPQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/06cNdCxTPQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 132,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "06cNdCxTPQg"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a1qhzapPD3huW-OWFlgoPKlD3Tc",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjZhR0JRUnJHY0JR",
+      "snippet": {
+        "publishedAt": "2026-08-02T00:57:24Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Hiko targets more after historic MSC triumph",
+        "description": "Team Spirit gold laner Anton “Hiko” Pak reflects on winning his first major international title after the Eastern European side defeated Myanmar's Yangon Galacticos 4-3 in the MLBB Mid-Season Cup x Esports World Cup Grand Final in Paris on Saturday. \n\nThe 18-year-old said the victory meant everything after years of chasing a major trophy with his teammates, but has already set his sights on winning the M8 World Championship.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6aGBQRrGcBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6aGBQRrGcBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6aGBQRrGcBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6aGBQRrGcBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6aGBQRrGcBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 133,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6aGBQRrGcBQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "knXF8d57KbCy3oU11-Ye2wVppiY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjMyZXpnOXFCaW1F",
+      "snippet": {
+        "publishedAt": "2026-08-02T00:54:28Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Mountaineer Nirmal Purja, team killed in Pakistan avalanche",
+        "description": "Renowned mountaineer Nirmal Purja and his nine climbing companions were killed in an avalanche in Pakistan during an ascent of one of the world's highest mountains, his expedition company said on Saturday, as rescuers tackled treacherous conditions to recover their bodies.\n\nStorylink: https://www.nst.com.my/world/world/2026/08/1502422/mountaineer-nirmal-purja-team-killed-pakistan-avalanche\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/32ezg9qBimE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/32ezg9qBimE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/32ezg9qBimE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/32ezg9qBimE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/32ezg9qBimE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 134,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "32ezg9qBimE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SPvs8TsBHY_lNf2v81NWAF3qCps",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjJOYXdMbkRKVS1n",
+      "snippet": {
+        "publishedAt": "2026-08-01T23:16:02Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "CAAM probes security procedures after Malaysia Airlines pilot’s drug arrest",
+        "description": "The Civil Aviation Authority of Malaysia (CAAM) is investigating whether all aviation security procedures were followed after a Malaysia Airlines pilot was arrested in Jakarta over alleged drug smuggling.\n\nCAAM chief executive Datuk Captain Norazman Mahmud said the incident will be assessed from a regulatory perspective, including the airline’s compliance with security requirements and airport screening processes. \n\nHe stressed that aircrew, like all passengers, must undergo security checks before entering restricted areas, with no blanket exemptions.\n\nNorazman said screening is conducted by airport operators under the Civil Aviation Security Regulations 2019 and the National Civil Aviation Security Programme. \n\nHe added Malaysia already has a framework prohibiting flight crew from performing duties under the influence of alcohol or drugs, requiring airlines to implement CAAM‑approved management programmes.\n\nCAAM said it views any incident with implications on aviation safety or security with utmost seriousness and will take regulatory action if non‑compliance is found.\n\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2NawLnDJU-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2NawLnDJU-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2NawLnDJU-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2NawLnDJU-g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2NawLnDJU-g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 135,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2NawLnDJU-g"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "id": "qlqjT5ZryxE",
+      "title": "Container seized at Port of Tanjung Pelepas over suspected Israel bound shipment",
+      "description": "",
+      "publishedAt": "2026-08-08T12:52:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qlqjT5ZryxE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qlqjT5ZryxE"
+    },
+    {
+      "id": "kg8RXhDESqs",
+      "title": "Asyraf Wajdi: Johor, Negri Sembilan victories prove voters want Umno back",
+      "description": "",
+      "publishedAt": "2026-08-08T10:33:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kg8RXhDESqs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kg8RXhDESqs"
+    },
+    {
+      "id": "tEUm5IkYXOU",
+      "title": "No MPs have submitted resignation notices, confirms Dewan Rakyat Speaker",
+      "description": "",
+      "publishedAt": "2026-08-08T10:32:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tEUm5IkYXOU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tEUm5IkYXOU"
+    },
+    {
+      "id": "34nM-dWKaNY",
+      "title": "Johari: Cheaper EVs must come with wider charging network",
+      "description": "",
+      "publishedAt": "2026-08-08T09:09:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/34nM-dWKaNY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=34nM-dWKaNY"
+    },
+    {
+      "id": "PhlV2yYf25s",
+      "title": "Sultan of Brunei revokes daughter in law's title",
+      "description": "",
+      "publishedAt": "2026-08-08T08:50:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PhlV2yYf25s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PhlV2yYf25s"
+    },
+    {
+      "id": "UWr01VUSMhI",
+      "title": "King orders tighter airport, border security to curb drug smuggling",
+      "description": "",
+      "publishedAt": "2026-08-08T05:08:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UWr01VUSMhI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UWr01VUSMhI"
+    },
+    {
+      "id": "rxiaMi27OwU",
+      "title": "AG- C: Nicky Liow paid RM10m compound before money laundering charges withdrawn",
+      "description": "",
+      "publishedAt": "2026-08-08T03:32:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rxiaMi27OwU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rxiaMi27OwU"
+    },
+    {
+      "id": "mV3251Tglvg",
+      "title": "Constable Muhammad Raimi laid to rest after electric shock tragedy",
+      "description": "",
+      "publishedAt": "2026-08-08T02:22:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mV3251Tglvg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mV3251Tglvg"
+    },
+    {
+      "id": "gaoVb0Pc_8I",
+      "title": "PKR urged to confront hard truths after election setbacks",
+      "description": "",
+      "publishedAt": "2026-08-07T23:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gaoVb0Pc_8I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gaoVb0Pc_8I"
+    },
+    {
+      "id": "U9eLtyuSnBE",
+      "title": "Bodies of three policemen killed in electrocution",
+      "description": "",
+      "publishedAt": "2026-08-07T16:24:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U9eLtyuSnBE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U9eLtyuSnBE"
+    },
     {
       "id": "KXoQVal8hL4",
       "title": "[LIVE] Ismail Sabri faces asset declaration charge",
@@ -61074,6 +63592,312 @@
       "title": "A silat master combats crime, corruption and abuse of power",
       "thumbnail": "https://i.ytimg.com/vi/6rZjIYQFH7c/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=6rZjIYQFH7c"
+    },
+    {
+      "id": "1EY3stHN-hc",
+      "title": "Sports surgeon: Pickleball and Hyrox injuries on the rise, but football still tops list",
+      "thumbnail": "https://i.ytimg.com/vi/1EY3stHN-hc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1EY3stHN-hc"
+    },
+    {
+      "id": "weS_Ozw8NF8",
+      "title": "Kundasang’s beauty belies growing landslide risk",
+      "thumbnail": "https://i.ytimg.com/vi/weS_Ozw8NF8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=weS_Ozw8NF8"
+    },
+    {
+      "id": "qGVwSkPthQY",
+      "title": "Ismail Sabri's charge deferred to Aug 27 after health issues",
+      "thumbnail": "https://i.ytimg.com/vi/qGVwSkPthQY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qGVwSkPthQY"
+    },
+    {
+      "id": "qbwSk6pdJ8k",
+      "title": "[EP143] BTH: Airport safety, security & screening",
+      "thumbnail": "https://i.ytimg.com/vi/qbwSk6pdJ8k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qbwSk6pdJ8k"
+    },
+    {
+      "id": "TqHB79p1blI",
+      "title": "Ismail Sabri admitted to IJN ahead of court appearance",
+      "thumbnail": "https://i.ytimg.com/vi/TqHB79p1blI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TqHB79p1blI"
+    },
+    {
+      "id": "eTYcIJhM1sk",
+      "title": "MRCB-Theta Edge JV wins RM3.03bil Penang LRT systems contract",
+      "thumbnail": "https://i.ytimg.com/vi/eTYcIJhM1sk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eTYcIJhM1sk"
+    },
+    {
+      "id": "m7U27g7vUmw",
+      "title": "Police urge kootu players to come forward",
+      "thumbnail": "https://i.ytimg.com/vi/m7U27g7vUmw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m7U27g7vUmw"
+    },
+    {
+      "id": "7x5MKZlWTHQ",
+      "title": "Tabung Haji RCI briefing to boost BN ahead of Melaka polls",
+      "thumbnail": "https://i.ytimg.com/vi/7x5MKZlWTHQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7x5MKZlWTHQ"
+    },
+    {
+      "id": "j9v7PtxGHGQ",
+      "title": "AI scanners not enough after pilot’s drug arrest, experts warn",
+      "thumbnail": "https://i.ytimg.com/vi/j9v7PtxGHGQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=j9v7PtxGHGQ"
+    },
+    {
+      "id": "AIJpZ6oqx1s",
+      "title": "Three policemen killed in suspected electrocution incident",
+      "thumbnail": "https://i.ytimg.com/vi/AIJpZ6oqx1s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AIJpZ6oqx1s"
+    },
+    {
+      "id": "6NWnZfVXQBo",
+      "title": "NEWS@9 – Thursday, August 6",
+      "thumbnail": "https://i.ytimg.com/vi/6NWnZfVXQBo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6NWnZfVXQBo"
+    },
+    {
+      "id": "J9vaINc-onA",
+      "title": "Nurul Izzah steps aside, Saifuddin takes over as interim deputy president",
+      "thumbnail": "https://i.ytimg.com/vi/J9vaINc-onA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=J9vaINc-onA"
+    },
+    {
+      "id": "CK3N0wgXIss",
+      "title": "Market Pulse PM Aug 6, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/CK3N0wgXIss/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CK3N0wgXIss"
+    },
+    {
+      "id": "vQbAdimiTZU",
+      "title": "Auditor General blocked from probing Najib's accounts, says Pua",
+      "thumbnail": "https://i.ytimg.com/vi/vQbAdimiTZU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vQbAdimiTZU"
+    },
+    {
+      "id": "rWKhqzj59h8",
+      "title": "Something is not right with Pearly-Thinaah",
+      "thumbnail": "https://i.ytimg.com/vi/rWKhqzj59h8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rWKhqzj59h8"
+    },
+    {
+      "id": "-7LARjT0SNM",
+      "title": "New BMW iX3 heralds Neue Klasse era in Malaysia, priced at RM378,800",
+      "thumbnail": "https://i.ytimg.com/vi/-7LARjT0SNM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-7LARjT0SNM"
+    },
+    {
+      "id": "C7rpny5c1Ro",
+      "title": "Danish Iftikhar becomes only second Malaysian in World U20 100m final",
+      "thumbnail": "https://i.ytimg.com/vi/C7rpny5c1Ro/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=C7rpny5c1Ro"
+    },
+    {
+      "id": "ptxfJdo6ulQ",
+      "title": "Perkeso 24-hour protection claims surge more than threefold in July",
+      "thumbnail": "https://i.ytimg.com/vi/ptxfJdo6ulQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ptxfJdo6ulQ"
+    },
+    {
+      "id": "AhC3-XASj54",
+      "title": "Zahid: BN to defend all 21 Melaka seats",
+      "thumbnail": "https://i.ytimg.com/vi/AhC3-XASj54/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AhC3-XASj54"
+    },
+    {
+      "id": "DtSs4nLneUI",
+      "title": "Zahid: BN, Umno will not compromise if TH RCI finds wrongdoing",
+      "thumbnail": "https://i.ytimg.com/vi/DtSs4nLneUI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DtSs4nLneUI"
+    },
+    {
+      "id": "XKI00hHNSRM",
+      "title": "FIFA back Infantino, apologise for World Cup privatisation plan",
+      "thumbnail": "https://i.ytimg.com/vi/XKI00hHNSRM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XKI00hHNSRM"
+    },
+    {
+      "id": "te3MTEYliXI",
+      "title": "How a pilot who tested positive for drugs bypassed aviation's safety nets",
+      "thumbnail": "https://i.ytimg.com/vi/te3MTEYliXI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=te3MTEYliXI"
+    },
+    {
+      "id": "IIVaSlwPH7g",
+      "title": "Market Pulse AM Aug 6, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/IIVaSlwPH7g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IIVaSlwPH7g"
+    },
+    {
+      "id": "xX7zUMmuU2s",
+      "title": "Pilot arrest puts KLIA, MAS security procedures under scrutiny",
+      "thumbnail": "https://i.ytimg.com/vi/xX7zUMmuU2s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xX7zUMmuU2s"
+    },
+    {
+      "id": "M2Dh_KpL2Ks",
+      "title": "Boustead eyes RM30bil revenue in next five years, expands defence ambitions",
+      "thumbnail": "https://i.ytimg.com/vi/M2Dh_KpL2Ks/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=M2Dh_KpL2Ks"
+    },
+    {
+      "id": "PCgN6n90C7w",
+      "title": "Pilots’ chief calls pilot’s arrest a ‘double embarrassment’ for Malaysia Airlines",
+      "thumbnail": "https://i.ytimg.com/vi/PCgN6n90C7w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PCgN6n90C7w"
+    },
+    {
+      "id": "2IRzOxO7pvU",
+      "title": "DAP’s Aug 16 vote a test of Anwar’s unity government",
+      "thumbnail": "https://i.ytimg.com/vi/2IRzOxO7pvU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2IRzOxO7pvU"
+    },
+    {
+      "id": "xraBNibMay8",
+      "title": "Drug arrests raise fears of syndicates recruiting Malaysians",
+      "thumbnail": "https://i.ytimg.com/vi/xraBNibMay8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xraBNibMay8"
+    },
+    {
+      "id": "zbhQtLz0VsQ",
+      "title": "Couple injured after MPV crashes into herd of elephants",
+      "thumbnail": "https://i.ytimg.com/vi/zbhQtLz0VsQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zbhQtLz0VsQ"
+    },
+    {
+      "id": "ry_AvZa9RTE",
+      "title": "Bank Rakyat buys MNRB's Takaful Ikhlas for RM1.64bil",
+      "thumbnail": "https://i.ytimg.com/vi/ry_AvZa9RTE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ry_AvZa9RTE"
+    },
+    {
+      "id": "rs0T1RMhlFo",
+      "title": "Market Pulse AM August 5, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/rs0T1RMhlFo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rs0T1RMhlFo"
+    },
+    {
+      "id": "2l1fNRXd1Ys",
+      "title": "Kian Meng welcomes Herry's decision to reshuffle doubles",
+      "thumbnail": "https://i.ytimg.com/vi/2l1fNRXd1Ys/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2l1fNRXd1Ys"
+    },
+    {
+      "id": "3YuV8VK9ruY",
+      "title": "Mammoth remains revealed in Bulgaria after Danube water levels hit record low",
+      "thumbnail": "https://i.ytimg.com/vi/3YuV8VK9ruY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3YuV8VK9ruY"
+    },
+    {
+      "id": "RPD4y4amPRA",
+      "title": "Firemen capture nearly 100kg python",
+      "thumbnail": "https://i.ytimg.com/vi/RPD4y4amPRA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RPD4y4amPRA"
+    },
+    {
+      "id": "x-lXeWDnyE0",
+      "title": "Market Pulse AM Aug 4, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/x-lXeWDnyE0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x-lXeWDnyE0"
+    },
+    {
+      "id": "sdwTNT4-xqs",
+      "title": "Landfill fire at Pulau Burung brought under control after four-hour operation",
+      "thumbnail": "https://i.ytimg.com/vi/sdwTNT4-xqs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sdwTNT4-xqs"
+    },
+    {
+      "id": "ZXCZifWbPqM",
+      "title": "DAP to decide stay in unity government or otherwise at Aug 16 congress",
+      "thumbnail": "https://i.ytimg.com/vi/ZXCZifWbPqM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZXCZifWbPqM"
+    },
+    {
+      "id": "vfxQESJPCuc",
+      "title": "Firemen battle hillside forest fire near Sepang IPD",
+      "thumbnail": "https://i.ytimg.com/vi/vfxQESJPCuc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vfxQESJPCuc"
+    },
+    {
+      "id": "pilguvNlv8A",
+      "title": "Market Pulse AM Aug 3, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/pilguvNlv8A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pilguvNlv8A"
+    },
+    {
+      "id": "RK3PXx9ku0k",
+      "title": "Glasgow 2026: Small contingent, big returns for Malaysia",
+      "thumbnail": "https://i.ytimg.com/vi/RK3PXx9ku0k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RK3PXx9ku0k"
+    },
+    {
+      "id": "cW6XILd9iuM",
+      "title": "Peru probes crash of tourist plane that killed 13",
+      "thumbnail": "https://i.ytimg.com/vi/cW6XILd9iuM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cW6XILd9iuM"
+    },
+    {
+      "id": "c1MPQegp4Lc",
+      "title": "Negri polls expose PH’s struggle to win Malay support",
+      "thumbnail": "https://i.ytimg.com/vi/c1MPQegp4Lc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=c1MPQegp4Lc"
+    },
+    {
+      "id": "QNvRJk3R13A",
+      "title": "DAP warned against Cabinet exit after electoral setbacks",
+      "thumbnail": "https://i.ytimg.com/vi/QNvRJk3R13A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QNvRJk3R13A"
+    },
+    {
+      "id": "9WZc107SO8E",
+      "title": "[LIVE] The swearing-in ceremony for the new Negri Sembilan Menteri Besar",
+      "thumbnail": "https://i.ytimg.com/vi/9WZc107SO8E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9WZc107SO8E"
+    },
+    {
+      "id": "NeNrl1upOXY",
+      "title": "Zahid submits three names to Negri Sembilan palace for MB post",
+      "thumbnail": "https://i.ytimg.com/vi/NeNrl1upOXY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NeNrl1upOXY"
+    },
+    {
+      "id": "kP7VxlaU-Nc",
+      "title": "Glasgow 2026: Historic win at judo arena, anxious moments at velodrome mark eventful day for M'sian",
+      "thumbnail": "https://i.ytimg.com/vi/kP7VxlaU-Nc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kP7VxlaU-Nc"
+    },
+    {
+      "id": "BuEYl8J8r5A",
+      "title": "Maresca backs City to fight for every trophy",
+      "thumbnail": "https://i.ytimg.com/vi/BuEYl8J8r5A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BuEYl8J8r5A"
+    },
+    {
+      "id": "06cNdCxTPQg",
+      "title": "Team Spirit make MLBB history in Paris",
+      "thumbnail": "https://i.ytimg.com/vi/06cNdCxTPQg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=06cNdCxTPQg"
+    },
+    {
+      "id": "6aGBQRrGcBQ",
+      "title": "Hiko targets more after historic MSC triumph",
+      "thumbnail": "https://i.ytimg.com/vi/6aGBQRrGcBQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6aGBQRrGcBQ"
+    },
+    {
+      "id": "32ezg9qBimE",
+      "title": "Mountaineer Nirmal Purja, team killed in Pakistan avalanche",
+      "thumbnail": "https://i.ytimg.com/vi/32ezg9qBimE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=32ezg9qBimE"
+    },
+    {
+      "id": "2NawLnDJU-g",
+      "title": "CAAM probes security procedures after Malaysia Airlines pilot’s drug arrest",
+      "thumbnail": "https://i.ytimg.com/vi/2NawLnDJU-g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2NawLnDJU-g"
     }
   ]
 }

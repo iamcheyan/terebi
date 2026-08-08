@@ -1,8 +1,20 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-08-05T16:44:02.474607",
+  "updated_at": "2026-08-08T15:31:59.090517",
   "videos": [
+    {
+      "id": "BlAkZRwk2SM",
+      "title": "【LIVE】五所川原立佞武多2026～青森の祭りを未来へつなごう～ Goshogawara Tachi-Neputa Festival.",
+      "description": "",
+      "publishedAt": "2026-08-08T12:08:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BlAkZRwk2SM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BlAkZRwk2SM"
+    },
     {
       "id": "Ekm6q_rK5kc",
       "title": "【LIVE】青森ねぶた祭2026～青森の祭りを未来へつなごう～ Aomori Nebuta Festival",

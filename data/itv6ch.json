@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-08-07T15:58:57.634018",
+  "updated_at": "2026-08-08T15:32:37.425410",
   "videos": [
+    {
+      "id": "OJp6WPLKkFY",
+      "title": "愛媛のニュース(08月08日)",
+      "description": "",
+      "publishedAt": "2026-08-08T11:32:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OJp6WPLKkFY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OJp6WPLKkFY"
+    },
+    {
+      "id": "gNMcWYKRUb0",
+      "title": "【感動】言葉の壁を越えた夏！リトルリーグ日韓交流で生まれた少年たちの熱き絆",
+      "description": "",
+      "publishedAt": "2026-08-08T09:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gNMcWYKRUb0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gNMcWYKRUb0"
+    },
     {
       "id": "9eCffDX9thw",
       "title": "愛媛のニュース(08月07日)",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-08-07T15:58:43.187323",
+  "updated_at": "2026-08-08T15:32:25.381909",
   "videos": [
+    {
+      "id": "Wg7gRcCrVfY",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-08-08T02:57:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wg7gRcCrVfY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wg7gRcCrVfY"
+    },
     {
       "id": "xlSStGszeLE",
       "title": "#7　宮崎版“あの人は今”(寺坂調べ)ベスト６",

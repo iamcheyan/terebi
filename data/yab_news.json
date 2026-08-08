@@ -1,8 +1,32 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
   "channel_name": "yab山口ニュース",
-  "updated_at": "2026-08-07T15:57:56.362603",
+  "updated_at": "2026-08-08T15:31:59.476170",
   "videos": [
+    {
+      "id": "Y-mrvAZbvi4",
+      "title": "【山口】帰省ラッシュピーク",
+      "description": "",
+      "publishedAt": "2026-08-08T08:59:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y-mrvAZbvi4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y-mrvAZbvi4"
+    },
+    {
+      "id": "C82ABiNVVqQ",
+      "title": "【山口】将来の医師に　採血や心肺蘇生を体験",
+      "description": "",
+      "publishedAt": "2026-08-08T08:58:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C82ABiNVVqQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C82ABiNVVqQ"
+    },
     {
       "id": "W8zv9GGe9RU",
       "title": "山口】消費税減税で約１００億円減収",

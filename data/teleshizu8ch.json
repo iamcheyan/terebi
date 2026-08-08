@@ -1,8 +1,20 @@
 {
   "channel_id": "UCqHczYty3emqunOz4dZFFqw",
   "channel_name": "テレビ静岡（テレしず）",
-  "updated_at": "2026-08-07T15:58:15.664034",
+  "updated_at": "2026-08-08T15:32:00.148862",
   "videos": [
+    {
+      "id": "H-xUo-3rFSc",
+      "title": "【おしえて！ひとみ先生】第5回「どうぶつたちを生中継せよ！」",
+      "description": "",
+      "publishedAt": "2026-08-07T16:15:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H-xUo-3rFSc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H-xUo-3rFSc"
+    },
     {
       "id": "5ttUXrMMMAY",
       "title": "【波に乗ろうよ２】第3回「ローラーコースターに挑戦」まいまいですやん「中級サーファーへの道」",
