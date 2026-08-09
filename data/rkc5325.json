@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-08-07T15:58:46.723915",
+  "updated_at": "2026-08-09T15:34:12.134411",
   "videos": [
+    {
+      "id": "oiYr7kGWD0A",
+      "title": "RKCアプリ漢字クイズ 8/10の問題 ～丸山修アナのヒント～",
+      "description": "",
+      "publishedAt": "2026-08-09T15:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oiYr7kGWD0A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oiYr7kGWD0A"
+    },
     {
       "id": "hn1hqEk_TFQ",
       "title": "「よさこいスーパーライブ2026 全国大会」番組リポーター ドリッシー野田未結さん",

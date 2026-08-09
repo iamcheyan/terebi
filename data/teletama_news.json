@@ -1,8 +1,20 @@
 {
   "channel_id": "UCW7uiApbFl_E852MGqNILDw",
   "channel_name": "テレ玉NEWS（テレビ埼玉）",
-  "updated_at": "2026-08-07T15:58:10.394364",
+  "updated_at": "2026-08-09T15:33:55.064830",
   "videos": [
+    {
+      "id": "mSjl2o4jsh4",
+      "title": "Watch Report「横尾材木店」（埼玉ビジネスウオッチ2026年7月25日放送分）",
+      "description": "",
+      "publishedAt": "2026-08-09T13:00:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mSjl2o4jsh4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mSjl2o4jsh4"
+    },
     {
       "id": "Aa8NL3-rEKU",
       "title": "【報道特集】原爆の図 丸木美術館 改修の現状",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2026-08-08T15:32:32.682671",
+  "updated_at": "2026-08-09T15:34:16.215328",
   "videos": [
+    {
+      "id": "Ffkc8dFIe3g",
+      "title": "国際バドミントンU16庄内2026",
+      "description": "",
+      "publishedAt": "2026-08-09T07:30:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Ffkc8dFIe3g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ffkc8dFIe3g"
+    },
     {
       "id": "c11zaHCG2j8",
       "title": "【涼しさ満点！カヌー旅】　絶景を求めて三淵渓谷へ",

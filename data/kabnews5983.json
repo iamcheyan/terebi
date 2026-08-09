@@ -1,8 +1,44 @@
 {
   "channel_id": "UCu8GW2WcGp_9Lic2wZY_IVg",
   "channel_name": "KAB熊本朝日放送",
-  "updated_at": "2026-08-08T15:32:21.352327",
+  "updated_at": "2026-08-09T15:34:03.994461",
   "videos": [
+    {
+      "id": "UwBy3VaB8pE",
+      "title": "米軍から飲料水16トンなど支援物資　「同盟国であり友人である日本のために」",
+      "description": "",
+      "publishedAt": "2026-08-09T11:27:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UwBy3VaB8pE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UwBy3VaB8pE"
+    },
+    {
+      "id": "aklu0Ib0Vsc",
+      "title": "日奈久温泉　温泉水が配給できず　木村知事「しっかり対応できるものにしていきたい」",
+      "description": "",
+      "publishedAt": "2026-08-09T11:27:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aklu0Ib0Vsc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aklu0Ib0Vsc"
+    },
+    {
+      "id": "YVevmjqMI5w",
+      "title": "食べて買って応援　「宇城八代復興支援マルシェ」　熊本市の鶴屋で16日（日）まで",
+      "description": "",
+      "publishedAt": "2026-08-09T11:27:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YVevmjqMI5w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YVevmjqMI5w"
+    },
     {
       "id": "N2eeDNjKGEs",
       "title": "震度6強を観測の八代市　国交大臣が被災インフラを視察",

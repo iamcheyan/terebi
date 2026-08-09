@@ -1,8 +1,44 @@
 {
   "channel_id": "UCjPVLguFrd6DTfHl2McrPjw",
   "channel_name": "OTV沖縄テレビ",
-  "updated_at": "2026-08-08T15:32:28.613341",
+  "updated_at": "2026-08-09T15:34:10.536539",
   "videos": [
+    {
+      "id": "JULz92UFeKY",
+      "title": "ハウス吹き飛ばされる　台風13号による被害の爪痕 (26/08/09 17:40)",
+      "description": "",
+      "publishedAt": "2026-08-09T09:03:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JULz92UFeKY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JULz92UFeKY"
+    },
+    {
+      "id": "JabHzZKi3f4",
+      "title": "プロ野球春季キャンプ　経済効果の試算200億円越え (26/08/09 17:40)",
+      "description": "",
+      "publishedAt": "2026-08-09T09:02:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JabHzZKi3f4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JabHzZKi3f4"
+    },
+    {
+      "id": "N6Ci-iC1G70",
+      "title": "台風１３号　沖縄から徐々に遠ざかる (26/08/09 12:00)",
+      "description": "",
+      "publishedAt": "2026-08-09T03:11:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N6Ci-iC1G70/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N6Ci-iC1G70"
+    },
     {
       "id": "QClcys1nvOQ",
       "title": "地上40メートルでの救助訓練　那覇市消防局や建設会社が連携 (26/08/08 17:00)",

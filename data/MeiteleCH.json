@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-08T15:31:57.014216",
+  "updated_at": "2026-08-09T15:33:54.588316",
   "videos": [
+    {
+      "id": "qp87Os3oELY",
+      "title": "舞台『Yerma イェルマ』　出演 #小林亮太 コメント #shorts",
+      "description": "",
+      "publishedAt": "2026-08-09T15:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qp87Os3oELY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qp87Os3oELY"
+    },
+    {
+      "id": "U4YDY1kDAyQ",
+      "title": "＜小林亮太コメント＞『Yerma イェルマ』愛知公演",
+      "description": "",
+      "publishedAt": "2026-08-09T15:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U4YDY1kDAyQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U4YDY1kDAyQ"
+    },
     {
       "id": "5u6igQWoCxc",
       "title": "【まるまる◎あいち】2026年8月8日放送 「令和8年度アートフェスタ－愛知県高等学校総合文化祭－」",
