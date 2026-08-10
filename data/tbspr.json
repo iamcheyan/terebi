@@ -1,8 +1,1092 @@
 {
   "channel_id": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
   "channel_name": "TBS公式 YouTuboo",
-  "updated_at": "2026-08-09T15:34:14.837777",
+  "original_name": "TBS公式 YouTuboo",
+  "updated_at": "2026-08-10T16:05:37.913375",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eCimR775-3kafMC_tbdV-01poQg",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLk1kd1lKbzU2RkVJ",
+      "snippet": {
+        "publishedAt": "2026-08-10T16:00:27Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "絶滅動物ジャーナリスト #太田ゆか ! 希少生物の密売現場に迫る!『#クレイジージャーニー』8/24(月)",
+        "description": "https://www.tbs.co.jp/crazyjourney/\nhttps://twitter.com/Crazy_Journey\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/series/sr033d6j4c\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0088689\n\n独自の視点やこだわりを持って世界&日本を巡る人々“クレイジージャーニー”たちが\nその特異な体験を語る、伝聞型紀行バラエティ!!\nクレイジージャーニー達がスタジオに集結し“その人だから話せる”、“その人しか知らない”常人離れした体験談を語る！\nさらに、クレイジージャーニーの新たな旅に同行し、「自分じゃ行かないけど、見てみたい！」…\nそんなエリアに潜入！お見逃しなく！\n\n■ＭＣ…設楽統　小池栄子\n\n#クレイジージャーニー　\n#TBS #設楽統 #バナナマン #小池栄子",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MdwYJo56FEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MdwYJo56FEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MdwYJo56FEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MdwYJo56FEI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MdwYJo56FEI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MdwYJo56FEI"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eeyWZEgjUCy1-UAy8Oeg-hDxKwc",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLm9BcTBMeTNCUzVr",
+      "snippet": {
+        "publishedAt": "2026-08-10T16:00:13Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "絶滅動物ジャーナリスト 太田ゆか! 希少生物の密売現場に迫る!『クレイジージャーニー』8/24(月)【TBS】",
+        "description": "https://www.tbs.co.jp/crazyjourney/\nhttps://twitter.com/Crazy_Journey\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/series/sr033d6j4c\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0088689\n\n独自の視点やこだわりを持って世界&日本を巡る人々“クレイジージャーニー”たちが\nその特異な体験を語る、伝聞型紀行バラエティ!!\nクレイジージャーニー達がスタジオに集結し“その人だから話せる”、“その人しか知らない”常人離れした体験談を語る！\nさらに、クレイジージャーニーの新たな旅に同行し、「自分じゃ行かないけど、見てみたい！」…\nそんなエリアに潜入！お見逃しなく！\n\n■ＭＣ…設楽統　小池栄子\n\n#クレイジージャーニー　\n#TBS #設楽統 #バナナマン #小池栄子",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oAq0Ly3BS5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oAq0Ly3BS5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oAq0Ly3BS5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oAq0Ly3BS5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oAq0Ly3BS5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oAq0Ly3BS5k"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yIUQM8SbCZ3vzekxE0U6scudVRI",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLnhPQkk2Mlp5eFJZ",
+      "snippet": {
+        "publishedAt": "2026-08-06T16:30:08Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "プレッシャーで自我崩壊!?😱夏祭りでワンカットMVチャレンジ!🐮『限界突破！やってM!LK』8/13(木)【TBS】",
+        "description": "毎週木曜 深夜0時59分『限界突破！やってM!LK』シーズン2🍼\n※番組の内容と放送時間は変更になる場合があります。\n👑M!LKの地上波冠番組👑\n昨年11月に結成10周年を迎え、いま乗りに乗るM!LKが、様々なチャレンジを通して自分たちの限界を突破しながら一流芸能人を目指す番組!!\n\nhttps://www.tbs.co.jp/yatte_milk/\nhttps://twitter.com/tbs_yattemilk\nhttps://www.instagram.com/tbs_yattemilk\nhttps://www.tiktok.com/@tbs_yattemilk\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/series/sr64ope7a7\nhttps://cu.tbs.co.jp/program/26073\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0159030\n\n◇出演者\nM!LK（佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人）\nミルミルくん（トミドコロ）\n\n#milk \n#佐野勇斗 \n#塩﨑太智\n#曽野舜太\n#山中柔太朗 \n#吉田仁人",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xOBI62ZyxRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xOBI62ZyxRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xOBI62ZyxRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xOBI62ZyxRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xOBI62ZyxRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xOBI62ZyxRY"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "08f_So0Lhy_QKKRTH1pVYg_Y_g0",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLl8yVG1JSG5CODlr",
+      "snippet": {
+        "publishedAt": "2026-08-06T13:00:27Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "金曜ドラマ『Ｔシャツが乾くまで』×スピッツ ｢見知らぬ糸｣ SPコラボムービー【TBS】",
+        "description": "スピッツが書き下ろしたドラマ主題歌「見知らぬ糸」に、咲子・充、樹生・あずさの2組の夫婦の写真をのせてお届け。\n本作のビジュアル撮影も担当したフォトグラファー・末長真が撮り下ろした、2組の夫婦の“日常”。第1話のエンドロールで流れ話題を呼んだ。\nこのたび、未公開写真も追加した主題歌「見知らぬ糸」とのSPコラボムービーが完成。ぜひお楽しみください。\n\n----------------------------------------\nスピッツ 48th Single「見知らぬ糸」\n2026年 8月7日(金)0時 Digital Release\n----------------------------------------\n\nhttps://www.tbs.co.jp/tshirt_ga_kawakumade_tbs\nhttps://x.com/tshirts_tbs\nhttps://www.instagram.com/tshirts_tbs/\nhttps://tiktok.com/@tshirts_tbs/\n\nTBSでは、毎週金曜よる10時から蒼井優主演の『Tシャツが乾くまで』を放送中。蒼井が地上波連続ドラマで主演を務めるのは18年ぶり、TBSドラマでの主演は本作が初となる。脚本は、『silent』(2022年・CX)などを手掛けた生方美久によるオリジナルストーリー。\nTBSでは初執筆となる生方が、とある事故に巻き込まれた二組の夫婦の“愛”と“秘密”を描く。日常的な会話に宿る感情の機微を繊細に描き出す生方が新たに紡ぐ、“喪失”と“再生”の物語にご期待いただきたい。\n\n■出演者\n瀬尾 咲子 　#蒼井優\n園田 樹生 　#中島歩\n矢野 直人 　#高橋文哉\n園田 実樹 　#齋藤飛鳥\n荒木 拓真 　#庄司浩平\n佐竹 和明　 #飛永翼(#ラバーガール)\n園田 翔 　　#久保田薫\n○\n園田あずさ 　#夏帆\n○\n大井田 千鶴 　#臼田あさ美\n宮内 幸次 　　#リリーフランキー\n瀬尾 充 　　　#松山ケンイチ\n\n#スピッツ #見知らぬ糸\n#金曜ドラマ\n#Tシャツが乾くまで\n#TBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2TmIHnB89k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2TmIHnB89k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2TmIHnB89k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_2TmIHnB89k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_2TmIHnB89k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_2TmIHnB89k"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4CmbVnAOEy8gT4zba5kMQd1nsYc",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLkg2cExYRW1BLTVJ",
+      "snippet": {
+        "publishedAt": "2026-08-06T12:30:23Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "塩﨑のすれ違いイングリッシュ『限界突破！やってM!LK』シーズン2🐮#MILK #やってMILK",
+        "description": "毎週木曜 深夜0時59分『限界突破！やってM!LK』シーズン2🍼\n👑M!LKの地上波冠番組👑\nいま乗りに乗るM!LKが、様々なチャレンジを通して自分たちの限界を突破しながら一流芸能人を目指す番組!!\n\nhttps://www.tbs.co.jp/yatte_milk/\nhttps://twitter.com/tbs_yattemilk\nhttps://www.instagram.com/tbs_yattemilk\nhttps://www.tiktok.com/@tbs_yattemilk\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/series/sr64ope7a7\nhttps://cu.tbs.co.jp/program/26073\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0159030\n\n◇出演者\nM!LK（佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人）\nミルミルくん（トミドコロ）\n\n#milk \n#佐野勇斗 \n#塩﨑太智\n#曽野舜太\n#山中柔太朗 \n#吉田仁人",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H6pLXEmA-5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H6pLXEmA-5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H6pLXEmA-5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H6pLXEmA-5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H6pLXEmA-5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H6pLXEmA-5I"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ngeaK6cwG5eIS7fh9EJ5ticEWdo",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLldERGFuUzNDYUVV",
+      "snippet": {
+        "publishedAt": "2026-08-06T12:30:11Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "【未公開】塩﨑太智 ナレ録り(アレンジver)『限界突破！やってM!LK』シーズン2🐮#MILK #やってMILK",
+        "description": "毎週木曜 深夜0時59分『限界突破！やってM!LK』シーズン2🍼\n👑M!LKの地上波冠番組👑\nいま乗りに乗るM!LKが、様々なチャレンジを通して自分たちの限界を突破しながら一流芸能人を目指す番組!!\n\nhttps://www.tbs.co.jp/yatte_milk/\nhttps://twitter.com/tbs_yattemilk\nhttps://www.instagram.com/tbs_yattemilk\nhttps://www.tiktok.com/@tbs_yattemilk\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/series/sr64ope7a7\nhttps://cu.tbs.co.jp/program/26073\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0159030\n\n◇出演者\nM!LK（佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人）\nミルミルくん（トミドコロ）\n\n#milk \n#佐野勇斗 \n#塩﨑太智\n#曽野舜太\n#山中柔太朗 \n#吉田仁人",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WDDanS3CaEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WDDanS3CaEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WDDanS3CaEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WDDanS3CaEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WDDanS3CaEU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WDDanS3CaEU"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AwzSSIheou5jxhFK-cd-q5RGE_o",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLlVfSlNNd0FkLS1B",
+      "snippet": {
+        "publishedAt": "2026-08-06T11:15:03Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "第4話より｢咲子と樹生と翔｣『#Ｔシャツが乾くまで』#蒼井優 #中島歩",
+        "description": "金曜ドラマ『Ｔシャツが乾くまで』主演・蒼井優\nhttps://www.tbs.co.jp/tshirt_ga_kawakumade_tbs/\nhttps://twitter.com/tshirts_tbs/\nhttps://www.instagram.com/tshirts_tbs/\nhttps://www.tiktok.com/@tshirts_tbs\n\n■出演者\n瀬尾咲子    …    蒼井 優\n園田樹生    …    中島 歩\n矢野直人    …    高橋文哉\n園田実樹    …    齋藤飛鳥\n荒木拓真    …    庄司浩平\n佐竹和明    …    飛永 翼（ラバーガール）\n園田　翔    …    久保田 薫\n○    \n園田あずさ    …    夏帆\n○    \n大井田千鶴    …    臼田あさ美\n宮内幸次    …    リリー・フランキー\n瀬尾　充    …    松山ケンイチ\n\n#Tシャツが乾くまで\n#蒼井優\n#中島歩\n#高橋文哉\n#夏帆\n#松山ケンイチ\n#リリーフランキー\n#臼田あさ美\n#久保田薫\n#齋藤飛鳥\n#庄司浩平\n#飛永翼\n#ラバーガール\n#TBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U_JSMwAd--A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U_JSMwAd--A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U_JSMwAd--A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U_JSMwAd--A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U_JSMwAd--A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U_JSMwAd--A"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EAF2--K32wWHbQthxV6ImREgjD8",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLlNIb0xZSDN0NTRF",
+      "snippet": {
+        "publishedAt": "2026-08-06T09:30:26Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "✂️4話切り抜き✂️はじめまして！チュチュチュエラ🩰ೀ『#君の好きは無敵』#松本若菜 #佐野勇斗",
+        "description": "火曜ドラマ『君の好きは無敵』毎週火曜よる10時\n主演・松本若菜 × 初共演・佐野勇斗\n\n趣味もなければ推しもいない\n“好き”がよくわからない元コンサルのキャリア女性と\n“かわいい”への愛は人一倍だが偏屈で変人な訳ありキャラクターデザイナー\nそんな2人が目指すのは最強にかわいいキャラクター作り！？\n目指せ、世界的大スターキャラクター！？\n\nキャラクタービジネス業界を舞台に「かわいい」と「好き」が溢れる\nポジティブ＆パワフルラブコメディ！\n\nhttps://www.tbs.co.jp/kiminosukihamuteki_tbs/ \nhttps://twitter.com/kiminosuki_tbs\nhttps://www.instagram.com/kiminosukihamuteki_tbs\nhttps://tiktok.com/@kiminosukihamuteki_tbs\n\n■出演者\n草壁 杏奈　　…　　松本若菜\n瀬尾 深月　　…　　佐野勇斗\n　\n佐々岡 鈴加　…　　小野花梨\n小板橋 麦　　…　　金田　哲（はんにゃ.）\n淵野辺 廉　　…　　中村隼人\n川崎 玲奈　　…　　白本彩奈\n　\n小南 紀子　　…　　島崎和歌子\n廣瀬 高章　　…　　藤井　隆\n\n迫田 勉　　　…　　髙嶋政伸\n\n大三島 匠　　…　　本郷奏多\n\n門戸 鞠子　　…　　白石加代子\n\n\n#君の好きは無敵\n#松本若菜\n#佐野勇斗\n#小野花梨\n#金田哲\n#中村隼人\n#白本彩奈\n#島崎和歌子\n#藤井隆\n#髙嶋政伸\n#本郷奏多\n#白石加代子\n#TBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SHoLYH3t54E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SHoLYH3t54E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SHoLYH3t54E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SHoLYH3t54E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SHoLYH3t54E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SHoLYH3t54E"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V801ditO0_pFggRJjVehCLo0UuA",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLmNiMG9QMHl6eXow",
+      "snippet": {
+        "publishedAt": "2026-08-06T09:10:24Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "火曜ドラマ「君の好きは無敵」前半SPダイジェスト【TBS】",
+        "description": "★TVerで最新話を無料配信!!\nhttps://tver.jp/series/sr78n2tsiv?utm_source=youtube&utm_medium=digest&utm_campaign=2026_7_summer_kiminosukihamuteki\n★U-NEXTで過去回を全話配信!!\nhttps://www.video.unext.jp/title/SID0310511?cid=D34232&adid=XXX&utm_source=tbs_official&utm_medium=official&utm_campaign=tbs_official&utm_content=SID0310511&rid=SID0310511\n\n趣味もなければ推しもいない\n“好き”がよくわからない元コンサルのキャリア女性と\n“かわいい”への愛は人一倍だが偏屈で変人な訳ありキャラクターデザイナー\nそんな2人が目指すのは最強にかわいいキャラクター作り！？\n目指せ、世界的大スターキャラクター！？\n\nキャラクタービジネス業界を舞台に「かわいい」と「好き」が溢れる\nポジティブ＆パワフルラブコメディ！\n\nhttps://www.tbs.co.jp/kiminosukihamuteki_tbs/ \nhttps://twitter.com/kiminosuki_tbs\nhttps://www.instagram.com/kiminosukihamuteki_tbs\nhttps://tiktok.com/@kiminosukihamuteki_tbs\n\n■出演者\n草壁 杏奈　　…　　松本若菜\n瀬尾 深月　　…　　佐野勇斗\n　\n佐々岡 鈴加　…　　小野花梨\n小板橋 麦　　…　　金田　哲（はんにゃ.）\n淵野辺 廉　　…　　中村隼人\n川崎 玲奈　　…　　白本彩奈\n　\n小南 紀子　　…　　島崎和歌子\n廣瀬 高章　　…　　藤井　隆\n\n迫田 勉　　　…　　髙嶋政伸\n\n大三島 匠　　…　　本郷奏多\n\n門戸 鞠子　　…　　白石加代子\n\n\n#君の好きは無敵\n#松本若菜\n#佐野勇斗\n#小野花梨\n#金田哲\n#中村隼人\n#白本彩奈\n#島崎和歌子\n#藤井隆\n#髙嶋政伸\n#本郷奏多\n#白石加代子\n#TBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cb0oP0yzyz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cb0oP0yzyz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cb0oP0yzyz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cb0oP0yzyz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cb0oP0yzyz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cb0oP0yzyz0"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fDob5smWi6RNbuAglqCFOgLzz8k",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLmJGQXhzNGNRRThn",
+      "snippet": {
+        "publishedAt": "2026-08-06T09:00:06Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "SixTONES森本＆あばれる君＆照英が世界で自由研究!『世界くらべてみたら』8/12(土)【TBS】",
+        "description": "▼はらぺこツインズ世界デカ盛りツアーinシカゴ\nはらぺこツインズがマクドナルド本社に潜入！\n本社でしか食べられない世界の人気バーガー＆サイド総重量７キロを爆食！\n\n▼夏休み特別企画！世界で自由研究スペシャル\nインドネシア・マダガスカル・ブラジルで本気の自由研究！\n川や海でスルメを餌に何が釣れる？ブラジル黄金の魚？マダガスカルではシーラカンス？\nさらに世界のジャングルで超激レア動物に奇跡の遭遇！\nジャガー・カメレオン・オランウータン・コモドドラゴン…貴重動物たちが続出！\nNintendo Switch 2当たるクイズも！\n\nhttps://www.tbs.co.jp/sekakura/\nhttps://twitter.com/sekakura\nhttps://www.instagram.com/sekakura_tbs/\nhttps://www.youtube.com/channel/UCAyMJ_TPe0d-XVbKVIWeWpA/\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/lp/f0085400\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0088785\n\n■番組概要\n世界の様々な国や地域で、同じ質問をしたらどんな違いが出るのか？\n日本と世界をちょっとだけくらべてみようという番組！\n海外の「常識」や「価値観」、そして日本の「世界での立ち位置」を 巷にあふれる“日本賛美”番組とは一線を画し、フラットな目線でお届けします！！\n\n■出演\n【MC】上白石萌音\n【SPゲスト】賀来賢人\n【ゲスト】千原ジュニア/山崎弘也/ギャル曽根/ジェシー（SixTONES）/ジャンボたかお（レインボー）/ゆうちゃみ\n【ロケゲスト】森本慎太郎（SixTONES）/あばれる君/照英\n\n#世界くらべてみたら 　#せかくら　#TBS　#上白石萌音　#ジェシー",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bFAxs4cQE8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bFAxs4cQE8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bFAxs4cQE8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bFAxs4cQE8g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bFAxs4cQE8g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bFAxs4cQE8g"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QwJ60V2i6e-gAxSzp5-rwdCL0r4",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLnZvQWhXeG1TMHhR",
+      "snippet": {
+        "publishedAt": "2026-08-06T07:22:44Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "カレー､演劇､古着の街! 今さら下北沢!『今さらシロー！』8/8(土)【TBS】",
+        "description": "8月8日(土)午後2時『今さらシロー！〜テストに出ないが役に立つ〜』\n\n岡田准一×ロバート秋山×ブレイク俳優・中島歩\n下北沢はなぜカレー・演劇・古着の街になったの？カルチャーの街の変化を学ぶ！\n\n▼下北沢最古のカレー店の歴史から、進化系人気カレー店まで！芸能界きってのカレーマニア・ホフディラン小宮山に学ぶ\n▼下北沢演劇の父・本多劇場創業者に学ぶ！下北沢が演劇の街になるまで…岡田×秋山×中島歩の即興演劇も！？\n▼下北沢ゴールドラッシュ！？古着店は本当に儲かっているの？\n\n岡田准一×秋山竜次が再タッグで大暴れ!?\nテストには出ないが、人生の役に立つ情報を\n仲良し2人が全力で体験し学ぶバラエティ!\n\nhttps://www.tbs.co.jp/imasarashirou_tbs/\nhttps://twitter.com/imasarashirou\nhttps://www.instagram.com/imasarashirou\n\n★TVer・TBS FREEで無料見逃し配信 \nhttps://tver.jp/series/srsuwz8kj6\nhttps://cu.tbs.co.jp/program/27024\n★U-NEXTで過去回を全話配信 \nhttps://www.video.unext.jp/title/SID0240845\n\n■番組内容\nこの番組は、岡田准一&秋山竜次(ロバート)の仲良し 2 人が、テストには出ないけど人生の役に立つ情報を、時にはボケながら、時には真面目に、全力で体験しながら学ぶバラエティ。\n\n【出演者】\n▼MC\n岡田准一\n秋山竜次（ロバート）\n\n▼ゲスト\n中島歩\n小宮山雄飛（ホフディラン）\n\n▼進行\n朝日奈央\n\n#今さらシロー #岡田准一 #秋山竜次 #TBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/voAhWxmS0xQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/voAhWxmS0xQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/voAhWxmS0xQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/voAhWxmS0xQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/voAhWxmS0xQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "voAhWxmS0xQ"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AmuwLP5BDRPY_GomHP1A1lzEMLA",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLlVpa0Rpcy1QMlFJ",
+      "snippet": {
+        "publishedAt": "2026-08-06T07:00:16Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "髙嶋政宏とハシヤスメ･アツコに気になるお金の疑問を聞いてみた!『いくらかわかる金？』8/8(土)【TBS】",
+        "description": "世の中の気になるお金事情を調査！結果をクイズ形式で出題！\n\n★「旅の中からクイズを出題！しっかり覚えてお土産代をいくら残せる？」\n番組MCハライチ澤部＆大和田伸也＆たんぽぽ川村エミコが鎌倉の人気の飲食店２軒＆食べ歩きストリート「小町通り」を満喫！\nそれぞれの場所の最後に、ロケで学んだ情報からクイズを出題！\n間違えると最後に使えるお土産代がマイナスに！\n果たしていくら残せる？\n\n★「寝たらプレゼント代減額！杉山アナは極上リラクゼーションに耐え視聴者プレゼント代いくら残せる？」\n夏の人気避暑地・軽井沢の極上リラクゼーション施設で番組MC杉山アナが、日本一のマッサージ師が施すヘッドスパ＆魔法の棒を使った至福のボディマッサージを体験！\nさらに、「すき焼き用信州牛」を視聴者の皆様にプレゼント！\nしかし…杉山アナが寝てしまうとその時間分プレゼント代が減額に！\n\n「髙嶋政宏チーム」 と 「森崎博之チーム」の白熱予想合戦を「ハライチ澤部＆杉山アナ」が仕切る！\n\nhttps://www.tbs.co.jp/wakarukane_tbs/\nhttps://twitter.com/wakarukane_tbs\nhttps://www.tiktok.com/@wakarukane_tbs/\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/series/sryix5gjic\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0102560\n\n◇出演者\n★MC：澤部佑（ハライチ）、杉山真也（TBSアナウンサー）\n\n★スタジオゲスト\n髙嶋政宏\n大沢あかね\n松田好花\n吉村崇（平成ノブシコブシ）\n森崎博之\nハシヤスメ・アツコ\n浮所飛貴（ACEes）\n高橋茂雄（サバンナ）\n\n★ロケゲスト\n大和田伸也\n川村エミコ（たんぽぽ）\n澤部佑\n若林有子（TBSアナウンサー）\n\n杉山真也\nロングサイズ伊藤（や団）\n\n#松田好花\n#浮所飛貴\n#ACEes\n#いくらかわかる金 #TBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UikDis-P2QI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UikDis-P2QI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UikDis-P2QI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UikDis-P2QI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UikDis-P2QI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 50,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UikDis-P2QI"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P7P6BbVTfiNairu0YV682lhkSHY",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLi1CODZQa2tSdkV3",
+      "snippet": {
+        "publishedAt": "2026-08-06T04:00:07Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "#降幡愛 ≠ME #櫻井もも 収録後SPコメント!! 8/7(金)『#ハマダ歌謡祭』【TBS】",
+        "description": "サザン・TUBE・あいみょん・aiko…夏の人気66曲で激突\n▼ISSAが持ち歌「ごきげんだぜっ！」＆名曲「アンマー」熱唱\n▼タモリものまねジョニー志村が湘南乃風「純恋歌」で超美声披露\n▼沖縄の先輩後輩MAX・MINA＆知念里奈がSPEEDコラボ\n▼SOPHIA松岡充がモンパチ！ジェシーが「海の声」挑戦\n▼RAMPAGE神谷が「真夏の果実」！MINMIが「お祭りマンボ」熱唱\n▼浜田の「学園天国」でスタジオ熱狂\n\nダブルミリオン歌手のダウンタウン浜田がおくる！家族で楽しめる新・歌謡曲バラエティ番組！\n番組から生まれる、新世代・歌うまニュースターにも大注目！\n\nhttps://www.tbs.co.jp/ookami_tbs/\nhttps://twitter.com/ookami_tbs\nhttps://www.instagram.com/ookami_tbs/\nhttps://www.tiktok.com/@ookamishonen_tbs\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/lp/f0085440\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0088777\n\n【ＭＣ】\n浜田雅功\n\n【アーティスト軍団】\nTHE RAMPAGE・神谷健太\nジョニー志村\nDA PUMP・ISSA\nDA PUMP・U-YEAH\n知念里奈\n≠ME・櫻井もも\nMAX・MINA\nMINMI\n龍玄とし（Toshl）\n\n【ハマダ歌謡祭軍団】\n狩野英孝\nK\nSixTONES・ジェシー\nSixTONES・田中樹\nSOPHIA・松岡充\nDream Ami\nハリセンボン・近藤春菜\n降幡愛\nBON. 井上\n\n【進行】\nTBSアナウンサー・日比麻音子",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-B86PkkRvEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-B86PkkRvEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-B86PkkRvEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-B86PkkRvEw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-B86PkkRvEw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 51,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-B86PkkRvEw"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SvUOMUj2waCZDBXw80pRdZ2pZjk",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLmpuelczbXRJYV9z",
+      "snippet": {
+        "publishedAt": "2026-08-06T03:28:37Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "君もあの“鬼”と戦おう! 『チャンバラ合戦THE鬼タイジ』開催決定!! 【TBS】",
+        "description": "8月8日放送の究極シューティングサバイバル『THE鬼タイジ』の世界が味わえる！ 特別コラボイベント「チャンバラ合戦 THE 鬼タイジ」開催決定！！\nスポンジ製の刀を手に仲間と協力して、番組に出てくる鬼たちと戦おう！\n子どもも大人も、家族みんなで参加できる体験型イベントです！\nこの夏は、ぜひ会場で\"鬼タイジ\"の世界を体感してください！\n\n※大人だけでのご参加はお控えください\n\n◆開催日：2026年8月29日（土）\n◆会場：IKUSA ARENA（東京都練馬区錦２丁目１９−１ 練馬トーホープラザビル 5階）\n\n◆詳細は、特設HPをご確認ください。\nhttps://www.tbs.co.jp/chanbara_onitaiji/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnzW3mtIa_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnzW3mtIa_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnzW3mtIa_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jnzW3mtIa_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jnzW3mtIa_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jnzW3mtIa_s"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y1EAN7DGyLsVUm8lP-U8iP8E_w8",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLmZTM1Y2bEdXME1R",
+      "snippet": {
+        "publishedAt": "2026-08-06T03:00:05Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "芸能人のプライベート大調査SP! 新コーナーでゲストのイメージを酔っ払いに聞いてみた!?『サンド屋台』8/13(木)よる10時放送【TBS】",
+        "description": "今回は、菜々緒、宮澤エマが番組初登場！\nさらに、いま話題沸騰中の歌謡グループ・モナキのメンバーのおヨネが参戦！\nさらに劇団ひとり、吉村崇（平成ノブシコブシ）、浮所飛貴（ACEes）といった豪華ゲストが大集合してお届けする。\n 新コーナー「酔っ払いに聞きました！屋台リサーチ」は、世間が思うゲストのイメージを、忖度なしにリアルな意見を聞くため“あえて”酔っ払いにインタビューしランキング形式で発表！\nただ、実際はどうなのか？をスタジオで自らがぶっちゃける！\nイメージとは違う、意外過ぎる菜々緒のプライベートに、スタジオは大盛り上がり！ \n\nhttps://www.tbs.co.jp/sandyatai/\n\n☆リアルタイム＆見逃し配信\nhttps://tver.jp/series/sr9e45r6e1\n☆これまでの配信はこちら\nhttps://www.video.unext.jp/title/SID0097605\n\n◇ＭＣ\nサンドウィッチマン（伊達みきお、富澤たけし）\n\n◇ゲスト（※５０音順） \n浮所飛貴（ACEes）\nおヨネ（モナキ） \n劇団ひとり \n菜々緒 \n宮澤エマ \n吉村崇（平成ノブシコブシ） \n\n◇ゲームブロック進行  \nたける（東京ホテイソン）",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fS3V6lGW0MQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fS3V6lGW0MQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fS3V6lGW0MQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fS3V6lGW0MQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fS3V6lGW0MQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 53,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fS3V6lGW0MQ"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j362Ne2biSrRv54LW4yBpiFFlhM",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLm5ZbGloZlNweVRj",
+      "snippet": {
+        "publishedAt": "2026-08-06T01:45:55Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "SixTONES髙地優吾のラーメン企画に新展開!?『ドア×ドア クエスト』8/7(金)【TBS】",
+        "description": "▼【国民的お菓子なに作ってる？徹底調査】　今回は、猛暑がつづく今食べたい“アイス”編\n(1)1981年発売　2つの食感が楽しめる和風アイスとは？\n(2)1981年発売　シャリシャリ食感が特徴のアイスとは？\n(3)1974年発売　夏に大人気！シェアできるアイスとは\n(4)1996年発売　3種類の味で家族に大人気のアイスとは？\n\nhttps://www.tbs.co.jp/program/doordoor_quest/\nhttps://twitter.com/doordoor_tbs\n\n★TVer・TBS FREEで最新回を無料配信!!\nhttps://tver.jp/series/sr1upy34e1\nhttps://cu.tbs.co.jp/program/25743\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0159029\n\n【出演者】\n【スタジオゲスト】　\n小峠英二（バイきんぐ）\n近藤春菜（ハリセンボン）\n小手伸也\n菜々緒\n山崎弘也（アンタッチャブル）\n田村真子（TBSアナウンサー）\n\n【なに作っているクイズ】\nあかつ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nYlihfSpyTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nYlihfSpyTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nYlihfSpyTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nYlihfSpyTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nYlihfSpyTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 54,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nYlihfSpyTc"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lt9WvdjDM_bAr6lSVf3z6Y-W-K8",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLlJyMU9kaXo0Yl93",
+      "snippet": {
+        "publishedAt": "2026-07-31T03:24:49Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "朝から常連さんが足繁く通うお店の極上朝ごはんをお届け！『早起きせっかくグルメ』8/2(日)朝6時【TBS】",
+        "description": "🍚日曜の朝からせっかくグルメを見て腹ペコになろう！最高の朝ごはんをアシストします！\n\nhttp://www.tbs.co.jp/sekkaku-h/\nhttps://twitter.com/sekkaku_tbs\nhttps://www.instagram.com/sekkaku_gurume/\n\n☆副音声ではスタジオのバナナマンさん&ゲストのトークをより楽しむことができます\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/series/sr9x22wtdy\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0088702\n\n■出演  \n◇MC\nバナナマン（設楽統・日村勇紀）\n    \n#せっかくグルメ #バナナマン #TBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rr1Odiz4b_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rr1Odiz4b_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rr1Odiz4b_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rr1Odiz4b_w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rr1Odiz4b_w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 112,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rr1Odiz4b_w"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yz19Shrw4_enxUKASRJXQ10tguQ",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLkpfOUZzVDNKMktR",
+      "snippet": {
+        "publishedAt": "2026-07-31T03:13:57Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "第3話より｢樹生とあずさ｣『#Ｔシャツが乾くまで』#中島歩 #夏帆",
+        "description": "金曜ドラマ『Ｔシャツが乾くまで』主演・蒼井優\nhttps://www.tbs.co.jp/tshirt_ga_kawakumade_tbs/\nhttps://twitter.com/tshirts_tbs/\nhttps://www.instagram.com/tshirts_tbs/\nhttps://www.tiktok.com/@tshirts_tbs\n\n■出演者\n瀬尾咲子    …    蒼井 優\n園田樹生    …    中島 歩\n矢野直人    …    高橋文哉\n園田実樹    …    齋藤飛鳥\n荒木拓真    …    庄司浩平\n佐竹和明    …    飛永 翼（ラバーガール）\n園田　翔    …    久保田 薫\n○    \n園田あずさ    …    夏帆\n○    \n大井田千鶴    …    臼田あさ美\n宮内幸次    …    リリー・フランキー\n瀬尾　充    …    松山ケンイチ\n\n#Tシャツが乾くまで\n#蒼井優\n#中島歩\n#高橋文哉\n#夏帆\n#松山ケンイチ\n#リリーフランキー\n#臼田あさ美\n#久保田薫\n#齋藤飛鳥\n#庄司浩平\n#飛永翼\n#ラバーガール\n#TBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J_9FsT3J2KQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J_9FsT3J2KQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J_9FsT3J2KQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J_9FsT3J2KQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J_9FsT3J2KQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 113,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J_9FsT3J2KQ"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sRqPir3z70TY0VU32RP3Kfgn_aE",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLmgxam8yYUNnSFBr",
+      "snippet": {
+        "publishedAt": "2026-07-31T03:02:21Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "『ウンナンの気分は上々。夏』8/1(土) 15年ぶりシンチャンナンチャンの旅に京本大我が初参戦!【TBS】",
+        "description": "◆15年ぶり！シンチャンナンチャンの旅\n新たな仲間にSixTONES・京本大我が参戦！３人は熱海・伊豆を舞台に、柳沢慎吾プロデュース「昭和のアイドル＆名曲 大満喫ツアー」へ！\nラジカセで昭和名曲を大熱唱！いたるところで急に『ザ・ベストテン』中継!?\nそして、夜は悪魔となって全員を寝かせない慎吾…南原と大我は振り回されながらも上々に楽しむ！\n\n◆２ショットトーク！\n名物、ウンナン２人だけのトークは必見！\n\nhttps://www.tbs.co.jp/onair/jyojyosp/\nhttps://x.com/jyojyosp\n\n【MC】\nウッチャンナンチャン（内村光良・南原清隆）\n\n【スタジオゲスト】〈五十音順〉\n有田哲平（くりぃむしちゅー）\n柳沢慎吾\nYOU\n\n【ロケゲスト】\n京本大我（SixTONES）\n\n#内村光良 #南原清隆 #京本大我",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h1jo2aCgHPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h1jo2aCgHPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h1jo2aCgHPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h1jo2aCgHPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h1jo2aCgHPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 114,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h1jo2aCgHPk"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EUEZOBs2r4vMVMDERTwivaeED1Y",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLmRneDZ2QUU2WHpZ",
+      "snippet": {
+        "publishedAt": "2026-07-31T02:35:22Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "M!LKの画力が爆発!?🎨絵だけでAIにお題を伝えろ!🐮『限界突破！やってM!LK』8/6(木)【TBS】",
+        "description": "毎週木曜 深夜0時59分『限界突破！やってM!LK』シーズン2🍼\n※番組の内容と放送時間は変更になる場合があります。\n👑M!LKの地上波冠番組👑\n昨年11月に結成10周年を迎え、いま乗りに乗るM!LKが、様々なチャレンジを通して自分たちの限界を突破しながら一流芸能人を目指す番組!!\n\nhttps://www.tbs.co.jp/yatte_milk/\nhttps://twitter.com/tbs_yattemilk\nhttps://www.instagram.com/tbs_yattemilk\nhttps://www.tiktok.com/@tbs_yattemilk\n\n★TVerで最新回を無料配信!!\nhttps://tver.jp/series/sr64ope7a7\nhttps://cu.tbs.co.jp/program/26073\n★U-NEXTで過去回配信中!!\nhttps://www.video.unext.jp/title/SID0159030\n\n◇出演者\nM!LK（佐野勇斗、塩﨑太智、曽野舜太、山中柔太朗、吉田仁人）\nミルミルくん（トミドコロ）\n\n#milk \n#佐野勇斗 \n#塩﨑太智\n#曽野舜太\n#山中柔太朗 \n#吉田仁人",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dgx6vAE6XzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dgx6vAE6XzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dgx6vAE6XzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dgx6vAE6XzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dgx6vAE6XzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 115,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dgx6vAE6XzY"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Cz9C-uckXToFNFjuiBGYIGUj7EU",
+      "id": "VVV4cElvNkZGQjdnTVF6MkZ5Mlg4WGRRLkMyUldpdGVFVEZV",
+      "snippet": {
+        "publishedAt": "2026-07-30T21:00:12Z",
+        "channelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
+        "title": "新10月期金曜ドラマ『LOST10』主演・横浜流星！すべてを疑え――完全オリジナルのヒューマンサスペンス・エンタテインメント！【TBS】",
+        "description": "10月スタート 金曜ドラマ『LOST10』（読み：ロストテン）\n横浜流星が大河ドラマ以来の民放ドラマ出演!\n待望のGP帯連続ドラマ初の単独主演!\n\n主演･横浜流星 × 脚本･奥寺佐渡子 × 監督･塚原あゆ子\n\n映画「国宝」の奥寺佐渡子と再タッグ!\n\n“すべてを疑え”\n『Nのために』『最愛』の制作陣が贈る完全オリジナルのヒューマンサスペンス・エンタテインメント!\n\nhttps://www.tbs.co.jp/lost10/\nhttps://twitter.com/lost10_tbs\nhttps://www.instagram.com/lost10_tbs/\nhttps://www.tiktok.com/@lost10_tbs\n\n【出演者】\n小駒　　　…    横浜流星\n\n#TBS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C2RWiteETFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C2RWiteETFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C2RWiteETFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C2RWiteETFU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C2RWiteETFU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TBS公式 YouTuboo",
+        "playlistId": "UUxpIo6FFB7gMQz2Fy2X8XdQ",
+        "position": 116,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C2RWiteETFU"
+        },
+        "videoOwnerChannelTitle": "TBS公式 YouTuboo",
+        "videoOwnerChannelId": "UCxpIo6FFB7gMQz2Fy2X8XdQ"
+      }
+    },
+    {
+      "id": "0mWv_O3--oQ",
+      "title": "✂️#千鳥 と#おヨネ(#モナキ)の初共演🤣『トーキング千鳥！』",
+      "description": "",
+      "publishedAt": "2026-08-10T11:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0mWv_O3--oQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0mWv_O3--oQ"
+    },
+    {
+      "id": "bnBPsgPrn7A",
+      "title": "✂️#吉村崇 が#千鳥 ノブに聞きたいこと🙋『トーキング千鳥！』",
+      "description": "",
+      "publishedAt": "2026-08-10T11:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bnBPsgPrn7A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bnBPsgPrn7A"
+    },
+    {
+      "id": "SanJ_ldOx_o",
+      "title": "✂️4話切り抜き✂️救世主 廣瀬さん😍『#君の好きは無敵』#松本若菜 #佐野勇斗 #藤井隆",
+      "description": "",
+      "publishedAt": "2026-08-10T10:30:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SanJ_ldOx_o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SanJ_ldOx_o"
+    },
+    {
+      "id": "NkFsVGQtpTY",
+      "title": "✂️4話切り抜き✂️やっぱり素直になれない瀬尾くん…？🤭『#君の好きは無敵』#松本若菜 #佐野勇斗",
+      "description": "",
+      "publishedAt": "2026-08-10T10:30:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NkFsVGQtpTY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NkFsVGQtpTY"
+    },
+    {
+      "id": "UHClhIvbJh0",
+      "title": "『週刊さんまとマツコ』お金だけじゃない!? 土地とマンションまで譲渡!? 亀田興毅が実体験を激白! 8/16(日)ひる1時OA【TBS】",
+      "description": "",
+      "publishedAt": "2026-08-10T09:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UHClhIvbJh0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UHClhIvbJh0"
+    },
+    {
+      "id": "1oy0xo0MKBw",
+      "title": "石田ゆり子×林★｢逃げ恥｣恋ダンス披露! 恩人･緒形拳の想いに涙『日曜日の初耳学』8/16(日)【TBS】",
+      "description": "",
+      "publishedAt": "2026-08-10T03:40:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1oy0xo0MKBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1oy0xo0MKBw"
+    },
+    {
+      "id": "rxaynT5AZL8",
+      "title": "八村倫太郎率いるWATWINGとクイズ対決★1年前のリベンジ合戦『よるのブランチ』8/12(水)【TBS】",
+      "description": "",
+      "publishedAt": "2026-08-10T02:13:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rxaynT5AZL8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rxaynT5AZL8"
+    },
+    {
+      "id": "MmBnYahYC0k",
+      "title": "ユニバーサル･スタジオ･ジャパンSP! 津田健次郎が緊急参戦!?『モニタリング』8/13(木)【TBS】",
+      "description": "",
+      "publishedAt": "2026-08-10T01:20:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MmBnYahYC0k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MmBnYahYC0k"
+    },
     {
       "id": "i8sY0JcnF9o",
       "title": "8/16(日)よる9時！日曜劇場『#VIVANT』第14話",
@@ -43802,6 +44886,132 @@
       "title": "『ケイバのスターたち』#1［アイルランドトロフィー・GⅡ］【毎週木曜よる10時57分＠TBSテレビ】",
       "thumbnail": "https://i.ytimg.com/vi/erNAFuioPOw/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=erNAFuioPOw"
+    },
+    {
+      "id": "MdwYJo56FEI",
+      "title": "絶滅動物ジャーナリスト #太田ゆか ! 希少生物の密売現場に迫る!『#クレイジージャーニー』8/24(月)",
+      "thumbnail": "https://i.ytimg.com/vi/MdwYJo56FEI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MdwYJo56FEI"
+    },
+    {
+      "id": "oAq0Ly3BS5k",
+      "title": "絶滅動物ジャーナリスト 太田ゆか! 希少生物の密売現場に迫る!『クレイジージャーニー』8/24(月)【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/oAq0Ly3BS5k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oAq0Ly3BS5k"
+    },
+    {
+      "id": "xOBI62ZyxRY",
+      "title": "プレッシャーで自我崩壊!?😱夏祭りでワンカットMVチャレンジ!🐮『限界突破！やってM!LK』8/13(木)【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/xOBI62ZyxRY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xOBI62ZyxRY"
+    },
+    {
+      "id": "_2TmIHnB89k",
+      "title": "金曜ドラマ『Ｔシャツが乾くまで』×スピッツ ｢見知らぬ糸｣ SPコラボムービー【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/_2TmIHnB89k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_2TmIHnB89k"
+    },
+    {
+      "id": "H6pLXEmA-5I",
+      "title": "塩﨑のすれ違いイングリッシュ『限界突破！やってM!LK』シーズン2🐮#MILK #やってMILK",
+      "thumbnail": "https://i.ytimg.com/vi/H6pLXEmA-5I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=H6pLXEmA-5I"
+    },
+    {
+      "id": "WDDanS3CaEU",
+      "title": "【未公開】塩﨑太智 ナレ録り(アレンジver)『限界突破！やってM!LK』シーズン2🐮#MILK #やってMILK",
+      "thumbnail": "https://i.ytimg.com/vi/WDDanS3CaEU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WDDanS3CaEU"
+    },
+    {
+      "id": "U_JSMwAd--A",
+      "title": "第4話より｢咲子と樹生と翔｣『#Ｔシャツが乾くまで』#蒼井優 #中島歩",
+      "thumbnail": "https://i.ytimg.com/vi/U_JSMwAd--A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=U_JSMwAd--A"
+    },
+    {
+      "id": "SHoLYH3t54E",
+      "title": "✂️4話切り抜き✂️はじめまして！チュチュチュエラ🩰ೀ『#君の好きは無敵』#松本若菜 #佐野勇斗",
+      "thumbnail": "https://i.ytimg.com/vi/SHoLYH3t54E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SHoLYH3t54E"
+    },
+    {
+      "id": "cb0oP0yzyz0",
+      "title": "火曜ドラマ「君の好きは無敵」前半SPダイジェスト【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/cb0oP0yzyz0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cb0oP0yzyz0"
+    },
+    {
+      "id": "bFAxs4cQE8g",
+      "title": "SixTONES森本＆あばれる君＆照英が世界で自由研究!『世界くらべてみたら』8/12(土)【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/bFAxs4cQE8g/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bFAxs4cQE8g"
+    },
+    {
+      "id": "voAhWxmS0xQ",
+      "title": "カレー､演劇､古着の街! 今さら下北沢!『今さらシロー！』8/8(土)【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/voAhWxmS0xQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=voAhWxmS0xQ"
+    },
+    {
+      "id": "UikDis-P2QI",
+      "title": "髙嶋政宏とハシヤスメ･アツコに気になるお金の疑問を聞いてみた!『いくらかわかる金？』8/8(土)【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/UikDis-P2QI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UikDis-P2QI"
+    },
+    {
+      "id": "-B86PkkRvEw",
+      "title": "#降幡愛 ≠ME #櫻井もも 収録後SPコメント!! 8/7(金)『#ハマダ歌謡祭』【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/-B86PkkRvEw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-B86PkkRvEw"
+    },
+    {
+      "id": "jnzW3mtIa_s",
+      "title": "君もあの“鬼”と戦おう! 『チャンバラ合戦THE鬼タイジ』開催決定!! 【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/jnzW3mtIa_s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jnzW3mtIa_s"
+    },
+    {
+      "id": "fS3V6lGW0MQ",
+      "title": "芸能人のプライベート大調査SP! 新コーナーでゲストのイメージを酔っ払いに聞いてみた!?『サンド屋台』8/13(木)よる10時放送【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/fS3V6lGW0MQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fS3V6lGW0MQ"
+    },
+    {
+      "id": "nYlihfSpyTc",
+      "title": "SixTONES髙地優吾のラーメン企画に新展開!?『ドア×ドア クエスト』8/7(金)【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/nYlihfSpyTc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nYlihfSpyTc"
+    },
+    {
+      "id": "Rr1Odiz4b_w",
+      "title": "朝から常連さんが足繁く通うお店の極上朝ごはんをお届け！『早起きせっかくグルメ』8/2(日)朝6時【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/Rr1Odiz4b_w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Rr1Odiz4b_w"
+    },
+    {
+      "id": "J_9FsT3J2KQ",
+      "title": "第3話より｢樹生とあずさ｣『#Ｔシャツが乾くまで』#中島歩 #夏帆",
+      "thumbnail": "https://i.ytimg.com/vi/J_9FsT3J2KQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=J_9FsT3J2KQ"
+    },
+    {
+      "id": "h1jo2aCgHPk",
+      "title": "『ウンナンの気分は上々。夏』8/1(土) 15年ぶりシンチャンナンチャンの旅に京本大我が初参戦!【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/h1jo2aCgHPk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=h1jo2aCgHPk"
+    },
+    {
+      "id": "dgx6vAE6XzY",
+      "title": "M!LKの画力が爆発!?🎨絵だけでAIにお題を伝えろ!🐮『限界突破！やってM!LK』8/6(木)【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/dgx6vAE6XzY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dgx6vAE6XzY"
+    },
+    {
+      "id": "C2RWiteETFU",
+      "title": "新10月期金曜ドラマ『LOST10』主演・横浜流星！すべてを疑え――完全オリジナルのヒューマンサスペンス・エンタテインメント！【TBS】",
+      "thumbnail": "https://i.ytimg.com/vi/C2RWiteETFU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=C2RWiteETFU"
     }
   ]
 }

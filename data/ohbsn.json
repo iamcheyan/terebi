@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-08-07T15:58:32.715623",
+  "updated_at": "2026-08-10T16:02:56.328245",
   "videos": [
+    {
+      "id": "0D-5iGl20zs",
+      "title": "#79  NGT48大塚七海さんとALB48トーク",
+      "description": "",
+      "publishedAt": "2026-08-10T03:08:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0D-5iGl20zs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0D-5iGl20zs"
+    },
+    {
+      "id": "W86q7UsPWTg",
+      "title": "「そらなび」SLばんえつ物語（新津駅～会津若松駅） 2026年8月8日放送回",
+      "description": "",
+      "publishedAt": "2026-08-10T02:36:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W86q7UsPWTg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W86q7UsPWTg"
+    },
     {
       "id": "DW_-zEqHYJQ",
       "title": "08/07 #31 災害と報道を考える",

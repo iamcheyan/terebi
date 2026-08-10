@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-08-05T16:44:03.435237",
+  "updated_at": "2026-08-10T16:02:02.780365",
   "videos": [
+    {
+      "id": "OdVlY221mzI",
+      "title": "日本まんなか直送便 奈良テレビ放送「美しき監獄！今話題の奈良監獄ミュージアム by 星野リゾート」",
+      "description": "",
+      "publishedAt": "2026-08-10T09:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OdVlY221mzI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OdVlY221mzI"
+    },
     {
       "id": "-IGGPKguju8",
       "title": "【7月31日（金）放送】いきいきまちだより（奈良テレビ「ゆうドキッ！」内コーナー）",

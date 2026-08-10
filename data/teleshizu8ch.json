@@ -1,8 +1,44 @@
 {
   "channel_id": "UCqHczYty3emqunOz4dZFFqw",
   "channel_name": "テレビ静岡（テレしず）",
-  "updated_at": "2026-08-08T15:32:00.148862",
+  "updated_at": "2026-08-10T16:02:36.272383",
   "videos": [
+    {
+      "id": "tfBGysf6t7s",
+      "title": "【＃サカろう】第101回「木崎＆ミムラが語る森保一監督の功績」",
+      "description": "",
+      "publishedAt": "2026-08-10T16:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tfBGysf6t7s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tfBGysf6t7s"
+    },
+    {
+      "id": "AOsj0sJ1MPw",
+      "title": "～水の音をきく～",
+      "description": "",
+      "publishedAt": "2026-08-10T06:17:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AOsj0sJ1MPw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AOsj0sJ1MPw"
+    },
+    {
+      "id": "B869uPoRzP4",
+      "title": "～灯りを祈る～",
+      "description": "",
+      "publishedAt": "2026-08-10T06:17:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B869uPoRzP4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B869uPoRzP4"
+    },
     {
       "id": "H-xUo-3rFSc",
       "title": "【おしえて！ひとみ先生】第5回「どうぶつたちを生中継せよ！」",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-08-07T15:58:52.679311",
+  "updated_at": "2026-08-10T16:03:21.298745",
   "videos": [
+    {
+      "id": "gMRjrZPF8Ds",
+      "title": "【明日への一歩】いわき商業情報高校　美術部",
+      "description": "",
+      "publishedAt": "2026-08-10T01:56:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gMRjrZPF8Ds/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gMRjrZPF8Ds"
+    },
     {
       "id": "xI0Zd71ymXs",
       "title": "【ふくしまSHOW】『いわき市小名浜』大特集！",

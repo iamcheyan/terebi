@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-08-08T15:31:57.506217",
+  "updated_at": "2026-08-10T16:02:19.053435",
   "videos": [
+    {
+      "id": "MJIr9JcSHRY",
+      "title": "8月8日はだだちゃ豆の日！ガクットが収穫体験",
+      "description": "",
+      "publishedAt": "2026-08-10T06:01:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MJIr9JcSHRY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MJIr9JcSHRY"
+    },
     {
       "id": "rjrHPfWfKcU",
       "title": "第2841回 松くい虫被害の林を行く 前編「提言の広場」",
