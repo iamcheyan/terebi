@@ -1,9 +1,56 @@
 {
   "channel_id": "UCxpIo6FFB7gMQz2Fy2X8XdQ",
   "channel_name": "TBS公式 YouTuboo",
-  "original_name": "TBS公式 YouTuboo",
-  "updated_at": "2026-08-10T16:05:37.913375",
+  "updated_at": "2026-08-11T16:03:07.407374",
   "videos": [
+    {
+      "id": "XErSedVfbeU",
+      "title": "【第6話SPOT】『君の好きは無敵』8/18(火)放送！",
+      "description": "",
+      "publishedAt": "2026-08-11T14:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XErSedVfbeU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XErSedVfbeU"
+    },
+    {
+      "id": "fgdmn6zF0YE",
+      "title": "【第6話SPOT】『君の好きは無敵』8/18(火)放送！【TBS】",
+      "description": "",
+      "publishedAt": "2026-08-11T13:55:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fgdmn6zF0YE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fgdmn6zF0YE"
+    },
+    {
+      "id": "Y3MkCxX_CUw",
+      "title": "『マツコの知らない世界』植草マジックで大変身! 婚活シリーズ第3弾 婚活女性の世界! 8/18(火)【TBS】",
+      "description": "",
+      "publishedAt": "2026-08-11T13:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y3MkCxX_CUw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y3MkCxX_CUw"
+    },
+    {
+      "id": "y4xJC2DWTMo",
+      "title": "『トーキング千鳥！』8/12(水) 千鳥と話題の有名人10名が集結! 東京ライフを救う㊙アイテムとは!?【TBS】",
+      "description": "",
+      "publishedAt": "2026-08-11T09:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y4xJC2DWTMo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y4xJC2DWTMo"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "eCimR775-3kafMC_tbdV-01poQg",

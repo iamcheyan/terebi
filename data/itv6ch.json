@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-08-10T16:03:28.680974",
+  "updated_at": "2026-08-11T16:03:14.195802",
   "videos": [
+    {
+      "id": "-51IAmPvGHs",
+      "title": "愛媛のニュース(08月11日)",
+      "description": "",
+      "publishedAt": "2026-08-11T11:39:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-51IAmPvGHs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-51IAmPvGHs"
+    },
+    {
+      "id": "ib6SGB_jO_w",
+      "title": "裏方から再び走者へ！オリンピアン山中柚乃の決意",
+      "description": "",
+      "publishedAt": "2026-08-10T21:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ib6SGB_jO_w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ib6SGB_jO_w"
+    },
     {
       "id": "EHD8BRLmsOM",
       "title": "愛媛のニュース(08月10日)",

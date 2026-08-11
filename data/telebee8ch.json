@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-08-09T15:34:15.690233",
+  "updated_at": "2026-08-11T16:03:07.743483",
   "videos": [
+    {
+      "id": "v6hWgeG6ZKw",
+      "title": "【トラックがつなぐ、未来の物流 】荷主企業で進むDX #06",
+      "description": "",
+      "publishedAt": "2026-08-11T13:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v6hWgeG6ZKw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v6hWgeG6ZKw"
+    },
     {
       "id": "nl9G5yermdg",
       "title": "【公式】「波多野菜央／シンガーソングライター」ミライへの１minute｜テレビ西日本",

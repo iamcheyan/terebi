@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-08-07T15:58:38.922811",
+  "updated_at": "2026-08-11T16:02:55.612211",
   "videos": [
+    {
+      "id": "D0rNbXX2fGY",
+      "title": "【旬景とやま】立山の夜明け",
+      "description": "",
+      "publishedAt": "2026-08-11T09:50:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D0rNbXX2fGY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D0rNbXX2fGY"
+    },
     {
       "id": "ywv9gfxrfW0",
       "title": "【北陸３県イイトコどり~】山の日を前に",

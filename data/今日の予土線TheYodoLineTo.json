@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-08-10T16:03:35.300807",
+  "updated_at": "2026-08-11T16:03:18.916190",
   "videos": [
+    {
+      "id": "n_dVkZW0WPE",
+      "title": "260811 155431 伊予宮野下駅",
+      "description": "",
+      "publishedAt": "2026-08-11T12:44:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n_dVkZW0WPE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n_dVkZW0WPE"
+    },
+    {
+      "id": "grMozMTARew",
+      "title": "260811 154439 トロッコ列車行き違い（伊予宮野下駅）",
+      "description": "",
+      "publishedAt": "2026-08-11T12:33:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/grMozMTARew/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=grMozMTARew"
+    },
     {
       "id": "1YNVyiHF8z0",
       "title": "260810 174805 元宗踏切",

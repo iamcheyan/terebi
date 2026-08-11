@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXS-XXaDHDyjYcFqy7UFp4g",
   "channel_name": "abn長野朝日放送",
-  "updated_at": "2026-08-10T16:03:28.227924",
+  "updated_at": "2026-08-11T16:03:13.776364",
   "videos": [
+    {
+      "id": "-0UR0o9VGKE",
+      "title": "須坂卓翔会（未来のチカラ・2026年8月11日放送）",
+      "description": "",
+      "publishedAt": "2026-08-11T10:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-0UR0o9VGKE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-0UR0o9VGKE"
+    },
+    {
+      "id": "m2q4AepQfoM",
+      "title": "特集・涼感じる！桃スイーツ",
+      "description": "",
+      "publishedAt": "2026-08-11T01:47:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m2q4AepQfoM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m2q4AepQfoM"
+    },
     {
       "id": "83D1x713OQs",
       "title": "藤森慎吾の信州観光協会・2026年8月16日の放送内容",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-08-10T16:02:27.487263",
+  "updated_at": "2026-08-11T16:02:22.689520",
   "videos": [
+    {
+      "id": "9ShVgNwtU0g",
+      "title": "熊本地震から２週間　被災地のいま",
+      "description": "",
+      "publishedAt": "2026-08-11T11:51:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9ShVgNwtU0g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9ShVgNwtU0g"
+    },
     {
       "id": "yE6L2PfKjSY",
       "title": "8月15日のプライドは傑作選　総社もも生産組合",
