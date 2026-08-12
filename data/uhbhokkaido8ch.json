@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-08-11T16:03:12.386476",
+  "updated_at": "2026-08-12T16:01:04.758321",
   "videos": [
+    {
+      "id": "SNOJbduPrYQ",
+      "title": "みんテレ　8月13日（木）放送",
+      "description": "",
+      "publishedAt": "2026-08-12T10:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SNOJbduPrYQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SNOJbduPrYQ"
+    },
     {
       "id": "sbO6eI5eH6A",
       "title": "#10「走るが生み出すコミュニティ」＃北海道マラソン",

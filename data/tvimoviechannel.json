@@ -1,8 +1,56 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-08-11T16:03:09.534824",
+  "updated_at": "2026-08-12T16:01:02.356501",
   "videos": [
+    {
+      "id": "IU7hMvO82kU",
+      "title": "今日の５きげんテレビ（8月13日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-08-12T15:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IU7hMvO82kU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IU7hMvO82kU"
+    },
+    {
+      "id": "sgwuir3aqYY",
+      "title": "５きげん知恵袋 ～ブドウ＆プラム～",
+      "description": "",
+      "publishedAt": "2026-08-12T09:16:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sgwuir3aqYY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sgwuir3aqYY"
+    },
+    {
+      "id": "7kSqd_xnieg",
+      "title": "「再会」～あの海と、あの空の下で～　8月18日(火)午後4時45分～5きげんテレビで放送",
+      "description": "",
+      "publishedAt": "2026-08-12T09:05:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7kSqd_xnieg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7kSqd_xnieg"
+    },
+    {
+      "id": "3l68LXxGulU",
+      "title": "ちくわのチーズフライ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-08-12T08:20:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3l68LXxGulU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3l68LXxGulU"
+    },
     {
       "id": "wWC2m3PnAFI",
       "title": "今日の５きげんテレビ（8月12日）｜テレビ岩手",

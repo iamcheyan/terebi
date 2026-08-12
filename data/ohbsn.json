@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-08-10T16:02:56.328245",
+  "updated_at": "2026-08-12T16:00:44.043187",
   "videos": [
+    {
+      "id": "3LbNYXJiV7Q",
+      "title": "「Point of view」～新潟で働く人が見た景色～　♯２５　ハミングツアー（株式会社KOKK）",
+      "description": "",
+      "publishedAt": "2026-08-12T14:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3LbNYXJiV7Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3LbNYXJiV7Q"
+    },
+    {
+      "id": "U1C1FIV9H9c",
+      "title": "「NGT48新潟スイーツ部×ひなたまつり」＃93「ikkoku×西潟茉莉奈」",
+      "description": "",
+      "publishedAt": "2026-08-12T06:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U1C1FIV9H9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U1C1FIV9H9c"
+    },
     {
       "id": "0D-5iGl20zs",
       "title": "#79  NGT48大塚七海さんとALB48トーク",

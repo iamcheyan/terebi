@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-08-10T16:03:14.304556",
+  "updated_at": "2026-08-12T16:00:56.794705",
   "videos": [
+    {
+      "id": "0_YebsyxsFc",
+      "title": "【番宣】８月１９日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2026-08-12T11:57:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0_YebsyxsFc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0_YebsyxsFc"
+    },
+    {
+      "id": "TewNTnWrYYM",
+      "title": "まさやん・田名網のポッドキャスト酒場テレビ版",
+      "description": "",
+      "publishedAt": "2026-08-12T03:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TewNTnWrYYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TewNTnWrYYM"
+    },
     {
       "id": "UyE0iY8os-U",
       "title": "【番宣】８月１２日（水）週刊山崎くん　生放送だよ！真夏の２時間スペシャル",

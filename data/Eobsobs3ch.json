@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-08-10T16:03:11.505030",
+  "updated_at": "2026-08-12T16:00:55.670732",
   "videos": [
+    {
+      "id": "haAhR_ONlUM",
+      "title": "【大分市】炭火焼 和めし処 しんぱち食堂（2026年8月5日放送分）",
+      "description": "",
+      "publishedAt": "2026-08-12T02:53:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/haAhR_ONlUM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=haAhR_ONlUM"
+    },
     {
       "id": "scLf2IZxkJc",
       "title": "【大分市】cafe三日月（2026年8月5日放送分）",
