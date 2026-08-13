@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-08-12T16:01:06.367022",
+  "updated_at": "2026-08-13T16:02:13.450855",
   "videos": [
+    {
+      "id": "8GT-tDzQkm8",
+      "title": "愛媛のニュース(08月13日)",
+      "description": "",
+      "publishedAt": "2026-08-13T11:38:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8GT-tDzQkm8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8GT-tDzQkm8"
+    },
+    {
+      "id": "aZQCAZGyoPo",
+      "title": "愛媛MP 夢のクロスロード 守野銀二選手",
+      "description": "",
+      "publishedAt": "2026-08-13T09:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aZQCAZGyoPo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aZQCAZGyoPo"
+    },
+    {
+      "id": "qZ5ds0QsdSU",
+      "title": "愛媛MP 夢のクロスロード 後期開幕戦",
+      "description": "",
+      "publishedAt": "2026-08-13T03:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qZ5ds0QsdSU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qZ5ds0QsdSU"
+    },
     {
       "id": "dPRVW9v38IY",
       "title": "愛媛のニュース(08月12日)",

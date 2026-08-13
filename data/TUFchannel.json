@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-08-10T16:03:21.298745",
+  "updated_at": "2026-08-13T16:02:05.756253",
   "videos": [
+    {
+      "id": "gbE-huCUxB8",
+      "title": "【ふくしまSHOW】「南会津町」大特集！",
+      "description": "",
+      "publishedAt": "2026-08-13T00:18:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gbE-huCUxB8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gbE-huCUxB8"
+    },
     {
       "id": "gMRjrZPF8Ds",
       "title": "【明日への一歩】いわき商業情報高校　美術部",

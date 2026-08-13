@@ -1,8 +1,68 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-08-12T16:01:02.356501",
+  "updated_at": "2026-08-13T16:02:06.240857",
   "videos": [
+    {
+      "id": "Cj-MOLn-jRY",
+      "title": "今日の５きげんテレビ（8月14日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-08-13T15:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cj-MOLn-jRY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cj-MOLn-jRY"
+    },
+    {
+      "id": "hiXQ6hYMd1Q",
+      "title": "夏休みにぴったり！お子様メニューがあるお店｜和食処 花龍・麺や きぶし",
+      "description": "",
+      "publishedAt": "2026-08-13T10:03:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hiXQ6hYMd1Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hiXQ6hYMd1Q"
+    },
+    {
+      "id": "wJleFSl48Q8",
+      "title": "トマトと豚しゃぶの冷やし中華 | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-08-13T09:25:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wJleFSl48Q8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wJleFSl48Q8"
+    },
+    {
+      "id": "ST0x7K0BAKw",
+      "title": "岩瀬・きぬ・天津木村が行く！無人駅ごはん｜JR大船渡線 摺沢駅｜岩手・一関市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-08-13T01:42:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ST0x7K0BAKw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ST0x7K0BAKw"
+    },
+    {
+      "id": "HZI-sldb7ls",
+      "title": "一戸町で歴史を感じる愛されスポット巡り｜岩手・一戸町｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-08-13T01:16:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HZI-sldb7ls/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HZI-sldb7ls"
+    },
     {
       "id": "IU7hMvO82kU",
       "title": "今日の５きげんテレビ（8月13日）｜テレビ岩手",

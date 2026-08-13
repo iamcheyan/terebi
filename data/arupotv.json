@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-08-12T16:00:56.794705",
+  "updated_at": "2026-08-13T16:01:57.568665",
   "videos": [
+    {
+      "id": "nJL0xcsVnjE",
+      "title": "【番宣】８月１８日（火）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-08-13T00:28:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nJL0xcsVnjE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nJL0xcsVnjE"
+    },
     {
       "id": "0_YebsyxsFc",
       "title": "【番宣】８月１９日（水）週刊山崎くん",

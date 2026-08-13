@@ -1,8 +1,56 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-08-12T16:00:56.538266",
+  "updated_at": "2026-08-13T16:01:57.111224",
   "videos": [
+    {
+      "id": "w3d64V_lF8c",
+      "title": "8/14(金)放送「きいてMIHOちゃんねる」",
+      "description": "",
+      "publishedAt": "2026-08-13T11:33:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/w3d64V_lF8c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=w3d64V_lF8c"
+    },
+    {
+      "id": "IWoz2wsFkYY",
+      "title": "「《警察官の魅力を発信》警察学校で体験イベント」2026/8/13放送",
+      "description": "",
+      "publishedAt": "2026-08-13T09:37:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IWoz2wsFkYY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IWoz2wsFkYY"
+    },
+    {
+      "id": "uzxrUVkBy8s",
+      "title": "「《戦争の悲惨さを今に》高知県立美術館で特集展示」2026/8/13放送",
+      "description": "",
+      "publishedAt": "2026-08-13T09:02:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uzxrUVkBy8s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uzxrUVkBy8s"
+    },
+    {
+      "id": "gg77kgtoPSY",
+      "title": "「《踊り子たちが完全燃焼》よさこい祭り　後夜祭でフィナーレ」2026/8/13放送",
+      "description": "",
+      "publishedAt": "2026-08-13T03:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gg77kgtoPSY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gg77kgtoPSY"
+    },
     {
       "id": "PCyk8nbqScc",
       "title": "「《よさこい全国大会》学生チームや全国大会だけ出場のチームも」2026/8/12放送",
