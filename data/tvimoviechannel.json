@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-08-13T16:02:06.240857",
+  "updated_at": "2026-08-14T15:54:35.777443",
   "videos": [
+    {
+      "id": "kf7GTPM_NAU",
+      "title": "今昔さんぽ ～岩手県立水産科学館～",
+      "description": "",
+      "publishedAt": "2026-08-14T09:58:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kf7GTPM_NAU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kf7GTPM_NAU"
+    },
+    {
+      "id": "g7_J-gGWAEs",
+      "title": "トウモロコシのリゾット | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-08-14T09:17:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g7_J-gGWAEs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g7_J-gGWAEs"
+    },
     {
       "id": "Cj-MOLn-jRY",
       "title": "今日の５きげんテレビ（8月14日）｜テレビ岩手",

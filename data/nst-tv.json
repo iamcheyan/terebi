@@ -1,8 +1,1270 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
-  "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2026-08-13T16:01:17.173376",
+  "channel_name": "NST Online",
+  "original_name": "NST新潟総合テレビ",
+  "updated_at": "2026-08-14T15:56:31.841631",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-qlJdbGZ4QHFhYDur_C02XWANL0",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk1KanFJYnVMWXRJ",
+      "snippet": {
+        "publishedAt": "2026-08-14T15:48:04Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Temerloh fuel tanker crash: Two feared burnt after vehicle catches fire",
+        "description": "A fuel tanker carrying 32,000 litres of diesel and petrol crashed into a car along Jalan Temerloh-Triang, causing both vehicles to burst into flames.\n\nThe crash occurred at about 4.30pm after the tanker, travelling from Seremban to Temerloh, allegedly lost control and entered the opposite lane.\n\nThe 37-year-old tanker driver escaped with minor injuries, while two occupants of the car are feared to have been burnt.\n\nPolice have yet to confirm the identities and exact number of victims.\n\nThe tanker driver will be detained to assist investigations.\n\nSTORYLINK: https://www.nst.com.my/news/regional/2026/08/1511426/temerloh-fuel-tanker-crash-two-feared-burnt-after-vehicle-catches\n----------------------------------\n#NST #NSTTVNST, Malaysia news, Temerloh accident, Jalan Temerloh-Triang, fuel tanker crash, tanker fire, diesel, petrol, road accident, Pahang, Temerloh police, Road Transport Act 1987\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MJjqIbuLYtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MJjqIbuLYtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MJjqIbuLYtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MJjqIbuLYtI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MJjqIbuLYtI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MJjqIbuLYtI"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nXWbTiOEpxqEyr7uxEnDBHrk46I",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk9wTkN0TGpNa0lF",
+      "snippet": {
+        "publishedAt": "2026-08-14T03:49:33Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "No room for 'party within a party', Izzah warns PKR",
+        "description": "PKR deputy president Nurul Izzah Anwar has warned the party cannot remain strong if competing centres of power or internal feuding are allowed to persist.\n\nSpeaking at the PKR Wanita 2026 National Congress, she said time spent fighting among members is time lost in efforts to regain voter confidence. \n\nShe urged members to refocus on strengthening the party, serving the people and preparing for electoral victories at both state and federal levels.\n\nNurul Izzah stressed that leadership should be seen as a responsibility entrusted to those in office, not merely as possession of power. \n\nShe reminded members that time in government is never permanent and must be used wisely.\n\nhttps://www.nst.com.my/news/nation/2026/08/1510863/no-room-party-within-party-izzah-warns-pkr\n----------------------------------\n#NST #NSTTV#PKR #NurulIzzah #Election #Vote #PKRWanita  #NST #News #MalaysiaNews \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OpNCtLjMkIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OpNCtLjMkIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OpNCtLjMkIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OpNCtLjMkIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OpNCtLjMkIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OpNCtLjMkIE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ScCSIEGgAXDOggicUjrUCuY5afE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlRoZm43V3kzcXNF",
+      "snippet": {
+        "publishedAt": "2026-08-14T03:00:15Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM Aug 14, 2026",
+        "description": "Bursa Malaysia opened higher on Friday but soon retreated as investors took profit in industrial products and construction counters.\n\nInvestors remained cautious, with market direction likely to hinge on upcoming economic data and fresh catalysts that could provide clues on the next move in equities.\n\nThe index is expected to trend within the 1,730 and 1,740 range today.\n\nIn the crypto market, Bitcoin rose to RM259,309.\n\nEthereum rose to RM7,707, while Solana was down at RM311.\n\nThat's it for Market Pulse. \n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Thfn7Wy3qsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Thfn7Wy3qsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Thfn7Wy3qsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Thfn7Wy3qsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Thfn7Wy3qsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Thfn7Wy3qsE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fUdaQbXog88e6_sAGVuyvFADj_w",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlVKRktvNlBzeGxV",
+      "snippet": {
+        "publishedAt": "2026-08-14T00:00:27Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Malaysia’s construction boom faces its biggest test",
+        "description": "Malaysia’s construction industry is heading into a major growth phase, driven by infrastructure, data centres, manufacturing and renewable energy projects.\n\nHowever, Construction Industry Development Board (CIDB) chief executive Ahmad Farrin Mokhtar said the industry must improve productivity, technology, safety and skills to handle increasingly complex projects.\n\nConstruction work rose 12.5 per cent to RM178.6 billion in 2025, while first-quarter 2026 activity grew 8.5 per cent to RM46.5 billion.\n\nHe said contractors also need to move beyond competing mainly on the lowest price, with greater focus on quality, financial strength, safety and long-term value.\n\nThe biggest challenge ahead, he said, is transforming the industry through digitalisation, automation and a more skilled workforce while maintaining strong safety standards.\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UJFKo6PsxlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UJFKo6PsxlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UJFKo6PsxlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UJFKo6PsxlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UJFKo6PsxlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UJFKo6PsxlU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vO9lRNDlaU1E48gtR3ce0PIQybM",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnV6UENxMTNjNmsw",
+      "snippet": {
+        "publishedAt": "2026-08-14T00:00:19Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Malaysia’s strong fundamentals continue to uplift ringgit’s prospects",
+        "description": "Malaysia’s strong economic fundamentals are expected to continue supporting the ringgit towards the end of the year, despite external risks such as geopolitical tensions and US Federal Reserve policy.\n\nBank Negara Malaysia assistant governor Mohamad Ali Iqbal Abdul Khalid said AI investments, export growth and domestic investment would continue attracting global investors to Malaysia.\n\nThe ringgit has gained 1.03 per cent against the US dollar so far this year, outperforming the Singapore dollar, Thai baht and Indonesian rupiah.\n\nHe said Malaysia’s growing role as a regional AI and data centre hub, alongside its resilient exports, would continue to support investor interest in the ringgit.\n\nMeanwhile, trade and investment settlements in local currencies between Malaysia, Thailand and Indonesia are growing, with discussions underway to encourage more Asean countries to adopt the framework.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uzPCq13c6k0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uzPCq13c6k0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uzPCq13c6k0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uzPCq13c6k0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uzPCq13c6k0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uzPCq13c6k0"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HtvnY-nIc9iSvlG3iCdK-dl-quY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjRidDdkd0ZlMTdR",
+      "snippet": {
+        "publishedAt": "2026-08-14T00:00:18Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "The US, Europe funded their EV chargers with public money, should Malaysia do the same?",
+        "description": "The proposed levy on electric vehicles (EVs) to fund public charging infrastructure should not be dismissed, despite public backlash, industry observers said.\n\nIndustry observer Datuk Shahrol Azral Ibrahim Halmi said EV levies are already used in many US states to replace lost fuel tax revenue and partly fund charging infrastructure.\n\nHowever, Malaysia’s situation differs as fuel is subsidised, while EVs have also benefited from tax incentives.\n\nIndustry players said the levy could be justified if the funds are clearly channelled into charging infrastructure, but the government must also make approval processes faster and more efficient.\n\nThey said EV manufacturers that have benefited from Malaysia’s tax incentives should also play a role in funding the charging network needed to support the industry’s growth.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4bt7dwFe17Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4bt7dwFe17Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4bt7dwFe17Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4bt7dwFe17Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4bt7dwFe17Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4bt7dwFe17Q"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DOFdGhouXSXitvBTWZC8lUsu2ho",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkh0SmcyaWJOcWU0",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:00:38Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "PKR heads into congress amid electoral setbacks, internal strife",
+        "description": "PKR heads into its annual congress today after three consecutive electoral setbacks in Sabah, Johor and Negri Sembilan, winning just three of the 36 seats it contested in the latter two polls.\n\nThe party is also grappling with internal tensions, including disputes over access to the MyKhas allocation portal and Nurul Izzah Anwar’s decision to step down as deputy president.\n\nThe emergence of Bersama, led by former PKR leaders Rafizi Ramli and Nik Nazmi Nik Ahmad, has further complicated the party’s position by competing for the same reform-minded voters.\n\nThe congress will also take place as DAP prepares to decide whether to remain in the unity government, a move that could affect PKR and the administration led by Prime Minister Datuk Seri Anwar Ibrahim.\n\nMeanwhile, PKR is already looking ahead to the Melaka election, with the party discussing possible cooperation with other parties amid expected BN-PN collaboration.\n\nThe congress is therefore seen as a key test of whether PKR will conduct a genuine post-mortem and chart a new direction, or close ranks around Anwar ahead of the next general election.\n\n----------------------------------\n#NST #NSTTVPKR annual congress, electoral setbacks, Nurul Izzah Anwar, Bersama, Melaka election, Unity government, Anwar Ibrahim, NST, Malaysia News\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HtJg2ibNqe4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HtJg2ibNqe4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HtJg2ibNqe4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HtJg2ibNqe4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HtJg2ibNqe4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HtJg2ibNqe4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rfGVTwfWQ_OEqYmtS_auKNwGmCc",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk1pX0lsbUpkRmYw",
+      "snippet": {
+        "publishedAt": "2026-08-11T23:00:26Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "SWCorp investigates alleged Singapore construction waste dumped in Pontian",
+        "description": "SWCorp is investigating the alleged dumping of construction and demolition waste from Singapore at several locations in Pontian, Johor.\n\nThe agency is seeking to establish the source of the waste and whether it was brought into Johor legally.\n\nInitial checks found the site in Mukim Sungai Karang was not a licensed solid waste facility, with no permit issued for importing or managing construction waste there.\n\nSWCorp has launched surveillance and found no recent lorry movements or dumping activity, while reclamation work has stopped and the site has been barricaded.\n\nThe investigation is ongoing, with authorities also examining whether the alleged waste shipments complied with import, transport and disposal requirements.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mi_IlmJdFf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mi_IlmJdFf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mi_IlmJdFf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mi_IlmJdFf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mi_IlmJdFf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 51,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mi_IlmJdFf0"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YOSnZKYIe4rsr8vTrZtjGl6ekIo",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnhlZ0xySmt4VTY0",
+      "snippet": {
+        "publishedAt": "2026-08-11T16:18:05Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Tabung Haji RCI: What went wrong and what’s next?",
+        "description": "The heat was on in Parliament today.\n\nFrom hard exchanges to a walkout and calls for greater transparency.\n\nDewan Rakyat’s special sitting to debate findings of the RCI report into Tabung Haji was anything but subdued.\n\nRead more at www.nst.com.my\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xegLrJkxU64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xegLrJkxU64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xegLrJkxU64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xegLrJkxU64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xegLrJkxU64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xegLrJkxU64"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_MQz2JKZRBABY5An4O68gYCc1tw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlliRDR4OUNwT0Y0",
+      "snippet": {
+        "publishedAt": "2026-08-11T06:34:28Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Opposition MPs failed 10 million TH depositors by walking out, says Syed Saddiq",
+        "description": "Syed Saddiq Syed Abdul Rahman (Muda-Muar) has slammed the opposition for boycotting the parliamentary debate on the Tabung Haji Royal Commission of Inquiry (RCI) report, saying the move failed more than 10 million depositors.\n\nRead more: https://www.nst.com.my/news/nation/2026/08/1508769/opposition-mps-failed-10-million-th-depositors-walking-out-says-syed\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YbD4x9CpOF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YbD4x9CpOF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YbD4x9CpOF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YbD4x9CpOF4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YbD4x9CpOF4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 68,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YbD4x9CpOF4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sXTE6PdeQsJyFI5YQ1qAslUPuBw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjVYVng0Y3JWRXJB",
+      "snippet": {
+        "publishedAt": "2026-08-11T06:09:08Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Thai officer restrained after mid-air disturbance on Malaysia-Bangkok flight",
+        "description": "An officer attached to Thailand's Defence Ministry was involved in a mid-air disturbance on a flight from Malaysia to Bangkok.\nA five-minute video shared on X by the Thai Enquirer showed the officer repeatedly shouting before being restrained by passengers and crew.\n\nRead more: https://www.nst.com.my/news/nation/2026/08/1508551/thai-officer-restrained-after-mid-air-disturbance-malaysia-bangkok\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5XVx4crVErA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5XVx4crVErA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5XVx4crVErA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5XVx4crVErA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5XVx4crVErA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 69,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5XVx4crVErA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "StqxbNnxKxqxKZLNEWsRX-MzQT8",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkJicU5NbTUyUmxN",
+      "snippet": {
+        "publishedAt": "2026-08-11T04:56:29Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "'Debate on TH RCI report, not about me,' says Anwar",
+        "description": "Prime Minister Datuk Seri Anwar Ibrahim has questioned the Opposition's focus on his absence from Parliament, saying the priority should be the alleged betrayal of Tabung Haji and the interests of its depositors.\n\nAnwar said the Malay-Muslim community had been betrayed, questioning whether Perikatan Nasional, which is led by Pas, was more interested in political drama than addressing the issue.\n\nHis remarks came after Opposition MPs staged a walkout from the Dewan Rakyat today, protesting the rejection of their call to postpone a special sitting on the RCI report on Tabung Haji until Anwar returns to Parliament.\n\nhttps://www.nst.com.my/news/nation/2026/08/1508645/updated-debate-th-rci-report-not-about-me-says-anwar\n----------------------------------\n#NST #NSTTV #NSTOnline #AnwarIbrahim #TabungHaji #RCI #DewanRakyat #Parliament #MalaysiaPolitics #RoyalCommissionOfInquiry #MalaysiaNews\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BbqNMm52RlM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BbqNMm52RlM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BbqNMm52RlM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BbqNMm52RlM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BbqNMm52RlM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 70,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BbqNMm52RlM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LA1kH5pVC2TJbpBJLOUgF2sF4aw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlB4YjQwRG9zcEZN",
+      "snippet": {
+        "publishedAt": "2026-08-11T04:54:42Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Woman with mental health issues arrested after smashing car windscreen",
+        "description": "Police have arrested a 33-year-old woman after a viral video showed her using a vegetable knife to smash a car's rear windscreen and taillights in Taman Kemuning last night.\n\nKulim police chief Superintendent Syamsul Sinring said the suspect had approached the car, a Perodua Myvi belonging to a factory worker parked at a shoplot, before suddenly damaging the vehicle.\n\nSeveral witnesses called the police, leading to the arrest of the woman, who holds a mental health card and has been receiving psychiatric treatment at Kulim Hospital since 2012.\n\nSyamsul added that she last received treatment in June and that the police have assisted in sending her to Kulim Hospital for treatment.\n\nSTORYLINK: https://www.nst.com.my/news/regional/2026/08/1508559/woman-mental-health-issues-arrested-after-smashing-car-windscreen\n----------------------------------\n#NST #NSTTV #Viral #Woman #MentalHealth #VegetableKnife #Smash #Windscreen #Kulim #TamanKemuning #MalaysiaNews #NSTNews\n\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pxb40DospFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pxb40DospFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pxb40DospFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pxb40DospFM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pxb40DospFM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 71,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pxb40DospFM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mCKmPwvRFfbyZtBf_ltANFT0ydU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkdKZWhjSGludDJv",
+      "snippet": {
+        "publishedAt": "2026-08-11T03:31:08Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Opposition MPs walk out of Dewan Rakyat over Tabung Haji RCI debate",
+        "description": "Opposition MPs staged a walkout from the Dewan Rakyat today after the Speaker rejected their call to postpone the special sitting on the Royal Commission of Inquiry (RCI) report on Tabung Haji until Prime Minister Datuk Seri Anwar Ibrahim returns to Parliament.\n\nThe opposition voiced its disagreement that Anwar was unable to attend as he was receiving health treatment.\n\n\nRead more: https://www.nst.com.my/news/nation/2026/08/1508591/opposition-mps-walk-out-dewan-rakyat-over-tabung-haji-rci-debate-watch\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GJehcHint2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GJehcHint2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GJehcHint2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GJehcHint2o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GJehcHint2o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 72,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GJehcHint2o"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XwZEllLcHHuIjbqekDjw4IgrM-c",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnpTZ0hSTmFjaVBv",
+      "snippet": {
+        "publishedAt": "2026-08-11T03:29:40Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Shouts of 'sakau', 'tangguh' but special parliamentary sitting goes on",
+        "description": "The special parliamentary sitting on the Royal Commission of Inquiry (RCI) report regarding Lembaga Tabung Haji (TH) will continue despite protests from opposition lawmakers and calls for a postponement over the prime minister's absence.\n\nhttps://www.nst.com.my/news/nation/2026/08/1508577/shouts-sakau-tangguh-special-parliamentary-sitting-goes-watch\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zSgHRNaciPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zSgHRNaciPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zSgHRNaciPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zSgHRNaciPo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zSgHRNaciPo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 73,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zSgHRNaciPo"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7B-To77Hk4T4CVPvKConIT8kL2w",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmZUTWhmdnZrQU04",
+      "snippet": {
+        "publishedAt": "2026-08-11T03:28:25Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Takiyuddin calls for Tabung Haji RCI debate to be postponed until Anwar returns",
+        "description": "Opposition chief whip Datuk Seri Takiyuddin Hassan has called for the special Dewan Rakyat sitting to discuss the Royal Commission of Inquiry (RCI) report on Tabung Haji to be postponed until Prime Minister Datuk Seri Anwar Ibrahim returns to Parliament.\n\nRead more: https://www.nst.com.my/news/nation/2026/08/1508574/updated-takiyuddin-calls-tabung-haji-rci-debate-be-postponed-until\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fTMhfvvkAM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fTMhfvvkAM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fTMhfvvkAM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fTMhfvvkAM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fTMhfvvkAM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 74,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fTMhfvvkAM8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "89WVKTXDv20o0hITBTt-xTfWjrY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjlfSmlfa2ZpdUJJ",
+      "snippet": {
+        "publishedAt": "2026-08-11T03:27:26Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Without PM, parliamentary sitting on TH RCI 'like a press conference'",
+        "description": "Perikatan Nasional chief whip Datuk Seri Takiyuddin Hassan says Prime Minister Datuk Seri Anwar Ibrahim's absence from a special parliamentary sitting on the Lembaga Tabung Haji issue would effectively make it a \"press conference\".\n\nhttps://www.nst.com.my/news/nation/2026/08/1508562/without-pm-parliamentary-sitting-th-rci-press-conference-watch\n----------------------------------\n#NST #NSTTV \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9_Ji_kfiuBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9_Ji_kfiuBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9_Ji_kfiuBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9_Ji_kfiuBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9_Ji_kfiuBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 75,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9_Ji_kfiuBI"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zrbEg_viXUUaTXUZtUgsLOyCfXM",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLi1kd3NnV2lEOV9Z",
+      "snippet": {
+        "publishedAt": "2026-08-11T03:00:20Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM Aug 11, 2026",
+        "description": "Bursa Malaysia opened higher today on bargain hunting, despite the negative lead from Wall Street.\n\nThe FBM KLCI ended marginally lower yesterday as the index continued to consolidate, with selling pressure in selected heavyweights.\n\nFor today, the index is expected to trade between 1,730 and 1,740, with a cautiously positive bias. \n\nIn the crypto market, Bitcoin rose to RM261,759.\n\nEthereum rose to RM7,669, while Solana was down at RM310.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-dwsgWiD9_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-dwsgWiD9_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-dwsgWiD9_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-dwsgWiD9_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-dwsgWiD9_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 76,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-dwsgWiD9_Y"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KJc8Jn1qRHIK3MH_jdWe-h3Upk4",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjNyTW54aEVWeU9V",
+      "snippet": {
+        "publishedAt": "2026-08-11T02:23:13Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "No Middle East data centre windfall, but Malaysia eyes next wave",
+        "description": "Malaysia is unlikely to inherit a windfall of data centre investments from the Middle East despite rising geopolitical tensions, but the turmoil could strengthen its hand in the race for the next wave of global digital infrastructure spending.\n\nIndustry experts said billions of dollars in projects already committed in the Middle East are unlikely to be uprooted, particularly those backed by sovereign wealth funds and tied to national artificial intelligence (AI) and economic ambitions.\n\nInstead, Malaysia – and Johor in particular – could emerge as a stronger destination for fresh investments as global technology companies increasingly spread their bets across different markets to reduce geographic risk.----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3rMnxhEVyOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3rMnxhEVyOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3rMnxhEVyOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3rMnxhEVyOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3rMnxhEVyOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 77,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3rMnxhEVyOU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JmQMLeLXpDby9IRGD1KFrMNDGus",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjNuLVlpVTV6NG9J",
+      "snippet": {
+        "publishedAt": "2026-08-11T00:40:37Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "2026-08-11",
+        "description": "📚 Boost your child’s learning with Berita Harian! \nPrepare for the Year 4 Learning Matrix (MPT4) more effectively with BH Didik MPT4, available every Tuesday.\n📲 Subscribe now: Call 03‑2724 8625 or WhatsApp 011‑2868 9248.\n#bhdidik #beritaharian #bhonline #mpt4 #langganbh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3n-YiU5z4oI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3n-YiU5z4oI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3n-YiU5z4oI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3n-YiU5z4oI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3n-YiU5z4oI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 78,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3n-YiU5z4oI"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I1mDSg3uiqX0ODn2EzTZR138MSw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLndNdlVlN0sxbVpj",
+      "snippet": {
+        "publishedAt": "2026-08-10T23:00:25Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Tabung Haji RCI: Parliament debate findings today",
+        "description": "The long-awaited debate begins. Parliament is set to scrutinise the Royal Commission of Inquiry (RCI) report on Tabung Haji, with lawmakers expected to examine findings on governance failures, political interference, financial management and accountability. \n\nWill the special sitting provide the answers Malaysians have been waiting for?\n----------------------------------\n#NST #NSTTV #TabungHaji #DewanRakyat #ParlimenMalaysia #RCI #MalaysiaNews\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wMvUe7K1mZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wMvUe7K1mZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wMvUe7K1mZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wMvUe7K1mZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wMvUe7K1mZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 79,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wMvUe7K1mZc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "z615SGLL_1pSCbU5t_ujRzuUsBY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjF1UmtIUWFsTmxZ",
+      "snippet": {
+        "publishedAt": "2026-08-10T23:00:04Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Govt yet to pay Tabung Haji RM12.5b, says Rafizi",
+        "description": "Former economy minister Datuk Seri Rafizi Ramli alleged that the government still owes Tabung Haji RM12.5 billion following the maturity of Urusan Jamaah Sdn Bhd’s Series 1 sukuk on May 29.\n\nHe said only RM965 million had been settled through property, while the remaining RM11.5 billion was replaced with new sukuk maturing in 10 years.\n\nRafizi said the government was supposed to settle the matured sukuk in cash or with assets of equivalent value under the 2018 Tabung Haji restructuring plan.\n\nHe also alleged that only RM500 million had so far been paid to Tabung Haji to redeem the sukuk, despite allocations approved by successive governments since 2019.\n\nRafizi warned that continued deferral of the payments could expose Tabung Haji to further risks involving asset liquidity and cash flow.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1uRkHQalNlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1uRkHQalNlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1uRkHQalNlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1uRkHQalNlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1uRkHQalNlY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 80,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1uRkHQalNlY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OoWyuiPoZ0LBacHDS08vje4fgyI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmV1SlZhSFRiRzBj",
+      "snippet": {
+        "publishedAt": "2026-08-09T23:00:11Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Medan Selera 223 traders pin hopes on RM40.5m flood plan",
+        "description": "Traders at Medan Selera 223 in Petaling Jaya are hoping a RM40.5 million flood mitigation plan will finally end recurring flash floods that have devastated their livelihoods.\n\nThe Petaling Jaya City Council’s plan, launched Aug 1, combines 39 projects including high‑capacity drainage upgrades, automated flood gates, pumping stations and an underground detention pond. All works are scheduled for completion by February 2027.\n\nMedan Selera PJ Lestari Traders Association chairman Farahanim Ahmad said each flood costs traders up to RM2,000 in ruined supplies and equipment. She noted some stalls have closed, though most remain determined to stay at the iconic food court.\n\nDrinks trader S. Nesamalar, a single mother, described the financial and emotional toll of repeated floods, but expressed relief at MBPJ’s assurances.\n\nPetaling Jaya MP Lee Chean Chung urged MBPJ and the Drainage and Irrigation Department to deliver swiftly, stressing oversight and accountability. He said recent flash floods were triggered by intense downpours overwhelming Sungai Penchala and Sungai Klang.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/euJVaHTbG0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/euJVaHTbG0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/euJVaHTbG0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/euJVaHTbG0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/euJVaHTbG0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 96,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "euJVaHTbG0c"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "id": "bowN2sKqanQ",
+      "title": "Chelsea stars fulfil lifelong dream of fan living with motor neurone disease",
+      "description": "",
+      "publishedAt": "2026-08-14T14:36:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bowN2sKqanQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bowN2sKqanQ"
+    },
+    {
+      "id": "_lWAdRKg7tY",
+      "title": "From ‘Chinepaiyen’ to changemaker",
+      "description": "",
+      "publishedAt": "2026-08-14T13:35:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_lWAdRKg7tY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_lWAdRKg7tY"
+    },
+    {
+      "id": "D-yc_vYV-nE",
+      "title": "Court upholds RM900k payout to businessman over Bentley accident",
+      "description": "",
+      "publishedAt": "2026-08-14T13:03:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D-yc_vYV-nE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D-yc_vYV-nE"
+    },
+    {
+      "id": "O0ky3ovHMTI",
+      "title": "News@9 – Friday, August 14, 2026",
+      "description": "",
+      "publishedAt": "2026-08-14T13:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O0ky3ovHMTI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O0ky3ovHMTI"
+    },
+    {
+      "id": "VsgCHZQOq4E",
+      "title": "PKR National Congress: Party wings regroup as Izzah prepares to step aside",
+      "description": "",
+      "publishedAt": "2026-08-14T12:36:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VsgCHZQOq4E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VsgCHZQOq4E"
+    },
+    {
+      "id": "Y0qrrildPAU",
+      "title": "Market Pulse PM Aug 14, 2026",
+      "description": "",
+      "publishedAt": "2026-08-14T11:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y0qrrildPAU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y0qrrildPAU"
+    },
+    {
+      "id": "aqEhAR3jzVY",
+      "title": "Lim Guan Eng hits back at Chow over Penang PH Umno cooperation",
+      "description": "",
+      "publishedAt": "2026-08-14T09:46:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aqEhAR3jzVY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aqEhAR3jzVY"
+    },
+    {
+      "id": "hSmA5rUzHK8",
+      "title": "Henry Gurney athletes seek Sukma success as sport offers second chance",
+      "description": "",
+      "publishedAt": "2026-08-14T09:43:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hSmA5rUzHK8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hSmA5rUzHK8"
+    },
+    {
+      "id": "smA8fmgLN1c",
+      "title": "Loke challenges ECRL to start operations this December",
+      "description": "",
+      "publishedAt": "2026-08-14T08:48:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/smA8fmgLN1c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=smA8fmgLN1c"
+    },
+    {
+      "id": "PmInuOufpvs",
+      "title": "Taiwan’s indigenous troupe brings its song & dance to Malaysia",
+      "description": "",
+      "publishedAt": "2026-08-14T08:28:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PmInuOufpvs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PmInuOufpvs"
+    },
+    {
+      "id": "Ozcf5PV3pgU",
+      "title": "ECRL on track to start commercial operations by Jan 2027",
+      "description": "",
+      "publishedAt": "2026-08-14T07:06:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ozcf5PV3pgU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ozcf5PV3pgU"
+    },
+    {
+      "id": "5ieMqWsxToo",
+      "title": "Bank Negara under spotlight over five Tabung Haji warnings",
+      "description": "",
+      "publishedAt": "2026-08-14T06:38:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5ieMqWsxToo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5ieMqWsxToo"
+    },
+    {
+      "id": "dmmjyRggRMU",
+      "title": "Malaysia's economy grows 6pct in Q2, beats advance estimate",
+      "description": "",
+      "publishedAt": "2026-08-14T05:20:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dmmjyRggRMU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dmmjyRggRMU"
+    },
+    {
+      "id": "a_zbrV6Md3s",
+      "title": "BNM advice to TH was pre emptive measure to avert financial risks",
+      "description": "",
+      "publishedAt": "2026-08-14T04:20:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a_zbrV6Md3s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a_zbrV6Md3s"
+    },
+    {
+      "id": "LT7HhWyURFk",
+      "title": "Nurul Izzah: My struggle will continue through civil society",
+      "description": "",
+      "publishedAt": "2026-08-14T03:59:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LT7HhWyURFk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LT7HhWyURFk"
+    },
     {
       "id": "BmbqG5PkZA0",
       "title": "Bandar Utama school murder: Defence psychiatric expert says teen had post Covid mental illness",
@@ -64713,6 +65975,144 @@
       "title": "CAAM probes security procedures after Malaysia Airlines pilot’s drug arrest",
       "thumbnail": "https://i.ytimg.com/vi/2NawLnDJU-g/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2NawLnDJU-g"
+    },
+    {
+      "id": "MJjqIbuLYtI",
+      "title": "Temerloh fuel tanker crash: Two feared burnt after vehicle catches fire",
+      "thumbnail": "https://i.ytimg.com/vi/MJjqIbuLYtI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MJjqIbuLYtI"
+    },
+    {
+      "id": "OpNCtLjMkIE",
+      "title": "No room for 'party within a party', Izzah warns PKR",
+      "thumbnail": "https://i.ytimg.com/vi/OpNCtLjMkIE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OpNCtLjMkIE"
+    },
+    {
+      "id": "Thfn7Wy3qsE",
+      "title": "Market Pulse AM Aug 14, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/Thfn7Wy3qsE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Thfn7Wy3qsE"
+    },
+    {
+      "id": "UJFKo6PsxlU",
+      "title": "Malaysia’s construction boom faces its biggest test",
+      "thumbnail": "https://i.ytimg.com/vi/UJFKo6PsxlU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UJFKo6PsxlU"
+    },
+    {
+      "id": "uzPCq13c6k0",
+      "title": "Malaysia’s strong fundamentals continue to uplift ringgit’s prospects",
+      "thumbnail": "https://i.ytimg.com/vi/uzPCq13c6k0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uzPCq13c6k0"
+    },
+    {
+      "id": "4bt7dwFe17Q",
+      "title": "The US, Europe funded their EV chargers with public money, should Malaysia do the same?",
+      "thumbnail": "https://i.ytimg.com/vi/4bt7dwFe17Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4bt7dwFe17Q"
+    },
+    {
+      "id": "HtJg2ibNqe4",
+      "title": "PKR heads into congress amid electoral setbacks, internal strife",
+      "thumbnail": "https://i.ytimg.com/vi/HtJg2ibNqe4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HtJg2ibNqe4"
+    },
+    {
+      "id": "Mi_IlmJdFf0",
+      "title": "SWCorp investigates alleged Singapore construction waste dumped in Pontian",
+      "thumbnail": "https://i.ytimg.com/vi/Mi_IlmJdFf0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Mi_IlmJdFf0"
+    },
+    {
+      "id": "xegLrJkxU64",
+      "title": "Tabung Haji RCI: What went wrong and what’s next?",
+      "thumbnail": "https://i.ytimg.com/vi/xegLrJkxU64/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xegLrJkxU64"
+    },
+    {
+      "id": "YbD4x9CpOF4",
+      "title": "Opposition MPs failed 10 million TH depositors by walking out, says Syed Saddiq",
+      "thumbnail": "https://i.ytimg.com/vi/YbD4x9CpOF4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YbD4x9CpOF4"
+    },
+    {
+      "id": "5XVx4crVErA",
+      "title": "Thai officer restrained after mid-air disturbance on Malaysia-Bangkok flight",
+      "thumbnail": "https://i.ytimg.com/vi/5XVx4crVErA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5XVx4crVErA"
+    },
+    {
+      "id": "BbqNMm52RlM",
+      "title": "'Debate on TH RCI report, not about me,' says Anwar",
+      "thumbnail": "https://i.ytimg.com/vi/BbqNMm52RlM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BbqNMm52RlM"
+    },
+    {
+      "id": "Pxb40DospFM",
+      "title": "Woman with mental health issues arrested after smashing car windscreen",
+      "thumbnail": "https://i.ytimg.com/vi/Pxb40DospFM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Pxb40DospFM"
+    },
+    {
+      "id": "GJehcHint2o",
+      "title": "Opposition MPs walk out of Dewan Rakyat over Tabung Haji RCI debate",
+      "thumbnail": "https://i.ytimg.com/vi/GJehcHint2o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GJehcHint2o"
+    },
+    {
+      "id": "zSgHRNaciPo",
+      "title": "Shouts of 'sakau', 'tangguh' but special parliamentary sitting goes on",
+      "thumbnail": "https://i.ytimg.com/vi/zSgHRNaciPo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zSgHRNaciPo"
+    },
+    {
+      "id": "fTMhfvvkAM8",
+      "title": "Takiyuddin calls for Tabung Haji RCI debate to be postponed until Anwar returns",
+      "thumbnail": "https://i.ytimg.com/vi/fTMhfvvkAM8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fTMhfvvkAM8"
+    },
+    {
+      "id": "9_Ji_kfiuBI",
+      "title": "Without PM, parliamentary sitting on TH RCI 'like a press conference'",
+      "thumbnail": "https://i.ytimg.com/vi/9_Ji_kfiuBI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9_Ji_kfiuBI"
+    },
+    {
+      "id": "-dwsgWiD9_Y",
+      "title": "Market Pulse AM Aug 11, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/-dwsgWiD9_Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-dwsgWiD9_Y"
+    },
+    {
+      "id": "3rMnxhEVyOU",
+      "title": "No Middle East data centre windfall, but Malaysia eyes next wave",
+      "thumbnail": "https://i.ytimg.com/vi/3rMnxhEVyOU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3rMnxhEVyOU"
+    },
+    {
+      "id": "3n-YiU5z4oI",
+      "title": "2026-08-11",
+      "thumbnail": "https://i.ytimg.com/vi/3n-YiU5z4oI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3n-YiU5z4oI"
+    },
+    {
+      "id": "wMvUe7K1mZc",
+      "title": "Tabung Haji RCI: Parliament debate findings today",
+      "thumbnail": "https://i.ytimg.com/vi/wMvUe7K1mZc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wMvUe7K1mZc"
+    },
+    {
+      "id": "1uRkHQalNlY",
+      "title": "Govt yet to pay Tabung Haji RM12.5b, says Rafizi",
+      "thumbnail": "https://i.ytimg.com/vi/1uRkHQalNlY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1uRkHQalNlY"
+    },
+    {
+      "id": "euJVaHTbG0c",
+      "title": "Medan Selera 223 traders pin hopes on RM40.5m flood plan",
+      "thumbnail": "https://i.ytimg.com/vi/euJVaHTbG0c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=euJVaHTbG0c"
     }
   ]
 }

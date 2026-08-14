@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-08-12T16:00:18.288737",
+  "updated_at": "2026-08-14T15:54:11.352426",
   "videos": [
+    {
+      "id": "SHrU80EnvvE",
+      "title": "被爆した劇団「桜隊」をトイピアノで追悼",
+      "description": "",
+      "publishedAt": "2026-08-14T07:21:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SHrU80EnvvE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SHrU80EnvvE"
+    },
+    {
+      "id": "5XhhEZer-ZY",
+      "title": "【熱中症対策企画】お盆休みシーズン　にぎわう観光地の熱中症対策は",
+      "description": "",
+      "publishedAt": "2026-08-14T04:16:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5XhhEZer-ZY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5XhhEZer-ZY"
+    },
     {
       "id": "YVmWdJG3LXM",
       "title": "つながる防災　愛媛と高知をつなぐ防災拠点",

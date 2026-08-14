@@ -1,8 +1,44 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-08-11T16:02:22.689520",
+  "updated_at": "2026-08-14T15:54:06.719938",
   "videos": [
+    {
+      "id": "EYQcjJOYMK4",
+      "title": "No363きみこ創作バラ寿司【CM】",
+      "description": "",
+      "publishedAt": "2026-08-14T15:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EYQcjJOYMK4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EYQcjJOYMK4"
+    },
+    {
+      "id": "oOg8zSL5Ky8",
+      "title": "岡山県信用保証協会スペシャル　未来へ挑む！晴れの国カンパニー　＃２３ ヒルゼンミルキー（真庭市）",
+      "description": "",
+      "publishedAt": "2026-08-14T13:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oOg8zSL5Ky8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oOg8zSL5Ky8"
+    },
+    {
+      "id": "qwfu0FaHbpQ",
+      "title": "加地さん徹底解説！ファジアーノ ホーム開幕戦　勝利のポイントは？",
+      "description": "",
+      "publishedAt": "2026-08-14T09:43:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qwfu0FaHbpQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qwfu0FaHbpQ"
+    },
     {
       "id": "9ShVgNwtU0g",
       "title": "熊本地震から２週間　被災地のいま",

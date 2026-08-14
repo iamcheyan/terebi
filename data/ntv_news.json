@@ -1,8 +1,44 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-08-04T16:53:48.785548",
+  "updated_at": "2026-08-14T15:53:54.448545",
   "videos": [
+    {
+      "id": "0TiK4gjV_EM",
+      "title": "Ginger's Journey: A Rodeo Legacy",
+      "description": "",
+      "publishedAt": "2026-08-13T20:09:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0TiK4gjV_EM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0TiK4gjV_EM"
+    },
+    {
+      "id": "2m3d4ukloBU",
+      "title": "Ginger's Journey: Powered by the Farm and the Sun",
+      "description": "",
+      "publishedAt": "2026-08-13T20:08:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2m3d4ukloBU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2m3d4ukloBU"
+    },
+    {
+      "id": "S6eac1y5rHk",
+      "title": "Ginger's Journey: Husker Mobile Beef Lab",
+      "description": "",
+      "publishedAt": "2026-08-13T20:08:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S6eac1y5rHk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S6eac1y5rHk"
+    },
     {
       "id": "Li0OS9OiIew",
       "title": "Nebraska Volleyball's Bergen Reilly Discusses Team USA, Wedding Planning & Her Husker Future",

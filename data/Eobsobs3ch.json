@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-08-13T16:01:55.362473",
+  "updated_at": "2026-08-14T15:54:30.352531",
   "videos": [
+    {
+      "id": "n0yTrTTK8qg",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年8月10日放送分】",
+      "description": "",
+      "publishedAt": "2026-08-14T05:25:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n0yTrTTK8qg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n0yTrTTK8qg"
+    },
     {
       "id": "dNrCSe_nTDw",
       "title": "【大分市】うち カフェ ジョワ（2026年8月5日放送分）",

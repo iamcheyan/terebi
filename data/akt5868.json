@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-08-11T16:02:48.485491",
+  "updated_at": "2026-08-14T15:54:20.716529",
   "videos": [
+    {
+      "id": "G6z3_dmn294",
+      "title": "第12回与次郎駅伝2026",
+      "description": "",
+      "publishedAt": "2026-08-14T06:48:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G6z3_dmn294/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G6z3_dmn294"
+    },
     {
       "id": "A9q7gNCPTcM",
       "title": "ナイスカップ2026　大会1日目　第１試合",
