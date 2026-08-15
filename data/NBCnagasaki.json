@@ -1,8 +1,32 @@
 {
   "channel_id": "UCh0-nAqSYSYed_A4Qdz-0ww",
   "channel_name": "NBC長崎放送",
-  "updated_at": "2026-08-14T15:54:29.320314",
+  "updated_at": "2026-08-15T15:23:07.172098",
   "videos": [
+    {
+      "id": "F_hClbf0pWc",
+      "title": "お盆伝統の念仏踊り「カケ踊り」長崎県五島市玉之浦町",
+      "description": "",
+      "publishedAt": "2026-08-15T09:30:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F_hClbf0pWc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F_hClbf0pWc"
+    },
+    {
+      "id": "6KkBCh_o1P8",
+      "title": "日曜劇場「VIVANT」キャラバン　出演俳優・ドラムさんに会える！",
+      "description": "",
+      "publishedAt": "2026-08-15T09:29:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6KkBCh_o1P8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6KkBCh_o1P8"
+    },
     {
       "id": "32lPP26ONlI",
       "title": "【長崎お盆の天気】週末は離島を中心に大雨に注意",

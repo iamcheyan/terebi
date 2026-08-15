@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-08-14T15:53:46.182381",
+  "updated_at": "2026-08-15T15:22:31.452009",
   "videos": [
+    {
+      "id": "p_dCC5ZJId8",
+      "title": "あのじゅうよ〜 第211回「県立近代美術館のあのじゅうやで〜」",
+      "description": "",
+      "publishedAt": "2026-08-15T14:30:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p_dCC5ZJId8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p_dCC5ZJId8"
+    },
     {
       "id": "CXq3ttiYBFk",
       "title": "豊臣秀長 直筆の書状 雑賀衆 兜や火縄銃など 企画展「秀吉・秀長と和歌山」 和歌山市立博物館",

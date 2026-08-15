@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-08-14T15:54:31.976255",
+  "updated_at": "2026-08-15T15:23:10.179323",
   "videos": [
+    {
+      "id": "CoAUO42w3G8",
+      "title": "【番宣】８月２２日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-08-15T08:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CoAUO42w3G8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CoAUO42w3G8"
+    },
+    {
+      "id": "LFHZz00fkiU",
+      "title": "くまもと、バド熱！　第２回「堀口祈莉選手」",
+      "description": "",
+      "publishedAt": "2026-08-15T00:30:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LFHZz00fkiU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LFHZz00fkiU"
+    },
     {
       "id": "usEjVUim1OY",
       "title": "【番宣】８月１７日（月）NEWSゲツキン",

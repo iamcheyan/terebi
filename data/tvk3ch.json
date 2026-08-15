@@ -1,8 +1,44 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-08-14T15:54:12.882085",
+  "updated_at": "2026-08-15T15:22:29.432512",
   "videos": [
+    {
+      "id": "eXbJHOQXcBg",
+      "title": "ハマナビ　次回予告（8月22日放送）",
+      "description": "",
+      "publishedAt": "2026-08-15T09:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eXbJHOQXcBg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eXbJHOQXcBg"
+    },
+    {
+      "id": "q0N_s8_ZUho",
+      "title": "ハマナビ　2026年8月15日放送　まちでたどる「横浜の歴史」",
+      "description": "",
+      "publishedAt": "2026-08-15T09:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q0N_s8_ZUho/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q0N_s8_ZUho"
+    },
+    {
+      "id": "RpBM9fByUUc",
+      "title": "LOVEかわさき　8月15日放送　満喫しませんか？川崎のHotel",
+      "description": "",
+      "publishedAt": "2026-08-15T00:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RpBM9fByUUc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RpBM9fByUUc"
+    },
     {
       "id": "HE84J9QXlCA",
       "title": "13分のステージ【Carat×Crow】8/14 O.A.",

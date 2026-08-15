@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-08-09T15:34:13.906697",
+  "updated_at": "2026-08-15T15:23:12.038200",
   "videos": [
+    {
+      "id": "MwRCJRLO6Ec",
+      "title": "トレンド☆サプリ#179「オークストリートの異変」",
+      "description": "",
+      "publishedAt": "2026-08-15T12:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MwRCJRLO6Ec/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MwRCJRLO6Ec"
+    },
     {
       "id": "Rp-wgwwvoSU",
       "title": "【どさんこWEEKEND】大ほっかいどう祭の \"楽しさ美味しさ\" を生中継！【8月8日放送】",

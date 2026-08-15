@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-08-14T15:54:14.850639",
+  "updated_at": "2026-08-15T15:22:37.408028",
   "videos": [
+    {
+      "id": "viQtchoZv30",
+      "title": "食べログ全国一位　絶品カレー！！",
+      "description": "",
+      "publishedAt": "2026-08-15T12:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/viQtchoZv30/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=viQtchoZv30"
+    },
+    {
+      "id": "3bbNbaizuS8",
+      "title": "ナンパで始まった恋を結んだのは・・・",
+      "description": "",
+      "publishedAt": "2026-08-15T11:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3bbNbaizuS8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3bbNbaizuS8"
+    },
     {
       "id": "FblbB9GucYU",
       "title": "ゲストの旅は国内総集編！「旅サラダ」8月15日（土）放送",

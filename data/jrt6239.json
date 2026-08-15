@@ -1,8 +1,32 @@
 {
   "channel_id": "UCuhA-fogYs0MwglwZbnL_8A",
   "channel_name": "四国放送（JRT）",
-  "updated_at": "2026-08-14T15:54:13.690376",
+  "updated_at": "2026-08-15T15:22:23.118463",
   "videos": [
+    {
+      "id": "fn5G0EfGUoE",
+      "title": "【阿波踊り】圧巻の総踊り！感動のフィナーレ",
+      "description": "",
+      "publishedAt": "2026-08-15T15:11:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fn5G0EfGUoE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fn5G0EfGUoE"
+    },
+    {
+      "id": "utxA_sg5H2E",
+      "title": "【阿波踊り】鍛え抜かれた有名連！3日目の演舞場はドラマチック",
+      "description": "",
+      "publishedAt": "2026-08-15T08:19:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/utxA_sg5H2E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=utxA_sg5H2E"
+    },
     {
       "id": "HqXV0SQc_V8",
       "title": "【阿波踊り】今夏も「鬼滅連」が演舞場に！観客の視線も「全集中」",

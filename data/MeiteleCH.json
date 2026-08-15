@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-14T15:54:10.234694",
+  "updated_at": "2026-08-15T15:22:23.490311",
   "videos": [
+    {
+      "id": "G1AIHCPr2RQ",
+      "title": "【まるまる◎あいち】2026年8月15日放送 「アジア競技大会聖火リレー」",
+      "description": "",
+      "publishedAt": "2026-08-15T09:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G1AIHCPr2RQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G1AIHCPr2RQ"
+    },
     {
       "id": "mhcl2P69obI",
       "title": "8月14日(金)放送「レコメシ～自慢のひとさら～」マンチョーの塩だれ焼き",

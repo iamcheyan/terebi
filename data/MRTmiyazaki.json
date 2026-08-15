@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-08-14T15:54:29.147758",
+  "updated_at": "2026-08-15T15:23:06.844901",
   "videos": [
+    {
+      "id": "r950aUUBcqo",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-08-15T03:05:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r950aUUBcqo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r950aUUBcqo"
+    },
     {
       "id": "N7thVpj8oyM",
       "title": "けんかでGO!GO!2026年8月7日放送",
