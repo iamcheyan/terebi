@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-08-09T15:34:20.166741",
+  "updated_at": "2026-08-16T15:24:35.276243",
   "videos": [
+    {
+      "id": "a_oWrlnVbKo",
+      "title": "やまがたサンデー５　８月１６日放送分　未来へつなぐ戦争の記憶　～山形の挑戦～",
+      "description": "",
+      "publishedAt": "2026-08-16T08:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a_oWrlnVbKo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a_oWrlnVbKo"
+    },
     {
       "id": "uICMdPDpPR8",
       "title": "やまがたサンデー５　８月９日放送分　フィールドで輝く実践力～東北農林専門職大学～",

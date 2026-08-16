@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-08-15T15:22:48.584047",
+  "updated_at": "2026-08-16T15:24:03.073827",
   "videos": [
+    {
+      "id": "N8dcq4q6T9k",
+      "title": "食遺産File.259「びわコーンの黄金バーグ」＠滋賀県・守山市",
+      "description": "",
+      "publishedAt": "2026-08-16T03:45:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N8dcq4q6T9k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N8dcq4q6T9k"
+    },
     {
       "id": "XAq5Gw2Cn8k",
       "title": "【よゐこ有野】この街、攻略しとく？東大阪石切をぶーらぶら ~占いの聖地！長い棒を持った公務員？の巻～",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-08-15T15:22:31.452009",
+  "updated_at": "2026-08-16T15:23:41.077138",
   "videos": [
+    {
+      "id": "zgRYRHuB6EQ",
+      "title": "ゲンワカ・川端美由",
+      "description": "",
+      "publishedAt": "2026-08-16T00:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zgRYRHuB6EQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zgRYRHuB6EQ"
+    },
     {
       "id": "p_dCC5ZJId8",
       "title": "あのじゅうよ〜 第211回「県立近代美術館のあのじゅうやで〜」",

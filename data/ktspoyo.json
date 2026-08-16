@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-08-15T15:23:05.274328",
+  "updated_at": "2026-08-16T15:24:21.948445",
   "videos": [
+    {
+      "id": "1KOhFTc4SQ8",
+      "title": "いまコレ！かごしま市　8月16日(日)",
+      "description": "",
+      "publishedAt": "2026-08-16T06:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1KOhFTc4SQ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1KOhFTc4SQ8"
+    },
     {
       "id": "aBjothyh2is",
       "title": "【わんにゃんプラスかごしま】「目の前の命に寄り添う思い」",

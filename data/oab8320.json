@@ -1,8 +1,32 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-08-15T15:23:08.242262",
+  "updated_at": "2026-08-16T15:24:24.830403",
   "videos": [
+    {
+      "id": "vF5CDwLyMLA",
+      "title": "親子で「食」の大切さを学ぶ",
+      "description": "",
+      "publishedAt": "2026-08-16T08:53:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vF5CDwLyMLA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vF5CDwLyMLA"
+    },
+    {
+      "id": "WM1psg9RwNQ",
+      "title": "アユのつかみ取りにチャレンジ",
+      "description": "",
+      "publishedAt": "2026-08-16T08:53:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WM1psg9RwNQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WM1psg9RwNQ"
+    },
     {
       "id": "RFSTo0jwJHM",
       "title": "お盆休み　Ｕターンラッシュで混雑",

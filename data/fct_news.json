@@ -1,8 +1,32 @@
 {
   "channel_id": "UC8Y0ZErdlAnA9uW7ZeRdreQ",
   "channel_name": "FCT福島中央テレビNEWS",
-  "updated_at": "2026-08-15T15:22:58.776240",
+  "updated_at": "2026-08-16T15:24:15.110737",
   "videos": [
+    {
+      "id": "EGjIVr4IrBw",
+      "title": "Uターンラッシュ続く　福島",
+      "description": "",
+      "publishedAt": "2026-08-16T09:34:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EGjIVr4IrBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EGjIVr4IrBw"
+    },
+    {
+      "id": "p7hss6Bu3oY",
+      "title": "地元の子どもたちが“こどもみこし”を披露「ならは百年祭」　福島",
+      "description": "",
+      "publishedAt": "2026-08-16T09:33:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p7hss6Bu3oY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p7hss6Bu3oY"
+    },
     {
       "id": "QeCaXWr1ex8",
       "title": "「まだまだ支援が必要な状況」福島赤十字病院の医療チームが熊本から帰還　福島",
