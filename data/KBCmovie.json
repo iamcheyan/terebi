@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-08-16T15:24:00.400054",
+  "updated_at": "2026-08-17T15:27:08.282548",
   "videos": [
+    {
+      "id": "dSPxPxokDpw",
+      "title": "島田洋七の朝から言わせろ～テレビがうちに来た日～",
+      "description": "",
+      "publishedAt": "2026-08-17T09:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dSPxPxokDpw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dSPxPxokDpw"
+    },
     {
       "id": "jmWTG-etMUI",
       "title": "菓子職人｜江戸と令和の平戸菓子",

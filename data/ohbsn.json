@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-08-14T15:54:22.063111",
+  "updated_at": "2026-08-17T15:27:43.035356",
   "videos": [
+    {
+      "id": "sfSivreoiCs",
+      "title": "「そらなび」夏の尾瀬ヶ原（魚沼市） 2026年8月15日放送回",
+      "description": "",
+      "publishedAt": "2026-08-17T06:13:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sfSivreoiCs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sfSivreoiCs"
+    },
+    {
+      "id": "M7qujFlC_hs",
+      "title": "#81 チカはスペインでは〇〇！（ゲスト平尾知佳選手）",
+      "description": "",
+      "publishedAt": "2026-08-17T03:08:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M7qujFlC_hs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M7qujFlC_hs"
+    },
     {
       "id": "snblziP8HYo",
       "title": "08/14 #32 気になったトピックスを語る凸と凹のお盆",

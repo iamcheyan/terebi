@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-08-16T15:24:26.000667",
+  "updated_at": "2026-08-17T15:27:57.453727",
   "videos": [
+    {
+      "id": "z85Y3S9mdUM",
+      "title": "【番宣】８月１９日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-08-17T04:04:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/z85Y3S9mdUM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=z85Y3S9mdUM"
+    },
+    {
+      "id": "1ao5LZUp75Y",
+      "title": "未来をつくるヒーローたち 第20話",
+      "description": "",
+      "publishedAt": "2026-08-17T01:06:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1ao5LZUp75Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1ao5LZUp75Y"
+    },
     {
       "id": "-_BFPpIc2vk",
       "title": "第115回 めざせ！くまもとの若き匠たち【熊本工業高校 建築科】",

@@ -1,8 +1,3385 @@
 {
   "channel_id": "UCkKVQ_GNjd8FbAuT6xDcWgg",
-  "channel_name": "テレ東BIZ",
-  "updated_at": "2026-08-16T15:24:03.948641",
+  "channel_name": "テレ東BIZ ダイジェスト",
+  "original_name": "テレ東BIZ",
+  "updated_at": "2026-08-17T15:29:01.654125",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rvSBxHBEjl7viazv8nUTy1yJ6h8",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmw2eVdPcFVOZXBZ",
+      "snippet": {
+        "publishedAt": "2026-08-17T15:17:40Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "カルパッチョにごま油を かどや製油 洋食向け新製品【WBS】",
+        "description": "かどや製油は、洋食での使用を想定したごま油の新製品「ISOLETTA（イゾレッタ）」を来月発売すると発表しました。通常のごま油に比べ低温で焙煎し、あっさりとした味に仕上げたのが特徴で、オリーブオイルのようにパスタやカルパッチョなどにそのままかけて楽しめます。価格は200グラム入りでおよそ700円の見込みです。かどや製油のごま油は日本やアメリカ市場でトップシェアですが、新商品の発売で、さらなる海外市場の開拓を目指します。\n\n#かどや製油  #イゾレッタ  #オリーブオイル  #パスタ  #カルパッチョ  #洋食  #ごま油  #セサミオイル  #ISOLETTA\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l6yWOpUNepY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l6yWOpUNepY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l6yWOpUNepY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l6yWOpUNepY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l6yWOpUNepY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l6yWOpUNepY"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UCwPXYWQ9jQrmI9eLr-RrZraKJQ",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLnlJenRFNUFMSHhZ",
+      "snippet": {
+        "publishedAt": "2026-08-17T15:17:35Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "無人コーヒー世界記録 ロボットが 1時間で202杯提供【WBS】",
+        "description": "中国・北京に、人型ロボットが運営する24時間営業の無人コーヒーショップがオープンしました。店内ではロボットが豆を挽き、抽出から提供まで全ての工程を無人で行います。オープン初日には1時間で202杯のコーヒーが提供され、ロボットの運営する店舗が1時間で提供したコーヒーの杯数としてギネス世界記録を樹立しました。\n\n#中国  #北京  #人型ロボット  #コーヒー店  #ギネス世界記録\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yIztE5ALHxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yIztE5ALHxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yIztE5ALHxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yIztE5ALHxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yIztE5ALHxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yIztE5ALHxY"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N9cOvOf3dk9rJGQgVhkLnYck5PA",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkNkcFBwSVF2UTd3",
+      "snippet": {
+        "publishedAt": "2026-08-17T15:17:31Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "中国 鉱工業生産の伸び鈍化 小売売上高も伸び率縮小【WBS】",
+        "description": "中国国家統計局が発表した7月の鉱工業生産は、1年前に比べて4.5％のプラスでした。伸び率は前の月から縮小しました。内需の低迷に加え、7月は相次ぐ台風上陸による工場の稼働停止などが影響しました。一方、消費動向を示す小売売上高は0.6％のプラスと、こちらも前の月から伸び率が縮小していて、消費刺激策の効果が薄れている現状が改めて浮き彫りになりました。\n\n#中国国家統計局  #鉱工業生産  #小売売上高  #消費刺激策  #内需\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CdpPpIQvQ7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CdpPpIQvQ7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CdpPpIQvQ7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CdpPpIQvQ7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CdpPpIQvQ7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CdpPpIQvQ7w"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "50_gnWkHkvQVsO0ISI9QakpdC3E",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLnkyZlFvRFhGcW1J",
+      "snippet": {
+        "publishedAt": "2026-08-17T15:17:27Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "都が地下シェルター整備へ 東京駅近くの八重洲駐車場【WBS】",
+        "description": "東京都は、弾道ミサイル攻撃からの被害を軽減するための地下シェルターを東京駅近くの八重洲駐車場に整備します。今後、既存の地下施設を活用して改修工事を進める方針です。都内では都営地下鉄麻布十番駅に併設された都の防災倉庫に次いで2例目となります。\n\n#東京都  #地下シェルター  #弾道ミサイル  #八重洲駐車場  #麻布十番駅  #都営地下鉄\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y2fQoDXFqmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y2fQoDXFqmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y2fQoDXFqmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y2fQoDXFqmI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y2fQoDXFqmI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y2fQoDXFqmI"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Vhd_JPb8EjUIZVxn6WFypPSpn8",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLnQtZ3l4c0tRR1I0",
+      "snippet": {
+        "publishedAt": "2026-08-17T15:17:24Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "JR東海の利用者数 過去最高 お盆期間 空の便は減少【WBS】",
+        "description": "JR各社は、お盆期間の新幹線と在来線特急の主要区間の利用者が、1年前とほぼ同じ1321万5000人だったと発表しました。このうちJR東海は432万3000人で、1日平均の利用者数はお盆として過去最高でした。一方、空の便は日本航空と全日空ともに国内線と国際線の利用者数が1年前より減少しました。\n\n#お盆  #JR東海  #在来線特急  #新幹線  #日本航空  #全日空\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t-gyxsKQGR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t-gyxsKQGR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t-gyxsKQGR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t-gyxsKQGR4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t-gyxsKQGR4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t-gyxsKQGR4"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u1QLrrSo3hJGMmVVb02uV1nBXic",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLm1sVVZnVXlMbkhz",
+      "snippet": {
+        "publishedAt": "2026-08-17T06:27:16Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "国債長期金利が一時2.930％　約30年ぶり高水準　日銀 早期利上げ観測や中東情勢不透明感で",
+        "description": "※AIによる自動音声でお伝えします。\n17日の国債市場で長期金利の指標となる新発10年物国債の利回りが一時2.930％をつけました。日本相互証券などによりますと、およそ29年10カ月ぶりの高い水準です。円安の進行で物価がさらに押し上げられるとの見方から、市場では日銀が9月にも利上げを実施しその後の利上げペースも加速するとの観測が広がり、金利が上昇しました。中東情勢の不透明感から、原油相場やアメリカの長期金利が上昇基調となっていることも日本国債が売られる要因になりました。\n\n#日本国債　#国債売り　#新発10年物国債　#長期金利利回り　#日本相互証券　#日銀利上げ　#利上げペース加速　#原油相場　#中東情勢　#2026年　#8月　#長期金利　#高水準　#利上げ　#加速　#原油　#アメリカ　#上昇　#不透明感\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mlUVgUyLnHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mlUVgUyLnHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mlUVgUyLnHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mlUVgUyLnHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mlUVgUyLnHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mlUVgUyLnHs"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bGpi__Ml2MR9FMNSkpfh3rssb3M",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLm1UamFCN21GQmlr",
+      "snippet": {
+        "publishedAt": "2026-08-17T05:43:21Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "社会人５年目オン＆オフ時間管理術【Shift W】#shiftw #shorts #テレ東biz #チアリーダー #アメフト #時間管理術",
+        "description": "社会人アメフトチーム「オール三菱ライオンズ」のチアリーダーとして活躍する打越若菜さん（27歳）。\n本業は新卒・キャリア採用などを担当する人事です。\n一見異なる 2 つの顔ですが、共通点を感じているという打越さん。お互いにいい影響をもたらし合っているといいます。\nテレ東BIZと日経ウーマンのコラボ番組「Shift W」では、打越さんのオンとオフに密着し、社会人が、仕事も趣味も全力投球するための時間管理術に迫ります。\n\n#ShiftW #テレ東BIZ #日経ウーマン #チア #アメフト #人事 #時間管理術",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mTjaB7mFBik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mTjaB7mFBik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mTjaB7mFBik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mTjaB7mFBik/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mTjaB7mFBik/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mTjaB7mFBik"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oQf-ile4K1b-kJR-CnmN4RPMh8o",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmpuRS11RU9YZEZj",
+      "snippet": {
+        "publishedAt": "2026-08-17T04:05:56Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "8月17日の天気",
+        "description": "西日本は雲が広がりやすく、急な強い雨に注意してください。東日本と東北は多少、日が差しますが、所々で弱い雨が降りそうです。北海道は晴れるでしょう。関東では暑さが戻りそうです。週間予報です。あすと水曜日は東北から沖縄の広い範囲で日差しがあるでしょう。木曜日は北から天気が崩れ、金曜日は雨の降る所が多くなりそうです。\n\n#天気　#天気予報　#雨　#強い雨　#にわか雨\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jnE-uEOXdFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jnE-uEOXdFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jnE-uEOXdFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jnE-uEOXdFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jnE-uEOXdFc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jnE-uEOXdFc"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kdoGHTliCaXWo77lCA8S3yCQanU",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmhhbHNldWxlaWJV",
+      "snippet": {
+        "publishedAt": "2026-08-17T04:05:53Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "千葉豪雨で約2700台の放置車両　撤去作業進める",
+        "description": "およそ2700台撤去作業を進めています。先週、千葉県を襲った記録的な豪雨で大きな被害があった大網白里市では、店舗が営業を休止し、鉄道が運転を見合せるなど、市民生活への影響が続いています。また17日からお盆の連休明けで交通量が増えるため千葉県などは路上で水没し動けなくなり放置された車両の撤去を進めています。県内ではこれまでに把握された放置車両がおよそ2700台に上り、放置車両への追突事故も起きているため、車両を路肩に寄せるなど、対応を急いでいます。\n\n#撤去作業　#千葉県　#豪雨　#放置車両　#車両　#撤去　#大網白里　#鉄道　#運転見合わせ　#水没\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/halseuleibU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/halseuleibU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/halseuleibU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/halseuleibU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/halseuleibU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "halseuleibU"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Jieszg3FQ91QEInzGc6bi49XLVc",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmtKb3Y4MHVMRVR3",
+      "snippet": {
+        "publishedAt": "2026-08-17T04:05:50Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "福岡県議会 蔵内議長の辞職勧告決議案採決へ 金銭授受疑惑めぐり",
+        "description": "福岡県議会は17日、臨時議会を開き、金銭授受疑惑をめぐって提出された蔵内勇夫議長に対する辞職勧告決議案の採決を行う見通しです。決議案が提出されたことをめぐり、蔵内議長は、疑惑を調査する第三者委員会の結論が出ていないとして、続投に意欲を示しています。蔵内氏が所属する最大会派の自民党県議団は、16日までに対応がまとまらず、結論を持ち越しています。決議案の可決には、議長と副議長を除く過半数の賛成が必要ですが、可決しても法的拘束力はありません。\n\n#福岡県議会　#蔵内勇夫　#辞職勧告　#決議案　#第三者委員会　#自民党県議団　#採決　#金銭授受疑惑　#福岡県　#臨時議会　#金銭授受　#疑惑\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kJov80uLETw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kJov80uLETw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kJov80uLETw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kJov80uLETw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kJov80uLETw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kJov80uLETw"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ReoP2dKidrdpXaqTVubhZx-9otY",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLl9JWUFvelZhcFJv",
+      "snippet": {
+        "publishedAt": "2026-08-17T04:05:47Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米 クシュナー氏とハマス最高指導者が協議　武装解除開始を要求",
+        "description": "パレスチナ自治区ガザの和平計画が難航する中、トランプ大統領の娘婿クシュナー氏は16日、イスラム組織ハマスの最高指導者と仲介国エジプトで協議しました。イスラエルメディアによりますと、和平計画の最大の焦点であるハマスの武装解除を巡り、クシュナー氏はハマスの最高指導者ハイヤ氏に「武装解除を始めれば、アメリカは見返りにイスラエル軍の撤収を保証する」と述べ、武装解除のプロセスを開始するよう要求しました。クシュナー氏は17日にイスラエルを訪問し、ネタニヤフ首相とも会談する見通しで、和平計画の進展を図りたい考えとみられます。ただ、ネタニヤフ首相はハマスへの譲歩に否定的な姿勢は崩しておらず、和平交渉が前進するかは不透明な状況です。\n\n#パレスチナ　#ガザ　#和平計画　#アメリカ　#トランプ　#トランプ大統領　#クシュナー　#協議　#ハマス　#最高指導者　#ハイヤ　#武装解除　#イスラエル　#イスラエル軍　#軍隊　#撤退　#ネタニヤフ　#ネタニヤフ首相　#和平交渉\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_IYAozVapRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_IYAozVapRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_IYAozVapRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_IYAozVapRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_IYAozVapRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_IYAozVapRo"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dQ8XdJmpQwo_4jRT7kA2qJYLis4",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLlRmc1BiaHlUY3Q4",
+      "snippet": {
+        "publishedAt": "2026-08-17T04:05:44Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米韓軍事演習　トランプ氏が大幅縮小を指示「金正恩氏と良好な関係」",
+        "description": "アメリカのトランプ大統領は16日、17日から始まったアメリカ軍と韓国軍の合同軍事演習について、規模を大幅に縮小するようヘグセス国防長官に指示したと明らかにしました。トランプ氏は自身のSNSで、北朝鮮の金正恩朝鮮労働党総書記と「非常に良好な関係」にあるとした上で、アメリカ側の費用負担が大きいことも踏まえ軍事演習の規模を大幅に縮小するよう指示したと発表しました。米韓両軍は17日から27日まで、朝鮮半島有事を想定した定例の大規模合同軍事演習「乙支フリーダムシールド」を実施しています。ドローンやサイバー攻撃など現代戦の要素を踏まえた演習で、ウクライナ侵攻を続けるロシアへの派兵を通じて北朝鮮軍が習得した能力への対応策を強化する狙いもあります。一方、北朝鮮側は軍事演習について「侵略戦争の予行演習」だと反発し、対抗措置を取る考えを示しました。\n\n#アメリカ　#トランプ　#トランプ大統領　#金正恩　#北朝鮮　#韓国　#軍事演習　#乙支フリーダムシールド　#ウクライナ　#ロシア　#米韓　#規模縮小　#朝鮮半島　#有事　#ドローン　#サイバー攻撃　#現代戦　#派兵　#予行演習　#侵略戦争　#対抗措置\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TfsPbhyTct8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TfsPbhyTct8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TfsPbhyTct8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TfsPbhyTct8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TfsPbhyTct8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TfsPbhyTct8"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JDd6xaA5Wkz2hRvovvvOrjDbefk",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLlpieXlzek5XdGFz",
+      "snippet": {
+        "publishedAt": "2026-08-17T04:05:41Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "4－6月期　実質GDP年率1.1％増　3期連続プラス　中東からの原油輸入減少で外需が押し上げ　個人消費など内需は減少",
+        "description": "2026年4月から6月までのGDP＝国内総生産の速報値は年率換算でプラス1.1％と3期連続のプラスになりました。内閣府が発表した4月から6月のGDP速報値は、物価変動の影響を除いた実質で、前の3カ月と比べ0.3％の増加で、年率換算では1.1％のプラスになりました。プラスに寄与したのは外需で、中東からの原油輸入が一時的に減少した影響で、輸入が実質で1.5％減少し外需全体では0.5％のプラスとなりました。内需では、GDPの半分以上を占める個人消費は0.02％減少し、8期ぶりのマイナスでした。4月に値上げしたタバコの減少や教育の無償化が影響しました。設備投資は1.2％減少し2期連続のマイナスでした。研究開発が減少に寄与しました。\n\n#GDP　#内閣府　#速報値　#外需　#内需　#輸入　#原油　#中東　#中東情勢　#個人消費　#設備投資　#研究投資　#タバコ　#教育無償化\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZbyyszNWtas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZbyyszNWtas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZbyyszNWtas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZbyyszNWtas/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZbyyszNWtas/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZbyyszNWtas"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8k-TtFNcsiAKA9hBp-AiL0WpVKw",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLndtNmpIemRYMG4w",
+      "snippet": {
+        "publishedAt": "2026-08-17T03:34:43Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "トランプ大統領 韓国との軍事演習縮小を指示 #アメリカ #トランプ #韓国 #軍事演習 #ヘグセス #規模縮小 #北朝鮮",
+        "description": "2026年8月17日放送のニュース",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wm6jHzdX0n0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wm6jHzdX0n0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wm6jHzdX0n0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wm6jHzdX0n0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wm6jHzdX0n0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wm6jHzdX0n0"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4KiimunO1V9k6mvKGWMagsBNgwY",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLk5SNmFvbEw0bF8w",
+      "snippet": {
+        "publishedAt": "2026-08-17T01:01:11Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "8月17日（月）国の基金 目標未達なら支援中止、ホンダ 衝突安全技術の開発にAI活用【ながら日経】",
+        "description": "■光文社からのお知らせ■\n\n【‎あなたの解釈に「独自性」が生まれる、読む技術・見る技術の教科書！】\n阿部幸大 著\n「まったく新しいテクスト分析の教科書」\nhttps://books.kobunsha.com/book/b10193304.html\n（光文社のページに遷移します）\n\n小説、写真、映像、音楽といった多種多様な「テクスト」を対象に、\n「分析する」とはそもそも何をすることなのかをゼロから徹底解説。\nどうすればテクストをうまく解釈し、独自の価値生産へとつなげていけるのかを示しながら、\n「読む技術」「見る技術」を身につける、大学からビジネスまで役立つ「人文知」の超入門書です。\n\n詳細・お求めは下記リンクからどうぞ。\nhttps://books.kobunsha.com/book/b10193304.html\n（光文社のページに遷移します）\n\n8月の日経BizGate「ひらめきブックレビュー」でも、\n「まったく新しいテクスト分析の教科書」を紹介しています。\nhttps://ps.nikkei.com/bookreview/\n（日経BizGate「ひらめきブックレビュー」のページに遷移します）\n---------------------------------------------------------------\n【Amazon Music独占でスピンオフコンテンツ「ながら日経WEEKLY」がスタート！】\n\nながら日経のパーソナリティと、日経の記者をはじめとした有識者が週替わりで登場し、\nその週のポイントとなるニュースを紹介・解説します。\n毎週土曜日正午ごろ、Amazon Music独占でお聴きいただけます。\n\n詳しくはこちらをチェック↓\nhttps://music.amazon.co.jp/podcasts/af728319-e478-4300-9b34-38b547685f2d?ref=dm_sh_GJTSDni7N0Z6ohZVAQC1rfCQq\n---------------------------------------------------------------\n\n日本経済新聞社の人気音声コンテンツ「ながら日経」「ヤング日経」をテレ東BIZで平日のみ配信中。\n「ながら日経」は、朝の10分、ニュースをギュッと詰め込んでお届け！通勤・通学しながら、家事をしながら…あなたの「ながら時間」に経済を中心とした最新情報をお伝えします。\n「ヤング日経」は、明るい未来を目指し、時代の変化を先取りするニュースをお届けします。ヤングにしか見えない未来がある！\n\n■月曜パーソナリティ：外村 倫子\n\n国家資格キャリアコンサルタント/フリーアナウンサー\n\n#国 #基金 #目標未達 #支援中止 #進捗確認 #義務 #ホンダ #衝突安全技術 #開発 #AI #活用 #中国 #対抗 #外国人 #レンタカー事故 #急増 #観光庁 #実態調査 #大東建託 #アメリカ #賃貸管理 #企業 #買収 #中低所得層 #住宅需要 #開拓 #ソフトバンク #SBエナジー #NVIDIA #出資検討",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NR6aolL4l_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NR6aolL4l_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NR6aolL4l_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NR6aolL4l_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NR6aolL4l_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NR6aolL4l_0"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S7PqiVh2AulghNSXSeOUfe-RU60",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLm5qQjFqMTFQTC1R",
+      "snippet": {
+        "publishedAt": "2026-08-17T01:00:03Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "8月17日（月）アシックス 売上高初の1兆円で上場来高値、メモリー高騰で中古iPhone販売2.4倍【ヤング日経】",
+        "description": "日本経済新聞社の人気音声コンテンツ「ながら日経」「ヤング日経」をテレ東BIZで平日のみ配信中。\n「ながら日経」は、朝の10分、ニュースをギュッと詰め込んでお届け！通勤・通学しながら、家事をしながら…あなたの「ながら時間」に経済を中心とした最新情報をお伝えします。\n「ヤング日経」は、明るい未来を目指し、時代の変化を先取りするニュースをお届けします。ヤングにしか見えない未来がある！\n\n■月曜担当：神下 茉衣（まい）\n\n心理士を目指す大学院生。臨床心理学を勉強中。元射撃部で、10mエアライフル立射60発三段と50mライフル3姿勢60発女子初段所持。趣味はミュージカル、カラオケ、着付け。「皆さんの心に刺さるニュースをお届けします！」\n\n#アシックス #売上高初 #1兆円 #上場来高値 #26年12月期 #純利益 #メモリー #高騰 #中古iPhone #販売 #サーバー部品 #再利用 #ヤッホー #U字型ビアグラス #飲酒 #神の海老 #販売5割増 #三菱商事 #ヤオコー #セブン #採用 #ラブブ #スイーツ店 #シンガポール #行列 #ポップマート #海外初出店",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/njB1j11PL-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/njB1j11PL-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/njB1j11PL-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/njB1j11PL-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/njB1j11PL-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "njB1j11PL-Q"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UWsJHJm1j7rUMXxliQglfUtmy1o",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLk9rcHJ0MmYtakVN",
+      "snippet": {
+        "publishedAt": "2026-08-17T00:37:25Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "AI時代のサイバー攻防戦　抑止が困難に【日経モープラFT】",
+        "description": "2026年8月17日放送のＢＳテレ東「日経モーニングプラスＦＴ」より、特集の一部をYouTubeで配信します。\n▼フルバージョンは「テレ東BIZ」で配信中▼\nhttps://txbiz.tv-tokyo.co.jp/plusft/clips?utm_source=youtube&utm_medium=video&utm_campaign=plusft_yt\n\n▼「テレ東BIZ」会員登録はこちら▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video&utm_campaign=plusft_yt\n\nAIで様変わりするサイバー空間の攻防戦について考えます。高速化するサイバー攻撃を未然に防ぐことが難しくなっています。政府の防衛体制の現状を慶応義塾大学教授の土屋大洋さんが解説します。\n\n【出演者】\n山田幸美（キャスター）\n豊嶋広（ＢＳテレ東解説委員）\n元田芳（キャスター）\n土屋大洋（慶応義塾大学教授）\n山田周平（桜美林大学特任教授）\n\n#AI　#サイバー　#抑止　#高速化　#大量化　#自律化　#不休化　#ハッキング　#サイバー対処能力強化法　#能動的　#官民　#自衛隊　#サイバーセキュリティ\n\nＢＳテレ東「日経モーニングプラスＦＴ」番組HP\nhttps://www.bs-tvtokyo.co.jp/mplusft/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Okprt2f-jEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Okprt2f-jEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Okprt2f-jEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Okprt2f-jEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Okprt2f-jEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Okprt2f-jEM"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ywwHJPhdZkYgJAdqLDp3fvj_TmU",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLnhQSjBQQlE5OTVV",
+      "snippet": {
+        "publishedAt": "2026-08-16T23:44:09Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米トランプ大統領 韓国との軍事演習縮小を指示【モーサテ】",
+        "description": "アメリカのトランプ大統領はさきほど、韓国との合同軍事演習について、規模を縮小するようヘグセス国防長官に指示したと、自身のSNSで表明しました。理由については北朝鮮の金正恩総書記との良好な関係や、アメリカ側の費用負担だということです。\n\n#アメリカ #トランプ #韓国 #軍事演習 #ヘグセス #規模縮小\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xPJ0PBQ995U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xPJ0PBQ995U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xPJ0PBQ995U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xPJ0PBQ995U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xPJ0PBQ995U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xPJ0PBQ995U"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ne01FUWVOIBv1J9RgfEIPHAWLlE",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkE3a2Z5a1cxUm9V",
+      "snippet": {
+        "publishedAt": "2026-08-16T23:44:04Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "千葉豪雨 死者は関連調査中含め10人に…電力や交通網にも影響が残る【モーサテ】",
+        "description": "千葉県の豪雨の影響で災害関連死にあたる可能性がある人が新たに1人明らかになり、豪雨の死者は関連調査中を含め合わせて10人となりました。また、電力や交通網にも影響が残っていて、東京電力パワーグリッドによりますと市原市などでおよそ80軒が依然停電となっているほか、JR外房線の一部区間で現在も運転を見合わせています。\n\n#千葉県 #豪雨 #災害関連死 #東京電力 #パワーグリッド #停電 #JR外房線 #運転見合わせ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A7kfykW1RoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A7kfykW1RoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A7kfykW1RoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A7kfykW1RoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A7kfykW1RoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A7kfykW1RoU"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mjEmRf-eceG590eSX7Ax5psvLa0",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLlZKRnFKbDE0cS1F",
+      "snippet": {
+        "publishedAt": "2026-08-16T23:43:59Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "中国船 EEZで連日の海洋調査 尖閣諸島周辺と久米島沖【モーサテ】",
+        "description": "第11管区海上保安本部は16日までに、沖縄県の尖閣諸島周辺と久米島沖のEEZ＝排他的経済水域で、中国の海洋調査船が相次いでワイヤのような物を海中へのばしているのを確認したと発表しました。海上保安庁の巡視船が日本側の同意がない海洋の科学的調査は認められないとして、無線で中止を求めました。\n\n#中国 #海洋調査船 #尖閣諸島 #久米島 #EEZ #海上保安庁\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJFqJl14q-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJFqJl14q-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJFqJl14q-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VJFqJl14q-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VJFqJl14q-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VJFqJl14q-E"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iq2J-YJW4sxxeZ7lFXmP8HjsIqE",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLjdxUXlENUNZU2hB",
+      "snippet": {
+        "publishedAt": "2026-08-16T23:43:53Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "ウクライナ軍 およそ600機 モスクワへ大規模ドローン攻撃【モーサテ】",
+        "description": "ロシア・モスクワのソビャニン市長は16日、15日夜から16日朝にかけて、ウクライナ軍による大規模なドローン攻撃があったと発表しました。モスクワ方面に飛来したウクライナ軍のドローンはおよそ600機におよびそのうち200機をロシア軍は撃墜したということです。モスクワ州知事によると、ウクライナ軍によるドローン攻撃で1人が死亡し、ロシアの通販大手ワイルドベリーズの倉庫も炎上したということです。ウクライナはワイルドベリーズがロシア軍の軍事物資を輸送しているとして攻撃を繰り返しています。\n一方、ウクライナのゼレンスキー大統領は16日、首都キーウやウクライナ南部などにロシアによる弾道ミサイルやドローンによる攻撃があったと自身のSNSで明らかにしました。3人が死亡し、およそ20人が負傷したということです。\n\n#ロシア #モスクワ #ソビャニン #ウクライナ #ゼレンスキー #ドローン #攻撃 #ワイルドベリーズ #火災 #ミサイル",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7qQyD5CYShA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7qQyD5CYShA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7qQyD5CYShA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7qQyD5CYShA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7qQyD5CYShA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7qQyD5CYShA"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kOk592FpQEVD4M65YYzKZOxqTTA",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLlltTHBDY1NyVHMw",
+      "snippet": {
+        "publishedAt": "2026-08-16T18:20:36Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "新製品を創造するプロ集団＆女子高生がAIロボで未来を拓く【ニッポン！こんな未来があるなんて～巨大企業の変革プロジェクト～】",
+        "description": "加藤浩次が直撃！虎ノ門の注目スタートアップと1964年創業の健康・美容機器メーカーがタッグ！長年競合との差別化に悩んでいた老舗企業が、ゼロからヒットを生み出す伴走支援により初の自社ブランド製品を開発。その驚きの秘訣に迫る！\n・加藤浩次が埼玉県の高校を直撃！企業版ふるさと納税を活用し大手IT企業から贈られた最新AIロボットで、女子高生たちがプログラミングや未来の教育に挑戦する現場に密着！\n\n【出演者】\n加藤浩次\n梅澤高明（CIC Japaan）\n篠原由樹（nae）\n大河原吉貴（BHS）\n渡邊賢司（大塚商会）\n原中祐明（浦和第一女子高等学校）\n藤井由衣（テレビ東京アナウンサー）\n狩野恵里（テレビ東京アナウンサー）\n【ナレーション】\n倉野麻里（テレビ東京アナウンサー）\n\n#加藤浩次 #梅澤高明 #篠原由樹 #大河原吉貴 #渡邊賢司 #原中祐明 #藤井由衣 #狩野恵里 #倉野麻里 #CIC #nae #BHS #デザインコンサルティング #スイープ変調波 #elekaI #グルテンフリーカレー #大塚商会 #浦和第一女子高等学校 #temi #SSH #スーパーサイエンスハイスクール #プログラミング #マッピング",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YmLpCcSrTs0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YmLpCcSrTs0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YmLpCcSrTs0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YmLpCcSrTs0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YmLpCcSrTs0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YmLpCcSrTs0"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PJRi4sc1aVjl0qQxNEOZn3DXW6Y",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLlVuNmVfYjZPTzNR",
+      "snippet": {
+        "publishedAt": "2026-08-16T09:00:26Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "BYDはなぜ日本の軽市場に？理由は「トヨタをリスペクト」BYD流スピード開発に迫る",
+        "description": "フル視聴はコチラ▶https://txbiz.tv-tokyo.co.jp/original2/vod/post_346632?utm_source=youtube&utm_medium=video&utm_campaign=original2_260814_yt_Un6e_b6OO3Q\nBYDが軽EV「ラッコ」を日本市場に投入した。乗用車参入から3年でやっと販売1万台到達と苦戦中のBYDはなぜ日本独自企画の”軽”に参入したのか。自動車アナリストの中西孝樹氏とともにその真意を分析する。年内販売台数1万台の目標は達成できるのか？わずか2年のスピード開発の裏側とは？CEV補助金減額の真相とは？徹底解説する。\n\n#BYD　#ラッコ　#RACCO　#トヨタ　#ホンダ　#日産　#スズキ　#中国　#中西孝樹　#大槻麻莉子　#菅野陽平",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Un6e_b6OO3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Un6e_b6OO3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Un6e_b6OO3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Un6e_b6OO3Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Un6e_b6OO3Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Un6e_b6OO3Q"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NDVwWYkJHyrnjOChuGIq3jX7to0",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmFSWTAyMEVYYTM0",
+      "snippet": {
+        "publishedAt": "2026-08-14T16:15:46Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "BSテレ東不具合の原因判明　NHKが誤データを送出【WBS】",
+        "description": "8月9日から11日にかけて一部のメーカーのテレビでBSテレ東などが映らない不具合が発生しました。その原因としてNHKは14日、NHKがBS放送で送出している信号データに古いチャンネル情報が含まれていたためだと発表し、おわびしました。現在は正しい情報の信号データが送出されています。\n\n#NHK #BSテレ東 #不具合 #信号データ\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aRY020EXa34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aRY020EXa34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aRY020EXa34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aRY020EXa34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aRY020EXa34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 61,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aRY020EXa34"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lzwdReagvwFpSahQY5mPRIx4-VY",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLm1qbGhSYld6Ql9Z",
+      "snippet": {
+        "publishedAt": "2026-08-14T16:14:36Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "中東情勢が影響　仁川空港 旅客数で世界1位に【WBS】",
+        "description": "韓国の仁川国際空港が発表した2026年1月から6月の国際線の旅客数が3839万人となり、世界の国際空港で最多となりました。中東情勢の悪化で、中東を経由する便が仁川空港での乗り継ぎに切り替わったことや日本をはじめとする観光客の増加が要因です。\n\n#仁川空港 #観光客 #中東情勢\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mjlhRbWzB_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mjlhRbWzB_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mjlhRbWzB_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mjlhRbWzB_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mjlhRbWzB_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 62,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mjlhRbWzB_Y"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VypRZPoPu6QBIlHfw2U2h2suosQ",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkNkdllMVEpmNTQ4",
+      "snippet": {
+        "publishedAt": "2026-08-14T16:13:30Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "7月 民間死者437人　迎撃苦戦 民間人の死者急増【WBS】",
+        "description": "国連によりますと、ウクライナで7月に死亡した民間人が437人に上り、前の月と比べて46.6％増加しました。ロシアによる侵攻開始から間もない2022年5月以来、最多です。死者急増の原因として、長距離攻撃が挙げられ、ロシアの弾道ミサイル迎撃の難しさが改めて浮き彫りとなりました。\n\n#迎撃 #ウクライナ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CdvYLTJf548/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CdvYLTJf548/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CdvYLTJf548/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CdvYLTJf548/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CdvYLTJf548/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 63,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CdvYLTJf548"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ecU6fsOQyQV4X5Ceba9cR8e-VrQ",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmJybHFFQ2F1V3JJ",
+      "snippet": {
+        "publishedAt": "2026-08-14T16:12:24Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "トランプ政権　輸入ドローン 最大100％の関税【WBS】",
+        "description": "アメリカのトランプ政権は13日、輸入するドローンと関連部品に対し、9月から最大100％の追加関税を課すと発表しました。中国などへの輸入依存度を下げて国家安全保障上のリスクに対処する狙いです。日本に対しては、関税の上限を15％とする特例が設けられます。\n\n#トランプ政権 #輸入 #ドローン\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/brlqECauWrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/brlqECauWrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/brlqECauWrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/brlqECauWrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/brlqECauWrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 64,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "brlqECauWrI"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e1kjfxdT6s7b0CO6Tx2adu4PM8M",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLjdtaTFiNTZVSXRB",
+      "snippet": {
+        "publishedAt": "2026-08-14T16:11:03Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米ガス発電に7300億円融資　対米投融資第2弾が決定【WBS】",
+        "description": "国際協力銀行は14日、日米関税合意に基づく対米投融資の第2弾として、2つの天然ガス火力発電所の建設に、合わせておよそ7300億円を融資すると発表しました。アメリカの金融大手シティバンクやJPモルガン・チェースと協調して貸し出します。対米投融資にアメリカの銀行が参加するのは初めてで、課題になっていた巨額のドル調達に一定のめどがついた形です。\n\n#国際協力銀行 #対米投融資 #天然ガス火力発電所 #シティバンク #JPモルガンチェース #日米関税合意\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7mi1b56UItA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7mi1b56UItA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7mi1b56UItA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7mi1b56UItA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7mi1b56UItA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 65,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7mi1b56UItA"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CZuYeYLOp6DW9GYMtoepJITV-Yg",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLnRxLW5NVmppVjNV",
+      "snippet": {
+        "publishedAt": "2026-08-14T08:00:03Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "「サトウのごはん」から「じゃがりこ」まで・・・知られざる「容器」シェアNo. 1企業！トップが語る・・・ヒット商品を生む秘訣とは？　～東洋製罐GHD大塚一男会長～【カンブリア宮殿／未公開インタビュー】",
+        "description": "▼インタビューのフルバージョン(21分)は「テレ東BIZ」で配信中！▼\nhttps://txbiz.tv-tokyo.co.jp/cambria/vod/post_346547?utm_source=youtube&utm_medium=video&utm_campaign=freecamb_260806_yt_tq-nMVjiV3U\n\n▼2026年8月13日OA『知られざる巨大黒子企業』【カンブリア宮殿】▼\nhttps://txbiz.tv-tokyo.co.jp/cambria/vod/post_346329?utm_source=youtube&utm_medium=video&utm_campaign=freecamb_260806_yt_tq-nMVjiV3U\n\n2026年8月13日放送の『知られざる巨大黒子企業』で取材した、東洋製罐GHD・大塚一男会長のインタビューをテレ東BIZで限定配信します。 「ヒット商品を支える容器シェアNo.1企業としての強み」「氷結“ダイヤカット缶”の誕生秘話」「イノベーションを起こし続ける極意」など、詳しく聞きました。\n\n#東洋製罐　#容器　#缶　#瓶　#ペットボトル　#ボンカレー　#キユーピー　#じゃがりこ　#氷結　#サトウのごはん　#カンブリア宮殿　#番組未公開",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tq-nMVjiV3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tq-nMVjiV3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tq-nMVjiV3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tq-nMVjiV3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tq-nMVjiV3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 81,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tq-nMVjiV3U"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IWft1_v0REPR700ERjmWCDjGPss",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmE1c0l2Um9UbHRR",
+      "snippet": {
+        "publishedAt": "2026-08-14T07:41:47Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "「ホリエモンin2005、隊長in2026」／AI・半導体株に資金再び！直近決算で読み解く注目業種は？【金曜3時半のマーケットライブ～BullとBear～】",
+        "description": "【冒頭15分程度のみ配信】 続きはこちらから視聴できます👉https://txbiz.tv-tokyo.co.jp/bullbear/vod/post_346723?utm_source=youtube&utm_medium=video&utm_campaign=bullbear_260814_archive_yt_a5sIvRoTltQ\n\n13日の東京株式市場で日経平均株価は続伸し、約1カ月ぶりに6万8000円台を回復しました。前日のアメリカの半導体株高を追い風に、AIや半導体関連銘柄へ買いが先行したかたちです。\n毎週金曜日に株式市場の終了とともに、今週のおさらいと来週の予定や見通しについてお伝えする「金曜3時半のマーケットライブ～BullとBear～」。第259回のテーマは「ホリエモンin2005、隊長in2026」。\n\n\nベア隊員：「中東情勢が膠着状態ですが。」\nブル隊長：「想定通り。」\nベア隊員：「TOPIXが最高値ですが。」\nブル隊長：「想定通り。」\nベア隊員：「円相場が半値戻しとなっていますが。」\nブル隊長：「想定通り。」\nベア隊員：「ブル隊長の『陰の極宣言』は毎度、フライング気味ですが。」\nブル隊長：「想定通り。」\nベア隊員：「14日金曜はお盆期間ですが。」\nふたり　：「想定通り、わたしたちは・・・・・・出まーす！」\n\nと、ここで今週のお題クイズ！\nとかく想定通りを連発する、なにもかもお見通しのブル隊長ですが、\n想定 「外！」  と思っていることはなんでしょう。\n隊員の皆様の「想定外」もお待ちしております！\n14日は、想定通り「マラソン図」展開です。お楽しみに！\n\nブルベアは🎵寄り添〜う🎶参加型マーケットエンターテインメントです。\n奮ってチャット欄へご参加ください！\n\n\n出演者：\n鈴木亮（日本経済新聞社 客員編集委員）\n末武里佳子（テレビ東京アナウンサー）\n\n\n\n#決算　#日経平均　#TOPIX　#個人投資家　#ブルベア　#BullとBear　#経済　#マーケット　#日本経済新聞　#鈴木亮　#末武里佳子",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a5sIvRoTltQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a5sIvRoTltQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a5sIvRoTltQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a5sIvRoTltQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a5sIvRoTltQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 82,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a5sIvRoTltQ"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KzfSmLRrtugFjHL4zs1iPPIxcuo",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmM4eXhMNE9vVlg4",
+      "snippet": {
+        "publishedAt": "2026-08-14T03:54:42Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "8月14日の天気",
+        "description": "東北の太平洋側と記録的な大雨になった関東は、一旦、雨がやんでも、夜にかけて再び、激しい雨や雷雨に注意してください。東海から西は晴れ間が出ても、所々で、急な雨や雷雨がありそうです。北海道は晴れる所が多いでしょう。週間予報です。関東の雨はあすの朝には、やみそうです。この先は日差しの届く所が多いですが、太平洋側では雲が広がりやすいでしょう。\n\n#天気　#天気予報　#大雨　#雨　#雷雨\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c8yxL4OoVX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c8yxL4OoVX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c8yxL4OoVX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c8yxL4OoVX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c8yxL4OoVX8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 83,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c8yxL4OoVX8"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U8QMJS7nQ5x-2JVSwx1UMJK3ic0",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLklOWm5Dd0l2QTc0",
+      "snippet": {
+        "publishedAt": "2026-08-14T03:54:38Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米 ドローンに100％関税へ　米国産の拡大を促進",
+        "description": "アメリカのトランプ政権は13日、輸入するドローンと関連部品に対し、最大100％の追加関税を課すと発表しました。9月3日に発動します。国内生産の拡大を促し、中国などへの輸入依存度を下げて国家安全保障上のリスクに対処する狙いです。日本などからの輸入品については、関税の上限を15％とする特例が設けられます。\n\n#アメリカ　#トランプ　#輸入　#ドローン　#関税　#追加関税　#米国産　#輸入依存　#安全保障　#リスク\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/INZnCwIvA74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/INZnCwIvA74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/INZnCwIvA74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/INZnCwIvA74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/INZnCwIvA74/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 84,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "INZnCwIvA74"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PdtdLs188Xmi6s85IvnRjKHO-38",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmxSUjlrUkF6QjVZ",
+      "snippet": {
+        "publishedAt": "2026-08-14T03:54:32Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "ウクライナ迎撃苦戦で民間人の死者急増　7月の死者は前年の2倍近く",
+        "description": "迎撃に苦戦する実態が浮き彫りになりました。国連は13日、ウクライナで7月に死亡した民間人が437人に上り、前の月と比べて46.6％増加したと発表しました。ロシアによる侵攻開始から間もない2022年5月以来、最多となりました。ゼレンスキー大統領は自身のSNSで、ウクライナの迎撃ミサイルの数が2025年と比べて半分以下に減少する一方、ロシアが発射する弾道ミサイルは2倍に増えたと指摘しました。\n\n#ウクライナ　#ロシア　#迎撃　#ミサイル　#死者　#民間人　#迎撃ミサイル　#弾道ミサイル",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lRR9kRAzB5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lRR9kRAzB5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lRR9kRAzB5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lRR9kRAzB5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lRR9kRAzB5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 85,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lRR9kRAzB5Y"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "91x5xWbot04KJjPsKl6zfTfnW3o",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkpab3FjTTBkTVY4",
+      "snippet": {
+        "publishedAt": "2026-08-14T03:54:29Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "プーチン氏北方領土訪問　日本の抗議「無駄話」とメドベージェフ前大統領",
+        "description": "ロシアのメドベージェフ前大統領は13日、北方領土の択捉島を訪問したプーチン大統領に対し抗議した高市総理大臣らの発言について無駄話だと主張しました。北方領土が日本固有の領土であり、プーチン氏の訪問は容認できないとする高市総理の発言を受け、2010年に国後島を訪れたメドベージェフ前大統領は、「好きなだけしゃべればいいがそんな無駄話では何も変わらない」と述べました。また、ロシア外務省のザハロワ情報局長は「日本の高官はロシア最高指導者が自国内のどの地域を訪問してよいか、いけないのかを横柄に指図するに至っている」と強く反発しています。\n\n#ロシア　#メドベージェフ前大統領　#プーチン　#プーチン大統領　#北方領土　#択捉島　#高市総理　#マリアザハロワ　#MariaZakharova　#無駄話　#領土\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JZoqcM0dMV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JZoqcM0dMV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JZoqcM0dMV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JZoqcM0dMV8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JZoqcM0dMV8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 86,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JZoqcM0dMV8"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TfEi7pwlW_LY2E_PdD8ZkEjiU5k",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLllYMTBqZVZvclA0",
+      "snippet": {
+        "publishedAt": "2026-08-14T03:54:25Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "千葉大雨 4人死亡　各地で冠水など被害　14日も大気不安定 土砂災害や洪水被害に警戒",
+        "description": "千葉県で13日夕方から線状降水帯が断続的に発生し、各地で道路が冠水するなどの被害がでています。千葉県内では4人の死亡が確認されています。千葉県内で14日未明にかけて大雨が降り各地で道路が冠水して車の立ち往生が相次ぐなど、14日も交通への影響が続いています。こちらは東金JCT付近の映像です。高速道路に土砂が流れ込んだ影響で通行止めになっています。千葉市中央区では13日の昼からの12時間で降った雨の量が348ミリと観測史上最大となりました。この量は平年の8月の1カ月間で降る雨量の3倍にあたります。千葉市役所にはJRの運転見合わせなどの影響で帰宅困難となった400人以上が身を寄せ、避難指示は一時40万人を超えました。千葉県内では市川市や佐倉市などで4人の死亡が確認されています。\nこの大雨でJR各線で運休など、交通機関にも影響が出ています。千葉駅前から山本記者の中継です。\n山本記者「13日に大雨が降った千葉駅周辺では日差しが出ていますが、大雨の影響で交通機関に乱れがでています。午前9時頃の駅にはバスやタクシーに並ぶ人で、長い列ができていました」\n男性「千葉県庁で帰宅困難者になって一夜を過ごした。（バス待ちで）1時間近くは並んでいる」\n山本記者「現在、成田空港に乗り入れるJRや京成電鉄などでは一部で遅れや運休が出ています。線路内の点検が必要で、早くてもお昼頃までかかるとのことです。その成田空港では13日夜、空港から出発する電車やバスが大雨の影響で運休したため、空港会社によりますと、海外から帰国したおよそ7000人が空港内で足止めとなったということです。現在、電車の運休などの影響で、空港は混雑しているということです。また、私が都内から千葉方面に向かう道には水没したと思われる車が何台も乗り捨てられていて渋滞となっていました」\n千葉県では今後も厳重な警戒が必要です。関東甲信には暖かくしめった空気が流れ込み現在も大気の状態が非常に不安定となっています。引き続き15日にかけて雷を伴った非常に激しい雨が降って大雨となるところがあるでしょう。15日朝までの24時間の降水量は関東甲信で150ミリと予想されています。千葉県では13日からの大雨で地盤が緩んでいるところもあります。普段よりも少ない雨でも土砂災害や洪水被害の危険度が高まる恐れがあり、気象庁は厳重に警戒するよう呼びかけています。\n\n#大雨　#水害　#災害　#冠水　#千葉　#線状降水帯　#立往生　#交通　#通行止め　#東金JCT　#土砂災害　#千葉市　#観測史上最大　#千葉市役所　#宿泊　#帰宅困難者　#帰宅困難　#千葉県庁　#成田空港　#JR　#京成電鉄　#電車　#バス　#遅延　#運休　#水没　#渋滞",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YX10jeVorP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YX10jeVorP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YX10jeVorP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YX10jeVorP4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YX10jeVorP4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 87,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YX10jeVorP4"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yvEl6hV_d2eU2fdWS2t7dIeYvcg",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLlZlLThJNERzWElV",
+      "snippet": {
+        "publishedAt": "2026-08-14T03:30:57Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "半導体超え 巨大ビジネス！ “アニメ”経済圏！世界を制する新戦略【NIKKEI NEWS NEXT】",
+        "description": "2026年8月13日放送のＢＳテレ東「NIKKEI NEWS NEXT」より、特集の一部をYouTubeで配信します。\n▼フルバージョンは「テレ東BIZ」で配信中▼\nhttps://txbiz.tv-tokyo.co.jp/nikkeinext?utm_source=youtube&utm_medium=video&utm_campaign=nnn_yt\n\n▼「テレ東BIZ」会員登録はこちら▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video&utm_campaign=nnn_yt\n\nいまや日本のアニメは、「見る」娯楽から、世界中の経済を動かす「巨大ビジネス」へと大きく姿を変えている。2024年のアニメ産業の市場規模は3兆8407億円、そのうち海外が2兆1702億円と国内を上回る。コンテンツ全体で見ると、2024年の海外売り上げは6兆1300億円。半導体と電子部品の輸出額を超え、日本の重要な輸出産業となった。そして2025年、歴史的な転換点が訪れる。劇場版『鬼滅の刃』無限城編 第一章 猗窩座再来が全世界興収1179億円と大ヒット。米ゴールデングローブ賞にもノミネートされた。劇場版『チェンソーマン レゼ編』も全世界興行収入ランキングで30位台入り。日本のアニメ映画が、ハリウッド作品と肩を並べる時代がやってきた。では、世界戦略のカギを握るのは何か？それは「ヒットのその先をどう広げるか」。日経エンタテインメント！編集委員が解説します。\n\n【ゲスト】平島綾子(日経エンタテインメント！編集委員)\n\n#アニメ　#鬼滅の刃　#チェンソーマン　#アニメエキスポ　#AnimeExpo　#半導体　#NARUTO　#ナルト　#木ノ葉ランド　#アミューズ　#サイバーエージェント　#三菱商事　#NIKKEINEWSNEXT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ve-8I4DsXIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ve-8I4DsXIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ve-8I4DsXIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ve-8I4DsXIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ve-8I4DsXIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 88,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ve-8I4DsXIU"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yX3ukmmwQay6Vn7SU4sSb9Po3pk",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmhDc3JfZml2YjI0",
+      "snippet": {
+        "publishedAt": "2026-08-14T01:30:30Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "こどもNISAで顧客獲得へ #楽天証券 #イベント #こどもNISA",
+        "description": "2026年8月13日放送のニュース",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hCsr_fivb24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hCsr_fivb24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hCsr_fivb24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hCsr_fivb24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hCsr_fivb24/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 89,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hCsr_fivb24"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LuFOgsy8JEUW-6qP8DslL0SnR20",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLjJpY0xYc1g3cUg4",
+      "snippet": {
+        "publishedAt": "2026-08-14T01:01:30Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "8月14日（金）携帯ショップ 市区町村の4割でゼロ、ロシアのプーチン大統領が北方領土を初訪問 実効支配を誇示【ながら日経】",
+        "description": "【Amazon Music独占でスピンオフコンテンツ「ながら日経WEEKLY」がスタート！】\n\nながら日経のパーソナリティと、日経の記者をはじめとした有識者が週替わりで登場し、\nその週のポイントとなるニュースを紹介・解説します。\n毎週土曜日正午ごろ、Amazon Music独占でお聴きいただけます。\n\n詳しくはこちらをチェック↓\nhttps://music.amazon.co.jp/podcasts/af728319-e478-4300-9b34-38b547685f2d?ref=dm_sh_GJTSDni7N0Z6ohZVAQC1rfCQq\n---------------------------------------------------------------\n\n日本経済新聞社の人気音声コンテンツ「ながら日経」「ヤング日経」をテレ東BIZで平日のみ配信中。\n「ながら日経」は、朝の10分、ニュースをギュッと詰め込んでお届け！通勤・通学しながら、家事をしながら…あなたの「ながら時間」に経済を中心とした最新情報をお伝えします。\n「ヤング日経」は、明るい未来を目指し、時代の変化を先取りするニュースをお届けします。ヤングにしか見えない未来がある！\n\n■金曜パーソナリティ：石井 しおり\n\n福岡・北海道での局アナ経験を経て、現在はナレーターとして活動中。\n\n日本テレビ「ZIP!」、BS-TBS「トレンド・クリップ」でナレーションを担当するほか、イベントや動画のMC、婚活プランナー、子ども向け英会話講師など様々な顔を持つ。一児の母。\n\n#携帯ショップ #市区町村 #4割 #ゼロ #高齢者 #デジタル格差 #一因 #ロシア #プーチン #大統領 #北方領土 #訪問 #実効支配 #誇示 #トライアル #スーパー #テック #西友 #復調 #27年 #6月期 #営業益 #個人向け国債 #発行 #金利上昇 #最高 #ペース #前年比 #ウーバー #日産 #ロボタクシー #日の丸交通 #運行 #東京 #26年 #すかいらーく #ガスト #バーミヤン #宅配 #専門店 #食品 #減税 #対応",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2icLXsX7qH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2icLXsX7qH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2icLXsX7qH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2icLXsX7qH8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2icLXsX7qH8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 90,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2icLXsX7qH8"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pfFiL7bA-MbS-wfsTqy6C80apE8",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLjV0Q1gxZUZxbEJz",
+      "snippet": {
+        "publishedAt": "2026-08-14T01:00:17Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "8月14日（金）H3ロケット 年6~8機打ち上げへ、TSMC・ソニーが異例タッグ 「AIの目」画像センサーで韓中引き離し【ヤング日経】",
+        "description": "日本経済新聞社の人気音声コンテンツ「ながら日経」「ヤング日経」をテレ東BIZで平日のみ配信中。\n「ながら日経」は、朝の10分、ニュースをギュッと詰め込んでお届け！通勤・通学しながら、家事をしながら…あなたの「ながら時間」に経済を中心とした最新情報をお伝えします。\n「ヤング日経」は、明るい未来を目指し、時代の変化を先取りするニュースをお届けします。ヤングにしか見えない未来がある！\n\n■金曜担当：阿部 美鈴\n\n神奈川県出身の大学4年生。\n趣味：全国各地のハンバーグ店巡り、お笑いライブ鑑賞。\n特技：相手の顔だけを見て、足の大きさを当てること。\n「皆さまの生活をより豊かにできるようなニュースをお伝えします！」\n\n#H3ロケット #打ち上げ #三菱電機 #人工衛星 #製造 #下支え #TSMC #ソニー #異例 #タッグ #AI #画像 #センサー #韓中 #引き離し #メタ #無償 #提供 #高性能 #モデル #技術 #外部 #開放 #ウエルシア薬局 #患者 #記録 #自動 #作成 #作業 #時間 #2割 #削減 #アシックス #マラソン #練習 #シューズ #ソール #プレート #非搭載 #預金金利",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5tCX1eFqlBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5tCX1eFqlBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5tCX1eFqlBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5tCX1eFqlBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5tCX1eFqlBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 91,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5tCX1eFqlBs"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XJ3n3sYEln-XXHtk4GkHbk6TMg4",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLndQei1ZOFVLM2Nv",
+      "snippet": {
+        "publishedAt": "2026-08-14T00:32:14Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "税と社会保障の再設計～本物の安心とは「GPIFの活用」を考える【日経モープラFT】",
+        "description": "2026年8月14日放送のＢＳテレ東「日経モーニングプラスＦＴ」より、特集の一部をYouTubeで配信します。\n▼フルバージョンは「テレ東BIZ」で配信中▼\nhttps://txbiz.tv-tokyo.co.jp/plusft/clips?utm_source=youtube&utm_medium=video&utm_campaign=plusft_yt\n\n▼「テレ東BIZ」会員登録はこちら▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video&utm_campaign=plusft_yt\n\n「税と社会保障の再設計」シリーズです。公的年金の運用を手掛けるGPIFを巡って、片山財務大臣が「日本の金融資産にさらに投資する」と発言し注目が集まりました。政権の思惑とGPIFが果たす役割について考えます。\n\n【出演者】\n山田幸美（キャスター）\n豊嶋広（ＢＳテレ東解説委員）\n佐藤美樹（キャスター）\n桜庭薫（FTキャスター）\n大林尚（日本経済新聞客員編集委員）\n\n#GPIF　#政治介入　#税　#社会保障　#年金積立金管理運用独立行政法人　#片山さつき 　#高市早苗 　#年金　#運用　#日銀　#成長戦略　#ポートフォリオ　#ガバナンス　#コンプライアンス\n\nＢＳテレ東「日経モーニングプラスＦＴ」番組HP\nhttps://www.bs-tvtokyo.co.jp/mplusft/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wPz-Y8UK3co/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wPz-Y8UK3co/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wPz-Y8UK3co/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wPz-Y8UK3co/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wPz-Y8UK3co/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 92,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wPz-Y8UK3co"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4KeYjFz5SmhbFFnloQhkv9HNSTs",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkMydVFDdTNMcUdz",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:55:21Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "CEO報酬 過去最高36億円 米S&P採用企業【モーサテ】",
+        "description": "アメリカ最大の労働組合、労働総同盟産別会議がまとめたデータによりますと、S＆P500採用企業のCEOの平均報酬が2025年、2280万ドル＝およそ36億円に達しました。前の年から21％の大幅増加で、集計開始以来、最高となっています。テスラとスペースXを率いるマスクCEOの報酬は最大1兆ドル規模と著しく高額で、この集計に含まれていません。このマスク氏に触発され、巨額報酬を取り入れる動きが、平均を引き上げたということです。\n\n#イーロンマスク #スペースX #SアンドP500 #労働総同盟産別会議\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C2uQCu3LqGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C2uQCu3LqGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C2uQCu3LqGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C2uQCu3LqGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C2uQCu3LqGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 93,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C2uQCu3LqGs"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HjbsqOlzHkBFS3eTbW_oSSp_rG4",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLjIzamxCeWdNRkFz",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:55:17Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "タペストリー見通しが予想届かず 黒字転換も株価下落【モーサテ】",
+        "description": "高級ブランド「コーチ」や「ケイト・スペード」を展開するアメリカのタペストリーの4月から6月期の決算は、1年前から8％の増収で、最終損益は黒字に転換しました。ただ、ケイト・スペードの販売不振が引き続き重荷となる見込みで2027年6月期通期の売上高見通しは、中央値が市場予想を下回りました。これを受けタペストリーの株価は16％下落しました。\n\n#コーチ #ケイトスペード #タペストリー #高級ブランド #決算\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/23jlBygMFAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/23jlBygMFAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/23jlBygMFAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/23jlBygMFAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/23jlBygMFAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 94,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "23jlBygMFAs"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mj72FVebPIjTFabgrZhplEItZRM",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLk5vdmVJZVNmanVF",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:55:12Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "AMDが社債発行 7600億円か 巨額の資金調達続く【モーサテ】",
+        "description": "アメリカの半導体大手AMDは13日、社債発行を通じた資金調達を行うと明らかにしました。ブルームバーグ通信によると、発行額は47億5000万ドル＝およそ7600億円に上る見通しです。半導体業界ではこのところ、エヌビディアやインテルも社債や株式を発行しています。AIブームが続く中、各社とも増産を見据えて資金獲得を急いでいるものとみられます。\n\n#AMD #半導体 #AIブーム #社債 #資金調達\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NoveIeSfjuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NoveIeSfjuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NoveIeSfjuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NoveIeSfjuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NoveIeSfjuE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 95,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NoveIeSfjuE"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mv7Tf9tnvsoDGx64NjrYz2qDHnk",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLi13UHpqTTB1c2U0",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:55:08Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米アンソロピック 新興AIを買収協議 1兆円規模【モーサテ】",
+        "description": "アメリカのアンソロピックが、新興AI企業デカートAIを60億ドル＝およそ9600億円で、買収する協議を進めているとブルームバーグ通信が報じました。デカートAIは、「推論」と呼ばれる、AIが回答を生成する処理を効率化する技術を持ち、半導体大手エヌビディアも出資しています。もし実現すれば、早ければ秋にも上場を計画しているとされるアンソロピックにとって最大の買収となります。\n\n#アンソロピック #デカートAI #買収 #AI #推論 #エヌビディア\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-wPzjM0use4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-wPzjM0use4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-wPzjM0use4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-wPzjM0use4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-wPzjM0use4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 96,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-wPzjM0use4"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T39yagGz85AjDY50jsmoCPg7PKI",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkUzUmZFUGNrSVZz",
+      "snippet": {
+        "publishedAt": "2026-08-13T23:55:05Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米生産者物価 予想下回る FRB高官は利上げ主張【モーサテ】",
+        "description": "アメリカの労働省が13日発表した7月の生産者物価指数は、前の月から横ばいとなり、市場予想を下回りました。ただFRB高官はインフレの減速は依然不十分だとして利上げを主張しました。7月の生産者物価指数は上昇を見込んだ予想に反し、横ばいにとどまりました。原油価格の一服などを受け、モノの価格が0.7％下落した一方、サービスの価格は0.2％上がりました。1年前と比べた生産者物価指数は4.7％の上昇で、こちらも市場予想を下回りました。ただ13日に講演したクリーブランド連銀のハマック総裁は、インフレ指標に改善が見られるものの、基調が変わったとは確信できないとした上で、物価の安定に向け「今すぐに行動を起こす必要がある」と利上げを主張しました。\n\n#アメリカ #労働省 #FRB #インフレ #生産者物価指数 #PPI #クリーブランド連銀 #ハマック総裁\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E3RfEPckIVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E3RfEPckIVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E3RfEPckIVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E3RfEPckIVs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E3RfEPckIVs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 97,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E3RfEPckIVs"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xej2K8Y8qLLq2fy95CrL6jZnoes",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLk0zRlpQb05pLThR",
+      "snippet": {
+        "publishedAt": "2026-08-13T16:43:27Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "こどもNISAで顧客獲得へ 楽天証券 親子向けイベント【WBS】",
+        "description": "2027年1月から「こどもNISA」が始まるのを前に、楽天証券は13日、東京証券取引所で、親子で資産づくりについて学ぶイベントを開きました。およそ100組の親子が参加し、ファイナンシャルプランナーを招いたトークセッションや取引所の見学ツアーが行なわれました。「こどもNISA」は、17歳までを対象に年間60万円まで非課税で投資できる制度です。イベントの参加者には楽天証券を利用している親も多いといい、「こどもNISA」への理解を促すことで、新たな顧客の獲得を狙います。\n\n#楽天証券 #イベント #こどもNISA\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M3FZPoNi-8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M3FZPoNi-8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3FZPoNi-8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M3FZPoNi-8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M3FZPoNi-8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 98,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M3FZPoNi-8Q"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YvKoaxpdt_58soHBKu2k4oDFG94",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmtGWGdxSnRwRUFF",
+      "snippet": {
+        "publishedAt": "2026-08-13T16:43:22Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "三越伊勢丹 純利益上方修正 27年3月期 株式を2分割【WBS】",
+        "description": "三越伊勢丹HDは2027年3月期の業績予想を上方修正し、純利益を従来予想の615億円から630億円に引き上げました。国内外ともに需要が好調で、国内の百貨店事業の売上高が上振れするとみています。また株式の分割を発表し、10月1日に1株を2株にします。最低投資金額を引き下げ、個人など株主層を広げる狙いです。\n\n#三越伊勢丹 #業績 #上方修正 #株式分割\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kFXgqJtpEAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kFXgqJtpEAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kFXgqJtpEAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kFXgqJtpEAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kFXgqJtpEAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 99,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kFXgqJtpEAE"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NpfwXpb8Q9JA0vLWMlWGJ24sEKk",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkFSemZrSGgweGtB",
+      "snippet": {
+        "publishedAt": "2026-08-13T16:43:19Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "顧客情報のパソコン紛失 東ガス子会社 2万件分【WBS】",
+        "description": "東京ガス子会社の東京ガスネットワークは13日、法人を含む顧客およそ2万件の氏名や住所などの情報を保存する業務用パソコンを社員が紛失したと発表しました。5日に社員が同僚と飲酒後、電車で帰宅途中にパソコンや社員証、業務用携帯電話が入ったかばんを紛失しました。パソコンにはパスワードを設定していて、現時点で情報の不正利用は確認していないとしています。\n\n#東京ガス #子会社 #東京ガスネットワーク #顧客情報 #パソコン #紛失\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ARzfkHh0xkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ARzfkHh0xkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ARzfkHh0xkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ARzfkHh0xkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ARzfkHh0xkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 100,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ARzfkHh0xkA"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PRtsvLqboyyLdvnRoUIyJ_reY6I",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLjdTbDQwbGRLYXNN",
+      "snippet": {
+        "publishedAt": "2026-08-13T16:43:15Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "企業物価↑7.2％ 2カ月連続7％超【WBS】",
+        "description": "企業の間で取引されるモノの価格を示す7月の国内企業物価指数は135.8で、1年前と比べて7.2％上昇しました。6月から伸び率はわずかに縮小したものの、2カ月連続で7％を超えました。中東情勢の緊迫化で値上がりしている石油・石炭製品が1年前と比べて17.5％、化学製品が12.9％上昇しました。\n\n#企業物価 #国内企業物価指数\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Sl40ldKasM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Sl40ldKasM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Sl40ldKasM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Sl40ldKasM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Sl40ldKasM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 101,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7Sl40ldKasM"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IA-TjF36wYrqLaYFQhbhjutqpIs",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmV6RDVZS2ZoVlN3",
+      "snippet": {
+        "publishedAt": "2026-08-13T16:43:10Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "すかいらーく宅配店導入へ 消費税減税に対応【WBS】",
+        "description": "すかいらーくHDは13日、宅配専門の新業態「ゴーストレストラン」を導入すると明らかにしました。ゴーストレストランは店内飲食が可能な実店舗を構えず「ウーバーイーツ」などの宅配サービス上に出店し注文を受け付けます。2027年4月に予定される消費税減税で食料品の税率が1％に引き下げられる一方、店内飲食は10％の税率が維持されることを受け、自宅消費への需要のシフトに対応したい考えです。\n\n#すかいらーく #宅配 #ゴーストレストラン #食料品 #消費税 #減税\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ezD5YKfhVSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ezD5YKfhVSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ezD5YKfhVSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ezD5YKfhVSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ezD5YKfhVSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 102,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ezD5YKfhVSw"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E59fkV-d4RhjulpFLe06011fexE",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmRIQ25aOGZVX1Bn",
+      "snippet": {
+        "publishedAt": "2026-08-13T08:21:58Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "＜予告＞緊急取材！ＡＩで激変する世界と日本　第２弾",
+        "description": "自律的に動く「AIエージェント」の登場で、経済や暮らしはどのように変わるのか。米国を猛追する中国のAIの最前線を現地ルポ。AI時代を生き抜くヒントとは？\n\nテレ東で8月15日（土）午後4時 放送！\n\n＜出演者＞\n日本ビジネスシステムズ執行役員　中山高史\n経営学者・早稲田大学ビジネススクール教授　入山章栄\n報道局キャスター　豊島晋作\nアナウンサー　中根舞美\n\n自律的に動く「AIエージェント」を17体使いこなすビジネスパーソンに密着。米中のAI開発競争が過熱する中、世界に衝撃を与えた中国のムーンショットAI「KimiK3」の実力を探る。また、AI時代における企業価値や人材育成のあり方を徹底討論。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dHCnZ8fU_Pg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dHCnZ8fU_Pg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dHCnZ8fU_Pg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dHCnZ8fU_Pg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dHCnZ8fU_Pg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 118,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dHCnZ8fU_Pg"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3ayAsYyF3ArxHA0GkKzykvm3CEU",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLk9PaWZCWWxLdGZJ",
+      "snippet": {
+        "publishedAt": "2026-08-13T06:08:45Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "アメリカ中間選挙 急進左派が敗北 #アメリカ  #中間選挙  #ウィスコンシン州  #民主党  #予備選  #クロウリー  #ホン",
+        "description": "2026年8月13日放送のニュース",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OOifBYlKtfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OOifBYlKtfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OOifBYlKtfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OOifBYlKtfI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OOifBYlKtfI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 119,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OOifBYlKtfI"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ur0rKHQuwEQ6DnzPUUeYsNFy6vQ",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLld6MktUYkxYQlo0",
+      "snippet": {
+        "publishedAt": "2026-08-13T03:33:30Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "8月13日の天気",
+        "description": "中国、四国から関東、東北の太平洋側は天気が変わりやすく、急な雨や雷雨に注意してください。北海道と沖縄、九州は晴れる所が多いでしょう。週間予報です。あすも東北から西日本の広い範囲で不安定な天気が続き、急な雨や雷雨に注意が必要です。土曜日になると西日本は晴れてきますが、関東と東海は引き続き急な雨の所があるでしょう。\n\n#天気　#天気予報　#雨　#雷雨　#晴れ\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wz2KTbLXBZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wz2KTbLXBZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wz2KTbLXBZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wz2KTbLXBZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wz2KTbLXBZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 120,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wz2KTbLXBZ4"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "--QBDu0_Pko4bt92JZgtH4xukyA",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLjl0QWdiejQ0Zmtn",
+      "snippet": {
+        "publishedAt": "2026-08-13T03:33:28Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "町田市 大学生失踪から27年",
+        "description": "1999年、東京・町田市で当時18歳の大学生、井出真代（いで・まよ）さんが行方不明となってから27年になるきょう、警視庁はJR成瀬駅で井出さんの家族とともに情報提供を呼びかけました。井出さんは当時、JR成瀬駅近くのレンタルビデオ店を訪れたのを最後に行方がわからなくなっています。井出さんの家族はチラシを配布し「27年経っても諦めないのでどうぞよろしくお願いします」として、情報提供を呼びかけています。\n\n#警視庁　#町田市　#井出真代　#行方不明　#JR成瀬駅\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9tAgbz44fkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9tAgbz44fkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9tAgbz44fkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9tAgbz44fkg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9tAgbz44fkg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 121,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9tAgbz44fkg"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lo0WWyf6ORPeNn8wDzQSFBwB86U",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkoxUk5WZEhnNVlN",
+      "snippet": {
+        "publishedAt": "2026-08-13T03:33:26Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "コメ兵子会社の元経理社員　約1億200万円の横領疑いで逮捕",
+        "description": "リユース大手コメ兵ホールディングスの子会社からおよそ1億200万円を横領したとして、警視庁は元社員の林銀容疑者を逮捕しました。林容疑者は子会社で経理を担当していて、2025年11月から12月までの間、10回に分けて、会社の口座から自分の口座にインターネットバンキングで送金していたということです。林容疑者は、株式投資をしていて、「一度だけ会社の金を借りて、投資に使い、利益が出たら売却して会社に戻そうと考えた」と容疑を認めています。\n\n#警視庁　#横領　#コメ兵　#セルビー\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J1RNVdHg5YM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J1RNVdHg5YM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J1RNVdHg5YM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J1RNVdHg5YM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J1RNVdHg5YM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 122,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J1RNVdHg5YM"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8--bYATjSZaDiYL4ygENlpcDfBc",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmhRRTM4ZExsRnNr",
+      "snippet": {
+        "publishedAt": "2026-08-13T03:33:24Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "欧州本土で27年ぶり皆既日食観測　日食により太陽光遮断で電力価格急騰とのデータも",
+        "description": "27年ぶりにヨーロッパ本土で観測されました。スペインやアイスランドなどの一部で12日、太陽が月に完全に隠れる皆既日食が観測されました。ヨーロッパ本土で観測されるのは1999年以来27年ぶりで、皆既日食を一目見ようとスペイン北部とアイスランドには数百万人が集まったということです。また、イギリスのビッグベンやフランスのエッフェル塔などでも部分日食が観測されました。ただ再生可能エネルギーの割合が増加しているヨーロッパでは、日食により太陽光が大きく遮られるとしてドイツでは電力価格が急騰するとのデータがでたほか、イギリスでも節電が呼びかけられる事態となりました。\n\n#皆既日食　#ヨーロッパ　#スペイン　#アイスランド　#イギリス　#ビッグベン　#フランス　#エッフェル塔　#ドイツ　#太陽光　#再生可能エネルギー　#太陽光発電\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hQE38dLlFsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hQE38dLlFsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hQE38dLlFsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hQE38dLlFsk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hQE38dLlFsk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 123,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hQE38dLlFsk"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Eu-3jmg62gRm5sCcK_eALRGNjWY",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLllWQmExQkVvTmc0",
+      "snippet": {
+        "publishedAt": "2026-08-13T03:33:19Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "7月の企業物価7.2％上昇 伸び率縮小も高水準続く",
+        "description": "日本銀行が13日発表した7月の国内企業物価指数は、1年前と比べて7.2％上昇しました。伸び率は5カ月ぶりに縮小しましたが、2カ月連続で7％を超えています。企業間で取引されるモノの価格を示す7月の国内企業物価指数は135.8で、1年前と比べて7.2％上昇しました。6月から伸び率はわずかに縮小したものの、2カ月連続で7％を超えました。中東情勢の緊迫化で値上がりしている石油・石炭製品が1年前と比べて17.5％、化学製品が12.9％上昇したほか、「電力・都市ガス・水道」や、銅やアルミニウムなどの「非鉄金属」が上昇しました。\n\n#日本銀行　#日銀　#企業物価\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YVBa1BEoNg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YVBa1BEoNg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YVBa1BEoNg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YVBa1BEoNg4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YVBa1BEoNg4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 124,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YVBa1BEoNg4"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_2Pv05uB4uB3EsVEjLCTq4FP39k",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkZvODFPOXJmTkFj",
+      "snippet": {
+        "publishedAt": "2026-08-13T03:33:17Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "お盆休みも後半　各地へ向かう帰省客などで混雑",
+        "description": "お盆休みの後半に入り東京駅では各地へ向かう帰省客などで混雑しています。\n名古屋に旅行父親「子どもがレゴが好きなのでレゴランドに行く」\n子ども「まだ1回も（行ったこと）ないから。レゴ作りたい」\n静岡に帰省「きのう行く予定が雨が気になったので、きょうに変更した」\n東京駅では旅行や帰省に向かう客で、東京発の下りの列車が混雑していました。台風15号が関東に直撃した影響で、日程を変更した人もいました。空の便では、国内線が混雑していて、大きな荷物を持った家族連れが、搭乗カウンターに並んでいました。Uターンの混雑は土曜日と日曜日にピークを迎える見込みです。\n\n#お盆休み　#東京駅　#帰省客　#旅行　#台風　#台風15号　#国内線　#混雑\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fo81O9rfNAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fo81O9rfNAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fo81O9rfNAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fo81O9rfNAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fo81O9rfNAc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 125,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fo81O9rfNAc"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WJZM3BPiVKXkl17FTQNSGdDhWcM",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLlAxSUNLSThaR2xJ",
+      "snippet": {
+        "publishedAt": "2026-08-13T03:33:14Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "地震で休園の熊本城 約2週間ぶりに再開",
+        "description": "最大震度7を観測した地震の影響で臨時休園していた熊本城が13日、再開しました。熊本市によりますと、7月28日の地震で石垣の一部が崩れ、天守閣にひびが入るなど50カ所以上で被害が確認されましたが、建物や設備に大きな異常はなかったということです。熊本市は安全確認を進め見学に問題はないと判断し、およそ2週間で一般客の受け入れにこぎ着けました。\n\n#熊本　#地震　#熊本地震　#熊本城　#休園　#再開\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P1ICKI8ZGlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P1ICKI8ZGlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P1ICKI8ZGlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P1ICKI8ZGlI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P1ICKI8ZGlI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 126,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P1ICKI8ZGlI"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XL3Nv7gzi7bH9q54pCfCwaLQTEw",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLm96dTNuR2R4MVRj",
+      "snippet": {
+        "publishedAt": "2026-08-13T01:34:25Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "高市総理・片山大臣は財源確保に自信 食品消費減税 1％の評価は？【NIKKEI NEWS NEXT】",
+        "description": "2026年8月12日放送のＢＳテレ東「NIKKEI NEWS NEXT」より、特集の一部をYouTubeで配信します。\n▼フルバージョンは「テレ東BIZ」で配信中▼\nhttps://txbiz.tv-tokyo.co.jp/nikkeinext?utm_source=youtube&utm_medium=video&utm_campaign=nnn_yt\n\n▼「テレ東BIZ」会員登録はこちら▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video&utm_campaign=nnn_yt\n\n政府は2027年4月から2年間、食料品の消費税率を1%に引き下げることを決定した。実質的な減税規模は年5兆円ほどになると試算されている。高市総理大臣は「市場の信認を得られるよう特例公債(赤字国債)に頼らずに確保していく」と説明するものの、具体的な財源は示されていない。法政大学の小黒一正教授を迎え、減税の穴を埋める財源についてどんな手立てがあるのか考える。\n\n【ゲスト】小黒一正(法政大学 教授)\n\n#NIKKEINEWSNEXT　#食料品　#消費税減税　#フィンランド　#財源　#外為特会　#剰余金　#税収増　#債務残高GDP比　#利払い費　#小黒一正",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ozu3nGdx1Tc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ozu3nGdx1Tc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ozu3nGdx1Tc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ozu3nGdx1Tc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ozu3nGdx1Tc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 127,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ozu3nGdx1Tc"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zoGnpWFS2Vu26Xu5Nr9xRIQdzUU",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLlVMY1l2ZEVwU1hz",
+      "snippet": {
+        "publishedAt": "2026-08-13T01:01:24Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "8月13日（木）ネット証券大手5社 米国株を日中も売買へ、東京23区の新築戸建て 9000万円台続く【ながら日経】",
+        "description": "日本経済新聞社の人気音声コンテンツ「ながら日経」「ヤング日経」をテレ東BIZで平日のみ配信中。\n「ながら日経」は、朝の10分、ニュースをギュッと詰め込んでお届け！通勤・通学しながら、家事をしながら…あなたの「ながら時間」に経済を中心とした最新情報をお伝えします。\n「ヤング日経」は、明るい未来を目指し、時代の変化を先取りするニュースをお届けします。ヤングにしか見えない未来がある！\n\n【Amazon Music独占でスピンオフコンテンツ「ながら日経WEEKLY」がスタート！】\n\nながら日経のパーソナリティと、日経の記者をはじめとした有識者が週替わりで登場し、\nその週のポイントとなるニュースを紹介・解説します。\n毎週土曜日正午ごろ、Amazon Music独占でお聴きいただけます。\n\n詳しくはこちらをチェック↓\nhttps://music.amazon.co.jp/podcasts/af728319-e478-4300-9b34-38b547685f2d?ref=dm_sh_GJTSDni7N0Z6ohZVAQC1rfCQq\n---------------------------------------------------------------\n■木曜パーソナリティ：和田 愛里\n\nシンガー・MC・俳優。大手テーマパークでミュージカルショー等に出演。第40期宝くじ幸運の女神。\n\n#ネット証券 #大手 #米国株 #日中 #売買 #23時間取引 #開始 #対応 #東京23区 #新築 #戸建て #9000万円台 #マンション #割安 #需要 #元徴用工 #訴訟 #日本製鉄 #敗訴 #確定 #韓国 #最高裁 #上告 #棄却 #第一生命 #保険金 #預かり金利 #高水準 #都市 #モノレール #輸送 #人員 #最多 #昨年度 #東京 #沖縄 #再開発 #寄与 #バス #渋滞 #回避 #日本 #湾岸諸国 #インフラ #復興 #支援 #イラン #攻撃 #電力 #石油 #被害",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ULcYvdEpSXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ULcYvdEpSXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ULcYvdEpSXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ULcYvdEpSXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ULcYvdEpSXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 128,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ULcYvdEpSXs"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "escRMMCSZtIidF2umS4pShu-9og",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkRPR0NucXFGZFBr",
+      "snippet": {
+        "publishedAt": "2026-08-13T01:00:07Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "8月13日（木）テスラ 2026年中に日本の納車拠点7から11に拡大、台湾発ゴンチャ 日本が稼ぎ頭に【ヤング日経】",
+        "description": "日本経済新聞社の人気音声コンテンツ「ながら日経」「ヤング日経」をテレ東BIZで平日のみ配信中。\n「ながら日経」は、朝の10分、ニュースをギュッと詰め込んでお届け！通勤・通学しながら、家事をしながら…あなたの「ながら時間」に経済を中心とした最新情報をお伝えします。\n「ヤング日経」は、明るい未来を目指し、時代の変化を先取りするニュースをお届けします。ヤングにしか見えない未来がある！\n\n■木曜担当：佐藤 可奈子\n\n専門商社勤務。5年間の新卒採用担当を経て、現在は欧州、サウジ、UAE、フィリピン、インドネシア等に日本のおもちゃを輸出。「一緒に楽しくニュースを学びましょう！」\n\n#テスラ #2026年 #日本 #納車 #拠点 #拡大 #販売 #急増 #混乱 #収拾 #台湾 #ゴンチャ #稼ぎ頭 #外食 #再建 #巧者 #ベイン #傘下 #出店 #加速 #サントリー #ラベル缶 #グッズ #推し活 #自販機 #販売 #目標 #100億円 #伊藤忠 #日テレ #TV #広告 #効果 #見える化 #ファミマ #購買歴 #視聴 #情報 #連携 #日本発 #ゲーム #めっちゃカメレオン #ヒット #世界 #販売 #軽EV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DOGCnqqFdPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DOGCnqqFdPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DOGCnqqFdPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DOGCnqqFdPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DOGCnqqFdPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 129,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DOGCnqqFdPk"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZrOjqdMIJ8Lv9I1Avha-NXHq-2U",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLjRLbkF5UTlOY0FR",
+      "snippet": {
+        "publishedAt": "2026-08-13T00:40:51Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "著名弁護士が説く　日本経済復活への道【日経モープラFT】",
+        "description": "2026年8月13日放送のＢＳテレ東「日経モーニングプラスＦＴ」より、特集の一部をYouTubeで配信します。\n▼フルバージョンは「テレ東BIZ」で配信中▼\nhttps://txbiz.tv-tokyo.co.jp/plusft/clips?utm_source=youtube&utm_medium=video&utm_campaign=plusft_yt\n\n▼「テレ東BIZ」会員登録はこちら▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video&utm_campaign=plusft_yt\n\nゲストはM＆Aやコーポレートガバナンスに精通する弁護士で作家の牛島信さんです。日本経済は今、外資による買収という「第3の敗戦」が始まっていると説く牛島氏ですが、日本経済「復活の道」はあるのか聞きます。\n\n【出演者】\n山田幸美（キャスター）\n豊嶋広（ＢＳテレ東解説委員）\n石川奈津紀（キャスター）\n桜庭薫（FTキャスター）\n牛島信（弁護士・作家）\n\n#牛島信　#日本買収　#団塊世代の天命　#弁護士　#日本経済　#復活の道　#第3の敗戦　#買収提案　#丹呉3原則　#丹呉泰健　#ニデック　#日産自動車\n\nＢＳテレ東「日経モーニングプラスＦＴ」番組HP\nhttps://www.bs-tvtokyo.co.jp/mplusft/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4KnAyQ9NcAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4KnAyQ9NcAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4KnAyQ9NcAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4KnAyQ9NcAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4KnAyQ9NcAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 130,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4KnAyQ9NcAQ"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EvwuXqMZMQs-V7-LSNpk8UBKVVU",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLnF5MzB2QTNMNGFR",
+      "snippet": {
+        "publishedAt": "2026-08-12T23:26:11Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米中間選挙 急進左派が敗北 重要州ウィスコンシンで【モーサテ】",
+        "description": "11月のアメリカ中間選挙に向け中西部ウィスコンシン州の知事選候補者を選ぶ野党・民主党内の予備選で、急進左派のホン州下院議員の敗北が濃厚になったと、現地の主要メディアが伝えました。事前の世論調査で優勢とみられていましたが、穏健派のクロウリー元州下院議員が僅差で巻き返しました。民主党内では富裕層への課税強化など急進的な政策を訴える左派と穏健派の間で対立が激化しています。\n\n#アメリカ  #中間選挙  #ウィスコンシン州  #民主党  #予備選  #クロウリー  #ホン\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qy30vA3L4aQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qy30vA3L4aQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qy30vA3L4aQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qy30vA3L4aQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qy30vA3L4aQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 131,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qy30vA3L4aQ"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HFD8m0WnB1bLxpTRB67bRYwNOKk",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLkJ0T09aRC1PaDRj",
+      "snippet": {
+        "publishedAt": "2026-08-12T23:26:08Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米金融大手 トランプ政権意識か AIインフラ支援へ40兆円【モーサテ】",
+        "description": "アメリカの金融大手バンク・オブ・アメリカは12日、アメリカのAI＝人工知能やエネルギー関連のインフラ開発を支援するため、2027年7月までに2500億ドル＝およそ40兆円を投じる計画を発表しました。関連企業に投資や融資、助言サービスを提供し、数万人の雇用創出につなげるとしています。アメリカではすでにJPモルガン・チェースとモルガン・スタンレーも同様の計画を打ち出していて、いずれも国内でインフラ投資拡大を目指すトランプ大統領を意識した動きとみられています。\n\n#バンクオブアメリカ  #AI  #インフラ開発  #インフラ支援  #JPモルガンチェース  #モルガンスタンレー  #雇用\n\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BtOOZD-Oh4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BtOOZD-Oh4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BtOOZD-Oh4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BtOOZD-Oh4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BtOOZD-Oh4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 132,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BtOOZD-Oh4c"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bZH_pSh9sqKi3ZXyh6RgHF7abr0",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLmNOR1hoRHk3T1Uw",
+      "snippet": {
+        "publishedAt": "2026-08-12T23:26:04Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "26年石油供給見通し引き下げ 中東情勢悪化で【モーサテ】",
+        "description": "IEA＝国際エネルギー機関は12日公表した月報で、2026年の石油供給の見通しを日量1億200万バレルとし、前回7月時点の見通しから60万バレル引き下げました。7月以降の中東情勢悪化の影響を織り込んだためで、2025年と比べて430万バレル＝およそ4％減る計算です。また2026年の需要も日量160万バレル減少すると予測しています。\n\n#IEA  #国際エネルギー機関  #石油  #石油供給  #中東情勢\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNGXhDy7OU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNGXhDy7OU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNGXhDy7OU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cNGXhDy7OU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cNGXhDy7OU0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 133,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cNGXhDy7OU0"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "puB0O-mVMwJZJCKbXP8v7rKOeVE",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLld1bVJ4THhuS0xN",
+      "snippet": {
+        "publishedAt": "2026-08-12T23:26:00Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "フーシ派攻撃で6人死亡 イラン軍再編の動きも【モーサテ】",
+        "description": "ロイター通信によりますと、イエメンの暫定政権は12日、イエメン沖のバベルマンデブ海峡での親イラン組織フーシ派による貨物船への攻撃で乗組員ら6人が死亡したと明らかにしました。アメリカとイランの戦闘開始以降、フーシ派の船舶攻撃で死者が出るのは初めてです。また、ブルームバーグ通信は、イラン革命防衛隊が軍の再編に乗り出したと報じました。アメリカとの戦闘長期化に備えた動きだと伝えています。\n\n#イエメン  #イラン  #フーシ派  #軍再編  #バベルマンデブ海峡  #攻撃",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WumRxLxnKLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WumRxLxnKLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WumRxLxnKLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WumRxLxnKLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WumRxLxnKLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 134,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WumRxLxnKLM"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jOei6W37Pj1eu_by9aw5VQJ44P0",
+      "id": "VVVrS1ZRX0dOamQ4RmJBdVQ2eERjV2dnLl9tUTNCZXQySzhJ",
+      "snippet": {
+        "publishedAt": "2026-08-12T23:25:57Z",
+        "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
+        "title": "米7月消費者物価 ↑3.4％ 伸びは縮小【モーサテ】",
+        "description": "アメリカの7月の消費者物価指数は1年前から3.4％の上昇となりました。原油価格の影響が和らぎ伸び率が縮小しました。7月の消費者物価指数は市場予想と一致しました。伸び率は2カ月連続で減速しています。変動が激しい食品とエネルギーを除いたコア指数は2.5％の上昇となり、こちらも伸び率がわずかに縮小しました。項目別では、原油高の影響を受けるエネルギーが15％近く上昇しましたが、伸びは前の月から縮小しました。家賃などを含む住居費や食品はそれぞれ3％ほどの上昇となっています。\n\n#アメリカ  #消費者物価  #CPI  #原油価格\n\n仕事や投資に役立つ経済メディア『テレ東BIZ』。\nWBSやモーサテほか、他では見られない記者解説やオリジナル番組が充実\n\n▼▼「テレ東BIZ」はこちら▼▼\nhttps://txbiz.tv-tokyo.co.jp/lp/?utm_source=youtube&utm_medium=video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_mQ3Bet2K8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_mQ3Bet2K8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_mQ3Bet2K8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_mQ3Bet2K8I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_mQ3Bet2K8I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "テレ東BIZ ダイジェスト",
+        "playlistId": "UUkKVQ_GNjd8FbAuT6xDcWgg",
+        "position": 135,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_mQ3Bet2K8I"
+        },
+        "videoOwnerChannelTitle": "テレ東BIZ ダイジェスト",
+        "videoOwnerChannelId": "UCkKVQ_GNjd8FbAuT6xDcWgg"
+      }
+    },
+    {
+      "id": "KmaaEdGRvKQ",
+      "title": "東京スカイツリーを設計！建築家集団“日建設計” #カンブリア宮殿 #日建設計 #スカイツリー #建築",
+      "description": "",
+      "publishedAt": "2026-08-17T12:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KmaaEdGRvKQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KmaaEdGRvKQ"
+    },
+    {
+      "id": "Bj4tvPZAWVA",
+      "title": "トヨタのモーターにも採用される技術力！中国の安値攻勢に「高付加価値」で勝つ/JFEホールディングス・北野 嘉久社長インタビュー未公開版【WBS】",
+      "description": "",
+      "publishedAt": "2026-08-17T12:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Bj4tvPZAWVA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Bj4tvPZAWVA"
+    },
+    {
+      "id": "mLDTMDaUELQ",
+      "title": "酷暑不作でも野菜価格を守る“0℃保存” 1年前のナシが“もぎたての味”！青果を長期保存する新技術「ゼロコ」とは？【ガイアの夜明け】",
+      "description": "",
+      "publishedAt": "2026-08-17T11:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mLDTMDaUELQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mLDTMDaUELQ"
+    },
+    {
+      "id": "n5cAs1Q3x_s",
+      "title": "お茶の水女子大学附属小の授業を体験！？「友達」と「親友」の違いは？伝統の附属・一貫校【配信版①/円卓コンフィデンシャル】",
+      "description": "",
+      "publishedAt": "2026-08-17T10:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n5cAs1Q3x_s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n5cAs1Q3x_s"
+    },
+    {
+      "id": "vDrCIIpxubM",
+      "title": "愛子さま半導体物理国際会議開会式に参列「ご努力に心から敬意を表します」",
+      "description": "",
+      "publishedAt": "2026-08-17T09:40:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vDrCIIpxubM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vDrCIIpxubM"
+    },
+    {
+      "id": "Pu5L35KI0lU",
+      "title": "日本航空と全日空　国内線の一部路線ダイヤ調整へ",
+      "description": "",
+      "publishedAt": "2026-08-17T09:38:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Pu5L35KI0lU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Pu5L35KI0lU"
+    },
+    {
+      "id": "eQUugXRT-to",
+      "title": "福岡県議会議長の辞職勧告決議案 土壇場で採決中止 金銭授受疑惑めぐり",
+      "description": "",
+      "publishedAt": "2026-08-17T09:38:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eQUugXRT-to/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eQUugXRT-to"
+    },
+    {
+      "id": "G8iBxDUfOQA",
+      "title": "東海道新幹線　お盆期間の利用者数が過去最多に",
+      "description": "",
+      "publishedAt": "2026-08-17T09:37:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G8iBxDUfOQA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G8iBxDUfOQA"
+    },
+    {
+      "id": "btYtEyD3I44",
+      "title": "高市総理が病院へ「手などの検査のため」",
+      "description": "",
+      "publishedAt": "2026-08-17T09:36:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/btYtEyD3I44/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=btYtEyD3I44"
+    },
+    {
+      "id": "cZ3l4q1tI2U",
+      "title": "4－6月期GDP　個人消費・設備投資マイナスに",
+      "description": "",
+      "publishedAt": "2026-08-17T09:35:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cZ3l4q1tI2U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cZ3l4q1tI2U"
+    },
+    {
+      "id": "U10SXjQNj5k",
+      "title": "中国　習近平国家主席、改革・開放推進と故江沢民氏を評価",
+      "description": "",
+      "publishedAt": "2026-08-17T09:35:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U10SXjQNj5k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U10SXjQNj5k"
+    },
+    {
+      "id": "jvWJB-9xz9M",
+      "title": "千葉豪雨で新たに一人が行方不明　流された可能性も　千葉市ではボランティアの受け付け開始",
+      "description": "",
+      "publishedAt": "2026-08-17T09:34:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jvWJB-9xz9M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jvWJB-9xz9M"
+    },
+    {
+      "id": "U--gj0rIXc4",
+      "title": "日経平均続伸、半導体株がけん引　キオクシアは5日続伸し6万円台回復【日経CNBC／きょうのポイント、明日のヒント】",
+      "description": "",
+      "publishedAt": "2026-08-17T09:16:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U--gj0rIXc4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U--gj0rIXc4"
+    },
+    {
+      "id": "V-Ua2MH-CPA",
+      "title": "中国 空飛ぶ「浮き輪」で人命救助",
+      "description": "",
+      "publishedAt": "2026-08-17T08:21:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V-Ua2MH-CPA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V-Ua2MH-CPA"
+    },
+    {
+      "id": "_UlHkN0RuyY",
+      "title": "5割超の企業が正社員不足　「金融」がトップ　非正社員の不足は3割下回り改善傾向",
+      "description": "",
+      "publishedAt": "2026-08-17T06:48:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_UlHkN0RuyY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_UlHkN0RuyY"
+    },
     {
       "id": "TCfxZVcD1Z8",
       "title": "リチウム空気電池 “一筋”ではない研究の進め方【ブレイクスルー未公開版】",
@@ -54977,6 +58354,414 @@
       "title": "OTC類似薬見直しで自維が合意 26年度から湿布など【WBS】",
       "thumbnail": "https://i.ytimg.com/vi/k5WgG3oigBo/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=k5WgG3oigBo"
+    },
+    {
+      "id": "l6yWOpUNepY",
+      "title": "カルパッチョにごま油を かどや製油 洋食向け新製品【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/l6yWOpUNepY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=l6yWOpUNepY"
+    },
+    {
+      "id": "yIztE5ALHxY",
+      "title": "無人コーヒー世界記録 ロボットが 1時間で202杯提供【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/yIztE5ALHxY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yIztE5ALHxY"
+    },
+    {
+      "id": "CdpPpIQvQ7w",
+      "title": "中国 鉱工業生産の伸び鈍化 小売売上高も伸び率縮小【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/CdpPpIQvQ7w/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CdpPpIQvQ7w"
+    },
+    {
+      "id": "y2fQoDXFqmI",
+      "title": "都が地下シェルター整備へ 東京駅近くの八重洲駐車場【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/y2fQoDXFqmI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=y2fQoDXFqmI"
+    },
+    {
+      "id": "t-gyxsKQGR4",
+      "title": "JR東海の利用者数 過去最高 お盆期間 空の便は減少【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/t-gyxsKQGR4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=t-gyxsKQGR4"
+    },
+    {
+      "id": "mlUVgUyLnHs",
+      "title": "国債長期金利が一時2.930％　約30年ぶり高水準　日銀 早期利上げ観測や中東情勢不透明感で",
+      "thumbnail": "https://i.ytimg.com/vi/mlUVgUyLnHs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mlUVgUyLnHs"
+    },
+    {
+      "id": "mTjaB7mFBik",
+      "title": "社会人５年目オン＆オフ時間管理術【Shift W】#shiftw #shorts #テレ東biz #チアリーダー #アメフト #時間管理術",
+      "thumbnail": "https://i.ytimg.com/vi/mTjaB7mFBik/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mTjaB7mFBik"
+    },
+    {
+      "id": "jnE-uEOXdFc",
+      "title": "8月17日の天気",
+      "thumbnail": "https://i.ytimg.com/vi/jnE-uEOXdFc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jnE-uEOXdFc"
+    },
+    {
+      "id": "halseuleibU",
+      "title": "千葉豪雨で約2700台の放置車両　撤去作業進める",
+      "thumbnail": "https://i.ytimg.com/vi/halseuleibU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=halseuleibU"
+    },
+    {
+      "id": "kJov80uLETw",
+      "title": "福岡県議会 蔵内議長の辞職勧告決議案採決へ 金銭授受疑惑めぐり",
+      "thumbnail": "https://i.ytimg.com/vi/kJov80uLETw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kJov80uLETw"
+    },
+    {
+      "id": "_IYAozVapRo",
+      "title": "米 クシュナー氏とハマス最高指導者が協議　武装解除開始を要求",
+      "thumbnail": "https://i.ytimg.com/vi/_IYAozVapRo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_IYAozVapRo"
+    },
+    {
+      "id": "TfsPbhyTct8",
+      "title": "米韓軍事演習　トランプ氏が大幅縮小を指示「金正恩氏と良好な関係」",
+      "thumbnail": "https://i.ytimg.com/vi/TfsPbhyTct8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TfsPbhyTct8"
+    },
+    {
+      "id": "ZbyyszNWtas",
+      "title": "4－6月期　実質GDP年率1.1％増　3期連続プラス　中東からの原油輸入減少で外需が押し上げ　個人消費など内需は減少",
+      "thumbnail": "https://i.ytimg.com/vi/ZbyyszNWtas/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZbyyszNWtas"
+    },
+    {
+      "id": "wm6jHzdX0n0",
+      "title": "トランプ大統領 韓国との軍事演習縮小を指示 #アメリカ #トランプ #韓国 #軍事演習 #ヘグセス #規模縮小 #北朝鮮",
+      "thumbnail": "https://i.ytimg.com/vi/wm6jHzdX0n0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wm6jHzdX0n0"
+    },
+    {
+      "id": "NR6aolL4l_0",
+      "title": "8月17日（月）国の基金 目標未達なら支援中止、ホンダ 衝突安全技術の開発にAI活用【ながら日経】",
+      "thumbnail": "https://i.ytimg.com/vi/NR6aolL4l_0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NR6aolL4l_0"
+    },
+    {
+      "id": "njB1j11PL-Q",
+      "title": "8月17日（月）アシックス 売上高初の1兆円で上場来高値、メモリー高騰で中古iPhone販売2.4倍【ヤング日経】",
+      "thumbnail": "https://i.ytimg.com/vi/njB1j11PL-Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=njB1j11PL-Q"
+    },
+    {
+      "id": "Okprt2f-jEM",
+      "title": "AI時代のサイバー攻防戦　抑止が困難に【日経モープラFT】",
+      "thumbnail": "https://i.ytimg.com/vi/Okprt2f-jEM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Okprt2f-jEM"
+    },
+    {
+      "id": "xPJ0PBQ995U",
+      "title": "米トランプ大統領 韓国との軍事演習縮小を指示【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/xPJ0PBQ995U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xPJ0PBQ995U"
+    },
+    {
+      "id": "A7kfykW1RoU",
+      "title": "千葉豪雨 死者は関連調査中含め10人に…電力や交通網にも影響が残る【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/A7kfykW1RoU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=A7kfykW1RoU"
+    },
+    {
+      "id": "VJFqJl14q-E",
+      "title": "中国船 EEZで連日の海洋調査 尖閣諸島周辺と久米島沖【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/VJFqJl14q-E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VJFqJl14q-E"
+    },
+    {
+      "id": "7qQyD5CYShA",
+      "title": "ウクライナ軍 およそ600機 モスクワへ大規模ドローン攻撃【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/7qQyD5CYShA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7qQyD5CYShA"
+    },
+    {
+      "id": "YmLpCcSrTs0",
+      "title": "新製品を創造するプロ集団＆女子高生がAIロボで未来を拓く【ニッポン！こんな未来があるなんて～巨大企業の変革プロジェクト～】",
+      "thumbnail": "https://i.ytimg.com/vi/YmLpCcSrTs0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YmLpCcSrTs0"
+    },
+    {
+      "id": "Un6e_b6OO3Q",
+      "title": "BYDはなぜ日本の軽市場に？理由は「トヨタをリスペクト」BYD流スピード開発に迫る",
+      "thumbnail": "https://i.ytimg.com/vi/Un6e_b6OO3Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Un6e_b6OO3Q"
+    },
+    {
+      "id": "aRY020EXa34",
+      "title": "BSテレ東不具合の原因判明　NHKが誤データを送出【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/aRY020EXa34/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aRY020EXa34"
+    },
+    {
+      "id": "mjlhRbWzB_Y",
+      "title": "中東情勢が影響　仁川空港 旅客数で世界1位に【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/mjlhRbWzB_Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mjlhRbWzB_Y"
+    },
+    {
+      "id": "CdvYLTJf548",
+      "title": "7月 民間死者437人　迎撃苦戦 民間人の死者急増【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/CdvYLTJf548/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CdvYLTJf548"
+    },
+    {
+      "id": "brlqECauWrI",
+      "title": "トランプ政権　輸入ドローン 最大100％の関税【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/brlqECauWrI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=brlqECauWrI"
+    },
+    {
+      "id": "7mi1b56UItA",
+      "title": "米ガス発電に7300億円融資　対米投融資第2弾が決定【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/7mi1b56UItA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7mi1b56UItA"
+    },
+    {
+      "id": "tq-nMVjiV3U",
+      "title": "「サトウのごはん」から「じゃがりこ」まで・・・知られざる「容器」シェアNo. 1企業！トップが語る・・・ヒット商品を生む秘訣とは？　～東洋製罐GHD大塚一男会長～【カンブリア宮殿／未公開インタビュー】",
+      "thumbnail": "https://i.ytimg.com/vi/tq-nMVjiV3U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tq-nMVjiV3U"
+    },
+    {
+      "id": "a5sIvRoTltQ",
+      "title": "「ホリエモンin2005、隊長in2026」／AI・半導体株に資金再び！直近決算で読み解く注目業種は？【金曜3時半のマーケットライブ～BullとBear～】",
+      "thumbnail": "https://i.ytimg.com/vi/a5sIvRoTltQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a5sIvRoTltQ"
+    },
+    {
+      "id": "c8yxL4OoVX8",
+      "title": "8月14日の天気",
+      "thumbnail": "https://i.ytimg.com/vi/c8yxL4OoVX8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=c8yxL4OoVX8"
+    },
+    {
+      "id": "INZnCwIvA74",
+      "title": "米 ドローンに100％関税へ　米国産の拡大を促進",
+      "thumbnail": "https://i.ytimg.com/vi/INZnCwIvA74/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=INZnCwIvA74"
+    },
+    {
+      "id": "lRR9kRAzB5Y",
+      "title": "ウクライナ迎撃苦戦で民間人の死者急増　7月の死者は前年の2倍近く",
+      "thumbnail": "https://i.ytimg.com/vi/lRR9kRAzB5Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lRR9kRAzB5Y"
+    },
+    {
+      "id": "JZoqcM0dMV8",
+      "title": "プーチン氏北方領土訪問　日本の抗議「無駄話」とメドベージェフ前大統領",
+      "thumbnail": "https://i.ytimg.com/vi/JZoqcM0dMV8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JZoqcM0dMV8"
+    },
+    {
+      "id": "YX10jeVorP4",
+      "title": "千葉大雨 4人死亡　各地で冠水など被害　14日も大気不安定 土砂災害や洪水被害に警戒",
+      "thumbnail": "https://i.ytimg.com/vi/YX10jeVorP4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YX10jeVorP4"
+    },
+    {
+      "id": "Ve-8I4DsXIU",
+      "title": "半導体超え 巨大ビジネス！ “アニメ”経済圏！世界を制する新戦略【NIKKEI NEWS NEXT】",
+      "thumbnail": "https://i.ytimg.com/vi/Ve-8I4DsXIU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ve-8I4DsXIU"
+    },
+    {
+      "id": "hCsr_fivb24",
+      "title": "こどもNISAで顧客獲得へ #楽天証券 #イベント #こどもNISA",
+      "thumbnail": "https://i.ytimg.com/vi/hCsr_fivb24/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hCsr_fivb24"
+    },
+    {
+      "id": "2icLXsX7qH8",
+      "title": "8月14日（金）携帯ショップ 市区町村の4割でゼロ、ロシアのプーチン大統領が北方領土を初訪問 実効支配を誇示【ながら日経】",
+      "thumbnail": "https://i.ytimg.com/vi/2icLXsX7qH8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2icLXsX7qH8"
+    },
+    {
+      "id": "5tCX1eFqlBs",
+      "title": "8月14日（金）H3ロケット 年6~8機打ち上げへ、TSMC・ソニーが異例タッグ 「AIの目」画像センサーで韓中引き離し【ヤング日経】",
+      "thumbnail": "https://i.ytimg.com/vi/5tCX1eFqlBs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5tCX1eFqlBs"
+    },
+    {
+      "id": "wPz-Y8UK3co",
+      "title": "税と社会保障の再設計～本物の安心とは「GPIFの活用」を考える【日経モープラFT】",
+      "thumbnail": "https://i.ytimg.com/vi/wPz-Y8UK3co/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wPz-Y8UK3co"
+    },
+    {
+      "id": "C2uQCu3LqGs",
+      "title": "CEO報酬 過去最高36億円 米S&P採用企業【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/C2uQCu3LqGs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=C2uQCu3LqGs"
+    },
+    {
+      "id": "23jlBygMFAs",
+      "title": "タペストリー見通しが予想届かず 黒字転換も株価下落【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/23jlBygMFAs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=23jlBygMFAs"
+    },
+    {
+      "id": "NoveIeSfjuE",
+      "title": "AMDが社債発行 7600億円か 巨額の資金調達続く【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/NoveIeSfjuE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NoveIeSfjuE"
+    },
+    {
+      "id": "-wPzjM0use4",
+      "title": "米アンソロピック 新興AIを買収協議 1兆円規模【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/-wPzjM0use4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-wPzjM0use4"
+    },
+    {
+      "id": "E3RfEPckIVs",
+      "title": "米生産者物価 予想下回る FRB高官は利上げ主張【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/E3RfEPckIVs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E3RfEPckIVs"
+    },
+    {
+      "id": "M3FZPoNi-8Q",
+      "title": "こどもNISAで顧客獲得へ 楽天証券 親子向けイベント【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/M3FZPoNi-8Q/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=M3FZPoNi-8Q"
+    },
+    {
+      "id": "kFXgqJtpEAE",
+      "title": "三越伊勢丹 純利益上方修正 27年3月期 株式を2分割【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/kFXgqJtpEAE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kFXgqJtpEAE"
+    },
+    {
+      "id": "ARzfkHh0xkA",
+      "title": "顧客情報のパソコン紛失 東ガス子会社 2万件分【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/ARzfkHh0xkA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ARzfkHh0xkA"
+    },
+    {
+      "id": "7Sl40ldKasM",
+      "title": "企業物価↑7.2％ 2カ月連続7％超【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/7Sl40ldKasM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7Sl40ldKasM"
+    },
+    {
+      "id": "ezD5YKfhVSw",
+      "title": "すかいらーく宅配店導入へ 消費税減税に対応【WBS】",
+      "thumbnail": "https://i.ytimg.com/vi/ezD5YKfhVSw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ezD5YKfhVSw"
+    },
+    {
+      "id": "dHCnZ8fU_Pg",
+      "title": "＜予告＞緊急取材！ＡＩで激変する世界と日本　第２弾",
+      "thumbnail": "https://i.ytimg.com/vi/dHCnZ8fU_Pg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dHCnZ8fU_Pg"
+    },
+    {
+      "id": "OOifBYlKtfI",
+      "title": "アメリカ中間選挙 急進左派が敗北 #アメリカ  #中間選挙  #ウィスコンシン州  #民主党  #予備選  #クロウリー  #ホン",
+      "thumbnail": "https://i.ytimg.com/vi/OOifBYlKtfI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OOifBYlKtfI"
+    },
+    {
+      "id": "Wz2KTbLXBZ4",
+      "title": "8月13日の天気",
+      "thumbnail": "https://i.ytimg.com/vi/Wz2KTbLXBZ4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Wz2KTbLXBZ4"
+    },
+    {
+      "id": "9tAgbz44fkg",
+      "title": "町田市 大学生失踪から27年",
+      "thumbnail": "https://i.ytimg.com/vi/9tAgbz44fkg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9tAgbz44fkg"
+    },
+    {
+      "id": "J1RNVdHg5YM",
+      "title": "コメ兵子会社の元経理社員　約1億200万円の横領疑いで逮捕",
+      "thumbnail": "https://i.ytimg.com/vi/J1RNVdHg5YM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=J1RNVdHg5YM"
+    },
+    {
+      "id": "hQE38dLlFsk",
+      "title": "欧州本土で27年ぶり皆既日食観測　日食により太陽光遮断で電力価格急騰とのデータも",
+      "thumbnail": "https://i.ytimg.com/vi/hQE38dLlFsk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hQE38dLlFsk"
+    },
+    {
+      "id": "YVBa1BEoNg4",
+      "title": "7月の企業物価7.2％上昇 伸び率縮小も高水準続く",
+      "thumbnail": "https://i.ytimg.com/vi/YVBa1BEoNg4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YVBa1BEoNg4"
+    },
+    {
+      "id": "Fo81O9rfNAc",
+      "title": "お盆休みも後半　各地へ向かう帰省客などで混雑",
+      "thumbnail": "https://i.ytimg.com/vi/Fo81O9rfNAc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fo81O9rfNAc"
+    },
+    {
+      "id": "P1ICKI8ZGlI",
+      "title": "地震で休園の熊本城 約2週間ぶりに再開",
+      "thumbnail": "https://i.ytimg.com/vi/P1ICKI8ZGlI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=P1ICKI8ZGlI"
+    },
+    {
+      "id": "ozu3nGdx1Tc",
+      "title": "高市総理・片山大臣は財源確保に自信 食品消費減税 1％の評価は？【NIKKEI NEWS NEXT】",
+      "thumbnail": "https://i.ytimg.com/vi/ozu3nGdx1Tc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ozu3nGdx1Tc"
+    },
+    {
+      "id": "ULcYvdEpSXs",
+      "title": "8月13日（木）ネット証券大手5社 米国株を日中も売買へ、東京23区の新築戸建て 9000万円台続く【ながら日経】",
+      "thumbnail": "https://i.ytimg.com/vi/ULcYvdEpSXs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ULcYvdEpSXs"
+    },
+    {
+      "id": "DOGCnqqFdPk",
+      "title": "8月13日（木）テスラ 2026年中に日本の納車拠点7から11に拡大、台湾発ゴンチャ 日本が稼ぎ頭に【ヤング日経】",
+      "thumbnail": "https://i.ytimg.com/vi/DOGCnqqFdPk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DOGCnqqFdPk"
+    },
+    {
+      "id": "4KnAyQ9NcAQ",
+      "title": "著名弁護士が説く　日本経済復活への道【日経モープラFT】",
+      "thumbnail": "https://i.ytimg.com/vi/4KnAyQ9NcAQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4KnAyQ9NcAQ"
+    },
+    {
+      "id": "qy30vA3L4aQ",
+      "title": "米中間選挙 急進左派が敗北 重要州ウィスコンシンで【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/qy30vA3L4aQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qy30vA3L4aQ"
+    },
+    {
+      "id": "BtOOZD-Oh4c",
+      "title": "米金融大手 トランプ政権意識か AIインフラ支援へ40兆円【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/BtOOZD-Oh4c/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BtOOZD-Oh4c"
+    },
+    {
+      "id": "cNGXhDy7OU0",
+      "title": "26年石油供給見通し引き下げ 中東情勢悪化で【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/cNGXhDy7OU0/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cNGXhDy7OU0"
+    },
+    {
+      "id": "WumRxLxnKLM",
+      "title": "フーシ派攻撃で6人死亡 イラン軍再編の動きも【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/WumRxLxnKLM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WumRxLxnKLM"
+    },
+    {
+      "id": "_mQ3Bet2K8I",
+      "title": "米7月消費者物価 ↑3.4％ 伸びは縮小【モーサテ】",
+      "thumbnail": "https://i.ytimg.com/vi/_mQ3Bet2K8I/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_mQ3Bet2K8I"
     }
   ]
 }

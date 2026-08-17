@@ -1,8 +1,44 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-08-14T15:54:11.352426",
+  "updated_at": "2026-08-17T15:27:31.103573",
   "videos": [
+    {
+      "id": "VvUUXCyePjM",
+      "title": "【ベジ得】トマト",
+      "description": "",
+      "publishedAt": "2026-08-17T10:19:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VvUUXCyePjM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VvUUXCyePjM"
+    },
+    {
+      "id": "LNPvjA8KZMQ",
+      "title": "戦争遺跡「掩体壕」とは",
+      "description": "",
+      "publishedAt": "2026-08-17T10:18:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LNPvjA8KZMQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LNPvjA8KZMQ"
+    },
+    {
+      "id": "KOJYXze0ZCY",
+      "title": "【ゆ～ばら！】夏休みお出かけ企画！香川県・四国水族館へ！Part2【「潜入！海の有毒生物研究所」】",
+      "description": "",
+      "publishedAt": "2026-08-17T08:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KOJYXze0ZCY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KOJYXze0ZCY"
+    },
     {
       "id": "SHrU80EnvvE",
       "title": "被爆した劇団「桜隊」をトイピアノで追悼",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-08-16T15:24:31.636096",
+  "updated_at": "2026-08-17T15:28:03.648072",
   "videos": [
+    {
+      "id": "TLWoiFh-1Kw",
+      "title": "8/24（月）まで開催／アニメ天官賜福展 -天地流光-（福岡・博多阪急８F）",
+      "description": "",
+      "publishedAt": "2026-08-17T06:23:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TLWoiFh-1Kw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TLWoiFh-1Kw"
+    },
+    {
+      "id": "Fk2G1ce1r5Y",
+      "title": "アイライフスタイル ♯62「スポーツに夢中」（テレQ 2026年8月15日放送）",
+      "description": "",
+      "publishedAt": "2026-08-17T03:54:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fk2G1ce1r5Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fk2G1ce1r5Y"
+    },
     {
       "id": "be0SQ6YnirU",
       "title": "簡単DIY！緑のある暮らしを実現するレイアウト術／園芸させてもらえませんか？_144",
