@@ -1,8 +1,68 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-08-17T15:27:52.936784",
+  "updated_at": "2026-08-18T15:34:15.335042",
   "videos": [
+    {
+      "id": "Mq92hxamjvI",
+      "title": "2026年8月7日放送",
+      "description": "",
+      "publishedAt": "2026-08-18T02:59:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Mq92hxamjvI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Mq92hxamjvI"
+    },
+    {
+      "id": "gMcF81wWJss",
+      "title": "2026年8月6日放送",
+      "description": "",
+      "publishedAt": "2026-08-18T02:59:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gMcF81wWJss/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gMcF81wWJss"
+    },
+    {
+      "id": "RnTO98mIuJw",
+      "title": "2026年8月5日放送",
+      "description": "",
+      "publishedAt": "2026-08-18T02:59:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RnTO98mIuJw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RnTO98mIuJw"
+    },
+    {
+      "id": "MpBoZo44Zz8",
+      "title": "2026年8月4日放送",
+      "description": "",
+      "publishedAt": "2026-08-18T02:53:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MpBoZo44Zz8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MpBoZo44Zz8"
+    },
+    {
+      "id": "iY7AFwftEy8",
+      "title": "2026年8月3日放送",
+      "description": "",
+      "publishedAt": "2026-08-18T02:52:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iY7AFwftEy8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iY7AFwftEy8"
+    },
     {
       "id": "V_2B5tyIZrs",
       "title": "【第135回】だいちゃんと行く‼︎よりみちさんぽ〈子供とのコミュニケーション　心がけていること〉",

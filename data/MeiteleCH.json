@@ -1,8 +1,56 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-17T15:27:26.411093",
+  "updated_at": "2026-08-18T15:33:52.726025",
   "videos": [
+    {
+      "id": "fgWywhaHGuA",
+      "title": "舞台『Yerma イェルマ』　出演 #青山祥子 コメント #shorts",
+      "description": "",
+      "publishedAt": "2026-08-18T15:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fgWywhaHGuA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fgWywhaHGuA"
+    },
+    {
+      "id": "-RL2hNAS-Nc",
+      "title": "舞台『Yerma イェルマ』　出演 #前東美菜子 コメント #shorts",
+      "description": "",
+      "publishedAt": "2026-08-18T15:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-RL2hNAS-Nc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-RL2hNAS-Nc"
+    },
+    {
+      "id": "wyXctgcKoZc",
+      "title": "＜前東美菜子コメント＞『Yerma イェルマ』愛知公演",
+      "description": "",
+      "publishedAt": "2026-08-18T15:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wyXctgcKoZc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wyXctgcKoZc"
+    },
+    {
+      "id": "koadFdxWOkA",
+      "title": "＜青山祥子コメント＞『Yerma イェルマ』愛知公演",
+      "description": "",
+      "publishedAt": "2026-08-18T15:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/koadFdxWOkA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=koadFdxWOkA"
+    },
     {
       "id": "fWvp01ervoc",
       "title": "超町人！チョコレートサムネット 8/23(日)究極のサムネ２択ツアーin犬山編【メ～テレ】",

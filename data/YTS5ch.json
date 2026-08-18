@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-08-17T15:27:19.061207",
+  "updated_at": "2026-08-18T15:33:46.677591",
   "videos": [
+    {
+      "id": "t5brLPalMkc",
+      "title": "【あさは５ちゃん！】2026年8月22日放送",
+      "description": "",
+      "publishedAt": "2026-08-18T06:35:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t5brLPalMkc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t5brLPalMkc"
+    },
+    {
+      "id": "_dapJQHiRrc",
+      "title": "冷やしラーメン・冷やしシャンプーに次ぐ新しい「冷やし〇〇」とは！？",
+      "description": "",
+      "publishedAt": "2026-08-18T03:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_dapJQHiRrc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_dapJQHiRrc"
+    },
     {
       "id": "imHFQz8D0Ho",
       "title": "山辺町・作谷沢 名産ワサビ＆人気そば店",

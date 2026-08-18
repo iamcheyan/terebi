@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-08-17T15:27:24.099503",
+  "updated_at": "2026-08-18T15:33:57.382076",
   "videos": [
+    {
+      "id": "9qLF8kboTgM",
+      "title": "われら！シン・呉Tuber#16「美しい街づくり賞」",
+      "description": "",
+      "publishedAt": "2026-08-18T10:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9qLF8kboTgM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9qLF8kboTgM"
+    },
+    {
+      "id": "7VxrFAKv1OE",
+      "title": "【キッズチャレンジスタジアム】さやちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-08-18T09:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7VxrFAKv1OE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7VxrFAKv1OE"
+    },
     {
       "id": "KGBi5jbYXug",
       "title": "【バイク好きが集まるSHOP】店主自慢のビンテージヘルメット",

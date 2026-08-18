@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-08-16T15:24:29.677665",
+  "updated_at": "2026-08-18T15:34:24.886651",
   "videos": [
+    {
+      "id": "rssDi-5ilT0",
+      "title": "【トラックがつなぐ、未来の物流 】トラックドライバーコンテスト #07",
+      "description": "",
+      "publishedAt": "2026-08-18T13:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rssDi-5ilT0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rssDi-5ilT0"
+    },
     {
       "id": "1tfczx7glvA",
       "title": "【公式】「柳瀬真帆の1minute」ミライへの１minute｜テレビ西日本",
