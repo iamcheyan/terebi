@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-08-18T15:34:18.877610",
+  "updated_at": "2026-08-19T15:34:18.653200",
   "videos": [
+    {
+      "id": "-2B9pzMluLQ",
+      "title": "#03 ナーベーラーのピクルス",
+      "description": "",
+      "publishedAt": "2026-08-19T09:10:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-2B9pzMluLQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-2B9pzMluLQ"
+    },
+    {
+      "id": "2u915D4ZDcA",
+      "title": "【PR】スペシャルドラマ『100年経ったら、またここで。』2026年8月25日放送",
+      "description": "",
+      "publishedAt": "2026-08-19T02:08:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2u915D4ZDcA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2u915D4ZDcA"
+    },
     {
       "id": "IzmBHBoeWDI",
       "title": "#24 本島北部の中心都市名護市 後編【名護市】",

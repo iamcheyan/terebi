@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-08-15T15:23:12.038200",
+  "updated_at": "2026-08-19T15:34:21.780330",
   "videos": [
+    {
+      "id": "IINuas_CTsk",
+      "title": "ライブカメラ 北海道(ＳＴＶ札幌テレビ放送)/LiveCamera Hokkaido Japan",
+      "description": "",
+      "publishedAt": "2026-08-19T00:35:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IINuas_CTsk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IINuas_CTsk"
+    },
     {
       "id": "MwRCJRLO6Ec",
       "title": "トレンド☆サプリ#179「オークストリートの異変」",

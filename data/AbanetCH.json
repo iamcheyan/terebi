@@ -1,8 +1,32 @@
 {
   "channel_id": "UCE5ajTJVTrsmxZJ-V3y8CLA",
   "channel_name": "ABA青森朝日放送",
-  "updated_at": "2026-08-18T15:34:01.209415",
+  "updated_at": "2026-08-19T15:34:03.102061",
   "videos": [
+    {
+      "id": "AfTza52LeNg",
+      "title": "【サッカーライブ配信】第5回青森ユースサッカーフェスティバル　準決勝＆5-8位決定戦　#高校サッカー",
+      "description": "",
+      "publishedAt": "2026-08-14T09:06:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AfTza52LeNg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AfTza52LeNg"
+    },
+    {
+      "id": "-yOG-tytqxI",
+      "title": "【サッカーライブ配信】第5回青森ユースサッカーフェスティバル　決勝トーナメント　#高校サッカー",
+      "description": "",
+      "publishedAt": "2026-08-14T09:00:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-yOG-tytqxI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-yOG-tytqxI"
+    },
     {
       "id": "wUVOEj5p3Lw",
       "title": "インスタントの味噌汁で簡単しじみアヒージョ　アウトドアの達人、小野ますのぶの車中メシ。",

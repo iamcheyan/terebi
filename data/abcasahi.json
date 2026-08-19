@@ -1,8 +1,56 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-08-18T15:33:21.212304",
+  "updated_at": "2026-08-19T15:33:34.342523",
   "videos": [
+    {
+      "id": "12v3yswvyZY",
+      "title": "ピュア男・森下",
+      "description": "",
+      "publishedAt": "2026-08-19T11:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/12v3yswvyZY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=12v3yswvyZY"
+    },
+    {
+      "id": "tsiyEg160n0",
+      "title": "「【月よるビッグバン】久保田・中丸のそれゆけ！ラクガキさんぽ」8月24日(月) 深夜0時～放送",
+      "description": "",
+      "publishedAt": "2026-08-19T09:40:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tsiyEg160n0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tsiyEg160n0"
+    },
+    {
+      "id": "kpb_CrI3ZYk",
+      "title": "「なるみ・岡村の過ぎるTV」8月24日（月）放送",
+      "description": "",
+      "publishedAt": "2026-08-19T08:59:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kpb_CrI3ZYk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kpb_CrI3ZYk"
+    },
+    {
+      "id": "pLwzZ95keLA",
+      "title": "「ノイミーステーションTV」8月21日（金）深夜1時34分～放送！",
+      "description": "",
+      "publishedAt": "2026-08-19T01:15:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pLwzZ95keLA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pLwzZ95keLA"
+    },
     {
       "id": "z9p-3SfRs7o",
       "title": "お酒の力で本音暴露！？",
