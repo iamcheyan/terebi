@@ -1,8 +1,32 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-08-19T15:33:41.616623",
+  "updated_at": "2026-08-20T15:35:25.670122",
   "videos": [
+    {
+      "id": "m_Zt1VNnxo0",
+      "title": "【ソノタネ2.0】#15～出雲村田製作所～",
+      "description": "",
+      "publishedAt": "2026-08-20T07:56:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m_Zt1VNnxo0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m_Zt1VNnxo0"
+    },
+    {
+      "id": "Egxc8grE8_I",
+      "title": "【しまねっこの宅配便X】#16「キラリ！しまねの女性消防団」",
+      "description": "",
+      "publishedAt": "2026-08-19T10:11:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Egxc8grE8_I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Egxc8grE8_I"
+    },
     {
       "id": "sS8tjXtdQN0",
       "title": "予告【しまねっこの宅配便X】8/26（水）放送「キラリ！しまねの女性消防団」",

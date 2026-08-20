@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-08-18T15:34:24.886651",
+  "updated_at": "2026-08-20T15:36:32.008360",
   "videos": [
+    {
+      "id": "ni0OdswxjHg",
+      "title": "【お弁当、もった？】#8 福岡市早良区 息子につくる野菜と肉のせめぎあい弁当",
+      "description": "",
+      "publishedAt": "2026-08-20T12:57:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ni0OdswxjHg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ni0OdswxjHg"
+    },
+    {
+      "id": "w7NWtnZjl9Y",
+      "title": "【公式】2026年8月22日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-08-20T08:17:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/w7NWtnZjl9Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=w7NWtnZjl9Y"
+    },
     {
       "id": "rssDi-5ilT0",
       "title": "【トラックがつなぐ、未来の物流 】トラックドライバーコンテスト #07",

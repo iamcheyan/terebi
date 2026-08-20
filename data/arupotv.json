@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-08-18T15:34:20.159662",
+  "updated_at": "2026-08-20T15:36:28.916487",
   "videos": [
+    {
+      "id": "KvUN8k1bK0w",
+      "title": "【番宣】８月２６日（水）よる７時　ＮＥＷＳゲツキン特別版 熊本地震から１か月～復旧の現在地～",
+      "description": "",
+      "publishedAt": "2026-08-20T08:12:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KvUN8k1bK0w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KvUN8k1bK0w"
+    },
+    {
+      "id": "xRAAQDf2XBw",
+      "title": "【番宣】８月２４日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-08-20T08:05:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xRAAQDf2XBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xRAAQDf2XBw"
+    },
+    {
+      "id": "T0iDupAAS_M",
+      "title": "【番宣】８月２５日（火）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-08-20T00:19:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T0iDupAAS_M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T0iDupAAS_M"
+    },
     {
       "id": "lLqL8n0hxQc",
       "title": "【番宣】８月２０日（木）NEWSゲツキン",

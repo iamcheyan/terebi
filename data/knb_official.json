@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-08-18T15:34:11.136064",
+  "updated_at": "2026-08-20T15:36:19.096912",
   "videos": [
+    {
+      "id": "3FmvaaZK9vQ",
+      "title": "【北陸３県イイトコどり~】防災を考える",
+      "description": "",
+      "publishedAt": "2026-08-20T10:10:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3FmvaaZK9vQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3FmvaaZK9vQ"
+    },
     {
       "id": "YN1R6h5p_O4",
       "title": "【旬景とやま】立山の天の川",

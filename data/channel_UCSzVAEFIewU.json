@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-08-18T15:33:30.232971",
+  "updated_at": "2026-08-20T15:35:45.191652",
   "videos": [
+    {
+      "id": "b3rmSkeBLhQ",
+      "title": "【熱中症対策企画】正しい知識で命を守る「熱中症対策アンバサダー」",
+      "description": "",
+      "publishedAt": "2026-08-20T02:13:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b3rmSkeBLhQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b3rmSkeBLhQ"
+    },
     {
       "id": "f9Tt48WL46s",
       "title": "【密着】スーパー日東が新店舗オープン！激戦区・松山で挑むローカルスーパーの戦略とは",

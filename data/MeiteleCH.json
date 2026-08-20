@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-19T15:33:42.047855",
+  "updated_at": "2026-08-20T15:35:53.181741",
   "videos": [
+    {
+      "id": "QlVG88nSw14",
+      "title": "「チョコプラの買い主が見てみたい」8月29日（土）午後3:30～放送",
+      "description": "",
+      "publishedAt": "2026-08-20T09:37:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QlVG88nSw14/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QlVG88nSw14"
+    },
     {
       "id": "mavy6OjBWZQ",
       "title": "夏といえば…「昆虫採集🐜」【アナメロ】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-08-19T15:34:30.068021",
+  "updated_at": "2026-08-20T15:36:39.285422",
   "videos": [
+    {
+      "id": "Rxjd1t5MRNk",
+      "title": "愛媛のニュース(08月20日)",
+      "description": "",
+      "publishedAt": "2026-08-20T11:38:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rxjd1t5MRNk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rxjd1t5MRNk"
+    },
+    {
+      "id": "xFfMQrFAIy4",
+      "title": "STU48と愛媛をEVドライブ！【第25回】ブルークエスト with STU48（今治市 BLUE ROSE COFFEE）",
+      "description": "",
+      "publishedAt": "2026-08-20T03:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xFfMQrFAIy4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xFfMQrFAIy4"
+    },
     {
       "id": "Nox8gCVBYwQ",
       "title": "愛媛のニュース(08月19日)",
