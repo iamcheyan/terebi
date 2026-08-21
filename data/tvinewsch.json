@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-08-20T15:35:34.651550",
+  "updated_at": "2026-08-21T15:35:20.840366",
   "videos": [
+    {
+      "id": "Ok6vQE1w8W0",
+      "title": "【いわて・夏仕事】山守る思い次世代へ 八幡平市の山岳指導員",
+      "description": "",
+      "publishedAt": "2026-08-21T01:44:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ok6vQE1w8W0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ok6vQE1w8W0"
+    },
     {
       "id": "r4EYJwMucgw",
       "title": "【甲子園報告会】花東野球部が学校で報告会",

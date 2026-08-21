@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-08-20T15:35:47.817864",
+  "updated_at": "2026-08-21T15:35:23.668796",
   "videos": [
+    {
+      "id": "V5RWAvf6jKw",
+      "title": "【京都市動物園】和田園長に聞く！テーマソングプロジェクト／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-08-21T09:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V5RWAvf6jKw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V5RWAvf6jKw"
+    },
+    {
+      "id": "UCifG33Gbug",
+      "title": "【8/22】京セラpresents エキサイティングJ アフターマッチミーティング｜KBS京都",
+      "description": "",
+      "publishedAt": "2026-08-20T11:11:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UCifG33Gbug/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UCifG33Gbug"
+    },
     {
       "id": "STSHkrhztkA",
       "title": "伏見の老舗酒蔵が手がける酒粕かき氷／きょうと経済テラス キュンと！",

@@ -1,8 +1,80 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-08-20T15:35:36.368309",
+  "updated_at": "2026-08-21T15:35:28.163563",
   "videos": [
+    {
+      "id": "jHFqV6qrs38",
+      "title": "【THE ONE TOKYO】女子 QUARTER FINAL",
+      "description": "",
+      "publishedAt": "2026-08-21T11:07:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jHFqV6qrs38/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jHFqV6qrs38"
+    },
+    {
+      "id": "lMxEtE7MZk8",
+      "title": "【THE ONE TOKYO】男子 QUARTER FINAL",
+      "description": "",
+      "publishedAt": "2026-08-21T11:06:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lMxEtE7MZk8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lMxEtE7MZk8"
+    },
+    {
+      "id": "NfS-crt7Pyw",
+      "title": "【母国で2勝目！】トヨタ・パヤリがフィンランド人ドライバーとして200勝目を挙げる！",
+      "description": "",
+      "publishedAt": "2026-08-21T10:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NfS-crt7Pyw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NfS-crt7Pyw"
+    },
+    {
+      "id": "3wBxnV-56_c",
+      "title": "【五輪切符獲得へ！】男子日本代表が公開練習「自分たちのバレーが出来れば世界のトップに…」",
+      "description": "",
+      "publishedAt": "2026-08-21T09:31:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3wBxnV-56_c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3wBxnV-56_c"
+    },
+    {
+      "id": "QelpYaUFN6o",
+      "title": "八村塁が198cmのスター候補 マクミラン・アレックスにつきっきりで指導！ #shorts",
+      "description": "",
+      "publishedAt": "2026-08-21T09:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QelpYaUFN6o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QelpYaUFN6o"
+    },
+    {
+      "id": "6WdrEtV7ThM",
+      "title": "【BLACK SAMURAI SUMMIT】練習後は最高の昼メシ！カレー、牛丼、うなぎ… #shorts",
+      "description": "",
+      "publishedAt": "2026-08-21T06:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6WdrEtV7ThM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6WdrEtV7ThM"
+    },
     {
       "id": "ckkm788B4TQ",
       "title": "【マシンガ大破！？】波乱のフィンランド大会で、トヨタ・エバンスが大回",

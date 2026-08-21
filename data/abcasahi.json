@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-08-20T15:35:49.869985",
+  "updated_at": "2026-08-21T15:35:13.759547",
   "videos": [
+    {
+      "id": "ksKdpwqhaQ4",
+      "title": "「LIFE ～夢のカタチ～」2026年8月29日（土）放送",
+      "description": "",
+      "publishedAt": "2026-08-21T07:46:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ksKdpwqhaQ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ksKdpwqhaQ4"
+    },
+    {
+      "id": "3SUhWs3EuPA",
+      "title": "海外の旅は総集編！ゲストの旅は中越典子！「旅サラダ」8月22日（土）放送",
+      "description": "",
+      "publishedAt": "2026-08-21T01:13:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3SUhWs3EuPA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3SUhWs3EuPA"
+    },
     {
       "id": "-OQn7mP1Qk8",
       "title": "楽しいな　楽しいな",

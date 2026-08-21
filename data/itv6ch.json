@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-08-20T15:36:39.285422",
+  "updated_at": "2026-08-21T15:35:51.805411",
   "videos": [
+    {
+      "id": "CuSjSOke0I4",
+      "title": "子ども食堂で活躍！｢防災リヤカー｣",
+      "description": "",
+      "publishedAt": "2026-08-21T06:27:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CuSjSOke0I4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CuSjSOke0I4"
+    },
+    {
+      "id": "F-8LalkZs-g",
+      "title": "STU48と愛媛をEVドライブ！【第26回】ブルークエスト with STU48（今治市 うみまちバル アメリ）",
+      "description": "",
+      "publishedAt": "2026-08-21T03:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F-8LalkZs-g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F-8LalkZs-g"
+    },
     {
       "id": "Rxjd1t5MRNk",
       "title": "愛媛のニュース(08月20日)",

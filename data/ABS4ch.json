@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-08-20T15:36:10.965816",
+  "updated_at": "2026-08-21T15:35:31.321491",
   "videos": [
+    {
+      "id": "FXMEe6BbQoU",
+      "title": "【特集】働く人を全力応援！官庁街の新店舗・秋田市",
+      "description": "",
+      "publishedAt": "2026-08-21T13:58:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FXMEe6BbQoU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FXMEe6BbQoU"
+    },
+    {
+      "id": "olDROSxbCzs",
+      "title": "【特集】超写実！話題の美術展を取材・秋田",
+      "description": "",
+      "publishedAt": "2026-08-21T12:03:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/olDROSxbCzs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=olDROSxbCzs"
+    },
     {
       "id": "wvWz2tAh0cA",
       "title": "【花輪ばやし】豪華絢爛！会場の熱気をダイジェスト配信",

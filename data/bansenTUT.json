@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-08-20T15:35:49.164151",
+  "updated_at": "2026-08-21T15:35:17.903611",
   "videos": [
+    {
+      "id": "IHFEFDxgGAg",
+      "title": "【ハイスクールチェック】富山南高校（2026年8月17日～8月21日放送）",
+      "description": "",
+      "publishedAt": "2026-08-21T10:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IHFEFDxgGAg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IHFEFDxgGAg"
+    },
     {
       "id": "gOOmkb2XBxI",
       "title": "ハッピーイオン「店内で焼き上げ！こだわりのお惣菜」（2026年8月20日放送分）",

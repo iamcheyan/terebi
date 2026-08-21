@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-08-18T15:33:46.677591",
+  "updated_at": "2026-08-21T15:35:09.227629",
   "videos": [
+    {
+      "id": "F321jTMsX7k",
+      "title": "【見逃し】村山市・むらやま徳内まつり　高坂瑠奈アナウンサー",
+      "description": "",
+      "publishedAt": "2026-08-21T10:59:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F321jTMsX7k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F321jTMsX7k"
+    },
+    {
+      "id": "2Ym35Oki1e0",
+      "title": "やまぎんカップ「powered by eFootball™」",
+      "description": "",
+      "publishedAt": "2026-08-18T02:09:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Ym35Oki1e0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Ym35Oki1e0"
+    },
     {
       "id": "t5brLPalMkc",
       "title": "【あさは５ちゃん！】2026年8月22日放送",
