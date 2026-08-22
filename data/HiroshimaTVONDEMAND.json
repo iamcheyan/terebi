@@ -1,8 +1,20 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-08-21T15:35:26.890646",
+  "updated_at": "2026-08-22T15:22:57.505212",
   "videos": [
+    {
+      "id": "lF8zURA4GOk",
+      "title": "せとうちコットン ＃21",
+      "description": "",
+      "publishedAt": "2026-08-22T05:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lF8zURA4GOk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lF8zURA4GOk"
+    },
     {
       "id": "8hwR9C77KFU",
       "title": "たからモノさがして　第５９４回",

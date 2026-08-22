@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-08-20T15:36:23.299177",
+  "updated_at": "2026-08-22T15:23:36.067701",
   "videos": [
+    {
+      "id": "-RqyRmMHFOk",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-08-22T02:58:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-RqyRmMHFOk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-RqyRmMHFOk"
+    },
     {
       "id": "tSyMEZhN0pc",
       "title": "社長と社員が本音でカタル　トップ＆ビギナー　第12回　東栄空調様",

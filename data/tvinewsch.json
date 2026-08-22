@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-08-21T15:35:20.840366",
+  "updated_at": "2026-08-22T15:22:44.019859",
   "videos": [
+    {
+      "id": "rNxoE8wyRHw",
+      "title": "【岩手大学ネコ研究】ネコの尿に”においの名刺”",
+      "description": "",
+      "publishedAt": "2026-08-22T10:36:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rNxoE8wyRHw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rNxoE8wyRHw"
+    },
     {
       "id": "Ok6vQE1w8W0",
       "title": "【いわて・夏仕事】山守る思い次世代へ 八幡平市の山岳指導員",

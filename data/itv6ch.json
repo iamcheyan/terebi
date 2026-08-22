@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-08-21T15:35:51.805411",
+  "updated_at": "2026-08-22T15:23:54.793338",
   "videos": [
+    {
+      "id": "7ohPdUrzxz0",
+      "title": "愛媛のニュース(08月22日)",
+      "description": "",
+      "publishedAt": "2026-08-22T11:31:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7ohPdUrzxz0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7ohPdUrzxz0"
+    },
     {
       "id": "CuSjSOke0I4",
       "title": "子ども食堂で活躍！｢防災リヤカー｣",

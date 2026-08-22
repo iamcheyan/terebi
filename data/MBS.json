@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-08-21T15:35:13.131145",
+  "updated_at": "2026-08-22T15:22:37.608907",
   "videos": [
+    {
+      "id": "1AlpBAGInW4",
+      "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/8/22放送",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1AlpBAGInW4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1AlpBAGInW4"
+    },
     {
       "id": "voeIpvnj_Wo",
       "title": "座員にいじり倒される新喜劇 座長w",

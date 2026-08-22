@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-08-19T15:34:14.049836",
+  "updated_at": "2026-08-22T15:23:34.415840",
   "videos": [
+    {
+      "id": "KBSvRQmNDpk",
+      "title": "【わんにゃんプラスかごしま】「癒やされてます♪」",
+      "description": "",
+      "publishedAt": "2026-08-22T08:45:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KBSvRQmNDpk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KBSvRQmNDpk"
+    },
     {
       "id": "pjWTqC8r72U",
       "title": "河内あづきの鹿児島あっちこっち　シーズン2 　8月19日(水)",

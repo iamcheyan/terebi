@@ -1,8 +1,188 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-08-21T15:35:27.809585",
+  "updated_at": "2026-08-22T15:22:35.434132",
   "videos": [
+    {
+      "id": "EjP9CI5MMxg",
+      "title": "特製味噌を使った最強スタミナ定食！ 日光橋食堂（愛知県海部郡）【あまドラ～天野っちのドライブしよう！！～】",
+      "description": "",
+      "publishedAt": "2026-08-22T12:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EjP9CI5MMxg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EjP9CI5MMxg"
+    },
+    {
+      "id": "cn0nNUPQRgc",
+      "title": "【並んでも食べたい】噂の激ウマ町中華！三姉妹が守る秘伝の味＆名物「パイコー麺」とは？【愛知あたりまえ】",
+      "description": "",
+      "publishedAt": "2026-08-22T10:58:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cn0nNUPQRgc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cn0nNUPQRgc"
+    },
+    {
+      "id": "PCaecVkZXyE",
+      "title": "リラハ（フリー）/どうゆう事だよ！　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PCaecVkZXyE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PCaecVkZXyE"
+    },
+    {
+      "id": "Hze38x8cABo",
+      "title": "ビッシャビシャカラス（フリー）/悲しみ　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hze38x8cABo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hze38x8cABo"
+    },
+    {
+      "id": "agcMq_Bi4l8",
+      "title": "空飛ぶリビング（フリー）/【リズムネタ】説教　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/agcMq_Bi4l8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=agcMq_Bi4l8"
+    },
+    {
+      "id": "Bj5-FeoeBMI",
+      "title": "超Ｅ人世聞（フリー）/結婚の挨拶　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Bj5-FeoeBMI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Bj5-FeoeBMI"
+    },
+    {
+      "id": "abzVcZCi-tw",
+      "title": "アダムダン（フリー）/タイムカプセル　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/abzVcZCi-tw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=abzVcZCi-tw"
+    },
+    {
+      "id": "3bvnxhtJRk8",
+      "title": "飯田（フリー）/一発ギャグフリップ　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3bvnxhtJRk8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3bvnxhtJRk8"
+    },
+    {
+      "id": "23vUPW49gaQ",
+      "title": "盛庵（フリー）/サプライズ　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/23vUPW49gaQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=23vUPW49gaQ"
+    },
+    {
+      "id": "_PbfaV9Edec",
+      "title": "チャンネル実業（フリ―）/コンセプト薬局　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_PbfaV9Edec/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_PbfaV9Edec"
+    },
+    {
+      "id": "ACK4rli8Y70",
+      "title": "お雪とお嬢（吉本興業東海支社）/やらかした　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ACK4rli8Y70/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ACK4rli8Y70"
+    },
+    {
+      "id": "smKC_DqInu8",
+      "title": "喫茶清澄（吉本興業東海支社＆フリー）/僕と契約して魔法痴女になってよ　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/smKC_DqInu8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=smKC_DqInu8"
+    },
+    {
+      "id": "DWpw7DSN3o4",
+      "title": "すぎやまケーロ（フリー）/ニーとエルボーでノックアウト　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DWpw7DSN3o4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DWpw7DSN3o4"
+    },
+    {
+      "id": "9J5LtQJYEwA",
+      "title": "トリプルバイソンズ（フリー）/サルあるある　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9J5LtQJYEwA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9J5LtQJYEwA"
+    },
+    {
+      "id": "0DWZBKnvDyg",
+      "title": "口八丁（アマチュア）/臓器好きな医者と少年　【ドニ-1グランプリ 9/12（土）決勝ステージ開催】",
+      "description": "",
+      "publishedAt": "2026-08-22T01:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0DWZBKnvDyg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0DWZBKnvDyg"
+    },
     {
       "id": "3P3dDaXC9Yo",
       "title": "DeNA×中日　2026年8月29日（土）野球中継　テレビ愛知",
