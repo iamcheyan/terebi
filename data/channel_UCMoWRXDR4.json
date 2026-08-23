@@ -1,8 +1,32 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-08-21T15:35:18.864576",
+  "updated_at": "2026-08-23T15:24:31.390939",
   "videos": [
+    {
+      "id": "C8S3pB3m5Es",
+      "title": "『里崎智也のゴルフ直球勝負！』～ミニコーナー「ともやの小部屋」#299 ～渡辺 俊介",
+      "description": "",
+      "publishedAt": "2026-08-23T15:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C8S3pB3m5Es/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C8S3pB3m5Es"
+    },
+    {
+      "id": "kxmYN7imISE",
+      "title": "里崎智也のゴルフ直球勝負！ 第286回【ゲスト】菊地明砂美プロ③（2026年5月3日放送）",
+      "description": "",
+      "publishedAt": "2026-08-23T10:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kxmYN7imISE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kxmYN7imISE"
+    },
     {
       "id": "4pMDzpvVBsM",
       "title": "『市町村てくてく散歩』第193回「成田市」(2026.8.21放送)【チバテレ公式】",

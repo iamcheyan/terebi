@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-08-22T15:22:35.434132",
+  "updated_at": "2026-08-23T15:24:58.888421",
   "videos": [
+    {
+      "id": "tIGF1CJVg1E",
+      "title": "あばれる君の『あばにぎり』開発への道（2026年8月23日放送）",
+      "description": "",
+      "publishedAt": "2026-08-23T13:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tIGF1CJVg1E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tIGF1CJVg1E"
+    },
     {
       "id": "EjP9CI5MMxg",
       "title": "特製味噌を使った最強スタミナ定食！ 日光橋食堂（愛知県海部郡）【あまドラ～天野っちのドライブしよう！！～】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-08-21T15:35:28.760530",
+  "updated_at": "2026-08-23T15:24:31.900852",
   "videos": [
+    {
+      "id": "mPrT1IV9HQo",
+      "title": "足立区は都内最大の震度５弱　江東区では水道管破裂も・・・",
+      "description": "",
+      "publishedAt": "2026-08-23T10:31:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mPrT1IV9HQo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mPrT1IV9HQo"
+    },
+    {
+      "id": "L597ZGpyNk4",
+      "title": "【大雨】23区の一部にレベル4　大雨危険警報",
+      "description": "",
+      "publishedAt": "2026-08-23T10:22:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L597ZGpyNk4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L597ZGpyNk4"
+    },
     {
       "id": "FTrv0_xib6w",
       "title": "【千葉豪雨から１週間】収穫間近のコメ農家　“胸まで浸水”で農機具が水没　井戸水は復活",

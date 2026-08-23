@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-08-22T15:23:12.766165",
+  "updated_at": "2026-08-23T15:24:26.098818",
   "videos": [
+    {
+      "id": "WiRAQbGhKt4",
+      "title": "あのじゅうよ〜 第212回「県民文化会館のあのじゅうやで〜」",
+      "description": "",
+      "publishedAt": "2026-08-22T18:07:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WiRAQbGhKt4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WiRAQbGhKt4"
+    },
     {
       "id": "f7MoqfBZD24",
       "title": "和歌山de乾杯!092和歌山市・蝶 後編",

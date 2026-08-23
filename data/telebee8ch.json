@@ -1,8 +1,44 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-08-21T15:35:45.985351",
+  "updated_at": "2026-08-23T15:25:25.226181",
   "videos": [
+    {
+      "id": "XJE5BtPXEwI",
+      "title": "【公式】「BOXER／ダンサー」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-08-23T08:30:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XJE5BtPXEwI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XJE5BtPXEwI"
+    },
+    {
+      "id": "rvY318PM1c0",
+      "title": "【公式】「BOXERの1minute」ミライへの１minute｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-08-23T08:30:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rvY318PM1c0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rvY318PM1c0"
+    },
+    {
+      "id": "V5CqyJV5x6s",
+      "title": "【公式】「脱水注意！手足口病にご用心」（2026年8月23日放送）｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-08-23T00:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V5CqyJV5x6s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V5CqyJV5x6s"
+    },
     {
       "id": "d9QGyRam-dU",
       "title": "【公式】2026年8月28日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "KHB東日本放送",
-  "updated_at": "2026-08-22T15:23:31.140539",
+  "updated_at": "2026-08-23T15:25:09.157654",
   "videos": [
+    {
+      "id": "UHhiF-_Ssl8",
+      "title": "ぐりりの海かんさつ　宮城・南三陸町",
+      "description": "",
+      "publishedAt": "2026-08-23T08:36:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UHhiF-_Ssl8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UHhiF-_Ssl8"
+    },
+    {
+      "id": "tsjv-MXAyDI",
+      "title": "塩釜重油流出事故　国と県が安全宣言　宮城",
+      "description": "",
+      "publishedAt": "2026-08-23T08:34:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tsjv-MXAyDI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tsjv-MXAyDI"
+    },
+    {
+      "id": "20zzY9RdZcg",
+      "title": "楽天イーグルス　西武に連敗　２２日",
+      "description": "",
+      "publishedAt": "2026-08-23T08:29:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/20zzY9RdZcg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=20zzY9RdZcg"
+    },
+    {
+      "id": "l-DrluJPiFY",
+      "title": "宮城・大崎市で「泥んこバレー」",
+      "description": "",
+      "publishedAt": "2026-08-23T03:29:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l-DrluJPiFY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l-DrluJPiFY"
+    },
     {
       "id": "8nt5-BDEnRY",
       "title": "宮城・気仙沼市の沖合　釣り中の小型船同士が衝突　男子中学生ら３人けが",

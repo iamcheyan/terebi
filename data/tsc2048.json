@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-08-18T15:33:51.186702",
+  "updated_at": "2026-08-23T15:24:35.721997",
   "videos": [
+    {
+      "id": "McgkF2czYQQ",
+      "title": "しまじろうのわお！　#739「そなえて！　ふしぎどう」【8/29（土）放送📺】",
+      "description": "",
+      "publishedAt": "2026-08-23T15:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/McgkF2czYQQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=McgkF2czYQQ"
+    },
     {
       "id": "X9DAMDIyflQ",
       "title": "新人記者が空中ブランコに挑戦！　木下大サーカス岡山公演",
