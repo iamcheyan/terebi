@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-08-23T15:24:33.522595",
+  "updated_at": "2026-08-24T15:40:53.279622",
   "videos": [
+    {
+      "id": "tuH7ZpMMuBo",
+      "title": "島田洋七の朝から言わせろ～今夜のマヨと思い出と～",
+      "description": "",
+      "publishedAt": "2026-08-24T09:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tuH7ZpMMuBo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tuH7ZpMMuBo"
+    },
     {
       "id": "vdcsWYuXumo",
       "title": "菓子職人｜８代目の迷いと決意 ふるさとを離れて得た新たな視点",

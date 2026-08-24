@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-08-23T15:25:41.952171",
+  "updated_at": "2026-08-24T15:41:48.504869",
   "videos": [
+    {
+      "id": "rdO9HPPQ4_Y",
+      "title": "260824 135245 伊予宮野下駅跨線橋からの眺望",
+      "description": "",
+      "publishedAt": "2026-08-24T10:45:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rdO9HPPQ4_Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rdO9HPPQ4_Y"
+    },
+    {
+      "id": "IlqkNnIyK90",
+      "title": "260824 134324 かっぱ列車行き違い（伊予宮野下駅）",
+      "description": "",
+      "publishedAt": "2026-08-24T10:30:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IlqkNnIyK90/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IlqkNnIyK90"
+    },
     {
       "id": "ByOnZWmVeyk",
       "title": "今週の予土線 The Yodo Line Weekly 2026 08 23",

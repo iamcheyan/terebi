@@ -1,8 +1,44 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-08-23T15:24:31.900852",
+  "updated_at": "2026-08-24T15:40:48.635330",
   "videos": [
+    {
+      "id": "PMQ664lf9oY",
+      "title": "都内襲った『レベル4大雨』と『震度5弱』…影響続く　東京駅付近では信号機が陥没",
+      "description": "",
+      "publishedAt": "2026-08-24T14:14:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PMQ664lf9oY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PMQ664lf9oY"
+    },
+    {
+      "id": "hfSGp3TucP0",
+      "title": "早くもおせち商戦開始　背徳感コスパの二極化 “15段”や“スイーツ”も",
+      "description": "",
+      "publishedAt": "2026-08-24T14:05:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hfSGp3TucP0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hfSGp3TucP0"
+    },
+    {
+      "id": "iHqQNymTeu8",
+      "title": "東京都の補助事業で“架空請求”3800万円が未返還　NPO団体はすでに解散",
+      "description": "",
+      "publishedAt": "2026-08-24T13:56:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iHqQNymTeu8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iHqQNymTeu8"
+    },
     {
       "id": "mPrT1IV9HQo",
       "title": "足立区は都内最大の震度５弱　江東区では水道管破裂も・・・",

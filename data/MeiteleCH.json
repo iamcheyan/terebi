@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-22T15:23:00.606273",
+  "updated_at": "2026-08-24T15:40:38.138430",
   "videos": [
+    {
+      "id": "pU4cIKCXvZc",
+      "title": "超町人！チョコレートサムネット 8/30(日)愛知・江南市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-08-24T02:49:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pU4cIKCXvZc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pU4cIKCXvZc"
+    },
+    {
+      "id": "WhAgYWRX75M",
+      "title": "「私をスキに連れてって」9月5日（土）午後2:30～放送",
+      "description": "",
+      "publishedAt": "2026-08-24T02:03:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WhAgYWRX75M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WhAgYWRX75M"
+    },
     {
       "id": "1YWEWz_rlto",
       "title": "【まるまる◎あいち】2026年8月22日放送 「あいち国際女性映画祭2026」",

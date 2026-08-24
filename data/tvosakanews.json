@@ -1,8 +1,104 @@
 {
   "channel_id": "UCd6GEK664CTEWRZda7Fu7Lg",
   "channel_name": "Television OSAKA NEWS",
-  "updated_at": "2026-08-23T15:25:29.140482",
+  "updated_at": "2026-08-24T15:41:40.510737",
   "videos": [
+    {
+      "id": "iJVYN6nySPI",
+      "title": "東大阪女性殺害事件「間違いありません」初公判で元交際相手の被告認める",
+      "description": "",
+      "publishedAt": "2026-08-24T10:09:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iJVYN6nySPI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iJVYN6nySPI"
+    },
+    {
+      "id": "rNbB8KGrc2w",
+      "title": "万博レガシーへ 85歳夫婦が4億円寄付「巨大ミャクミャク像を！」",
+      "description": "",
+      "publishedAt": "2026-08-24T10:01:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rNbB8KGrc2w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rNbB8KGrc2w"
+    },
+    {
+      "id": "7PDi5tV5arM",
+      "title": "【困りごとを解決！】なぜ無料で？駆けつける4人組に密着",
+      "description": "",
+      "publishedAt": "2026-08-24T10:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7PDi5tV5arM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7PDi5tV5arM"
+    },
+    {
+      "id": "aFJGPwTcW3w",
+      "title": "学校再開へ 熊本・被災校を支える専門チーム「えん大阪」派遣 大阪北部地震の経験生かす",
+      "description": "",
+      "publishedAt": "2026-08-24T09:53:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aFJGPwTcW3w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aFJGPwTcW3w"
+    },
+    {
+      "id": "Z4bnYz06IpQ",
+      "title": "「時間がなかった」どう喝取り調べめぐる裁判で主任検事が証言",
+      "description": "",
+      "publishedAt": "2026-08-24T09:47:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z4bnYz06IpQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z4bnYz06IpQ"
+    },
+    {
+      "id": "pxr-3vS6tQI",
+      "title": "ミャクミャクシューズが大集合！日常使いで運動促進狙う #万博",
+      "description": "",
+      "publishedAt": "2026-08-24T06:22:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pxr-3vS6tQI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pxr-3vS6tQI"
+    },
+    {
+      "id": "tpv11r6NYFA",
+      "title": "能登半島地震など被害伝える写真展が開催｜災害を乗り越えて",
+      "description": "",
+      "publishedAt": "2026-08-24T00:19:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tpv11r6NYFA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tpv11r6NYFA"
+    },
+    {
+      "id": "2iLiHAmlq_s",
+      "title": "大型家具でも配送費はコンパクトに",
+      "description": "",
+      "publishedAt": "2026-08-23T22:30:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2iLiHAmlq_s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2iLiHAmlq_s"
+    },
     {
       "id": "CxMRHVvZHnM",
       "title": "考えてる？ペットとの避難のこと",

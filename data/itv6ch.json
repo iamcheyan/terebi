@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-08-23T15:25:33.740009",
+  "updated_at": "2026-08-24T15:41:43.596339",
   "videos": [
+    {
+      "id": "kgXhdapI-uY",
+      "title": "愛媛のニュース(08月24日)",
+      "description": "",
+      "publishedAt": "2026-08-24T11:42:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kgXhdapI-uY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kgXhdapI-uY"
+    },
+    {
+      "id": "Ix-xZFYEscg",
+      "title": "6分くらいでわかるあいテレビ #採用 #愛媛のテレビ局",
+      "description": "",
+      "publishedAt": "2026-08-24T01:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ix-xZFYEscg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ix-xZFYEscg"
+    },
     {
       "id": "tE71ZtXH360",
       "title": "愛媛のニュース(08月23日)",

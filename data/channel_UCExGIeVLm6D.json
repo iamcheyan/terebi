@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-08-21T15:35:21.635733",
+  "updated_at": "2026-08-24T15:40:38.586731",
   "videos": [
+    {
+      "id": "-dBs1inrc-M",
+      "title": "#ひろしま未来トーク 横田知事と語ってみた",
+      "description": "",
+      "publishedAt": "2026-08-24T08:11:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-dBs1inrc-M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-dBs1inrc-M"
+    },
+    {
+      "id": "62Ev7O4S-nY",
+      "title": "RCCテレビ『アインシュタインの出没！ひな壇団』2026年8月29日予告",
+      "description": "",
+      "publishedAt": "2026-08-24T00:57:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/62Ev7O4S-nY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=62Ev7O4S-nY"
+    },
     {
       "id": "vBTuXWhN5g4",
       "title": "2026広島県高校ロボット競技大会　午前の部",

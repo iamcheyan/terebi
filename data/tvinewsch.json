@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-08-22T15:22:44.019859",
+  "updated_at": "2026-08-24T15:40:34.210874",
   "videos": [
+    {
+      "id": "Opc9Vg_kdeI",
+      "title": "【花巻Ｋ.Ｏ.Ｈ】菊池雄星投手が監修する野球施設で次の世代を担うピッチャー育成に励む投手コーチ",
+      "description": "",
+      "publishedAt": "2026-08-24T10:48:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Opc9Vg_kdeI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Opc9Vg_kdeI"
+    },
     {
       "id": "rNxoE8wyRHw",
       "title": "【岩手大学ネコ研究】ネコの尿に”においの名刺”",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-08-20T15:36:26.907909",
+  "updated_at": "2026-08-24T15:41:31.914555",
   "videos": [
+    {
+      "id": "fonH5NwLPCs",
+      "title": "【大分市】マルシェ 府内店（2026年8月12日放送分）",
+      "description": "",
+      "publishedAt": "2026-08-24T06:07:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fonH5NwLPCs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fonH5NwLPCs"
+    },
     {
       "id": "716dbSJzGfQ",
       "title": "【大分市】地鶏焼肉専門店 しゃも家（2026年8月12日放送分）",
