@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-08-24T15:41:38.745561",
+  "updated_at": "2026-08-25T15:44:39.173900",
   "videos": [
+    {
+      "id": "MceNY02q9fY",
+      "title": "今日の５きげんテレビ（8月26日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-08-25T15:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MceNY02q9fY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MceNY02q9fY"
+    },
+    {
+      "id": "h8pcUHN35FU",
+      "title": "サバ缶カレー | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-08-25T10:05:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h8pcUHN35FU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h8pcUHN35FU"
+    },
+    {
+      "id": "uOzgclrcj1U",
+      "title": "雫石町の軽トラ市でお手伝い | あがいん直売所",
+      "description": "",
+      "publishedAt": "2026-08-25T10:02:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uOzgclrcj1U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uOzgclrcj1U"
+    },
     {
       "id": "_FVoavF4lG0",
       "title": "今日の５きげんテレビ（8月25日）｜テレビ岩手",

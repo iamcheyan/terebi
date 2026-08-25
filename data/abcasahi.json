@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-08-24T15:40:42.110442",
+  "updated_at": "2026-08-25T15:43:35.625791",
   "videos": [
+    {
+      "id": "21fUZkRiJgs",
+      "title": "歌舞伎界の裏側激白！？",
+      "description": "",
+      "publishedAt": "2026-08-25T11:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/21fUZkRiJgs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=21fUZkRiJgs"
+    },
+    {
+      "id": "uwTW5IZy0Mk",
+      "title": "「ポツンと一軒家」9月6日（日）よる7:54放送！",
+      "description": "",
+      "publishedAt": "2026-08-25T07:47:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uwTW5IZy0Mk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uwTW5IZy0Mk"
+    },
     {
       "id": "U-tfUs_sOTA",
       "title": "新たなロケスターが生まれるかも #相席食堂 #ナイトinナイト #shorts",

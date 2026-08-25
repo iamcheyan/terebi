@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-08-22T15:22:40.679240",
+  "updated_at": "2026-08-25T15:43:44.516821",
   "videos": [
+    {
+      "id": "tQAzg_3tgEE",
+      "title": "新庄まつり山車へ込める若連の思い",
+      "description": "",
+      "publishedAt": "2026-08-25T03:03:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tQAzg_3tgEE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tQAzg_3tgEE"
+    },
     {
       "id": "-JI3q0h0wZc",
       "title": "第2843回 人手不足時代の鳥獣対策「提言の広場」",

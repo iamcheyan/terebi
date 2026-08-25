@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-08-21T15:35:23.346358",
+  "updated_at": "2026-08-25T15:43:29.097447",
   "videos": [
+    {
+      "id": "oR8j7XlnATA",
+      "title": "【ベジ得】ピーマン",
+      "description": "",
+      "publishedAt": "2026-08-25T03:02:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oR8j7XlnATA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oR8j7XlnATA"
+    },
     {
       "id": "Q5L3I-e3dZ0",
       "title": "松山西中等教育学校ダンス部がTGCのステージでパフォーマンス！",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-08-24T15:41:28.307024",
+  "updated_at": "2026-08-25T15:44:27.601119",
   "videos": [
+    {
+      "id": "9divPixLRec",
+      "title": "【8月28日(金) 午後3時49分～】かごよんフライデー",
+      "description": "",
+      "publishedAt": "2026-08-25T07:53:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9divPixLRec/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9divPixLRec"
+    },
+    {
+      "id": "lDQI3ZKtQkk",
+      "title": "熊本地震から3週間…深刻化する観光への二次被害　「一人で耐えるしかない」89歳在宅避難者の思い(MBCニューズナウ 2026年8月24日放送）",
+      "description": "",
+      "publishedAt": "2026-08-25T07:15:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lDQI3ZKtQkk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lDQI3ZKtQkk"
+    },
     {
       "id": "aJmh8mAe3fM",
       "title": "「動き出す妖怪展」来場者7万人超える　「大人から子どもまで楽しめる」黎明館で開催中　鹿児島市(MBCニュース 2026年8月23日放送）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-08-21T15:35:06.122257",
+  "updated_at": "2026-08-25T15:44:12.658788",
   "videos": [
+    {
+      "id": "5gLXRbNuRwk",
+      "title": "栗原心平の青森いただきまーす！８月２４日「カリカリ豚とズッキーニのしょうが炒め」",
+      "description": "",
+      "publishedAt": "2026-08-25T05:29:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5gLXRbNuRwk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5gLXRbNuRwk"
+    },
+    {
+      "id": "fyytDfFwAYU",
+      "title": "季節のいけばな８月２４日テーマ「鈴虫の鳴くころ」",
+      "description": "",
+      "publishedAt": "2026-08-25T05:21:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fyytDfFwAYU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fyytDfFwAYU"
+    },
     {
       "id": "t7aHVSV33eo",
       "title": "シーズンinthe産「平川市葛川・レタス」【生産者直伝！レタスの選び方！】Vol.101",

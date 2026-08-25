@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-08-24T15:41:12.405631",
+  "updated_at": "2026-08-25T15:43:33.858823",
   "videos": [
+    {
+      "id": "XSohwFXdoIE",
+      "title": "尾﨑新市長 初登庁 「たくさんの笑顔で和歌山市を元気に」 和歌山市",
+      "description": "",
+      "publishedAt": "2026-08-25T09:32:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XSohwFXdoIE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XSohwFXdoIE"
+    },
     {
       "id": "-M7A1nuucEo",
       "title": "尾花市長 退庁式 平成26年から3期12年 任期満了で退職 和歌山市",
