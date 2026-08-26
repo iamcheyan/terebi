@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-08-24T15:40:35.797935",
+  "updated_at": "2026-08-26T16:19:25.296475",
   "videos": [
+    {
+      "id": "MpZSiypUr54",
+      "title": "【プライド せとうち経済のチカラ】萩原（倉敷市）　2026年6月20日放送",
+      "description": "",
+      "publishedAt": "2026-08-26T00:56:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MpZSiypUr54/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MpZSiypUr54"
+    },
     {
       "id": "6u8yOKJ3hlw",
       "title": "8月29日のプライドは備前市の鷹取醤油",

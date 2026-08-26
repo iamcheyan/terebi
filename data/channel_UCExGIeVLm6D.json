@@ -1,8 +1,32 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-08-25T15:44:07.628001",
+  "updated_at": "2026-08-26T16:19:45.031827",
   "videos": [
+    {
+      "id": "02S8FgPLfic",
+      "title": "RCCテレビ『元就。』2026年8月30日予告",
+      "description": "",
+      "publishedAt": "2026-08-26T06:46:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/02S8FgPLfic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=02S8FgPLfic"
+    },
+    {
+      "id": "ywopj_8BUy4",
+      "title": "【イマナマ！ワールド】ティーユーロジネットに田村アナが潜入！",
+      "description": "",
+      "publishedAt": "2026-08-26T02:16:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ywopj_8BUy4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ywopj_8BUy4"
+    },
     {
       "id": "H5JtsahGfpU",
       "title": "#ひろしま未来トーク 横田知事と語ってみた in ピースウイング広島",

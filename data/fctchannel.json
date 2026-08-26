@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2026-08-22T15:23:25.524020",
+  "updated_at": "2026-08-26T16:19:50.510164",
   "videos": [
+    {
+      "id": "FKPC6pKMS1g",
+      "title": "おゆらじ #69.5【番外編】ENJOY",
+      "description": "",
+      "publishedAt": "2026-08-26T08:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FKPC6pKMS1g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FKPC6pKMS1g"
+    },
     {
       "id": "QMgFqxCwxZs",
       "title": "おゆらじ #69【本編】ギムトークしたい",

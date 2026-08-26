@@ -1,8 +1,80 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-08-25T15:44:04.685320",
+  "updated_at": "2026-08-26T16:19:28.334521",
   "videos": [
+    {
+      "id": "n0aQdwySU2g",
+      "title": "日本代表 前日練習！八村塁 選手インタビュー",
+      "description": "",
+      "publishedAt": "2026-08-26T13:17:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n0aQdwySU2g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n0aQdwySU2g"
+    },
+    {
+      "id": "tDYCR6313lg",
+      "title": "日本代表 前日練習！和やかな雰囲気",
+      "description": "",
+      "publishedAt": "2026-08-26T12:32:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tDYCR6313lg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tDYCR6313lg"
+    },
+    {
+      "id": "PwXYfpc3l2k",
+      "title": "【W杯最終予選へ】日本代表がサウジアラビアで練習！選手インタビュー！",
+      "description": "",
+      "publishedAt": "2026-08-26T11:14:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PwXYfpc3l2k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PwXYfpc3l2k"
+    },
+    {
+      "id": "myfiQpNvIXI",
+      "title": "【中学野球日本一決定戦！】準決勝 武蔵府中×京都",
+      "description": "",
+      "publishedAt": "2026-08-26T09:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/myfiQpNvIXI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=myfiQpNvIXI"
+    },
+    {
+      "id": "Ov6OimA2iqU",
+      "title": "バスケ日本代表 サウジアラビアで公開練習　河村勇輝インタビュー",
+      "description": "",
+      "publishedAt": "2026-08-25T22:30:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Ov6OimA2iqU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ov6OimA2iqU"
+    },
+    {
+      "id": "5jHoqC_3ezY",
+      "title": "【中学野球日本一決定戦！】準決勝 海老名×世田谷西",
+      "description": "",
+      "publishedAt": "2026-08-25T22:30:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5jHoqC_3ezY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5jHoqC_3ezY"
+    },
     {
       "id": "-rZcUhDkI7c",
       "title": "【THE ONE TOKYO】女子 SEMI FINAL",

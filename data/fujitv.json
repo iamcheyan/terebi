@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-08-25T15:43:36.690346",
+  "updated_at": "2026-08-26T16:19:30.927404",
   "videos": [
+    {
+      "id": "CKSWW8HURkc",
+      "title": "8/27木10ドラマ「ラストノート」第8話みどころ",
+      "description": "",
+      "publishedAt": "2026-08-26T14:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CKSWW8HURkc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CKSWW8HURkc"
+    },
+    {
+      "id": "44XhVlk-pog",
+      "title": "【インタビュー動画】10月12日（月）よる9時スタート！江口洋介×松嶋菜々子『救命病棟24時』",
+      "description": "",
+      "publishedAt": "2026-08-25T20:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/44XhVlk-pog/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=44XhVlk-pog"
+    },
     {
       "id": "j4Ida0g7gOQ",
       "title": "【第9話予告】火9ドラマ「さよならノワール」9月1日よる9時放送",
