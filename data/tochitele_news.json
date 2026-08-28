@@ -1,8 +1,32 @@
 {
   "channel_id": "UC_SN3bimHrEFQ0qe-5X5zFw",
   "channel_name": "とちぎテレビNEWS",
-  "updated_at": "2026-08-28T00:18:36.512718",
+  "updated_at": "2026-08-28T23:55:15.485347",
   "videos": [
+    {
+      "id": "3vUFvdCVvCI",
+      "title": "【キャスターがゆく！】社会とつながる就労支援の新たな形",
+      "description": "",
+      "publishedAt": "2026-08-28T03:43:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3vUFvdCVvCI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3vUFvdCVvCI"
+    },
+    {
+      "id": "D73KKh-9AGs",
+      "title": "「まさか死ぬなんて・・・」遺族の悲痛な声　東武日光線新鹿沼駅４人死亡事故から１週間",
+      "description": "",
+      "publishedAt": "2026-08-28T00:18:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D73KKh-9AGs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D73KKh-9AGs"
+    },
     {
       "id": "_7squPtXEks",
       "title": "「優勝に向け貢献したい」　宇都宮ブレックスの新外国籍選手２人が会見",

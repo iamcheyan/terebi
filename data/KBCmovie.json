@@ -1,8 +1,32 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-08-26T16:19:12.494612",
+  "updated_at": "2026-08-28T23:54:42.637807",
   "videos": [
+    {
+      "id": "MEt-up7vm5s",
+      "title": "島田洋七の朝から言わせろ～孫が伝家の宝刀を～",
+      "description": "",
+      "publishedAt": "2026-08-28T09:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MEt-up7vm5s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MEt-up7vm5s"
+    },
+    {
+      "id": "0miff67-a2M",
+      "title": "【VC FUKUOKA】Vamos!#5 福岡から世界を目指す中学生ロードレーサー",
+      "description": "",
+      "publishedAt": "2026-08-28T01:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0miff67-a2M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0miff67-a2M"
+    },
     {
       "id": "8WhIW2vEsq8",
       "title": "【ゴルフ】生源寺龍憲｜福岡から世界へ！小さな巨人が抱く大きな野望",

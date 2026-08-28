@@ -1,8 +1,20 @@
 {
   "channel_id": "UCqHczYty3emqunOz4dZFFqw",
   "channel_name": "テレビ静岡（テレしず）",
-  "updated_at": "2026-08-28T00:18:03.977097",
+  "updated_at": "2026-08-28T23:54:36.720162",
   "videos": [
+    {
+      "id": "0oaMHhqkVY0",
+      "title": "【おしえて！ひとみ先生】第8回　「CMゲットだいさくせん」",
+      "description": "",
+      "publishedAt": "2026-08-28T16:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0oaMHhqkVY0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0oaMHhqkVY0"
+    },
     {
       "id": "bIzHo-5pJhY",
       "title": "【波に乗ろうよ２】第6回　上達したのはどっち？「コカドvsまいまい」ガチ対決",

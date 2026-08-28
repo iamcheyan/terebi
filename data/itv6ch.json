@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-08-28T00:18:35.051569",
+  "updated_at": "2026-08-28T23:55:14.064968",
   "videos": [
+    {
+      "id": "zWjQWDgVwhc",
+      "title": "愛媛のニュース(08月28日)",
+      "description": "",
+      "publishedAt": "2026-08-28T11:37:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zWjQWDgVwhc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zWjQWDgVwhc"
+    },
     {
       "id": "tyZELf2LWRs",
       "title": "【愛媛・新居浜市】夏休みに「こびとづかん」館内に隠れた“コビト”を見つけ出せ！",
