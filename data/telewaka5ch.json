@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-08-26T16:19:44.649169",
+  "updated_at": "2026-08-28T00:17:50.901553",
   "videos": [
+    {
+      "id": "nTJwfdH3L4w",
+      "title": "WIB HERO'S 和歌山イノベーションベース近況",
+      "description": "",
+      "publishedAt": "2026-08-27T16:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nTJwfdH3L4w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nTJwfdH3L4w"
+    },
+    {
+      "id": "VVV6V2hoG68",
+      "title": "終戦80周年記念誌 和歌山県遺族連合会が和歌山県教育委員会に寄贈 「戦争の悲惨さや平和の尊さを次世代に語り継ぐ一助になれば」",
+      "description": "",
+      "publishedAt": "2026-08-27T09:51:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VVV6V2hoG68/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VVV6V2hoG68"
+    },
     {
       "id": "AvJXJwBFeQA",
       "title": "「弁慶まつり」演劇・弁慶伝説 主要キャスト発表 世界遺産・鬪鶏神社で上演 和歌山県田辺市",

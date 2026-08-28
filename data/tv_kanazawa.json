@@ -1,8 +1,188 @@
 {
   "channel_id": "UCzeRR8rMI8IkjqGx_MFlUjQ",
   "channel_name": "KTKテレビ金沢",
-  "updated_at": "2026-08-26T16:19:58.004186",
+  "updated_at": "2026-08-28T00:18:18.309796",
   "videos": [
+    {
+      "id": "6BnA3tm2bqM",
+      "title": "【ニュースまとめ】8月27日放送分 石川の大雨 一時は｢レベル5大雨特別警報｣発表 28日昼まで大雨に警戒 など",
+      "description": "",
+      "publishedAt": "2026-08-27T10:09:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6BnA3tm2bqM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6BnA3tm2bqM"
+    },
+    {
+      "id": "AEfjUleD7K4",
+      "title": "【ライブ】石川県発最新情報ニュースまとめ（2026年8月27日）｜テレビ金沢 公式ch",
+      "description": "",
+      "publishedAt": "2026-08-24T02:25:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AEfjUleD7K4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AEfjUleD7K4"
+    },
+    {
+      "id": "umR8Yk8PEa0",
+      "title": "【気象解説】発達した雨雲が石川に流れ込んで　28日も朝まで雷伴う非常に激しい雨の所も",
+      "description": "",
+      "publishedAt": "2026-08-27T10:02:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/umR8Yk8PEa0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=umR8Yk8PEa0"
+    },
+    {
+      "id": "ND7yc64GUVM",
+      "title": "【28日昼まで大雨に警戒が必要】一時は｢レベル5大雨特別警報｣発表　石川の大雨は小康状態に #shorts",
+      "description": "",
+      "publishedAt": "2026-08-27T09:52:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ND7yc64GUVM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ND7yc64GUVM"
+    },
+    {
+      "id": "RgC6mmCadk0",
+      "title": "【大雨で交通機関も混乱】石川で運休や欠航相次ぐ　土砂流出でJR七尾線一部区間 復旧の見通し立たず #shorts",
+      "description": "",
+      "publishedAt": "2026-08-27T09:48:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RgC6mmCadk0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RgC6mmCadk0"
+    },
+    {
+      "id": "iH2-ommzWgg",
+      "title": "【大雨で交通機関も混乱】石川で運休や欠航相次ぐ　土砂流出でJR七尾線一部区間 復旧の見通し立たず",
+      "description": "",
+      "publishedAt": "2026-08-27T09:47:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iH2-ommzWgg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iH2-ommzWgg"
+    },
+    {
+      "id": "kRCsDZfw0Oc",
+      "title": "【28日昼まで大雨に警戒が必要】一時は｢レベル5大雨特別警報｣発表　石川の大雨は小康状態に",
+      "description": "",
+      "publishedAt": "2026-08-27T09:44:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kRCsDZfw0Oc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kRCsDZfw0Oc"
+    },
+    {
+      "id": "VyxGVoYdTlE",
+      "title": "【中継】大雨被害は南加賀にも爪痕　石川・小松市は1時間66.5ミリ　冠水や浸水が発生 #shorts",
+      "description": "",
+      "publishedAt": "2026-08-27T09:41:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VyxGVoYdTlE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VyxGVoYdTlE"
+    },
+    {
+      "id": "ECDu-BG73Js",
+      "title": "【中継】大雨被害は南加賀にも爪痕　石川・小松市は1時間66.5ミリ　冠水や浸水が発生",
+      "description": "",
+      "publishedAt": "2026-08-27T09:33:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ECDu-BG73Js/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ECDu-BG73Js"
+    },
+    {
+      "id": "gNQCfQp8A8o",
+      "title": "【中継】観測史上最大の1時間82ミリ　未明からの大雨で河川が氾濫　石川・羽咋市の状況は #shorts",
+      "description": "",
+      "publishedAt": "2026-08-27T09:28:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gNQCfQp8A8o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gNQCfQp8A8o"
+    },
+    {
+      "id": "9SLlQ2DwxQ0",
+      "title": "【中継】観測史上最大の1時間82ミリ　未明からの大雨で河川が氾濫　石川・羽咋市の状況は",
+      "description": "",
+      "publishedAt": "2026-08-27T09:26:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9SLlQ2DwxQ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9SLlQ2DwxQ0"
+    },
+    {
+      "id": "R8XWy9aNY_c",
+      "title": "【災害級大雨の石川】レベル5大雨特別警報続く　命を守る行動を呼び掛け #shorts",
+      "description": "",
+      "publishedAt": "2026-08-27T07:07:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R8XWy9aNY_c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R8XWy9aNY_c"
+    },
+    {
+      "id": "vlrxwiTZsxs",
+      "title": "【災害級大雨の石川】レベル5大雨特別警報続く　命を守る行動を呼び掛け",
+      "description": "",
+      "publishedAt": "2026-08-27T07:05:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vlrxwiTZsxs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vlrxwiTZsxs"
+    },
+    {
+      "id": "kbYRvbMeAUY",
+      "title": "【中継】石川県内にレベル5大雨特別警報が発表　河川氾濫など各地で被害発生 #shorts",
+      "description": "",
+      "publishedAt": "2026-08-27T03:09:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kbYRvbMeAUY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kbYRvbMeAUY"
+    },
+    {
+      "id": "khfm_96jkMM",
+      "title": "【石川に線状降水帯が発生】激しい雨降り続く　28日にかけ危険な大雨つづく見通り #shorts",
+      "description": "",
+      "publishedAt": "2026-08-27T03:05:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/khfm_96jkMM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=khfm_96jkMM"
+    },
     {
       "id": "1paja_Yh9cY",
       "title": "【事故】原付バイクでコンクリート塀などに衝突　70代男性が意識不明の重体　石川・小松市 #shorts",
