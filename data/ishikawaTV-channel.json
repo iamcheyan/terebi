@@ -1,8 +1,20 @@
 {
   "channel_id": "UCA5dBoYZe7dgvk4cTl5PLSg",
   "channel_name": "石川テレビ（ITC）",
-  "updated_at": "2026-08-28T23:54:26.790468",
+  "updated_at": "2026-08-29T18:13:26.930722",
   "videos": [
+    {
+      "id": "B6BGR5ovGws",
+      "title": "みまっし金沢「耐震工事で家を守る！」",
+      "description": "",
+      "publishedAt": "2026-08-29T08:30:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B6BGR5ovGws/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B6BGR5ovGws"
+    },
     {
       "id": "4eAbXVZ-W6o",
       "title": "彦摩呂さん登場！七尾でいただくジューシーお肉グルメ（イトシメシ）",

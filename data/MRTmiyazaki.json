@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-08-28T00:18:20.850438",
+  "updated_at": "2026-08-29T18:13:46.715399",
   "videos": [
+    {
+      "id": "Q7xx2qawQhA",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-08-29T03:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q7xx2qawQhA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q7xx2qawQhA"
+    },
     {
       "id": "LsfaPkKik3E",
       "title": "社長と社員が本音でカタル　トップ＆ビギナー　第13回　有限会社 長倉ブロック土木",

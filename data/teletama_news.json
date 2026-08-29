@@ -1,8 +1,20 @@
 {
   "channel_id": "UCW7uiApbFl_E852MGqNILDw",
   "channel_name": "テレ玉NEWS（テレビ埼玉）",
-  "updated_at": "2026-08-28T23:54:23.775920",
+  "updated_at": "2026-08-29T18:13:31.434768",
   "videos": [
+    {
+      "id": "KecdcHTjKJ8",
+      "title": "【報道特集】馬がつなぐ人と町",
+      "description": "",
+      "publishedAt": "2026-08-29T03:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KecdcHTjKJ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KecdcHTjKJ8"
+    },
     {
       "id": "f4kPz5NgWt0",
       "title": "【報道特集】笑いのツアー、埼玉から開幕！吉本新喜劇の舞台裏",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-08-28T23:54:42.241411",
+  "updated_at": "2026-08-29T18:13:20.755423",
   "videos": [
+    {
+      "id": "gjkxwBUc974",
+      "title": "東京ラーメンSP！食にうるさい男たちが絶賛した一杯とは？",
+      "description": "",
+      "publishedAt": "2026-08-29T12:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gjkxwBUc974/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gjkxwBUc974"
+    },
+    {
+      "id": "NsVb5ZM7FxM",
+      "title": "酔った勢いで…",
+      "description": "",
+      "publishedAt": "2026-08-29T11:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NsVb5ZM7FxM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NsVb5ZM7FxM"
+    },
     {
       "id": "5AkQ6oTGKlg",
       "title": "ロコレコは福岡県八女市へ！ゲストの旅は近藤千尋！「旅サラダ」8月29日（土）放送",

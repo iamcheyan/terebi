@@ -1,8 +1,20 @@
 {
   "channel_id": "UCuY1i-Tic2G2xmox2_0h-Fw",
   "channel_name": "HTB北海道テレビ",
-  "updated_at": "2026-08-26T16:19:53.377740",
+  "updated_at": "2026-08-29T18:13:43.704781",
   "videos": [
+    {
+      "id": "d0oGWIbtUCo",
+      "title": "【しあわせ散歩】0721(火）「岩見沢神社・前編」",
+      "description": "",
+      "publishedAt": "2026-08-29T03:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d0oGWIbtUCo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d0oGWIbtUCo"
+    },
     {
       "id": "c9MrHUaA_N4",
       "title": "#8【元芸人・現タコス屋さん＆会社員ガルさん】振り返るとずっと「話す」ことが好きだった。 | ねぇ…その道の人生、のぞいていい？【HTB podcast】",
