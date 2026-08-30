@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-08-29T18:13:36.066855",
+  "updated_at": "2026-08-30T18:29:09.836486",
   "videos": [
+    {
+      "id": "JmviiVwgyIk",
+      "title": "食遺産File.261「ピーマン丸ごと おかずナポリタン」＠大阪府・能勢町",
+      "description": "",
+      "publishedAt": "2026-08-30T03:45:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JmviiVwgyIk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JmviiVwgyIk"
+    },
     {
       "id": "CmoJYHE28xA",
       "title": "【よゐこ有野】この街、攻略しとく？夏の和歌山県白浜ぶーらぶら ～海の幸と国産牛の絶品BBQと超人気の限定スイーツを徹底攻略の巻～",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-08-28T23:54:38.362067",
+  "updated_at": "2026-08-30T18:28:54.146843",
   "videos": [
+    {
+      "id": "M58TMTsyCYM",
+      "title": "WIB HERO'S 8月のゲスト 総集編",
+      "description": "",
+      "publishedAt": "2026-08-30T08:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M58TMTsyCYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M58TMTsyCYM"
+    },
     {
       "id": "Y9aK2GZf4U8",
       "title": "ナマケモノ ハッチくん 2歳の誕生日 木にぶらさがったり 床でくつろいだり アドベンチャーワールド 和歌山県白浜町",
