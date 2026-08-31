@@ -1,8 +1,20 @@
 {
   "channel_id": "UC2sQjNCIMchzKhXJOTEqUcw",
   "channel_name": "富山の遊び場!TV",
-  "updated_at": "2026-08-29T18:13:25.931363",
+  "updated_at": "2026-08-31T20:42:38.118047",
   "videos": [
+    {
+      "id": "uhLGTCow0_I",
+      "title": "高岡銅器ができたよ",
+      "description": "",
+      "publishedAt": "2026-08-31T09:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uhLGTCow0_I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uhLGTCow0_I"
+    },
     {
       "id": "RT9i1et9y7s",
       "title": "【前橋vs高崎】群馬No.1はどっちか商店街と駅でリアルな実態を見てきた",

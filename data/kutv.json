@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2026-08-28T23:54:32.258512",
+  "updated_at": "2026-08-31T20:42:33.084997",
   "videos": [
+    {
+      "id": "QXvsyKrVN9I",
+      "title": "【高知！中高生ニュース】香長中学校　陸上競技部",
+      "description": "",
+      "publishedAt": "2026-08-31T00:30:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QXvsyKrVN9I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QXvsyKrVN9I"
+    },
     {
       "id": "RRfk8Sd3NcM",
       "title": "高知の天気　29日　雲広がりにわか雨のところも　山岸拓気象予報士が解説",

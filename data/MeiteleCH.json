@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-28T23:54:44.735124",
+  "updated_at": "2026-08-31T20:42:26.874916",
   "videos": [
+    {
+      "id": "9B9L56-hfZM",
+      "title": "超町人！チョコレートサムネット 9/6(日)茶色グルメ 伏見エリア編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-08-31T03:15:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9B9L56-hfZM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9B9L56-hfZM"
+    },
     {
       "id": "A7gYVmGvo1I",
       "title": "8月28日(金)放送「レコメシ～自慢のひとさら～」チキン南蛮フライ",

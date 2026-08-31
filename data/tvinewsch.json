@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-08-30T18:29:03.006280",
+  "updated_at": "2026-08-31T20:42:21.689868",
   "videos": [
+    {
+      "id": "ovldU9JZmIc",
+      "title": "【14歳と12歳の姉妹】難病を患う姉とそばに寄り添う妹。心を通わせる姉妹の穏やかな日々を見つめました",
+      "description": "",
+      "publishedAt": "2026-08-31T07:18:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ovldU9JZmIc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ovldU9JZmIc"
+    },
     {
       "id": "DmEvjwV5ybk",
       "title": "【台風10号災害から10年】当時の苦難や、水害に対する防災策についてお伝えします",

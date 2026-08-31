@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-08-30T18:29:53.722371",
+  "updated_at": "2026-08-31T20:43:26.207619",
   "videos": [
+    {
+      "id": "FgiWrls3Gb8",
+      "title": "今日の５きげんテレビ（9月1日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-08-31T15:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FgiWrls3Gb8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FgiWrls3Gb8"
+    },
+    {
+      "id": "t43BWrc6XeI",
+      "title": "豚しゃぶとアボカドのスタミナ盛り | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-08-31T10:03:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t43BWrc6XeI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t43BWrc6XeI"
+    },
+    {
+      "id": "g-jsJtf9pak",
+      "title": "岩瀬・きぬ・天津木村が行く！無人駅ごはん｜JR大船渡線 柴宿駅｜岩手・一関市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-08-31T07:23:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g-jsJtf9pak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g-jsJtf9pak"
+    },
     {
       "id": "lNg-0_Y7SsY",
       "title": "今日の５きげんテレビ（8月31日）｜テレビ岩手",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-08-28T23:55:04.989354",
+  "updated_at": "2026-08-31T20:43:19.107430",
   "videos": [
+    {
+      "id": "DMax0z4beSg",
+      "title": "【番宣】９月２日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-08-31T07:29:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DMax0z4beSg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DMax0z4beSg"
+    },
+    {
+      "id": "ZLHg-vH_4RA",
+      "title": "未来をつくるヒーローたち 第22話",
+      "description": "",
+      "publishedAt": "2026-08-30T23:27:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZLHg-vH_4RA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZLHg-vH_4RA"
+    },
     {
       "id": "ZssMvKtOmZE",
       "title": "【番宣】９月１日（火）NEWSゲツキン",

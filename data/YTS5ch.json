@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-08-28T23:54:37.043749",
+  "updated_at": "2026-08-31T20:42:35.154062",
   "videos": [
+    {
+      "id": "p91F7gWMbag",
+      "title": "【あさは５ちゃん！】2026年9月5日放送",
+      "description": "",
+      "publishedAt": "2026-08-31T08:29:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p91F7gWMbag/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p91F7gWMbag"
+    },
+    {
+      "id": "USqR8yV3PDc",
+      "title": "全米No.1ビール職人がサクランボをビールに！？",
+      "description": "",
+      "publishedAt": "2026-08-31T06:48:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/USqR8yV3PDc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=USqR8yV3PDc"
+    },
     {
       "id": "NI_91DoyTQI",
       "title": "第2844回 高層化する山形　変わる都市の姿と未来「提言の広場」",
