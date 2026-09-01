@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-08-31T20:43:26.207619",
+  "updated_at": "2026-09-01T18:15:06.644978",
   "videos": [
+    {
+      "id": "DmRDARCC5cU",
+      "title": "今日の５きげんテレビ（9月2日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-01T15:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DmRDARCC5cU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DmRDARCC5cU"
+    },
+    {
+      "id": "YCQwwcUbeqc",
+      "title": "鶏ムネ肉とズッキーニのレモンマリネ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-09-01T09:09:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YCQwwcUbeqc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YCQwwcUbeqc"
+    },
+    {
+      "id": "WdQ4zkdv3mg",
+      "title": "夏の疲れを癒す 山小屋カフェ kurakake",
+      "description": "",
+      "publishedAt": "2026-09-01T09:01:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WdQ4zkdv3mg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WdQ4zkdv3mg"
+    },
     {
       "id": "FgiWrls3Gb8",
       "title": "今日の５きげんテレビ（9月1日）｜テレビ岩手",

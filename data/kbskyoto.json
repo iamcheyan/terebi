@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-08-31T20:42:50.431197",
+  "updated_at": "2026-09-01T18:14:18.642235",
   "videos": [
+    {
+      "id": "6iAqh1vWrvk",
+      "title": "【特集】ギャルメイクで動画発信するジュエリー会社社員／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-09-01T09:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6iAqh1vWrvk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6iAqh1vWrvk"
+    },
+    {
+      "id": "X0fCG90Pkoc",
+      "title": "時代祭つなぐプロジェクト【15秒CM】",
+      "description": "",
+      "publishedAt": "2026-09-01T04:28:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X0fCG90Pkoc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X0fCG90Pkoc"
+    },
     {
       "id": "dLWcAcyk_rc",
       "title": "時代祭衣装虫干し 平安神宮【きょうとDays】｜時代祭つなぐプロジェクト",

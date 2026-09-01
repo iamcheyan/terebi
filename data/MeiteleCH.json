@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-08-31T20:42:26.874916",
+  "updated_at": "2026-09-01T18:14:28.221289",
   "videos": [
+    {
+      "id": "wHWIE__N1b0",
+      "title": "「ドデスカSP　池上彰の防災検定　巨大災害から命を守る」9月9日(水)よる7時～メ～テレ地上波で放送",
+      "description": "",
+      "publishedAt": "2026-09-01T01:57:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wHWIE__N1b0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wHWIE__N1b0"
+    },
     {
       "id": "9B9L56-hfZM",
       "title": "超町人！チョコレートサムネット 9/6(日)茶色グルメ 伏見エリア編【メ～テレ】",

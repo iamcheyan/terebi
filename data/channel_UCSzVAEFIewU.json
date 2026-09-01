@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-08-31T20:42:55.567341",
+  "updated_at": "2026-09-01T18:14:25.072641",
   "videos": [
+    {
+      "id": "Co_P75FJy58",
+      "title": "上島町からモルックで世界へ",
+      "description": "",
+      "publishedAt": "2026-09-01T03:21:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Co_P75FJy58/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Co_P75FJy58"
+    },
     {
       "id": "xtdr9Jds5JI",
       "title": "愛媛の2026年夏を総決算！",

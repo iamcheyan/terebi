@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-08-31T20:43:39.932725",
+  "updated_at": "2026-09-01T18:15:21.217926",
   "videos": [
+    {
+      "id": "av64QJF6e44",
+      "title": "260901 155901 元宗踏切 ２",
+      "description": "",
+      "publishedAt": "2026-09-01T11:19:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/av64QJF6e44/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=av64QJF6e44"
+    },
+    {
+      "id": "T6yXChRwIeg",
+      "title": "260901 155352 元宗踏切",
+      "description": "",
+      "publishedAt": "2026-09-01T11:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T6yXChRwIeg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T6yXChRwIeg"
+    },
+    {
+      "id": "_Lj6XCTiAtQ",
+      "title": "260901 154818 元宗踏切（すまいるえきちゃん号通過）",
+      "description": "",
+      "publishedAt": "2026-09-01T10:37:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_Lj6XCTiAtQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_Lj6XCTiAtQ"
+    },
+    {
+      "id": "QvQ1ETDyi24",
+      "title": "260901 154339 元宗踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-09-01T10:28:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QvQ1ETDyi24/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QvQ1ETDyi24"
+    },
     {
       "id": "HMSt7I4TIE8",
       "title": "260831 174005 新幹線行き違い（伊予宮野下駅）",

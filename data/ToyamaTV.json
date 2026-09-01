@@ -1,8 +1,20 @@
 {
   "channel_id": "UC2sQjNCIMchzKhXJOTEqUcw",
   "channel_name": "富山の遊び場!TV",
-  "updated_at": "2026-08-31T20:42:38.118047",
+  "updated_at": "2026-09-01T18:14:02.450097",
   "videos": [
+    {
+      "id": "Yx6fezEj5Go",
+      "title": "幻の駅に行ってきた",
+      "description": "",
+      "publishedAt": "2026-09-01T09:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yx6fezEj5Go/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yx6fezEj5Go"
+    },
     {
       "id": "uhLGTCow0_I",
       "title": "高岡銅器ができたよ",

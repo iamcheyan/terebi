@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-08-30T18:29:52.445340",
+  "updated_at": "2026-09-01T18:15:04.210380",
   "videos": [
+    {
+      "id": "pA6VoNox5hk",
+      "title": "【トラックがつなぐ、未来の物流 】I ♥ トラック #09",
+      "description": "",
+      "publishedAt": "2026-09-01T13:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pA6VoNox5hk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pA6VoNox5hk"
+    },
     {
       "id": "H7ESC57JOwI",
       "title": "【公式】「梁井鉄平の1minute」ミライへの１minute｜テレビ西日本",

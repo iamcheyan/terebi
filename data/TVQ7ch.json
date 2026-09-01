@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-08-31T20:43:26.645372",
+  "updated_at": "2026-09-01T18:15:07.312655",
   "videos": [
+    {
+      "id": "pyGOb37NusE",
+      "title": "【テレQ番宣】韓国ドラマ「トッケビ～君がくれた愛しい日々」 毎週月～金曜9:00ｰ",
+      "description": "",
+      "publishedAt": "2026-09-01T00:46:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pyGOb37NusE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pyGOb37NusE"
+    },
+    {
+      "id": "rkLTC63tR9k",
+      "title": "【テレQ番宣】中国ドラマ「長風渡〜あなたと綴る、運命の縁～」 毎週月曜～金曜　12:00～13:00",
+      "description": "",
+      "publishedAt": "2026-08-25T04:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rkLTC63tR9k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rkLTC63tR9k"
+    },
     {
       "id": "kG5dmcT2m4E",
       "title": "【テレQ番宣】韓国ドラマ「トッケビ～君がくれた愛しい日々」 2026年9月1日（火）　9:00スタート",
