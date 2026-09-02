@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-09-01T18:14:15.076854",
+  "updated_at": "2026-09-02T18:29:18.467185",
   "videos": [
+    {
+      "id": "3gRs0UrpY2I",
+      "title": "【生成ＡＩ活用】博物館を４か国語で音声ガイド",
+      "description": "",
+      "publishedAt": "2026-09-02T10:37:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3gRs0UrpY2I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3gRs0UrpY2I"
+    },
+    {
+      "id": "F8VueSSyoSQ",
+      "title": "【わんカメＬＩＶＥ】自然災害が相次ぐ中、防災グッズへの関心が高まっています",
+      "description": "",
+      "publishedAt": "2026-09-02T03:35:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F8VueSSyoSQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F8VueSSyoSQ"
+    },
     {
       "id": "ScabzjTFog4",
       "title": "【山林火災の記憶と教訓】大船渡山林火災の被害の状況などを伝える施設が７月に市内の綾里地区にオープンしました",

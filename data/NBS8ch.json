@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-09-01T18:14:53.961025",
+  "updated_at": "2026-09-02T18:29:43.989848",
   "videos": [
+    {
+      "id": "LlotaZGQKHI",
+      "title": "保育クリエイティブバトル",
+      "description": "",
+      "publishedAt": "2026-09-02T01:17:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LlotaZGQKHI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LlotaZGQKHI"
+    },
     {
       "id": "HMYUOKAQlV0",
       "title": "【世界で大流行】1300万人超が熱狂する新感覚スポーツ！誰でも即ラリーが続く話題の競技　信州STREETBEAT　ピックルボール",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-09-01T18:13:56.581941",
+  "updated_at": "2026-09-02T18:29:14.830019",
   "videos": [
+    {
+      "id": "t5ke9HTKPc4",
+      "title": "「復興のヒマワリ」満開 紀伊半島大水害からまもなく15年 和歌山県新宮市",
+      "description": "",
+      "publishedAt": "2026-09-02T09:38:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t5ke9HTKPc4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t5ke9HTKPc4"
+    },
+    {
+      "id": "6dSUjQ9fpHA",
+      "title": "暮らしのカルチャー＆健康タイム　きもの時間　浴衣を楽しむ　第8回",
+      "description": "",
+      "publishedAt": "2026-09-02T05:15:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6dSUjQ9fpHA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6dSUjQ9fpHA"
+    },
     {
       "id": "fEVFTjL1YZ4",
       "title": "和歌山県 少雨続く ダム貯水率低下 広川ダムは3％に 県民に節水呼びかけ",

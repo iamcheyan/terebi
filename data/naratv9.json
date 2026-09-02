@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-08-31T20:42:51.353434",
+  "updated_at": "2026-09-02T18:29:22.723727",
   "videos": [
+    {
+      "id": "KKg_F8rtNbM",
+      "title": "8月28日（金）放送｜奈良テレビ「ゆうドキッ！」内「いきいきまちだより」",
+      "description": "",
+      "publishedAt": "2026-09-02T03:40:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KKg_F8rtNbM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KKg_F8rtNbM"
+    },
     {
       "id": "P6_7zKxdeeE",
       "title": "【奈良学園登美ヶ丘中学校】奈良県有名私立中学受験ナビ 2026",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-09-01T18:14:32.109924",
+  "updated_at": "2026-09-02T18:29:15.202101",
   "videos": [
+    {
+      "id": "VjGly5Zigwc",
+      "title": "新作予告【トラック人生１本道】#29 日本ロジテム　～私らしくいるために～",
+      "description": "",
+      "publishedAt": "2026-09-02T03:41:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VjGly5Zigwc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VjGly5Zigwc"
+    },
     {
       "id": "row1MuimqMI",
       "title": "知里と修右のミュージックエッセンス 　第358回 【ゲスト】若山かずさ",
