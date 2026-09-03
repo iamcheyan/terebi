@@ -1,8 +1,32 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-09-02T18:29:03.843584",
+  "updated_at": "2026-09-03T18:24:15.896826",
   "videos": [
+    {
+      "id": "pyJmI7mnD7c",
+      "title": "【記者解説】彦根城　世界文化遺産の国内推薦に選定",
+      "description": "",
+      "publishedAt": "2026-09-03T10:04:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pyJmI7mnD7c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pyJmI7mnD7c"
+    },
+    {
+      "id": "mHpv3T43pXQ",
+      "title": "熱中症対策などのため　草津市の小学校で２学期にプール開き",
+      "description": "",
+      "publishedAt": "2026-09-03T09:32:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mHpv3T43pXQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mHpv3T43pXQ"
+    },
     {
       "id": "P6wbvuFaq30",
       "title": "【記者解説】拡大する特殊詐欺の被害　その手口とは―",

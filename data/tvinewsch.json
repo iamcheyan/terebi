@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-09-02T18:29:18.467185",
+  "updated_at": "2026-09-03T18:24:16.635034",
   "videos": [
+    {
+      "id": "KjKzvX6kbZY",
+      "title": "元気○（マル）らいふ　【ニホンザルの農業被害深刻化】（2026/9/2放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-09-03T06:23:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KjKzvX6kbZY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KjKzvX6kbZY"
+    },
     {
       "id": "3gRs0UrpY2I",
       "title": "【生成ＡＩ活用】博物館を４か国語で音声ガイド",

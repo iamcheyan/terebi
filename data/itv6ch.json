@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-09-02T18:29:59.619532",
+  "updated_at": "2026-09-03T18:24:50.360035",
   "videos": [
+    {
+      "id": "xj5yoaDYHus",
+      "title": "愛媛のニュース(09月03日)",
+      "description": "",
+      "publishedAt": "2026-09-03T11:36:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xj5yoaDYHus/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xj5yoaDYHus"
+    },
+    {
+      "id": "MqNdglRvmuw",
+      "title": "2泊3日で愛媛を満喫！高校生目線で修学旅行プラン",
+      "description": "",
+      "publishedAt": "2026-09-03T06:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MqNdglRvmuw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MqNdglRvmuw"
+    },
     {
       "id": "x_HLtxm5WT8",
       "title": "愛媛MP 夢のクロスロード 7200人に勝利届ける",

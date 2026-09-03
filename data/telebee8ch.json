@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-09-01T18:15:04.210380",
+  "updated_at": "2026-09-03T18:24:45.831427",
   "videos": [
+    {
+      "id": "o4teMd9ALLI",
+      "title": "【お弁当、もった？】#10 宗像地区消防本部　救助隊員のお弁当②",
+      "description": "",
+      "publishedAt": "2026-09-03T12:57:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o4teMd9ALLI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o4teMd9ALLI"
+    },
+    {
+      "id": "m44X3ipJKas",
+      "title": "【公式】2026年9月5日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-09-03T05:12:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m44X3ipJKas/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m44X3ipJKas"
+    },
     {
       "id": "pA6VoNox5hk",
       "title": "【トラックがつなぐ、未来の物流 】I ♥ トラック #09",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-09-02T18:29:14.830019",
+  "updated_at": "2026-09-03T18:24:14.944747",
   "videos": [
+    {
+      "id": "wJpvuRGiJhI",
+      "title": "WIB HERO'S 陽太株式会社・陽太税理士法人 代表 菅谷朋樹 #1",
+      "description": "",
+      "publishedAt": "2026-09-03T16:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wJpvuRGiJhI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wJpvuRGiJhI"
+    },
+    {
+      "id": "g0lsXXKwnmg",
+      "title": "日本の伝統文化子ども体験教室 発表会 和歌山県新宮市",
+      "description": "",
+      "publishedAt": "2026-09-03T11:03:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g0lsXXKwnmg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g0lsXXKwnmg"
+    },
+    {
+      "id": "Wi04_v7Razk",
+      "title": "暮らしのカルチャー＆健康タイム　きもの時間　浴衣を楽しむ　第9回",
+      "description": "",
+      "publishedAt": "2026-09-03T05:15:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wi04_v7Razk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wi04_v7Razk"
+    },
     {
       "id": "t5ke9HTKPc4",
       "title": "「復興のヒマワリ」満開 紀伊半島大水害からまもなく15年 和歌山県新宮市",
