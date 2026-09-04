@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-09-02T18:29:53.639784",
+  "updated_at": "2026-09-04T18:12:30.500436",
   "videos": [
+    {
+      "id": "Cj3GnDTLV0k",
+      "title": "【ふくしまSHOW】「カレーまつり特集！」",
+      "description": "",
+      "publishedAt": "2026-09-04T06:53:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cj3GnDTLV0k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cj3GnDTLV0k"
+    },
+    {
+      "id": "X3Elrq8FHYc",
+      "title": "【明日への一歩】県立ふたば未来学園高校「社会起業部カフェチーム」",
+      "description": "",
+      "publishedAt": "2026-09-04T05:06:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X3Elrq8FHYc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X3Elrq8FHYc"
+    },
     {
       "id": "5V1Gp8xBc6Y",
       "title": "【入場無料】究極のカレーに出会う2日間！ふくしまSHOWカレーまつり2026🍛【9/12・13 四季の里】",

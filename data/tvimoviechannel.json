@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-03T18:24:46.960330",
+  "updated_at": "2026-09-04T18:12:31.489035",
   "videos": [
+    {
+      "id": "NkDGXJY0_ag",
+      "title": "梅だれねばねばネギトロ丼",
+      "description": "",
+      "publishedAt": "2026-09-04T09:38:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NkDGXJY0_ag/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NkDGXJY0_ag"
+    },
+    {
+      "id": "tuYlwQC3zmI",
+      "title": "道の駅もりおか渋民  ～もりおかみるくステーション～",
+      "description": "",
+      "publishedAt": "2026-09-04T09:19:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tuYlwQC3zmI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tuYlwQC3zmI"
+    },
     {
       "id": "duiV-2SZQKA",
       "title": "今日の５きげんテレビ（9月4日）｜テレビ岩手",

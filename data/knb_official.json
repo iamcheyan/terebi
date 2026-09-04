@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-09-03T18:24:37.800984",
+  "updated_at": "2026-09-04T18:12:17.487386",
   "videos": [
+    {
+      "id": "R_8h6O6hDas",
+      "title": "【旬景とやま】晩夏の夜明け",
+      "description": "",
+      "publishedAt": "2026-09-04T10:55:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R_8h6O6hDas/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R_8h6O6hDas"
+    },
     {
       "id": "fY0bGB0qQT0",
       "title": "【北陸３県イイトコどり~】ふるさとの味を届けています",

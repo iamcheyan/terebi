@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-09-03T18:24:54.446313",
+  "updated_at": "2026-09-04T18:12:41.736814",
   "videos": [
+    {
+      "id": "XH8l1pHbh8I",
+      "title": "260904 135600 雨の兼近第３踏切（かっぱ列車を待っていたらノーマルキハ32の登場）",
+      "description": "",
+      "publishedAt": "2026-09-04T09:47:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XH8l1pHbh8I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XH8l1pHbh8I"
+    },
+    {
+      "id": "Glmbjht3L1w",
+      "title": "260904 134826 雨の兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-09-04T09:36:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Glmbjht3L1w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Glmbjht3L1w"
+    },
     {
       "id": "QRisJJUC400",
       "title": "260903 180113 永野市第１踏切（予土新幹線通過）",

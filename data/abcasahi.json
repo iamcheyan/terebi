@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-09-03T18:24:14.105044",
+  "updated_at": "2026-09-04T18:11:50.006387",
   "videos": [
+    {
+      "id": "igyr_L_Qle8",
+      "title": "「やすとものいたって真剣です」9月10日（木）よる11時17分放送！",
+      "description": "",
+      "publishedAt": "2026-09-04T06:52:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/igyr_L_Qle8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=igyr_L_Qle8"
+    },
+    {
+      "id": "4FfQ_l6qkmI",
+      "title": "海外の旅はシンガポールへ！ゲストの旅は関口メンディー！「旅サラダ」9月5日（土）放送",
+      "description": "",
+      "publishedAt": "2026-09-04T01:18:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4FfQ_l6qkmI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4FfQ_l6qkmI"
+    },
     {
       "id": "7KbeXhwwovo",
       "title": "愛車の旅立ち",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-09-03T18:24:19.490890",
+  "updated_at": "2026-09-04T18:11:53.634084",
   "videos": [
+    {
+      "id": "p_p14fYbAfI",
+      "title": "【ハイスクールチェック】富山短期大学　特別編（2026年8月31日～9月4日放送）",
+      "description": "",
+      "publishedAt": "2026-09-04T03:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p_p14fYbAfI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p_p14fYbAfI"
+    },
     {
       "id": "5DvT97yzkJc",
       "title": "大雨災害の1週間【氷見市はいま―菊地市長が語る】復旧の現状と市民への思い　富山・氷見市",

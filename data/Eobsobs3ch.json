@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-09-03T18:24:41.914907",
+  "updated_at": "2026-09-04T18:12:22.918060",
   "videos": [
+    {
+      "id": "KMis2dcAHzU",
+      "title": "【大分市】お菓子工房 日果（2026年8月26日放送分）",
+      "description": "",
+      "publishedAt": "2026-09-04T01:39:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KMis2dcAHzU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KMis2dcAHzU"
+    },
     {
       "id": "uCDwxj619G8",
       "title": "【大分市】ハナヤマ食堂（2026年8月26日放送分）",
