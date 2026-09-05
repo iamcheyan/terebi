@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-09-04T18:12:06.739758",
+  "updated_at": "2026-09-05T17:12:50.734584",
   "videos": [
+    {
+      "id": "eE7rP5HMQdg",
+      "title": "第2845回 宇宙ビジネスの開拓を「提言の広場」",
+      "description": "",
+      "publishedAt": "2026-09-04T23:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eE7rP5HMQdg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eE7rP5HMQdg"
+    },
+    {
+      "id": "edH9Se0Bh2E",
+      "title": "在来野菜の魅力引き出す漬物(山形県鶴岡市 本長)",
+      "description": "",
+      "publishedAt": "2026-09-04T22:30:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/edH9Se0Bh2E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=edH9Se0Bh2E"
+    },
     {
       "id": "yXQtKH8SWVM",
       "title": "【見逃し】全国大陶器市・寒河江市から生中継　和田孝太郎アナウンサー",

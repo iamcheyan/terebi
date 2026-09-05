@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-09-03T18:24:47.166107",
+  "updated_at": "2026-09-05T17:13:40.841857",
   "videos": [
+    {
+      "id": "W-WEcJfFyu8",
+      "title": "9月12(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-09-05T12:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W-WEcJfFyu8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W-WEcJfFyu8"
+    },
+    {
+      "id": "PXiK4ori6LI",
+      "title": "アイライフスタイル ♯65 「愛犬と過ごす休日」（テレQ 2026年9月5日放送）",
+      "description": "",
+      "publishedAt": "2026-09-05T11:59:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PXiK4ori6LI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PXiK4ori6LI"
+    },
+    {
+      "id": "arX1NOoI_Ds",
+      "title": "【テレQ番宣】ちょっと福岡行ってきました！（9月12日(土)20:00～）放送",
+      "description": "",
+      "publishedAt": "2026-09-05T11:54:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/arX1NOoI_Ds/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=arX1NOoI_Ds"
+    },
+    {
+      "id": "KMFcjVbIHDg",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（9月12日（土）18:30～）1時間30分SP",
+      "description": "",
+      "publishedAt": "2026-09-05T10:59:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KMFcjVbIHDg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KMFcjVbIHDg"
+    },
     {
       "id": "YdbYzS2U3Uo",
       "title": "【夢クルーズ】623 博多包丁ちくぜん(2026年9月3日放送)",

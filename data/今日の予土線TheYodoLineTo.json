@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-09-04T18:12:41.736814",
+  "updated_at": "2026-09-05T17:13:54.591048",
   "videos": [
+    {
+      "id": "4snC1q67A8U",
+      "title": "260905 175014 務田駅",
+      "description": "",
+      "publishedAt": "2026-09-05T13:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4snC1q67A8U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4snC1q67A8U"
+    },
+    {
+      "id": "woPt3aKPAvw",
+      "title": "260905 174642 務田駅界隈",
+      "description": "",
+      "publishedAt": "2026-09-05T12:54:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/woPt3aKPAvw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=woPt3aKPAvw"
+    },
+    {
+      "id": "eT0VLYtU6sw",
+      "title": "260905 174041 トンネルを出る新幹線（務田踏切）",
+      "description": "",
+      "publishedAt": "2026-09-05T12:42:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eT0VLYtU6sw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eT0VLYtU6sw"
+    },
+    {
+      "id": "7C4pcW_xDfo",
+      "title": "260905 173646 務田踏切 ２",
+      "description": "",
+      "publishedAt": "2026-09-05T12:37:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7C4pcW_xDfo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7C4pcW_xDfo"
+    },
+    {
+      "id": "aSuQpxUHq08",
+      "title": "260905 173241 務田踏切",
+      "description": "",
+      "publishedAt": "2026-09-05T12:18:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aSuQpxUHq08/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aSuQpxUHq08"
+    },
     {
       "id": "XH8l1pHbh8I",
       "title": "260904 135600 雨の兼近第３踏切（かっぱ列車を待っていたらノーマルキハ32の登場）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-09-04T18:12:27.106237",
+  "updated_at": "2026-09-05T17:13:35.132828",
   "videos": [
+    {
+      "id": "58-lvevySEc",
+      "title": "トレンド☆サプリ#180「ANAオープンゴルフトーナメント」",
+      "description": "",
+      "publishedAt": "2026-09-05T12:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/58-lvevySEc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=58-lvevySEc"
+    },
+    {
+      "id": "59p2NYbAvUo",
+      "title": "2026年9月5日放送どさんこWEEKEND ダンロップ",
+      "description": "",
+      "publishedAt": "2026-09-05T01:25:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/59p2NYbAvUo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=59p2NYbAvUo"
+    },
     {
       "id": "azfDv4MrxzU",
       "title": "2026ANAオープンゴルフトーナメントPR15秒",

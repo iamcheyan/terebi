@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-09-04T18:11:59.935227",
+  "updated_at": "2026-09-05T17:12:48.611489",
   "videos": [
+    {
+      "id": "xoHq2uJabrg",
+      "title": "【トラック人生１本道】#29 日本ロジテム　～私らしくいるために～",
+      "description": "",
+      "publishedAt": "2026-09-05T11:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xoHq2uJabrg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xoHq2uJabrg"
+    },
     {
       "id": "1BfhdSkVC-I",
       "title": "『ホリプレゼンツ 求人任三郎がいく！』第414回「宝産業株式会社」(2026.9.4放送)【チバテレ公式】",

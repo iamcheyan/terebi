@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-09-04T18:11:54.943078",
+  "updated_at": "2026-09-05T17:13:00.167707",
   "videos": [
+    {
+      "id": "c_CmlJATe8Q",
+      "title": "【まるまる◎あいち】2026年9月5日放送 「愛知・名古屋の夜じかん」",
+      "description": "",
+      "publishedAt": "2026-09-05T09:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c_CmlJATe8Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c_CmlJATe8Q"
+    },
     {
       "id": "Fus43mEtUgY",
       "title": "9月4日(金)放送「レコメシ～自慢のひとさら～」プレミアム馬喰ランチ",

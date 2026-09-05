@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-09-04T18:11:42.334773",
+  "updated_at": "2026-09-05T17:12:39.233161",
   "videos": [
+    {
+      "id": "vIbx1fd1Qbg",
+      "title": "【釜石復興スタジアム次世代へ】釜石鵜住居復興スタジアムを次世代につなぐため模索が続いています",
+      "description": "",
+      "publishedAt": "2026-09-05T01:01:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vIbx1fd1Qbg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vIbx1fd1Qbg"
+    },
     {
       "id": "qorHzj3RqdE",
       "title": "【あな天】気象予報士・穴澤さんが台風24号を解説",
