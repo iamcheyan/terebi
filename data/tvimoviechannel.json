@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-04T18:12:31.489035",
+  "updated_at": "2026-09-06T17:33:51.277248",
   "videos": [
+    {
+      "id": "OuAscmNxI-Q",
+      "title": "今日の５きげんテレビ（9月7日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-06T15:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OuAscmNxI-Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OuAscmNxI-Q"
+    },
+    {
+      "id": "bW5P_mX3j9c",
+      "title": "【ぼくのケツは青い#22】矢巾町出身のZendaManさんの凱旋ライブ完結編！",
+      "description": "",
+      "publishedAt": "2026-09-06T13:01:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bW5P_mX3j9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bW5P_mX3j9c"
+    },
     {
       "id": "NkDGXJY0_ag",
       "title": "梅だれねばねばネギトロ丼",

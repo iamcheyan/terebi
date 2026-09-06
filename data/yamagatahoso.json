@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-08-23T15:25:31.655446",
+  "updated_at": "2026-09-06T17:33:56.480137",
   "videos": [
+    {
+      "id": "FcxLC0wm55g",
+      "title": "やまがたサンデー５　９月６日放送分　文翔館が語るやまがたの１５０年",
+      "description": "",
+      "publishedAt": "2026-09-06T08:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FcxLC0wm55g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FcxLC0wm55g"
+    },
     {
       "id": "Dzk5a2jvV5c",
       "title": "やまがたサンデー５　８月２３日放送分　命をつなぐ骨髄バンク",

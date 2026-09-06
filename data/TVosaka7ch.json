@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-09-05T17:12:40.555386",
+  "updated_at": "2026-09-06T17:32:47.034702",
   "videos": [
+    {
+      "id": "mFpGXLZNtZg",
+      "title": "食遺産File.262「大市なすの彩りタコライス」＠兵庫県・西宮市",
+      "description": "",
+      "publishedAt": "2026-09-06T03:45:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mFpGXLZNtZg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mFpGXLZNtZg"
+    },
     {
       "id": "3Tk0nK7RgNo",
       "title": "【よゐこ有野】この街、攻略しとく？大阪なんばをぶーらぶら ～大阪・関西万博でも大人気‼世界各国の味が楽しめるあの名店を徹底攻略の巻～",

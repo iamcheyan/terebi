@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7UzAjbjzvekhio8uEJXCpw",
   "channel_name": "AKT秋田テレビ",
-  "updated_at": "2026-09-05T17:13:17.133685",
+  "updated_at": "2026-09-06T17:33:18.558495",
   "videos": [
+    {
+      "id": "6i76oYTKzqA",
+      "title": "あだまっこ体操！　2026年9月6日放送分",
+      "description": "",
+      "publishedAt": "2026-09-06T08:30:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6i76oYTKzqA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6i76oYTKzqA"
+    },
     {
       "id": "jH8QWS6P-YQ",
       "title": "とびまめっ!!　暑さに負けない！夏バテ防止料理企画！　2026年9月4日放送分",
