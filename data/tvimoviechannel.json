@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-06T17:33:51.277248",
+  "updated_at": "2026-09-07T19:03:20.673331",
   "videos": [
+    {
+      "id": "DeufN0NkjJc",
+      "title": "今日の５きげんテレビ（9月8日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-07T15:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DeufN0NkjJc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DeufN0NkjJc"
+    },
+    {
+      "id": "Fk46Q9dFrjM",
+      "title": "西和賀そばの食べ放題のお店 | レストランハウスゆのさわ",
+      "description": "",
+      "publishedAt": "2026-09-07T09:56:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fk46Q9dFrjM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fk46Q9dFrjM"
+    },
     {
       "id": "OuAscmNxI-Q",
       "title": "今日の５きげんテレビ（9月7日）｜テレビ岩手",

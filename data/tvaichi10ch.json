@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-09-06T17:32:21.631292",
+  "updated_at": "2026-09-07T19:02:28.310457",
   "videos": [
+    {
+      "id": "A69c0nhxLkU",
+      "title": "【LBS】配送コストを味方に 家具メーカーの生存戦略",
+      "description": "",
+      "publishedAt": "2026-09-07T12:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A69c0nhxLkU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A69c0nhxLkU"
+    },
+    {
+      "id": "6f_uOtPAc7E",
+      "title": "体験型謎解きイベント「縁日、爆破させていただきます」ティザームービー",
+      "description": "",
+      "publishedAt": "2026-09-07T05:01:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6f_uOtPAc7E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6f_uOtPAc7E"
+    },
     {
       "id": "_oKY-E-CWNs",
       "title": "あばれる君の『あばにぎり』開発への道（2026年9月6日放送）",
