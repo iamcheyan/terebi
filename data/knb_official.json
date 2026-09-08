@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-09-04T18:12:17.487386",
+  "updated_at": "2026-09-08T18:24:16.094701",
   "videos": [
+    {
+      "id": "OXa2VnDcsa4",
+      "title": "【旬景とやま】渚の働きもの",
+      "description": "",
+      "publishedAt": "2026-09-08T11:03:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OXa2VnDcsa4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OXa2VnDcsa4"
+    },
     {
       "id": "R_8h6O6hDas",
       "title": "【旬景とやま】晩夏の夜明け",

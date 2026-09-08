@@ -1,8 +1,140 @@
 {
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "KHB東日本放送",
-  "updated_at": "2026-09-07T19:03:07.068944",
+  "updated_at": "2026-09-08T18:24:14.927212",
   "videos": [
+    {
+      "id": "8-wgTsdctLk",
+      "title": "馬上かまぼこ店（宮城・亘理町）が自己破産申請　負債総額約６億円",
+      "description": "",
+      "publishedAt": "2026-09-08T10:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8-wgTsdctLk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8-wgTsdctLk"
+    },
+    {
+      "id": "jCbeNoE_phM",
+      "title": "誰でも起こりうる脳梗塞　早期発見が大切",
+      "description": "",
+      "publishedAt": "2026-09-08T09:45:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jCbeNoE_phM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jCbeNoE_phM"
+    },
+    {
+      "id": "PBxEmemcKjI",
+      "title": "宮城・七ヶ宿町長選挙　新人２人が立候補　１６年ぶりの選挙戦に",
+      "description": "",
+      "publishedAt": "2026-09-08T09:42:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PBxEmemcKjI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PBxEmemcKjI"
+    },
+    {
+      "id": "hLu8ahE0DE8",
+      "title": "宮城県各地の図書館　計２０００冊以上が行方不明に",
+      "description": "",
+      "publishedAt": "2026-09-08T09:40:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hLu8ahE0DE8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hLu8ahE0DE8"
+    },
+    {
+      "id": "rZkzliFDimY",
+      "title": "仙台・電力ビル周辺の再開発　解体工事業者の公募を実施",
+      "description": "",
+      "publishedAt": "2026-09-08T09:38:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rZkzliFDimY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rZkzliFDimY"
+    },
+    {
+      "id": "YJIynEyBZ8A",
+      "title": "７日の大雨　仙台市立学校の休校判断について保護者から疑問の声も",
+      "description": "",
+      "publishedAt": "2026-09-08T09:34:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YJIynEyBZ8A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YJIynEyBZ8A"
+    },
+    {
+      "id": "v0Otc5CnkFc",
+      "title": "アンダーパスの冠水被害　仙台市は２２カ所で安全対策",
+      "description": "",
+      "publishedAt": "2026-09-08T09:24:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v0Otc5CnkFc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v0Otc5CnkFc"
+    },
+    {
+      "id": "eNWBre_IO4Q",
+      "title": "身が痩せにくい３倍体カキの出荷が始まる　安定生産に期待　宮城・気仙沼市唐桑町",
+      "description": "",
+      "publishedAt": "2026-09-08T07:53:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eNWBre_IO4Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eNWBre_IO4Q"
+    },
+    {
+      "id": "A8SVQHQy65c",
+      "title": "秋の実りに感謝する抜穂祭　宮城・竹駒神社",
+      "description": "",
+      "publishedAt": "2026-09-08T07:50:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A8SVQHQy65c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A8SVQHQy65c"
+    },
+    {
+      "id": "8Vd9g8Lc-yQ",
+      "title": "米の等級検査　全てが１等米　宮城・大崎市",
+      "description": "",
+      "publishedAt": "2026-09-08T07:44:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8Vd9g8Lc-yQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8Vd9g8Lc-yQ"
+    },
+    {
+      "id": "aP3AlHHrIC8",
+      "title": "宮城県で初めて発生を確認　マダニが媒介の重症熱性血小板減少症候群ＳＦＴＳ　石巻保健所管内の９０代男性",
+      "description": "",
+      "publishedAt": "2026-09-08T02:51:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aP3AlHHrIC8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aP3AlHHrIC8"
+    },
     {
       "id": "FXQ3CcPgdJ0",
       "title": "熊本地震の被災地を支援　小学生が募金活動　宮城・美里町",

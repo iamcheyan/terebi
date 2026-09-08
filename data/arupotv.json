@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-09-07T19:03:15.960615",
+  "updated_at": "2026-09-08T18:24:25.236988",
   "videos": [
+    {
+      "id": "MSXjadZUU3Q",
+      "title": "【番宣】９月９日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2026-09-08T07:19:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MSXjadZUU3Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MSXjadZUU3Q"
+    },
+    {
+      "id": "CSRKqWXEJ8s",
+      "title": "【番宣】９月１０日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-09-08T00:26:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CSRKqWXEJ8s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CSRKqWXEJ8s"
+    },
+    {
+      "id": "whV_FcM1GDc",
+      "title": "【番宣】９月９日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-09-08T00:25:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/whV_FcM1GDc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=whV_FcM1GDc"
+    },
     {
       "id": "qP8IYubFzwU",
       "title": "未来をつくるヒーローたち 第23話",

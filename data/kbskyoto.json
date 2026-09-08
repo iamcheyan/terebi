@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-09-07T19:02:57.519743",
+  "updated_at": "2026-09-08T18:23:40.133824",
   "videos": [
+    {
+      "id": "klSztX6jj0w",
+      "title": "【特集】京都の中小企業が取り組むBCP／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-09-08T09:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/klSztX6jj0w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=klSztX6jj0w"
+    },
+    {
+      "id": "B1UjQqFDZUM",
+      "title": "描き続ける支援学校生 岩間一真さん｜大山崎町｜【ふるさとDays】",
+      "description": "",
+      "publishedAt": "2026-09-08T03:17:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B1UjQqFDZUM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B1UjQqFDZUM"
+    },
     {
       "id": "5GgamolA6us",
       "title": "太陽光パネル下の日陰でスクスク 肉厚キクラゲ｜福知山市｜【ふるさとDays】",
