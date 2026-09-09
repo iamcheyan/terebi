@@ -1,8 +1,32 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-09-08T18:24:41.760634",
+  "updated_at": "2026-09-09T18:23:45.508543",
   "videos": [
+    {
+      "id": "E6Dc7E22KJU",
+      "title": "統計開始以来最も早い流行入り　インフルエンザ警戒",
+      "description": "",
+      "publishedAt": "2026-09-09T00:46:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E6Dc7E22KJU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E6Dc7E22KJU"
+    },
+    {
+      "id": "kO30Ab4UiuU",
+      "title": "ヴィアティン三重の選手が出前授業　小学生にバスケの魅力伝える",
+      "description": "",
+      "publishedAt": "2026-09-09T00:45:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kO30Ab4UiuU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kO30Ab4UiuU"
+    },
     {
       "id": "M7hc_eoJAi0",
       "title": "明倫商店街火災から見えた復旧への課題　焼け跡に残る大量がれき　処理どう進めるか",

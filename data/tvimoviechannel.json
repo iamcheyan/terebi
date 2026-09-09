@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-08T18:24:31.388104",
+  "updated_at": "2026-09-09T18:23:33.785662",
   "videos": [
+    {
+      "id": "_Vtor5VItP4",
+      "title": "今日の５きげんテレビ（9月10日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-09T15:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_Vtor5VItP4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_Vtor5VItP4"
+    },
+    {
+      "id": "L2KKc_oquWg",
+      "title": "平泉の愛されスポットを探して | まち探５",
+      "description": "",
+      "publishedAt": "2026-09-09T10:26:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L2KKc_oquWg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L2KKc_oquWg"
+    },
+    {
+      "id": "LaqL4kuKof0",
+      "title": "エノキダケの卵焼き | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-09-09T08:28:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LaqL4kuKof0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LaqL4kuKof0"
+    },
     {
       "id": "253K6MssEH8",
       "title": "今日の５きげんテレビ（9月9日）｜テレビ岩手",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-09-08T18:23:57.707099",
+  "updated_at": "2026-09-09T18:23:02.312193",
   "videos": [
+    {
+      "id": "k9QGoKPj0XY",
+      "title": "【岩手県庁で大地震火災訓練】岩手県庁で大規模な地震や火災を想定した訓練が行われました",
+      "description": "",
+      "publishedAt": "2026-09-09T10:52:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k9QGoKPj0XY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k9QGoKPj0XY"
+    },
+    {
+      "id": "ozaEqr8lpwI",
+      "title": "【わんカメＬＩＶＥ】中継「旬のブドウを召し上がれ」",
+      "description": "",
+      "publishedAt": "2026-09-09T01:17:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ozaEqr8lpwI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ozaEqr8lpwI"
+    },
     {
       "id": "9az34g44_C8",
       "title": "【絶対に入ってはいけない！】全国で頻発する大雨。道路に水があふれる「冠水」が人の命を奪っています",

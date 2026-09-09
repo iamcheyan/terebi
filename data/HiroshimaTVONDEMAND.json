@@ -1,8 +1,44 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-09-08T18:23:26.401413",
+  "updated_at": "2026-09-09T18:22:32.839712",
   "videos": [
+    {
+      "id": "4zphPJbdnoY",
+      "title": "【Podcast動画】ポッとｄｅ！ ＃24　「　西名アナ・蜂須賀アナ　連続誕生日の回　」",
+      "description": "",
+      "publishedAt": "2026-09-09T10:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4zphPJbdnoY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4zphPJbdnoY"
+    },
+    {
+      "id": "sZUxefkk5OE",
+      "title": "【焼きドーナツ＆アンティークカフェ】オーガニック素材にこだわったドーナツ",
+      "description": "",
+      "publishedAt": "2026-09-09T09:30:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sZUxefkk5OE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sZUxefkk5OE"
+    },
+    {
+      "id": "3ANTF-UsWzo",
+      "title": "【キッズチャレンジスタジアム】いっしょうくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-09-09T09:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3ANTF-UsWzo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3ANTF-UsWzo"
+    },
     {
       "id": "2OPUjX7SuzA",
       "title": "われら！シン・呉Tuber＃18「マイクレポイントをゲットしよう（再）」",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-09-08T18:23:46.017841",
+  "updated_at": "2026-09-09T18:22:38.540344",
   "videos": [
+    {
+      "id": "2WueeBIS5wM",
+      "title": "【愛しの媛さんぽ】秋の行楽シーズンを前に今治市の島しょ部をおさんぽ",
+      "description": "",
+      "publishedAt": "2026-09-09T01:32:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2WueeBIS5wM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2WueeBIS5wM"
+    },
+    {
+      "id": "TXw4uyNp4hc",
+      "title": "愛媛から被災地へ。「笑顔」の一枚送ります。",
+      "description": "",
+      "publishedAt": "2026-09-08T07:46:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TXw4uyNp4hc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TXw4uyNp4hc"
+    },
     {
       "id": "dF4K-Atwv3U",
       "title": "【ベジ得】梨",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-09-08T18:23:54.500831",
+  "updated_at": "2026-09-09T18:22:34.568017",
   "videos": [
+    {
+      "id": "ZlfDjavS1cg",
+      "title": "在来野菜の魅力引き出す漬物(山形県鶴岡市 本長)",
+      "description": "",
+      "publishedAt": "2026-09-09T05:25:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZlfDjavS1cg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZlfDjavS1cg"
+    },
     {
       "id": "iW6g2xLjfDU",
       "title": "暑さで免疫力がダウン？残暑を乗り切るお助け術",

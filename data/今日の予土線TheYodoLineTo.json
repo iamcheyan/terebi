@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-09-08T18:24:42.171186",
+  "updated_at": "2026-09-09T18:23:45.806454",
   "videos": [
+    {
+      "id": "VxcW2XYAppI",
+      "title": "260909 155435 赤松踏切 ２",
+      "description": "",
+      "publishedAt": "2026-09-09T14:08:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VxcW2XYAppI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VxcW2XYAppI"
+    },
+    {
+      "id": "q5gNdv6z-RE",
+      "title": "260909 155435 赤松踏切",
+      "description": "",
+      "publishedAt": "2026-09-09T13:49:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q5gNdv6z-RE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q5gNdv6z-RE"
+    },
+    {
+      "id": "LTPBaw5NXFw",
+      "title": "260909 154850 赤松踏切",
+      "description": "",
+      "publishedAt": "2026-09-09T13:23:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LTPBaw5NXFw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LTPBaw5NXFw"
+    },
+    {
+      "id": "l7Rs6Y4khU8",
+      "title": "260909 154503 赤松踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-09-09T13:12:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l7Rs6Y4khU8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l7Rs6Y4khU8"
+    },
     {
       "id": "A1ANkI_TRjs",
       "title": "260908 174934 小井手踏切",
