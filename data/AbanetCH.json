@@ -1,8 +1,32 @@
 {
   "channel_id": "UCE5ajTJVTrsmxZJ-V3y8CLA",
   "channel_name": "ABA青森朝日放送",
-  "updated_at": "2026-09-08T18:24:05.870598",
+  "updated_at": "2026-09-10T18:12:53.260587",
   "videos": [
+    {
+      "id": "m48IMm2Inqg",
+      "title": "【見逃し】アオモリV旅！②",
+      "description": "",
+      "publishedAt": "2026-09-10T01:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m48IMm2Inqg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m48IMm2Inqg"
+    },
+    {
+      "id": "BAnv1gJNKMs",
+      "title": "【見逃し】アオモリV旅！①",
+      "description": "",
+      "publishedAt": "2026-09-10T01:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BAnv1gJNKMs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BAnv1gJNKMs"
+    },
     {
       "id": "tpOioZGlpSE",
       "title": "チョコにちょこっと具材をくぐらせると…幸せ100%！　小野ますのぶの車中メシ。#青森の小野",

@@ -1,8 +1,188 @@
 {
   "channel_id": "UCSWOnDD1KIriGmyQ7SgNA4A",
   "channel_name": "HTB Hokkaido News",
-  "updated_at": "2026-09-09T18:23:15.212126",
+  "updated_at": "2026-09-10T18:12:58.820220",
   "videos": [
+    {
+      "id": "lYtjm3Ird8k",
+      "title": "【LIVE】９月１０日（木）お昼の北海道のニュースとお天気",
+      "description": "",
+      "publishedAt": "2026-09-10T16:29:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lYtjm3Ird8k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lYtjm3Ird8k"
+    },
+    {
+      "id": "QSWkucnWwaA",
+      "title": "【独占直撃】北海道と大阪が「副首都」に！？ 雪対策や財政負担…私たちの暮らしがどうなるかトップに問う",
+      "description": "",
+      "publishedAt": "2026-09-10T13:17:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QSWkucnWwaA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QSWkucnWwaA"
+    },
+    {
+      "id": "7_MYj-kIJcc",
+      "title": "米海軍の掃海艦「ウォーリア」が函館港の造船所で整備受ける　市民団体「軍港にするな」と抗議活動",
+      "description": "",
+      "publishedAt": "2026-09-10T10:54:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7_MYj-kIJcc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7_MYj-kIJcc"
+    },
+    {
+      "id": "jRytvpHYWvA",
+      "title": "米海軍の掃海艦「ウォーリア」が函館港の造船所で整備受ける　市民団体「軍港にするな」と抗議活動",
+      "description": "",
+      "publishedAt": "2026-09-10T10:52:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jRytvpHYWvA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jRytvpHYWvA"
+    },
+    {
+      "id": "pjvKT94UbYQ",
+      "title": "【独自】快速エアポートの運転士が運転中にスマホも見ていた疑い　ＪＲ北海道に運輸局が調査始める",
+      "description": "",
+      "publishedAt": "2026-09-10T10:21:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pjvKT94UbYQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pjvKT94UbYQ"
+    },
+    {
+      "id": "RttNjdq1aRs",
+      "title": "ディズニーファン必見！旭川に限定ショップがオープン　ここでしか買えないご当地アイテムとは？",
+      "description": "",
+      "publishedAt": "2026-09-10T10:20:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RttNjdq1aRs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RttNjdq1aRs"
+    },
+    {
+      "id": "mTT44fCtYAA",
+      "title": "旭川空港近くで大型鳥エミューを目撃　農場で飼育されていた個体が脱走か",
+      "description": "",
+      "publishedAt": "2026-09-10T10:20:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mTT44fCtYAA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mTT44fCtYAA"
+    },
+    {
+      "id": "prHwj7znOYM",
+      "title": "旭川空港近くで大型鳥エミューを目撃　農場で飼育されていた個体が脱走か",
+      "description": "",
+      "publishedAt": "2026-09-10T10:14:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/prHwj7znOYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=prHwj7znOYM"
+    },
+    {
+      "id": "GYrJ2Hxxd6c",
+      "title": "ディズニーファン必見！旭川に限定ショップがオープン　ここでしか買えないご当地アイテムとは？",
+      "description": "",
+      "publishedAt": "2026-09-10T09:37:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GYrJ2Hxxd6c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GYrJ2Hxxd6c"
+    },
+    {
+      "id": "ABqX1BnZ6c8",
+      "title": "遠軽町の町道でひき逃げか　街路灯を点検中の男性が首に重傷　車は声もかけず立ち去る",
+      "description": "",
+      "publishedAt": "2026-09-10T09:36:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ABqX1BnZ6c8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ABqX1BnZ6c8"
+    },
+    {
+      "id": "QwUQP6vPDyM",
+      "title": "【独自】快速エアポートの運転士が運転中にスマホも見ていた疑い　ＪＲ北海道に運輸局が調査始める",
+      "description": "",
+      "publishedAt": "2026-09-10T09:26:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QwUQP6vPDyM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QwUQP6vPDyM"
+    },
+    {
+      "id": "tCSyaM01qx0",
+      "title": "知的障害者を「劣悪な環境で働かせていない」　恵庭市の牧場側が損害賠償求められた裁判で主張",
+      "description": "",
+      "publishedAt": "2026-09-10T09:11:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tCSyaM01qx0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tCSyaM01qx0"
+    },
+    {
+      "id": "nNxrzUAW5vw",
+      "title": "遠軽町の町道でひき逃げか　街路灯を点検中の男性が首に重傷　車は声もかけず立ち去る",
+      "description": "",
+      "publishedAt": "2026-09-10T09:02:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nNxrzUAW5vw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nNxrzUAW5vw"
+    },
+    {
+      "id": "gyWafoVX2WU",
+      "title": "知的障害者を「劣悪な環境で働かせていない」　恵庭市の牧場側が損害賠償求められた裁判で主張",
+      "description": "",
+      "publishedAt": "2026-09-10T08:58:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gyWafoVX2WU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gyWafoVX2WU"
+    },
+    {
+      "id": "CcsY1qK0gJg",
+      "title": "「ストーブ出さなきゃ」札幌12.5℃　朝晩と日中の寒暖差広がる　放射冷却の影響で霧も",
+      "description": "",
+      "publishedAt": "2026-09-10T07:54:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CcsY1qK0gJg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CcsY1qK0gJg"
+    },
     {
       "id": "MFFW2twYvvA",
       "title": "【LIVE】９月９日（水）お昼の北海道のニュースとお天気",

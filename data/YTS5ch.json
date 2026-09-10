@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-09-09T18:22:34.568017",
+  "updated_at": "2026-09-10T18:12:23.126079",
   "videos": [
+    {
+      "id": "9lX82lw19E8",
+      "title": "【あさは５ちゃん！】2026年9月12日放送",
+      "description": "",
+      "publishedAt": "2026-09-10T00:22:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9lX82lw19E8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9lX82lw19E8"
+    },
     {
       "id": "ZlfDjavS1cg",
       "title": "在来野菜の魅力引き出す漬物(山形県鶴岡市 本長)",

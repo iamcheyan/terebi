@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-09T18:23:33.785662",
+  "updated_at": "2026-09-10T18:13:18.141984",
   "videos": [
+    {
+      "id": "7POgmgDNNx0",
+      "title": "今日の５きげんテレビ（9月11日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-10T15:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7POgmgDNNx0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7POgmgDNNx0"
+    },
+    {
+      "id": "tmR3VWsAv8s",
+      "title": "水菜とツナの韓国風サラダ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-09-10T08:24:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tmR3VWsAv8s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tmR3VWsAv8s"
+    },
     {
       "id": "_Vtor5VItP4",
       "title": "今日の５きげんテレビ（9月10日）｜テレビ岩手",

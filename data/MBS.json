@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-09-09T18:22:49.302313",
+  "updated_at": "2026-09-10T18:12:46.979554",
   "videos": [
+    {
+      "id": "crt1D9nKdnY",
+      "title": "★9月12日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-09-10T03:11:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/crt1D9nKdnY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=crt1D9nKdnY"
+    },
     {
       "id": "4GL3XFLIk34",
       "title": "ドラマイズム「恋をするなら二度目が上等 season2」9月1日（火）放送スタート【第３話予告映像】",

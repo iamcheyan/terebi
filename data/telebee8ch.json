@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-09-08T18:24:29.651296",
+  "updated_at": "2026-09-10T18:13:16.021583",
   "videos": [
+    {
+      "id": "lGrJJSHcBtY",
+      "title": "【お弁当、もった？】#11 春日市 30年以上愛されるガッツリ系お弁当屋さん",
+      "description": "",
+      "publishedAt": "2026-09-10T12:57:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lGrJJSHcBtY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lGrJJSHcBtY"
+    },
+    {
+      "id": "E8sHONXCxGw",
+      "title": "【公式】2026年9月12日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-09-10T04:56:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E8sHONXCxGw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E8sHONXCxGw"
+    },
     {
       "id": "pKpRaZVlSRM",
       "title": "【トラックがつなぐ、未来の物流 】暮らしを支えるトラック #10",

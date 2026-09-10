@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7oQ9uMD7914CY7-ZheHrow",
   "channel_name": "山口朝日放送（yab）",
-  "updated_at": "2026-09-03T18:24:16.157542",
+  "updated_at": "2026-09-10T18:12:09.024784",
   "videos": [
+    {
+      "id": "85_1dp1C6qc",
+      "title": "「夏の終わりに大草原を歩く」秋吉台夕暮れウォーキング",
+      "description": "",
+      "publishedAt": "2026-09-10T11:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/85_1dp1C6qc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=85_1dp1C6qc"
+    },
+    {
+      "id": "ivzslbRSMgo",
+      "title": "【山口県】が人気番組『ポツンと一軒家』に登場！",
+      "description": "",
+      "publishedAt": "2026-09-10T06:21:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ivzslbRSMgo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ivzslbRSMgo"
+    },
     {
       "id": "CVJO_C_l9Ho",
       "title": "「夢は観光農園とワイナリー」日の出農園・須金フルーツランド",

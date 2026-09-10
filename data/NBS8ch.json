@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-09-09T18:23:24.589668",
+  "updated_at": "2026-09-10T18:13:08.426648",
   "videos": [
+    {
+      "id": "zBf0I3BMoQ8",
+      "title": "保育クリエイティブルバトル2026",
+      "description": "",
+      "publishedAt": "2026-09-10T11:27:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zBf0I3BMoQ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zBf0I3BMoQ8"
+    },
     {
       "id": "RJYMHTASDZQ",
       "title": "長野放送「特報！ビジナガ」TJKリゾート（アルペンドルフ白樺）",

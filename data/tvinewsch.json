@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-09-09T18:23:02.312193",
+  "updated_at": "2026-09-10T18:12:21.616023",
   "videos": [
+    {
+      "id": "zbdPNufFDZ8",
+      "title": "【警察官 クマ対策学ぶ】クマが出没したときに現場で対応する警察官を対象とした研修会が滝沢市で行われました",
+      "description": "",
+      "publishedAt": "2026-09-10T11:29:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zbdPNufFDZ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zbdPNufFDZ8"
+    },
+    {
+      "id": "I6yMgDi1tMk",
+      "title": "移住 夢を追う】遠野市に移住し、森づくりの活動を続けながら神楽の継承にも携わる男性を紹介します",
+      "description": "",
+      "publishedAt": "2026-09-10T10:53:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I6yMgDi1tMk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I6yMgDi1tMk"
+    },
+    {
+      "id": "HiTJcTztKDI",
+      "title": "元気○（マル）らいふ　【フェーズフリーで備えを】（2026/9/9放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-09-10T09:05:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HiTJcTztKDI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HiTJcTztKDI"
+    },
     {
       "id": "k9QGoKPj0XY",
       "title": "【岩手県庁で大地震火災訓練】岩手県庁で大規模な地震や火災を想定した訓練が行われました",
