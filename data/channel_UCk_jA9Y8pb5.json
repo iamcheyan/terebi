@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-09-08T18:23:23.730542",
+  "updated_at": "2026-09-11T18:14:39.777692",
   "videos": [
+    {
+      "id": "OhtMIBubF6U",
+      "title": "Withべジ「RAB農園のスイカを収穫！」",
+      "description": "",
+      "publishedAt": "2026-09-11T09:39:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OhtMIBubF6U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OhtMIBubF6U"
+    },
+    {
+      "id": "qpI8rEM6eoo",
+      "title": "あたらしいむがしコ「油川の由来」",
+      "description": "",
+      "publishedAt": "2026-09-11T09:11:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qpI8rEM6eoo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qpI8rEM6eoo"
+    },
     {
       "id": "ZxFBhntVwnQ",
       "title": "栗原心平の青森いただきまーす！ 9月7日「なすと豚ひき肉のカレー」",

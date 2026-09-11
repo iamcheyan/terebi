@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-09-10T18:13:23.304009",
+  "updated_at": "2026-09-11T18:15:36.819864",
   "videos": [
+    {
+      "id": "dmK6nLKzFL4",
+      "title": "愛媛のニュース(09月11日)",
+      "description": "",
+      "publishedAt": "2026-09-11T11:37:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dmK6nLKzFL4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dmK6nLKzFL4"
+    },
+    {
+      "id": "qZDnQrZAEsQ",
+      "title": "【愛媛・西条市】高校生が市長にプレゼン！「若者が帰りたくなる街」を作るリアルなアイデアとは？",
+      "description": "",
+      "publishedAt": "2026-09-11T11:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qZDnQrZAEsQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qZDnQrZAEsQ"
+    },
     {
       "id": "KvaJLl1lfFY",
       "title": "愛媛のニュース(09月10日)",

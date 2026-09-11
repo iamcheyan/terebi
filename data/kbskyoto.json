@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-09-10T18:12:24.534450",
+  "updated_at": "2026-09-11T18:15:06.352648",
   "videos": [
+    {
+      "id": "XDDU2vrsMzs",
+      "title": "【アトツギ】大西建設・大西達也さん／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-09-11T09:00:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XDDU2vrsMzs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XDDU2vrsMzs"
+    },
+    {
+      "id": "TY_b65l46C8",
+      "title": "世界へ羽ばたけ「京都きっず」メダリストを目指す小学生クライマー！",
+      "description": "",
+      "publishedAt": "2026-09-11T08:12:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TY_b65l46C8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TY_b65l46C8"
+    },
     {
       "id": "Y_7nGvKNnWY",
       "title": "京都で楽しむ薬膳朝食！／きょうと経済テラス キュンと！",

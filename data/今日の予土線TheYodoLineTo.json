@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-09-10T18:13:30.086794",
+  "updated_at": "2026-09-11T18:15:43.123228",
   "videos": [
+    {
+      "id": "Aeju9iRl3mI",
+      "title": "260911 175231 増田踏切",
+      "description": "",
+      "publishedAt": "2026-09-11T11:15:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Aeju9iRl3mI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Aeju9iRl3mI"
+    },
+    {
+      "id": "cOPnNJJyOsg",
+      "title": "260911 174815 増田踏切（予土新幹線通過）",
+      "description": "",
+      "publishedAt": "2026-09-11T11:07:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cOPnNJJyOsg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cOPnNJJyOsg"
+    },
+    {
+      "id": "6Dihv_YoUE8",
+      "title": "260911 174338 増田踏切（みきゃん列車通過）",
+      "description": "",
+      "publishedAt": "2026-09-11T10:58:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6Dihv_YoUE8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6Dihv_YoUE8"
+    },
     {
       "id": "SNFkbDvmtA4",
       "title": "260910 135944 宮野下第１踏切（路線バス通過）",
