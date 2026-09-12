@@ -1,8 +1,44 @@
 {
   "channel_id": "UCmBnPrnbYpbUZ10TMIlY9YA",
   "channel_name": "The Niigata Television Network 21",
-  "updated_at": "2026-09-11T18:15:33.712835",
+  "updated_at": "2026-09-12T17:43:44.634055",
   "videos": [
+    {
+      "id": "2eSjFhaSudA",
+      "title": "「新米コシヒカリ」5kg2000円台に 問題は去年産のコメ余り",
+      "description": "",
+      "publishedAt": "2026-09-12T12:00:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2eSjFhaSudA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2eSjFhaSudA"
+    },
+    {
+      "id": "Q4RyXK1AZfY",
+      "title": "例年以上の出来 新米の県産コシヒカリ県外へ初出荷「一杯でも多く食べてほしい」",
+      "description": "",
+      "publishedAt": "2026-09-12T11:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q4RyXK1AZfY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q4RyXK1AZfY"
+    },
+    {
+      "id": "mDP-s7tVb3Y",
+      "title": "違反歴のある高齢ドライバーに実施「運転技能検査」厳格化へ",
+      "description": "",
+      "publishedAt": "2026-09-12T10:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mDP-s7tVb3Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mDP-s7tVb3Y"
+    },
     {
       "id": "7IPT8X_ROIE",
       "title": "農畜産団体が知事に米価安定など要請：県の来年度予算編成【新潟】UXニュース9月11日OA",

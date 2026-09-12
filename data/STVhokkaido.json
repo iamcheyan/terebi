@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-09-08T18:24:27.510428",
+  "updated_at": "2026-09-12T17:43:39.766853",
   "videos": [
+    {
+      "id": "A8E4WYZ3fxg",
+      "title": "トレンド☆サプリ#181「明治　ミルクチョコレート」",
+      "description": "",
+      "publishedAt": "2026-09-12T12:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A8E4WYZ3fxg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A8E4WYZ3fxg"
+    },
     {
       "id": "FBAZbE4nrkU",
       "title": "STV秋のFunミーティング！9月21日(月・祝)サッポロファクトリーにて開催！",

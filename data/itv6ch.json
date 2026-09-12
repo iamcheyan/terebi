@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-09-11T18:15:36.819864",
+  "updated_at": "2026-09-12T17:43:47.115472",
   "videos": [
+    {
+      "id": "sIy3cKunHNc",
+      "title": "愛媛のニュース(09月12日)",
+      "description": "",
+      "publishedAt": "2026-09-12T11:31:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sIy3cKunHNc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sIy3cKunHNc"
+    },
+    {
+      "id": "B4OWqTXBGlQ",
+      "title": "【愛媛・伊方町】岡山シーガルズの選手が直接指導！SVリーグ直伝のバレーボール教室",
+      "description": "",
+      "publishedAt": "2026-09-12T01:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B4OWqTXBGlQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B4OWqTXBGlQ"
+    },
     {
       "id": "dmK6nLKzFL4",
       "title": "愛媛のニュース(09月11日)",

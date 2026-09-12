@@ -1,8 +1,32 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-09-09T18:23:22.248937",
+  "updated_at": "2026-09-12T17:43:33.679680",
   "videos": [
+    {
+      "id": "SuYUGHcqLp0",
+      "title": "【わんにゃんプラスかごしま】「家族の笑顔に囲まれて♪」",
+      "description": "",
+      "publishedAt": "2026-09-12T08:45:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SuYUGHcqLp0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SuYUGHcqLp0"
+    },
+    {
+      "id": "2IYrc2W7hWs",
+      "title": "河内あづきの鹿児島あっちこっちスペシャル　9月12日(土)",
+      "description": "",
+      "publishedAt": "2026-09-12T08:25:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2IYrc2W7hWs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2IYrc2W7hWs"
+    },
     {
       "id": "wxmnfGifhMg",
       "title": "河内あづきの鹿児島あっちこっち　シーズン2 　9月9日(水)",

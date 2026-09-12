@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-09-11T18:14:28.482999",
+  "updated_at": "2026-09-12T17:43:09.816048",
   "videos": [
+    {
+      "id": "DQLCMhr0b50",
+      "title": "【まるまる◎あいち】2026年9月12日放送 「ONE ASIA WORLD」",
+      "description": "",
+      "publishedAt": "2026-09-12T09:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DQLCMhr0b50/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DQLCMhr0b50"
+    },
     {
       "id": "ACbgtyuRPm8",
       "title": "9月11日(金)放送「レコメシ～自慢のひとさら～」和牛ホホ肉のどて煮串",
