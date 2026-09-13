@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-09-11T18:15:35.351672",
+  "updated_at": "2026-09-13T17:59:34.877521",
   "videos": [
+    {
+      "id": "G1YlTvKOnCA",
+      "title": "やまがたサンデー５　９月１３日放送分　はじめよう健康ウォーキング～チャレンジ！プラス1000歩～",
+      "description": "",
+      "publishedAt": "2026-09-13T08:30:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G1YlTvKOnCA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G1YlTvKOnCA"
+    },
     {
       "id": "g6uaN995i-k",
       "title": "やまがたサンデー５　９月６日放送分　文翔館が語るやまがたの１５０年",

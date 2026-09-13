@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-09-12T17:43:04.660336",
+  "updated_at": "2026-09-13T17:58:39.261903",
   "videos": [
+    {
+      "id": "nz00NML9Vd0",
+      "title": "食遺産File.263「さといものベジリゾット」＠大阪府・河南町",
+      "description": "",
+      "publishedAt": "2026-09-13T03:45:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nz00NML9Vd0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nz00NML9Vd0"
+    },
     {
       "id": "Q7X9jYjN7xY",
       "title": "【よゐこ有野】この街、攻略しとく？東住吉ぶーらぶら ~猛暑を乗り切る！人情商店街の餃子店から令和の最新住宅までを徹底攻略の巻～",
