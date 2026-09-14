@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-09-12T17:43:09.816048",
+  "updated_at": "2026-09-14T19:46:11.404525",
   "videos": [
+    {
+      "id": "7yWj8UWer2k",
+      "title": "超町人！チョコレートサムネット 9/20(日)三重・伊勢市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-09-14T06:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7yWj8UWer2k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7yWj8UWer2k"
+    },
     {
       "id": "DQLCMhr0b50",
       "title": "【まるまる◎あいち】2026年9月12日放送 「ONE ASIA WORLD」",

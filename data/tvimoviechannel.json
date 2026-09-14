@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-13T17:59:31.245837",
+  "updated_at": "2026-09-14T19:47:08.631636",
   "videos": [
+    {
+      "id": "I6vGjYoJPHU",
+      "title": "今日の５きげんテレビ（9月15日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-14T15:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I6vGjYoJPHU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I6vGjYoJPHU"
+    },
+    {
+      "id": "J0FKT6xWASU",
+      "title": "手打ちパスタとクリームソース | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-09-14T08:45:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J0FKT6xWASU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J0FKT6xWASU"
+    },
+    {
+      "id": "CJ2VWETtPVM",
+      "title": "５きげん知恵袋 ～岩手のりんご～",
+      "description": "",
+      "publishedAt": "2026-09-14T08:35:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CJ2VWETtPVM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CJ2VWETtPVM"
+    },
     {
       "id": "SYLVjalJh4I",
       "title": "今日の５きげんテレビ（9月14日）｜テレビ岩手",

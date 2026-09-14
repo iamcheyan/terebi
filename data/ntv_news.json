@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-08-14T15:53:54.448545",
+  "updated_at": "2026-09-14T19:46:16.071384",
   "videos": [
+    {
+      "id": "uJdIRKwAWeA",
+      "title": "Ginger's Journey: Barbie by the Bells",
+      "description": "",
+      "publishedAt": "2026-09-14T02:34:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uJdIRKwAWeA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uJdIRKwAWeA"
+    },
+    {
+      "id": "MYbCA-3MCG8",
+      "title": "Ginger's Journey: A Barbie Wonderland",
+      "description": "",
+      "publishedAt": "2026-09-14T02:31:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MYbCA-3MCG8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MYbCA-3MCG8"
+    },
     {
       "id": "0TiK4gjV_EM",
       "title": "Ginger's Journey: A Rodeo Legacy",

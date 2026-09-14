@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-09-12T17:43:39.766853",
+  "updated_at": "2026-09-14T19:47:05.077540",
   "videos": [
+    {
+      "id": "DWTW3yqK5kU",
+      "title": "ライブカメラ 北海道(ＳＴＶ札幌テレビ放送)/LiveCamera Hokkaido Japan",
+      "description": "",
+      "publishedAt": "2026-09-14T00:34:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DWTW3yqK5kU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DWTW3yqK5kU"
+    },
     {
       "id": "A8E4WYZ3fxg",
       "title": "トレンド☆サプリ#181「明治　ミルクチョコレート」",

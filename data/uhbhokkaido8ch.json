@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-09-13T17:59:34.020762",
+  "updated_at": "2026-09-14T19:47:11.642614",
   "videos": [
+    {
+      "id": "vYeE3EZLb1Y",
+      "title": "みんテレ　9月15日（火）放送",
+      "description": "",
+      "publishedAt": "2026-09-14T10:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vYeE3EZLb1Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vYeE3EZLb1Y"
+    },
+    {
+      "id": "I-TImIjsYV8",
+      "title": "【ファイターズ】プロ3年目の正捕手候補・進藤勇也に迫る！北山亘基も認める「キャッチャーとして抜群」の理由とは",
+      "description": "",
+      "publishedAt": "2026-09-14T09:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I-TImIjsYV8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I-TImIjsYV8"
+    },
     {
       "id": "wJ4rZ5J1kvw",
       "title": "FumuFumu　2026年9月13日放送",

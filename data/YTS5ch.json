@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-09-12T17:43:05.045594",
+  "updated_at": "2026-09-14T19:46:28.960185",
   "videos": [
+    {
+      "id": "_eFvgPvMaEY",
+      "title": "【全国大陶器市】山形・寒河江市で開催！陶器市の楽しみ方や魅力を深ボリ！",
+      "description": "",
+      "publishedAt": "2026-09-14T02:33:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_eFvgPvMaEY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_eFvgPvMaEY"
+    },
+    {
+      "id": "sRR__d3_F1o",
+      "title": "銀山温泉街で楽しめる日帰りグルメ",
+      "description": "",
+      "publishedAt": "2026-09-14T02:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sRR__d3_F1o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sRR__d3_F1o"
+    },
     {
       "id": "XhoKQ-F5mJU",
       "title": "第2846回 フルーツ王国やまがた果物を観光の力に「提言の広場」",

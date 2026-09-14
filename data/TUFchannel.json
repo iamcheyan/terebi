@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-09-04T18:12:30.500436",
+  "updated_at": "2026-09-14T19:47:08.365125",
   "videos": [
+    {
+      "id": "Mg9a3dnijwI",
+      "title": "【アフタームービー】ふくしまSHOWカレーまつり",
+      "description": "",
+      "publishedAt": "2026-09-14T08:29:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Mg9a3dnijwI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Mg9a3dnijwI"
+    },
     {
       "id": "Cj3GnDTLV0k",
       "title": "【ふくしまSHOW】「カレーまつり特集！」",

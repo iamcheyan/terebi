@@ -1,8 +1,32 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-09-13T17:59:06.941531",
+  "updated_at": "2026-09-14T19:46:01.599789",
   "videos": [
+    {
+      "id": "VrqrtNfRCuk",
+      "title": "島田洋七の朝から言わせろ　～社会の不思議を狙い撃ち～",
+      "description": "",
+      "publishedAt": "2026-09-14T09:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VrqrtNfRCuk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VrqrtNfRCuk"
+    },
+    {
+      "id": "v3CH1KQ8y1A",
+      "title": "高校生のじかん特別編　学校が無くなった日",
+      "description": "",
+      "publishedAt": "2026-09-14T04:18:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v3CH1KQ8y1A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v3CH1KQ8y1A"
+    },
     {
       "id": "wZqGjwOyCFc",
       "title": "板金職人｜父から子へ受け継がれた職人技54年目の集大成となるジョウロ",
