@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7iu-QVp1HlMhhV9wnSs5gQ",
   "channel_name": "Hiko-zone（ヒコぞーん）",
-  "updated_at": "2026-09-10T18:12:42.447688",
+  "updated_at": "2026-09-15T18:46:15.707277",
   "videos": [
+    {
+      "id": "W2ECt6zfJnU",
+      "title": "ジャンクパソコンから雑学を学ぶ",
+      "description": "",
+      "publishedAt": "2026-09-15T11:47:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W2ECt6zfJnU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W2ECt6zfJnU"
+    },
     {
       "id": "mHby17dxkRk",
       "title": "1650円のジャンクPCを買ったらエンブレムと違うCPUが載ってる",

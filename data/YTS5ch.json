@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-09-14T19:46:28.960185",
+  "updated_at": "2026-09-15T18:46:33.656961",
   "videos": [
+    {
+      "id": "VTFhwdckgXg",
+      "title": "【あさは５ちゃん！】2026年9月19日放送",
+      "description": "",
+      "publishedAt": "2026-09-15T08:11:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VTFhwdckgXg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VTFhwdckgXg"
+    },
     {
       "id": "_eFvgPvMaEY",
       "title": "【全国大陶器市】山形・寒河江市で開催！陶器市の楽しみ方や魅力を深ボリ！",

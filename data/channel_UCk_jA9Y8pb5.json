@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-09-11T18:14:39.777692",
+  "updated_at": "2026-09-15T18:46:11.915397",
   "videos": [
+    {
+      "id": "QTf2CoyyafE",
+      "title": "栗原心平の青森いただきまーす！「ピリ辛鶏の煮込みライス」",
+      "description": "",
+      "publishedAt": "2026-09-15T02:48:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QTf2CoyyafE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QTf2CoyyafE"
+    },
+    {
+      "id": "31z7sSER1YI",
+      "title": "季節のいけばな9月14日テーマ「秋の空」",
+      "description": "",
+      "publishedAt": "2026-09-15T02:34:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/31z7sSER1YI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=31z7sSER1YI"
+    },
     {
       "id": "OhtMIBubF6U",
       "title": "Withべジ「RAB農園のスイカを収穫！」",

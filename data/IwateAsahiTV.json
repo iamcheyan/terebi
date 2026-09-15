@@ -1,8 +1,44 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-09-14T19:46:04.784824",
+  "updated_at": "2026-09-15T18:46:22.133133",
   "videos": [
+    {
+      "id": "-NWdPHFYRQA",
+      "title": "天津木村のへぇ~ゴールデン番組~義経北行伝説！？義経はいきていた！？",
+      "description": "",
+      "publishedAt": "2026-09-15T12:06:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-NWdPHFYRQA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-NWdPHFYRQA"
+    },
+    {
+      "id": "iunktp2TWgM",
+      "title": "野球選手、政治家にクマも登場！？世相を映す「かかしまつり」【Jチャンいわて動画】",
+      "description": "",
+      "publishedAt": "2026-09-15T11:44:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iunktp2TWgM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iunktp2TWgM"
+    },
+    {
+      "id": "R90IgoPW9H0",
+      "title": "【Go！Go！いわて】9月19日（土）予告",
+      "description": "",
+      "publishedAt": "2026-09-15T09:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R90IgoPW9H0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R90IgoPW9H0"
+    },
     {
       "id": "FogigcABhhw",
       "title": "「免震」って何？大地震で需要増える“免震ゴム”　東日本大震災と同じ規模で体験 “耐震”との違いは【Jチャンいわて動画】",

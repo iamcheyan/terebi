@@ -1,8 +1,188 @@
 {
   "channel_id": "UCA5dBoYZe7dgvk4cTl5PLSg",
   "channel_name": "石川テレビ（ITC）",
-  "updated_at": "2026-09-14T19:46:33.377909",
+  "updated_at": "2026-09-15T18:46:28.114797",
   "videos": [
+    {
+      "id": "h3rZsm4Oz1I",
+      "title": "ひがし茶屋街の芸妓が一日警察署長に　「道が狭く歩きにくい」金沢で交通安全を呼びかけ (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:54:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h3rZsm4Oz1I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h3rZsm4Oz1I"
+    },
+    {
+      "id": "oTYiXUUNhcg",
+      "title": "金沢は上昇、能登は下落　石川の地価が示す「2極化」の現実 (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:14:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oTYiXUUNhcg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oTYiXUUNhcg"
+    },
+    {
+      "id": "DyKvm0YkPzQ",
+      "title": "食料品の消費税1％減税で石川県の減収180億円　山野知事「全額補填」で財源確保を訴え (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:12:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DyKvm0YkPzQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DyKvm0YkPzQ"
+    },
+    {
+      "id": "ymGrco7LaFk",
+      "title": "2歳の息子を残して逝った友人への思いが生んだ映画　能登半島地震も重なり白山市出身監督が描く親子の旅 (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:11:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ymGrco7LaFk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ymGrco7LaFk"
+    },
+    {
+      "id": "czrAmSFXJN8",
+      "title": "能登瓦が復興住宅の駐車場に　震災の廃材をブロックに再生、中能登町へ5000個贈呈 (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:10:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/czrAmSFXJN8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=czrAmSFXJN8"
+    },
+    {
+      "id": "ByBvnYPLkh8",
+      "title": "農機修繕・最大200万円補助…記録的大雨の被災者へ「来年に向けて次の一歩を」県が192億円の追加補正 (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:09:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ByBvnYPLkh8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ByBvnYPLkh8"
+    },
+    {
+      "id": "K2CnnXQpZAc",
+      "title": "去年を上回るペースで被害35件　五郎島金時を守れ、12年目のパトロール隊が出発 (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:08:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/K2CnnXQpZAc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=K2CnnXQpZAc"
+    },
+    {
+      "id": "bBxtOkuSmR4",
+      "title": "能登半島地震で大きな被害を受けた輪島のホテルが復活　客室200室超で復旧工事の作業員も受け入れへ (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:07:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bBxtOkuSmR4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bBxtOkuSmR4"
+    },
+    {
+      "id": "dRBN1I_cpEQ",
+      "title": "北陸は「気圧の谷や湿った空気の影響」　あす最高気温は平年並みの25度前後へ (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:06:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dRBN1I_cpEQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dRBN1I_cpEQ"
+    },
+    {
+      "id": "KIfkZvJYsDs",
+      "title": "31年間も気づかず…金沢市が下水道料金を20世帯あまりから徴収漏れ、突然の一括請求に入居者反発 (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:04:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KIfkZvJYsDs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KIfkZvJYsDs"
+    },
+    {
+      "id": "Px-BQwZ__1w",
+      "title": "本州初のトキ放鳥の地、石川・能登で「ふっくら優しい味」のトキ認証米が販売開始 (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T10:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Px-BQwZ__1w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Px-BQwZ__1w"
+    },
+    {
+      "id": "iY1Yl6U9ga4",
+      "title": "能美市大長野町…世相を反映！？賑やかな田んぼ道の理由は？",
+      "description": "",
+      "publishedAt": "2026-09-15T05:01:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iY1Yl6U9ga4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iY1Yl6U9ga4"
+    },
+    {
+      "id": "sNqYec5TH6w",
+      "title": "加賀野菜・金時草、ドバイへ！市民の良心が育んだ伝統野菜に注目（パレットLive）",
+      "description": "",
+      "publishedAt": "2026-09-15T04:39:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sNqYec5TH6w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sNqYec5TH6w"
+    },
+    {
+      "id": "3ehqYDy94HU",
+      "title": "【きょうの逸品＃ 212】つる嘉「加賀棒茶のパフェ」",
+      "description": "",
+      "publishedAt": "2026-09-15T04:27:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3ehqYDy94HU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3ehqYDy94HU"
+    },
+    {
+      "id": "6CFjZB0iOyg",
+      "title": "豪雨被害を乗り越えトキ認証米が販売開始　「特別栽培米」と「エコ米」の2種類 (2026年9月15日)",
+      "description": "",
+      "publishedAt": "2026-09-15T02:51:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6CFjZB0iOyg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6CFjZB0iOyg"
+    },
     {
       "id": "QSw5LQiIfnM",
       "title": "「最高。復興しないとだめだね」震災から2年8カ月、輪島朝市が一日限りの復活 (2026年9月14日)",

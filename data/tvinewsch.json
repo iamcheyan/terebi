@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-09-12T17:42:48.461302",
+  "updated_at": "2026-09-15T18:46:32.614485",
   "videos": [
+    {
+      "id": "Ez8_A4cvPkU",
+      "title": "【中継 盛岡山車大絵巻パレード】盛岡に秋の訪れを告げる「盛岡秋まつり」の見物の一つ「盛岡山車大絵巻パレード」中継",
+      "description": "",
+      "publishedAt": "2026-09-15T10:06:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ez8_A4cvPkU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ez8_A4cvPkU"
+    },
     {
       "id": "Y3KYkY_9alY",
       "title": "【ふるさとで消防士に】大震災から１５年半の節目、ふるさとを守り続ける「決意」",

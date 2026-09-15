@@ -1,8 +1,20 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-09-12T17:43:35.713662",
+  "updated_at": "2026-09-15T18:46:51.905908",
   "videos": [
+    {
+      "id": "Pjgd4IEKGsg",
+      "title": "第2回NBS絵画コンクール",
+      "description": "",
+      "publishedAt": "2026-09-15T08:55:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Pjgd4IEKGsg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Pjgd4IEKGsg"
+    },
     {
       "id": "W8VN12ukK4s",
       "title": "【姿勢を意識するだけ！？】絶景ウォーキングで健康体験【い～の！レイクリゾート＋：飯野美紗子】第24回「白樺湖畔でウォーキング」（2026年9月12日放送）",

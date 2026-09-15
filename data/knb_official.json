@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-09-08T18:24:16.094701",
+  "updated_at": "2026-09-15T18:46:47.900106",
   "videos": [
+    {
+      "id": "VP-a_xANWwY",
+      "title": "【旬景とやま】忘れられた秘境",
+      "description": "",
+      "publishedAt": "2026-09-15T10:13:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VP-a_xANWwY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VP-a_xANWwY"
+    },
     {
       "id": "OXa2VnDcsa4",
       "title": "【旬景とやま】渚の働きもの",

@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-09-14T19:47:19.679360",
+  "updated_at": "2026-09-15T18:47:14.210846",
   "videos": [
+    {
+      "id": "gwoOABYWMlU",
+      "title": "260915 175226 雨の垣内踏切",
+      "description": "",
+      "publishedAt": "2026-09-15T12:37:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gwoOABYWMlU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gwoOABYWMlU"
+    },
+    {
+      "id": "gPaiNI0CiB8",
+      "title": "260915 174906 雨の垣内踏切 ２",
+      "description": "",
+      "publishedAt": "2026-09-15T12:30:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gPaiNI0CiB8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gPaiNI0CiB8"
+    },
+    {
+      "id": "-31uY6A5M6E",
+      "title": "260915 174500 雨の垣内踏切",
+      "description": "",
+      "publishedAt": "2026-09-15T12:10:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-31uY6A5M6E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-31uY6A5M6E"
+    },
+    {
+      "id": "T6isuj6Co3k",
+      "title": "260915 174034 雨の垣内踏切",
+      "description": "",
+      "publishedAt": "2026-09-15T11:52:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T6isuj6Co3k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T6isuj6Co3k"
+    },
+    {
+      "id": "pWJgQloHA-Y",
+      "title": "260915 173414 ちいさな鉄橋（金銅橋）",
+      "description": "",
+      "publishedAt": "2026-09-15T11:47:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pWJgQloHA-Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pWJgQloHA-Y"
+    },
     {
       "id": "m6fnEOP94fU",
       "title": "260914 175952 大内第１踏切",

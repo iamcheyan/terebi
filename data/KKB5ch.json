@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAhZnTMHk-TPyDzT0rt34IQ",
   "channel_name": "KKB鹿児島放送",
-  "updated_at": "2026-09-13T17:59:16.555962",
+  "updated_at": "2026-09-15T18:46:46.819411",
   "videos": [
+    {
+      "id": "djl-7BDU2nk",
+      "title": "【ほっと一服】予約必須の人気店！野菜たっぷり限定ランチと奄美地鶏の鶏飯 ～Bento-Cafe129・鹿児島市～",
+      "description": "",
+      "publishedAt": "2026-09-15T13:18:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/djl-7BDU2nk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=djl-7BDU2nk"
+    },
+    {
+      "id": "ULcpOtARDFs",
+      "title": "【かご探】受けよう がん検診！(9月12日放送)",
+      "description": "",
+      "publishedAt": "2026-09-15T13:14:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ULcpOtARDFs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ULcpOtARDFs"
+    },
     {
       "id": "H2iJfyAUtKQ",
       "title": "【てとてと】空想をカタチに 第43回「張り子作家・マイシタリオ」～好きがカタチになる～",
