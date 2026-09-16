@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-09-15T18:46:54.679640",
+  "updated_at": "2026-09-16T18:45:53.751493",
   "videos": [
+    {
+      "id": "jZxQSforFGA",
+      "title": "ピアニスト 下里豪志さんのSOLENA",
+      "description": "",
+      "publishedAt": "2026-09-16T08:38:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jZxQSforFGA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jZxQSforFGA"
+    },
+    {
+      "id": "SFv2TI1E1xk",
+      "title": "イクマあきらさんのSOLENA",
+      "description": "",
+      "publishedAt": "2026-09-16T07:45:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SFv2TI1E1xk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SFv2TI1E1xk"
+    },
     {
       "id": "ay-MOvo6MrE",
       "title": "ハンドボールチーム「ザ・テラスホテルズ ラティーダ琉球」",

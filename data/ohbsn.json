@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-09-15T18:46:39.600482",
+  "updated_at": "2026-09-16T18:45:39.765302",
   "videos": [
+    {
+      "id": "JUqzxdbDIvo",
+      "title": "「NGT48新潟スイーツ部×ひなたまつり」＃95「里味 海老ケ瀬店×杉本萌」",
+      "description": "",
+      "publishedAt": "2026-09-16T06:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JUqzxdbDIvo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JUqzxdbDIvo"
+    },
+    {
+      "id": "xoAv89zap-Q",
+      "title": "「そらなび」中津川渓谷～夏（津南町） 2026年9月12日放送回",
+      "description": "",
+      "publishedAt": "2026-09-16T02:46:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xoAv89zap-Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xoAv89zap-Q"
+    },
     {
       "id": "xpQ7p6W1fTk",
       "title": "JA共済連新潟プレゼンツ ＃にいがた農業のミライ 日本梨「幸水」の収穫体験",

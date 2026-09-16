@@ -1,8 +1,32 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-09-15T18:46:49.719344",
+  "updated_at": "2026-09-16T18:45:48.517764",
   "videos": [
+    {
+      "id": "wea0js5G3AI",
+      "title": "河内あづきの鹿児島あっちこっち　シーズン2 　9月16日(水)",
+      "description": "",
+      "publishedAt": "2026-09-16T14:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wea0js5G3AI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wea0js5G3AI"
+    },
+    {
+      "id": "Pj53CUDf-is",
+      "title": "鈴木のりたけ「大ピンチ展！」",
+      "description": "",
+      "publishedAt": "2026-09-16T08:51:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Pj53CUDf-is/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Pj53CUDf-is"
+    },
     {
       "id": "xeNelvFcl3o",
       "title": "【見逃し配信】第45回かごしまマーチングフェスティバル（2026年9月13日開催）",

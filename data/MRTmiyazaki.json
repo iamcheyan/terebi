@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-09-12T17:43:34.648798",
+  "updated_at": "2026-09-16T18:45:50.168307",
   "videos": [
+    {
+      "id": "aP73shVAqkM",
+      "title": "【GO!GO! CookingZX】",
+      "description": "",
+      "publishedAt": "2026-09-16T05:35:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aP73shVAqkM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aP73shVAqkM"
+    },
     {
       "id": "PKNPQ9EhKzA",
       "title": "アバンなドッキング",

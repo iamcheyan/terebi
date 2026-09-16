@@ -1,8 +1,56 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-09-15T18:46:55.564383",
+  "updated_at": "2026-09-16T18:45:54.167071",
   "videos": [
+    {
+      "id": "Dyq-gG0e_pY",
+      "title": "「《高知市でも確認》白い毒キノコに注意　全国で発生相次ぐ」2026/09/16放送",
+      "description": "",
+      "publishedAt": "2026-09-16T10:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Dyq-gG0e_pY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Dyq-gG0e_pY"
+    },
+    {
+      "id": "I-5mkWYBjvI",
+      "title": "「《巨大カボチャ集合！》重さ競うユニークな大会」2026/09/16放送",
+      "description": "",
+      "publishedAt": "2026-09-16T10:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I-5mkWYBjvI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I-5mkWYBjvI"
+    },
+    {
+      "id": "dSIvz_DWN3o",
+      "title": "「グランドオープンから半月『うみさち商店街』が目指すもの」2026/9/16放送",
+      "description": "",
+      "publishedAt": "2026-09-16T10:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dSIvz_DWN3o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dSIvz_DWN3o"
+    },
+    {
+      "id": "5gqnEUnROto",
+      "title": "「《高知の空をみる》雲や天気を楽しく学ぶ企画展」2026/09/16放送",
+      "description": "",
+      "publishedAt": "2026-09-16T03:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5gqnEUnROto/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5gqnEUnROto"
+    },
     {
       "id": "6Bb1euS1p7w",
       "title": "「《夕方体育祭で生徒たち熱戦！》午後3時スタートで熱中症対策」2026/09/15放送",
