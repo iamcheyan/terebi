@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-09-16T18:45:15.686710",
+  "updated_at": "2026-09-17T18:52:30.583551",
   "videos": [
+    {
+      "id": "AFRfpFBUtnM",
+      "title": "お茶の風味を楽しむ お食事×スイーツ／おでかけキュンと！",
+      "description": "",
+      "publishedAt": "2026-09-17T09:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AFRfpFBUtnM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AFRfpFBUtnM"
+    },
     {
       "id": "wcLJlnJ-c3s",
       "title": "開幕直前　京都ハンナリーズ／きょうと経済テラス キュンと！",

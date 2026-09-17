@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-09-14T19:46:01.599789",
+  "updated_at": "2026-09-17T18:52:43.991965",
   "videos": [
+    {
+      "id": "yrFazI40C2U",
+      "title": "「ミヤリサン製薬 ラジオ劇場　下町やぶさか診療所」トークライブ",
+      "description": "",
+      "publishedAt": "2026-09-03T01:44:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yrFazI40C2U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yrFazI40C2U"
+    },
     {
       "id": "VrqrtNfRCuk",
       "title": "島田洋七の朝から言わせろ　～社会の不思議を狙い撃ち～",

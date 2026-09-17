@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-09-15T18:46:11.915397",
+  "updated_at": "2026-09-17T18:52:45.899368",
   "videos": [
+    {
+      "id": "Oa8qd4xnupc",
+      "title": "断水でも清潔に　節水衛生術",
+      "description": "",
+      "publishedAt": "2026-09-17T01:46:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Oa8qd4xnupc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Oa8qd4xnupc"
+    },
+    {
+      "id": "e48-8v6CRoA",
+      "title": "車からの脱出",
+      "description": "",
+      "publishedAt": "2026-09-17T01:37:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e48-8v6CRoA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e48-8v6CRoA"
+    },
     {
       "id": "QTf2CoyyafE",
       "title": "栗原心平の青森いただきまーす！「ピリ辛鶏の煮込みライス」",

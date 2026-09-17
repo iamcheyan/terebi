@@ -1,8 +1,32 @@
 {
   "channel_id": "UCUY22wZDhE6MM4E9F7139nQ",
   "channel_name": "KRY山口放送ニュース公式チャンネル",
-  "updated_at": "2026-09-16T18:45:47.506403",
+  "updated_at": "2026-09-17T18:52:55.602342",
   "videos": [
+    {
+      "id": "GoC37SVY94w",
+      "title": "KRY Live！山口県周南市",
+      "description": "",
+      "publishedAt": "2026-09-17T01:15:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GoC37SVY94w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GoC37SVY94w"
+    },
+    {
+      "id": "7bsLhq7b9z0",
+      "title": "KRY山口放送ニュース公式チャンネル のライブ配信",
+      "description": "",
+      "publishedAt": "2026-09-17T01:05:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7bsLhq7b9z0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7bsLhq7b9z0"
+    },
     {
       "id": "PM7ocIbuOck",
       "title": "「仲間を大切に！」53人が全力でラグビー！周南ラグビースクールの熱い練習に密着 #全力ヤマハル",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-16T18:46:00.512437",
+  "updated_at": "2026-09-17T18:53:07.387903",
   "videos": [
+    {
+      "id": "bpZcYmrRCa4",
+      "title": "今日の５きげんテレビ（9月18日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-17T15:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bpZcYmrRCa4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bpZcYmrRCa4"
+    },
+    {
+      "id": "rsG49-iKAuE",
+      "title": "一関の滋味を味わう出汁パック | あがいん直売所",
+      "description": "",
+      "publishedAt": "2026-09-17T10:22:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rsG49-iKAuE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rsG49-iKAuE"
+    },
+    {
+      "id": "znOTmcDDRyQ",
+      "title": "2種のジャガイモピッツァ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-09-17T08:34:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/znOTmcDDRyQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=znOTmcDDRyQ"
+    },
     {
       "id": "stwiUb_lrZA",
       "title": "今日の５きげんテレビ（9月17日）｜テレビ岩手",
