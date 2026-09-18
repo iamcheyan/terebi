@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-09-17T18:53:17.941364",
+  "updated_at": "2026-09-18T18:09:08.087189",
   "videos": [
+    {
+      "id": "N8x9r5A--0Y",
+      "title": "260918 154323 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-09-18T11:36:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N8x9r5A--0Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N8x9r5A--0Y"
+    },
+    {
+      "id": "avGG524EefA",
+      "title": "260918 153835 深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-09-18T11:13:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/avGG524EefA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=avGG524EefA"
+    },
+    {
+      "id": "nZ1jDQDtzIc",
+      "title": "260918 153206 深田駅",
+      "description": "",
+      "publishedAt": "2026-09-18T11:09:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nZ1jDQDtzIc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nZ1jDQDtzIc"
+    },
     {
       "id": "MlQNBxm-e88",
       "title": "260917 175545 兼近第３踏切（予土新幹線、警笛＆夕焼け付き）",
