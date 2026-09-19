@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-09-18T18:08:10.580172",
+  "updated_at": "2026-09-19T17:50:32.907963",
   "videos": [
+    {
+      "id": "NsQ-gZMSH7s",
+      "title": "【まるまる◎あいち】2026年9月19日放送 「アジア競技大会　開幕！」",
+      "description": "",
+      "publishedAt": "2026-09-19T09:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NsQ-gZMSH7s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NsQ-gZMSH7s"
+    },
     {
       "id": "zzu8WsZgJKA",
       "title": "9月18日(金)放送「レコメシ～自慢のひとさら～」サバの一本焼き",

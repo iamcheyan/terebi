@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-09-18T18:08:32.984946",
+  "updated_at": "2026-09-19T17:50:14.719172",
   "videos": [
+    {
+      "id": "OsGPfCa-rU8",
+      "title": "【ＡＩでクマ検知】クマなどの野生動物をＡＩを使って検知し遠ざけるシステムの実証実験が始まりました",
+      "description": "",
+      "publishedAt": "2026-09-19T13:32:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OsGPfCa-rU8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OsGPfCa-rU8"
+    },
+    {
+      "id": "L7SyGch0abY",
+      "title": "【秋の高校野球県大会】甲子園ベスト８の花巻東が登場",
+      "description": "",
+      "publishedAt": "2026-09-19T00:28:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L7SyGch0abY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L7SyGch0abY"
+    },
     {
       "id": "BAbmtFzy2DA",
       "title": "【移住 夢を追う】ｅスポーツを通して”馬事文化”伝承に奮闘する男性",

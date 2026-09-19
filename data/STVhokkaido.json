@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-09-14T19:47:05.077540",
+  "updated_at": "2026-09-19T17:50:53.888982",
   "videos": [
+    {
+      "id": "ffQlF6oamsM",
+      "title": "トレンド☆サプリ#182「ハート・オブ・ビースト」",
+      "description": "",
+      "publishedAt": "2026-09-19T12:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ffQlF6oamsM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ffQlF6oamsM"
+    },
     {
       "id": "DWTW3yqK5kU",
       "title": "ライブカメラ 北海道(ＳＴＶ札幌テレビ放送)/LiveCamera Hokkaido Japan",

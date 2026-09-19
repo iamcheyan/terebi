@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-09-17T18:53:07.912197",
+  "updated_at": "2026-09-19T17:50:58.805904",
   "videos": [
+    {
+      "id": "HmChN9ewOII",
+      "title": "【テレQ番宣】ぐっ！ジョブ（9月26日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-09-19T15:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HmChN9ewOII/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HmChN9ewOII"
+    },
+    {
+      "id": "LkkaMG0KnG4",
+      "title": "アイライフスタイル ♯67「ゴルフの夢」（テレQ 2026年9月19日放送）",
+      "description": "",
+      "publishedAt": "2026-09-19T11:59:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LkkaMG0KnG4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LkkaMG0KnG4"
+    },
     {
       "id": "8Q-DC5e7FHE",
       "title": "【夢クルーズ】625 矢部川の廻水路(2026年9月17日放送)",

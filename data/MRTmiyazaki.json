@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-09-17T18:52:57.829671",
+  "updated_at": "2026-09-19T17:50:47.586400",
   "videos": [
+    {
+      "id": "1XDxG6ovLxU",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-09-19T03:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1XDxG6ovLxU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1XDxG6ovLxU"
+    },
     {
       "id": "lo1AYsixtwc",
       "title": "【第140回】だいちゃんと行く‼︎よりみちさんぽ〈我が家の夏の思い出2026〉",

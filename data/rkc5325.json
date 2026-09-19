@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-09-18T18:08:49.602200",
+  "updated_at": "2026-09-19T17:50:52.195885",
   "videos": [
+    {
+      "id": "eeETfFA2aJ4",
+      "title": "「めばえ特別編　パパのめばえ」放送中！",
+      "description": "",
+      "publishedAt": "2026-09-19T03:30:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eeETfFA2aJ4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eeETfFA2aJ4"
+    },
     {
       "id": "eiDVdsGTR5w",
       "title": "「だるま味噌の『四万十ぶしゅかん佃煮 旨辛』×ときめくおうちごはん」2026/9/18放送",
