@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-09-19T17:50:46.309747",
+  "updated_at": "2026-09-20T18:04:25.662340",
   "videos": [
+    {
+      "id": "gDi5YWHlQQk",
+      "title": "いまコレ！かごしま市　9月20日(日)",
+      "description": "",
+      "publishedAt": "2026-09-20T06:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gDi5YWHlQQk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gDi5YWHlQQk"
+    },
     {
       "id": "CRY6JTJyfNc",
       "title": "【わんにゃんプラスかごしま】「抱っこ大好き♪」",

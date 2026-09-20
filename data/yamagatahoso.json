@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-09-13T17:59:34.877521",
+  "updated_at": "2026-09-20T18:04:38.276895",
   "videos": [
+    {
+      "id": "LIRlrMci02g",
+      "title": "やまがたサンデー５　９月２０日放送分　認知症を知ることから始めよう　～共生社会の実現に向けて～",
+      "description": "",
+      "publishedAt": "2026-09-20T08:30:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LIRlrMci02g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LIRlrMci02g"
+    },
     {
       "id": "G1YlTvKOnCA",
       "title": "やまがたサンデー５　９月１３日放送分　はじめよう健康ウォーキング～チャレンジ！プラス1000歩～",

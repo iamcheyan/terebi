@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-18T18:08:56.489862",
+  "updated_at": "2026-09-20T18:04:34.962897",
   "videos": [
+    {
+      "id": "Y-oqfcKaMsI",
+      "title": "今日の５きげんテレビ（9月21日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-20T15:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y-oqfcKaMsI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y-oqfcKaMsI"
+    },
     {
       "id": "tRaqU05P4v0",
       "title": "岩瀬・きぬ・天津木村が行く！無人駅ごはん｜JR大船渡線 猊鼻渓駅｜岩手・一関市｜５きげんテレビ",
