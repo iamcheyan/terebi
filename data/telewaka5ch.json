@@ -1,8 +1,44 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-09-19T17:50:18.542345",
+  "updated_at": "2026-09-21T19:54:40.469909",
   "videos": [
+    {
+      "id": "8SY9Rv8Ru5I",
+      "title": "あの町この村～未来へつなぐ匠と伝承の物語～第三回放送串本町篇",
+      "description": "",
+      "publishedAt": "2026-09-21T03:27:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8SY9Rv8Ru5I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8SY9Rv8Ru5I"
+    },
+    {
+      "id": "Y__wxAm9lSI",
+      "title": "あの町この村～未来へつなぐ匠と伝承の物語～第三回放送紀美野町篇",
+      "description": "",
+      "publishedAt": "2026-09-21T03:27:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y__wxAm9lSI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y__wxAm9lSI"
+    },
+    {
+      "id": "GGXbSpHMzbU",
+      "title": "あの町この村～未来へつなぐ匠と伝承の物語～第三回放送美浜町篇",
+      "description": "",
+      "publishedAt": "2026-09-21T03:27:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GGXbSpHMzbU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GGXbSpHMzbU"
+    },
     {
       "id": "j_C3gQPym-E",
       "title": "あのじゅうよ〜 第215回「歴史あるお寺と喫茶店のあのじゅうやで〜」",

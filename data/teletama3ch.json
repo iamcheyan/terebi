@@ -1,8 +1,20 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-09-19T17:50:29.241568",
+  "updated_at": "2026-09-21T19:54:38.295392",
   "videos": [
+    {
+      "id": "gTqs5CymTZM",
+      "title": "『New Morning』未来に・夢に羽ばたいていく曲！",
+      "description": "",
+      "publishedAt": "2026-09-21T10:55:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gTqs5CymTZM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gTqs5CymTZM"
+    },
     {
       "id": "lh8PQy3dLHc",
       "title": "円安で得する人と損する人は？！円安の2つの側面を知ろう！【篠崎彩奈のマネータイムseason2】#7",

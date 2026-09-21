@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-09-19T17:50:32.907963",
+  "updated_at": "2026-09-21T19:54:43.168756",
   "videos": [
+    {
+      "id": "VCVwSrDy7Cg",
+      "title": "超町人！チョコレートサムネット 9/27(日)愛知・尾張旭市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-09-21T08:20:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VCVwSrDy7Cg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VCVwSrDy7Cg"
+    },
     {
       "id": "NsQ-gZMSH7s",
       "title": "【まるまる◎あいち】2026年9月19日放送 「アジア競技大会　開幕！」",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOLVB0iYK8ahQ0mFn-lF-8g",
   "channel_name": "SBS静岡放送",
-  "updated_at": "2026-09-20T18:04:31.962712",
+  "updated_at": "2026-09-21T19:55:22.462937",
   "videos": [
+    {
+      "id": "-FKENyUwhq0",
+      "title": "【台風25号】静岡県にも接近 伊東市では冠水が発生",
+      "description": "",
+      "publishedAt": "2026-09-21T08:34:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-FKENyUwhq0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-FKENyUwhq0"
+    },
+    {
+      "id": "AY5gUKuUAww",
+      "title": "【台風25号】静岡県内も雨脚強まる 線状降水帯が発生のおそれも 下田海中水族館は一部エリアの展示を中止=静岡",
+      "description": "",
+      "publishedAt": "2026-09-21T04:17:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AY5gUKuUAww/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AY5gUKuUAww"
+    },
     {
       "id": "Lg-sB35iI5E",
       "title": "【台風25号】21日の日中に静岡県内に接近 21日昼前から夕方にかけては線状降水帯発生のおそれ",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-09-19T17:51:01.770480",
+  "updated_at": "2026-09-21T19:55:29.118498",
   "videos": [
+    {
+      "id": "d9cSw2pbbd8",
+      "title": "みんテレ　9月22日（火）放送",
+      "description": "",
+      "publishedAt": "2026-09-21T10:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d9cSw2pbbd8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d9cSw2pbbd8"
+    },
     {
       "id": "lIO6goSoWjc",
       "title": "松岡の北の夕飲み　10月3日（土）夕方4時30分放送",
