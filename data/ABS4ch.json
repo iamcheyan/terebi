@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-09-18T18:08:35.450293",
+  "updated_at": "2026-09-22T18:36:30.836778",
   "videos": [
+    {
+      "id": "EWxzTkgNIBw",
+      "title": "ABS秋田放送　お天気カメラ　秋田駅前（ABS's Weather Live Cameras in Akita station square ）",
+      "description": "",
+      "publishedAt": "2026-09-22T11:33:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EWxzTkgNIBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EWxzTkgNIBw"
+    },
+    {
+      "id": "vMyKRCq3HMI",
+      "title": "ABS秋田放送　お天気カメラ　秋田空港 （ABS's Weather Live Camera in Akita Airport）",
+      "description": "",
+      "publishedAt": "2026-09-22T11:32:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vMyKRCq3HMI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vMyKRCq3HMI"
+    },
+    {
+      "id": "4_NvXFvjfKM",
+      "title": "ABS秋田放送　お天気カメラ　秋田港（ABS's Weather Live Camera in the Akita Port of Akita city）",
+      "description": "",
+      "publishedAt": "2026-09-22T11:31:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4_NvXFvjfKM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4_NvXFvjfKM"
+    },
     {
       "id": "HITg3By_AJw",
       "title": "ABSあきたアプリ・ラジオCM「証言」",

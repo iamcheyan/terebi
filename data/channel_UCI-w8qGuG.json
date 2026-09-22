@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-09-21T19:54:42.110778",
+  "updated_at": "2026-09-22T18:36:09.685002",
   "videos": [
+    {
+      "id": "jMBiC7YmV2E",
+      "title": "テレビ朝日バスケSPブースター #広瀬すずさんにインタビュー",
+      "description": "",
+      "publishedAt": "2026-09-22T00:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jMBiC7YmV2E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jMBiC7YmV2E"
+    },
     {
       "id": "BG38JmezA5g",
       "title": "Bプレミア開幕まであと１日！#アルバルク東京 キャプテン #テーブス海 選手",

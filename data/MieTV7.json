@@ -1,8 +1,128 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-09-21T19:55:36.928035",
+  "updated_at": "2026-09-22T18:37:00.442063",
   "videos": [
+    {
+      "id": "JjsQ8ngVvDE",
+      "title": "市民団体「ゆるくーず」が海岸清掃　子どもたちが生き物観察",
+      "description": "",
+      "publishedAt": "2026-09-22T15:37:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JjsQ8ngVvDE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JjsQ8ngVvDE"
+    },
+    {
+      "id": "91j36nV0Ya4",
+      "title": "水野勝規さんの映像作品展　津市の県立美術館で12月27日まで",
+      "description": "",
+      "publishedAt": "2026-09-22T15:30:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/91j36nV0Ya4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=91j36nV0Ya4"
+    },
+    {
+      "id": "fxMI6ajnkgw",
+      "title": "伊勢神宮ゆかりの学問所「旧林崎文庫」で秋の一般公開",
+      "description": "",
+      "publishedAt": "2026-09-22T15:27:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fxMI6ajnkgw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fxMI6ajnkgw"
+    },
+    {
+      "id": "UPEopizxB3o",
+      "title": "三重県の価格転嫁率4位から16位に後退　帝国データバンク調査",
+      "description": "",
+      "publishedAt": "2026-09-22T15:18:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UPEopizxB3o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UPEopizxB3o"
+    },
+    {
+      "id": "AKvbDWMHRQc",
+      "title": "伊勢神宮で「秋の神楽祭」開幕　華やかな舞に参拝客見入る",
+      "description": "",
+      "publishedAt": "2026-09-22T15:10:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AKvbDWMHRQc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AKvbDWMHRQc"
+    },
+    {
+      "id": "7V0lH1uoHjE",
+      "title": "御浜町長選挙　東地正登さんが無投票で初当選　三重県",
+      "description": "",
+      "publishedAt": "2026-09-22T12:07:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7V0lH1uoHjE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7V0lH1uoHjE"
+    },
+    {
+      "id": "kkqnp2j8Gb0",
+      "title": "65歳以上と小学生が対戦　最高齢88歳の「蹴老サッカー大会」",
+      "description": "",
+      "publishedAt": "2026-09-21T23:52:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kkqnp2j8Gb0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kkqnp2j8Gb0"
+    },
+    {
+      "id": "6az68unCFlk",
+      "title": "敬老の日　津市の百貨店で似顔絵コンクール表彰式",
+      "description": "",
+      "publishedAt": "2026-09-21T23:18:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6az68unCFlk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6az68unCFlk"
+    },
+    {
+      "id": "ljnRG6LAN4M",
+      "title": "東名阪道や伊勢道で渋滞続く　22日23日は最大20キロ予測",
+      "description": "",
+      "publishedAt": "2026-09-21T23:02:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ljnRG6LAN4M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ljnRG6LAN4M"
+    },
+    {
+      "id": "54MkBPbCk4c",
+      "title": "鳥羽ロイヤルホテル跡で火災　消防車15台出動",
+      "description": "",
+      "publishedAt": "2026-09-21T22:51:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/54MkBPbCk4c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=54MkBPbCk4c"
+    },
     {
       "id": "sYtmTnK0pNs",
       "title": "秋の高校野球三重県大会ベスト4出そろう　宇治山田商業・近大高専・三重・津西が勝利",

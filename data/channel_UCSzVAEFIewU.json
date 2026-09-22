@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-09-21T19:54:51.197417",
+  "updated_at": "2026-09-22T18:35:52.480614",
   "videos": [
+    {
+      "id": "l3ZNn_aYi8E",
+      "title": "【ベジ得】キッチン編・レンコン",
+      "description": "",
+      "publishedAt": "2026-09-22T03:31:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l3ZNn_aYi8E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l3ZNn_aYi8E"
+    },
+    {
+      "id": "sMCRf1NYyEA",
+      "title": "災害から命を守る取り組みをお伝えする「つながる防災」",
+      "description": "",
+      "publishedAt": "2026-09-22T03:17:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sMCRf1NYyEA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sMCRf1NYyEA"
+    },
     {
       "id": "y5Ki3HDk6Hg",
       "title": "久万高原・秋の味覚が大集合！りんご狩りに栗拾い、石窯ピザも",

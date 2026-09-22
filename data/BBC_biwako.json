@@ -1,8 +1,20 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-09-21T19:54:37.248223",
+  "updated_at": "2026-09-22T18:36:10.070053",
   "videos": [
+    {
+      "id": "2sGrNo92T9k",
+      "title": "0922　アイスフェスタ",
+      "description": "",
+      "publishedAt": "2026-09-22T10:11:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2sGrNo92T9k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2sGrNo92T9k"
+    },
     {
       "id": "CX5271XLczE",
       "title": "滋賀県内の100歳以上の高齢者は1129人",

@@ -1,8 +1,92 @@
 {
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "KHB東日本放送",
-  "updated_at": "2026-09-21T19:55:11.684038",
+  "updated_at": "2026-09-22T18:36:37.625351",
   "videos": [
+    {
+      "id": "RMZR1YOywUk",
+      "title": "椿杯争奪全国競技かるた大会　宮城県武道館に全国からトップ選手が集う",
+      "description": "",
+      "publishedAt": "2026-09-22T10:26:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RMZR1YOywUk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RMZR1YOywUk"
+    },
+    {
+      "id": "PpuEFAd_Ugo",
+      "title": "「事故の多い交差点ランキング」比較的スピードが出しづらい仙台市の街中でなぜ？",
+      "description": "",
+      "publishedAt": "2026-09-22T10:23:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PpuEFAd_Ugo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PpuEFAd_Ugo"
+    },
+    {
+      "id": "a6GeRUNvHTo",
+      "title": "東北地方で線状降水帯発生頻度高まる　東北大がデータで裏付け",
+      "description": "",
+      "publishedAt": "2026-09-22T10:19:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/a6GeRUNvHTo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=a6GeRUNvHTo"
+    },
+    {
+      "id": "jUA6Y-6Svr0",
+      "title": "渡り鳥の飛来地蕪栗沼にアライグマの群れ　生態系への影響を懸念　宮城・大崎市",
+      "description": "",
+      "publishedAt": "2026-09-22T10:17:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jUA6Y-6Svr0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jUA6Y-6Svr0"
+    },
+    {
+      "id": "MPMCJRHHPaA",
+      "title": "帰省中の男性死亡　ひき逃げ事件　２５歳の女性を逮捕　宮城・大崎市",
+      "description": "",
+      "publishedAt": "2026-09-22T10:14:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MPMCJRHHPaA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MPMCJRHHPaA"
+    },
+    {
+      "id": "OqQIiUlcbvE",
+      "title": "台風一過　宮城県内は３０度に迫る暑さに",
+      "description": "",
+      "publishedAt": "2026-09-22T10:12:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OqQIiUlcbvE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OqQIiUlcbvE"
+    },
+    {
+      "id": "ty_2jiQ7hlQ",
+      "title": "台風一過で仙台は３０度まで上がる予想　８日ぶりに真夏日となる見込み",
+      "description": "",
+      "publishedAt": "2026-09-22T03:12:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ty_2jiQ7hlQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ty_2jiQ7hlQ"
+    },
     {
       "id": "viF3aUeebwk",
       "title": "復興と平和への願いを筆に　仙台育英高校書道部が護国神社でパフォーマンス",
