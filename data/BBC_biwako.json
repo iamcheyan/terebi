@@ -1,8 +1,32 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-09-22T18:36:10.070053",
+  "updated_at": "2026-09-23T18:54:54.892481",
   "videos": [
+    {
+      "id": "pcApAz4vnNc",
+      "title": "20260923　栗東市が市制施行２５周年",
+      "description": "",
+      "publishedAt": "2026-09-23T09:19:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pcApAz4vnNc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pcApAz4vnNc"
+    },
+    {
+      "id": "QMyZo9FVd0U",
+      "title": "20260923　エミューが脱走",
+      "description": "",
+      "publishedAt": "2026-09-23T09:10:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QMyZo9FVd0U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QMyZo9FVd0U"
+    },
     {
       "id": "2sGrNo92T9k",
       "title": "0922　アイスフェスタ",

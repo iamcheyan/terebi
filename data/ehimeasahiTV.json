@@ -1,8 +1,32 @@
 {
   "channel_id": "UCOItj2DCO5Pj-eJKnLrbz6g",
   "channel_name": "愛媛朝日テレビ（EAT）",
-  "updated_at": "2026-09-22T18:36:28.955729",
+  "updated_at": "2026-09-23T18:54:52.785708",
   "videos": [
+    {
+      "id": "EjVA_FcclEQ",
+      "title": "#louder #last#teacher ver.",
+      "description": "",
+      "publishedAt": "2026-09-23T12:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EjVA_FcclEQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EjVA_FcclEQ"
+    },
+    {
+      "id": "64NkpJABhm4",
+      "title": "#Louder #classroom#challenge #今治西高校 #愛媛の背中男",
+      "description": "",
+      "publishedAt": "2026-09-23T00:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/64NkpJABhm4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=64NkpJABhm4"
+    },
     {
       "id": "c7qEgFgpozY",
       "title": "【GLORY EHIMEで輝くBUSINESS】キリンビール",
