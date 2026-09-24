@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-09-19T17:50:29.762311",
+  "updated_at": "2026-09-24T18:53:04.131600",
   "videos": [
+    {
+      "id": "APKlDuEHJ4E",
+      "title": "【あさは５ちゃん！】2026年9月26日放送",
+      "description": "",
+      "publishedAt": "2026-09-24T05:00:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/APKlDuEHJ4E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=APKlDuEHJ4E"
+    },
     {
       "id": "WgLyCgjKXN0",
       "title": "第2845回 新市長に聞く～尾花沢市の課題と未来「提言の広場」",

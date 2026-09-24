@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9r31LvpWhWU0aJdAirOZDQ",
   "channel_name": "テレビ山口（tys）",
-  "updated_at": "2026-08-18T15:33:53.803799",
+  "updated_at": "2026-09-24T18:52:54.004015",
   "videos": [
+    {
+      "id": "BO-QDRQGUHA",
+      "title": "【ライブ配信】山口市・ｔｙｓ本社ライブカメラ（仁保川） ＜tysテレビ山口【公式】＞",
+      "description": "",
+      "publishedAt": "2026-09-24T06:07:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BO-QDRQGUHA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BO-QDRQGUHA"
+    },
+    {
+      "id": "z6tIfP0qS94",
+      "title": "【ライブ配信】山口県下関市・関門橋　ライブカメラ ＜tysテレビ山口【公式】＞",
+      "description": "",
+      "publishedAt": "2026-09-24T05:50:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/z6tIfP0qS94/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=z6tIfP0qS94"
+    },
     {
       "id": "_r88wOW2Luo",
       "title": "【ライブ配信】日進工業 特別協賛 ２０２６山口県高等学校ロボット競技大会 ｔｙｓテレビ山口【公式】",
