@@ -1,8 +1,32 @@
 {
   "channel_id": "UCqobPh0K_bFAWurWVQrLtKQ",
   "channel_name": "UX新潟テレビ21",
-  "updated_at": "2026-09-24T18:53:33.660640",
+  "updated_at": "2026-09-25T19:10:44.840854",
   "videos": [
+    {
+      "id": "C8yehZd1Ges",
+      "title": "#菊水酒造 蔵のひと -Kura no HITO-",
+      "description": "",
+      "publishedAt": "2026-09-25T12:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C8yehZd1Ges/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C8yehZd1Ges"
+    },
+    {
+      "id": "F7bF82G198c",
+      "title": "【旅ちょ】新潟市中央区古町をおさんぽ！レトロ家具＆スタッフの好きが詰め込まれた店＆地場食材をふんだんのイタリアン",
+      "description": "",
+      "publishedAt": "2026-09-25T08:30:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F7bF82G198c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F7bF82G198c"
+    },
     {
       "id": "T235R-lkK8A",
       "title": "日々の食卓をもっとおいしく！生活応援キャンペーン🍺Supported by 金麦（キャンペーン編）",

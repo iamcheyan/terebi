@@ -1,8 +1,32 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-09-23T18:54:55.249674",
+  "updated_at": "2026-09-25T19:10:10.102512",
   "videos": [
+    {
+      "id": "5ZOVX0TVKuQ",
+      "title": "『金曜競馬CLUB NEO』中村愛の勝馬ラボ（2026/9/25放送分）【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-09-25T12:30:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5ZOVX0TVKuQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5ZOVX0TVKuQ"
+    },
+    {
+      "id": "nzDSqgARfdY",
+      "title": "【ビジネストレンド】株式会社Asway Corporation（2026年9月24日放送）【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-09-25T02:33:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nzDSqgARfdY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nzDSqgARfdY"
+    },
     {
       "id": "OCDltKtXNL8",
       "title": "【ビジネスインサイト】株式会社スリーステップ　 (2026年9月23日放送)【チバテレ公式】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-09-22T18:35:52.480614",
+  "updated_at": "2026-09-25T19:10:04.291792",
   "videos": [
+    {
+      "id": "vKcmjNxY7Cw",
+      "title": "【愛しの媛さんぽ】伊予市をぶらりお散歩",
+      "description": "",
+      "publishedAt": "2026-09-25T02:21:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vKcmjNxY7Cw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vKcmjNxY7Cw"
+    },
+    {
+      "id": "tR1OgChLB7I",
+      "title": "９６歳の母と７１歳の娘　二人三脚の挑戦で伝えたいこととは",
+      "description": "",
+      "publishedAt": "2026-09-25T02:21:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tR1OgChLB7I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tR1OgChLB7I"
+    },
     {
       "id": "l3ZNn_aYi8E",
       "title": "【ベジ得】キッチン編・レンコン",

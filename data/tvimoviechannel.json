@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-24T18:53:29.558607",
+  "updated_at": "2026-09-25T19:10:41.539702",
   "videos": [
+    {
+      "id": "2Fn-sAgaHaA",
+      "title": "サンマとジャガイモのリエット | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-09-25T08:45:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Fn-sAgaHaA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Fn-sAgaHaA"
+    },
+    {
+      "id": "kDemIhCiU2U",
+      "title": "シャインマスカットのショートケーキ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-09-25T08:31:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kDemIhCiU2U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kDemIhCiU2U"
+    },
+    {
+      "id": "wtI8PHyvYDg",
+      "title": "旬の食材を味わう秋限定のクレープ＆ガレット｜TOM クレープリー＆デリ｜岩手・矢巾町｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-09-25T06:10:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wtI8PHyvYDg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wtI8PHyvYDg"
+    },
     {
       "id": "2xWIRgT43Ik",
       "title": "今日の５きげんテレビ（9月25日）｜テレビ岩手",

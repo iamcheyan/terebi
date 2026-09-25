@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-09-23T18:54:27.265389",
+  "updated_at": "2026-09-25T19:10:07.976840",
   "videos": [
+    {
+      "id": "h97hO-yoogQ",
+      "title": "大和ハウスグループデー直前！「ONE HEARTチャレンジ！」",
+      "description": "",
+      "publishedAt": "2026-09-25T14:15:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h97hO-yoogQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h97hO-yoogQ"
+    },
     {
       "id": "WSVaVhvk4Qg",
       "title": "9月18日（金）放送｜奈良テレビ「ゆうドキッ！」内「いきいきまちだより」",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-09-19T17:50:14.719172",
+  "updated_at": "2026-09-25T19:10:10.395447",
   "videos": [
+    {
+      "id": "QNhYov-8uP8",
+      "title": "【わんカメＬＩＶＥ】泊まって動物保護「里山ＺＯＯＭＯルーム」",
+      "description": "",
+      "publishedAt": "2026-09-25T06:11:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QNhYov-8uP8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QNhYov-8uP8"
+    },
     {
       "id": "OsGPfCa-rU8",
       "title": "【ＡＩでクマ検知】クマなどの野生動物をＡＩを使って検知し遠ざけるシステムの実証実験が始まりました",

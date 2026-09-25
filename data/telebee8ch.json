@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-09-24T18:53:28.478990",
+  "updated_at": "2026-09-25T19:10:40.034797",
   "videos": [
+    {
+      "id": "soEXSJbjDzc",
+      "title": "【公式】2026年10月2日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-09-25T11:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/soEXSJbjDzc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=soEXSJbjDzc"
+    },
+    {
+      "id": "UTgFmK0dBng",
+      "title": "【公式】「はじめてのびっくり」（09月25日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-09-25T03:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UTgFmK0dBng/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UTgFmK0dBng"
+    },
     {
       "id": "nhnWCP10K8w",
       "title": "【お弁当、もった？】#13 福岡市南区 建築士の夫＆スタッフへの思いやり弁当",

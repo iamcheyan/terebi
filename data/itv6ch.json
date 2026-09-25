@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-09-24T18:53:34.736385",
+  "updated_at": "2026-09-25T19:10:46.160073",
   "videos": [
+    {
+      "id": "_ojelWizDWQ",
+      "title": "愛媛のニュース(09月25日)",
+      "description": "",
+      "publishedAt": "2026-09-25T11:35:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_ojelWizDWQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_ojelWizDWQ"
+    },
+    {
+      "id": "RVqPJmd02Ck",
+      "title": "STU48と愛媛をEVドライブ！【第31回】ブルークエスト with STU48（大洲市 道の駅 清流の里 ひじかわ）",
+      "description": "",
+      "publishedAt": "2026-09-25T03:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RVqPJmd02Ck/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RVqPJmd02Ck"
+    },
     {
       "id": "-bwKUU1XzX8",
       "title": "愛媛のニュース(09月24日)",
