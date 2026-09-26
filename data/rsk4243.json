@@ -1,8 +1,32 @@
 {
   "channel_id": "UCTUbmRxExnIYmoXRsRSEdBw",
   "channel_name": "RSK山陽放送",
-  "updated_at": "2026-09-25T19:10:15.674632",
+  "updated_at": "2026-09-26T18:25:40.454045",
   "videos": [
+    {
+      "id": "VpA-1dIcVSY",
+      "title": "【アーカイブ動画公開中】『ベジ・ファーストOKAYAMAプロジェクト』｜桃太郎の岡山Cityかわら版Z（2026年9月19日放送）",
+      "description": "",
+      "publishedAt": "2026-09-26T07:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VpA-1dIcVSY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VpA-1dIcVSY"
+    },
+    {
+      "id": "rczyRgv9_Nw",
+      "title": "『ベジ・ファーストOKAYAMAプロジェクト』｜桃太郎の岡山Cityかわら版Z（2026年9月19日放送）",
+      "description": "",
+      "publishedAt": "2026-09-26T07:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rczyRgv9_Nw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rczyRgv9_Nw"
+    },
     {
       "id": "rxxQYsQJN0s",
       "title": "#139 尽誠学園高校 女子硬式野球｜中高生ニュース（2026年9月23日放送）",

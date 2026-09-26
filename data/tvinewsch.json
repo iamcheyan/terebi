@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-09-25T19:10:10.395447",
+  "updated_at": "2026-09-26T18:25:31.782831",
   "videos": [
+    {
+      "id": "mOxmUGcv9bQ",
+      "title": "【気象予報士穴澤さんのアナ天】9/25は中秋の名月。「今夜はお月見できる？名月と満月」についてです",
+      "description": "",
+      "publishedAt": "2026-09-26T04:25:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mOxmUGcv9bQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mOxmUGcv9bQ"
+    },
+    {
+      "id": "cJHygtwziNg",
+      "title": "【プラストーリーズ】テーマは岩手の経済、観光、食文化を支えてきた「サケ」",
+      "description": "",
+      "publishedAt": "2026-09-26T04:11:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cJHygtwziNg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cJHygtwziNg"
+    },
     {
       "id": "QNhYov-8uP8",
       "title": "【わんカメＬＩＶＥ】泊まって動物保護「里山ＺＯＯＭＯルーム」",
