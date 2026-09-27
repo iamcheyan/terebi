@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-25T19:10:41.539702",
+  "updated_at": "2026-09-27T18:57:23.628671",
   "videos": [
+    {
+      "id": "rs1vUkGYipg",
+      "title": "今日の５きげんテレビ（9月28日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-27T15:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rs1vUkGYipg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rs1vUkGYipg"
+    },
     {
       "id": "2Fn-sAgaHaA",
       "title": "サンマとジャガイモのリエット | ５きげんクッキング",
