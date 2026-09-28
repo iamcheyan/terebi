@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-09-26T18:26:32.769192",
+  "updated_at": "2026-09-28T21:08:24.938354",
   "videos": [
+    {
+      "id": "VFivsA_-EWU",
+      "title": "山形で聞く！「ニュースto」黒木千晶アナ",
+      "description": "",
+      "publishedAt": "2026-09-28T05:57:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VFivsA_-EWU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VFivsA_-EWU"
+    },
     {
       "id": "jGUzKQtaLnM",
       "title": "【夢NOTE】さとう花の森呼吸器内科クリニック　～早期診断・治療で、健康でいられるように～",

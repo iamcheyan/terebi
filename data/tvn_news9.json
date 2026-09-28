@@ -1,8 +1,44 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-09-25T19:10:14.131042",
+  "updated_at": "2026-09-28T21:07:36.722111",
   "videos": [
+    {
+      "id": "pXoYpd4_4lo",
+      "title": "東吉野村の魅力を発信　「いこか！ふるさとひよし祭り」　奈良",
+      "description": "",
+      "publishedAt": "2026-09-28T09:40:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pXoYpd4_4lo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pXoYpd4_4lo"
+    },
+    {
+      "id": "IwXZgyAv_ww",
+      "title": "遺跡・遺物の保護・活用学ぶ　アジア太平洋地域の若手専門家が奈良で研修",
+      "description": "",
+      "publishedAt": "2026-09-28T09:39:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IwXZgyAv_ww/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IwXZgyAv_ww"
+    },
+    {
+      "id": "eSiP7hlvg48",
+      "title": "「ＪＡならけん女性大学」冬野菜の植え付けを体験　農業に親しむ",
+      "description": "",
+      "publishedAt": "2026-09-28T09:20:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eSiP7hlvg48/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eSiP7hlvg48"
+    },
     {
       "id": "gDnO3xddOGU",
       "title": "星野リゾートの高級ホテル　「星のや飛鳥」来年７月２２日に開業へ",

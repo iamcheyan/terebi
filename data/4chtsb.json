@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-09-18T18:08:55.376646",
+  "updated_at": "2026-09-28T21:08:21.095778",
   "videos": [
+    {
+      "id": "kh39ddvJK70",
+      "title": "【松本市美術館で放映中】SustainableWorldまでの軌跡",
+      "description": "",
+      "publishedAt": "2026-09-28T02:00:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kh39ddvJK70/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kh39ddvJK70"
+    },
     {
       "id": "6SsqXSvWscg",
       "title": "【松本市美術館で開催中】Sustainable World　－佐藤大史・磯部昭子 ふたりの視点から－",

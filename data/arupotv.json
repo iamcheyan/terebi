@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-09-27T18:57:14.550049",
+  "updated_at": "2026-09-28T21:08:16.043183",
   "videos": [
+    {
+      "id": "s9Otrh5AjLQ",
+      "title": "【番宣】１０月１日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-09-28T06:59:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s9Otrh5AjLQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s9Otrh5AjLQ"
+    },
+    {
+      "id": "bHBu_Oy555U",
+      "title": "未来をつくるヒーローたち 第25話",
+      "description": "",
+      "publishedAt": "2026-09-28T05:06:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bHBu_Oy555U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bHBu_Oy555U"
+    },
     {
       "id": "rkOhKMfFoHw",
       "title": "第120回 めざせ！くまもとの若き匠たち【開新高校 土木建築科 建築コース】",

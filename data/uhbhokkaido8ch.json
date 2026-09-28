@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-09-27T18:57:27.868796",
+  "updated_at": "2026-09-28T21:08:24.433350",
   "videos": [
+    {
+      "id": "3XxhLmhdqsU",
+      "title": "みんテレ　9月29日（火）放送",
+      "description": "",
+      "publishedAt": "2026-09-28T10:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3XxhLmhdqsU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3XxhLmhdqsU"
+    },
     {
       "id": "Zz58k0fAAnw",
       "title": "松本裕子の病を知るー9月27日　光がひらく命の選択⑤　軟骨は再生できるのか？関節軟骨を修復する新・再生医療",
