@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-09-28T21:08:21.923443",
+  "updated_at": "2026-09-29T19:51:33.527850",
   "videos": [
+    {
+      "id": "WRuVVJUV2UA",
+      "title": "今日の５きげんテレビ（9月30日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-09-29T15:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WRuVVJUV2UA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WRuVVJUV2UA"
+    },
+    {
+      "id": "S8JJgZy_kks",
+      "title": "雫石の愛されスポットを巡る | まち探５",
+      "description": "",
+      "publishedAt": "2026-09-29T10:27:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S8JJgZy_kks/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S8JJgZy_kks"
+    },
+    {
+      "id": "7ZpjbjbSLAc",
+      "title": "秋鮭のムニエル  キノコみそバターソース | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-09-29T08:28:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7ZpjbjbSLAc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7ZpjbjbSLAc"
+    },
     {
       "id": "ShCBZw_NhCs",
       "title": "今日の５きげんテレビ（9月29日）｜テレビ岩手",

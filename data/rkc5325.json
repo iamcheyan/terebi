@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-09-28T21:08:16.320320",
+  "updated_at": "2026-09-29T19:51:29.877074",
   "videos": [
+    {
+      "id": "3sXfYnMJVlc",
+      "title": "「《子ども食堂を支援》24時間テレビの寄付金で調理器具など贈呈」2026/09/29放送",
+      "description": "",
+      "publishedAt": "2026-09-29T10:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3sXfYnMJVlc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3sXfYnMJVlc"
+    },
+    {
+      "id": "IaON5Yw9TWU",
+      "title": "「《県内で働きたい》を応援　若者向け転職窓口オープン」2026/09/29放送",
+      "description": "",
+      "publishedAt": "2026-09-29T03:22:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IaON5Yw9TWU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IaON5Yw9TWU"
+    },
     {
       "id": "7N4DKa_QeI0",
       "title": "「《華麗な技に拍手と声援！》高知大道芸フェス大盛況」2026/9/28放送",

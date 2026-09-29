@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-09-26T18:25:59.867796",
+  "updated_at": "2026-09-29T19:51:11.900796",
   "videos": [
+    {
+      "id": "Egc8dZJV94E",
+      "title": "【特集】コンテンツビジネス×京都「京まふ2026」／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-09-29T09:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Egc8dZJV94E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Egc8dZJV94E"
+    },
     {
       "id": "J_K5y66eTQM",
       "title": "市民がつなぐリユースの輪｜京田辺市｜【ふるさとDays】",

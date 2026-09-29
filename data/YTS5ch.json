@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-09-28T21:07:45.110875",
+  "updated_at": "2026-09-29T19:51:12.128585",
   "videos": [
+    {
+      "id": "dgrshHoilEc",
+      "title": "山形の秋を彩る「日本一の芋煮会フェスティバル」",
+      "description": "",
+      "publishedAt": "2026-09-29T11:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dgrshHoilEc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dgrshHoilEc"
+    },
     {
       "id": "EbNuNDfypRc",
       "title": "受け継がれて92年 米どころ庄内の米こうじ",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-09-22T18:36:38.208749",
+  "updated_at": "2026-09-29T19:51:25.557244",
   "videos": [
+    {
+      "id": "NnrkiUv9bQQ",
+      "title": "【旬景とやま】帆船と名月",
+      "description": "",
+      "publishedAt": "2026-09-29T10:02:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NnrkiUv9bQQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NnrkiUv9bQQ"
+    },
     {
       "id": "QiXlMUoJPzM",
       "title": "【旬景とやま】里山　森のささやき",

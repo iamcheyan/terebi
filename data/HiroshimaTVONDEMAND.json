@@ -1,8 +1,44 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-09-28T21:08:00.225857",
+  "updated_at": "2026-09-29T19:51:13.217018",
   "videos": [
+    {
+      "id": "GdS7k_rLBtE",
+      "title": "われら！シン・呉Tuber＃21「大和ミュージアム 人気の〇〇を調査！」",
+      "description": "",
+      "publishedAt": "2026-09-29T10:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GdS7k_rLBtE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GdS7k_rLBtE"
+    },
+    {
+      "id": "PGc1NLdgKdY",
+      "title": "【キッズチャレンジスタジアム】ゆいとくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-09-29T09:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PGc1NLdgKdY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PGc1NLdgKdY"
+    },
+    {
+      "id": "Wk-ojc6xqTs",
+      "title": "【アンタなにしょ～ん⁉】10月9日(金)放送",
+      "description": "",
+      "publishedAt": "2026-09-29T07:37:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wk-ojc6xqTs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wk-ojc6xqTs"
+    },
     {
       "id": "IbJr8Hdpxn0",
       "title": "第514回　ひろおく便り　世羅町 　山頂いっぱいに広がる絶景！天空のコスモス畑",

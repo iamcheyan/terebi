@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-09-25T19:10:04.291792",
+  "updated_at": "2026-09-29T19:51:17.150457",
   "videos": [
+    {
+      "id": "vlT6AxTitsU",
+      "title": "【ベジ得】サトイモ",
+      "description": "",
+      "publishedAt": "2026-09-29T08:46:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vlT6AxTitsU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vlT6AxTitsU"
+    },
     {
       "id": "vKcmjNxY7Cw",
       "title": "【愛しの媛さんぽ】伊予市をぶらりお散歩",

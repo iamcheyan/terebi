@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-09-28T21:08:26.328456",
+  "updated_at": "2026-09-29T19:51:36.617030",
   "videos": [
+    {
+      "id": "RdBn3vMtv8g",
+      "title": "未来の暮らし守るドローン技術",
+      "description": "",
+      "publishedAt": "2026-09-29T06:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RdBn3vMtv8g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RdBn3vMtv8g"
+    },
+    {
+      "id": "N3r9p9YCPYk",
+      "title": "“四国の雄”復活へ！新田ラグビー部の挑戦",
+      "description": "",
+      "publishedAt": "2026-09-29T02:07:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N3r9p9YCPYk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N3r9p9YCPYk"
+    },
     {
       "id": "Pwv4DfbYYKE",
       "title": "愛媛のニュース(09月28日)",

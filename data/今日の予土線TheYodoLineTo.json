@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-09-28T21:08:31.557433",
+  "updated_at": "2026-09-29T19:51:40.192129",
   "videos": [
+    {
+      "id": "RrBN3l3r1AQ",
+      "title": "260929 173325 兼近第３踏切（みきゃん列車通過）",
+      "description": "",
+      "publishedAt": "2026-09-29T11:42:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RrBN3l3r1AQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RrBN3l3r1AQ"
+    },
+    {
+      "id": "FCkhtFO77OQ",
+      "title": "260929 172943 兼近第３踏切 ２",
+      "description": "",
+      "publishedAt": "2026-09-29T11:39:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FCkhtFO77OQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FCkhtFO77OQ"
+    },
+    {
+      "id": "L1wuCsTm0ZQ",
+      "title": "260929 172633 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-09-29T11:15:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L1wuCsTm0ZQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L1wuCsTm0ZQ"
+    },
     {
       "id": "FZ-BW36515s",
       "title": "260928 153122 近永第１踏切（黄色い列車通過）",
