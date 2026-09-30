@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-09-29T19:51:35.165511",
+  "updated_at": "2026-09-30T19:54:51.057714",
   "videos": [
+    {
+      "id": "ZCnji-113gc",
+      "title": "みんテレ　10月1日（木）放送",
+      "description": "",
+      "publishedAt": "2026-09-30T10:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZCnji-113gc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZCnji-113gc"
+    },
+    {
+      "id": "YWCKh0cFYOE",
+      "title": "FumuFumu　2026年9月29日放送",
+      "description": "",
+      "publishedAt": "2026-09-30T04:07:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YWCKh0cFYOE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YWCKh0cFYOE"
+    },
     {
       "id": "ZXlcXiUqTmc",
       "title": "みんテレ　9月30日（水）放送",

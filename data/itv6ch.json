@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-09-29T19:51:36.617030",
+  "updated_at": "2026-09-30T19:54:52.741474",
   "videos": [
+    {
+      "id": "dLQkcm2ZOkY",
+      "title": "愛媛のニュース(09月30日)",
+      "description": "",
+      "publishedAt": "2026-09-30T11:40:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dLQkcm2ZOkY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dLQkcm2ZOkY"
+    },
     {
       "id": "RdBn3vMtv8g",
       "title": "未来の暮らし守るドローン技術",

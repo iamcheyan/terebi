@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-09-29T19:51:03.514570",
+  "updated_at": "2026-09-30T19:54:06.890981",
   "videos": [
+    {
+      "id": "efIce06maoY",
+      "title": "メ～テレ独占！明日海×キムラ×中尾のクロストーク『詩と音楽の光景 エレクトラ』",
+      "description": "",
+      "publishedAt": "2026-09-30T09:02:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/efIce06maoY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=efIce06maoY"
+    },
     {
       "id": "XeW4ty5bolM",
       "title": "『Yerma イェルマ』 舞台映像ダイジェスト（東京公演）",

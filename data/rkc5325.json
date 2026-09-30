@@ -1,8 +1,44 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-09-29T19:51:29.877074",
+  "updated_at": "2026-09-30T19:54:43.487867",
   "videos": [
+    {
+      "id": "eSEguDHSlN0",
+      "title": "「《特産品を販売実習》中学生が三原村をPR」2026/09/30放送",
+      "description": "",
+      "publishedAt": "2026-09-30T10:14:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eSEguDHSlN0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eSEguDHSlN0"
+    },
+    {
+      "id": "yRQAnMa_WRs",
+      "title": "「《10月から酒税法改正》発泡酒など増税 駆け込みで大量購入の人も」2026/09/30放送",
+      "description": "",
+      "publishedAt": "2026-09-30T10:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yRQAnMa_WRs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yRQAnMa_WRs"
+    },
+    {
+      "id": "al0r941HmxI",
+      "title": "「《足摺海底館が閉館》半世紀以上愛された竜串のシンボル」2026/09/30放送",
+      "description": "",
+      "publishedAt": "2026-09-30T10:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/al0r941HmxI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=al0r941HmxI"
+    },
     {
       "id": "3sXfYnMJVlc",
       "title": "「《子ども食堂を支援》24時間テレビの寄付金で調理器具など贈呈」2026/09/29放送",

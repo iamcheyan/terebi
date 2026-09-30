@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-09-29T19:51:40.192129",
+  "updated_at": "2026-09-30T19:54:57.682749",
   "videos": [
+    {
+      "id": "KPtvsEaWbIc",
+      "title": "260930 175313 大内第１踏切（鬼列車通過）",
+      "description": "",
+      "publishedAt": "2026-09-30T12:23:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KPtvsEaWbIc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KPtvsEaWbIc"
+    },
+    {
+      "id": "w5g6WpBjoQk",
+      "title": "260930 174940 大内第１踏切 ２",
+      "description": "",
+      "publishedAt": "2026-09-30T12:15:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/w5g6WpBjoQk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=w5g6WpBjoQk"
+    },
+    {
+      "id": "mdhcKMpJkqY",
+      "title": "260930 174603 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-09-30T11:57:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mdhcKMpJkqY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mdhcKMpJkqY"
+    },
     {
       "id": "RrBN3l3r1AQ",
       "title": "260929 173325 兼近第３踏切（みきゃん列車通過）",

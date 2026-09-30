@@ -1,8 +1,56 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-09-29T19:51:12.808404",
+  "updated_at": "2026-09-30T19:54:24.014262",
   "videos": [
+    {
+      "id": "EHTDljhWxPQ",
+      "title": "２０周年スターの初主演映画公開",
+      "description": "",
+      "publishedAt": "2026-09-30T10:23:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EHTDljhWxPQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EHTDljhWxPQ"
+    },
+    {
+      "id": "kPwvHwKVQ9c",
+      "title": "【記者解説】　空き巣などの侵入窃盗に注意",
+      "description": "",
+      "publishedAt": "2026-09-30T10:17:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kPwvHwKVQ9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kPwvHwKVQ9c"
+    },
+    {
+      "id": "_9VX9an2Kh4",
+      "title": "食のアップサイクルひろがる",
+      "description": "",
+      "publishedAt": "2026-09-30T10:15:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_9VX9an2Kh4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_9VX9an2Kh4"
+    },
+    {
+      "id": "HvMqGUzsygU",
+      "title": "比良山系　新人警察官が遭難者の救助訓練",
+      "description": "",
+      "publishedAt": "2026-09-30T10:14:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HvMqGUzsygU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HvMqGUzsygU"
+    },
     {
       "id": "4Gn-6kwTMIc",
       "title": "子どもたちにおいしいお米を　企業が児童福祉施設などに新米３００kgを寄附",

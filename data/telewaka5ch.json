@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-09-29T19:51:13.870879",
+  "updated_at": "2026-09-30T19:54:15.804024",
   "videos": [
+    {
+      "id": "LMc7Y4oFKuo",
+      "title": "【WAKAYAMA SDGs】#062- 有限会社山永サービス",
+      "description": "",
+      "publishedAt": "2026-09-30T09:12:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LMc7Y4oFKuo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LMc7Y4oFKuo"
+    },
     {
       "id": "Hmbn_6yOWHU",
       "title": "檻にかかったツキノワグマ 薬剤を使って捕殺 27日に男性襲った個体の可能性高い 和歌山県有田川町",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-09-29T19:51:04.246830",
+  "updated_at": "2026-09-30T19:54:11.070303",
   "videos": [
+    {
+      "id": "1MWHQod35Ok",
+      "title": "【LIVE】 岡山桃太郎空港　岡山市",
+      "description": "",
+      "publishedAt": "2026-09-30T09:27:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1MWHQod35Ok/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1MWHQod35Ok"
+    },
     {
       "id": "dJ136vB3nLk",
       "title": "【百戦錬磨コーチングの流儀】総社東中学校吹奏楽部 塩津純顧問に中田廉が迫る！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-09-29T19:51:29.366438",
+  "updated_at": "2026-09-30T19:54:42.392154",
   "videos": [
+    {
+      "id": "eEjNJupLxW8",
+      "title": "#01 シール交換部",
+      "description": "",
+      "publishedAt": "2026-09-30T08:03:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eEjNJupLxW8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eEjNJupLxW8"
+    },
     {
       "id": "8sWhuE_xAzo",
       "title": "美容や健康に良い！？薬膳火鍋を取り扱う『琉球火鍋』」へ潜入",

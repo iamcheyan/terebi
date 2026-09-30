@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-09-28T21:07:55.926320",
+  "updated_at": "2026-09-30T19:53:52.825797",
   "videos": [
+    {
+      "id": "jy8peZlbAak",
+      "title": "FUJI DRAMA COLORS 2026 AUTUMN",
+      "description": "",
+      "publishedAt": "2026-09-29T01:52:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jy8peZlbAak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jy8peZlbAak"
+    },
     {
       "id": "AAHsKrqietk",
       "title": "吉田鋼太郎主演『きんつくろい -金繕い-』10月8日(木)22時00分【フジ】",
