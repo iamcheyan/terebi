@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-09-28T21:08:16.043183",
+  "updated_at": "2026-10-01T20:12:21.549575",
   "videos": [
+    {
+      "id": "ilGKq64uR7g",
+      "title": "【番宣】１０月１０日（土）ミライのタネ",
+      "description": "",
+      "publishedAt": "2026-10-01T07:54:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ilGKq64uR7g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ilGKq64uR7g"
+    },
+    {
+      "id": "aOHhRprRWkI",
+      "title": "【番宣】１０月７日（水）週刊山崎くん",
+      "description": "",
+      "publishedAt": "2026-10-01T06:41:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aOHhRprRWkI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aOHhRprRWkI"
+    },
+    {
+      "id": "nyS9bTk1Cpc",
+      "title": "【番宣】１０月５日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-10-01T06:38:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nyS9bTk1Cpc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nyS9bTk1Cpc"
+    },
     {
       "id": "s9Otrh5AjLQ",
       "title": "【番宣】１０月１日（木）NEWSゲツキン",

@@ -1,8 +1,92 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-09-30T19:53:52.825797",
+  "updated_at": "2026-10-01T20:11:47.154183",
   "videos": [
+    {
+      "id": "8Mi_JxYcAgM",
+      "title": "【スペシャルPR】吉田鋼太郎主演『きんつくろい -金繕い-』10月8日(木)22時00分【フジ】",
+      "description": "",
+      "publishedAt": "2026-10-01T10:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8Mi_JxYcAgM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8Mi_JxYcAgM"
+    },
+    {
+      "id": "b_OeN2eG0Ys",
+      "title": "フジテレビ秋の4ドラマ・スペシャルPR映像30秒",
+      "description": "",
+      "publishedAt": "2026-10-01T01:01:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b_OeN2eG0Ys/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b_OeN2eG0Ys"
+    },
+    {
+      "id": "lmGOTHPgfPc",
+      "title": "フジテレビ秋の4ドラマ・スペシャルPR映像60秒",
+      "description": "",
+      "publishedAt": "2026-10-01T01:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lmGOTHPgfPc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lmGOTHPgfPc"
+    },
+    {
+      "id": "QH70H8x0alg",
+      "title": "フジテレビ秋の4ドラマ・スペシャルPR映像30秒",
+      "description": "",
+      "publishedAt": "2026-10-01T01:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QH70H8x0alg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QH70H8x0alg"
+    },
+    {
+      "id": "CxA-ekS5VGc",
+      "title": "フジテレビ秋の4ドラマ・スペシャルPR映像15秒",
+      "description": "",
+      "publishedAt": "2026-10-01T01:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CxA-ekS5VGc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CxA-ekS5VGc"
+    },
+    {
+      "id": "JB8WsE8EM3U",
+      "title": "10/15(木)スタート！木10『波うららかに、めおと日和』1話本編予告映像30秒解禁!! ＜昭和11～12年ver.＞",
+      "description": "",
+      "publishedAt": "2026-09-30T22:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JB8WsE8EM3U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JB8WsE8EM3U"
+    },
+    {
+      "id": "nsoZc63H-7Q",
+      "title": "10/15(木)スタート！木10『波うららかに、めおと日和』1話本編予告映像30秒解禁!! ＜昭和12年ver.＞",
+      "description": "",
+      "publishedAt": "2026-09-30T22:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nsoZc63H-7Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nsoZc63H-7Q"
+    },
     {
       "id": "jy8peZlbAak",
       "title": "FUJI DRAMA COLORS 2026 AUTUMN",

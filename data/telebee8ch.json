@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-09-29T19:51:32.351917",
+  "updated_at": "2026-10-01T20:12:26.557961",
   "videos": [
+    {
+      "id": "r6_PJDFXgWg",
+      "title": "【お弁当、もった？】#14  九州一の小さな町 吉富町役場のお弁当",
+      "description": "",
+      "publishedAt": "2026-10-01T14:35:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r6_PJDFXgWg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r6_PJDFXgWg"
+    },
+    {
+      "id": "f_46iP9CCoc",
+      "title": "【公式】2026年10月3日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-10-01T04:57:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/f_46iP9CCoc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=f_46iP9CCoc"
+    },
     {
       "id": "lRD44jgpMRM",
       "title": "【トラックがつなぐ、未来の物流 】被災地支援に貢献 #13",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-09-30T19:54:14.985556",
+  "updated_at": "2026-10-01T20:11:45.027158",
   "videos": [
+    {
+      "id": "gnGD2dk1ROU",
+      "title": "生成AIで制作する最先端の映画　ゲスト 山口ヒロキさん（映画監督・ガウマピクス代表）／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-10-01T09:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gnGD2dk1ROU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gnGD2dk1ROU"
+    },
     {
       "id": "nB-Z9YiWV2U",
       "title": "名バーテンダーが手がける「角打酒場ＫＡＳＫ」／おでかけキュンと！",

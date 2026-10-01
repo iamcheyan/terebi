@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-09-30T19:54:42.392154",
+  "updated_at": "2026-10-01T20:12:21.019648",
   "videos": [
+    {
+      "id": "NdbZfuV9F7Q",
+      "title": "スペシャルゲスト 音楽プロデューサー DJ SASAさん",
+      "description": "",
+      "publishedAt": "2026-10-01T07:55:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NdbZfuV9F7Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NdbZfuV9F7Q"
+    },
+    {
+      "id": "heHjtvFlLZE",
+      "title": "屋富祖通り ユカタdeナイト",
+      "description": "",
+      "publishedAt": "2026-10-01T07:42:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/heHjtvFlLZE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=heHjtvFlLZE"
+    },
     {
       "id": "eEjNJupLxW8",
       "title": "#01 シール交換部",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-09-30T19:54:25.656350",
+  "updated_at": "2026-10-01T20:11:44.081493",
   "videos": [
+    {
+      "id": "V9_D1TQmOpY",
+      "title": "かながわMIRAI すくすくパシャリ（2026年10月ver）",
+      "description": "",
+      "publishedAt": "2026-10-01T01:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V9_D1TQmOpY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V9_D1TQmOpY"
+    },
+    {
+      "id": "sEV6hbTDLqw",
+      "title": "猫のひたいほどワイド #1792 潜入リポート・沖拓郎「一泊二日で行ける！ロマン溢れるドライブコース」（北海道）",
+      "description": "",
+      "publishedAt": "2026-10-01T00:59:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sEV6hbTDLqw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sEV6hbTDLqw"
+    },
     {
       "id": "5zDKbDSjvgA",
       "title": "猫のひたいほどワイド #1791 潜入リポート・大久保琉唯「芸術の秋！奥深き○○づくりに挑戦！」（横浜市中区）",

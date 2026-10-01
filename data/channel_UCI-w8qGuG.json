@@ -1,8 +1,44 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-09-30T19:53:55.497665",
+  "updated_at": "2026-10-01T20:11:41.146178",
   "videos": [
+    {
+      "id": "OA3a9D50H2o",
+      "title": "【ハイライト】全日本大学駅伝 東北地区選考会",
+      "description": "",
+      "publishedAt": "2026-10-01T10:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OA3a9D50H2o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OA3a9D50H2o"
+    },
+    {
+      "id": "BouwEy4aUN4",
+      "title": "合宿の夜にプロポーズゲーム！日本一のECC学園に多田梨音も共感",
+      "description": "",
+      "publishedAt": "2026-10-01T08:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BouwEy4aUN4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BouwEy4aUN4"
+    },
+    {
+      "id": "FHuW4WMecBk",
+      "title": "【井口塾長が語るシカゴ】村上宗隆の一番の敵は…○○!?",
+      "description": "",
+      "publishedAt": "2026-09-30T23:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FHuW4WMecBk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FHuW4WMecBk"
+    },
     {
       "id": "ubEX2iVtBxc",
       "title": "【駅伝シーズンへ】中央大学の夏合宿に密着！！",

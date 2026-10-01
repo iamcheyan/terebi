@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-09-30T19:54:17.488104",
+  "updated_at": "2026-10-01T20:11:51.564843",
   "videos": [
+    {
+      "id": "qFHF0x4lJUk",
+      "title": "学生、現場へ！土木っておもしろい　第一回【チバテレ55周年特別番組】",
+      "description": "",
+      "publishedAt": "2026-10-01T12:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qFHF0x4lJUk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qFHF0x4lJUk"
+    },
     {
       "id": "NrFTDX-nWjY",
       "title": "MF20 瀬川 祐輔選手『Rising Reysol！』～Beyond the Pitch ～ (2026年9月27日放送)",

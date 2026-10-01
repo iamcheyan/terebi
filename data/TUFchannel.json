@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-09-30T19:54:47.954212",
+  "updated_at": "2026-10-01T20:12:27.426355",
   "videos": [
+    {
+      "id": "eytt-K75R-U",
+      "title": "【ふくしまSHOW】『福島市笹谷・大笹生』大特集！",
+      "description": "",
+      "publishedAt": "2026-10-01T06:17:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eytt-K75R-U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eytt-K75R-U"
+    },
     {
       "id": "WmEVem41XJ0",
       "title": "「福島日産自動車×ステップ」10月プレゼント！",

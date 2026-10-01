@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-09-30T19:54:52.741474",
+  "updated_at": "2026-10-01T20:12:31.818239",
   "videos": [
+    {
+      "id": "rIQ9V8MamHY",
+      "title": "愛媛のニュース(10月01日)",
+      "description": "",
+      "publishedAt": "2026-10-01T11:37:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rIQ9V8MamHY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rIQ9V8MamHY"
+    },
     {
       "id": "dLQkcm2ZOkY",
       "title": "愛媛のニュース(09月30日)",
