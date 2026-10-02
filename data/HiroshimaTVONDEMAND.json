@@ -1,8 +1,128 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-10-01T20:11:39.973055",
+  "updated_at": "2026-10-02T19:48:27.047123",
   "videos": [
+    {
+      "id": "0WRoXUyApko",
+      "title": "【シニア世代が集まる憩いの場】カラオケ・ネコカフェ・カレーの店",
+      "description": "",
+      "publishedAt": "2026-10-02T09:30:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0WRoXUyApko/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0WRoXUyApko"
+    },
+    {
+      "id": "icP031XNetE",
+      "title": "【キッズチャレンジスタジアム】いつきちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-10-02T09:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/icP031XNetE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=icP031XNetE"
+    },
+    {
+      "id": "-FvzXN6NRfk",
+      "title": "TAXIご縁旅＃７　尾道",
+      "description": "",
+      "publishedAt": "2026-10-02T05:47:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-FvzXN6NRfk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-FvzXN6NRfk"
+    },
+    {
+      "id": "ydmomGyyLa0",
+      "title": "TAXIご縁旅＃６　福山",
+      "description": "",
+      "publishedAt": "2026-10-02T05:46:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ydmomGyyLa0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ydmomGyyLa0"
+    },
+    {
+      "id": "TGks0TrdGvA",
+      "title": "TAXIご縁旅＃５　広島市・可部",
+      "description": "",
+      "publishedAt": "2026-10-02T05:45:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TGks0TrdGvA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TGks0TrdGvA"
+    },
+    {
+      "id": "fVBAaSm01Xo",
+      "title": "TAXIご縁旅＃４　三次市",
+      "description": "",
+      "publishedAt": "2026-10-02T05:44:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fVBAaSm01Xo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fVBAaSm01Xo"
+    },
+    {
+      "id": "RHLS4O-7jik",
+      "title": "TAXIご縁旅＃３　庄原市",
+      "description": "",
+      "publishedAt": "2026-10-02T05:43:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RHLS4O-7jik/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RHLS4O-7jik"
+    },
+    {
+      "id": "5oitzcuhpjo",
+      "title": "TAXIご縁旅#２　北広島",
+      "description": "",
+      "publishedAt": "2026-10-02T05:43:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5oitzcuhpjo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5oitzcuhpjo"
+    },
+    {
+      "id": "qwBY2C9uvEA",
+      "title": "TAXIご縁旅＃１",
+      "description": "",
+      "publishedAt": "2026-10-02T05:42:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qwBY2C9uvEA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qwBY2C9uvEA"
+    },
+    {
+      "id": "pWWVcOUjo2o",
+      "title": "こどものミライ#6　 高校生の約10人に1人が通信制高校へ　「自分らしい学び」の現場を取材",
+      "description": "",
+      "publishedAt": "2026-10-02T04:55:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pWWVcOUjo2o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pWWVcOUjo2o"
+    },
     {
       "id": "Q9BANTYNKb0",
       "title": "たからモノさがして　第６００回",

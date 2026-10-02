@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-09-19T17:50:31.061655",
+  "updated_at": "2026-10-02T19:48:24.729786",
   "videos": [
+    {
+      "id": "NX0Xzs6ayJA",
+      "title": "Dan Osborn Red Cloud Town Hall",
+      "description": "",
+      "publishedAt": "2026-10-02T10:47:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NX0Xzs6ayJA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NX0Xzs6ayJA"
+    },
     {
       "id": "mJwI9tFRn1Y",
       "title": "Ginger's Journey: Dolly Parton tells BELLES to follow her 'God gut'",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-10-01T20:12:21.893748",
+  "updated_at": "2026-10-02T19:49:11.398782",
   "videos": [
+    {
+      "id": "VR49bvbpGMM",
+      "title": "「龍馬パスポート×フカボリ」2026/10/2放送",
+      "description": "",
+      "publishedAt": "2026-10-02T10:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VR49bvbpGMM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VR49bvbpGMM"
+    },
+    {
+      "id": "NQ3hg0fLGAE",
+      "title": "「加用物産の『マルカのふりかけのり』×ときめくおうちごはん」2026/10/2放送",
+      "description": "",
+      "publishedAt": "2026-10-02T09:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NQ3hg0fLGAE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NQ3hg0fLGAE"
+    },
+    {
+      "id": "pbFq3q-HmlM",
+      "title": "「大豊町のお宝屋敷　名物店主と共に開館20周年」2026/10/02放送",
+      "description": "",
+      "publishedAt": "2026-10-02T07:15:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pbFq3q-HmlM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pbFq3q-HmlM"
+    },
+    {
+      "id": "LngU6qCQeS0",
+      "title": "「 Sweet Time × 気になるlog 」2026/10/2放送",
+      "description": "",
+      "publishedAt": "2026-10-02T07:10:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LngU6qCQeS0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LngU6qCQeS0"
+    },
     {
       "id": "Wd_jUT0mpCk",
       "title": "「10月1日　クロマグロ漁解禁」2026/10/01放送",

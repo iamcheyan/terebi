@@ -1,8 +1,32 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-10-01T20:11:51.564843",
+  "updated_at": "2026-10-02T19:48:45.486530",
   "videos": [
+    {
+      "id": "r60hJn3joUA",
+      "title": "『市町村てくてく散歩』第198回「御宿町」(2026.10.2放送)【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-10-02T13:15:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r60hJn3joUA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r60hJn3joUA"
+    },
+    {
+      "id": "UOaLZrvjBIA",
+      "title": "『金曜競馬CLUB NEO』中村愛の勝馬ラボ（2026/10/2放送分）【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-10-02T12:30:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UOaLZrvjBIA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UOaLZrvjBIA"
+    },
     {
       "id": "qFHF0x4lJUk",
       "title": "学生、現場へ！土木っておもしろい　第一回【チバテレ55周年特別番組】",

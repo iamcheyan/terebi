@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-10-01T20:12:05.109614",
+  "updated_at": "2026-10-02T19:48:16.465100",
   "videos": [
+    {
+      "id": "A3ypK0c1XXM",
+      "title": "#01　きょうはなに作る？「アイ・アイ・スタイル」",
+      "description": "",
+      "publishedAt": "2026-10-02T11:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A3ypK0c1XXM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A3ypK0c1XXM"
+    },
     {
       "id": "w1C6OsX-_CM",
       "title": "空から守る！自然災害【クルマとミライ】",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-10-01T20:11:58.407330",
+  "updated_at": "2026-10-02T19:48:30.547689",
   "videos": [
+    {
+      "id": "L5V-dKK1QhI",
+      "title": "日野ダリア園最後の開園",
+      "description": "",
+      "publishedAt": "2026-10-02T12:38:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L5V-dKK1QhI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L5V-dKK1QhI"
+    },
+    {
+      "id": "IJwM38X1H1U",
+      "title": "全国大会へ牛を調教",
+      "description": "",
+      "publishedAt": "2026-10-02T12:20:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IJwM38X1H1U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IJwM38X1H1U"
+    },
+    {
+      "id": "6WDMJT90E5g",
+      "title": "金曜オモロしが 次回予告【びわ湖放送】",
+      "description": "",
+      "publishedAt": "2026-10-02T10:43:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6WDMJT90E5g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6WDMJT90E5g"
+    },
+    {
+      "id": "nwFaB5X4x7c",
+      "title": "【滋賀・大津】「逢坂山かねよ」インパクト大の名物「きんし丼」をご紹介！｜日本まんなか直送便",
+      "description": "",
+      "publishedAt": "2026-10-02T10:19:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nwFaB5X4x7c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nwFaB5X4x7c"
+    },
     {
       "id": "TalHXoPaCRA",
       "title": "不動産フェア",
