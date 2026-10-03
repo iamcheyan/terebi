@@ -1,8 +1,32 @@
 {
   "channel_id": "UCmBnPrnbYpbUZ10TMIlY9YA",
   "channel_name": "The Niigata Television Network 21",
-  "updated_at": "2026-10-02T19:49:19.480643",
+  "updated_at": "2026-10-03T18:36:20.132874",
   "videos": [
+    {
+      "id": "Dcx8re6OJeI",
+      "title": "ユニークなイベント「中身が分からない本」中学生が読書のきっかけ作り",
+      "description": "",
+      "publishedAt": "2026-10-03T11:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Dcx8re6OJeI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Dcx8re6OJeI"
+    },
+    {
+      "id": "ve8QJRhANRY",
+      "title": "南魚沼市で秋の風物詩 コシヒカリの稲穂をスキーリフトで天日干し",
+      "description": "",
+      "publishedAt": "2026-10-03T09:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ve8QJRhANRY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ve8QJRhANRY"
+    },
     {
       "id": "qVZIxKSn1oo",
       "title": "【特集】保護者から不安の声「このまま預けていて･･･」認定こども園で虐待",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-10-02T19:49:11.031628",
+  "updated_at": "2026-10-03T18:36:10.930090",
   "videos": [
+    {
+      "id": "IqlfFSc5kXE",
+      "title": "【番宣】１０月１０日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-10-03T05:35:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IqlfFSc5kXE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IqlfFSc5kXE"
+    },
+    {
+      "id": "pUYF_kGImwI",
+      "title": "くまもと、バド熱！　第５回「明地陽菜選手」",
+      "description": "",
+      "publishedAt": "2026-10-03T00:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pUYF_kGImwI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pUYF_kGImwI"
+    },
     {
       "id": "kmJB28wbadk",
       "title": "【番宣】１０月６日（火）NEWSゲツキン1006",

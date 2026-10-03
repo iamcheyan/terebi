@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2026-10-02T19:48:27.575263",
+  "updated_at": "2026-10-03T18:35:23.258848",
   "videos": [
+    {
+      "id": "TXXIQWOfMNM",
+      "title": "ライフカードpresents【Life of Ryoma】＃３９龍馬と谷干城",
+      "description": "",
+      "publishedAt": "2026-10-03T14:30:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TXXIQWOfMNM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TXXIQWOfMNM"
+    },
     {
       "id": "2LXT9hd1pPA",
       "title": "プラス63円　高知県内の最低賃金は「1086円」に　10月29日から適用",

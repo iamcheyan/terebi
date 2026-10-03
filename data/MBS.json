@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-10-02T19:48:17.873850",
+  "updated_at": "2026-10-03T18:35:17.196435",
   "videos": [
+    {
+      "id": "Pf5q_T2LU-U",
+      "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/10/3放送",
+      "description": "",
+      "publishedAt": "2026-10-03T01:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Pf5q_T2LU-U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Pf5q_T2LU-U"
+    },
     {
       "id": "OrUnFSBGQQU",
       "title": "辻本の無茶振りを新しい方法でかわす新喜劇",
