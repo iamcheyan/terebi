@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-03T18:36:33.206427",
+  "updated_at": "2026-10-04T18:35:59.734494",
   "videos": [
+    {
+      "id": "gMFAWwatpOc",
+      "title": "今週の予土線 The Yodo Line Weekly 2026 10 04",
+      "description": "",
+      "publishedAt": "2026-10-04T13:12:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gMFAWwatpOc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gMFAWwatpOc"
+    },
+    {
+      "id": "GUy0jDkqpQI",
+      "title": "261004 115814 雨の深田駅",
+      "description": "",
+      "publishedAt": "2026-10-04T11:38:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GUy0jDkqpQI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GUy0jDkqpQI"
+    },
     {
       "id": "lO0lX5Mf3SA",
       "title": "261003 160455 永野市第２踏切",

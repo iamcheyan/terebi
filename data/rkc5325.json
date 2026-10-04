@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-10-03T18:36:10.564630",
+  "updated_at": "2026-10-04T18:35:34.587221",
   "videos": [
+    {
+      "id": "OEXYK5zgeCk",
+      "title": "「めばえ特別編　パパのめばえ」2026/10/2放送",
+      "description": "",
+      "publishedAt": "2026-10-04T03:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OEXYK5zgeCk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OEXYK5zgeCk"
+    },
     {
       "id": "jUZDW7i2kaU",
       "title": "こうち男性育休推進企業インタビュー　Vol.1高知機型工業編",

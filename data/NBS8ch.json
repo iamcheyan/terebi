@@ -1,8 +1,32 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-10-03T18:36:07.036783",
+  "updated_at": "2026-10-04T18:35:30.068741",
   "videos": [
+    {
+      "id": "FijRfaRU1rA",
+      "title": "第4回NBSジュニアゴルフ大会",
+      "description": "",
+      "publishedAt": "2026-10-04T05:55:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FijRfaRU1rA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FijRfaRU1rA"
+    },
+    {
+      "id": "JLJ3ntR0Qrg",
+      "title": "【ミヤマ精工】『熟練の技術』未来への便り（2026年10放送）",
+      "description": "",
+      "publishedAt": "2026-10-04T00:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JLJ3ntR0Qrg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JLJ3ntR0Qrg"
+    },
     {
       "id": "FsfSYsRev8o",
       "title": "【コラボスイーツも完成！】信州の秋を召し上がれ【い～の！レイクリゾート＋：飯野美紗子】第27回「秋のランチを満喫」（2026年10月3日放送）",

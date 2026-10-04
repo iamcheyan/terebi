@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-10-03T18:35:20.088065",
+  "updated_at": "2026-10-04T18:34:48.906125",
   "videos": [
+    {
+      "id": "fr6zYjfLb1Q",
+      "title": "食遺産File.265「きゅうりのメキシカン春巻き」＠大阪府・富田林市",
+      "description": "",
+      "publishedAt": "2026-10-04T03:45:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fr6zYjfLb1Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fr6zYjfLb1Q"
+    },
     {
       "id": "3Sa9bxbvpF4",
       "title": "【よゐこ有野】この街、攻略しとく？アメリカ村をぶーらぶら～話題の日本茶とヴィンテージ古着を巡るアメ村攻略の巻～",

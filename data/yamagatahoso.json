@@ -1,8 +1,32 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-09-28T21:08:24.938354",
+  "updated_at": "2026-10-04T18:35:49.034131",
   "videos": [
+    {
+      "id": "RkVqrt0irCk",
+      "title": "第65回山形県少年の主張大会・全国大会予選会【2026年】",
+      "description": "",
+      "publishedAt": "2026-10-04T12:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RkVqrt0irCk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RkVqrt0irCk"
+    },
+    {
+      "id": "h6zxk1pWke8",
+      "title": "やまがたサンデー５　１０月４日放送分　学んで備える地域防災",
+      "description": "",
+      "publishedAt": "2026-10-04T08:30:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h6zxk1pWke8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h6zxk1pWke8"
+    },
     {
       "id": "VFivsA_-EWU",
       "title": "山形で聞く！「ニュースto」黒木千晶アナ",
