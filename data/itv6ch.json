@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-10-04T18:35:51.204265",
+  "updated_at": "2026-10-05T21:53:31.213714",
   "videos": [
+    {
+      "id": "TgJgujAK3_c",
+      "title": "愛媛のニュース(10月05日)",
+      "description": "",
+      "publishedAt": "2026-10-05T11:38:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TgJgujAK3_c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TgJgujAK3_c"
+    },
+    {
+      "id": "9OcbcZFB2dY",
+      "title": "高校生が歩き遍路にチャレンジ 自ら考え、 判断し、生きる力を育む",
+      "description": "",
+      "publishedAt": "2026-10-05T06:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9OcbcZFB2dY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9OcbcZFB2dY"
+    },
     {
       "id": "4gruKD0lzc8",
       "title": "愛媛のニュース(10月04日)",

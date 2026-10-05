@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-10-03T18:35:39.257907",
+  "updated_at": "2026-10-05T21:52:33.255366",
   "videos": [
+    {
+      "id": "jZRXLL30Oec",
+      "title": "超町人！チョコレートサムネット 10/11(日) 名古屋・東区編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-10-05T02:02:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jZRXLL30Oec/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jZRXLL30Oec"
+    },
     {
       "id": "QyWM8dG_TsY",
       "title": "【まるまる◎あいち】2026年10月3日放送 「SDGs子ども・ユースフェア」",

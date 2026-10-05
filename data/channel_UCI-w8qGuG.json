@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-10-04T18:34:49.300020",
+  "updated_at": "2026-10-05T21:52:51.387297",
   "videos": [
+    {
+      "id": "zZHI8egl7AA",
+      "title": "【LIVE】キリンカップサッカー ３位決定戦 エクアドル×パナマ",
+      "description": "",
+      "publishedAt": "2026-10-05T08:57:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zZHI8egl7AA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zZHI8egl7AA"
+    },
+    {
+      "id": "FlLq36Ie3TU",
+      "title": "【ゴルフ】タイガー・ウッズが日本で優勝！世界の猛者たちが集まる日本唯一のPGAツアー ベイカレントクラシック",
+      "description": "",
+      "publishedAt": "2026-10-04T23:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FlLq36Ie3TU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FlLq36Ie3TU"
+    },
     {
       "id": "p4hZRdseQ0Q",
       "title": "部員3人から復活へ！名門・能代の挑戦に満島真之介も大興奮",

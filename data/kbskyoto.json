@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-10-02T19:48:38.619103",
+  "updated_at": "2026-10-05T21:52:53.598679",
   "videos": [
+    {
+      "id": "vz0OeetO1Nk",
+      "title": "日本の伝統を次世代へ 伝統と思いを「和える」【特集】",
+      "description": "",
+      "publishedAt": "2026-10-05T06:04:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vz0OeetO1Nk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vz0OeetO1Nk"
+    },
+    {
+      "id": "Yh4--HyvS0M",
+      "title": "パンづくり教室が広げる笑顔の輪｜八幡市｜【ふるさとDays】",
+      "description": "",
+      "publishedAt": "2026-10-05T02:27:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Yh4--HyvS0M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Yh4--HyvS0M"
+    },
     {
       "id": "oQ5aELbE1OQ",
       "title": "【京都府議会】令和8年9月定例会／代表質問2日目",

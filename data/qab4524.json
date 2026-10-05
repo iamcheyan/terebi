@@ -1,8 +1,32 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-10-02T19:49:10.006070",
+  "updated_at": "2026-10-05T21:53:19.793761",
   "videos": [
+    {
+      "id": "HSJBVDegoxs",
+      "title": "Listen205 FEC社長 山城智二さん",
+      "description": "",
+      "publishedAt": "2026-10-05T07:50:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HSJBVDegoxs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HSJBVDegoxs"
+    },
+    {
+      "id": "mqpAqUNeBHk",
+      "title": "Listen204 シンガーソングライター こはるさん",
+      "description": "",
+      "publishedAt": "2026-10-05T07:35:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mqpAqUNeBHk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mqpAqUNeBHk"
+    },
     {
       "id": "yya8gqbGOIo",
       "title": "【パネルディスカッション】第13回 うちなー健康企業会 特別定例会「100年企業を目指して 沖縄の未来を考える」",

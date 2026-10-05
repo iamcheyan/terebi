@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-10-04T18:35:43.889654",
+  "updated_at": "2026-10-05T21:53:26.613006",
   "videos": [
+    {
+      "id": "crkdkvYDG9Y",
+      "title": "今日の５きげんテレビ（10月6日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-10-05T15:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/crkdkvYDG9Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=crkdkvYDG9Y"
+    },
+    {
+      "id": "PzFMYSCQmmI",
+      "title": "絶品ソースのトンテキ",
+      "description": "",
+      "publishedAt": "2026-10-05T09:05:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PzFMYSCQmmI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PzFMYSCQmmI"
+    },
+    {
+      "id": "vQlF1YKe648",
+      "title": "5きげん知恵袋 ～秋の恵み！キノコ～",
+      "description": "",
+      "publishedAt": "2026-10-05T08:35:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vQlF1YKe648/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vQlF1YKe648"
+    },
     {
       "id": "MhMGV0mmw5Q",
       "title": "今日の５きげんテレビ（10月5日）｜テレビ岩手",

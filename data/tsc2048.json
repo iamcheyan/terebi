@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-10-04T18:34:19.688502",
+  "updated_at": "2026-10-05T21:52:36.344053",
   "videos": [
+    {
+      "id": "NB5h9yksbSo",
+      "title": "J1ファジアーノ岡山・桃果の注目①佐藤凌我",
+      "description": "",
+      "publishedAt": "2026-10-05T05:15:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NB5h9yksbSo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NB5h9yksbSo"
+    },
+    {
+      "id": "s5s9lUu3OUk",
+      "title": "10月10日のプライドは真庭市蒜山の長恒牧場",
+      "description": "",
+      "publishedAt": "2026-10-05T00:49:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s5s9lUu3OUk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s5s9lUu3OUk"
+    },
     {
       "id": "GlJpw0yd4zI",
       "title": "しまじろうのわお！　#745「しあわせの　おはなやさん」【10/10（土）放送📺】",

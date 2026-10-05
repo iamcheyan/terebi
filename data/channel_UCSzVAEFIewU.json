@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-10-01T20:11:46.038515",
+  "updated_at": "2026-10-05T21:53:01.209895",
   "videos": [
+    {
+      "id": "URJjZjuMibU",
+      "title": "【ベジ得】香酸柑橘",
+      "description": "",
+      "publishedAt": "2026-10-05T09:36:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/URJjZjuMibU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=URJjZjuMibU"
+    },
     {
       "id": "S19-azjPS4g",
       "title": "受験者が減る警察官　仕事の魅力で人材確保へ",
