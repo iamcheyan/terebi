@@ -1,8 +1,20 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-10-05T21:52:52.769996",
+  "updated_at": "2026-10-06T20:02:46.427312",
   "videos": [
+    {
+      "id": "JbSeM6WSzF8",
+      "title": "｢華丸丼と大吉麺｣10月11日(日)午後1時25分放送！",
+      "description": "",
+      "publishedAt": "2026-10-06T02:22:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JbSeM6WSzF8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JbSeM6WSzF8"
+    },
     {
       "id": "dqdgJpSpJVc",
       "title": "【あっちこっちAぇ!】10月10日（土）深夜放送",

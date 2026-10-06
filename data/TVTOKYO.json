@@ -1,8 +1,176 @@
 {
   "channel_id": "UCrDj5t8Q9ZFSGft7a3PWl9g",
   "channel_name": "テレ東公式 TV TOKYO",
-  "updated_at": "2026-10-05T21:52:55.577016",
+  "updated_at": "2026-10-06T20:02:15.110997",
   "videos": [
+    {
+      "id": "I22cTghtf9o",
+      "title": "あちこちオードリー",
+      "description": "",
+      "publishedAt": "2026-10-06T16:15:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I22cTghtf9o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I22cTghtf9o"
+    },
+    {
+      "id": "Q0w6xOJ5YLU",
+      "title": "あちこちオードリー",
+      "description": "",
+      "publishedAt": "2026-10-06T16:15:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Q0w6xOJ5YLU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Q0w6xOJ5YLU"
+    },
+    {
+      "id": "TEUS5rLxjY4",
+      "title": "あちこちオードリー",
+      "description": "",
+      "publishedAt": "2026-10-06T16:15:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TEUS5rLxjY4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TEUS5rLxjY4"
+    },
+    {
+      "id": "aiWAFa1PpBY",
+      "title": "あちこちオードリー",
+      "description": "",
+      "publishedAt": "2026-10-06T16:15:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aiWAFa1PpBY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aiWAFa1PpBY"
+    },
+    {
+      "id": "T6a9JyeSku0",
+      "title": "世の中お金で見てみよう ～火曜ヨルの学べる経済～【病院をお金で見てみよう】予告",
+      "description": "",
+      "publishedAt": "2026-10-06T14:54:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T6a9JyeSku0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T6a9JyeSku0"
+    },
+    {
+      "id": "2KjfPdXLc8Q",
+      "title": "みどりをつなぐヒト#205　太陽光パネル火災に特化した黒い泡の消火剤　北九州市立大学　河野智謙",
+      "description": "",
+      "publishedAt": "2026-10-06T14:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2KjfPdXLc8Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2KjfPdXLc8Q"
+    },
+    {
+      "id": "_AMegabin9U",
+      "title": "【予告】みどりをつなぐヒト #206【木から抽出した香りのシロップ・ジャム】浅沼醤油店　浅沼宏一",
+      "description": "",
+      "publishedAt": "2026-10-06T14:06:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_AMegabin9U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_AMegabin9U"
+    },
+    {
+      "id": "-PRqDH-lvS0",
+      "title": "東京ＧＯＯＤ！ＴＲＥＡＳＵＲＥ ＭＡＰ ＃386【手仕事が紡ぐ伝統織物と息づく里山の風景・武蔵村山市】",
+      "description": "",
+      "publishedAt": "2026-10-06T12:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-PRqDH-lvS0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-PRqDH-lvS0"
+    },
+    {
+      "id": "VZ0Lz1-jxZA",
+      "title": "東京GOOD#386 OA10/6",
+      "description": "",
+      "publishedAt": "2026-10-06T12:59:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VZ0Lz1-jxZA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VZ0Lz1-jxZA"
+    },
+    {
+      "id": "9PkOjqVX1L0",
+      "title": "【予告】開運！なんでも鑑定団",
+      "description": "",
+      "publishedAt": "2026-10-06T12:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9PkOjqVX1L0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9PkOjqVX1L0"
+    },
+    {
+      "id": "fNwjQDJruJM",
+      "title": "【予告】おてがらさん～秒で決断！あなたならどうする！？",
+      "description": "",
+      "publishedAt": "2026-10-06T11:53:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fNwjQDJruJM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fNwjQDJruJM"
+    },
+    {
+      "id": "GdQQNe9jn4o",
+      "title": "【期間限定】絶メシロード #3〜4 中年サラリーマンの週末限定一泊二日の小さな冒険が今始まる…！｜濱津隆之【公式】",
+      "description": "",
+      "publishedAt": "2026-10-06T11:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GdQQNe9jn4o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GdQQNe9jn4o"
+    },
+    {
+      "id": "6dfhbUKQ5ik",
+      "title": "魅惑のウィスパーボイス 耳元でささやく極上のASMR #家、ついて行ってイイですか？",
+      "description": "",
+      "publishedAt": "2026-10-06T09:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6dfhbUKQ5ik/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6dfhbUKQ5ik"
+    },
+    {
+      "id": "KlcsnMRIAe0",
+      "title": "LBS（ローカルビジネスサテライト）　10月12日(月)午前10時5分放送【番宣】",
+      "description": "",
+      "publishedAt": "2026-10-06T07:38:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KlcsnMRIAe0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KlcsnMRIAe0"
+    },
     {
       "id": "RUJfRqrau7M",
       "title": "【予告】「妻を引退します」第2話｜テレビ東京",

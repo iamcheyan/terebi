@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-10-05T21:53:07.025111",
+  "updated_at": "2026-10-06T20:02:53.753253",
   "videos": [
+    {
+      "id": "DIeN4y8dBZQ",
+      "title": "【ABSあきたアプリ】ラジオCM『翻訳』",
+      "description": "",
+      "publishedAt": "2026-10-06T10:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DIeN4y8dBZQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DIeN4y8dBZQ"
+    },
+    {
+      "id": "7CS8X5Zz7ac",
+      "title": "【ABSあきたアプリ】ラジオCM『つづ』",
+      "description": "",
+      "publishedAt": "2026-10-06T09:30:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7CS8X5Zz7ac/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7CS8X5Zz7ac"
+    },
+    {
+      "id": "BVmxp_n6ZtU",
+      "title": "【ABSあきたアプリ】ラジオCM『愛犬』",
+      "description": "",
+      "publishedAt": "2026-10-06T09:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BVmxp_n6ZtU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BVmxp_n6ZtU"
+    },
     {
       "id": "5gF06lxJ_kk",
       "title": "【特別配信】南野陽子さん・ABSまつりステージトーク",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-10-05T21:53:19.077266",
+  "updated_at": "2026-10-06T20:03:07.926163",
   "videos": [
+    {
+      "id": "45EURllN5AE",
+      "title": "【大分市】天使のかき氷（2026年9月16日放送分）",
+      "description": "",
+      "publishedAt": "2026-10-06T01:27:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/45EURllN5AE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=45EURllN5AE"
+    },
     {
       "id": "yn0sIAo5ReA",
       "title": "【大分市】ソフト海援隊（2026年9月16日放送分）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-10-03T18:35:07.955213",
+  "updated_at": "2026-10-06T20:02:40.598214",
   "videos": [
+    {
+      "id": "H1a9-8vM7bo",
+      "title": "直木賞作家・今村翔吾がカフェをOPEN",
+      "description": "",
+      "publishedAt": "2026-10-06T01:36:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/H1a9-8vM7bo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=H1a9-8vM7bo"
+    },
+    {
+      "id": "xxvN_ofGPlw",
+      "title": "【あさは５ちゃん！】2026年10月10日放送",
+      "description": "",
+      "publishedAt": "2026-10-06T01:20:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xxvN_ofGPlw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xxvN_ofGPlw"
+    },
     {
       "id": "B0OlM2pNp_8",
       "title": "第５２回ＹＴＳ杯山形県ママさんバレーボール優勝大会",

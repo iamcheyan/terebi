@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-10-02T19:48:24.729786",
+  "updated_at": "2026-10-06T20:02:38.257915",
   "videos": [
+    {
+      "id": "ZIrk099D_lQ",
+      "title": "President Donald Trump rally LIVE from Grand Island",
+      "description": "",
+      "publishedAt": "2026-10-06T13:47:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZIrk099D_lQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZIrk099D_lQ"
+    },
     {
       "id": "NX0Xzs6ayJA",
       "title": "Dan Osborn Red Cloud Town Hall",
