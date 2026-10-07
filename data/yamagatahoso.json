@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-10-04T18:35:49.034131",
+  "updated_at": "2026-10-07T20:28:24.245332",
   "videos": [
+    {
+      "id": "iA19iskpZNg",
+      "title": "【番組】ＡＩ時代にあらためて考える、人間らしさとは何か？",
+      "description": "",
+      "publishedAt": "2026-10-07T03:13:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iA19iskpZNg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iA19iskpZNg"
+    },
     {
       "id": "RkVqrt0irCk",
       "title": "第65回山形県少年の主張大会・全国大会予選会【2026年】",

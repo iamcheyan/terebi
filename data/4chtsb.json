@@ -1,8 +1,56 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-10-06T20:03:15.008360",
+  "updated_at": "2026-10-07T20:28:20.309630",
   "videos": [
+    {
+      "id": "ABrYrpFRU1A",
+      "title": "【インタビュー】セイコーエプソン・宮島佳孝さん",
+      "description": "",
+      "publishedAt": "2026-10-07T09:59:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ABrYrpFRU1A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ABrYrpFRU1A"
+    },
+    {
+      "id": "frj9FA1OwBQ",
+      "title": "【インタビュー】セイコーエプソン・川瀬裕司さん",
+      "description": "",
+      "publishedAt": "2026-10-07T09:58:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/frj9FA1OwBQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=frj9FA1OwBQ"
+    },
+    {
+      "id": "O1zpD1JNauA",
+      "title": "【インタビュー】フォトグラファー・磯部昭子さん",
+      "description": "",
+      "publishedAt": "2026-10-07T09:55:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O1zpD1JNauA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O1zpD1JNauA"
+    },
+    {
+      "id": "eOGUp4WW1nA",
+      "title": "【インタビュー】写真家・佐藤大史さん",
+      "description": "",
+      "publishedAt": "2026-10-07T09:53:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eOGUp4WW1nA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eOGUp4WW1nA"
+    },
     {
       "id": "Lf0Hn_UmNmo",
       "title": "【松本市美術館で開催中】Sustainable World　－佐藤大史・磯部昭子 ふたりの視点から－",

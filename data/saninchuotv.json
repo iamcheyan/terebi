@@ -1,8 +1,32 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-10-06T20:02:13.567732",
+  "updated_at": "2026-10-07T20:27:57.937161",
   "videos": [
+    {
+      "id": "qLeAAuhs9cw",
+      "title": "予告【しまねっこの宅配便X】10/14（水）放送「小さな拠点づくり」",
+      "description": "",
+      "publishedAt": "2026-10-07T12:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qLeAAuhs9cw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qLeAAuhs9cw"
+    },
+    {
+      "id": "AD2lSHeRng8",
+      "title": "【ソノタネ2.0】#21～アサヒビール～",
+      "description": "",
+      "publishedAt": "2026-10-07T01:09:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AD2lSHeRng8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AD2lSHeRng8"
+    },
     {
       "id": "pguGbePQoss",
       "title": "【しまねっこの宅配便X】#20「知ってほしい犯罪被害者支援～ひとりで悩まないで～」",

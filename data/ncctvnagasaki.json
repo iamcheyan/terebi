@@ -1,8 +1,188 @@
 {
   "channel_id": "UCWkqxFZQSdkR_q8kGz6p9mw",
   "channel_name": "NCC長崎文化放送",
-  "updated_at": "2026-10-06T20:03:06.471237",
+  "updated_at": "2026-10-07T20:28:13.859326",
   "videos": [
+    {
+      "id": "AnlxF9B3b90",
+      "title": "【後編】長崎くんち グルメで楽しむ踊町｜元船町・上町・筑後町",
+      "description": "",
+      "publishedAt": "2026-10-07T11:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AnlxF9B3b90/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AnlxF9B3b90"
+    },
+    {
+      "id": "DgVkmN2wQHQ",
+      "title": "【前編】長崎くんち グルメで楽しむ踊町｜今籠町・油屋町・鍛冶屋町",
+      "description": "",
+      "publishedAt": "2026-10-07T11:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DgVkmN2wQHQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DgVkmN2wQHQ"
+    },
+    {
+      "id": "pwABg1okQ0U",
+      "title": "諏訪神社で伝統の秋祭り 長崎くんち開幕 三番町・元船町「唐船祭」",
+      "description": "",
+      "publishedAt": "2026-10-07T10:44:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pwABg1okQ0U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pwABg1okQ0U"
+    },
+    {
+      "id": "Wva12N18UF4",
+      "title": "長崎くんち「お下り」全力疾走して神様の力を高める「もりこみ」",
+      "description": "",
+      "publishedAt": "2026-10-07T10:42:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wva12N18UF4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wva12N18UF4"
+    },
+    {
+      "id": "dNMxJHGmTt8",
+      "title": "奉納踊の後に諏訪神社で「流鏑馬神事」 長崎くんちの成功と市民の幸せを祈願",
+      "description": "",
+      "publishedAt": "2026-10-07T10:40:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dNMxJHGmTt8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dNMxJHGmTt8"
+    },
+    {
+      "id": "3ohh1ZS3mu8",
+      "title": "諏訪神社で伝統の秋祭り 長崎くんち開幕 六番町・筑後町「龍踊」",
+      "description": "",
+      "publishedAt": "2026-10-07T10:39:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3ohh1ZS3mu8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3ohh1ZS3mu8"
+    },
+    {
+      "id": "uDU0bgoiE34",
+      "title": "諏訪神社で伝統の秋祭り 長崎くんち開幕 五番町・鍛冶屋町「七福神寳船」",
+      "description": "",
+      "publishedAt": "2026-10-07T10:37:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uDU0bgoiE34/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uDU0bgoiE34"
+    },
+    {
+      "id": "qjypCP_uX3s",
+      "title": "諏訪神社で伝統の秋祭り 長崎くんち開幕 四番町・上町「上町コッコデショ」",
+      "description": "",
+      "publishedAt": "2026-10-07T10:35:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qjypCP_uX3s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qjypCP_uX3s"
+    },
+    {
+      "id": "rBjjRHLh8wA",
+      "title": "諏訪神社で伝統の秋祭り 長崎くんち開幕 二番町・油屋町「川船」",
+      "description": "",
+      "publishedAt": "2026-10-07T10:33:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rBjjRHLh8wA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rBjjRHLh8wA"
+    },
+    {
+      "id": "srjF2CHdZSw",
+      "title": "諏訪神社で伝統の秋祭り 長崎くんち開幕 一番町・今籠町「本踊」",
+      "description": "",
+      "publishedAt": "2026-10-07T10:32:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/srjF2CHdZSw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=srjF2CHdZSw"
+    },
+    {
+      "id": "pRPZHO5Seu4",
+      "title": "【陸上】100ｍ特化の新大会『宅島Ｇスプリント』日本記録保持者・山縣亮太選手が長崎に！大会アンバサダー・池田成諒選手はまさかのアクシデント…",
+      "description": "",
+      "publishedAt": "2026-10-07T09:42:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pRPZHO5Seu4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pRPZHO5Seu4"
+    },
+    {
+      "id": "_ZpBU8GJU1Q",
+      "title": "楽しもう！トコトン長崎くんち",
+      "description": "",
+      "publishedAt": "2026-10-07T09:22:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_ZpBU8GJU1Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_ZpBU8GJU1Q"
+    },
+    {
+      "id": "m7YkoNuDDuY",
+      "title": "【長崎くんち】六番町　筑後町・龍踊",
+      "description": "",
+      "publishedAt": "2026-10-07T06:04:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m7YkoNuDDuY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m7YkoNuDDuY"
+    },
+    {
+      "id": "R1e9AhHkeVQ",
+      "title": "【長崎くんち】五番町　鍛冶屋町・七福神寳船",
+      "description": "",
+      "publishedAt": "2026-10-07T05:29:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R1e9AhHkeVQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R1e9AhHkeVQ"
+    },
+    {
+      "id": "sFB06PPsgJI",
+      "title": "【長崎くんち】四番町　上町・上町コッコデショ",
+      "description": "",
+      "publishedAt": "2026-10-07T05:19:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sFB06PPsgJI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sFB06PPsgJI"
+    },
     {
       "id": "zo_5DINhWug",
       "title": "あす開幕！長崎くんちの見どころ 六番町・筑後町「龍踊」",

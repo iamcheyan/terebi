@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-10-06T20:02:50.087210",
+  "updated_at": "2026-10-07T20:27:48.104321",
   "videos": [
+    {
+      "id": "Lonbg4JsKQQ",
+      "title": "【特集】築100年の蔵を未来へつなぐ“曳家”／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-10-07T09:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Lonbg4JsKQQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Lonbg4JsKQQ"
+    },
+    {
+      "id": "5yIAvM_xKcE",
+      "title": "京都・時代祭行列の新調衣装披露【きょうとDays】｜時代祭つなぐプロジェクト",
+      "description": "",
+      "publishedAt": "2026-10-07T08:18:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5yIAvM_xKcE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5yIAvM_xKcE"
+    },
     {
       "id": "U7COUHH91VA",
       "title": "【特集】自動搬送＆AI活用した養蚕プラント／きょうと経済テラス キュンと！",

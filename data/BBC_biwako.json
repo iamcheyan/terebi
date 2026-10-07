@@ -1,8 +1,44 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-10-06T20:02:09.654570",
+  "updated_at": "2026-10-07T20:27:40.729125",
   "videos": [
+    {
+      "id": "KU9vEEofFs4",
+      "title": "「保存」と「使いやすさ」　彦根市で歴史的建造物のバリアフリーを考える",
+      "description": "",
+      "publishedAt": "2026-10-07T09:32:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KU9vEEofFs4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KU9vEEofFs4"
+    },
+    {
+      "id": "pCUbUkPphe4",
+      "title": "トレイルランとウォーキング　２つの「ＢＩＷＡ１００」大会が同日開催　関係者が副知事を表敬訪問",
+      "description": "",
+      "publishedAt": "2026-10-07T09:30:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pCUbUkPphe4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pCUbUkPphe4"
+    },
+    {
+      "id": "gQnJaskO_F0",
+      "title": "【記者解説】冬眠前のツキノワグマに注意　滋賀県の状況は―",
+      "description": "",
+      "publishedAt": "2026-10-07T09:27:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gQnJaskO_F0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gQnJaskO_F0"
+    },
     {
       "id": "plnW7_AVIW0",
       "title": "全国の図書館員が投票　「本の甲子園」で初代大賞が決定！",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-10-06T20:03:08.801523",
+  "updated_at": "2026-10-07T20:28:15.016179",
   "videos": [
+    {
+      "id": "egEL-UU2jCw",
+      "title": "第1話 首里城の姿を追い求めた人々の物語",
+      "description": "",
+      "publishedAt": "2026-10-07T10:08:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/egEL-UU2jCw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=egEL-UU2jCw"
+    },
+    {
+      "id": "YpZc87SaGxs",
+      "title": "【PR】むすぶ首里城～復元10の物語～",
+      "description": "",
+      "publishedAt": "2026-10-07T09:13:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YpZc87SaGxs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YpZc87SaGxs"
+    },
+    {
+      "id": "CSXKEVehmOY",
+      "title": "#07 ほけんを学ぼう「会社経営者の保険」",
+      "description": "",
+      "publishedAt": "2026-10-07T07:47:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CSXKEVehmOY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CSXKEVehmOY"
+    },
+    {
+      "id": "MvsUKI4U_xo",
+      "title": "シンガーソングライター森恵さんのSOLENA",
+      "description": "",
+      "publishedAt": "2026-10-07T07:32:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MvsUKI4U_xo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MvsUKI4U_xo"
+    },
     {
       "id": "NpjYAWzxIO0",
       "title": "#27 日本屈指のリゾート地 自然豊かな村 恩納村をお散歩【恩納村】",

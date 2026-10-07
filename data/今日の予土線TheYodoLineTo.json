@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-06T20:03:27.759437",
+  "updated_at": "2026-10-07T20:28:29.546837",
   "videos": [
+    {
+      "id": "W9XRDVdrcpc",
+      "title": "261007 135253 麓踏切",
+      "description": "",
+      "publishedAt": "2026-10-07T11:08:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W9XRDVdrcpc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W9XRDVdrcpc"
+    },
+    {
+      "id": "oJGSRMiemu0",
+      "title": "261007 134822 麓踏切（すまいるえきちゃん号通過）",
+      "description": "",
+      "publishedAt": "2026-10-07T10:52:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oJGSRMiemu0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oJGSRMiemu0"
+    },
+    {
+      "id": "FyxltoHPlvw",
+      "title": "261007 134303 麓踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-10-07T10:48:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FyxltoHPlvw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FyxltoHPlvw"
+    },
     {
       "id": "-wSRGIRLLbo",
       "title": "261006 155536 増田踏切 ２",

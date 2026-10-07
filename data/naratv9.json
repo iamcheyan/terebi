@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-10-06T20:02:31.848373",
+  "updated_at": "2026-10-07T20:27:46.524689",
   "videos": [
+    {
+      "id": "mOh6kU2lCqs",
+      "title": "10月2日（金）放送｜奈良テレビ「ゆうドキッ！」内「いきいきまちだより」",
+      "description": "",
+      "publishedAt": "2026-10-07T03:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mOh6kU2lCqs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mOh6kU2lCqs"
+    },
     {
       "id": "-R01mt4DWbo",
       "title": "【スポドキッ！】秋季近畿地区高校野球大会県予選決勝 智辯学園×奈良大附",
