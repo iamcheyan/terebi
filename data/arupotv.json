@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-10-07T20:28:16.487734",
+  "updated_at": "2026-10-08T20:34:05.270393",
   "videos": [
+    {
+      "id": "SEDZDlqlLps",
+      "title": "【番宣】１０月１２日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-10-08T07:36:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SEDZDlqlLps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SEDZDlqlLps"
+    },
+    {
+      "id": "kknDHFmTKiw",
+      "title": "【番宣】１０月１４日（水）わが街のラーメン国宝",
+      "description": "",
+      "publishedAt": "2026-10-08T06:24:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kknDHFmTKiw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kknDHFmTKiw"
+    },
+    {
+      "id": "xADUoaXK_UM",
+      "title": "【RKKテレビ】「おしゃべり！クッキンキッズ」毎週金曜 放送中！",
+      "description": "",
+      "publishedAt": "2026-10-08T06:14:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xADUoaXK_UM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xADUoaXK_UM"
+    },
     {
       "id": "v-4Lnbbp26o",
       "title": "【番宣】１０月９日（金）NEWSゲツキン",

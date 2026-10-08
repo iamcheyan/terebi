@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-07T20:28:29.546837",
+  "updated_at": "2026-10-08T20:34:23.353024",
   "videos": [
+    {
+      "id": "kMuGJ7EfdmI",
+      "title": "261008 155512 兼近第３踏切（みきゃん列車通過）",
+      "description": "",
+      "publishedAt": "2026-10-08T10:47:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kMuGJ7EfdmI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kMuGJ7EfdmI"
+    },
+    {
+      "id": "junhpnRMbgI",
+      "title": "261008 155100 兼近第３踏切 ２",
+      "description": "",
+      "publishedAt": "2026-10-08T10:41:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/junhpnRMbgI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=junhpnRMbgI"
+    },
+    {
+      "id": "MBBUrh_m6V8",
+      "title": "261008 154735 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-10-08T10:20:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MBBUrh_m6V8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MBBUrh_m6V8"
+    },
     {
       "id": "W9XRDVdrcpc",
       "title": "261007 135253 麓踏切",

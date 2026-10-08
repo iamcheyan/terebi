@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-10-07T20:28:20.984487",
+  "updated_at": "2026-10-08T20:34:11.554118",
   "videos": [
+    {
+      "id": "HJ8kOZmY4nM",
+      "title": "今日の５きげんテレビ（10月9日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-10-08T15:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HJ8kOZmY4nM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HJ8kOZmY4nM"
+    },
+    {
+      "id": "LQEEaV8bVl0",
+      "title": "キムチホルモン | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-10-08T08:55:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LQEEaV8bVl0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LQEEaV8bVl0"
+    },
+    {
+      "id": "_2JPTXVOREQ",
+      "title": "栗駒山で紅葉・グルメ・温泉を日帰りで楽しもう！｜岩手・一関市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-10-08T08:50:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_2JPTXVOREQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_2JPTXVOREQ"
+    },
     {
       "id": "d7Li8PnjcF0",
       "title": "今日の５きげんテレビ（10月8日）｜テレビ岩手",

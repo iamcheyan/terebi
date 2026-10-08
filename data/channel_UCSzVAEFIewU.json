@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-10-06T20:02:48.095520",
+  "updated_at": "2026-10-08T20:33:17.182600",
   "videos": [
+    {
+      "id": "HYEJySVC7kw",
+      "title": "松山三越８０周年…歴史と展望を探る",
+      "description": "",
+      "publishedAt": "2026-10-08T10:59:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HYEJySVC7kw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HYEJySVC7kw"
+    },
+    {
+      "id": "Hi8txSo3Zog",
+      "title": "【交通拠点を刷新】“再開発”松山市駅前は今",
+      "description": "",
+      "publishedAt": "2026-10-08T10:35:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hi8txSo3Zog/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hi8txSo3Zog"
+    },
     {
       "id": "pNnIqS6C3MA",
       "title": "【ゆ～ばら！】「東予・洋風 焼き鯛めし」を大特集！【第３弾】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCdNYphHZdRYjpys_gwofUNQ",
   "channel_name": "ATV青森テレビ",
-  "updated_at": "2026-10-07T20:27:58.265401",
+  "updated_at": "2026-10-08T20:33:15.070729",
   "videos": [
+    {
+      "id": "fV0XpDzHqy4",
+      "title": "遮断機が下りて津波避難の妨げに 東日本大震災を教訓に訓練",
+      "description": "",
+      "publishedAt": "2026-10-08T07:05:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fV0XpDzHqy4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fV0XpDzHqy4"
+    },
+    {
+      "id": "VLxtJcBZYVM",
+      "title": "つなぐ⻘森 熊本×⻘森 ①井戸水",
+      "description": "",
+      "publishedAt": "2026-10-08T06:57:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VLxtJcBZYVM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VLxtJcBZYVM"
+    },
     {
       "id": "9HgRvpJCaOM",
       "title": "つなぐ⻘森 熊本×⻘森 ②寄り添い支援",

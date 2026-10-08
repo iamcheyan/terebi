@@ -1,8 +1,44 @@
 {
   "channel_id": "UCD8zqZumr5CzsmXCMPZVA2g",
   "channel_name": "三重テレビ",
-  "updated_at": "2026-10-07T20:28:29.035567",
+  "updated_at": "2026-10-08T20:34:22.821655",
   "videos": [
+    {
+      "id": "IhtRApmtRkw",
+      "title": "伊賀市の母娘死亡　母親殺害の疑いで交際相手の男を再逮捕",
+      "description": "",
+      "publishedAt": "2026-10-08T01:10:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IhtRApmtRkw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IhtRApmtRkw"
+    },
+    {
+      "id": "Cja4NbUcHHk",
+      "title": "御在所岳に新展望テラス「FURURU」　10月10日オープン　鈴鹿山脈や琵琶湖などの絶景を一望",
+      "description": "",
+      "publishedAt": "2026-10-08T00:21:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cja4NbUcHHk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cja4NbUcHHk"
+    },
+    {
+      "id": "0ajz0H1mb_k",
+      "title": "住宅・教育・老後…将来必要なお金をどう備える？　鳥羽商船高専で金融講座",
+      "description": "",
+      "publishedAt": "2026-10-08T00:11:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0ajz0H1mb_k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0ajz0H1mb_k"
+    },
     {
       "id": "jKVtitZUu-c",
       "title": "内水氾濫にどう備える？ 小学生が30秒の防災動画を制作",

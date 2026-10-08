@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-10-07T20:27:33.231873",
+  "updated_at": "2026-10-08T20:33:43.688862",
   "videos": [
+    {
+      "id": "V_1GogXZX1c",
+      "title": "吉田鋼太郎×中島颯太「きんつくろい -金繕い-」スペシャル対談",
+      "description": "",
+      "publishedAt": "2026-10-08T14:34:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V_1GogXZX1c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V_1GogXZX1c"
+    },
+    {
+      "id": "8VlOgpDZoME",
+      "title": "まもなく放送！『きんつくろい』完成披露イベント吉田鋼太郎、中島颯太 登壇！",
+      "description": "",
+      "publishedAt": "2026-10-08T08:21:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8VlOgpDZoME/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8VlOgpDZoME"
+    },
     {
       "id": "MPImi3_6VBo",
       "title": "10/14水曜22時「ポリティカルパン」【2話15秒予告】",

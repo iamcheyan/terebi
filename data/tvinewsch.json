@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-07T20:27:46.175864",
+  "updated_at": "2026-10-08T20:33:19.217988",
   "videos": [
+    {
+      "id": "oXQ-JMXGjEo",
+      "title": "【奥深き額装の世界】絵画や写真などを額縁に収める「額装」の奥深き世界を紹介します",
+      "description": "",
+      "publishedAt": "2026-10-08T12:38:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oXQ-JMXGjEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oXQ-JMXGjEo"
+    },
+    {
+      "id": "qbQRlJcpDOM",
+      "title": "【宮古湾海戦 軍艦「高雄」物語】戊辰戦争で舞台のひとつになった宮古湾などの戦場をたどる",
+      "description": "",
+      "publishedAt": "2026-10-08T12:23:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qbQRlJcpDOM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qbQRlJcpDOM"
+    },
+    {
+      "id": "kcIita8zJlE",
+      "title": "元気○（マル）らいふ　【どうなる？秋のクマ】（2026/10/7放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-10-08T07:16:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kcIita8zJlE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kcIita8zJlE"
+    },
     {
       "id": "9miFviRhIiE",
       "title": "【自主回収対象 1万点以上】ＪＡ全農いわてが基準値を超えるカビ毒が検出された県産の小麦をことし２月に誤って出荷",

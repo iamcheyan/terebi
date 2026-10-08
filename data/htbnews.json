@@ -1,8 +1,188 @@
 {
   "channel_id": "UCSWOnDD1KIriGmyQ7SgNA4A",
   "channel_name": "HTB Hokkaido News",
-  "updated_at": "2026-10-07T20:28:06.258647",
+  "updated_at": "2026-10-08T20:33:54.318869",
   "videos": [
+    {
+      "id": "AYG87ECfCdg",
+      "title": "【LIVE】１０月８日（木）お昼の北海道のニュースとお天気",
+      "description": "",
+      "publishedAt": "2026-10-08T17:42:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AYG87ECfCdg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AYG87ECfCdg"
+    },
+    {
+      "id": "uqw7_FhwIXc",
+      "title": "腐敗が進んだ遺体は施錠された物置で発見　死体遺棄事件の可能性も　北海道小樽市",
+      "description": "",
+      "publishedAt": "2026-10-08T10:24:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uqw7_FhwIXc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uqw7_FhwIXc"
+    },
+    {
+      "id": "StiGYw9Off8",
+      "title": "高校の先生がお仕事を体験「生徒の進路指導にいかせる」 企業側も高校生の採用を重視",
+      "description": "",
+      "publishedAt": "2026-10-08T10:24:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/StiGYw9Off8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=StiGYw9Off8"
+    },
+    {
+      "id": "rQm-eQ2sG-8",
+      "title": "札幌市でインフルエンザ注意報　統計開始以来2番目の早さ　大きな流行になる恐れ",
+      "description": "",
+      "publishedAt": "2026-10-08T10:23:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rQm-eQ2sG-8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rQm-eQ2sG-8"
+    },
+    {
+      "id": "CABZUcQxuiw",
+      "title": "腐敗した遺体が発見された住宅　世帯主は施設に入所中　警察が身元の確認を急ぐ　北海道小樽市",
+      "description": "",
+      "publishedAt": "2026-10-08T10:23:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CABZUcQxuiw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CABZUcQxuiw"
+    },
+    {
+      "id": "i6nTv7Kiirc",
+      "title": "腐敗が進んだ遺体は施錠された物置で発見　死体遺棄事件の可能性も　北海道小樽市",
+      "description": "",
+      "publishedAt": "2026-10-08T10:18:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i6nTv7Kiirc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i6nTv7Kiirc"
+    },
+    {
+      "id": "Fh_ltXBRqHE",
+      "title": "腐敗した遺体が発見された住宅　世帯主は施設に入所中　警察が身元の確認を急ぐ　北海道小樽市",
+      "description": "",
+      "publishedAt": "2026-10-08T10:16:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fh_ltXBRqHE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fh_ltXBRqHE"
+    },
+    {
+      "id": "fQNvKf9gGN8",
+      "title": "高校の先生がお仕事を体験「生徒の進路指導にいかせる」 企業側も高校生の採用を重視",
+      "description": "",
+      "publishedAt": "2026-10-08T10:11:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fQNvKf9gGN8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fQNvKf9gGN8"
+    },
+    {
+      "id": "oWrKQVlV1eE",
+      "title": "交通事故によるまひに北大病院が国内初の治療　脳が傷ついた50代男性に再生医療製品「アクーゴ」投与",
+      "description": "",
+      "publishedAt": "2026-10-08T09:55:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oWrKQVlV1eE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oWrKQVlV1eE"
+    },
+    {
+      "id": "tIxFONBamh0",
+      "title": "ミニチュア写真家・田中達也さん展覧会　来場者３万人突破で記念セレモニー　札幌",
+      "description": "",
+      "publishedAt": "2026-10-08T09:55:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tIxFONBamh0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tIxFONBamh0"
+    },
+    {
+      "id": "XGOMv0Sgr3E",
+      "title": "道東・厚岸町の国道で車転落し男性意識不明　札幌・北区で標識折れる単独事故",
+      "description": "",
+      "publishedAt": "2026-10-08T09:54:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XGOMv0Sgr3E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XGOMv0Sgr3E"
+    },
+    {
+      "id": "15wtrAudX1s",
+      "title": "札幌・白石署の警察官が妻にDVか　暴行容疑で逮捕 「態度に腹が立った」と供述",
+      "description": "",
+      "publishedAt": "2026-10-08T09:54:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/15wtrAudX1s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=15wtrAudX1s"
+    },
+    {
+      "id": "viiXX9yQY0U",
+      "title": "札幌市でインフルエンザ注意報　統計開始以来2番目の早さ　大きな流行になる恐れ",
+      "description": "",
+      "publishedAt": "2026-10-08T09:44:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/viiXX9yQY0U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=viiXX9yQY0U"
+    },
+    {
+      "id": "q7jsufcR070",
+      "title": "交通事故によるまひに北大病院が国内初の治療　脳が傷ついた50代男性に再生医療製品「アクーゴ」投与",
+      "description": "",
+      "publishedAt": "2026-10-08T09:42:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q7jsufcR070/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q7jsufcR070"
+    },
+    {
+      "id": "EclHIUSgSP8",
+      "title": "道東・厚岸町の国道で車転落し男性意識不明　札幌・北区で標識折れる単独事故",
+      "description": "",
+      "publishedAt": "2026-10-08T09:31:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EclHIUSgSP8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EclHIUSgSP8"
+    },
     {
       "id": "Qf8_R0iCVTs",
       "title": "【LIVE】１０月７日（水）お昼の北海道のニュースとお天気",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXScRoBNwPISEKWqBXeGiwQ",
   "channel_name": "I LOVE NIIGATA!!",
-  "updated_at": "2026-10-07T20:27:52.731556",
+  "updated_at": "2026-10-08T20:33:26.666482",
   "videos": [
+    {
+      "id": "4So_jfdrw5k",
+      "title": "【HY仲宗根泉】自由！とにかく食べる！",
+      "description": "",
+      "publishedAt": "2026-10-08T08:30:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4So_jfdrw5k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4So_jfdrw5k"
+    },
+    {
+      "id": "yQKV_cfS9dw",
+      "title": "【新曲ロケ】HYの止まらない沖縄愛",
+      "description": "",
+      "publishedAt": "2026-10-08T03:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yQKV_cfS9dw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yQKV_cfS9dw"
+    },
     {
       "id": "rj9WhjaXV1Y",
       "title": "【HY許田信介】熱血丸太切り！",

@@ -1,8 +1,68 @@
 {
   "channel_id": "UC1wYVW1ckPFokkVJMkZfZUw",
   "channel_name": "FBC福井放送",
-  "updated_at": "2026-06-25T17:13:11.205749",
+  "updated_at": "2026-10-08T20:33:51.730643",
   "videos": [
+    {
+      "id": "1m81JrGQ9y8",
+      "title": "Na Casa da Vovó",
+      "description": "",
+      "publishedAt": "2026-10-08T10:04:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1m81JrGQ9y8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1m81JrGQ9y8"
+    },
+    {
+      "id": "OT3eQjV7h3k",
+      "title": "Por Que Eu?",
+      "description": "",
+      "publishedAt": "2026-10-08T10:04:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OT3eQjV7h3k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OT3eQjV7h3k"
+    },
+    {
+      "id": "_rhd0H4fBDA",
+      "title": "90 Minutos",
+      "description": "",
+      "publishedAt": "2026-10-08T10:04:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_rhd0H4fBDA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_rhd0H4fBDA"
+    },
+    {
+      "id": "9K4CLIxQNKA",
+      "title": "Chá de Alho Com Mel",
+      "description": "",
+      "publishedAt": "2026-10-08T10:02:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9K4CLIxQNKA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9K4CLIxQNKA"
+    },
+    {
+      "id": "XU-DQpRK6Lg",
+      "title": "Greve das Crianças",
+      "description": "",
+      "publishedAt": "2026-10-08T10:01:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XU-DQpRK6Lg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XU-DQpRK6Lg"
+    },
     {
       "id": "Nb7DBC5-Pgw",
       "title": "Rumo ao Hexa",
