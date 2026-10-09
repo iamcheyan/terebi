@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-10-08T20:34:10.338340",
+  "updated_at": "2026-10-09T20:02:27.964725",
   "videos": [
+    {
+      "id": "Cl7xyb-F6UU",
+      "title": "【公式】2026年10月16日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-10-09T11:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Cl7xyb-F6UU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Cl7xyb-F6UU"
+    },
+    {
+      "id": "xLElXKh6e6M",
+      "title": "【公式】「はじめてのドヤ顔」（10月09日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-10-09T03:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xLElXKh6e6M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xLElXKh6e6M"
+    },
     {
       "id": "ZTtY70Ub9UY",
       "title": "【お弁当、もった？】#15 須恵町 中１女子へつくる部活弁当",

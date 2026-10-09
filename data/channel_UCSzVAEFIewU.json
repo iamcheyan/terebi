@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-10-08T20:33:17.182600",
+  "updated_at": "2026-10-09T20:01:54.599296",
   "videos": [
+    {
+      "id": "ZQrAmpZJFkU",
+      "title": "四国中央市のＢ級グルメ「しこちゅ～バリバリ」",
+      "description": "",
+      "publishedAt": "2026-10-09T05:50:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZQrAmpZJFkU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZQrAmpZJFkU"
+    },
+    {
+      "id": "ArNmB7WeOdo",
+      "title": "【道後秋祭り】７年ぶりに復活した大唐人神輿！伝統文化の継承に向け奮闘する人たちに密着",
+      "description": "",
+      "publishedAt": "2026-10-09T05:50:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ArNmB7WeOdo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ArNmB7WeOdo"
+    },
     {
       "id": "HYEJySVC7kw",
       "title": "松山三越８０周年…歴史と展望を探る",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-10-04T18:34:40.220960",
+  "updated_at": "2026-10-09T20:01:27.447464",
   "videos": [
+    {
+      "id": "hY0MqV8O8V8",
+      "title": "ユーチューニャーのおしごとずかん｜農園のおしごと 編",
+      "description": "",
+      "publishedAt": "2026-10-09T03:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hY0MqV8O8V8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hY0MqV8O8V8"
+    },
     {
       "id": "3EFfTc71GcI",
       "title": "ギターリペアマン｜受け継がれていく音",

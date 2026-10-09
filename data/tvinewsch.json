@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-08T20:33:19.217988",
+  "updated_at": "2026-10-09T20:01:35.261392",
   "videos": [
+    {
+      "id": "0LK1MRd6QQU",
+      "title": "【わんカメＬＩＶＥ】野菜や果物、コメなど食品価格の現状と見通しについて盛岡市内のスーパーから中継",
+      "description": "",
+      "publishedAt": "2026-10-09T05:09:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0LK1MRd6QQU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0LK1MRd6QQU"
+    },
     {
       "id": "oXQ-JMXGjEo",
       "title": "【奥深き額装の世界】絵画や写真などを額縁に収める「額装」の奥深き世界を紹介します",

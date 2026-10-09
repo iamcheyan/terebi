@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-10-08T20:34:03.423872",
+  "updated_at": "2026-10-09T20:02:20.846184",
   "videos": [
+    {
+      "id": "QITfJdfuUQA",
+      "title": "【大分市】古材ステンシル工房 wood word（2026年9月30日放送分）",
+      "description": "",
+      "publishedAt": "2026-10-09T05:10:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QITfJdfuUQA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QITfJdfuUQA"
+    },
+    {
+      "id": "0t-IJoapPcs",
+      "title": "OBSラジオ『えとう窓口の、大分がんばる人！』🗓️10/11(日)16時30分〜　💁‍♀️がんばる人！(ゲスト)：株式会社DFSB 代表取締役 野尻 陸生さん",
+      "description": "",
+      "publishedAt": "2026-10-09T02:42:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0t-IJoapPcs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0t-IJoapPcs"
+    },
     {
       "id": "lrLZeGiGYMw",
       "title": "【大分市】hashi cafe（2026年9月30日放送分）",

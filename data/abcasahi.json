@@ -1,8 +1,80 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-10-08T20:33:12.425294",
+  "updated_at": "2026-10-09T20:01:53.660664",
   "videos": [
+    {
+      "id": "pf-rXQmpGms",
+      "title": "「news おかえり」10月13日(火)午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-10-09T07:45:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pf-rXQmpGms/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pf-rXQmpGms"
+    },
+    {
+      "id": "vaS6ed2IMRI",
+      "title": "新番組「濱口♡アッキーナのおでかけ時間」10月16日（金）放送",
+      "description": "",
+      "publishedAt": "2026-10-09T07:42:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vaS6ed2IMRI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vaS6ed2IMRI"
+    },
+    {
+      "id": "cYuAXlOReRQ",
+      "title": "「news おかえり」10月12日(月)午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-10-09T07:42:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cYuAXlOReRQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cYuAXlOReRQ"
+    },
+    {
+      "id": "_8ET-zuV8KM",
+      "title": "「やすとものいたって真剣です」10月15日（木）よる11時17分放送！",
+      "description": "",
+      "publishedAt": "2026-10-09T06:39:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_8ET-zuV8KM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_8ET-zuV8KM"
+    },
+    {
+      "id": "60JrmsNW2Tg",
+      "title": "「相席食堂」10月13日（火）よる放送！",
+      "description": "",
+      "publishedAt": "2026-10-09T01:17:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/60JrmsNW2Tg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=60JrmsNW2Tg"
+    },
+    {
+      "id": "pATEPnnsir0",
+      "title": "海外の旅はスイス！ゲストの旅は須賀健太！「旅サラダ」10月10日（土）放送",
+      "description": "",
+      "publishedAt": "2026-10-09T00:59:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pATEPnnsir0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pATEPnnsir0"
+    },
     {
       "id": "HnZUmAv_Oss",
       "title": "「なるみ・岡村の過ぎるTV」10月12日（月）放送",
