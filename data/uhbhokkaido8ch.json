@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-10-09T20:02:32.861623",
+  "updated_at": "2026-10-10T19:10:45.545003",
   "videos": [
+    {
+      "id": "B3U_xF-CIRM",
+      "title": "松岡の北の夕飲み　10月17日（土）よる6時30分放送",
+      "description": "",
+      "publishedAt": "2026-10-10T10:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B3U_xF-CIRM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B3U_xF-CIRM"
+    },
+    {
+      "id": "-BUI3KprJPw",
+      "title": "いっとこ！：10月17日（土）放送",
+      "description": "",
+      "publishedAt": "2026-10-10T02:30:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-BUI3KprJPw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-BUI3KprJPw"
+    },
     {
       "id": "gpuilWQtXwM",
       "title": "みんテレ　10月12日（月）放送",

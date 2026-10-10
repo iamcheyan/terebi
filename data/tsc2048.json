@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-10-09T20:01:40.433724",
+  "updated_at": "2026-10-10T19:09:47.891638",
   "videos": [
+    {
+      "id": "ZDjmekOUz9I",
+      "title": "産業と芸術 ー瀬戸内産業芸術祭2026ー　SETOUCHI × ART & INDUSTRY",
+      "description": "",
+      "publishedAt": "2026-10-10T03:30:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZDjmekOUz9I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZDjmekOUz9I"
+    },
     {
       "id": "kqit7brrkWI",
       "title": "岡山県信用保証協会スペシャル　未来へ挑む！晴れの国カンパニー　＃25　親和建設",

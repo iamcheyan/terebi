@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-10-09T20:01:30.622974",
+  "updated_at": "2026-10-10T19:10:05.518902",
   "videos": [
+    {
+      "id": "aGDR1WeIgq0",
+      "title": "手作りおばさんが作る自家製酵母パン｜宇治市｜【ふるさとDays】",
+      "description": "",
+      "publishedAt": "2026-10-10T01:59:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aGDR1WeIgq0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aGDR1WeIgq0"
+    },
     {
       "id": "O0TI5ptvqiI",
       "title": "【アプリ開発】あえて不便なメッセージアプリtsuuを開発 ／きょうと経済テラス キュンと！",

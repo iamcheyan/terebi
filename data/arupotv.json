@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-10-08T20:34:05.270393",
+  "updated_at": "2026-10-10T19:10:38.007615",
   "videos": [
+    {
+      "id": "BJmggbiZmbo",
+      "title": "【番宣】１０月１７日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-10-10T08:30:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BJmggbiZmbo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BJmggbiZmbo"
+    },
+    {
+      "id": "7FUbvlvpBFI",
+      "title": "第11回 ミライのタネ【農業大学校 野菜学科】",
+      "description": "",
+      "publishedAt": "2026-10-10T08:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7FUbvlvpBFI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7FUbvlvpBFI"
+    },
     {
       "id": "SEDZDlqlLps",
       "title": "【番宣】１０月１２日（月）NEWSゲツキン",

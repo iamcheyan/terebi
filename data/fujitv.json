@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-10-09T20:01:46.739386",
+  "updated_at": "2026-10-10T19:10:16.839944",
   "videos": [
+    {
+      "id": "vl7N4d1128Y",
+      "title": "SPコメンタリー「きんつくろい -金繕い-」吉田鋼太郎×中島颯太",
+      "description": "",
+      "publishedAt": "2026-10-10T10:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vl7N4d1128Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vl7N4d1128Y"
+    },
+    {
+      "id": "VY_dUTHGKps",
+      "title": "10月17日(土)午後4時放送「ハンズ渋谷！超便利アイテムの正体は？」相葉◎×部/フジテレビ",
+      "description": "",
+      "publishedAt": "2026-10-10T07:30:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VY_dUTHGKps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VY_dUTHGKps"
+    },
     {
       "id": "r5p-N0ba2Vk",
       "title": "10月10日土曜よるからはドッキリGP！",

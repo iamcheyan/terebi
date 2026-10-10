@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-10-09T20:01:57.931138",
+  "updated_at": "2026-10-10T19:10:01.152820",
   "videos": [
+    {
+      "id": "ROAUc69BzRc",
+      "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/10/10放送",
+      "description": "",
+      "publishedAt": "2026-10-10T01:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ROAUc69BzRc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ROAUc69BzRc"
+    },
     {
       "id": "3FqLMCuOnJ4",
       "title": "アキ助の自由さに振り回される内場勝則w",

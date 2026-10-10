@@ -1,8 +1,32 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-10-09T20:02:19.650593",
+  "updated_at": "2026-10-10T19:10:36.992699",
   "videos": [
+    {
+      "id": "fDpOAGldV0Y",
+      "title": "楽しく防災と天気を学ぶ",
+      "description": "",
+      "publishedAt": "2026-10-10T08:51:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fDpOAGldV0Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fDpOAGldV0Y"
+    },
+    {
+      "id": "AQKNG0sl2h4",
+      "title": "ＪＲ九州　会員メールアドレス漏えいのおそれ",
+      "description": "",
+      "publishedAt": "2026-10-10T08:51:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AQKNG0sl2h4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AQKNG0sl2h4"
+    },
     {
       "id": "xwRU2FCp_G8",
       "title": "災害時に自分の命を守るために　ＡＲで消火・避難を学ぶ　さくらの杜高等支援学校",

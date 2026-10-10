@@ -1,8 +1,20 @@
 {
   "channel_id": "UCJf85jSgFayOSsZfJ051ZKw",
   "channel_name": "TOKYO MX（東京メトロポリタンテレビジョン）",
-  "updated_at": "2026-10-09T20:01:29.318638",
+  "updated_at": "2026-10-10T19:09:54.634420",
   "videos": [
+    {
+      "id": "5oSg7gGu_s0",
+      "title": "【特集】八丈島の台風被災から1年。少しずつ戻る日常と、変わらぬ課題とは",
+      "description": "",
+      "publishedAt": "2026-10-10T05:32:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5oSg7gGu_s0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5oSg7gGu_s0"
+    },
     {
       "id": "xNKHMQCftOo",
       "title": "酒気帯び勤務などで“一部船舶の使用停止命令”　東海汽船が臨時ダイヤで運航開始　減便で島民の足に影響も",

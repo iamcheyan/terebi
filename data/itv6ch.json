@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-10-09T20:02:34.524314",
+  "updated_at": "2026-10-10T19:10:46.911025",
   "videos": [
+    {
+      "id": "vjTb4AsBsAw",
+      "title": "愛媛のニュース(10月10日)",
+      "description": "",
+      "publishedAt": "2026-10-10T11:31:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vjTb4AsBsAw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vjTb4AsBsAw"
+    },
     {
       "id": "8agRWXkmg64",
       "title": "【くったり感】松山に移住しリアルなぬいぐるみを作る夫婦",

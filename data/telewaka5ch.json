@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-10-09T20:01:36.285783",
+  "updated_at": "2026-10-10T19:10:15.398306",
   "videos": [
+    {
+      "id": "ClkoiH1mqt8",
+      "title": "あのじゅうよ〜 第218回「県庁周辺のあのじゅうやで〜」",
+      "description": "",
+      "publishedAt": "2026-10-10T14:30:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ClkoiH1mqt8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ClkoiH1mqt8"
+    },
     {
       "id": "CKI5skdA7l0",
       "title": "「弁慶まつり」 武蔵坊弁慶・生誕の地と伝わる和歌山県田辺市",

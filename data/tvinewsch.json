@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-09T20:01:35.261392",
+  "updated_at": "2026-10-10T19:10:08.391295",
   "videos": [
+    {
+      "id": "C-Lc99SwyVM",
+      "title": "【気象予報士穴澤さんのあな天】秋は空を見よう！",
+      "description": "",
+      "publishedAt": "2026-10-10T00:07:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/C-Lc99SwyVM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=C-Lc99SwyVM"
+    },
     {
       "id": "0LK1MRd6QQU",
       "title": "【わんカメＬＩＶＥ】野菜や果物、コメなど食品価格の現状と見通しについて盛岡市内のスーパーから中継",
