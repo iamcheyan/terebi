@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTWatTAOnFVB0vwIetZCTHw",
   "channel_name": "TUYテレビユー山形",
-  "updated_at": "2026-10-10T19:10:42.447773",
+  "updated_at": "2026-10-11T19:24:00.105298",
   "videos": [
+    {
+      "id": "sH_8ceR9DK0",
+      "title": "“ものづくり”は“ひとづくり”",
+      "description": "",
+      "publishedAt": "2026-10-11T04:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sH_8ceR9DK0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sH_8ceR9DK0"
+    },
     {
       "id": "M8qEt80JJK8",
       "title": "【驚きのスイーツ爆誕！】パイ菓子もドリンクもなめらかジェラートも！？",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCu8GW2WcGp_9Lic2wZY_IVg",
   "channel_name": "KAB熊本朝日放送",
-  "updated_at": "2026-10-09T20:02:11.649967",
+  "updated_at": "2026-10-11T19:23:48.156783",
   "videos": [
+    {
+      "id": "B7ROxqgEmuU",
+      "title": "「誰よりも早く！誰よりも多く！」スポGOMI甲子園県大会",
+      "description": "",
+      "publishedAt": "2026-10-10T21:58:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B7ROxqgEmuU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B7ROxqgEmuU"
+    },
+    {
+      "id": "QeP_MspPqVI",
+      "title": "3連休初日　熊本市の銀座通りが歩行者天国に　「震災復興支援　くまもとまちなか祭」",
+      "description": "",
+      "publishedAt": "2026-10-10T21:57:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QeP_MspPqVI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QeP_MspPqVI"
+    },
     {
       "id": "FdabUmDaFUg",
       "title": "【熊本NEWS】10月9日(金)まとめ～127件の不正行為 住宅メーカーが謝罪・「ユニクロ」ゆめタウン光の森店リニューアル・地震からの復興計画の作成が本格化・コメ農家の苦悩 7週連続で価格は下落　など",

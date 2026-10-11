@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-10-10T19:10:16.839944",
+  "updated_at": "2026-10-11T19:23:19.404552",
   "videos": [
+    {
+      "id": "lEmmGKPIWBs",
+      "title": "『救命病棟24時』スペシャル見どころ【10月12日月曜よる9時スタート】",
+      "description": "",
+      "publishedAt": "2026-10-11T14:14:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lEmmGKPIWBs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lEmmGKPIWBs"
+    },
+    {
+      "id": "6ZIhyleEUN0",
+      "title": "江口洋介×松嶋菜々子『救命病棟24時』30秒見どころ【10月12日月曜よる9時スタート】",
+      "description": "",
+      "publishedAt": "2026-10-10T21:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6ZIhyleEUN0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6ZIhyleEUN0"
+    },
     {
       "id": "vl7N4d1128Y",
       "title": "SPコメンタリー「きんつくろい -金繕い-」吉田鋼太郎×中島颯太",

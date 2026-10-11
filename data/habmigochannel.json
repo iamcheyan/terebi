@@ -1,8 +1,20 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-10-10T19:10:21.142814",
+  "updated_at": "2026-10-11T19:23:35.738986",
   "videos": [
+    {
+      "id": "5TxJIMXRaFk",
+      "title": "金沢城・兼六園大茶会　おもてなし",
+      "description": "",
+      "publishedAt": "2026-10-11T09:24:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5TxJIMXRaFk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5TxJIMXRaFk"
+    },
     {
       "id": "rT8EPmEYQlI",
       "title": "北陸ラーメン博始まる",

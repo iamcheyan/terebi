@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-10-09T20:02:29.617528",
+  "updated_at": "2026-10-11T19:24:00.375450",
   "videos": [
+    {
+      "id": "moLZuRv4A3g",
+      "title": "5きげん知恵袋 ～早生ふじ系りんご～",
+      "description": "",
+      "publishedAt": "2026-10-09T08:55:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/moLZuRv4A3g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=moLZuRv4A3g"
+    },
     {
       "id": "kR11bELX-uk",
       "title": "【アナたちのドラマ推し推し！駅伝】１０月１０日スタートの土曜ドラマ「俺たちの箱根駅伝」。テレビ岩手のアナウンサーが推したい気持ちを語りあう！（#2）",

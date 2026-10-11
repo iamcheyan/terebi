@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-10-10T19:10:33.826709",
+  "updated_at": "2026-10-11T19:23:50.932221",
   "videos": [
+    {
+      "id": "pFbzlK1DrwA",
+      "title": "いまコレ！かごしま市　10月11日（日）",
+      "description": "",
+      "publishedAt": "2026-10-11T06:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pFbzlK1DrwA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pFbzlK1DrwA"
+    },
     {
       "id": "Fu6wAGydHMs",
       "title": "【わんにゃんプラスかごしま】「犬猫の一時預かりサポーター大募集」",

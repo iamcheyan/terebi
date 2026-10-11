@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-10-10T19:09:55.671921",
+  "updated_at": "2026-10-11T19:23:37.750845",
   "videos": [
+    {
+      "id": "eZt2RQkxZ2I",
+      "title": "ハマナビ　2026年10月10日放送　ココロとカラダを整える　ハマの養生術",
+      "description": "",
+      "publishedAt": "2026-10-11T05:03:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eZt2RQkxZ2I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eZt2RQkxZ2I"
+    },
+    {
+      "id": "-MIVP_y5vIo",
+      "title": "【ねんど de 障子堀&畝堀】河村城 前編 『中島卓偉のお城へ行こう！せーの、キャッスル！キャッスル！』",
+      "description": "",
+      "publishedAt": "2026-10-11T00:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-MIVP_y5vIo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-MIVP_y5vIo"
+    },
     {
       "id": "GCOxYxUW1SM",
       "title": "ハマナビ　次回予告（10月17日放送）",

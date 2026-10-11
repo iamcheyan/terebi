@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-10-10T19:09:53.621065",
+  "updated_at": "2026-10-11T19:23:30.213592",
   "videos": [
+    {
+      "id": "T5gsbW-uHfU",
+      "title": "食遺産File.266「旨みたっぷり！とろみ肉味噌」＠奈良県・山添村",
+      "description": "",
+      "publishedAt": "2026-10-11T03:45:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T5gsbW-uHfU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T5gsbW-uHfU"
+    },
     {
       "id": "hR8Di7-VzlE",
       "title": "【よゐこ有野】この街、攻略しとく？クリスタ長堀をぶーらぶら～約100店舗が集結！地下街グルメ＆お買い物スポットを徹底攻略の巻～",
