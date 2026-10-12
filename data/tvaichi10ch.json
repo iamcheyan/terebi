@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-10-10T19:10:09.362988",
+  "updated_at": "2026-10-12T22:25:48.756671",
   "videos": [
+    {
+      "id": "AQM_jA4ZMAE",
+      "title": "【LBS】異業種からの参入 スタートアップと取り組む農業",
+      "description": "",
+      "publishedAt": "2026-10-12T12:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AQM_jA4ZMAE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AQM_jA4ZMAE"
+    },
     {
       "id": "cZKgdrv6YYQ",
       "title": "【甲冑体験】戦国時代にタイムスリップ！関ケ原笹尾山交流館（岐阜県関ケ原町）【あまドラ～天野っちのドライブしよう！！～】",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-10-11T19:23:19.404552",
+  "updated_at": "2026-10-12T22:25:59.477344",
   "videos": [
+    {
+      "id": "ldrQprXWWbQ",
+      "title": "Da-iCE主題歌解禁！木10『波うららかに、めおと日和』1話本予告映像！10/15(木)スタート",
+      "description": "",
+      "publishedAt": "2026-10-12T22:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ldrQprXWWbQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ldrQprXWWbQ"
+    },
+    {
+      "id": "PUkepVOOvg0",
+      "title": "「≠ME 名無しのシンデレラ」第二話　≠MEになる覚悟はありますか？（ダイジェスト版）",
+      "description": "",
+      "publishedAt": "2026-10-12T17:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PUkepVOOvg0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PUkepVOOvg0"
+    },
+    {
+      "id": "8jv6fhpM5QM",
+      "title": "『救命病棟24時』2話予告【10月19日(月)よる9時】",
+      "description": "",
+      "publishedAt": "2026-10-12T13:09:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8jv6fhpM5QM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8jv6fhpM5QM"
+    },
     {
       "id": "lEmmGKPIWBs",
       "title": "『救命病棟24時』スペシャル見どころ【10月12日月曜よる9時スタート】",

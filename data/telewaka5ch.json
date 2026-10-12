@@ -1,8 +1,32 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-10-10T19:10:15.398306",
+  "updated_at": "2026-10-12T22:26:14.272279",
   "videos": [
+    {
+      "id": "NAchZzAjFRY",
+      "title": "暮らしのカルチャータイム　ガーデニング入門　　第21回",
+      "description": "",
+      "publishedAt": "2026-10-12T05:15:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NAchZzAjFRY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NAchZzAjFRY"
+    },
+    {
+      "id": "AYgl2VNM6E8",
+      "title": "膵臓癌の早期診断～きのくにプロジェクト～【わかやま医療ナビ】",
+      "description": "",
+      "publishedAt": "2026-10-12T00:30:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AYgl2VNM6E8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AYgl2VNM6E8"
+    },
     {
       "id": "ClkoiH1mqt8",
       "title": "あのじゅうよ〜 第218回「県庁周辺のあのじゅうやで〜」",

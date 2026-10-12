@@ -1,8 +1,20 @@
 {
   "channel_id": "UCoc4gX4ZhI8TMBpv8EJMnXQ",
   "channel_name": "KUTVテレビ高知",
-  "updated_at": "2026-10-10T19:09:52.089260",
+  "updated_at": "2026-10-12T22:26:19.198923",
   "videos": [
+    {
+      "id": "3B7Xz036qAI",
+      "title": "【高知！中高生ニュース】野市中学校　剣道部",
+      "description": "",
+      "publishedAt": "2026-10-12T00:30:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3B7Xz036qAI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3B7Xz036qAI"
+    },
     {
       "id": "WACS-eO86zk",
       "title": "ライフカードpresents【Life of Ryoma】＃４０龍馬と勝海舟",
