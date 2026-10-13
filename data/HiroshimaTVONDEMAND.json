@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-10-12T22:25:57.483253",
+  "updated_at": "2026-10-13T20:32:56.755536",
   "videos": [
+    {
+      "id": "PqtGGapPFuM",
+      "title": "われら！シン・呉Tuber＃23「芸術の秋！ 高橋 秀の世界」",
+      "description": "",
+      "publishedAt": "2026-10-13T10:00:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PqtGGapPFuM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PqtGGapPFuM"
+    },
+    {
+      "id": "3hCwtgwRf4E",
+      "title": "【キッズチャレンジスタジアム】ひなたくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-10-13T09:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3hCwtgwRf4E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3hCwtgwRf4E"
+    },
     {
       "id": "V0oihDjoEPI",
       "title": "第515回　ひろおく便り　庄原市　国営備北丘陵公園　ひばの里「わら細工体験」",

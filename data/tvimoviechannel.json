@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-10-12T22:26:46.146352",
+  "updated_at": "2026-10-13T20:33:28.529350",
   "videos": [
+    {
+      "id": "Z6iSewKgJvo",
+      "title": "今日の５きげんテレビ（10月14日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-10-13T15:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z6iSewKgJvo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z6iSewKgJvo"
+    },
+    {
+      "id": "3QIRNai43Tw",
+      "title": "新体験！「映え」ドーナツでお昼ごはん！？",
+      "description": "",
+      "publishedAt": "2026-10-13T10:27:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3QIRNai43Tw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3QIRNai43Tw"
+    },
+    {
+      "id": "6OlSThPbXVY",
+      "title": "たっぷりキノコのハンバーグ ～赤ワインみそソース～ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-10-13T08:48:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6OlSThPbXVY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6OlSThPbXVY"
+    },
     {
       "id": "DCKIhh0VnII",
       "title": "今日の５きげんテレビ（10月13日）｜テレビ岩手",

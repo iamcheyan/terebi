@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-10-11T19:23:23.769528",
+  "updated_at": "2026-10-13T20:32:51.574929",
   "videos": [
+    {
+      "id": "V_vGfiTlzbw",
+      "title": "島田洋七の朝から言わせろ～愛せよ乙女～",
+      "description": "",
+      "publishedAt": "2026-10-13T09:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V_vGfiTlzbw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V_vGfiTlzbw"
+    },
     {
       "id": "bpXLG2vw4OY",
       "title": "日の隈窯｜和紙とだみ筆",

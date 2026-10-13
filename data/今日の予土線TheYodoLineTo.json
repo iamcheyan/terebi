@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-12T22:26:57.921780",
+  "updated_at": "2026-10-13T20:33:38.386640",
   "videos": [
+    {
+      "id": "NAhQeD1sWPs",
+      "title": "261013 175121 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-10-13T12:10:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NAhQeD1sWPs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NAhQeD1sWPs"
+    },
+    {
+      "id": "barvafJTQxY",
+      "title": "261013 174614 大内第１踏切 ２",
+      "description": "",
+      "publishedAt": "2026-10-13T12:05:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/barvafJTQxY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=barvafJTQxY"
+    },
+    {
+      "id": "9-aAFKLF2hU",
+      "title": "261013 174232 大内第１踏切",
+      "description": "",
+      "publishedAt": "2026-10-13T11:47:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9-aAFKLF2hU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9-aAFKLF2hU"
+    },
     {
       "id": "6F2dVvxZXR8",
       "title": "261012 155739 深田第４踏切",

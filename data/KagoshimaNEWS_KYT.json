@@ -1,8 +1,188 @@
 {
   "channel_id": "UCiyk6cY1ux2HCDycnMTksdg",
   "channel_name": "KYT鹿児島読売テレビ",
-  "updated_at": "2026-10-12T22:26:35.589105",
+  "updated_at": "2026-10-13T20:33:18.881670",
   "videos": [
+    {
+      "id": "U5H3PPy4efU",
+      "title": "「放課後を再定義する」全国初の挑戦  鹿児島で注目のアフタースクール　英会話や防災教室で広がる学び",
+      "description": "",
+      "publishedAt": "2026-10-13T10:24:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U5H3PPy4efU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U5H3PPy4efU"
+    },
+    {
+      "id": "D8DO3RcgJ2o",
+      "title": "【中継・鹿児島中央駅】九州新幹線　始発からストップ　鹿児島中央駅ー熊本駅は終日運転見合わせ",
+      "description": "",
+      "publishedAt": "2026-10-13T10:23:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D8DO3RcgJ2o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D8DO3RcgJ2o"
+    },
+    {
+      "id": "FLz1iqrAgGY",
+      "title": "日本一の「県産和牛」が最大1500円引きに　26日から県のキャンペーン　県内外190店舗で",
+      "description": "",
+      "publishedAt": "2026-10-13T10:16:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FLz1iqrAgGY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FLz1iqrAgGY"
+    },
+    {
+      "id": "sFNK-fXsDBI",
+      "title": "ディズニーストア17年ぶり鹿児島へ　アミュプラザ鹿児島が大型リニューアル　九州・南九州初出店も11店舗",
+      "description": "",
+      "publishedAt": "2026-10-13T10:16:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sFNK-fXsDBI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sFNK-fXsDBI"
+    },
+    {
+      "id": "ip0EYRZohkU",
+      "title": "運転士「これから頑張る」肥薩おれんじ鉄道が77日ぶりに全線再開　熊本地震で被災",
+      "description": "",
+      "publishedAt": "2026-10-13T10:16:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ip0EYRZohkU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ip0EYRZohkU"
+    },
+    {
+      "id": "p2WJ9Loyr3s",
+      "title": "新スタジアム巡り県・鹿児島市が意見交換――塩田知事は負担明言せず　下鶴市長は「オール鹿児島」強調",
+      "description": "",
+      "publishedAt": "2026-10-13T10:16:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p2WJ9Loyr3s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p2WJ9Loyr3s"
+    },
+    {
+      "id": "72pCiudZgtc",
+      "title": "元々は“遊園地”20年愛される鹿児島市のフレスポジャングルパークがリニューアルのため14日から一時休業へ",
+      "description": "",
+      "publishedAt": "2026-10-13T10:16:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/72pCiudZgtc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=72pCiudZgtc"
+    },
+    {
+      "id": "wifuV7kVIy0",
+      "title": "10月13日ニュースのまとめ　県産和牛の消費拡大へ鹿児島県が割引企画　アミュ鹿児島大刷新へ春までに約50店舗オープン　商業施設フレスポ一時休業来夏リニューアル予定　など",
+      "description": "",
+      "publishedAt": "2026-10-13T10:14:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wifuV7kVIy0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wifuV7kVIy0"
+    },
+    {
+      "id": "6iEcRS7cI5k",
+      "title": "熊本地震から77日　肥薩おれんじ鉄道が全線復旧",
+      "description": "",
+      "publishedAt": "2026-10-13T09:57:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6iEcRS7cI5k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6iEcRS7cI5k"
+    },
+    {
+      "id": "dX2qNiw1j6Y",
+      "title": "商業施設フレスポ　一時休業　来夏リニューアル予定",
+      "description": "",
+      "publishedAt": "2026-10-13T09:57:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dX2qNiw1j6Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dX2qNiw1j6Y"
+    },
+    {
+      "id": "FIZEjZX41Iw",
+      "title": "県産和牛の消費拡大へ　鹿児島県が割引企画",
+      "description": "",
+      "publishedAt": "2026-10-13T09:53:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FIZEjZX41Iw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FIZEjZX41Iw"
+    },
+    {
+      "id": "eL6h43p0HGU",
+      "title": "鹿児島新スタジアム　知事と市長が意見交換",
+      "description": "",
+      "publishedAt": "2026-10-13T09:53:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eL6h43p0HGU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eL6h43p0HGU"
+    },
+    {
+      "id": "MPmKgliMMuo",
+      "title": "ロッチ中岡さんホッケーで子どもたちと交流　薩摩川内市スポーツフェスタ",
+      "description": "",
+      "publishedAt": "2026-10-13T07:56:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MPmKgliMMuo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MPmKgliMMuo"
+    },
+    {
+      "id": "6dYdWasaSOY",
+      "title": "「もう真っ白」九州新幹線が運転見合わせ　全線での運転再開は午後6時ごろの見込み",
+      "description": "",
+      "publishedAt": "2026-10-13T05:25:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6dYdWasaSOY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6dYdWasaSOY"
+    },
+    {
+      "id": "yd4Ho0-7VpA",
+      "title": "「もう真っ白」九州新幹線が運転見合わせ　全線での運転再開は午後6時ごろの見込み",
+      "description": "",
+      "publishedAt": "2026-10-13T03:15:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yd4Ho0-7VpA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yd4Ho0-7VpA"
+    },
     {
       "id": "GBcwWEdr_rg",
       "title": "温泉に柿？　秋の風物詩　さつま町紫尾温泉の「あおし柿作り」",

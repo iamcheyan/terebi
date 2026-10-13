@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-10-11T19:23:58.990228",
+  "updated_at": "2026-10-13T20:33:26.879942",
   "videos": [
+    {
+      "id": "I2FQlEBHtp0",
+      "title": "【公式】ピタッと。TNCまつり2026｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-10-13T10:05:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I2FQlEBHtp0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I2FQlEBHtp0"
+    },
     {
       "id": "5Qx_40JC9Kk",
       "title": "【公式】「ハヤカワ カオリ／ジュエリー作家」ミライへの１minute｜テレビ西日本",

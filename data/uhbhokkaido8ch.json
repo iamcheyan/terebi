@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-10-12T22:26:50.073767",
+  "updated_at": "2026-10-13T20:33:31.378000",
   "videos": [
+    {
+      "id": "3_WNITRBTag",
+      "title": "みんテレ　10月14日（水）放送",
+      "description": "",
+      "publishedAt": "2026-10-13T10:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3_WNITRBTag/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3_WNITRBTag"
+    },
+    {
+      "id": "UKFEexy6QpY",
+      "title": "【UHB杯ジャンプ】二階堂蓮「飛躍の年」五輪3メダル＆第1子誕生と激動の1年を振り返る――スキージャンプ",
+      "description": "",
+      "publishedAt": "2026-10-13T10:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UKFEexy6QpY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UKFEexy6QpY"
+    },
     {
       "id": "AsBMION4sus",
       "title": "みんテレ　10月13日（火）放送",
