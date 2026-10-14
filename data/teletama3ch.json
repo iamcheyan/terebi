@@ -1,8 +1,20 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-10-13T20:32:35.430833",
+  "updated_at": "2026-10-14T19:13:39.147998",
   "videos": [
+    {
+      "id": "JGrk96S8WNo",
+      "title": "Episode１　北区花火会　準備しまっせ",
+      "description": "",
+      "publishedAt": "2026-10-14T13:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JGrk96S8WNo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JGrk96S8WNo"
+    },
     {
       "id": "epCOLqmkeXM",
       "title": "【いろはに千鳥】もうすぐガチ岩津めしレジェンド【10/20予告】",

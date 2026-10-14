@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-10-13T20:33:32.862103",
+  "updated_at": "2026-10-14T19:14:14.187411",
   "videos": [
+    {
+      "id": "gG84aASr_GE",
+      "title": "愛媛のニュース(10月14日)",
+      "description": "",
+      "publishedAt": "2026-10-14T11:39:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gG84aASr_GE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gG84aASr_GE"
+    },
+    {
+      "id": "Kv0x1k17of4",
+      "title": "地域と駆ける 宇和高陸上部",
+      "description": "",
+      "publishedAt": "2026-10-14T08:05:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kv0x1k17of4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kv0x1k17of4"
+    },
     {
       "id": "wchfpbqxc8o",
       "title": "愛媛のニュース(10月13日)",

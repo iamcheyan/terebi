@@ -1,8 +1,32 @@
 {
   "channel_id": "UCqHczYty3emqunOz4dZFFqw",
   "channel_name": "テレビ静岡（テレしず）",
-  "updated_at": "2026-10-12T22:25:51.658412",
+  "updated_at": "2026-10-14T19:13:39.542255",
   "videos": [
+    {
+      "id": "KJtTu4AC7o4",
+      "title": "10/25(日)昼12時から生放送『西部✖中部✖東部！しずおかサイコーGP』",
+      "description": "",
+      "publishedAt": "2026-10-14T09:48:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KJtTu4AC7o4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KJtTu4AC7o4"
+    },
+    {
+      "id": "s3KL07IKZCc",
+      "title": "10/25(日)昼12時から生放送『西部✖中部✖東部！しずおかサイコーGP』",
+      "description": "",
+      "publishedAt": "2026-10-14T09:32:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s3KL07IKZCc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s3KL07IKZCc"
+    },
     {
       "id": "ngJER2KThXA",
       "title": "【＃サカろう】第110回　「アジアとアフリカで大会ができないか」ブラジルとの差は縮まったが、スペインやフランスは先へ…",

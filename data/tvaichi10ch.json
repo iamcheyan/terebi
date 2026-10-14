@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-10-13T20:32:38.102482",
+  "updated_at": "2026-10-14T19:13:28.351137",
   "videos": [
+    {
+      "id": "6BUSXFrnXeA",
+      "title": "【LBS】苦境の静岡茶 眠る価値見える化で再生",
+      "description": "",
+      "publishedAt": "2026-10-14T12:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6BUSXFrnXeA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6BUSXFrnXeA"
+    },
+    {
+      "id": "MdBeRXkhpos",
+      "title": "#02　夫婦の息抜き「アイ・アイ・スタイル」",
+      "description": "",
+      "publishedAt": "2026-10-14T06:54:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MdBeRXkhpos/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MdBeRXkhpos"
+    },
     {
       "id": "ma2QkFkyhEs",
       "title": "【小島プレス工業】自動車の内装・外装部品を中心に、幅広い自動車部品を製造【開発現場へ行こう #84】",

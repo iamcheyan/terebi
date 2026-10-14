@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-10-13T20:33:22.131610",
+  "updated_at": "2026-10-14T19:14:02.136539",
   "videos": [
+    {
+      "id": "3e3Ul44SGwc",
+      "title": "【別府市】酒氷 本店（2026年10月7日放送分）",
+      "description": "",
+      "publishedAt": "2026-10-14T04:20:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3e3Ul44SGwc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3e3Ul44SGwc"
+    },
     {
       "id": "sRZ-ZDWWcks",
       "title": "【別府市】ごはんとカフェ FUKU FUKU（2026年10月7日放送分）",

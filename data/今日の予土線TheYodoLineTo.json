@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-13T20:33:38.386640",
+  "updated_at": "2026-10-14T19:14:19.406842",
   "videos": [
+    {
+      "id": "osUgZ7yzbbI",
+      "title": "261014 160008 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-10-14T12:16:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/osUgZ7yzbbI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=osUgZ7yzbbI"
+    },
+    {
+      "id": "-mc1Mf-fIvA",
+      "title": "261014 155535 深田第２踏切",
+      "description": "",
+      "publishedAt": "2026-10-14T12:14:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-mc1Mf-fIvA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-mc1Mf-fIvA"
+    },
+    {
+      "id": "2C1MIJySEHk",
+      "title": "261014 154125 沢松第１踏切 ２",
+      "description": "",
+      "publishedAt": "2026-10-14T11:44:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2C1MIJySEHk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2C1MIJySEHk"
+    },
+    {
+      "id": "mG6JTzhz3So",
+      "title": "261014 153322 沢松第１踏切",
+      "description": "",
+      "publishedAt": "2026-10-14T11:27:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mG6JTzhz3So/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mG6JTzhz3So"
+    },
+    {
+      "id": "4x1YJ-hEqPQ",
+      "title": "261014 152938 沢松第１踏切",
+      "description": "",
+      "publishedAt": "2026-10-14T11:23:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4x1YJ-hEqPQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4x1YJ-hEqPQ"
+    },
     {
       "id": "NAhQeD1sWPs",
       "title": "261013 175121 大内第１踏切",
