@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-10-14T19:14:09.386596",
+  "updated_at": "2026-10-15T18:56:37.991371",
   "videos": [
+    {
+      "id": "m2clN8ke3jw",
+      "title": "今日の５きげんテレビ（10月16日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-10-15T15:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m2clN8ke3jw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m2clN8ke3jw"
+    },
+    {
+      "id": "GXyEo39901U",
+      "title": "ミニパンプキンパイ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-10-15T08:43:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GXyEo39901U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GXyEo39901U"
+    },
     {
       "id": "wzaT8dW7DP0",
       "title": "今日の５きげんテレビ（10月15日）｜テレビ岩手",

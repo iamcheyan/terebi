@@ -1,8 +1,56 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-10-14T19:13:22.291728",
+  "updated_at": "2026-10-15T18:56:12.893698",
   "videos": [
+    {
+      "id": "Wm3HzWNu3WE",
+      "title": "WIB HERO'S 10月特別版 #3",
+      "description": "",
+      "publishedAt": "2026-10-15T16:30:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wm3HzWNu3WE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wm3HzWNu3WE"
+    },
+    {
+      "id": "UjDCujMZtIU",
+      "title": "大規模災害時に帰宅困難者の一時滞在 和歌山市とホテル運営会社 協定締結",
+      "description": "",
+      "publishedAt": "2026-10-15T10:07:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UjDCujMZtIU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UjDCujMZtIU"
+    },
+    {
+      "id": "TgReNK8-QOg",
+      "title": "暮らしのカルチャータイム　ガーデニング入門　　第24回",
+      "description": "",
+      "publishedAt": "2026-10-15T05:15:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TgReNK8-QOg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TgReNK8-QOg"
+    },
+    {
+      "id": "aabk4y4aJh4",
+      "title": "和歌山で働こう！カンパニーガイド【株式会社たにぐち】",
+      "description": "",
+      "publishedAt": "2026-10-15T00:32:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aabk4y4aJh4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aabk4y4aJh4"
+    },
     {
       "id": "S3l9cDJt4JY",
       "title": "和歌山市 市民のメールアドレスなど個人情報が漏洩した可能性 災害情報通信サービス 提供会社に不正アクセス",

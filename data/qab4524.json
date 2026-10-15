@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-10-14T19:14:02.560144",
+  "updated_at": "2026-10-15T18:56:31.628475",
   "videos": [
+    {
+      "id": "OYFRs6MHIVg",
+      "title": "八洲学園",
+      "description": "",
+      "publishedAt": "2026-10-15T07:33:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OYFRs6MHIVg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OYFRs6MHIVg"
+    },
     {
       "id": "U725cdLUjqQ",
       "title": "第2話 思いと技が刻まれた大龍柱",

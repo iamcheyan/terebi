@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-10-14T19:14:03.765413",
+  "updated_at": "2026-10-15T18:56:32.617265",
   "videos": [
+    {
+      "id": "e8lxGUyGgls",
+      "title": "【番宣】１０月１９日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-10-15T07:25:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e8lxGUyGgls/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e8lxGUyGgls"
+    },
     {
       "id": "ODCv3ist5hQ",
       "title": "【番宣】１０月２１日（水）よる８時～『RKKまつり直前SP～これを見ればもっとRKKまつりが楽しくなる！～』",

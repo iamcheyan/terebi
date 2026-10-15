@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-10-14T19:13:28.351137",
+  "updated_at": "2026-10-15T18:55:47.435748",
   "videos": [
+    {
+      "id": "pApcwBXZW3Y",
+      "title": "もっと身近に！もっと便利に！EV充電器【クルマとミライ】",
+      "description": "",
+      "publishedAt": "2026-10-15T14:06:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pApcwBXZW3Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pApcwBXZW3Y"
+    },
     {
       "id": "6BUSXFrnXeA",
       "title": "【LBS】苦境の静岡茶 眠る価値見える化で再生",
