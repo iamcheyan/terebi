@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-10-15T18:55:47.435748",
+  "updated_at": "2026-10-16T18:40:33.447152",
   "videos": [
+    {
+      "id": "mLmswBRelpQ",
+      "title": "#03　くつろぎのアクアリウム「アイ・アイ・スタイル」",
+      "description": "",
+      "publishedAt": "2026-10-16T10:30:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mLmswBRelpQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mLmswBRelpQ"
+    },
     {
       "id": "pApcwBXZW3Y",
       "title": "もっと身近に！もっと便利に！EV充電器【クルマとミライ】",

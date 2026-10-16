@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-10-15T18:56:41.758200",
+  "updated_at": "2026-10-16T18:41:41.305065",
   "videos": [
+    {
+      "id": "HU4afMyPhNU",
+      "title": "愛媛のニュース(10月16日)",
+      "description": "",
+      "publishedAt": "2026-10-16T11:35:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HU4afMyPhNU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HU4afMyPhNU"
+    },
+    {
+      "id": "cQRhAoW2fLo",
+      "title": "【愛媛・新居浜市】圧巻！巨大太鼓台が大阪に”出張” ショッピングセンターで勇壮な「差し上げ」披露",
+      "description": "",
+      "publishedAt": "2026-10-16T03:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cQRhAoW2fLo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cQRhAoW2fLo"
+    },
     {
       "id": "Otl5a380zns",
       "title": "愛媛のニュース(10月15日)",

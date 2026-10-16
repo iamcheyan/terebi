@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-15T18:56:01.205588",
+  "updated_at": "2026-10-16T18:41:02.994907",
   "videos": [
+    {
+      "id": "mZMdSch67bk",
+      "title": "元気○（マル）らいふ　【最近の婚活事情】（2026/10/14放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-10-16T04:36:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mZMdSch67bk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mZMdSch67bk"
+    },
     {
       "id": "T9-NV9plgog",
       "title": "【アートで想像】「切り絵」独特の世界観が見る人の想像力をかき立てます",

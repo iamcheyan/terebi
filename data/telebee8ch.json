@@ -1,8 +1,32 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-10-15T18:56:37.102653",
+  "updated_at": "2026-10-16T18:41:34.322166",
   "videos": [
+    {
+      "id": "AYkIbe0_6TE",
+      "title": "【公式】2026年10月23日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-10-16T11:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AYkIbe0_6TE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AYkIbe0_6TE"
+    },
+    {
+      "id": "_ZwmLDvGSQ8",
+      "title": "【公式】「はじめてのキャッチボール」（10月16日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-10-16T03:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_ZwmLDvGSQ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_ZwmLDvGSQ8"
+    },
     {
       "id": "gtI9uqxcD1E",
       "title": "【お弁当、もった？】#16 専門学校の先生が食べる娘さんが初めて作った玉子焼き",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-10-15T18:56:05.014327",
+  "updated_at": "2026-10-16T18:40:47.784596",
   "videos": [
+    {
+      "id": "j8SERbSMQz8",
+      "title": "J1ファジアーノ岡山・桃果の注目⑥森壮一朗",
+      "description": "",
+      "publishedAt": "2026-10-16T08:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/j8SERbSMQz8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=j8SERbSMQz8"
+    },
+    {
+      "id": "DnIe0HZxRBw",
+      "title": "J1ファジアーノ岡山・桃果の注目⑤松本昌也",
+      "description": "",
+      "publishedAt": "2026-10-16T04:43:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DnIe0HZxRBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DnIe0HZxRBw"
+    },
     {
       "id": "U_ib8BFFsOs",
       "title": "J1ファジアーノ岡山・桃果の注目④レナート モーザー",

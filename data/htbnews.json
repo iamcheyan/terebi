@@ -1,8 +1,188 @@
 {
   "channel_id": "UCSWOnDD1KIriGmyQ7SgNA4A",
   "channel_name": "HTB Hokkaido News",
-  "updated_at": "2026-10-15T18:56:22.008230",
+  "updated_at": "2026-10-16T18:41:17.923487",
   "videos": [
+    {
+      "id": "pOoMQvUVXes",
+      "title": "【LIVE】１０月１６日（金）お昼の北海道のニュースとお天気",
+      "description": "",
+      "publishedAt": "2026-10-16T17:33:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pOoMQvUVXes/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pOoMQvUVXes"
+    },
+    {
+      "id": "MIGBVx5qvRE",
+      "title": "道内事故相次ぐ　札幌では大型観光バスと乗用車３台が衝突　苫小牧では高齢男性はねられる",
+      "description": "",
+      "publishedAt": "2026-10-16T14:49:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MIGBVx5qvRE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MIGBVx5qvRE"
+    },
+    {
+      "id": "uLWld_5xjfw",
+      "title": "オシプラ！「今知りたい！暖房準備のススメ」高騰する灯油価格…暖房費を節約する方法は？",
+      "description": "",
+      "publishedAt": "2026-10-16T12:14:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uLWld_5xjfw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uLWld_5xjfw"
+    },
+    {
+      "id": "QHH31XQbovA",
+      "title": "シカ出没で休園の北大植物園　安全確認できょう（１６日）から再開",
+      "description": "",
+      "publishedAt": "2026-10-16T10:35:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QHH31XQbovA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QHH31XQbovA"
+    },
+    {
+      "id": "jGsGiaZKKYk",
+      "title": "エスカレーター火事の札幌ステラプレイス、地下1階・1階の一部店舗で17日から営業再開　19日全館営業再開へ",
+      "description": "",
+      "publishedAt": "2026-10-16T10:35:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jGsGiaZKKYk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jGsGiaZKKYk"
+    },
+    {
+      "id": "F8xP07G5_k4",
+      "title": "【カメラ捉える】「暗闇の川へ入る人影」サケ不漁の中で相次ぐ悪質密漁…深夜の川を狙う一部始終",
+      "description": "",
+      "publishedAt": "2026-10-16T10:34:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F8xP07G5_k4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F8xP07G5_k4"
+    },
+    {
+      "id": "Jd5Wy6TdFwc",
+      "title": "【速報】旭川で住宅に乗用車が突っ込む 玄関大破も住民と運転手にけがなし",
+      "description": "",
+      "publishedAt": "2026-10-16T10:33:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Jd5Wy6TdFwc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Jd5Wy6TdFwc"
+    },
+    {
+      "id": "o-X0kRKv9hM",
+      "title": "住宅に車突っ込む　けがなし　玄関崩れ、乗用車激しく壊れる　旭川",
+      "description": "",
+      "publishedAt": "2026-10-16T10:19:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o-X0kRKv9hM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o-X0kRKv9hM"
+    },
+    {
+      "id": "uI2iHiC8ZHg",
+      "title": "【速報】旭川で住宅に乗用車が突っ込む 玄関大破も住民と運転手にけがなし",
+      "description": "",
+      "publishedAt": "2026-10-16T10:15:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uI2iHiC8ZHg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uI2iHiC8ZHg"
+    },
+    {
+      "id": "UvDX7P42KjI",
+      "title": "エスカレーター火事の札幌ステラプレイス、地下1階・1階の一部店舗で17日から営業再開　19日全館営業再開へ",
+      "description": "",
+      "publishedAt": "2026-10-16T10:04:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UvDX7P42KjI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UvDX7P42KjI"
+    },
+    {
+      "id": "QGAnE05ofzc",
+      "title": "シカ出没で休園の北大植物園　安全確認できょう（１６日）から再開",
+      "description": "",
+      "publishedAt": "2026-10-16T10:03:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QGAnE05ofzc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QGAnE05ofzc"
+    },
+    {
+      "id": "J4-7ot118NA",
+      "title": "千島列島「M9.9」緊急地震速報の取り消し　気象庁が要因説明",
+      "description": "",
+      "publishedAt": "2026-10-16T09:47:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J4-7ot118NA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J4-7ot118NA"
+    },
+    {
+      "id": "QBDSq51kzgo",
+      "title": "【カメラ捉える】「暗闇の川へ入る人影」サケ不漁の中で相次ぐ悪質密漁…深夜の川を狙う一部始終",
+      "description": "",
+      "publishedAt": "2026-10-16T09:35:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QBDSq51kzgo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QBDSq51kzgo"
+    },
+    {
+      "id": "WM-hQuJlDcU",
+      "title": "脂の乗った炭火サンマに旬の海の幸が勢ぞろい！札幌で人気イベント「まるごと根室直送市」スタート",
+      "description": "",
+      "publishedAt": "2026-10-16T09:34:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WM-hQuJlDcU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WM-hQuJlDcU"
+    },
+    {
+      "id": "qMcaBEdqGgg",
+      "title": "札幌・大通公園の再整備へ 市民らに意見聴取「自然のまま残す部分も」老朽化や時代の変化など課題",
+      "description": "",
+      "publishedAt": "2026-10-16T09:33:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qMcaBEdqGgg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qMcaBEdqGgg"
+    },
     {
       "id": "jY5aYQOCMcE",
       "title": "【LIVE】１０月１５日（木）お昼の北海道のニュースとお天気",
