@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-10-16T18:41:29.257774",
+  "updated_at": "2026-10-17T17:48:57.499774",
   "videos": [
+    {
+      "id": "b1G0CPJvFy8",
+      "title": "「いよいよ、八生（やよい）」10/19は生放送♪",
+      "description": "",
+      "publishedAt": "2026-10-17T05:27:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b1G0CPJvFy8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b1G0CPJvFy8"
+    },
     {
       "id": "HN2ceSKdKGY",
       "title": "「ステーキハウス泉家『ごはんのおとも極』×ときめくおうちごはん」2026/10/16放送",

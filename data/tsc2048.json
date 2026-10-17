@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-10-16T18:40:47.784596",
+  "updated_at": "2026-10-17T17:48:31.812811",
   "videos": [
+    {
+      "id": "CT8RuAi4lrQ",
+      "title": "J1ファジアーノ岡山・桃果の注目⑧白井康介",
+      "description": "",
+      "publishedAt": "2026-10-17T07:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CT8RuAi4lrQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CT8RuAi4lrQ"
+    },
+    {
+      "id": "z6ijCvK7PSM",
+      "title": "J1ファジアーノ岡山・桃果の注目⑦宮本英治",
+      "description": "",
+      "publishedAt": "2026-10-17T01:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/z6ijCvK7PSM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=z6ijCvK7PSM"
+    },
     {
       "id": "j8SERbSMQz8",
       "title": "J1ファジアーノ岡山・桃果の注目⑥森壮一朗",

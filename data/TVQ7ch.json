@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-10-15T18:56:38.291490",
+  "updated_at": "2026-10-17T17:49:05.531258",
   "videos": [
+    {
+      "id": "jYzWpgvg2JI",
+      "title": "【テレQ番宣】ぐっ！ジョブ（10月24日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-10-17T15:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jYzWpgvg2JI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jYzWpgvg2JI"
+    },
+    {
+      "id": "A8q1jCSfNr0",
+      "title": "10月24(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-10-17T12:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A8q1jCSfNr0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A8q1jCSfNr0"
+    },
+    {
+      "id": "8JH9t5vxI1U",
+      "title": "【テレQ番宣】ちょっと福岡行ってきました！（10月24日(土)20:00～）放送",
+      "description": "",
+      "publishedAt": "2026-10-17T11:54:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8JH9t5vxI1U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8JH9t5vxI1U"
+    },
+    {
+      "id": "MiajekBY298",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（10月24日（土）18:30～）",
+      "description": "",
+      "publishedAt": "2026-10-17T10:59:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MiajekBY298/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MiajekBY298"
+    },
     {
       "id": "sWBILARbZvs",
       "title": "【夢クルーズ】629 副千製陶所(2026年10月15日放送)",

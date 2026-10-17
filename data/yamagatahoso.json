@@ -1,8 +1,32 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-10-11T19:24:03.735029",
+  "updated_at": "2026-10-17T17:49:09.610169",
   "videos": [
+    {
+      "id": "VtuCJlhBZg4",
+      "title": "全国高校サッカー選手権山形県大会準決勝　米沢中央vs山形中央",
+      "description": "",
+      "publishedAt": "2026-10-13T10:11:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VtuCJlhBZg4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VtuCJlhBZg4"
+    },
+    {
+      "id": "VMdFby_uiZg",
+      "title": "全国高校サッカー選手権山形県大会準決勝　羽黒vs日大山形",
+      "description": "",
+      "publishedAt": "2026-10-13T10:08:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VMdFby_uiZg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VMdFby_uiZg"
+    },
     {
       "id": "9lKvTRrqs24",
       "title": "やまがたサンデー５　１０月１１日放送分　地域で進む地域循環",

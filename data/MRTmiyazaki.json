@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-10-16T18:41:25.078834",
+  "updated_at": "2026-10-17T17:48:52.643392",
   "videos": [
+    {
+      "id": "QeFq6h9eIs0",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-10-17T03:28:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QeFq6h9eIs0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QeFq6h9eIs0"
+    },
     {
       "id": "F4XM0GJw7kA",
       "title": "#9　完成前にわくわくした　宮崎の建物ベスト４（寺坂調べ）",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-10-16T18:41:27.491582",
+  "updated_at": "2026-10-17T17:48:55.329083",
   "videos": [
+    {
+      "id": "rkxuTf9xyLg",
+      "title": "大自然の中でサウナを満喫",
+      "description": "",
+      "publishedAt": "2026-10-17T08:51:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rkxuTf9xyLg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rkxuTf9xyLg"
+    },
+    {
+      "id": "i7D7GYmbxuw",
+      "title": "民間主体で大分の未来を考えるフォーラムが初開催",
+      "description": "",
+      "publishedAt": "2026-10-17T08:51:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i7D7GYmbxuw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i7D7GYmbxuw"
+    },
     {
       "id": "ko6G258sVq0",
       "title": "「九州ふっこう応援割」宿への直接予約に申し込み殺到　まだ間に合う？予約のポイント",

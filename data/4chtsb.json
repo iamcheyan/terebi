@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSE9-6eRyiQqU97_gtjvhvw",
   "channel_name": "TSBテレビ信州",
-  "updated_at": "2026-10-07T20:28:20.309630",
+  "updated_at": "2026-10-17T17:49:03.782655",
   "videos": [
+    {
+      "id": "Nqz-6u7j4TU",
+      "title": "10月19日(月)放送です！",
+      "description": "",
+      "publishedAt": "2026-10-17T09:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nqz-6u7j4TU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nqz-6u7j4TU"
+    },
     {
       "id": "ABrYrpFRU1A",
       "title": "【インタビュー】セイコーエプソン・宮島佳孝さん",

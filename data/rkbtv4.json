@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk0ErOa1N6CXes8l81lrTUg",
   "channel_name": "RKB毎日放送",
-  "updated_at": "2026-10-15T18:56:33.382025",
+  "updated_at": "2026-10-17T17:48:56.982941",
   "videos": [
+    {
+      "id": "bNvLmbSu2Mc",
+      "title": "GameChangers～変革者たち～ ｜2026年10月17日放送分　株式会社関家具",
+      "description": "",
+      "publishedAt": "2026-10-17T13:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bNvLmbSu2Mc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bNvLmbSu2Mc"
+    },
+    {
+      "id": "-S5Yy6xK8Ms",
+      "title": "【よんなび！】10月17日放送",
+      "description": "",
+      "publishedAt": "2026-10-17T00:30:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-S5Yy6xK8Ms/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-S5Yy6xK8Ms"
+    },
     {
       "id": "Kg8y5fqNlOw",
       "title": "地元を変える高校生ビジネスアイデアコンテスト！～マイナビキャリア甲子園START in KYUSHU",
