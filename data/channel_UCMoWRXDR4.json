@@ -1,8 +1,32 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-10-16T18:40:52.897520",
+  "updated_at": "2026-10-18T17:53:12.407788",
   "videos": [
+    {
+      "id": "ybuozZgolkk",
+      "title": "『里崎智也のゴルフ直球勝負！』～ミニコーナー「ともやの小部屋」#307 ～青山加織プロ",
+      "description": "",
+      "publishedAt": "2026-10-18T15:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ybuozZgolkk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ybuozZgolkk"
+    },
+    {
+      "id": "59El2QuKuys",
+      "title": "里崎智也のゴルフ直球勝負！ 第294回【ゲスト】青山加織プロ③（2026年6月28日放送）",
+      "description": "",
+      "publishedAt": "2026-10-18T10:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/59El2QuKuys/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=59El2QuKuys"
+    },
     {
       "id": "EMz89RD0VJM",
       "title": "『市町村てくてく散歩』第200回「八千代市」(2026.10.16放送)【チバテレ公式】",

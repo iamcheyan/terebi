@@ -1,8 +1,80 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-10-17T17:48:51.913863",
+  "updated_at": "2026-10-18T17:53:50.360725",
   "videos": [
+    {
+      "id": "2Tz4oOEAFDQ",
+      "title": "霧島市福山町・黒酢の壺畑【かごしまドローンTRIP】",
+      "description": "",
+      "publishedAt": "2026-10-18T14:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Tz4oOEAFDQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Tz4oOEAFDQ"
+    },
+    {
+      "id": "ZxRws-yo4As",
+      "title": "【懐かしの映像】夏休みシリーズ①ラジオ体操　鹿児島市･旧吉田町（1988･1977･1963）MBCテレビ『あの日のふるさと』より｜鹿児島県",
+      "description": "",
+      "publishedAt": "2026-10-18T09:00:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZxRws-yo4As/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZxRws-yo4As"
+    },
+    {
+      "id": "t9PQh-KOByk",
+      "title": "【限定公開】10/18放送『帖佐すずらん保育園』のわんぱく君・わんぱくちゃんを紹介！【MBCテレビ『わんぱくてれび』】",
+      "description": "",
+      "publishedAt": "2026-10-18T07:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/t9PQh-KOByk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=t9PQh-KOByk"
+    },
+    {
+      "id": "JW9JFHjEiFA",
+      "title": "【かごしまシティ・パレットミニ情報】2026松陽アートinまつもと　ほか（2026年10月18日放送）",
+      "description": "",
+      "publishedAt": "2026-10-18T06:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JW9JFHjEiFA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JW9JFHjEiFA"
+    },
+    {
+      "id": "I5nwlxi5Qsg",
+      "title": "【たわわのわ】鹿児島県産米「あきほなみ 吟地米」(2026年10月18日放送)",
+      "description": "",
+      "publishedAt": "2026-10-18T02:35:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I5nwlxi5Qsg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I5nwlxi5Qsg"
+    },
+    {
+      "id": "O0vCAjND22Y",
+      "title": "【宝☆かご掲示板】『10月は軽油引取税の調査強調月間です　ほか』（2026年10月18日放送）",
+      "description": "",
+      "publishedAt": "2026-10-18T01:35:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O0vCAjND22Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O0vCAjND22Y"
+    },
     {
       "id": "bDVAF0eCyOY",
       "title": "#62【おたより回】年上の後輩にキレられた",

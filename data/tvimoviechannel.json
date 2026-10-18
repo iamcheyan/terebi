@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-10-16T18:41:35.816294",
+  "updated_at": "2026-10-18T17:53:58.803993",
   "videos": [
+    {
+      "id": "CmL9y-mjfn0",
+      "title": "今日の５きげんテレビ（10月19日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-10-18T15:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CmL9y-mjfn0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CmL9y-mjfn0"
+    },
     {
       "id": "BeMGnZNtIT4",
       "title": "【アナたちのドラマ推し推し！駅伝】土曜ドラマ「俺たちの箱根駅伝」。テレビ岩手のアナウンサーが推したい気持ちを語りあう！（#3）",

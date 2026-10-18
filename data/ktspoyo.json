@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-10-17T17:48:50.855077",
+  "updated_at": "2026-10-18T17:53:49.463240",
   "videos": [
+    {
+      "id": "j-qDmW0I4ZI",
+      "title": "いまコレ！かごしま市　10月18日（日）",
+      "description": "",
+      "publishedAt": "2026-10-18T06:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/j-qDmW0I4ZI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=j-qDmW0I4ZI"
+    },
     {
       "id": "UIdc33z64_A",
       "title": "【わんにゃんプラスかごしま】「幸せをつなぐ保護猫カフェ♪」",

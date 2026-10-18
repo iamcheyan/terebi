@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-10-17T17:49:09.610169",
+  "updated_at": "2026-10-18T17:54:01.955887",
   "videos": [
+    {
+      "id": "YRRR3MTBtA8",
+      "title": "やまがたサンデー５　１０月１８日放送分　山形に生きた狩人たちを追い求めて",
+      "description": "",
+      "publishedAt": "2026-10-18T08:30:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YRRR3MTBtA8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YRRR3MTBtA8"
+    },
     {
       "id": "VtuCJlhBZg4",
       "title": "全国高校サッカー選手権山形県大会準決勝　米沢中央vs山形中央",
