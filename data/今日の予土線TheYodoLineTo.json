@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-18T17:54:06.697186",
+  "updated_at": "2026-10-19T20:26:27.525224",
   "videos": [
+    {
+      "id": "dYpmaOOQudQ",
+      "title": "261019 152737 近永第５踏切",
+      "description": "",
+      "publishedAt": "2026-10-19T12:55:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dYpmaOOQudQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dYpmaOOQudQ"
+    },
+    {
+      "id": "iKEjJ-h6R_0",
+      "title": "261019 152132 近永第４踏切",
+      "description": "",
+      "publishedAt": "2026-10-19T12:43:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iKEjJ-h6R_0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iKEjJ-h6R_0"
+    },
+    {
+      "id": "YA9PLMAk8io",
+      "title": "261019 151528 近永第３踏切",
+      "description": "",
+      "publishedAt": "2026-10-19T12:27:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YA9PLMAk8io/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YA9PLMAk8io"
+    },
     {
       "id": "OEi5LhRMoJM",
       "title": "今週の予土線 The Yodo Line Weekly 2026 10 18",

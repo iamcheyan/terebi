@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-10-17T17:48:27.634928",
+  "updated_at": "2026-10-19T20:25:44.196366",
   "videos": [
+    {
+      "id": "v3iXGOXQL8U",
+      "title": "超町人！チョコレートサムネット 10/25(日) 愛知・一宮市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-10-19T02:56:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/v3iXGOXQL8U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=v3iXGOXQL8U"
+    },
     {
       "id": "drWcqTRBb5E",
       "title": "【まるまる◎あいち】2026年10月17日放送 「第5回アジアパラ競技大会　開幕！」",

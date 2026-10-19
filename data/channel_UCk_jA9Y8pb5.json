@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-10-17T17:48:15.367819",
+  "updated_at": "2026-10-19T20:25:19.464886",
   "videos": [
+    {
+      "id": "T249S3Q4140",
+      "title": "【Cross A】青の煌めき あおもり国スポ・障スポ 開催中！",
+      "description": "",
+      "publishedAt": "2026-10-19T00:12:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T249S3Q4140/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T249S3Q4140"
+    },
+    {
+      "id": "wZEg2WKTcAg",
+      "title": "【Cross A】青森県血圧測定キャンペーン",
+      "description": "",
+      "publishedAt": "2026-10-19T00:12:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wZEg2WKTcAg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wZEg2WKTcAg"
+    },
     {
       "id": "xm4Zx71ekow",
       "title": "シーズンinthe産「弘前市・いちじく」【弘果スタッフおススメ！バター焼き】Vol.103",

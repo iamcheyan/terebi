@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-10-18T17:53:33.600745",
+  "updated_at": "2026-10-19T20:25:41.122090",
   "videos": [
+    {
+      "id": "BsSiWBZ0GVY",
+      "title": "【薪で焚く昔ながらの銭湯】",
+      "description": "",
+      "publishedAt": "2026-10-19T09:30:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BsSiWBZ0GVY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BsSiWBZ0GVY"
+    },
+    {
+      "id": "VqH5z5Nfnvc",
+      "title": "【キッズチャレンジスタジアム】そうまくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-10-19T09:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VqH5z5Nfnvc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VqH5z5Nfnvc"
+    },
     {
       "id": "itZyGeDPPL0",
       "title": "【馬場のぶえのひろしま脳トレ】26年度第29回「夜間の急な体調不良で困った時には？」",

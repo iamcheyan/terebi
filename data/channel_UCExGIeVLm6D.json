@@ -1,8 +1,44 @@
 {
   "channel_id": "UCExGIeVLm6DBd_dd7AC4L-A",
   "channel_name": "RCC中国放送",
-  "updated_at": "2026-10-17T17:48:13.265269",
+  "updated_at": "2026-10-19T20:25:30.617397",
   "videos": [
+    {
+      "id": "HAjDgstjDag",
+      "title": "広島！中高生ニュース（＃ひろしま未来トーク編②）",
+      "description": "",
+      "publishedAt": "2026-10-19T03:56:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HAjDgstjDag/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HAjDgstjDag"
+    },
+    {
+      "id": "pu4GXRs9tYc",
+      "title": "RCCテレビ『アインシュタインの出没！ひな壇団』2026年10月31日予告",
+      "description": "",
+      "publishedAt": "2026-10-19T02:18:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pu4GXRs9tYc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pu4GXRs9tYc"
+    },
+    {
+      "id": "ehp8t0Qmm14",
+      "title": "RCCテレビ『元就。』2026年10月25日予告",
+      "description": "",
+      "publishedAt": "2026-10-19T02:15:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ehp8t0Qmm14/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ehp8t0Qmm14"
+    },
     {
       "id": "OvIHYyIfSuM",
       "title": "＜予告＞情熱サンフレッチェ 10月23日放送",

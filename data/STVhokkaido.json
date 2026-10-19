@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-10-10T19:10:40.053810",
+  "updated_at": "2026-10-19T20:26:13.482183",
   "videos": [
+    {
+      "id": "gy4PA5uqTdE",
+      "title": "アンヌ遙香の晩酌日和 ～金麦が彩るおいしい食卓～　#2",
+      "description": "",
+      "publishedAt": "2026-10-19T10:14:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gy4PA5uqTdE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gy4PA5uqTdE"
+    },
     {
       "id": "G6TVVQHiXgg",
       "title": "トレンド☆サプリ#185　サントリー金麦③　～期待の声、続々！～",
