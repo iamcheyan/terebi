@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-10-14T19:13:42.630620",
+  "updated_at": "2026-10-20T19:01:05.839319",
   "videos": [
+    {
+      "id": "UX5jgQs5uis",
+      "title": "ゆうドキッ！ドキドキリポート 『おきなや本店』",
+      "description": "",
+      "publishedAt": "2026-10-20T03:18:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UX5jgQs5uis/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UX5jgQs5uis"
+    },
     {
       "id": "nG66E9Neq40",
       "title": "10月9日（金）放送｜奈良テレビ「ゆうドキッ！」内「いきいきまちだより」",

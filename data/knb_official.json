@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-10-15T18:56:25.352110",
+  "updated_at": "2026-10-20T19:01:27.566968",
   "videos": [
+    {
+      "id": "jg069RaGLAk",
+      "title": "【旬景とやま】コスモスの夜明け",
+      "description": "",
+      "publishedAt": "2026-10-20T10:28:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jg069RaGLAk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jg069RaGLAk"
+    },
     {
       "id": "dG62gI5rhow",
       "title": "【北陸３県イイトコどり～】珍しさがウケています",

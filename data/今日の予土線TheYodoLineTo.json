@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-19T20:26:27.525224",
+  "updated_at": "2026-10-20T19:01:45.580351",
   "videos": [
+    {
+      "id": "c1vrN7c3P-k",
+      "title": "261020 155540 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-10-20T11:42:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c1vrN7c3P-k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c1vrN7c3P-k"
+    },
+    {
+      "id": "FTOIS1k28H8",
+      "title": "261020 155155 兼近第３踏切 ２",
+      "description": "",
+      "publishedAt": "2026-10-20T11:36:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FTOIS1k28H8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FTOIS1k28H8"
+    },
+    {
+      "id": "lJY2LFGNvzQ",
+      "title": "261020 154712 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-10-20T11:14:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lJY2LFGNvzQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lJY2LFGNvzQ"
+    },
     {
       "id": "dYpmaOOQudQ",
       "title": "261019 152737 近永第５踏切",

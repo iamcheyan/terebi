@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-10-19T20:25:38.669626",
+  "updated_at": "2026-10-20T19:01:07.867853",
   "videos": [
+    {
+      "id": "bg3PwWf1ZCI",
+      "title": "【あっちこっちAぇ!】10月24日（土）深夜放送",
+      "description": "",
+      "publishedAt": "2026-10-20T06:46:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bg3PwWf1ZCI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bg3PwWf1ZCI"
+    },
+    {
+      "id": "CA7VtmIjuD8",
+      "title": "｢華丸丼と大吉麺｣10月25日(日)午後1時25分放送！",
+      "description": "",
+      "publishedAt": "2026-10-20T05:07:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CA7VtmIjuD8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CA7VtmIjuD8"
+    },
     {
       "id": "tYdB0ukSK9M",
       "title": "「探偵！ナイトスクープ」10月23日（金）深夜放送！",

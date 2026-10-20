@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-17T17:48:06.406895",
+  "updated_at": "2026-10-20T19:00:39.989567",
   "videos": [
+    {
+      "id": "PqXOSqRZuIc",
+      "title": "【プロ注目 富士大・角田投手】プロも注目する角田投手の実力と野球にかける思いに迫ります",
+      "description": "",
+      "publishedAt": "2026-10-20T04:37:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PqXOSqRZuIc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PqXOSqRZuIc"
+    },
+    {
+      "id": "54gGFgBQt0o",
+      "title": "【雄星投手 伝えたいこと】シーズンを終えて帰国した菊池雄星投手が花巻市で子どもたちと交流しました",
+      "description": "",
+      "publishedAt": "2026-10-20T04:34:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/54gGFgBQt0o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=54gGFgBQt0o"
+    },
     {
       "id": "UPu80jFwTDo",
       "title": "【岩手のコメ 世界へ売り込め】いわてのコメを海外に売り込もうと奮闘する県内の農家のグループが待ちに待った稲刈りを迎えました",

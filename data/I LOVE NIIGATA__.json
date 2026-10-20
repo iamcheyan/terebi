@@ -1,8 +1,56 @@
 {
   "channel_id": "UCXScRoBNwPISEKWqBXeGiwQ",
   "channel_name": "I LOVE NIIGATA!!",
-  "updated_at": "2026-10-19T20:25:33.207681",
+  "updated_at": "2026-10-20T19:00:39.588826",
   "videos": [
+    {
+      "id": "OIROevSoU1k",
+      "title": "【スマスタ】いっすねー！山脇、激辛チャレンジ",
+      "description": "",
+      "publishedAt": "2026-10-20T10:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OIROevSoU1k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OIROevSoU1k"
+    },
+    {
+      "id": "3_1egxx0V-I",
+      "title": "【スマスタ新曲】歌う足音♩フルバージョン",
+      "description": "",
+      "publishedAt": "2026-10-20T09:30:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3_1egxx0V-I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3_1egxx0V-I"
+    },
+    {
+      "id": "tDI-oHrJSC4",
+      "title": "【新潟だらけ】NST新スタジオセットを大公開！番組開始14年目で初リニューアル【八千代コースター】",
+      "description": "",
+      "publishedAt": "2026-10-20T09:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tDI-oHrJSC4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tDI-oHrJSC4"
+    },
+    {
+      "id": "dkdLiDLQARU",
+      "title": "【100米る】念願の佐渡サップ！！",
+      "description": "",
+      "publishedAt": "2026-10-20T08:30:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dkdLiDLQARU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dkdLiDLQARU"
+    },
     {
       "id": "7pVaLO9-_C0",
       "title": "【NGT48】本編未公開！",

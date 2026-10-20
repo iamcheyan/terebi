@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-10-14T19:14:08.882443",
+  "updated_at": "2026-10-20T19:01:37.483355",
   "videos": [
+    {
+      "id": "Ztvxp0tAJtI",
+      "title": "【明日への一歩】白河高校　書道部",
+      "description": "",
+      "publishedAt": "2026-10-20T01:49:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Ztvxp0tAJtI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ztvxp0tAJtI"
+    },
     {
       "id": "KuaHLBP8thc",
       "title": "【ふくしまSHOW】「県内初上陸SP　第2弾」！",
