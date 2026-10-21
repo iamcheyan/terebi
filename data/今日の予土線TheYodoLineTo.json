@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-20T19:01:45.580351",
+  "updated_at": "2026-10-21T19:10:45.224118",
   "videos": [
+    {
+      "id": "Y4zj4iEnZ8U",
+      "title": "261021 140128 ちいさな鉄橋",
+      "description": "",
+      "publishedAt": "2026-10-21T13:58:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y4zj4iEnZ8U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y4zj4iEnZ8U"
+    },
+    {
+      "id": "gk1FRpCxelg",
+      "title": "261021 135424 馬越踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-10-21T13:46:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gk1FRpCxelg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gk1FRpCxelg"
+    },
+    {
+      "id": "768NEfR70ms",
+      "title": "261021 135119 馬越踏切 ２",
+      "description": "",
+      "publishedAt": "2026-10-21T13:42:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/768NEfR70ms/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=768NEfR70ms"
+    },
+    {
+      "id": "XHMEYClyXIQ",
+      "title": "261021 134703 馬越踏切",
+      "description": "",
+      "publishedAt": "2026-10-21T13:18:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/XHMEYClyXIQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=XHMEYClyXIQ"
+    },
     {
       "id": "c1vrN7c3P-k",
       "title": "261020 155540 兼近第３踏切",

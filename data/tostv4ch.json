@@ -1,8 +1,80 @@
 {
   "channel_id": "UC0k0UP7RA9l-X_3t8jElXQQ",
   "channel_name": "TOSテレビ大分",
-  "updated_at": "2026-10-20T19:01:05.088484",
+  "updated_at": "2026-10-21T19:09:59.795892",
   "videos": [
+    {
+      "id": "3q5hRDtrpxQ",
+      "title": "大分県民なら分かる？謎解きクイズに挑戦",
+      "description": "",
+      "publishedAt": "2026-10-21T12:30:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3q5hRDtrpxQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3q5hRDtrpxQ"
+    },
+    {
+      "id": "FIk4OyhsZaY",
+      "title": "クイズ研究会と勝負！優勝はまさかの…",
+      "description": "",
+      "publishedAt": "2026-10-21T12:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FIk4OyhsZaY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FIk4OyhsZaY"
+    },
+    {
+      "id": "0Bh4XdYNl7A",
+      "title": "クイズ研究会と勝負！意外と強い竹尾調査員… パート2",
+      "description": "",
+      "publishedAt": "2026-10-21T11:30:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0Bh4XdYNl7A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0Bh4XdYNl7A"
+    },
+    {
+      "id": "KScEBquNH9c",
+      "title": "クイズ研究会と勝負！意外と強い竹尾調査員… パート1",
+      "description": "",
+      "publishedAt": "2026-10-21T11:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KScEBquNH9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KScEBquNH9c"
+    },
+    {
+      "id": "Hakn6W2QskI",
+      "title": "早押しボタンを配るクイズ会の大谷翔平？",
+      "description": "",
+      "publishedAt": "2026-10-21T10:30:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hakn6W2QskI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hakn6W2QskI"
+    },
+    {
+      "id": "0_VzW0bNfe0",
+      "title": "県内唯一のクイズ研究会 独特の会話方法？",
+      "description": "",
+      "publishedAt": "2026-10-21T10:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0_VzW0bNfe0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0_VzW0bNfe0"
+    },
     {
       "id": "m10onfRujcQ",
       "title": "日田市最高峰「釈迦岳」山頂へ、標高1230mに広がる秋の絶景",

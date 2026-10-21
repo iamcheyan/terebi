@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-10-19T20:25:55.845036",
+  "updated_at": "2026-10-21T19:10:08.573556",
   "videos": [
+    {
+      "id": "nABW6-TGdrc",
+      "title": "【子吉川氾濫特別警報】午後11時現在の最新ニュース",
+      "description": "",
+      "publishedAt": "2026-10-21T14:25:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nABW6-TGdrc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nABW6-TGdrc"
+    },
+    {
+      "id": "TnRuDUSXNKU",
+      "title": "【子吉川氾濫特別警報】気象庁・国交省記者会見ノーカット",
+      "description": "",
+      "publishedAt": "2026-10-21T13:07:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TnRuDUSXNKU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TnRuDUSXNKU"
+    },
+    {
+      "id": "TwgyAwFLk_A",
+      "title": "【速報】秋田・子吉川氾濫特別警報 気象庁・国土交通省会見",
+      "description": "",
+      "publishedAt": "2026-10-21T12:16:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TwgyAwFLk_A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TwgyAwFLk_A"
+    },
     {
       "id": "S2aaAcxAcSQ",
       "title": "【知っトク医療のツボ】すでに感染拡大 インフルエンザ",

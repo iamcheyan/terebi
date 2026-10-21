@@ -1,8 +1,44 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-10-20T19:01:07.867853",
+  "updated_at": "2026-10-21T19:10:04.957998",
   "videos": [
+    {
+      "id": "r36h70cR2KE",
+      "title": "「news おかえり」10月23日(金)午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-10-21T07:32:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r36h70cR2KE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r36h70cR2KE"
+    },
+    {
+      "id": "ALkmGOhW2_s",
+      "title": "「news おかえり」10月22日(木)午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-10-21T07:29:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ALkmGOhW2_s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ALkmGOhW2_s"
+    },
+    {
+      "id": "EJ2czIFyLUY",
+      "title": "【キラスマ】ハマって書店まで！ZINE（ジン）の魅力は？ #319",
+      "description": "",
+      "publishedAt": "2026-10-21T01:38:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EJ2czIFyLUY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EJ2czIFyLUY"
+    },
     {
       "id": "bg3PwWf1ZCI",
       "title": "【あっちこっちAぇ!】10月24日（土）深夜放送",
