@@ -1,8 +1,44 @@
 {
   "channel_id": "UCcd7HqsWwm2vks3oefxEGzA",
   "channel_name": "奈良テレビNEWS",
-  "updated_at": "2026-10-21T19:09:31.265652",
+  "updated_at": "2026-10-22T19:05:26.587395",
   "videos": [
+    {
+      "id": "r9DQz1qaJFY",
+      "title": "プログラミング言語「ＰＨＰ」に欠陥　県内でも一部サービスの停止相次ぐ",
+      "description": "",
+      "publishedAt": "2026-10-22T11:13:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r9DQz1qaJFY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r9DQz1qaJFY"
+    },
+    {
+      "id": "JFgqciceZI8",
+      "title": "約２１３万円不正に引き出し　県教委　男性教諭を懲戒免職処分",
+      "description": "",
+      "publishedAt": "2026-10-22T11:12:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JFgqciceZI8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JFgqciceZI8"
+    },
+    {
+      "id": "bw4f4dNztVs",
+      "title": "奥村組創業１２０周年記念へ　奈良芸術短大　日本酒ラベルデザイン最終選考会",
+      "description": "",
+      "publishedAt": "2026-10-22T11:12:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bw4f4dNztVs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bw4f4dNztVs"
+    },
     {
       "id": "rFAJccjNt7Q",
       "title": "奈良市で最高気温３１．４℃　１０月下旬なのに真夏日",

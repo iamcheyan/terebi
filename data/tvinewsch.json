@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-21T19:09:26.631767",
+  "updated_at": "2026-10-22T19:05:20.366821",
   "videos": [
+    {
+      "id": "EOQ7IfdnlOU",
+      "title": "【世界津波の日 高校生サミット】世界中の高校生が防災を学び意見交換",
+      "description": "",
+      "publishedAt": "2026-10-22T04:50:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EOQ7IfdnlOU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EOQ7IfdnlOU"
+    },
+    {
+      "id": "OjRBbEFn9w4",
+      "title": "元気○（マル）らいふ　【スポーツウエルネス吹矢】（2026/10/21放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-10-22T03:18:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OjRBbEFn9w4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OjRBbEFn9w4"
+    },
     {
       "id": "os4jpvR194Y",
       "title": "【自主夜間中学】学びたい思いにそっと光を照らす存在。ボランティアらが運営。",

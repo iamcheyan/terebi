@@ -1,8 +1,20 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-10-20T19:01:33.411036",
+  "updated_at": "2026-10-22T19:05:42.253839",
   "videos": [
+    {
+      "id": "4sjYNH1NI3g",
+      "title": "【番宣】１０月２４日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-10-22T04:55:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4sjYNH1NI3g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4sjYNH1NI3g"
+    },
     {
       "id": "vFnEt-DSLzE",
       "title": "【番宣】１０月２１日（水）NEWSゲツキン",

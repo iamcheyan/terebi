@@ -1,8 +1,20 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-10-21T19:09:51.025910",
+  "updated_at": "2026-10-22T19:05:10.550424",
   "videos": [
+    {
+      "id": "G22TuSqFkMw",
+      "title": "【ビジネストレンド】宇野重工株式会社（2026年10月22日放送）【チバテレ公式】",
+      "description": "",
+      "publishedAt": "2026-10-22T13:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G22TuSqFkMw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G22TuSqFkMw"
+    },
     {
       "id": "OVaFQlm46Ws",
       "title": "完成予想模型を前に、学生たちが思い描くキャンプ場の未来とは…「学生、現場へ！土木っておもしろい」第四回【チバテレ55周年特別番組】",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-10-21T19:10:03.067644",
+  "updated_at": "2026-10-22T19:05:13.063141",
   "videos": [
+    {
+      "id": "RCqJBcVCjUU",
+      "title": "WIB HERO'S 10月特別版 #4",
+      "description": "",
+      "publishedAt": "2026-10-22T16:30:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RCqJBcVCjUU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RCqJBcVCjUU"
+    },
+    {
+      "id": "OUlLMAT6j6M",
+      "title": "あの町この村～未来へつなぐ匠と伝承の物語～第四回放送湯浅町篇",
+      "description": "",
+      "publishedAt": "2026-10-22T02:36:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OUlLMAT6j6M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OUlLMAT6j6M"
+    },
+    {
+      "id": "VJA-8jeZ5Sc",
+      "title": "あの町この村～未来へつなぐ匠と伝承の物語四回放送日高町篇",
+      "description": "",
+      "publishedAt": "2026-10-22T02:36:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VJA-8jeZ5Sc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VJA-8jeZ5Sc"
+    },
+    {
+      "id": "EaAReyjB7i8",
+      "title": "あの町この村～未来へつなぐ匠と伝承の物語～第四回放送白浜町篇",
+      "description": "",
+      "publishedAt": "2026-10-22T02:36:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/EaAReyjB7i8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=EaAReyjB7i8"
+    },
     {
       "id": "VKKv3sA9l4w",
       "title": "和歌山大学留学生に生活物品を寄贈",
