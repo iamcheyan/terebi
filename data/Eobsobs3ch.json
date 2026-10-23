@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-10-19T20:26:10.092049",
+  "updated_at": "2026-10-23T18:56:03.342153",
   "videos": [
+    {
+      "id": "IdVAyWmhKN8",
+      "title": "【別府市】hyde out（2026年10月7日放送分）",
+      "description": "",
+      "publishedAt": "2026-10-23T05:44:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IdVAyWmhKN8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IdVAyWmhKN8"
+    },
     {
       "id": "a4xZdEoUpeE",
       "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年10月19日放送分】",

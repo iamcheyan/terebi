@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-10-22T19:05:12.396939",
+  "updated_at": "2026-10-23T18:55:45.465164",
   "videos": [
+    {
+      "id": "J9JGzb7d0f0",
+      "title": "#04　家族の遊び場「アイ・アイ・スタイル」",
+      "description": "",
+      "publishedAt": "2026-10-23T10:30:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J9JGzb7d0f0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J9JGzb7d0f0"
+    },
+    {
+      "id": "Oq2KjQzHF7A",
+      "title": "先に楽しんでゴメンナサイ！家族のためのパパママ下見旅inシンガポール テレ東系で10/31（土）午後４時から放送！#川田裕美 #庄司智春",
+      "description": "",
+      "publishedAt": "2026-10-23T03:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Oq2KjQzHF7A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Oq2KjQzHF7A"
+    },
     {
       "id": "QipneKnmUgE",
       "title": "エアバッグ開発　あらゆる事故を再現せよ！【クルマとミライ】",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-22T19:05:20.366821",
+  "updated_at": "2026-10-23T18:55:27.054324",
   "videos": [
+    {
+      "id": "Kp3P2mm24ic",
+      "title": "【アートで創造 螺鈿(らでん)細工】螺鈿細工は様々な素材と組み合わせることで唯一無二の輝きを放ちます",
+      "description": "",
+      "publishedAt": "2026-10-23T01:05:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kp3P2mm24ic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kp3P2mm24ic"
+    },
+    {
+      "id": "88OVD8DGq2Q",
+      "title": "【富士大学角田投手 1位指名！】プロ野球ドラフト会議で富士大学の角田楓斗投手がオリックスから１位で指名されました",
+      "description": "",
+      "publishedAt": "2026-10-23T00:37:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/88OVD8DGq2Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=88OVD8DGq2Q"
+    },
     {
       "id": "EOQ7IfdnlOU",
       "title": "【世界津波の日 高校生サミット】世界中の高校生が防災を学び意見交換",

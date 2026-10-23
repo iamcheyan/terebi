@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-10-22T19:05:12.679170",
+  "updated_at": "2026-10-23T18:55:14.383861",
   "videos": [
+    {
+      "id": "QV4NbJm4zxA",
+      "title": "【準々決勝・第2試合】洛北 vs 洛水｜第106回 全国高等学校ラグビーフットボール大会 京都府予選",
+      "description": "",
+      "publishedAt": "2026-10-19T06:40:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QV4NbJm4zxA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QV4NbJm4zxA"
+    },
+    {
+      "id": "kJ2jA4C1BF4",
+      "title": "【準々決勝・第1試合】同志社 vs 東山｜第106回 全国高等学校ラグビーフットボール大会 京都府予選",
+      "description": "",
+      "publishedAt": "2026-10-19T06:38:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kJ2jA4C1BF4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kJ2jA4C1BF4"
+    },
     {
       "id": "a7UYy8H4AUk",
       "title": "【京の風】「評伝　平尾誠二」著者　ラグビージャーナリスト 村上晃一さん／きょうと経済テラス キュンと！",

@@ -1,8 +1,92 @@
 {
   "channel_id": "UCd6GEK664CTEWRZda7Fu7Lg",
   "channel_name": "Television OSAKA NEWS",
-  "updated_at": "2026-10-22T19:05:47.572936",
+  "updated_at": "2026-10-23T18:56:12.132516",
   "videos": [
+    {
+      "id": "FPWJKebyyeE",
+      "title": "「スーパーマリオ」の生みの親・宮本茂さんに文化勲章",
+      "description": "",
+      "publishedAt": "2026-10-23T10:20:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FPWJKebyyeE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FPWJKebyyeE"
+    },
+    {
+      "id": "T2t_A57nt6w",
+      "title": "10分でオリジナル商品完成【ミズノが心斎橋に新店舗】若者・訪日客の取り込み狙う",
+      "description": "",
+      "publishedAt": "2026-10-23T10:05:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T2t_A57nt6w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T2t_A57nt6w"
+    },
+    {
+      "id": "J8HRTEh61G0",
+      "title": "世界が認める子ども服「ミキハウス」高くても選ばれるメイドインジャパンの底力に迫る！【関西リーダー列伝】",
+      "description": "",
+      "publishedAt": "2026-10-23T10:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J8HRTEh61G0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J8HRTEh61G0"
+    },
+    {
+      "id": "JfpMkjXoPIU",
+      "title": "世界777銘柄の頂点！【滋賀で生まれた世界一のお酒 \"ミード”とは？】",
+      "description": "",
+      "publishedAt": "2026-10-23T10:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JfpMkjXoPIU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JfpMkjXoPIU"
+    },
+    {
+      "id": "ZchZkfzyHe0",
+      "title": "高齢女性から43万円詐取疑い【自称ラッパーの男を送検】出し子まとめるリーダー格か",
+      "description": "",
+      "publishedAt": "2026-10-23T09:58:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZchZkfzyHe0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZchZkfzyHe0"
+    },
+    {
+      "id": "QoFitPs_U20",
+      "title": "【台風30号関西に影響へ】大阪で警報級大雨の可能性も（10月23日放送）",
+      "description": "",
+      "publishedAt": "2026-10-23T09:50:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QoFitPs_U20/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QoFitPs_U20"
+    },
+    {
+      "id": "D2Bw-2KM_jM",
+      "title": "【奈良公園近くで子鹿4頭が死亡】人為的加害の可能性も",
+      "description": "",
+      "publishedAt": "2026-10-23T09:39:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/D2Bw-2KM_jM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=D2Bw-2KM_jM"
+    },
     {
       "id": "xOWBGirw8Xo",
       "title": "【iPS心筋シート移植の女性が退院】患者が語る効果とは",

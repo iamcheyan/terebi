@@ -1,8 +1,20 @@
 {
   "channel_id": "UCk4bgav5X0rlbGefFnPcuoQ",
   "channel_name": "チューリップテレビ（TUT）",
-  "updated_at": "2026-10-22T19:05:08.875707",
+  "updated_at": "2026-10-23T18:55:16.572157",
   "videos": [
+    {
+      "id": "mtcvqZYwh9k",
+      "title": "【ハイスクールチェック】富山中部高校（2026年10月12日～10月16日放送）",
+      "description": "",
+      "publishedAt": "2026-10-23T07:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mtcvqZYwh9k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mtcvqZYwh9k"
+    },
     {
       "id": "AEiWrzmuMzs",
       "title": "ハッピーイオン「この冬食べたい！定番の鍋つゆ」（2026年10月22日放送分）",

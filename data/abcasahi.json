@@ -1,8 +1,44 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-10-22T19:05:18.563989",
+  "updated_at": "2026-10-23T18:55:41.754089",
   "videos": [
+    {
+      "id": "oehagBh_QOU",
+      "title": "「news おかえり」10月26日(月)午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-10-23T05:25:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oehagBh_QOU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oehagBh_QOU"
+    },
+    {
+      "id": "q4IIwpraM_A",
+      "title": "ロコレコは愛媛県東温市へ！ゲストの旅は松下奈緒！「旅サラダ」10月24日（土）放送",
+      "description": "",
+      "publishedAt": "2026-10-23T01:29:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q4IIwpraM_A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q4IIwpraM_A"
+    },
+    {
+      "id": "RMYP35tfkhE",
+      "title": "「やすとものいたって真剣です」10月29日（木）よる11時17分放送！",
+      "description": "",
+      "publishedAt": "2026-10-23T01:11:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RMYP35tfkhE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RMYP35tfkhE"
+    },
     {
       "id": "sX-csCjt4EU",
       "title": "「相席食堂」10月27日（火）よる放送！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-10-22T19:05:13.063141",
+  "updated_at": "2026-10-23T18:55:36.621515",
   "videos": [
+    {
+      "id": "SFsoiAYI-n8",
+      "title": "ゲンワカ・山家優一",
+      "description": "",
+      "publishedAt": "2026-10-23T09:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SFsoiAYI-n8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SFsoiAYI-n8"
+    },
     {
       "id": "RCqJBcVCjUU",
       "title": "WIB HERO'S 10月特別版 #4",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC1wYVW1ckPFokkVJMkZfZUw",
   "channel_name": "FBC福井放送",
-  "updated_at": "2026-10-08T20:33:51.730643",
+  "updated_at": "2026-10-23T18:55:51.494618",
   "videos": [
+    {
+      "id": "mU6GAzWmCMU",
+      "title": "Libre",
+      "description": "",
+      "publishedAt": "2026-10-23T09:42:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mU6GAzWmCMU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mU6GAzWmCMU"
+    },
     {
       "id": "1m81JrGQ9y8",
       "title": "Na Casa da Vovó",
