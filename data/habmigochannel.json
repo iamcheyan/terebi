@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-10-23T18:55:17.879514",
+  "updated_at": "2026-10-24T17:56:49.692311",
   "videos": [
+    {
+      "id": "WBIDScct8HI",
+      "title": "石川県内のスーパーでフードドライブ",
+      "description": "",
+      "publishedAt": "2026-10-24T09:20:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WBIDScct8HI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WBIDScct8HI"
+    },
+    {
+      "id": "rjT5dijziF8",
+      "title": "石川県内２６日にかけて大雨に警戒を",
+      "description": "",
+      "publishedAt": "2026-10-24T03:42:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rjT5dijziF8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rjT5dijziF8"
+    },
     {
       "id": "fEl2EaKfHTU",
       "title": "【AI技術で全国が注目】未経験者でも10分で金属加工ができる！金沢市の企業「アルム」の新技術",

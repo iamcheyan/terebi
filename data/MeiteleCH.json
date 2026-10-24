@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-10-23T18:55:24.544768",
+  "updated_at": "2026-10-24T17:56:20.067002",
   "videos": [
+    {
+      "id": "gOp5CJ9-DfA",
+      "title": "【まるまる◎あいち】2026年10月24日放送 「障害者スポーツの体験－ふれあい交流2026－」",
+      "description": "",
+      "publishedAt": "2026-10-24T09:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gOp5CJ9-DfA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gOp5CJ9-DfA"
+    },
+    {
+      "id": "W_eqh3ZgWL8",
+      "title": "【予告】おぎやはぎのハピキャン ～1Day Trip～【シーズン1-4】",
+      "description": "",
+      "publishedAt": "2026-10-24T02:30:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/W_eqh3ZgWL8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=W_eqh3ZgWL8"
+    },
     {
       "id": "BNmDuUe01Ms",
       "title": "吉冨アナ・濱田アナ｜秋の過ごし方を大調査！（メ～テレアナch）【一部特別公開】",

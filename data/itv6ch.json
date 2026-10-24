@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-10-23T18:56:14.297364",
+  "updated_at": "2026-10-24T17:57:29.638077",
   "videos": [
+    {
+      "id": "ai4CxnM39XE",
+      "title": "愛媛のニュース(10月24日)",
+      "description": "",
+      "publishedAt": "2026-10-24T11:32:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ai4CxnM39XE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ai4CxnM39XE"
+    },
+    {
+      "id": "rlOVfr3T50g",
+      "title": "【愛媛・久万高原町】久万林業まつりが大盛況！子どもに大人気の重機操作＆木工体験",
+      "description": "",
+      "publishedAt": "2026-10-24T03:00:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rlOVfr3T50g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rlOVfr3T50g"
+    },
+    {
+      "id": "Hi27dl9nhfQ",
+      "title": "愛媛MP 夢のクロスロード ドラフト候補選手",
+      "description": "",
+      "publishedAt": "2026-10-24T02:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Hi27dl9nhfQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Hi27dl9nhfQ"
+    },
     {
       "id": "hUVI0eIXwes",
       "title": "愛媛のニュース(10月23日)",

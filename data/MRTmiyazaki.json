@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-10-22T19:05:39.505377",
+  "updated_at": "2026-10-24T17:57:09.958677",
   "videos": [
+    {
+      "id": "VrXmhKbxW5k",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-10-24T03:28:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VrXmhKbxW5k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VrXmhKbxW5k"
+    },
     {
       "id": "woYvBpa7Olg",
       "title": "【第144回】だいちゃんと行く‼︎よりみちさんぽ〈お疲れ解消法〉",

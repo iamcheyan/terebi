@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-10-18T17:53:19.290124",
+  "updated_at": "2026-10-24T17:56:14.406740",
   "videos": [
+    {
+      "id": "1bcKZzGX7JU",
+      "title": "【よゐこ有野】この街、攻略しとく？大阪城公園をぶーらぶら～番組初の公開収録！YATAIフェス！で大盛り上がりの巻～",
+      "description": "",
+      "publishedAt": "2026-10-24T01:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1bcKZzGX7JU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1bcKZzGX7JU"
+    },
     {
       "id": "Kh-0pQZkedA",
       "title": "食遺産File.267「一遍ねぎボナーラ」＠京都府・八幡市",
