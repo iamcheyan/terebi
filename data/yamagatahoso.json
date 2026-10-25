@@ -1,8 +1,20 @@
 {
   "channel_id": "UCq4EHq2s9H8hBPXZVOi9alw",
   "channel_name": "YBC山形放送",
-  "updated_at": "2026-10-18T17:54:01.955887",
+  "updated_at": "2026-10-25T18:15:10.289023",
   "videos": [
+    {
+      "id": "UagI4LGfh6o",
+      "title": "やまがたサンデー５　１０月２５日放送分　庄内海岸林の今　～防除から再生・保全に向けて～",
+      "description": "",
+      "publishedAt": "2026-10-25T08:30:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UagI4LGfh6o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UagI4LGfh6o"
+    },
     {
       "id": "YRRR3MTBtA8",
       "title": "やまがたサンデー５　１０月１８日放送分　山形に生きた狩人たちを追い求めて",

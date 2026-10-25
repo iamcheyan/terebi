@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-10-24T17:56:55.111269",
+  "updated_at": "2026-10-25T18:14:39.707048",
   "videos": [
+    {
+      "id": "MkRq0Cj7ayw",
+      "title": "【ABSラジオ×radiko】Rを連れて街を行こう！ver.2",
+      "description": "",
+      "publishedAt": "2026-10-25T15:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MkRq0Cj7ayw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MkRq0Cj7ayw"
+    },
+    {
+      "id": "VG3fJiNmX_c",
+      "title": "【知っトク医療のつぼ】ワクチン定期接種に　RSウイルス",
+      "description": "",
+      "publishedAt": "2026-10-25T15:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VG3fJiNmX_c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VG3fJiNmX_c"
+    },
     {
       "id": "UDBhQfvrWro",
       "title": "ABS秋田放送　お天気カメラ　秋田空港 （ABS's Weather Live Camera in Akita Airport）",

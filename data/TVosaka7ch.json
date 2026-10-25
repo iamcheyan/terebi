@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-10-24T17:56:14.406740",
+  "updated_at": "2026-10-25T18:14:03.247540",
   "videos": [
+    {
+      "id": "NfS8QyMlukc",
+      "title": "食遺産File.268「紅はるかのホクあま酢豚」＠京都府・京田辺市",
+      "description": "",
+      "publishedAt": "2026-10-25T03:45:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NfS8QyMlukc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NfS8QyMlukc"
+    },
     {
       "id": "1bcKZzGX7JU",
       "title": "【よゐこ有野】この街、攻略しとく？大阪城公園をぶーらぶら～番組初の公開収録！YATAIフェス！で大盛り上がりの巻～",

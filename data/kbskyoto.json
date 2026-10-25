@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-10-23T18:55:14.383861",
+  "updated_at": "2026-10-25T18:14:28.849939",
   "videos": [
+    {
+      "id": "5nHP-JFsAJM",
+      "title": "【準決勝・第2試合】京都工学院 vs 同志社｜第106回 全国高等学校ラグビーフットボール大会 京都府予選",
+      "description": "",
+      "publishedAt": "2026-10-25T07:25:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5nHP-JFsAJM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5nHP-JFsAJM"
+    },
+    {
+      "id": "B8v2utzMlw8",
+      "title": "【準決勝・第1試合】洛北 vs 京都成章｜第106回 全国高等学校ラグビーフットボール大会 京都府予選",
+      "description": "",
+      "publishedAt": "2026-10-25T07:21:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B8v2utzMlw8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B8v2utzMlw8"
+    },
     {
       "id": "QV4NbJm4zxA",
       "title": "【準々決勝・第2試合】洛北 vs 洛水｜第106回 全国高等学校ラグビーフットボール大会 京都府予選",

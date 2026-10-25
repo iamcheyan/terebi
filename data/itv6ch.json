@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-10-24T17:57:29.638077",
+  "updated_at": "2026-10-25T18:15:11.530911",
   "videos": [
+    {
+      "id": "nF6wX4LzOMA",
+      "title": "愛媛のニュース(10月25日)",
+      "description": "",
+      "publishedAt": "2026-10-25T11:32:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nF6wX4LzOMA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nF6wX4LzOMA"
+    },
+    {
+      "id": "rUk2J-MRjRA",
+      "title": "【愛媛・鬼北町】2,500人分の「ジャンボきじ鍋」も！秋恒例の「でちこんか」",
+      "description": "",
+      "publishedAt": "2026-10-25T03:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rUk2J-MRjRA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rUk2J-MRjRA"
+    },
     {
       "id": "ai4CxnM39XE",
       "title": "愛媛のニュース(10月24日)",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCjPVLguFrd6DTfHl2McrPjw",
   "channel_name": "OTV沖縄テレビ",
-  "updated_at": "2026-10-24T17:57:13.082329",
+  "updated_at": "2026-10-25T18:14:56.933940",
   "videos": [
+    {
+      "id": "sFNg2ieXCtk",
+      "title": "台風一過　石垣市で被害の爪痕深く (26/10/25 18:00)",
+      "description": "",
+      "publishedAt": "2026-10-25T09:20:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sFNg2ieXCtk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sFNg2ieXCtk"
+    },
+    {
+      "id": "FBTmVEzEnb8",
+      "title": "那覇市長選挙　投票が始まる（沖縄テレビ）2026/10/25",
+      "description": "",
+      "publishedAt": "2026-10-25T03:15:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FBTmVEzEnb8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FBTmVEzEnb8"
+    },
+    {
+      "id": "mcueiMUTxUc",
+      "title": "うるま市でカジマヤー元気の秘訣は「コーラ！」（沖縄テレビ）2026/10/25",
+      "description": "",
+      "publishedAt": "2026-10-24T23:41:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mcueiMUTxUc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mcueiMUTxUc"
+    },
     {
       "id": "C9XiVFMQWSA",
       "title": "大相撲うるま場所に向け立浪親方と二所ノ関親方がみどころを語る (26/10/24 18:00)",
