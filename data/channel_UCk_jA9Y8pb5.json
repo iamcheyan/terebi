@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-10-20T19:01:09.893006",
+  "updated_at": "2026-10-26T20:22:23.804873",
   "videos": [
+    {
+      "id": "k3NyyJYeP5I",
+      "title": "季節のいけばな11月13日テーマ「秋冷」",
+      "description": "",
+      "publishedAt": "2026-10-26T03:54:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k3NyyJYeP5I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k3NyyJYeP5I"
+    },
+    {
+      "id": "Zu4Lt2dn2Ac",
+      "title": "季節のいけばな１１月１９日テーマ「宇宙」",
+      "description": "",
+      "publishedAt": "2026-10-26T03:47:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Zu4Lt2dn2Ac/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Zu4Lt2dn2Ac"
+    },
     {
       "id": "7HDiPRdzuk0",
       "title": "【パシャロケ！】ベストショット探しの旅　龍飛崎周辺",

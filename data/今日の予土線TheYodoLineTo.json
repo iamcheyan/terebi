@@ -1,8 +1,68 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-25T18:15:18.354630",
+  "updated_at": "2026-10-26T20:23:02.428909",
   "videos": [
+    {
+      "id": "r2MPCATlmbo",
+      "title": "261026 155303 ちいさな鉄橋",
+      "description": "",
+      "publishedAt": "2026-10-26T12:34:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r2MPCATlmbo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r2MPCATlmbo"
+    },
+    {
+      "id": "sfT_Uwb2Z4A",
+      "title": "261026 154609 ちいさな鉄橋",
+      "description": "",
+      "publishedAt": "2026-10-26T12:29:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sfT_Uwb2Z4A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sfT_Uwb2Z4A"
+    },
+    {
+      "id": "-qe1QqRLDZQ",
+      "title": "261026 153839 大内第２踏切（黄色い列車通過）",
+      "description": "",
+      "publishedAt": "2026-10-26T12:10:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-qe1QqRLDZQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-qe1QqRLDZQ"
+    },
+    {
+      "id": "I2H9bBUwLaQ",
+      "title": "261026 153502 大内第２踏切 ２",
+      "description": "",
+      "publishedAt": "2026-10-26T12:08:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I2H9bBUwLaQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I2H9bBUwLaQ"
+    },
+    {
+      "id": "wcsbgb71e_s",
+      "title": "261026 153109 大内第２踏切",
+      "description": "",
+      "publishedAt": "2026-10-26T11:47:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wcsbgb71e_s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wcsbgb71e_s"
+    },
     {
       "id": "Xx935eteLVI",
       "title": "今週の予土線 The Yodo Line Weekly 2026 10 25",

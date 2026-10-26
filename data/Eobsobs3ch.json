@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-10-23T18:56:03.342153",
+  "updated_at": "2026-10-26T20:22:46.676949",
   "videos": [
+    {
+      "id": "m8cxn5UKSGo",
+      "title": "【OBSテレビ・ラジオ／BS-TBS】２０２６大分国際車いすマラソン",
+      "description": "",
+      "publishedAt": "2026-10-26T00:59:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m8cxn5UKSGo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m8cxn5UKSGo"
+    },
     {
       "id": "IdVAyWmhKN8",
       "title": "【別府市】hyde out（2026年10月7日放送分）",

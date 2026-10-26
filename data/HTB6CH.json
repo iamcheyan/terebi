@@ -1,8 +1,32 @@
 {
   "channel_id": "UCuY1i-Tic2G2xmox2_0h-Fw",
   "channel_name": "HTB北海道テレビ",
-  "updated_at": "2026-10-24T17:57:01.702571",
+  "updated_at": "2026-10-26T20:22:37.472204",
   "videos": [
+    {
+      "id": "lDeguJ__sdE",
+      "title": "道産食材を使った新店特集",
+      "description": "",
+      "publishedAt": "2026-10-26T03:30:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lDeguJ__sdE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lDeguJ__sdE"
+    },
+    {
+      "id": "2l-EWs6bS1o",
+      "title": "【濃厚クリームパスタ】かぼちゃの種から皮までふんだんに使用『かぼスパ』",
+      "description": "",
+      "publishedAt": "2026-10-25T21:45:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2l-EWs6bS1o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2l-EWs6bS1o"
+    },
     {
       "id": "seqdUPOj0vo",
       "title": "【イチモニ！反省会】「モニまでそれ正解！」　お題に対して指定された頭文字で答えます。誰がもっとも的を射ているか競います。",

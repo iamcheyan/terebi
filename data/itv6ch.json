@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-10-25T18:15:11.530911",
+  "updated_at": "2026-10-26T20:22:57.827172",
   "videos": [
+    {
+      "id": "8dZnHUPPaRM",
+      "title": "「書道×伝統芸能」伊予高書道部の新たな挑戦",
+      "description": "",
+      "publishedAt": "2026-10-26T02:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8dZnHUPPaRM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8dZnHUPPaRM"
+    },
     {
       "id": "nF6wX4LzOMA",
       "title": "愛媛のニュース(10月25日)",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-23T18:55:27.054324",
+  "updated_at": "2026-10-26T20:22:08.353548",
   "videos": [
+    {
+      "id": "SdCOoUWJnS0",
+      "title": "【化石発掘に沸く！】琥珀（こはく）の産地として知られる久慈市で、ここ数年、恐竜などの貴重な化石が相次いで見つかっています",
+      "description": "",
+      "publishedAt": "2026-10-26T04:26:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SdCOoUWJnS0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SdCOoUWJnS0"
+    },
     {
       "id": "Kp3P2mm24ic",
       "title": "【アートで創造 螺鈿(らでん)細工】螺鈿細工は様々な素材と組み合わせることで唯一無二の輝きを放ちます",

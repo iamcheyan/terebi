@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-10-24T17:56:32.982181",
+  "updated_at": "2026-10-26T20:22:11.506413",
   "videos": [
+    {
+      "id": "72nDFXuFDW0",
+      "title": "【ベジ得】新ショウガ",
+      "description": "",
+      "publishedAt": "2026-10-26T09:58:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/72nDFXuFDW0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=72nDFXuFDW0"
+    },
     {
       "id": "O8FgkRr021s",
       "title": "【ゆ～ばら！】愛媛を飛び出して大分県へ！中岡さんが臼杵市の魅力をお届け！【「大人の臼杵旅」　第２弾】",

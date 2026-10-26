@@ -1,8 +1,32 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-10-25T18:14:06.032508",
+  "updated_at": "2026-10-26T20:22:28.231079",
   "videos": [
+    {
+      "id": "pWltgVg44Xc",
+      "title": "「全国得点王でキャプテン！」八雲学園の最強留学生 テウ・アダマ",
+      "description": "",
+      "publishedAt": "2026-10-26T08:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pWltgVg44Xc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pWltgVg44Xc"
+    },
+    {
+      "id": "QBpHeioVBtI",
+      "title": "全日本大学駅伝・早稲田大学  Waseda Pride #覇者で在れ 【GET SPORTS】",
+      "description": "",
+      "publishedAt": "2026-10-25T23:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QBpHeioVBtI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QBpHeioVBtI"
+    },
     {
       "id": "XRuYzKW0Hws",
       "title": "「走りなよあんた！」八雲学園バスケ部、最恐監督と最強留学生！",

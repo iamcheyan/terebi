@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-10-25T18:14:03.247540",
+  "updated_at": "2026-10-26T20:21:55.067387",
   "videos": [
+    {
+      "id": "A6g-wGJ1EDI",
+      "title": "【チャリキシャ！】10月31日(土)お昼11時57分放送～！なかやまきんに君＆あかつの自由気ままな自転車旅！　#なかやまきんに君　#あかつ",
+      "description": "",
+      "publishedAt": "2026-10-26T08:45:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A6g-wGJ1EDI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A6g-wGJ1EDI"
+    },
     {
       "id": "NfS8QyMlukc",
       "title": "食遺産File.268「紅はるかのホクあま酢豚」＠京都府・京田辺市",

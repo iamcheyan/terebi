@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-10-25T18:14:00.907331",
+  "updated_at": "2026-10-26T20:22:28.560834",
   "videos": [
+    {
+      "id": "E8GjBRhLB_o",
+      "title": "和歌山県 局地的に激しい雨 秋雨前線の影響 河川の増水や土砂災害などに警戒を",
+      "description": "",
+      "publishedAt": "2026-10-26T09:30:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/E8GjBRhLB_o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=E8GjBRhLB_o"
+    },
     {
       "id": "V16Yc3jqkAM",
       "title": "和歌山市 10月の観測史上最大 1時間の降水量 和歌山県内荒れた天気に レベル4の土砂災害危険警報も",
