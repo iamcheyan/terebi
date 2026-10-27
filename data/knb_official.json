@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-10-20T19:01:27.566968",
+  "updated_at": "2026-10-27T19:54:28.974749",
   "videos": [
+    {
+      "id": "JJiGaipJcr8",
+      "title": "【旬景とやま】晩秋の有峰",
+      "description": "",
+      "publishedAt": "2026-10-27T10:37:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JJiGaipJcr8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JJiGaipJcr8"
+    },
     {
       "id": "jg069RaGLAk",
       "title": "【旬景とやま】コスモスの夜明け",

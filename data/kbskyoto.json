@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-10-25T18:14:28.849939",
+  "updated_at": "2026-10-27T19:53:54.690331",
   "videos": [
+    {
+      "id": "Id8GOMg7oas",
+      "title": "【特集】新たなビジネスチャンスが生まれる「中信ビジネスフェア2026」／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-10-27T09:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Id8GOMg7oas/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Id8GOMg7oas"
+    },
+    {
+      "id": "isRzXT1s094",
+      "title": "南陽高生が探究学習で水害を防ぐ｜木津川市｜【ふるさとDays】",
+      "description": "",
+      "publishedAt": "2026-10-27T02:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/isRzXT1s094/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=isRzXT1s094"
+    },
     {
       "id": "5nHP-JFsAJM",
       "title": "【準決勝・第2試合】京都工学院 vs 同志社｜第106回 全国高等学校ラグビーフットボール大会 京都府予選",

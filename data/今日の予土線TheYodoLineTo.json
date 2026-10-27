@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-10-26T20:23:02.428909",
+  "updated_at": "2026-10-27T19:54:46.291051",
   "videos": [
+    {
+      "id": "1BElL59OOKY",
+      "title": "261027 140321 永野市第１踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-10-27T10:02:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1BElL59OOKY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1BElL59OOKY"
+    },
+    {
+      "id": "VyGpVkF-Cak",
+      "title": "261027 135950 永野市第１踏切",
+      "description": "",
+      "publishedAt": "2026-10-27T09:56:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VyGpVkF-Cak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VyGpVkF-Cak"
+    },
     {
       "id": "r2MPCATlmbo",
       "title": "261026 155303 ちいさな鉄橋",

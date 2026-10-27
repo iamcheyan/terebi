@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-10-26T20:22:00.575410",
+  "updated_at": "2026-10-27T19:54:13.399102",
   "videos": [
+    {
+      "id": "1WMvLX0fYPY",
+      "title": "【あさは５ちゃん！】2026年10月31日放送",
+      "description": "",
+      "publishedAt": "2026-10-27T04:34:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1WMvLX0fYPY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1WMvLX0fYPY"
+    },
     {
       "id": "wDDaMzIuDBY",
       "title": "かみのやま温泉街を街ブラ散歩！歴史遺産、スイーツ、グルメを歩いて、食べて、発見！おもしろ店主との出会いも！？",

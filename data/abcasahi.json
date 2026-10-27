@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-10-26T20:22:29.878235",
+  "updated_at": "2026-10-27T19:54:03.723843",
   "videos": [
+    {
+      "id": "Lo-w05Q1lCE",
+      "title": "「ポツンと一軒家」11月1日（日）よる7:54放送！",
+      "description": "",
+      "publishedAt": "2026-10-27T08:51:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Lo-w05Q1lCE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Lo-w05Q1lCE"
+    },
+    {
+      "id": "1ovyc2Wa4sE",
+      "title": "「探偵！ナイトスクープ」10月30日（金）深夜放送！",
+      "description": "",
+      "publishedAt": "2026-10-27T08:34:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1ovyc2Wa4sE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1ovyc2Wa4sE"
+    },
     {
       "id": "3hXgIQxzSNo",
       "title": "「news おかえり」10月28日(水)午後3時40分～放送",

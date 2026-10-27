@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-26T20:22:08.353548",
+  "updated_at": "2026-10-27T19:54:10.193560",
   "videos": [
+    {
+      "id": "s64X3vgD8m8",
+      "title": "【鋭い気迫と美しい型(かた)】空手の全国大会でことし、次々と入賞を果たした盛岡市の女性がいます",
+      "description": "",
+      "publishedAt": "2026-10-27T00:50:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s64X3vgD8m8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s64X3vgD8m8"
+    },
     {
       "id": "SdCOoUWJnS0",
       "title": "【化石発掘に沸く！】琥珀（こはく）の産地として知られる久慈市で、ここ数年、恐竜などの貴重な化石が相次いで見つかっています",

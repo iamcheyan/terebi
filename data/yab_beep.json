@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7oQ9uMD7914CY7-ZheHrow",
   "channel_name": "山口朝日放送（yab）",
-  "updated_at": "2026-10-23T18:55:16.997373",
+  "updated_at": "2026-10-27T19:54:07.676110",
   "videos": [
+    {
+      "id": "dc7QStE1Lxg",
+      "title": "11/3(火・祝)yabレノファ全力応援生中継",
+      "description": "",
+      "publishedAt": "2026-10-27T07:25:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dc7QStE1Lxg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dc7QStE1Lxg"
+    },
+    {
+      "id": "qHKTUEOczsU",
+      "title": "11/3(火・祝)yabレノファ全力応援生中継",
+      "description": "",
+      "publishedAt": "2026-10-27T07:24:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qHKTUEOczsU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qHKTUEOczsU"
+    },
     {
       "id": "5aLavRxRrxo",
       "title": "11/4(水)よる7時 yab特別番組【お宝伝説】",
