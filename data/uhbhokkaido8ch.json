@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-10-27T19:54:40.946923",
+  "updated_at": "2026-10-28T20:11:28.478506",
   "videos": [
+    {
+      "id": "WCB5hvRMMYE",
+      "title": "みんテレ　10月29日（木）放送",
+      "description": "",
+      "publishedAt": "2026-10-28T10:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WCB5hvRMMYE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WCB5hvRMMYE"
+    },
+    {
+      "id": "NK4-jf-SxlY",
+      "title": "子どもたちに“秘密”のインタビュー！｜カルチャーナイトのひみちゅ。きかせて#33",
+      "description": "",
+      "publishedAt": "2026-10-28T08:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NK4-jf-SxlY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NK4-jf-SxlY"
+    },
     {
       "id": "1DH7mD5qaPI",
       "title": "みんテレ　10月28日（水）放送",

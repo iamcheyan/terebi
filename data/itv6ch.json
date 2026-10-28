@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-10-27T19:54:42.460076",
+  "updated_at": "2026-10-28T20:11:31.203408",
   "videos": [
+    {
+      "id": "QNvlnkHRso8",
+      "title": "愛媛のニュース(10月28日)",
+      "description": "",
+      "publishedAt": "2026-10-28T11:37:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QNvlnkHRso8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QNvlnkHRso8"
+    },
+    {
+      "id": "pQObrEh4ZU0",
+      "title": "STU48と愛媛をEVドライブ！【第35回】ブルークエスト with STU48（松山市 ALOHA TERRACE）",
+      "description": "",
+      "publishedAt": "2026-10-28T03:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pQObrEh4ZU0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pQObrEh4ZU0"
+    },
     {
       "id": "6n29a7qpzGc",
       "title": "愛媛のニュース(10月27日)",

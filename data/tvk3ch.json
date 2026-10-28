@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-10-27T19:53:53.025751",
+  "updated_at": "2026-10-28T20:10:09.522867",
   "videos": [
+    {
+      "id": "fLUbuqGKE1M",
+      "title": "カナフルTV　10月25日　心落ち着くぬくもり！県産木材を使おう！！～豊かな森林を未来へ～",
+      "description": "",
+      "publishedAt": "2026-10-28T04:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fLUbuqGKE1M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fLUbuqGKE1M"
+    },
+    {
+      "id": "avGH6d6ratQ",
+      "title": "かながわ旬菜ナビ　次回予告（11月1日放送）",
+      "description": "",
+      "publishedAt": "2026-10-28T03:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/avGH6d6ratQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=avGH6d6ratQ"
+    },
     {
       "id": "b2UZtJICOsQ",
       "title": "クルマのカタリバ ～「軽」の現在地～ tvk「クルマでいこう！」公式 2026/10/18放送(#963)",
