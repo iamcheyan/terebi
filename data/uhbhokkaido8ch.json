@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-10-28T20:11:28.478506",
+  "updated_at": "2026-10-29T20:06:33.496937",
   "videos": [
+    {
+      "id": "YsB1J5c5ooI",
+      "title": "みんテレ　10月30日（金）放送",
+      "description": "",
+      "publishedAt": "2026-10-29T10:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YsB1J5c5ooI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YsB1J5c5ooI"
+    },
+    {
+      "id": "Fz2SJBruscI",
+      "title": "子どもたちに“秘密”のインタビュー！｜みんなが好きなことのひみちゅ。きかせて#34",
+      "description": "",
+      "publishedAt": "2026-10-29T08:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Fz2SJBruscI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Fz2SJBruscI"
+    },
     {
       "id": "WCB5hvRMMYE",
       "title": "みんテレ　10月29日（木）放送",

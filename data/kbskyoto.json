@@ -1,8 +1,44 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-10-28T20:10:48.928076",
+  "updated_at": "2026-10-29T20:06:05.886217",
   "videos": [
+    {
+      "id": "2pLLQUu5ZYM",
+      "title": "【京の風】音が生み出すアート現代美術家・工学博士　土佐尚子さん／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-10-29T09:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2pLLQUu5ZYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2pLLQUu5ZYM"
+    },
+    {
+      "id": "Ez-w7KNkX3k",
+      "title": "【準決勝・第2試合】第105回全国高校サッカー選手権大会京都大会",
+      "description": "",
+      "publishedAt": "2026-10-29T02:01:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ez-w7KNkX3k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ez-w7KNkX3k"
+    },
+    {
+      "id": "gQE_0r9odAg",
+      "title": "【準決勝・第1試合】第105回全国高校サッカー選手権大会京都大会",
+      "description": "",
+      "publishedAt": "2026-10-29T01:50:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gQE_0r9odAg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gQE_0r9odAg"
+    },
     {
       "id": "5j8qdPbjKUQ",
       "title": "自家焙煎コーヒーとアンティークROASTERY DAUGHTER / ANTIQUES SON／おでかけキュンと！",

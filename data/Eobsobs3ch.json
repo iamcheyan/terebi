@@ -1,8 +1,32 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-10-28T20:11:13.976660",
+  "updated_at": "2026-10-29T20:06:27.724761",
   "videos": [
+    {
+      "id": "G1qQOBXnyUo",
+      "title": "【大分市】おむすび そ。（2026年10月14日放送分）",
+      "description": "",
+      "publishedAt": "2026-10-29T03:53:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G1qQOBXnyUo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G1qQOBXnyUo"
+    },
+    {
+      "id": "aPVPTWP_D44",
+      "title": "【OBSラジオ祭りinわっタン】11月1日(日)📍トキハわさだタウン🌟アナステッカーみくじ【radikoブース】にて1回100円全8種※無くなり次第終了🌟イベント詳細は「🔎OBSラジオ祭り」",
+      "description": "",
+      "publishedAt": "2026-10-29T03:43:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aPVPTWP_D44/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aPVPTWP_D44"
+    },
     {
       "id": "iYujBSFnFjg",
       "title": "【別府市】大分ラーメン しらしんけん（2026年10月14日放送分）",

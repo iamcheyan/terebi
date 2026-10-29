@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9r31LvpWhWU0aJdAirOZDQ",
   "channel_name": "テレビ山口（tys）",
-  "updated_at": "2026-09-24T18:52:54.004015",
+  "updated_at": "2026-10-29T20:06:16.174802",
   "videos": [
+    {
+      "id": "VLotprp7h7E",
+      "title": "【ライブ配信】山口市・ｔｙｓ本社ライブカメラ（仁保川） ＜tysテレビ山口【公式】＞",
+      "description": "",
+      "publishedAt": "2026-10-29T04:37:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VLotprp7h7E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VLotprp7h7E"
+    },
     {
       "id": "BO-QDRQGUHA",
       "title": "【ライブ配信】山口市・ｔｙｓ本社ライブカメラ（仁保川） ＜tysテレビ山口【公式】＞",

@@ -1,8 +1,224 @@
 {
   "channel_id": "UCOLVB0iYK8ahQ0mFn-lF-8g",
-  "channel_name": "SBS静岡放送",
-  "updated_at": "2026-10-28T20:11:17.361360",
+  "channel_name": "SBSnews6",
+  "original_name": "SBS静岡放送",
+  "updated_at": "2026-10-29T20:07:47.339999",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gdlYR1UwKBR6IkopuOGM-WBpt0I",
+      "id": "VVVPTFZCMGlZSzhhaFEwbUZuLWxGLThnLmU4MVpIRnBUVklZ",
+      "snippet": {
+        "publishedAt": "2026-10-29T20:03:53Z",
+        "channelId": "UCOLVB0iYK8ahQ0mFn-lF-8g",
+        "title": "「10年前に比べて約2倍」サバ価格高騰で\"サバショック\" 消費減税でさらなる打撃も 専用漁船ゼロで名物祭りも中止【イマコレ】",
+        "description": "今回取り上げるのは「サバショック」です。かつては家計に優しい魚だったサバが近年、漁獲量の減少などで高値が続いています。\n\nこのサバショック、2027年の消費減税が追い打ちをかけるのではと懸念されています。\n\n「本当に高級魚になってしまった」\n\n静岡県焼津市にある和食店「ととや新兵衛」。脂の乗ったサバ料理を楽しむことができます。＜LIVEしずおか 杉本真子キャスター＞\n「いただきます。おいしい！程よい塩気としっかり肉感があって食べ応えがありますね。ご飯も食べたくなります」\n\nかつてお手頃な魚の代表格だったサバですが、近年は「高級化」が進んでいます。＜杉本キャスター＞\n「サバの価格っていうのはどういう風に変化してますか？」\n\n＜ととや新兵衛 杉山明人店主＞\n「10年前に比べて約2倍になっていますね。専門店である以上は品質を落としてまでは考えたくない。本当に高級魚になってしまいましたのでね」\n\nスーパーでも1.5倍に高騰 仕入れ見送りで切り身並ばないケースも\n\nサバ価格の高騰「サバショック」の影響はスーパーでも…。\n\n＜杉本キャスター＞\n「サバのお刺身ですね。価格としてはどんな変化がありますか」\n\n＜富士屋中田店 高橋豊茂店長＞\n「1.5倍です。発注書を見るとこれびっくりするような価格でこれでは売り場に出せないなっていう値段になってしまっているので。そういった時は発注をしないっていうときもあります。切り身が並ばない場合はありますね」\n\n名物さば祭りも7年前から中止に\n\nサバショックの大きな要因は水揚げ量の減少です。県内のサバ水揚げ量の変化をみると年によってばらつきはあるもののマサバ、ゴマサバともに減少傾向にあります。\n\n＜杉本キャスター＞\n「県内の港にも変化があります。サバ漁が盛んな焼津市の小川港では、かつて30隻近く所属したサバの専用漁船が2026年3月にゼロになってしまったということです」かつて1万食のサバが無料で振る舞われ多くの人でにぎわった焼津市の名物「小川港さば祭り」ですが...2019年から開催されていません。\n\n県内の漁業の形すら変えてしまったサバショック。ここに追い打ちをかけると懸念されているのが2027年4月からの消費減税です。\n\n消費減税で2100万円減収の試算も\n\n＜長宝丸漁業 金指治幸代表＞\n「本当にこういう部分の減収にはちょっと頭が痛いというか、対応できるかなっていうのがありますね」\n\n例えば3億円のサバの水揚げがあった時、8%の消費税であれば一時的に2400万円が収入に上乗せされます。\n\nしかし、7%の減税が適用され1%の消費税となると上乗せは300万円に。事実上、2100万円も収入が減る事態になるのです。＜長宝丸漁業 金指代表＞\n「物品を買ったりするのは（軽減税率が適用されず）10%なんで、それは変わらずやっていかなきゃならない。船の設備、部品、網もそうですよね。全部それはもう10%で変わらずなので」\n\n国産より高いノルウェー産サバ 世界的な「サバ争奪戦」続く恐れ\n\n国産が減っているのなら頼りになりそうなのが海外産のサバですが、今回取材したスーパー富士屋では国産サバは350円ほど、ノルウェーサバは650円ほどといまは輸入ものの方が高いということです。\n\n背景にあるのがノルウェーの漁獲制限です。\n\nノルウェーでは資源量を確保するため2026年からサバの漁獲枠がこれまでの半分に制限されました。\n\nヘルシーなサバは世界中で人気が高まっていて今後も「サバ争奪戦」が続くと価格の高騰は続く恐れがあります。\n\n詳細は NEWS DIG でも！↓\nhttps://newsdig.tbs.co.jp/articles/-/3048309",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e81ZHFpTVIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e81ZHFpTVIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e81ZHFpTVIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e81ZHFpTVIY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e81ZHFpTVIY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SBSnews6",
+        "playlistId": "UUOLVB0iYK8ahQ0mFn-lF-8g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e81ZHFpTVIY"
+        },
+        "videoOwnerChannelTitle": "SBSnews6",
+        "videoOwnerChannelId": "UCOLVB0iYK8ahQ0mFn-lF-8g"
+      }
+    },
+    {
+      "id": "Vw5RfjTk8Kk",
+      "title": "浜松駅近くの住宅街でシカ出没 #SBSNEWS #shorts",
+      "description": "",
+      "publishedAt": "2026-10-29T11:31:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Vw5RfjTk8Kk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Vw5RfjTk8Kk"
+    },
+    {
+      "id": "HSVoUZaqTSk",
+      "title": "「すごい音がして角が…」浜松駅近くの住宅街に体長1メートルほどのニホンジカ出没 山林に逃げ込み姿消す 被害の情報なし",
+      "description": "",
+      "publishedAt": "2026-10-29T11:24:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HSVoUZaqTSk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HSVoUZaqTSk"
+    },
+    {
+      "id": "TUVXtbw1xcQ",
+      "title": "「駄菓子というよりは洋菓子」懐かしのさくら棒が\"ラスク\"へ進化！製麺所の技術生かした新感覚の「ころりふ」＝静岡【しずおかモノ語り】",
+      "description": "",
+      "publishedAt": "2026-10-29T11:11:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TUVXtbw1xcQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TUVXtbw1xcQ"
+    },
+    {
+      "id": "Dn0GknRxsnw",
+      "title": "特殊詐欺の「受け子」として警察官装い60代男性から約9000万円をだまし取ったか 17歳男子高校生逮捕＝静岡県警",
+      "description": "",
+      "publishedAt": "2026-10-29T11:05:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Dn0GknRxsnw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Dn0GknRxsnw"
+    },
+    {
+      "id": "HAyqVozWkRA",
+      "title": "特殊詐欺の資金で日用品購入しベトナム輸出か マネーロンダリング疑いで貿易商社社長ら3人逮捕＝栃木県",
+      "description": "",
+      "publishedAt": "2026-10-29T11:02:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HAyqVozWkRA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HAyqVozWkRA"
+    },
+    {
+      "id": "aICh9iXXVrg",
+      "title": "「知らないうちに脱水症になる可能性」県内冷え込み秋本番へ 急激な冷え込み、医師に聞く体調管理の留意点",
+      "description": "",
+      "publishedAt": "2026-10-29T10:57:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aICh9iXXVrg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aICh9iXXVrg"
+    },
+    {
+      "id": "OmGsGHUlPKk",
+      "title": "浜岡原発1、2号機廃炉工事で請負会社に2億円以上多く支払い データ書き換えで請求額上振れか 2024年度の36件の工事のうち16件で書き換え＝愛知・名古屋市",
+      "description": "",
+      "publishedAt": "2026-10-29T10:56:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OmGsGHUlPKk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OmGsGHUlPKk"
+    },
+    {
+      "id": "vQzMKcT0jJ0",
+      "title": "震度6弱以上の地震発生時に避難所を早期開設へ 静岡市が9年ぶりに「応急危険度判定」の勉強会を開催",
+      "description": "",
+      "publishedAt": "2026-10-29T10:55:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vQzMKcT0jJ0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vQzMKcT0jJ0"
+    },
+    {
+      "id": "_by_IDjCPdc",
+      "title": "「気化熱で熱を逃がす」紙のまち富士市で地元企業の\"紙製マルチシート\"使ったサツマイモ収穫！高温障害対策に期待＝静岡・富士市",
+      "description": "",
+      "publishedAt": "2026-10-29T10:54:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_by_IDjCPdc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_by_IDjCPdc"
+    },
+    {
+      "id": "pcE6qqHCsqs",
+      "title": "「ただの甘柿には戻れない」独特の風味と素朴な甘み 特産の秋の味覚「四ッ溝柿」目ぞろえ会 11月上旬から出荷ピークへ＝静岡・長泉町",
+      "description": "",
+      "publishedAt": "2026-10-29T10:52:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pcE6qqHCsqs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pcE6qqHCsqs"
+    },
+    {
+      "id": "wIy2EvFM26U",
+      "title": "千葉県で最大震度5弱の強い地震 神奈川、埼玉、栃木、茨城、東京などでも揺れ 静岡でも最大震度2 津波の心配なし【地震情報】",
+      "description": "",
+      "publishedAt": "2026-10-29T03:43:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wIy2EvFM26U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wIy2EvFM26U"
+    },
+    {
+      "id": "NECF_9rmRbE",
+      "title": "特殊詐欺の被害金で商品購入、ベトナムに輸出しマネーロンダリングか 貿易商社の社長ら3人逮捕＝静岡県警",
+      "description": "",
+      "publishedAt": "2026-10-29T03:42:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NECF_9rmRbE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NECF_9rmRbE"
+    },
+    {
+      "id": "_phtRDwryjg",
+      "title": "伊東名物「祇園のいなり寿し」復活 10月29日の営業再開にぎわう「本当にうれしい」「感動」＝静岡・伊東市",
+      "description": "",
+      "publishedAt": "2026-10-29T03:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_phtRDwryjg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_phtRDwryjg"
+    },
+    {
+      "id": "1FVvoYBkFic",
+      "title": "「人をひいたという認識はしていなかった」死亡ひき逃げ事件初公判 被告の女が起訴内容一部否認＝静岡地裁沼津支部",
+      "description": "",
+      "publishedAt": "2026-10-29T03:29:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1FVvoYBkFic/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1FVvoYBkFic"
+    },
     {
       "id": "WP4Qum1sNTo",
       "title": "「殺してやる」元妻の実家の留守番電話に複数回メッセージ吹き込み脅迫か 静岡財務事務所参事逮捕＝静岡",
