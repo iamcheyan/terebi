@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-29T20:06:11.136050",
+  "updated_at": "2026-10-30T19:53:22.696774",
   "videos": [
+    {
+      "id": "5iwiQXa6ueY",
+      "title": "【気象予報士穴澤さんのあな天】テーマは「タイヤ交換の目安の気温は何℃」",
+      "description": "",
+      "publishedAt": "2026-10-30T10:40:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5iwiQXa6ueY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5iwiQXa6ueY"
+    },
+    {
+      "id": "n36D2l_zM2E",
+      "title": "【わんカメＬＩＶＥ】およそ８４０年前、鎌倉時代の初期に建てられた遠野市の遠野郷八幡宮から",
+      "description": "",
+      "publishedAt": "2026-10-30T01:53:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/n36D2l_zM2E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=n36D2l_zM2E"
+    },
     {
       "id": "5VeFffpIr8k",
       "title": "【書道でつなぐ 震災への思い】力強い筆づかいで生み出す作品を通して震災への思いを未来につなぐ",

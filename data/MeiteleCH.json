@@ -1,8 +1,56 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-10-26T20:22:15.674102",
+  "updated_at": "2026-10-30T19:53:16.779091",
   "videos": [
+    {
+      "id": "60RLjcxaPs8",
+      "title": "吉冨アナ｜もうすぐハロウィンSP！（メ～テレアナch）【一部特別公開】",
+      "description": "",
+      "publishedAt": "2026-10-30T09:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/60RLjcxaPs8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=60RLjcxaPs8"
+    },
+    {
+      "id": "BZxlb70qJg4",
+      "title": "憧れの人✨「池上彰さん」【アナメロ】",
+      "description": "",
+      "publishedAt": "2026-10-30T09:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BZxlb70qJg4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BZxlb70qJg4"
+    },
+    {
+      "id": "xQUj1F0rc84",
+      "title": "憧れの人✨「坂本龍馬」【アナメロ】",
+      "description": "",
+      "publishedAt": "2026-10-30T08:59:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xQUj1F0rc84/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xQUj1F0rc84"
+    },
+    {
+      "id": "sOd_kL5jPCw",
+      "title": "憧れの人✨「稲葉浩志さん」【アナメロ】",
+      "description": "",
+      "publishedAt": "2026-10-30T08:58:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sOd_kL5jPCw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sOd_kL5jPCw"
+    },
     {
       "id": "Wn0htFcvKyY",
       "title": "【メ～ロメロ！】「ドデ祭2026」ステージに、メ～テレとテレビ愛知の女性アナウンサー7人が勢ぞろい！豪華メンバーによる三番勝負の結果は!?",
