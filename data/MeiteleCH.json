@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-10-30T19:53:16.779091",
+  "updated_at": "2026-10-31T19:09:08.837176",
   "videos": [
+    {
+      "id": "6MatNmerrxk",
+      "title": "【予告】おぎやはぎのハピキャン【フィールドスタイル大満喫SP①】",
+      "description": "",
+      "publishedAt": "2026-10-31T02:30:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6MatNmerrxk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6MatNmerrxk"
+    },
     {
       "id": "60RLjcxaPs8",
       "title": "吉冨アナ｜もうすぐハロウィンSP！（メ～テレアナch）【一部特別公開】",

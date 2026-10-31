@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-10-29T20:06:15.899375",
+  "updated_at": "2026-10-31T19:08:54.249271",
   "videos": [
+    {
+      "id": "mVJcjZ6bB5U",
+      "title": "2026年10月31日放送分和歌山de乾杯!",
+      "description": "",
+      "publishedAt": "2026-10-31T14:30:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mVJcjZ6bB5U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mVJcjZ6bB5U"
+    },
     {
       "id": "7p8FYzniGIY",
       "title": "WIB HERO'S 10月特別編・総集編",

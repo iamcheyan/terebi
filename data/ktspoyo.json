@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-10-26T20:22:42.835861",
+  "updated_at": "2026-10-31T19:09:33.479475",
   "videos": [
+    {
+      "id": "ax9bYmbNc-E",
+      "title": "【わんにゃんプラスかごしま】「命のバトン♪」",
+      "description": "",
+      "publishedAt": "2026-10-31T08:45:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ax9bYmbNc-E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ax9bYmbNc-E"
+    },
     {
       "id": "XIOIMbnmYrg",
       "title": "鈴木のりたけ「大ピンチ展！」",

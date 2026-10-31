@@ -1,8 +1,68 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-10-30T19:53:23.420214",
+  "updated_at": "2026-10-31T19:09:03.654188",
   "videos": [
+    {
+      "id": "tEXeTeSZ9M4",
+      "title": "ハマナビ　2026年10月31日放送　横浜で！マリー・アントワネット・スタイル",
+      "description": "",
+      "publishedAt": "2026-10-31T09:30:14+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tEXeTeSZ9M4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tEXeTeSZ9M4"
+    },
+    {
+      "id": "G2gjzYe9Yg8",
+      "title": "ハマナビ　次回予告（11月7日放送）",
+      "description": "",
+      "publishedAt": "2026-10-31T09:30:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G2gjzYe9Yg8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G2gjzYe9Yg8"
+    },
+    {
+      "id": "-NTk7Z--KzQ",
+      "title": "『河村城（神奈川県）~後編~』圧倒的な郭の数！【中島卓偉のお城へ行こう！せーの、キャッスル！キャッスル！】",
+      "description": "",
+      "publishedAt": "2026-10-31T09:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-NTk7Z--KzQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-NTk7Z--KzQ"
+    },
+    {
+      "id": "tlCJKqwCVoo",
+      "title": "LOVEかわさき　10月31日放送：挑戦が交わるまち・かわさき ～KAWASAKI FESTIVAL 2026～",
+      "description": "",
+      "publishedAt": "2026-10-31T00:30:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tlCJKqwCVoo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tlCJKqwCVoo"
+    },
+    {
+      "id": "L28Kz2MP5sY",
+      "title": "【土地を買ったつもりで...】日産 エルグランド X　tvk「新車情報」公式　1997年放送",
+      "description": "",
+      "publishedAt": "2026-10-31T00:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L28Kz2MP5sY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L28Kz2MP5sY"
+    },
     {
       "id": "XXdsXonamJM",
       "title": "13分のステージ【YA'ABURNEE】10/30 O.A.",

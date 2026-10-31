@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-10-30T19:53:41.783902",
+  "updated_at": "2026-10-31T19:09:47.850420",
   "videos": [
+    {
+      "id": "JJx0y2AZpnw",
+      "title": "愛媛のニュース(10月31日)",
+      "description": "",
+      "publishedAt": "2026-10-31T11:32:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JJx0y2AZpnw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JJx0y2AZpnw"
+    },
     {
       "id": "Vv1kW9rO588",
       "title": "絶滅危惧種ブッポウソウ保護活動 愛媛・大洲【未来を変えるSDGs】",

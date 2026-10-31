@@ -1,8 +1,44 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-10-30T19:53:34.690459",
+  "updated_at": "2026-10-31T19:09:37.307646",
   "videos": [
+    {
+      "id": "ruDu7QseAE0",
+      "title": "「なぜ勝てない？高知ユナイテッドSC×フカボリ」2026/10/30放送",
+      "description": "",
+      "publishedAt": "2026-10-31T12:04:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ruDu7QseAE0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ruDu7QseAE0"
+    },
+    {
+      "id": "cNgZaDBwBFM",
+      "title": "【アーカイブ配信】第105回全国高校サッカー選手権大会 高知県大会 準決勝「高知中央 vs 高知」「土佐 vs 小津」",
+      "description": "",
+      "publishedAt": "2026-10-31T07:23:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cNgZaDBwBFM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cNgZaDBwBFM"
+    },
+    {
+      "id": "54KbDIK-mk4",
+      "title": "【LIVE】第33回高知県中学校サッカー選手権大会 決勝戦",
+      "description": "",
+      "publishedAt": "2026-10-29T03:45:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/54KbDIK-mk4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=54KbDIK-mk4"
+    },
     {
       "id": "GlhAEXVqcAc",
       "title": "「いよいよ、八生（やよい）」11/2のテーマは「そわそわ」♪",

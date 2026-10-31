@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-10-30T19:53:37.883202",
+  "updated_at": "2026-10-31T19:09:42.441354",
   "videos": [
+    {
+      "id": "b_JQJSb0CnI",
+      "title": "TUFアプリ「たぷり」11月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-10-31T15:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b_JQJSb0CnI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b_JQJSb0CnI"
+    },
+    {
+      "id": "UYoXoflPG7M",
+      "title": "「福島日産自動車×ステップ」11月プレゼント！",
+      "description": "",
+      "publishedAt": "2026-10-31T15:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UYoXoflPG7M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UYoXoflPG7M"
+    },
     {
       "id": "QIq7STsxXP0",
       "title": "【ふくしまSHOW】『棚倉町』大特集！",
