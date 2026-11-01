@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-10-30T19:53:05.888363",
+  "updated_at": "2026-11-01T19:24:43.772141",
   "videos": [
+    {
+      "id": "lNnUvBq33jA",
+      "title": "【ほれたッ！】佐藤悦好とさつまいも【Withべジ】",
+      "description": "",
+      "publishedAt": "2026-11-01T00:44:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lNnUvBq33jA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lNnUvBq33jA"
+    },
+    {
+      "id": "g9jNbgM9Rns",
+      "title": "左甚五郎とメドツ",
+      "description": "",
+      "publishedAt": "2026-11-01T00:43:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/g9jNbgM9Rns/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=g9jNbgM9Rns"
+    },
     {
       "id": "1pTJtXsiPQU",
       "title": "現役アナウンサーが津軽弁と土佐弁と福井弁でニュースを読んでみた【きいでけろ】",

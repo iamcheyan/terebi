@@ -1,8 +1,32 @@
 {
   "channel_id": "UCt6LB-BvEmDm-oWbe_TO7mw",
   "channel_name": "HAB北陸朝日放送",
-  "updated_at": "2026-10-31T19:08:53.826479",
+  "updated_at": "2026-11-01T19:24:41.216504",
   "videos": [
+    {
+      "id": "2pfoahKk3MU",
+      "title": "兼六園で雪つり作業開始",
+      "description": "",
+      "publishedAt": "2026-11-01T09:15:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2pfoahKk3MU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2pfoahKk3MU"
+    },
+    {
+      "id": "yuLX5hvLkWo",
+      "title": "能美市でペレットストーブ・バレルサウナ祭り",
+      "description": "",
+      "publishedAt": "2026-11-01T09:14:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yuLX5hvLkWo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yuLX5hvLkWo"
+    },
     {
       "id": "PhOn1hYswwk",
       "title": "「金沢もりづくりベース東浅川」が完成",

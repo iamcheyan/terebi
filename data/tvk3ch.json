@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-10-31T19:09:03.654188",
+  "updated_at": "2026-11-01T19:25:11.989378",
   "videos": [
+    {
+      "id": "uneLfuoOBEg",
+      "title": "かながわMIRAI すくすくパシャリ（2026年11月ver2）",
+      "description": "",
+      "publishedAt": "2026-11-01T01:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uneLfuoOBEg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uneLfuoOBEg"
+    },
+    {
+      "id": "BbWWByQsJ4Q",
+      "title": "かながわMIRAI すくすくパシャリ（2026年11月ver1）",
+      "description": "",
+      "publishedAt": "2026-11-01T01:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BbWWByQsJ4Q/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BbWWByQsJ4Q"
+    },
     {
       "id": "tEXeTeSZ9M4",
       "title": "ハマナビ　2026年10月31日放送　横浜で！マリー・アントワネット・スタイル",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-10-31T19:09:10.987068",
+  "updated_at": "2026-11-01T19:25:14.421782",
   "videos": [
+    {
+      "id": "4S7oDNWi_EY",
+      "title": "【全日本大学駅伝】ロングハイライト",
+      "description": "",
+      "publishedAt": "2026-11-01T06:01:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4S7oDNWi_EY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4S7oDNWi_EY"
+    },
     {
       "id": "dqN8sOt_wAA",
       "title": "青山学院・原監督に増田明美が直撃取材！全日本大学駅伝",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-10-30T19:53:22.696774",
+  "updated_at": "2026-11-01T19:25:14.047830",
   "videos": [
+    {
+      "id": "l_li38atZRw",
+      "title": "【高校生コスチュームショー】服作りへの思いをこめて衣装をつくり披露しました",
+      "description": "",
+      "publishedAt": "2026-11-01T06:33:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l_li38atZRw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l_li38atZRw"
+    },
     {
       "id": "5iwiQXa6ueY",
       "title": "【気象予報士穴澤さんのあな天】テーマは「タイヤ交換の目安の気温は何℃」",
