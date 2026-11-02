@@ -1,8 +1,44 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-11-01T19:25:07.486574",
+  "updated_at": "2026-11-02T23:01:40.971249",
   "videos": [
+    {
+      "id": "RFP6KFUlCd4",
+      "title": "【JFEエンジニアリング×丸五】保護手袋を共同開発！",
+      "description": "",
+      "publishedAt": "2026-11-02T11:46:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RFP6KFUlCd4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RFP6KFUlCd4"
+    },
+    {
+      "id": "mAd9UFK3kWU",
+      "title": "【LIVE】 岡山桃太郎空港　岡山市",
+      "description": "",
+      "publishedAt": "2026-11-02T05:24:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mAd9UFK3kWU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mAd9UFK3kWU"
+    },
+    {
+      "id": "SzZvcNQnvt0",
+      "title": "11月7日のプライドは美作市の英田エンジニアリング",
+      "description": "",
+      "publishedAt": "2026-11-02T00:47:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SzZvcNQnvt0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SzZvcNQnvt0"
+    },
     {
       "id": "qoQ6voJXsMo",
       "title": "しまじろうのわお！　#749「さつまいも　ほったぞう」【11/7（土）放送📺】",

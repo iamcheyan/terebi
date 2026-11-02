@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-11-01T19:24:55.372617",
+  "updated_at": "2026-11-02T23:01:23.298287",
   "videos": [
+    {
+      "id": "fKEYeg5Plpw",
+      "title": "【創業155年の酒蔵を見学】お酒の試飲体験も",
+      "description": "",
+      "publishedAt": "2026-11-02T09:30:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fKEYeg5Plpw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fKEYeg5Plpw"
+    },
+    {
+      "id": "PY1jKWmbEqc",
+      "title": "【キッズチャレンジスタジアム】あこちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-11-02T09:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PY1jKWmbEqc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PY1jKWmbEqc"
+    },
     {
       "id": "uxTOjt8NpZ8",
       "title": "【馬場のぶえのひろしま脳トレ】26年度第31回「迷ったときどうする？知っておきたい上手な医療のかかり方」",

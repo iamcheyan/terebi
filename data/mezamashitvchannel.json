@@ -1,8 +1,432 @@
 {
   "channel_id": "UCrrsHarrLoiLTqu1LHxDJpw",
-  "channel_name": "めざましテレビチャンネル（フジテレビ）",
-  "updated_at": "2026-10-30T19:53:10.964620",
+  "channel_name": "めざましテレビチャンネル",
+  "original_name": "めざましテレビチャンネル（フジテレビ）",
+  "updated_at": "2026-11-02T23:03:59.264856",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mufi3m9qYtLx0e9HEJzQK3YmsGA",
+      "id": "VVVycnNIYXJyTG9pTFRxdTFMSHhESnB3Ll9HVkxJeGFURFFz",
+      "snippet": {
+        "publishedAt": "2026-11-02T23:00:00Z",
+        "channelId": "UCrrsHarrLoiLTqu1LHxDJpw",
+        "title": "【公式】『ちいかわ』第57話「草むしり検定／古本」※1週間限定配信＜11/10 (火)AM7:59まで＞",
+        "description": "※この動画は11月10日（火）の7時59分に配信を終了します\n\n【放送情報】\n・フジテレビ系列「めざましテレビ」(5:25～9:00）にて毎週火曜日、金曜日7:38ごろ放送！\n・放送終了後（8:00～）にYouTube、FOD、TVerで１週間限定見逃し配信\n\n\n【作品紹介】\n「なんか小さくてかわいいやつ」通称“ちいかわ”たちが送る楽しくて、\nちょっぴり切ない物語。時には辛いことで泣いちゃうけれど\n「ちいかわ」の周りにはやさしい友達や個性豊かなキャラクターがたくさん！\nイラストレーター・ナガノによる大人気マンガ「ちいかわ」がついにアニメ化！\n\n【あらすじ】\nちいかわが資格！？ハチワレが見つけた本は…／ハチワレ、古本屋で買ったのは…\n\n【キャスト】\n・ちいかわ　　　　　　：　青木　遥\n・ハチワレ　　　　　　：　田中誠人\n・うさぎ　　　　　　　：　小澤亜李\n・モモンガ　　　　　　：　井口裕香\n・くりまんじゅう　　　：　淺井孝行\n・ラッコ　　　　　　　：　内田雄馬\n・シーサー　　　　　　：　島袋美由利\n・古本屋　　　　　　　：　春海百乃\n・ポシェットの鎧さん　：　杉田智和\n・労働の鎧さん　　　　：　東地宏樹\n・ラーメンの鎧さん　　：　松岡禎丞\n・あのこ　　　　　　　：　青山吉能 \n・オデ　　　　　　　　：　三宅健太 \nほか\n\n【スタッフ】\n原作：ナガノ「ちいかわ」\n監督：松村樹里亜\nキャラクターデザイン：朝倉夕貴\n色彩設計：石黒けい、伊藤裕香\n撮影監督：金子直広\n音響監督：土屋雅紀\n音響効果：白石唯果\n音楽：トクマルシューゴ\n編集：茶谷真悟\nアニメーション制作：動画工房\n\n【エンディングテーマ】\n「ひとりごつ」\n歌　：ハチワレ（CV.田中誠人）\n作詞：ナガノ\n作曲：トクマルシューゴ\n編曲：トクマルシューゴ\n\n【リンク】\n▼「ちいかわ」公式X（@ngnchiikawa）\nhttps://x.com/ngnchiikawa\n▼公式総合情報サイト「ちいかわインフォ」\nhttps://chiikawa-info.jp\n▼公式WEB SHOP「ちいかわマーケット」\nhttps://www.chiikawa-market.jp\n▼「ちいかわ」アニメ公式X（@anime_chiikawa）\nhttps://x.com/anime_chiikawa\n▼「ちいかわ」アニメ公式サイト\nhttps://www.anime-chiikawa.jp\n\n(C)ナガノ / ちいかわ製作委員会",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_GVLIxaTDQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_GVLIxaTDQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_GVLIxaTDQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_GVLIxaTDQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_GVLIxaTDQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "めざましテレビチャンネル",
+        "playlistId": "UUrrsHarrLoiLTqu1LHxDJpw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_GVLIxaTDQs"
+        },
+        "videoOwnerChannelTitle": "めざましテレビチャンネル",
+        "videoOwnerChannelId": "UCrrsHarrLoiLTqu1LHxDJpw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bj0v9d1i4xI0QJ4MYzvQIR37iig",
+      "id": "VVVycnNIYXJyTG9pTFRxdTFMSHhESnB3LlZxUnZKYkFRQUdn",
+      "snippet": {
+        "publishedAt": "2026-09-03T00:00:04Z",
+        "channelId": "UCrrsHarrLoiLTqu1LHxDJpw",
+        "title": "【キラビト！】ロサンゼルス五輪目指すフェンシングのジュニア女王",
+        "description": "全国のキラキラした人を紹介する「キラビト！」 今回はバドミントンで２年連続アジアチャンピオン、世界大会でも銅メダルを獲得した岸本鈴さんです。 監督が「オフェンスもディフェンスも巧みに扱えるオールラウンドな選手」だと評価する、まさに若手のホープです。 今後はシニアの世界で戦うため体力増強やフィジカルの強化に励み、オリンピックの優勝、世界ランキング上位を目指しています。\n（2025年5月21日放送）\n\n△フジテレビ系朝の情報番組めざましテレビの公式YouTubeチャンネルです！ ▽チャンネル登録お願いしま\nす🙌 https://www.youtube.com/channel/UCrrsHarrLoiLTqu1LHxDJpw ▽ Xでは、放送予定の内容を随時更新中！👀 https://twitter.com/cx_mezamashi/ ▽ Instagramでは、出演者がたくさん登場！☺️ \nhttps://www.instagram.com/mezamashi.tv/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VqRvJbAQAGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VqRvJbAQAGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VqRvJbAQAGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VqRvJbAQAGg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VqRvJbAQAGg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/VqRvJbAQAGg/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "めざましテレビチャンネル",
+        "playlistId": "UUrrsHarrLoiLTqu1LHxDJpw",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VqRvJbAQAGg"
+        },
+        "videoOwnerChannelTitle": "めざましテレビチャンネル",
+        "videoOwnerChannelId": "UCrrsHarrLoiLTqu1LHxDJpw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Es88XnbsDIDxP0upwhclpYs1FUE",
+      "id": "VVVycnNIYXJyTG9pTFRxdTFMSHhESnB3LmFKZlpNTDltbFl3",
+      "snippet": {
+        "publishedAt": "2026-09-03T00:00:00Z",
+        "channelId": "UCrrsHarrLoiLTqu1LHxDJpw",
+        "title": "【キラビト！】サンリオともコラボ！指で墨絵を描く指頭画アーティスト",
+        "description": "全国のキラキラした人を紹介する「キラビト！」 今回は指や爪で墨絵を描く「指頭画」のアーティストとして活動している、荒川颼さん。 スペインの世界遺産でも作品が展示されているほか、ハローキティとコラボするなど国内外で高い評価を受けています。 今回特別にライブペイントスタイルで「昇り龍」を描いていただきました。 指や拳を使った様々な技法で、手で描いたとは思えない躍動感が生まれます。\n（2025年5月20日放送）\n\n△フジテレビ系朝の情報番組めざましテレビの公式YouTubeチャンネルです！ ▽チャンネル登録お願いしま\nす🙌 https://www.youtube.com/channel/UCrrsHarrLoiLTqu1LHxDJpw ▽ Xでは、放送予定の内容を随時更新中！👀 https://twitter.com/cx_mezamashi/ ▽ Instagramでは、出演者がたくさん登場！☺️ \nhttps://www.instagram.com/mezamashi.tv/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aJfZML9mlYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aJfZML9mlYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aJfZML9mlYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aJfZML9mlYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aJfZML9mlYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/aJfZML9mlYw/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "めざましテレビチャンネル",
+        "playlistId": "UUrrsHarrLoiLTqu1LHxDJpw",
+        "position": 53,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aJfZML9mlYw"
+        },
+        "videoOwnerChannelTitle": "めざましテレビチャンネル",
+        "videoOwnerChannelId": "UCrrsHarrLoiLTqu1LHxDJpw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JVItjcZa4a6ZKhDEveuvQyg6S0g",
+      "id": "VVVycnNIYXJyTG9pTFRxdTFMSHhESnB3LnRPY1RhR3RtamY4",
+      "snippet": {
+        "publishedAt": "2026-08-27T00:00:33Z",
+        "channelId": "UCrrsHarrLoiLTqu1LHxDJpw",
+        "title": "【キラビト！】5000回たたく！料理人も愛用する打出し中華鍋職人",
+        "description": "全国のキラキラした人を紹介する「キラビト！」 今回は、家業の工場の三代目で中華鍋を作る職人、山田憲治さん。 1度のプレスで形を作るのが一般的だそうですが、山田さんの会社では専用のハンマーで何度も叩いて形にする、打出し製法を採用。 その数、およそ5000回！山田さんの作った中華鍋をつかった料理の仕上がりは…？\n（2025年4月8日放送）\n\n△フジテレビ系朝の情報番組めざましテレビの公式YouTubeチャンネルです！ ▽チャンネル登録お願いします🙌 https://www.youtube.com/channel/UCrrsHarrLoiLTqu1LHxDJpw ▽ Xでは、放送予定の内容を随時更新中！👀 https://twitter.com/cx_mezamashi/ ▽ Instagramでは、出演者がたくさん登場！☺️ https://www.instagram.com/mezamashi.tv/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tOcTaGtmjf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tOcTaGtmjf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tOcTaGtmjf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tOcTaGtmjf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tOcTaGtmjf8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/tOcTaGtmjf8/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "めざましテレビチャンネル",
+        "playlistId": "UUrrsHarrLoiLTqu1LHxDJpw",
+        "position": 68,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tOcTaGtmjf8"
+        },
+        "videoOwnerChannelTitle": "めざましテレビチャンネル",
+        "videoOwnerChannelId": "UCrrsHarrLoiLTqu1LHxDJpw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S_cH2v_b1skNDT3vH8XZ2njWxAc",
+      "id": "VVVycnNIYXJyTG9pTFRxdTFMSHhESnB3LmUzYXNQYnlVNkRZ",
+      "snippet": {
+        "publishedAt": "2026-08-24T00:00:28Z",
+        "channelId": "UCrrsHarrLoiLTqu1LHxDJpw",
+        "title": "【キラビト！】直径約2ｍ！木おけのタガを回すタガフープのチャンピオン",
+        "description": "全国のキラキラした人を紹介する「キラビト！」 今回は、タガフープ回しの大会でチャンピオンになった針塚重光さん。 木おけのタガを使い、フラフープのように回す、タガフープ回し。 針塚さんはその回数を競う大会でチャンピオンに輝きました。 大会と同じルールで自身の記録に挑んだ針塚さん。結果は…?!\n（2025年4月15日放送）\n\n△フジテレビ系朝の情報番組めざましテレビの公式YouTubeチャンネルです！ ▽チャンネル登録お願いします🙌 https://www.youtube.com/channel/UCrrsHarrLoiLTqu1LHxDJpw ▽ Xでは、放送予定の内容を随時更新中！👀 https://twitter.com/cx_mezamashi/ ▽ Instagramでは、出演者がたくさん登場！☺️ https://www.instagram.com/mezamashi.tv/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e3asPbyU6DY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e3asPbyU6DY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e3asPbyU6DY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e3asPbyU6DY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e3asPbyU6DY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/e3asPbyU6DY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "めざましテレビチャンネル",
+        "playlistId": "UUrrsHarrLoiLTqu1LHxDJpw",
+        "position": 73,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e3asPbyU6DY"
+        },
+        "videoOwnerChannelTitle": "めざましテレビチャンネル",
+        "videoOwnerChannelId": "UCrrsHarrLoiLTqu1LHxDJpw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0jQ54sl_vYJs49jE36sSdgUu0HY",
+      "id": "VVVycnNIYXJyTG9pTFRxdTFMSHhESnB3LmgzM3VyWWZMVHpZ",
+      "snippet": {
+        "publishedAt": "2026-08-24T00:00:28Z",
+        "channelId": "UCrrsHarrLoiLTqu1LHxDJpw",
+        "title": "【キラビト！】雨・花粉・黄砂から車を守る！カーコーティング日本一のプロ",
+        "description": "全国のキラキラした人を紹介する「キラビト！」 今回は、「カーコーティング」の大会で日本一に輝いた高橋美帆さん。 ロボットのように正確にやることに人生をかけていると話す高橋さん。 その技術を見せてもらいました。\n（2025年4月17日放送）\n\n△フジテレビ系朝の情報番組めざましテレビの公式YouTubeチャンネルです！ ▽チャンネル登録お願いします🙌 https://www.youtube.com/channel/UCrrsHarrLoiLTqu1LHxDJpw ▽ Xでは、放送予定の内容を随時更新中！👀 https://twitter.com/cx_mezamashi/ ▽ Instagramでは、出演者がたくさん登場！☺️ https://www.instagram.com/mezamashi.tv/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h33urYfLTzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h33urYfLTzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h33urYfLTzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h33urYfLTzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h33urYfLTzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/h33urYfLTzY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "めざましテレビチャンネル",
+        "playlistId": "UUrrsHarrLoiLTqu1LHxDJpw",
+        "position": 74,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h33urYfLTzY"
+        },
+        "videoOwnerChannelTitle": "めざましテレビチャンネル",
+        "videoOwnerChannelId": "UCrrsHarrLoiLTqu1LHxDJpw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WJFphXO6FP__IV9h0Pftof8mmU0",
+      "id": "VVVycnNIYXJyTG9pTFRxdTFMSHhESnB3LjdwendPRHRDbUVv",
+      "snippet": {
+        "publishedAt": "2026-08-24T00:00:13Z",
+        "channelId": "UCrrsHarrLoiLTqu1LHxDJpw",
+        "title": "【キラビト！】8連続の華麗な跳躍技！タンブリング競技日本一の小学生",
+        "description": "全国のキラキラした人を紹介する「キラビト！」 今回は、タンブリング競技で最年少で2回宙返りを成功させ、年齢別の日本一に輝いた菅野聖蘭さん。 体操競技の一つであるタンブリング。直線の専用の床で8つの跳躍技を連続して行い、着地までの完成度を競います。 現在は、小学生女子で誰も成功したことがないという｢伸身２回宙返り｣に挑戦中。そんな彼女の目標とは…？\n（2025年4月11日放送）\n\n△フジテレビ系朝の情報番組めざましテレビの公式YouTubeチャンネルです！ ▽チャンネル登録お願いします🙌 https://www.youtube.com/channel/UCrrsHarrLoiLTqu1LHxDJpw ▽ Xでは、放送予定の内容を随時更新中！👀 https://twitter.com/cx_mezamashi/ ▽ Instagramでは、出演者がたくさん登場！☺️ https://www.instagram.com/mezamashi.tv/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7pzwODtCmEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7pzwODtCmEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7pzwODtCmEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7pzwODtCmEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7pzwODtCmEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/7pzwODtCmEo/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "めざましテレビチャンネル",
+        "playlistId": "UUrrsHarrLoiLTqu1LHxDJpw",
+        "position": 78,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7pzwODtCmEo"
+        },
+        "videoOwnerChannelTitle": "めざましテレビチャンネル",
+        "videoOwnerChannelId": "UCrrsHarrLoiLTqu1LHxDJpw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BgPulVtsktiXJfkLMwkQXXqAzP8",
+      "id": "VVVycnNIYXJyTG9pTFRxdTFMSHhESnB3Li16TVk3ZTlMQjRv",
+      "snippet": {
+        "publishedAt": "2026-06-24T00:09:32Z",
+        "channelId": "UCrrsHarrLoiLTqu1LHxDJpw",
+        "title": "【キラビト！】制作500時間超の力作も！瓶の中に帆船…ボトルシップビルダー",
+        "description": "全国のキラキラした人を紹介する「キラビト！」\n今回は、瓶の中で組み立てる船の模型「ボトルシップ」のビルダー、秦鐘治さん７５歳。\n作品がアーティストのアルバムジャケットに使われたこともあるんです。\n大きさにもよりますが１つの作品が完成するまでにかかる時間は150時間以上！\n１８世紀のフランスの船を忠実に再現した力作は、制作に500時間以上も費やしました。\n特にこだわったという「マスト（帆）」のリアルさは必見です。\n\n\n▽フジテレビ系朝の情報番組めざましテレビの公式YouTubeチャンネルです！チャンネル登録お願いします🙌\nhttps://www.youtube.com/channel/UCrrsHarrLoiLTqu1LHxDJpw\n▽ Xでは、放送予定の内容を随時更新中！👀\nhttps://twitter.com/cx_mezamashi/\n▽ Instagramでは、出演者がたくさん登場！☺️\nhttps://www.instagram.com/mezamashi.tv/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-zMY7e9LB4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-zMY7e9LB4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-zMY7e9LB4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-zMY7e9LB4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-zMY7e9LB4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/-zMY7e9LB4o/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "めざましテレビチャンネル",
+        "playlistId": "UUrrsHarrLoiLTqu1LHxDJpw",
+        "position": 142,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-zMY7e9LB4o"
+        },
+        "videoOwnerChannelTitle": "めざましテレビチャンネル",
+        "videoOwnerChannelId": "UCrrsHarrLoiLTqu1LHxDJpw"
+      }
+    },
+    {
+      "id": "Snt8KI-BWuM",
+      "title": "『ガチャピン・ムック ねぇねぇきいて』第30話「どこでも寝ちゃう！」",
+      "description": "",
+      "publishedAt": "2026-11-02T03:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Snt8KI-BWuM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Snt8KI-BWuM"
+    },
     {
       "id": "YhV9aqAy0k8",
       "title": "【公式】『ちいかわ』第52話「強くなるには」※1週間限定配信＜11/6 (金)AM7:59まで＞",
@@ -7874,6 +8298,54 @@
       "title": "【公式】『ちいかわ』第2話「スフィンクス／ほんものだ」",
       "thumbnail": "https://i.ytimg.com/vi/pbQQAwSQUX4/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=pbQQAwSQUX4"
+    },
+    {
+      "id": "_GVLIxaTDQs",
+      "title": "【公式】『ちいかわ』第57話「草むしり検定／古本」※1週間限定配信＜11/10 (火)AM7:59まで＞",
+      "thumbnail": "https://i.ytimg.com/vi/_GVLIxaTDQs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_GVLIxaTDQs"
+    },
+    {
+      "id": "VqRvJbAQAGg",
+      "title": "【キラビト！】ロサンゼルス五輪目指すフェンシングのジュニア女王",
+      "thumbnail": "https://i.ytimg.com/vi/VqRvJbAQAGg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VqRvJbAQAGg"
+    },
+    {
+      "id": "aJfZML9mlYw",
+      "title": "【キラビト！】サンリオともコラボ！指で墨絵を描く指頭画アーティスト",
+      "thumbnail": "https://i.ytimg.com/vi/aJfZML9mlYw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aJfZML9mlYw"
+    },
+    {
+      "id": "tOcTaGtmjf8",
+      "title": "【キラビト！】5000回たたく！料理人も愛用する打出し中華鍋職人",
+      "thumbnail": "https://i.ytimg.com/vi/tOcTaGtmjf8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tOcTaGtmjf8"
+    },
+    {
+      "id": "e3asPbyU6DY",
+      "title": "【キラビト！】直径約2ｍ！木おけのタガを回すタガフープのチャンピオン",
+      "thumbnail": "https://i.ytimg.com/vi/e3asPbyU6DY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=e3asPbyU6DY"
+    },
+    {
+      "id": "h33urYfLTzY",
+      "title": "【キラビト！】雨・花粉・黄砂から車を守る！カーコーティング日本一のプロ",
+      "thumbnail": "https://i.ytimg.com/vi/h33urYfLTzY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=h33urYfLTzY"
+    },
+    {
+      "id": "7pzwODtCmEo",
+      "title": "【キラビト！】8連続の華麗な跳躍技！タンブリング競技日本一の小学生",
+      "thumbnail": "https://i.ytimg.com/vi/7pzwODtCmEo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7pzwODtCmEo"
+    },
+    {
+      "id": "-zMY7e9LB4o",
+      "title": "【キラビト！】制作500時間超の力作も！瓶の中に帆船…ボトルシップビルダー",
+      "thumbnail": "https://i.ytimg.com/vi/-zMY7e9LB4o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-zMY7e9LB4o"
     }
   ]
 }

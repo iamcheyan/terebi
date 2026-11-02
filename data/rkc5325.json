@@ -1,8 +1,44 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-10-31T19:09:37.307646",
+  "updated_at": "2026-11-02T23:02:08.923532",
   "videos": [
+    {
+      "id": "hJNImTBsrqg",
+      "title": "「年賀はがきの販売開始　高知県版は『路面電車』デザイン」2026/11/02放送",
+      "description": "",
+      "publishedAt": "2026-11-02T11:30:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hJNImTBsrqg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hJNImTBsrqg"
+    },
+    {
+      "id": "qm_ontdK4Io",
+      "title": "「《高校サッカー》高知と高知小津が決勝へ 15日に全国かけて対戦」2026/11/02放送",
+      "description": "",
+      "publishedAt": "2026-11-02T11:30:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qm_ontdK4Io/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qm_ontdK4Io"
+    },
+    {
+      "id": "s3FTxOleqXk",
+      "title": "「高知県で3球団が秋季キャンプスタート」2026/11/2放送",
+      "description": "",
+      "publishedAt": "2026-11-02T10:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s3FTxOleqXk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s3FTxOleqXk"
+    },
     {
       "id": "ruDu7QseAE0",
       "title": "「なぜ勝てない？高知ユナイテッドSC×フカボリ」2026/10/30放送",

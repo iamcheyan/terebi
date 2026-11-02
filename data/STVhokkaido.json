@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-10-30T19:53:35.898974",
+  "updated_at": "2026-11-02T23:02:11.146523",
   "videos": [
+    {
+      "id": "sGIfjnhNq5U",
+      "title": "トレンド☆サプリ#189　サントリー金麦⑥",
+      "description": "",
+      "publishedAt": "2026-11-02T04:36:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sGIfjnhNq5U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sGIfjnhNq5U"
+    },
+    {
+      "id": "L5meIL2x1hM",
+      "title": "トレンド☆サプリ#188　サントリー金麦⑤",
+      "description": "",
+      "publishedAt": "2026-11-02T04:34:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/L5meIL2x1hM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=L5meIL2x1hM"
+    },
     {
       "id": "OxUtzPkF7Xw",
       "title": "全力で駆け抜けた3年間　たくさんの情熱と涙…『青春の記憶』第105回高校サッカー選手権　北海道大会",
