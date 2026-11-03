@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-11-02T23:01:46.261581",
+  "updated_at": "2026-11-03T20:53:14.056384",
   "videos": [
+    {
+      "id": "2J5AyNG5bCc",
+      "title": "暮らしのカルチャー&健康タイム　旬の一杯　～フルーツってもっと楽しい～　第7回",
+      "description": "",
+      "publishedAt": "2026-11-03T03:30:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2J5AyNG5bCc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2J5AyNG5bCc"
+    },
     {
       "id": "POkyxs0W3YA",
       "title": "世界農業遺産を知ってもらうイベント みなべ・田辺の梅システム 和歌山県",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-11-02T23:01:11.873594",
+  "updated_at": "2026-11-03T20:53:17.887662",
   "videos": [
+    {
+      "id": "cYXIINuDGPY",
+      "title": "【侍ジャパン】宮崎合宿第1クール2日目【アジアプロ野球チャンピオンシップ】",
+      "description": "",
+      "publishedAt": "2026-11-02T09:28:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cYXIINuDGPY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cYXIINuDGPY"
+    },
     {
       "id": "wHADzH8A7Cc",
       "title": "セルジオ越後 松木安太郎 トルシエ 鈴木啓太 大討論会",

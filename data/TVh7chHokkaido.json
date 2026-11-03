@@ -1,8 +1,20 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2026-11-02T23:02:17.079383",
+  "updated_at": "2026-11-03T20:53:43.866998",
   "videos": [
+    {
+      "id": "JQs9Wi0WgM0",
+      "title": "青春サラブレッド～獣医師のミライ～",
+      "description": "",
+      "publishedAt": "2026-11-03T02:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JQs9Wi0WgM0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JQs9Wi0WgM0"
+    },
     {
       "id": "gk1L-zIn7Q8",
       "title": "「夢へチャレンジ」【祝・三冠達成】日本一の走り幅跳び中学生！強さの秘密は『鷲と鷹！？』小樽市立朝里中学校 松村春汰選手〈後編〉",

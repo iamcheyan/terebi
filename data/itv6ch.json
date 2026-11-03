@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-11-02T23:02:22.064699",
+  "updated_at": "2026-11-03T20:53:47.928833",
   "videos": [
+    {
+      "id": "jw25SemLAIU",
+      "title": "愛媛のニュース(11月03日)",
+      "description": "",
+      "publishedAt": "2026-11-03T11:41:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jw25SemLAIU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jw25SemLAIU"
+    },
     {
       "id": "VdJvcx8L0-w",
       "title": "停電しても3日間、電気が使える“エネルギー自給自足” のホテルをSTU48中村舞さんが取材",
