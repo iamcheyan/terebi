@@ -1,8 +1,20 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-10-30T19:53:21.486521",
+  "updated_at": "2026-11-04T21:06:20.399700",
   "videos": [
+    {
+      "id": "vK7axREcDcU",
+      "title": "予告【しまねっこの宅配便X】11/11（水）放送「かっこいい！しまねの建設業」",
+      "description": "",
+      "publishedAt": "2026-11-04T12:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vK7axREcDcU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vK7axREcDcU"
+    },
     {
       "id": "mTK4abElGcs",
       "title": "【しまねっこの宅配便X】#24「古代出雲歴史博物館　リニューアル」",

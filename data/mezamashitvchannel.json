@@ -1,9 +1,44 @@
 {
   "channel_id": "UCrrsHarrLoiLTqu1LHxDJpw",
-  "channel_name": "めざましテレビチャンネル",
-  "original_name": "めざましテレビチャンネル（フジテレビ）",
-  "updated_at": "2026-11-02T23:03:59.264856",
+  "channel_name": "めざましテレビチャンネル（フジテレビ）",
+  "updated_at": "2026-11-04T21:06:44.810975",
   "videos": [
+    {
+      "id": "LD77unnRlc0",
+      "title": "【ココ調見逃し配信】ペットボトルのふたが2000円で売れる！？使わなくなった教科書も人気！家庭に眠る\"価値ある不用品\"「隠れ資産」を高崎春アナが徹底調査",
+      "description": "",
+      "publishedAt": "2026-11-04T08:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LD77unnRlc0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LD77unnRlc0"
+    },
+    {
+      "id": "G4S_GjV6-3o",
+      "title": "【ココ調見逃し配信】TikTokで大人気「多摩川で恋したい」って？若者ハマる「はむにぎり」や「だし巻きゲーム」魅力は？XLフォトやCENTI:Uなど話題の最新トレンドを浅倉美恩アナが徹底調査！",
+      "description": "",
+      "publishedAt": "2026-11-04T08:00:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G4S_GjV6-3o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G4S_GjV6-3o"
+    },
+    {
+      "id": "oTiN_XJtocw",
+      "title": "【公式】『パペットスンスン』第67話「ねこ／肩たたき」※2週間限定配信＜11/18(水) AM7:59まで＞",
+      "description": "",
+      "publishedAt": "2026-11-03T23:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oTiN_XJtocw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oTiN_XJtocw"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "mufi3m9qYtLx0e9HEJzQK3YmsGA",

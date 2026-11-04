@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-03T20:53:43.223388",
+  "updated_at": "2026-11-04T21:07:17.963552",
   "videos": [
+    {
+      "id": "7XveQUnH7-M",
+      "title": "今日の５きげんテレビ（11月5日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-04T15:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7XveQUnH7-M/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7XveQUnH7-M"
+    },
+    {
+      "id": "4GhCMm23FNo",
+      "title": "砂肝のコンフィ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-04T08:40:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4GhCMm23FNo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4GhCMm23FNo"
+    },
+    {
+      "id": "ibHlsDpa0Kg",
+      "title": "今年度から男女共学化｜盛岡白百合学園",
+      "description": "",
+      "publishedAt": "2026-11-04T08:30:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ibHlsDpa0Kg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ibHlsDpa0Kg"
+    },
     {
       "id": "GxfVF1dwY1U",
       "title": "今日の５きげんテレビ（11月4日）｜テレビ岩手",

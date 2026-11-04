@@ -1,8 +1,20 @@
 {
   "channel_id": "UC4LWNegp6rg21PMebmbmrOw",
   "channel_name": "日テレNEWS",
-  "updated_at": "2026-10-22T19:05:28.393603",
+  "updated_at": "2026-11-04T21:06:43.522556",
   "videos": [
+    {
+      "id": "M-SBepSiJRE",
+      "title": "Sen. Pete Ricketts speaks after defeating Dan Osborn",
+      "description": "",
+      "publishedAt": "2026-11-04T06:50:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M-SBepSiJRE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M-SBepSiJRE"
+    },
     {
       "id": "qteHaoYG3mw",
       "title": "JD Vance Rally in North Platte",

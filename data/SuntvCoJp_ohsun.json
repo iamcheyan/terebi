@@ -1,8 +1,44 @@
 {
   "channel_id": "UCoslznRuvXIAriI5z51-DPg",
   "channel_name": "サテレビ",
-  "updated_at": "2026-11-03T20:53:51.403378",
+  "updated_at": "2026-11-04T21:07:24.541806",
   "videos": [
+    {
+      "id": "F5pPIm4Uvog",
+      "title": "【🚃🪙養父市の明延鉱山・一円電車🎸部活中継 兵庫高校ギターアンサンブル部】キャッチ＋（11月4日水曜日）",
+      "description": "",
+      "publishedAt": "2026-11-04T21:01:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F5pPIm4Uvog/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F5pPIm4Uvog"
+    },
+    {
+      "id": "FqRnybJyzAI",
+      "title": "【部活中継】県立兵庫高校ギターアンサンブル部🎵",
+      "description": "",
+      "publishedAt": "2026-11-04T10:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FqRnybJyzAI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FqRnybJyzAI"
+    },
+    {
+      "id": "h7iue0mYroE",
+      "title": "【アナまる】全長約550キロの坑道！　養父・明延鉱山を探検",
+      "description": "",
+      "publishedAt": "2026-11-04T08:48:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h7iue0mYroE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h7iue0mYroE"
+    },
     {
       "id": "fjvFMoeB5eI",
       "title": "2026年10月14日放送【The Hit】日吉ダムで連発！清水盛三は好機を絶対逃さない",

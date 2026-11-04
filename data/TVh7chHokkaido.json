@@ -1,8 +1,20 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2026-11-03T20:53:43.866998",
+  "updated_at": "2026-11-04T21:07:18.406431",
   "videos": [
+    {
+      "id": "fPvulTKFpSE",
+      "title": "青春サラブレッド特別編～函館競馬場の獣医師たち～",
+      "description": "",
+      "publishedAt": "2026-11-04T01:32:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fPvulTKFpSE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fPvulTKFpSE"
+    },
     {
       "id": "JQs9Wi0WgM0",
       "title": "青春サラブレッド～獣医師のミライ～",

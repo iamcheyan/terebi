@@ -1,8 +1,80 @@
 {
   "channel_id": "UC_0tfCjB-pPNR8r9G9G1fTA",
   "channel_name": "TeNY新潟一番ニュース",
-  "updated_at": "2026-11-03T20:53:44.719726",
+  "updated_at": "2026-11-04T21:07:18.797266",
   "videos": [
+    {
+      "id": "G1dGipFAw6c",
+      "title": "【火事】激しい炎　長岡市の住宅街で火事（午後6時15分放送）《新潟》",
+      "description": "",
+      "publishedAt": "2026-11-04T11:40:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G1dGipFAw6c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G1dGipFAw6c"
+    },
+    {
+      "id": "wbbJLZ8q6fw",
+      "title": "【白熱】全国高校サッカー選手権県大会　帝京長岡が決勝へ《新潟》",
+      "description": "",
+      "publishedAt": "2026-11-04T11:06:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wbbJLZ8q6fw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wbbJLZ8q6fw"
+    },
+    {
+      "id": "vMJBboDwZvU",
+      "title": "【白熱】全国高校サッカー選手権県大会　北越が決勝へ《新潟》",
+      "description": "",
+      "publishedAt": "2026-11-04T11:06:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vMJBboDwZvU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vMJBboDwZvU"
+    },
+    {
+      "id": "biVMdcPbY8s",
+      "title": "【特集】空飛ぶ「海猿」　機動救難士に密着　へリコプターで海難救助《新潟》",
+      "description": "",
+      "publishedAt": "2026-11-04T10:18:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/biVMdcPbY8s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=biVMdcPbY8s"
+    },
+    {
+      "id": "utKPEwmfd4Y",
+      "title": "【特定失踪者】大沢孝司さんの救出を訴える署名活動　兄・昭一さん「２人が元気なうちに」《新潟》",
+      "description": "",
+      "publishedAt": "2026-11-04T04:20:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/utKPEwmfd4Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=utKPEwmfd4Y"
+    },
+    {
+      "id": "P0Tkp9wG4VM",
+      "title": "【火事】見附市で住宅を焼く火事　住人の女性と連絡取れず（午前11時40分放送）《新潟》",
+      "description": "",
+      "publishedAt": "2026-11-04T04:04:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P0Tkp9wG4VM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P0Tkp9wG4VM"
+    },
     {
       "id": "fhWZ-DTxj0A",
       "title": "【復活】「越後鶴亀」日本酒の販売再開　ことし7月の火災で工場全焼《新潟》",

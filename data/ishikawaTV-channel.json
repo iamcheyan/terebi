@@ -1,8 +1,188 @@
 {
   "channel_id": "UCA5dBoYZe7dgvk4cTl5PLSg",
   "channel_name": "石川テレビ（ITC）",
-  "updated_at": "2026-11-03T20:53:21.612605",
+  "updated_at": "2026-11-04T21:06:39.154606",
   "videos": [
+    {
+      "id": "RiAsHIPUVl8",
+      "title": "旅の舞台は北海道！道東の大自然に心をほどく”リトリート旅”後編（お出かけ情報たびたび）",
+      "description": "",
+      "publishedAt": "2026-11-04T13:25:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RiAsHIPUVl8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RiAsHIPUVl8"
+    },
+    {
+      "id": "d6bwfsiNVls",
+      "title": "旅の舞台は北海道！道東の大自然に心をほどく”リトリート旅”前編（お出かけ情報たびたび）",
+      "description": "",
+      "publishedAt": "2026-11-04T13:25:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/d6bwfsiNVls/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=d6bwfsiNVls"
+    },
+    {
+      "id": "mGP6lo4S2tI",
+      "title": "アクリル板を重ねて色の変化を楽しむ、白山市の体験型イルミネーション点灯　22日に一般見学会 (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T11:15:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mGP6lo4S2tI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mGP6lo4S2tI"
+    },
+    {
+      "id": "8kMhXYwQsAw",
+      "title": "石川県内の小学校5校で集団かぜ、学年閉鎖3校・学級閉鎖2校 患者は計150人 (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T11:11:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8kMhXYwQsAw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8kMhXYwQsAw"
+    },
+    {
+      "id": "YkGITfNedRY",
+      "title": "岩手・大槌高校の生徒7人が能登へ　穴水高校と復興めぐり意見交換 (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T11:00:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YkGITfNedRY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YkGITfNedRY"
+    },
+    {
+      "id": "CFQZ6lL7jyg",
+      "title": "珠洲市で住宅全焼 91歳男性と連絡取れず 「母屋が燃えている」帰省中の男性が通報 (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T10:59:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CFQZ6lL7jyg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CFQZ6lL7jyg"
+    },
+    {
+      "id": "oXomlIyOiF8",
+      "title": "「ふらっと立ち寄れて気軽に過ごせる」日銀金沢支店跡地 カフェや無料Wi-Fiの要望多く、平日夜間のニ (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T10:58:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oXomlIyOiF8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oXomlIyOiF8"
+    },
+    {
+      "id": "vykp3Y2Uw-k",
+      "title": "石川の個性派自販機3選　近江町市場の刺身500円から能登牛ステーキガチャまで (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T10:56:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vykp3Y2Uw-k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vykp3Y2Uw-k"
+    },
+    {
+      "id": "ULqviKrxlf4",
+      "title": "「当たり年」と感じる紅葉 白山白川郷ホワイトロード、通行は10日まで (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T10:54:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ULqviKrxlf4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ULqviKrxlf4"
+    },
+    {
+      "id": "3yhdnZd9YOM",
+      "title": "来年度の県予算で財源不足100億円 山野知事が事業見直しの徹底を指示 (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T10:52:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3yhdnZd9YOM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3yhdnZd9YOM"
+    },
+    {
+      "id": "B2uapauX__Y",
+      "title": "【きょうの逸品＃ 241】滝のひみつきち「絶品バスクチーズケーキ」",
+      "description": "",
+      "publishedAt": "2026-11-04T06:43:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B2uapauX__Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B2uapauX__Y"
+    },
+    {
+      "id": "rcw2rQQd3gw",
+      "title": "【きょうの逸品＃ 240】海鮮丼 わら「たっぷりブリ丼」",
+      "description": "",
+      "publishedAt": "2026-11-04T06:19:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rcw2rQQd3gw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rcw2rQQd3gw"
+    },
+    {
+      "id": "3lUSjkLer_k",
+      "title": "山野知事、来年度当初予算で100億円の財源不足 事業見直しや県有施設の集約化へ (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T03:46:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3lUSjkLer_k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3lUSjkLer_k"
+    },
+    {
+      "id": "_36ONwuURjg",
+      "title": "能登ワインヌーボーはどんな味? 良質ブドウで仕上がった新酒を14日から県内スーパーで販売 (2026年11月4日)",
+      "description": "",
+      "publishedAt": "2026-11-04T03:29:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_36ONwuURjg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_36ONwuURjg"
+    },
+    {
+      "id": "sk-_UfPXuXU",
+      "title": "【はちラボ】#43 オーサカインディーゲームサミット2026特別編①",
+      "description": "",
+      "publishedAt": "2026-11-04T03:12:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sk-_UfPXuXU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sk-_UfPXuXU"
+    },
     {
       "id": "va_0W8o4Vvs",
       "title": "「5、4、3、2、1、点灯！」イオンモール白山に高さ8メートルの巨大クリスマスツリー、11月初旬に早 (2026年11月3日)",
