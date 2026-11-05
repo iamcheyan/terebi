@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-11-04T21:06:41.620002",
+  "updated_at": "2026-11-05T21:22:37.459173",
   "videos": [
+    {
+      "id": "7ZV5eFpeWlE",
+      "title": "全国高校ラグビー奈良県大会 開幕！【スポドキ】",
+      "description": "",
+      "publishedAt": "2026-11-05T03:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7ZV5eFpeWlE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7ZV5eFpeWlE"
+    },
     {
       "id": "TitPczkzAUQ",
       "title": "ススキが圧巻！大和葛城山で絶景＆絶品かも鍋／日本まんなか直送便│奈良テレビ放送",

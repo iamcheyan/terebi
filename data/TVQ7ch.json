@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-11-02T23:02:16.805991",
+  "updated_at": "2026-11-05T21:23:29.982003",
   "videos": [
+    {
+      "id": "o1NtO0VOGXk",
+      "title": "山口フィナンシャルグループ | カンパニーファイル（テレＱ2026年11月5日放送）",
+      "description": "",
+      "publishedAt": "2026-11-05T14:11:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/o1NtO0VOGXk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=o1NtO0VOGXk"
+    },
+    {
+      "id": "PS3gbc2rBjI",
+      "title": "【夢クルーズ】632 蕨野五百羅漢(2026年11月5日放送)",
+      "description": "",
+      "publishedAt": "2026-11-05T12:59:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PS3gbc2rBjI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PS3gbc2rBjI"
+    },
     {
       "id": "DlcyjjJ-zkI",
       "title": "手のひらストーリー#1「社内をつなぐ新たな一手」(2026年11月2日放送)",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-11-04T21:07:11.611246",
+  "updated_at": "2026-11-05T21:23:22.144961",
   "videos": [
+    {
+      "id": "JIJpy9kXPxs",
+      "title": "【大分市】まごころキッチン（2026年10月28日放送分）",
+      "description": "",
+      "publishedAt": "2026-11-05T02:07:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JIJpy9kXPxs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JIJpy9kXPxs"
+    },
     {
       "id": "p-z5nn7cmGc",
       "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年11月2日放送分】",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-11-04T21:06:26.316301",
+  "updated_at": "2026-11-05T21:22:56.438168",
   "videos": [
+    {
+      "id": "e_u40M59eNs",
+      "title": "★11月7日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-11-05T02:41:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e_u40M59eNs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e_u40M59eNs"
+    },
     {
       "id": "OyzzKK2LGNw",
       "title": "これぞ新喜劇！なズッコケオチw",

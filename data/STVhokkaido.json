@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-11-02T23:02:11.146523",
+  "updated_at": "2026-11-05T21:23:26.184289",
   "videos": [
+    {
+      "id": "01nZ8yYWGR4",
+      "title": "【高校サッカー準決勝②】道大谷室蘭×札幌大谷 第105回 全国高校サッカー選手権 北海道大会　11月7日13:30キックオフ",
+      "description": "",
+      "publishedAt": "2026-10-28T01:41:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/01nZ8yYWGR4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=01nZ8yYWGR4"
+    },
+    {
+      "id": "i0P-OmBSUGw",
+      "title": "【高校サッカー準決勝①】旭川実業×クラーク記念国際　第105回 全国高校サッカー選手権 北海道大会 11月7日10:30キックオフ",
+      "description": "",
+      "publishedAt": "2026-10-28T01:37:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i0P-OmBSUGw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i0P-OmBSUGw"
+    },
     {
       "id": "sGIfjnhNq5U",
       "title": "トレンド☆サプリ#189　サントリー金麦⑥",

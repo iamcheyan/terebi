@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-11-04T21:06:45.940809",
+  "updated_at": "2026-11-05T21:22:39.449654",
   "videos": [
+    {
+      "id": "pO8W8i1ard0",
+      "title": "富士で魅せた 世界への底力【クルマとミライ】",
+      "description": "",
+      "publishedAt": "2026-11-05T14:12:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pO8W8i1ard0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pO8W8i1ard0"
+    },
     {
       "id": "C6DEdXzaXJY",
       "title": "【田辺誠一・風間俊介W主演】日の丸ブラザーズ～日米貿易を切り拓いた兄弟～ 特報2回目「ニューヨークに渡った弟・森村豊」",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-11-04T21:07:12.761163",
+  "updated_at": "2026-11-05T21:23:24.233474",
   "videos": [
+    {
+      "id": "xm4Bvv2PNDU",
+      "title": "【番宣】１１月７日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-11-05T10:37:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xm4Bvv2PNDU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xm4Bvv2PNDU"
+    },
+    {
+      "id": "UQkJSChgZHQ",
+      "title": "【番宣】１１月１４日（土）ミライのタネ",
+      "description": "",
+      "publishedAt": "2026-11-05T05:49:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UQkJSChgZHQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UQkJSChgZHQ"
+    },
     {
       "id": "yZo4lc0uWHY",
       "title": "【番宣】１１月１１日（水）週刊山崎くん",

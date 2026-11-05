@@ -1,8 +1,44 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-11-02T23:01:20.389634",
+  "updated_at": "2026-11-05T21:22:46.951546",
   "videos": [
+    {
+      "id": "h8OIeXvrmBE",
+      "title": "【Four For えひめ Project】東京の家族が“移住検討”完全無料ツアーに密着！移住者15倍の街「住み続ける」カギは？",
+      "description": "",
+      "publishedAt": "2026-11-05T07:45:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/h8OIeXvrmBE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=h8OIeXvrmBE"
+    },
+    {
+      "id": "AnffOAFmIYE",
+      "title": "伊丹十三の素顔に迫る　非公開収蔵庫の特別ツアー",
+      "description": "",
+      "publishedAt": "2026-11-05T03:52:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AnffOAFmIYE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AnffOAFmIYE"
+    },
+    {
+      "id": "tBveG4WkP4c",
+      "title": "【ベジ得】カブ",
+      "description": "",
+      "publishedAt": "2026-11-05T03:07:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tBveG4WkP4c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tBveG4WkP4c"
+    },
     {
       "id": "lBO5N-2aDEQ",
       "title": "【春高バレー2026県予選・抽選会を生配信】JVA第79回全日本バレーボール高等学校選手権大会 愛媛県代表決定戦",

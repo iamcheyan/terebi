@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-11-04T21:07:26.759576",
+  "updated_at": "2026-11-05T21:23:40.491259",
   "videos": [
+    {
+      "id": "3v4hwbmrHtY",
+      "title": "261105 154402 雨の宮野下第１踏切（列車２両通過）",
+      "description": "",
+      "publishedAt": "2026-11-05T10:12:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3v4hwbmrHtY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3v4hwbmrHtY"
+    },
+    {
+      "id": "l112Uw3NFd8",
+      "title": "261105 154041 雨の宮野下第１踏切",
+      "description": "",
+      "publishedAt": "2026-11-05T09:56:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l112Uw3NFd8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l112Uw3NFd8"
+    },
     {
       "id": "7QYG_J9KljA",
       "title": "261104 135049 中野踏切（かっぱ列車通過）",

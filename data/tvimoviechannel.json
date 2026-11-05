@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-04T21:07:17.963552",
+  "updated_at": "2026-11-05T21:23:29.667332",
   "videos": [
+    {
+      "id": "akUv769YKvM",
+      "title": "今日の５きげんテレビ（11月6日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-05T15:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/akUv769YKvM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=akUv769YKvM"
+    },
+    {
+      "id": "xXS8nWR6ils",
+      "title": "たっぷり黒コショウのソーセージ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-05T08:46:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xXS8nWR6ils/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xXS8nWR6ils"
+    },
     {
       "id": "7XveQUnH7-M",
       "title": "今日の５きげんテレビ（11月5日）｜テレビ岩手",

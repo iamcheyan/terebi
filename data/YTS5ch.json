@@ -1,8 +1,32 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-11-04T21:06:29.805771",
+  "updated_at": "2026-11-05T21:23:01.862514",
   "videos": [
+    {
+      "id": "gcRHghnwN3o",
+      "title": "今話題のフィットネス『HYROX』とは？ YTSゴジダス水曜情報局",
+      "description": "",
+      "publishedAt": "2026-11-05T04:38:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gcRHghnwN3o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gcRHghnwN3o"
+    },
+    {
+      "id": "CmkRE9wz7eM",
+      "title": "【あさは５ちゃん！】2026年11月7日放送",
+      "description": "",
+      "publishedAt": "2026-11-05T01:17:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CmkRE9wz7eM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CmkRE9wz7eM"
+    },
     {
       "id": "vj6bUeLdz7E",
       "title": "モンテディオ山形 DF38 森岡陸「MONTEDIO PLAYERS」",

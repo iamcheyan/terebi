@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-04T21:06:35.336293",
+  "updated_at": "2026-11-05T21:22:24.992121",
   "videos": [
+    {
+      "id": "BnbHhVjbrZc",
+      "title": "元気○（マル）らいふ　【自分でタイヤ交換する際の注意点】（2026/11/4放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-11-05T08:14:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BnbHhVjbrZc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BnbHhVjbrZc"
+    },
+    {
+      "id": "y3x0x4S5Hxc",
+      "title": "【北上市立大学・高校生イベント】北上市が目指す市立大学設置構想を巡り、高校生がワークショップ形式のイベントを主催しました。",
+      "description": "",
+      "publishedAt": "2026-11-05T04:37:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/y3x0x4S5Hxc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=y3x0x4S5Hxc"
+    },
     {
       "id": "_Lhm32zpEyA",
       "title": "【中学野球部・部員不足に意外な助っ人】部員わずか５人の岩手町の中学野球部に助っ人として加わったのは、「警察官」でした。",

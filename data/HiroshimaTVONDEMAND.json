@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-11-04T21:06:55.268693",
+  "updated_at": "2026-11-05T21:23:02.274425",
   "videos": [
+    {
+      "id": "FLgH7dEQ5UM",
+      "title": "たからモノさがして　第６０４回",
+      "description": "",
+      "publishedAt": "2026-11-05T10:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FLgH7dEQ5UM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FLgH7dEQ5UM"
+    },
+    {
+      "id": "lAC6W290v2Y",
+      "title": "【キッズチャレンジスタジアム】かずよしくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-11-05T09:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lAC6W290v2Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lAC6W290v2Y"
+    },
     {
       "id": "XXohEKEVB4A",
       "title": "【Podcast動画】ポッとｄｅ！ #32「澤村＆塚原 歳の差同期コンビ第2弾 タメになる⁉ポンコツ取材珍道中」",
