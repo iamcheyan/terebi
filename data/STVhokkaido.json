@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-11-05T21:23:26.184289",
+  "updated_at": "2026-11-06T20:44:56.902735",
   "videos": [
+    {
+      "id": "gLmOy6zWjvg",
+      "title": "【高校サッカー】北星大附属・苦難乗り越えサッカーと駆け抜けた青春",
+      "description": "",
+      "publishedAt": "2026-11-06T00:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gLmOy6zWjvg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gLmOy6zWjvg"
+    },
     {
       "id": "01nZ8yYWGR4",
       "title": "【高校サッカー準決勝②】道大谷室蘭×札幌大谷 第105回 全国高校サッカー選手権 北海道大会　11月7日13:30キックオフ",

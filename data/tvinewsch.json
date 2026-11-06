@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-05T21:22:24.992121",
+  "updated_at": "2026-11-06T20:44:16.584120",
   "videos": [
+    {
+      "id": "N6Ulw3FzR-4",
+      "title": "【わんカメＬＩＶＥ】盛岡にかつてあった生姜町にちなんだ【盛岡しょうが市】を紹介",
+      "description": "",
+      "publishedAt": "2026-11-06T05:33:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N6Ulw3FzR-4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N6Ulw3FzR-4"
+    },
+    {
+      "id": "KRQaORRbfac",
+      "title": "【おもてなしの味 ずるびき】金ケ崎町に伝わる「ずるびき」という郷土料理を守り続けてきたお母さんたちを紹介",
+      "description": "",
+      "publishedAt": "2026-11-06T05:23:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KRQaORRbfac/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KRQaORRbfac"
+    },
     {
       "id": "BnbHhVjbrZc",
       "title": "元気○（マル）らいふ　【自分でタイヤ交換する際の注意点】（2026/11/4放送　ニュースプラス１いわて）",

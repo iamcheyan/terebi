@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7iu-QVp1HlMhhV9wnSs5gQ",
   "channel_name": "Hiko-zone（ヒコぞーん）",
-  "updated_at": "2026-11-03T20:53:04.529746",
+  "updated_at": "2026-11-06T20:44:22.030752",
   "videos": [
+    {
+      "id": "gYjcTE7ER1s",
+      "title": "ハードディスクメーカーって減ったんだね、寂しいなぁ",
+      "description": "",
+      "publishedAt": "2026-11-06T09:00:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gYjcTE7ER1s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gYjcTE7ER1s"
+    },
     {
       "id": "vRrQqmB68G0",
       "title": "ストレージ高すぎるから安い中古HDDを活用します",

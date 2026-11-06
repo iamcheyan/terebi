@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXS-XXaDHDyjYcFqy7UFp4g",
   "channel_name": "abn長野朝日放送",
-  "updated_at": "2026-11-05T21:23:34.830517",
+  "updated_at": "2026-11-06T20:45:06.555117",
   "videos": [
+    {
+      "id": "m_DdqmLdePc",
+      "title": "Cur+1（キュープラスワン）（信州夢追人・2026年11月6日）",
+      "description": "",
+      "publishedAt": "2026-11-06T10:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m_DdqmLdePc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m_DdqmLdePc"
+    },
+    {
+      "id": "dj7_nBJ8rGs",
+      "title": "信州BWと信州松本トライデンツ　ハワイ出身2人は親友（2026年11月5日）",
+      "description": "",
+      "publishedAt": "2026-11-06T06:00:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dj7_nBJ8rGs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dj7_nBJ8rGs"
+    },
     {
       "id": "5jGgH-WNS4U",
       "title": "【信州企業応援宣言！】Henry Monitor（諏訪市）",

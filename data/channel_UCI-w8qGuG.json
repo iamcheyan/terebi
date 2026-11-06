@@ -1,8 +1,44 @@
 {
   "channel_id": "UCI-w8qGuG4PlmZ25m9x_Q_A",
   "channel_name": "テレビ朝日スポーツ【公式】",
-  "updated_at": "2026-11-05T21:22:41.436102",
+  "updated_at": "2026-11-06T20:44:27.955165",
   "videos": [
+    {
+      "id": "uPVHGL82XvM",
+      "title": "【侍ジャパン】明日から練習試合！意気込みインタビュー",
+      "description": "",
+      "publishedAt": "2026-11-06T12:13:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/uPVHGL82XvM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=uPVHGL82XvM"
+    },
+    {
+      "id": "blssX7mh_Os",
+      "title": "東京最弱から全国3位へ導いた鬼監督の指導歴",
+      "description": "",
+      "publishedAt": "2026-11-06T08:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/blssX7mh_Os/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=blssX7mh_Os"
+    },
+    {
+      "id": "yvSl3R2gV_8",
+      "title": "【侍ジャパン】宮崎合宿第2クール2日目【アジアプロ野球チャンピオンシップ】",
+      "description": "",
+      "publishedAt": "2026-11-02T09:33:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yvSl3R2gV_8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yvSl3R2gV_8"
+    },
     {
       "id": "TVpXiIruM5Y",
       "title": "【侍ジャパン】金丸夢斗・井口監督インタビュー！宮崎合宿2日目",

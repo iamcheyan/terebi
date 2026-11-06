@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-11-05T21:23:02.274425",
+  "updated_at": "2026-11-06T20:43:55.777777",
   "videos": [
+    {
+      "id": "sL9MKC4ksN8",
+      "title": "【竹原ゆかりの本がそろう書店】",
+      "description": "",
+      "publishedAt": "2026-11-06T09:30:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sL9MKC4ksN8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sL9MKC4ksN8"
+    },
+    {
+      "id": "cpb04LSHCIQ",
+      "title": "【キッズチャレンジスタジアム】みおんちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-11-06T09:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cpb04LSHCIQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cpb04LSHCIQ"
+    },
     {
       "id": "FLgH7dEQ5UM",
       "title": "たからモノさがして　第６０４回",
