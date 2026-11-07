@@ -1,8 +1,68 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-11-06T20:45:00.954079",
+  "updated_at": "2026-11-07T19:18:04.543444",
   "videos": [
+    {
+      "id": "YUtKh6ekAj0",
+      "title": "【テレQ番宣】ぐっ！ジョブ（11月14日（土）14:30～）",
+      "description": "",
+      "publishedAt": "2026-11-07T15:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YUtKh6ekAj0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YUtKh6ekAj0"
+    },
+    {
+      "id": "iFtXQ1Zwl9Y",
+      "title": "11月14日(土)放送「土~ルデンタイム」",
+      "description": "",
+      "publishedAt": "2026-11-07T12:00:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iFtXQ1Zwl9Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iFtXQ1Zwl9Y"
+    },
+    {
+      "id": "slwzBSq2aM0",
+      "title": "アイライフスタイル ♯74 「三味線に惹かれて」（テレQ 2026年11月7日放送）",
+      "description": "",
+      "publishedAt": "2026-11-07T11:59:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/slwzBSq2aM0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=slwzBSq2aM0"
+    },
+    {
+      "id": "R9oXSVcwf98",
+      "title": "【テレQ番宣】ちょっと福岡行ってきました！（11月14(土)20:00～）放送",
+      "description": "",
+      "publishedAt": "2026-11-07T11:54:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/R9oXSVcwf98/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=R9oXSVcwf98"
+    },
+    {
+      "id": "JT7ONZxVyJk",
+      "title": "【テレQ番宣】福岡お役立ち情報バラエティ たくなる（11月14日（土）18:30～）1時間30分SP",
+      "description": "",
+      "publishedAt": "2026-11-07T10:59:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JT7ONZxVyJk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JT7ONZxVyJk"
+    },
     {
       "id": "qZtvXHcL8mA",
       "title": "【テレQ番宣】病みつき＃らぶしっく（11月13日（金）深夜1:23～）",

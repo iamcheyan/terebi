@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-11-06T20:45:06.835259",
+  "updated_at": "2026-11-07T19:18:07.856656",
   "videos": [
+    {
+      "id": "rMz1-Ay3PC8",
+      "title": "愛媛のニュース(11月07日)",
+      "description": "",
+      "publishedAt": "2026-11-07T11:32:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rMz1-Ay3PC8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rMz1-Ay3PC8"
+    },
+    {
+      "id": "1aM-btYEsP8",
+      "title": "【厄介者がエネルギーに】使用済み紙おむつが「高効率燃料」に！愛媛発スタートアップの挑戦",
+      "description": "",
+      "publishedAt": "2026-11-06T21:00:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1aM-btYEsP8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1aM-btYEsP8"
+    },
     {
       "id": "eZrqteLPHqM",
       "title": "愛媛のニュース(11月06日)",

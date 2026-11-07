@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-11-06T20:45:12.399279",
+  "updated_at": "2026-11-07T19:18:13.264797",
   "videos": [
+    {
+      "id": "Ykt-zR01yoU",
+      "title": "261107 153254 深田第４踏切（トロッコ列車通過）",
+      "description": "",
+      "publishedAt": "2026-11-07T11:56:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ykt-zR01yoU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ykt-zR01yoU"
+    },
+    {
+      "id": "0tjfCV8F1Wc",
+      "title": "261107 152937 深田第４踏切",
+      "description": "",
+      "publishedAt": "2026-11-07T11:53:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0tjfCV8F1Wc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0tjfCV8F1Wc"
+    },
     {
       "id": "KIJajxJcRoU",
       "title": "261106 115126 元宗踏切",

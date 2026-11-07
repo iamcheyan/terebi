@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-11-06T20:44:12.408568",
+  "updated_at": "2026-11-07T19:17:09.170815",
   "videos": [
+    {
+      "id": "bCI1yDOVGHA",
+      "title": "【まるまる◎あいち】2026年11月7日放送 「DESTINATION AICHI」",
+      "description": "",
+      "publishedAt": "2026-11-07T09:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bCI1yDOVGHA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bCI1yDOVGHA"
+    },
+    {
+      "id": "oZBiO-qHGXA",
+      "title": "【予告】おぎやはぎのハピキャン【フィールドスタイル大満喫SP②】",
+      "description": "",
+      "publishedAt": "2026-11-07T02:30:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oZBiO-qHGXA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oZBiO-qHGXA"
+    },
     {
       "id": "iCLnitwAIME",
       "title": "思い出の学校行事🏫「遠足」【アナメロ】",
