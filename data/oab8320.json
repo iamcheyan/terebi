@@ -1,8 +1,32 @@
 {
   "channel_id": "UCekmK9BsmFY_PujFeV6ryqg",
   "channel_name": "OAB大分朝日放送",
-  "updated_at": "2026-11-07T19:17:56.071671",
+  "updated_at": "2026-11-08T19:24:11.437147",
   "videos": [
+    {
+      "id": "UrIOUnomG4A",
+      "title": "芝のグラウンドでサッカー体験",
+      "description": "",
+      "publishedAt": "2026-11-08T09:01:59+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UrIOUnomG4A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UrIOUnomG4A"
+    },
+    {
+      "id": "qqkH4w9dTAE",
+      "title": "自然の不思議を体感　自然史博物館の役割を考える",
+      "description": "",
+      "publishedAt": "2026-11-08T09:01:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qqkH4w9dTAE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qqkH4w9dTAE"
+    },
     {
       "id": "tq9zIDRDeJ8",
       "title": "小学３年以下の野球大会オレンジボール開幕　特別ルールで楽しみながら野球のルールを",

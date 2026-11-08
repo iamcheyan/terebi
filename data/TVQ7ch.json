@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-11-07T19:18:04.543444",
+  "updated_at": "2026-11-08T19:24:18.491818",
   "videos": [
+    {
+      "id": "b-RgR-CrleU",
+      "title": "#2 味処矢野｜熊田曜子の北九州グルメ旅（テレQ 2026年11月8日OA）",
+      "description": "",
+      "publishedAt": "2026-11-08T13:53:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b-RgR-CrleU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b-RgR-CrleU"
+    },
+    {
+      "id": "zUmbeCalsoQ",
+      "title": "#1 焼きうどん専門店きつね｜熊田曜子の北九州グルメ旅（テレQ 2026年11月8日OA）",
+      "description": "",
+      "publishedAt": "2026-11-08T12:59:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zUmbeCalsoQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zUmbeCalsoQ"
+    },
     {
       "id": "YUtKh6ekAj0",
       "title": "【テレQ番宣】ぐっ！ジョブ（11月14日（土）14:30～）",

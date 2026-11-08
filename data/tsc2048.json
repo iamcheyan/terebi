@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-11-06T20:44:25.054970",
+  "updated_at": "2026-11-08T19:23:58.016724",
   "videos": [
+    {
+      "id": "VW5Ab0JrzKQ",
+      "title": "しまじろうのわお！　#750「かわいい！　がすき」【11/14（土）放送📺】",
+      "description": "",
+      "publishedAt": "2026-11-08T15:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VW5Ab0JrzKQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VW5Ab0JrzKQ"
+    },
     {
       "id": "qjJ6xksW3lc",
       "title": "「自宅需要」に「帰歳暮」　お歳暮のトレンドとは？",

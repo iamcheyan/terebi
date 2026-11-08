@@ -1,8 +1,32 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-11-07T19:17:41.212255",
+  "updated_at": "2026-11-08T19:23:55.018421",
   "videos": [
+    {
+      "id": "MoVFV5zvCPM",
+      "title": "菊のグランドピアノが登場",
+      "description": "",
+      "publishedAt": "2026-11-08T09:22:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/MoVFV5zvCPM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=MoVFV5zvCPM"
+    },
+    {
+      "id": "mFtVeyNpuWA",
+      "title": "仲間にタスキつなぐ駅伝大会",
+      "description": "",
+      "publishedAt": "2026-11-08T09:21:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mFtVeyNpuWA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mFtVeyNpuWA"
+    },
     {
       "id": "Tx2I4dSGh2E",
       "title": "【企業密着】変革を重ねた老舗料亭が挑む「家族で向き合う事業承継」のリアル｜株式会社新月（滋賀経済NOW）2026年11月7日放送",

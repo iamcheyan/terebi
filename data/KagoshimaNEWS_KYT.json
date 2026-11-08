@@ -1,8 +1,20 @@
 {
   "channel_id": "UCiyk6cY1ux2HCDycnMTksdg",
   "channel_name": "KYT鹿児島読売テレビ",
-  "updated_at": "2026-11-07T19:17:53.043473",
+  "updated_at": "2026-11-08T19:24:08.252162",
   "videos": [
+    {
+      "id": "UNYNZ6MjA2I",
+      "title": "【高校サッカー決勝】11/8(日)13:00~ 神村学園×鹿児島城西",
+      "description": "",
+      "publishedAt": "2026-11-08T06:39:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UNYNZ6MjA2I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UNYNZ6MjA2I"
+    },
     {
       "id": "HtAKs7yShM0",
       "title": "防火や防災の意識を高めて  霧島市で消防フェスタ",

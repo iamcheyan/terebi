@@ -1,8 +1,20 @@
 {
   "channel_id": "UCeOpyFGyYfhqZDqZeZmAu0A",
   "channel_name": "テレビ大阪（TVO）",
-  "updated_at": "2026-11-07T19:17:34.556514",
+  "updated_at": "2026-11-08T19:23:33.427675",
   "videos": [
+    {
+      "id": "ahCnD2PzDQI",
+      "title": "食遺産File.270「アボカドと牛肉のトロうま煮」＠大阪府・岸和田市",
+      "description": "",
+      "publishedAt": "2026-11-08T03:45:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ahCnD2PzDQI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ahCnD2PzDQI"
+    },
     {
       "id": "xLje34cWbrw",
       "title": "【よゐこ有野】この街、攻略しとく？東大阪をぶーらぶら！～地上100mの絶景スポットから世界に誇るモノづくりまで徹底攻略の巻～",
