@@ -1,8 +1,44 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-11-05T21:22:54.792463",
+  "updated_at": "2026-11-10T21:14:31.023814",
   "videos": [
+    {
+      "id": "S5HDJ85c_c4",
+      "title": "【Go！Go！いわて】11月14日（土）予告",
+      "description": "",
+      "publishedAt": "2026-11-10T09:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/S5HDJ85c_c4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=S5HDJ85c_c4"
+    },
+    {
+      "id": "HgFILIkZVPA",
+      "title": "【Go！Go！いわて】2026年10月31日（土）＜視聴者のギモンにお答えします！＞",
+      "description": "",
+      "publishedAt": "2026-11-09T09:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HgFILIkZVPA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HgFILIkZVPA"
+    },
+    {
+      "id": "KJ6-J1WqsSE",
+      "title": "書道がユネスコの無形文化遺産に登録される見通しに　岩手からも喜びの声【Jチャンいわて動画】",
+      "description": "",
+      "publishedAt": "2026-11-09T07:54:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KJ6-J1WqsSE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KJ6-J1WqsSE"
+    },
     {
       "id": "gHLG9UZrFmU",
       "title": "酷暑でリンゴに「高温障害」　生産現場は⋯対応に試行錯誤【Jチャンいわて動画】",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-11-08T19:24:18.491818",
+  "updated_at": "2026-11-10T21:14:52.860368",
   "videos": [
+    {
+      "id": "NWu9ZVHRzEA",
+      "title": "#3 陽のあたる場所｜熊田曜子の北九州グルメ旅（テレQ 2026年11月10日OA）",
+      "description": "",
+      "publishedAt": "2026-11-10T12:59:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NWu9ZVHRzEA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NWu9ZVHRzEA"
+    },
+    {
+      "id": "0BFncEPaODg",
+      "title": "【12/1までTVer配信中】さらばのAIサマの言うとおり",
+      "description": "",
+      "publishedAt": "2026-11-10T10:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0BFncEPaODg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0BFncEPaODg"
+    },
+    {
+      "id": "5Eq8KF66zLU",
+      "title": "手のひらストーリー#2「安否確認のその先へ」(2026年11月9日放送)",
+      "description": "",
+      "publishedAt": "2026-11-09T14:05:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5Eq8KF66zLU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5Eq8KF66zLU"
+    },
+    {
+      "id": "ViC3um_Z5BM",
+      "title": "【12/1までTVer配信中】さらばのAIサマの言うとおり",
+      "description": "",
+      "publishedAt": "2026-11-09T10:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ViC3um_Z5BM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ViC3um_Z5BM"
+    },
     {
       "id": "b-RgR-CrleU",
       "title": "#2 味処矢野｜熊田曜子の北九州グルメ旅（テレQ 2026年11月8日OA）",

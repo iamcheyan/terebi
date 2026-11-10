@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-11-07T19:17:40.737914",
+  "updated_at": "2026-11-10T21:14:17.695276",
   "videos": [
+    {
+      "id": "UBAA6j1EWbo",
+      "title": "★11月14日のサタプラ★",
+      "description": "",
+      "publishedAt": "2026-11-10T03:14:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UBAA6j1EWbo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UBAA6j1EWbo"
+    },
+    {
+      "id": "p8R01M9K33U",
+      "title": "イチャイチャ中でもツッコミが止まらない新喜劇ww",
+      "description": "",
+      "publishedAt": "2026-11-09T10:00:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p8R01M9K33U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p8R01M9K33U"
+    },
     {
       "id": "DPzv8KviAJI",
       "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/11/07放送",

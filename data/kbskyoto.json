@@ -1,8 +1,44 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-11-06T20:44:10.648107",
+  "updated_at": "2026-11-10T21:14:16.168877",
   "videos": [
+    {
+      "id": "flkAqWUCSSw",
+      "title": "【特集】印刷工場の未来！「Horizon Smart Factory 2026」／きょうと経済テラスキュンと！",
+      "description": "",
+      "publishedAt": "2026-11-10T09:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/flkAqWUCSSw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=flkAqWUCSSw"
+    },
+    {
+      "id": "dXzPN8szCeg",
+      "title": "第106回全国高校ラグビーフットボール大会京都府予選決勝「京都工学院×京都成章」",
+      "description": "",
+      "publishedAt": "2026-11-09T05:32:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dXzPN8szCeg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dXzPN8szCeg"
+    },
+    {
+      "id": "Jd83VH86KGM",
+      "title": "第105回全国高校サッカー選手権大会京都大会決勝「東山 vs 京都精華学園」",
+      "description": "",
+      "publishedAt": "2026-11-09T00:20:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Jd83VH86KGM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Jd83VH86KGM"
+    },
     {
       "id": "UX0gKZ5q18o",
       "title": "【京の風】アプリ完結型の24時間無人フィットネスジム／きょうと経済テラス キュンと！",

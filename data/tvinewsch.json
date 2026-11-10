@@ -1,9 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "original_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-10T00:13:50.259862",
+  "updated_at": "2026-11-10T21:14:02.820195",
   "videos": [
+    {
+      "id": "VdTl9iNGE9c",
+      "title": "【高校サッカー・岩手県大会決勝】専大北上が３年連続５回目の全国大会出場。",
+      "description": "",
+      "publishedAt": "2026-11-10T04:33:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VdTl9iNGE9c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VdTl9iNGE9c"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "x5hG-FddkppE5C9eGi6v9jtOrvY",

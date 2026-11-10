@@ -1,8 +1,44 @@
 {
   "channel_id": "UCnAMndZmw_JmzoWy51Ld-YQ",
   "channel_name": "NBS長野放送",
-  "updated_at": "2026-11-08T19:24:10.469868",
+  "updated_at": "2026-11-10T21:14:46.517850",
   "videos": [
+    {
+      "id": "UvEsydtVKOg",
+      "title": "こだわり専門店グルメ特集　具材ぎっしり極厚サンド＆ザクザクチキン！専門店の本気",
+      "description": "",
+      "publishedAt": "2026-11-10T09:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UvEsydtVKOg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UvEsydtVKOg"
+    },
+    {
+      "id": "sxgGJtLVWq4",
+      "title": "長野県縦断キャンピングカー旅　最新装備でGO　絶景・秘境・キャンプ飯！最高BBQ",
+      "description": "",
+      "publishedAt": "2026-11-09T09:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/sxgGJtLVWq4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=sxgGJtLVWq4"
+    },
+    {
+      "id": "2Cwj_ahezw0",
+      "title": "秋のおでかけスポットめぐり　標高1300mの絶景！12万株の花畑＆雲海グルメ満喫",
+      "description": "",
+      "publishedAt": "2026-11-09T09:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2Cwj_ahezw0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2Cwj_ahezw0"
+    },
     {
       "id": "GQv7LQVIKac",
       "title": "スタミナ満点！肉グルメでパワーチャージ",

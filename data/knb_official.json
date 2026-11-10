@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-11-03T20:53:31.831616",
+  "updated_at": "2026-11-10T21:14:42.104409",
   "videos": [
+    {
+      "id": "m9u41JBiooI",
+      "title": "【旬景とやま】縄ヶ池の水鏡",
+      "description": "",
+      "publishedAt": "2026-11-10T10:27:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m9u41JBiooI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m9u41JBiooI"
+    },
     {
       "id": "aWFi0C6ONFs",
       "title": "【旬景とやま】 走れ 万葉線",

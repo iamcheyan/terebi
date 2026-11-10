@@ -1,9 +1,56 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
   "channel_name": "yab山口ニュース",
-  "original_name": "yab山口ニュース",
-  "updated_at": "2026-11-10T00:33:08.576166",
+  "updated_at": "2026-11-10T21:14:09.628105",
   "videos": [
+    {
+      "id": "AAyaB_1j_rA",
+      "title": "【山口】周南市鹿野　クマ新たな被害",
+      "description": "",
+      "publishedAt": "2026-11-10T10:30:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AAyaB_1j_rA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AAyaB_1j_rA"
+    },
+    {
+      "id": "G2mAts9Bo7E",
+      "title": "【山口】防府市西浦で男児の遺留品捜査",
+      "description": "",
+      "publishedAt": "2026-11-10T10:30:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/G2mAts9Bo7E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=G2mAts9Bo7E"
+    },
+    {
+      "id": "JpZUrqTKp4A",
+      "title": "【山口】平生町長選告示　新人２人立候補",
+      "description": "",
+      "publishedAt": "2026-11-10T10:30:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JpZUrqTKp4A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JpZUrqTKp4A"
+    },
+    {
+      "id": "pE1_7yg-xBw",
+      "title": "10日のJチャンやまぐちは　「書道」",
+      "description": "",
+      "publishedAt": "2026-11-10T02:45:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pE1_7yg-xBw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pE1_7yg-xBw"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "QDykTyPQyO_UoYZQCdSxCfGbEOM",
