@@ -1,8 +1,150 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
-  "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-11-08T19:23:32.284639",
+  "channel_name": "広テレ!公式チャンネル【広島テレビオンデマンド】",
+  "original_name": "広島ホームテレビ（HOME）",
+  "updated_at": "2026-11-10T00:29:30.251669",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yICCzVtyqpwyKbQXbJT_0XZiPmA",
+      "id": "VVVpRzRYVFRUMl9tdmZUUEF0WEdUNHZRLlNSWGJNSzN4dVNR",
+      "snippet": {
+        "publishedAt": "2026-11-09T10:00:29Z",
+        "channelId": "UCiG4XTTT2_mvfTPAtXGT4vQ",
+        "title": "第517回　ひろおく便り　世羅町　町民劇「大妻コタカ物語」",
+        "description": "１１月２２・２３日に上演される「大妻コタカ」の町民劇をご紹介。\n大妻コタカは、世羅町出身の教育者で東京・大妻女子大学の創設者です。\n実行委員会では町内外で出演者の公募を行い、幼児から高齢者までの\n約50人が「せら文化センター」の舞台に挑みます。\n#世羅町　#コマッタじゃない、子は宝　#大妻コタカ物語　チケット",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SRXbMK3xuSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SRXbMK3xuSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SRXbMK3xuSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SRXbMK3xuSQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
+        "playlistId": "UUiG4XTTT2_mvfTPAtXGT4vQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SRXbMK3xuSQ"
+        },
+        "videoOwnerChannelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
+        "videoOwnerChannelId": "UCiG4XTTT2_mvfTPAtXGT4vQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WYs_ZxJtHohuj3Jeyq7Vq8Vy76k",
+      "id": "VVVpRzRYVFRUMl9tdmZUUEF0WEdUNHZRLnJpVWJMQzRVeUtZ",
+      "snippet": {
+        "publishedAt": "2026-11-09T09:30:05Z",
+        "channelId": "UCiG4XTTT2_mvfTPAtXGT4vQ",
+        "title": "【お好み焼きも熱意もアツアツ!?】冷凍焼きそばパンの販売も",
+        "description": "JR竹原駅周辺にある、昭和47年創業のお好み焼き店を訪ねました。こちらのお店は、一般的な鉄板より約100℃高い温度で焼き上げるのが特徴。お好み焼きはもちろん、焼きそばも評判で、冷凍焼きそばパンの販売も行っています。中島さんはお好み焼きと焼きそばの両方を試食し、そのおいしさに大満足でした。\n\n《2026年2月20日 広島テレビ「テレビ派 沿線遺産」で放送》\n(放送内容と一部異なる場合があります)\n\n#沿線遺産 #竹原市 #JR竹原駅 #お好み焼き #御幸 #竹原市中央 #焼きそば #冷凍焼きそばパン #テレビ派 #広テレ #中島尚樹 #広島テレビ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/riUbLC4UyKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/riUbLC4UyKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/riUbLC4UyKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/riUbLC4UyKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/riUbLC4UyKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/riUbLC4UyKY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
+        "playlistId": "UUiG4XTTT2_mvfTPAtXGT4vQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "riUbLC4UyKY"
+        },
+        "videoOwnerChannelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
+        "videoOwnerChannelId": "UCiG4XTTT2_mvfTPAtXGT4vQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T3OFi80cdJe5h2E8wu0__zmSlv8",
+      "id": "VVVpRzRYVFRUMl9tdmZUUEF0WEdUNHZRLlNuaDRSYVZaQkJv",
+      "snippet": {
+        "publishedAt": "2026-11-09T09:00:27Z",
+        "channelId": "UCiG4XTTT2_mvfTPAtXGT4vQ",
+        "title": "【キッズチャレンジスタジアム】まひろちゃん＿広テレ",
+        "description": "気分はトップアスリート\n子どもたちがクロマキー空間でいろんな競技にチャレンジ\n未来のスターはここにいる！？\n\n#広テレ #子ども #kids #カープ #サンフレッチェ #ドラゴンフライズ #体操\nHP\n⇒https://www.htv.jp/kcs/\n\nインスタ\n⇒https://www.instagram.com/stadium_555/\n\nTikTok\n⇒https://www.tiktok.com/@stadium555",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Snh4RaVZBBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Snh4RaVZBBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Snh4RaVZBBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Snh4RaVZBBo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Snh4RaVZBBo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
+        "playlistId": "UUiG4XTTT2_mvfTPAtXGT4vQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Snh4RaVZBBo"
+        },
+        "videoOwnerChannelTitle": "広テレ!公式チャンネル【広島テレビオンデマンド】",
+        "videoOwnerChannelId": "UCiG4XTTT2_mvfTPAtXGT4vQ"
+      }
+    },
     {
       "id": "NTWhOQg_NVc",
       "title": "【馬場のぶえのひろしま脳トレ】第32回「11月11日は「介護の日」　介護職の魅力を発信！」",
@@ -13280,6 +13422,24 @@
       "title": "【キッズチャレンジスタジアム】りんとくん＿広テレ",
       "thumbnail": "https://i.ytimg.com/vi/H_73xP1yuXE/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=H_73xP1yuXE"
+    },
+    {
+      "id": "SRXbMK3xuSQ",
+      "title": "第517回　ひろおく便り　世羅町　町民劇「大妻コタカ物語」",
+      "thumbnail": "https://i.ytimg.com/vi/SRXbMK3xuSQ/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SRXbMK3xuSQ"
+    },
+    {
+      "id": "riUbLC4UyKY",
+      "title": "【お好み焼きも熱意もアツアツ!?】冷凍焼きそばパンの販売も",
+      "thumbnail": "https://i.ytimg.com/vi/riUbLC4UyKY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=riUbLC4UyKY"
+    },
+    {
+      "id": "Snh4RaVZBBo",
+      "title": "【キッズチャレンジスタジアム】まひろちゃん＿広テレ",
+      "thumbnail": "https://i.ytimg.com/vi/Snh4RaVZBBo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Snh4RaVZBBo"
     }
   ]
 }

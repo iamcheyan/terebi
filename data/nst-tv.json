@@ -1,8 +1,2878 @@
 {
   "channel_id": "UCsWp7U58TZM8uOYtRrAqWhg",
-  "channel_name": "NST新潟総合テレビ",
-  "updated_at": "2026-11-08T19:23:37.938864",
+  "channel_name": "NST Online",
+  "original_name": "NST新潟総合テレビ",
+  "updated_at": "2026-11-09T23:50:20.137972",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fe94kfvSok4qPwfBe8yFKNg4mdE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnBoTFIteDVHS0tr",
+      "snippet": {
+        "publishedAt": "2026-11-09T23:00:33Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Najib's lawyers: Why is A-G 'moving goalposts' over house arrest issue?",
+        "description": "Datuk Seri Najib Razak’s lawyer has accused the attorney-general of “moving the goalposts” over his client’s house arrest documents, as questions over when theformer prime minister will be transferred out of Kajang Prison persist.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/phLR-x5GKKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/phLR-x5GKKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/phLR-x5GKKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/phLR-x5GKKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/phLR-x5GKKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/phLR-x5GKKk/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "phLR-x5GKKk"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rb4ZtA6EozQdzB-XujTyOCG4hPc",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk1LYW5WbGJYSEI4",
+      "snippet": {
+        "publishedAt": "2026-11-09T23:00:27Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Academic freedom, workload on higher education reform agenda",
+        "description": "Lecturers' academic freedom and welfare will form part of Malaysia’s higher education overhaul as the government moves to repeal the Universities and University Colleges Act 1971 (AUKU), with their obligations under Act 605 also coming under examination.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MKanVlbXHB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MKanVlbXHB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MKanVlbXHB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MKanVlbXHB8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MKanVlbXHB8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/MKanVlbXHB8/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MKanVlbXHB8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t6joJAYr6BoUNTJ2xqyKhNT5MJg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkw2b0RPU2dNNlVn",
+      "snippet": {
+        "publishedAt": "2026-11-09T13:00:07Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "News@9 – Monday, November 9, 2026",
+        "description": "Good evening. You're watching News@9.\n\nHere are today's top stories.\n\nEarly voting\nPreparations are in full swing at early voting centres across the state ahead of tomorrow's early voting for the 16th Melaka election.\n\nK9 hero 'Lexi' dies \nAfter nearly a decade of dedicated service in search and rescue operations, 'Lexi', a Fire and Rescue Department K9 unit sniffer dog, has died.\n\nSpecial aid\nEligible flood victims in Selangor will receive RM2,500 each in special additional cash assistance, with payments expected to begin tomorrow.\n\nNvidia probes CEO Huang\nChip giant Nvidia's board announced Sunday it opened a probe into Chief Executive and co-founder Jensen Huang after he acknowledged an affair with a woman US officials say was working for Chinese intelligence.\n\nThat’s it for News@9.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L6oDOSgM6Ug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L6oDOSgM6Ug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L6oDOSgM6Ug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L6oDOSgM6Ug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L6oDOSgM6Ug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L6oDOSgM6Ug"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uoEVW5QA92W7XtOYztBtriHB5kU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk9TSGQxdXo5d0tZ",
+      "snippet": {
+        "publishedAt": "2026-11-09T11:14:18Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Three believed killed by lightning strike in Sepang",
+        "description": "Three people were believed killed while taking shelter under a tree.\n\nRead more at: https://www.nst.com.my/news/nation/2026/11/1574051/updated-three-killed-lightning-sepang\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OSHd1uz9wKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OSHd1uz9wKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OSHd1uz9wKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OSHd1uz9wKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OSHd1uz9wKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OSHd1uz9wKY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7gGR72F1MZrblaFH2QjaWpFBPKU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkpFakh3STRxb0dV",
+      "snippet": {
+        "publishedAt": "2026-11-09T09:45:43Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Who is Alice Huang, the woman linked to Nvdia 's Ceo Jensen Huang in alleged China spy plot?",
+        "description": "Chinese technology executive Alice Huang, also known as Huang Le, has been accused of spying for Beijing whilst having an affair with Nvidia chief Jensen Huang.\n\nAlthough sharing a surname, the Chinese citizen is no relation to the 63-year-old Taiwanese-born boss of the world's most valuable company.\n\nKnown to speak fluent English, she is regarded as highly connected at the top level of the global artificial intelligence chip sector.\n\nAn online database profile suggests she previously worked for HSBC bank and as a television reporter for Chinese state broadcaster CCTV and Hunan TV.\n\nShe later emerged as a senior figure at Megaspeed International, a Singapore-based data centre firm claiming to be a core Asia-Pacific partner to Nvidia.\n\nUnited States officials concluded last year that she targeted the Nvidia chief as an intelligence asset, leading Singaporean authorities to question her in 2025.\n\nSTORY LINK : https://www.nst.com.my/opinion/columnists/2026/11/1573910/alice-huang-chinese-exec-accused-spying-nvidia-ceo\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JEjHwI4qoGU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JEjHwI4qoGU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JEjHwI4qoGU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JEjHwI4qoGU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JEjHwI4qoGU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/JEjHwI4qoGU/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JEjHwI4qoGU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DYfCYY5McPoOU-AyGtChuFV_XA4",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkF3UVJNQmZjZTg4",
+      "snippet": {
+        "publishedAt": "2026-11-09T09:45:17Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Good call to play on, Razif tells Wei Chong Kai Wun",
+        "description": "Razif backs the French Open champions to carry their form into Kumamoto and Hong Kong.\n\nStorylink: https://www.nst.com.my/sports/badminton/2026/11/1573906/razif-backs-form-wei-chong-kai-wun-strike-while-hot\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AwQRMBfce88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AwQRMBfce88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AwQRMBfce88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AwQRMBfce88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AwQRMBfce88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AwQRMBfce88"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EyWOBXFrxgOmm9TE-GaZ5o0QtQs",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm9vMGRTMmpoQWR3",
+      "snippet": {
+        "publishedAt": "2026-11-09T09:44:38Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "One title could lift Zii Jia ahead of Olympic qualifying",
+        "description": "Rashid Sidek sees renewed confidence in Lee Zii Jia’s \n\nStorylink: https://www.nst.com.my/sports/badminton/2026/11/1573946/rashid-zii-jia-can-ignite-olympic-charge-one-title\n\n---------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oo0dS2jhAdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oo0dS2jhAdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oo0dS2jhAdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oo0dS2jhAdw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oo0dS2jhAdw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oo0dS2jhAdw"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tR8rmCwVSGfrTQ8qO4MFsdIRseE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnlfem1UbVB3dHQ0",
+      "snippet": {
+        "publishedAt": "2026-11-09T07:55:59Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "K9 hero 'Lexi' dies day after completing final SAR mission on Kinabalu",
+        "description": "Fire and Rescue Department sniffer dog Lexi has died after nearly a decade of search and rescue service. The Labrador Retriever completed her final mission in Menggatal before being found dead in her kennel. Her cause of death remains undetermined pending a post-mortem report.\n\nhttps://www.nst.com.my/news/nation/2026/11/1573914/k9-hero-lexi-dies-day-after-completing-final-sar-mission-kinabalu\n      \n----------------------------------\n#NST #NSTTV#Sabah #K9 #KotaKinabalu #Lexi #SnifferDog #Labrador #Bomba #FireandRescueDept #NST #News #MalaysiaNews     \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y_zmTmPwtt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y_zmTmPwtt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y_zmTmPwtt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y_zmTmPwtt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y_zmTmPwtt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/y_zmTmPwtt4/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y_zmTmPwtt4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cYTzouYXwTqeE-sIaybVI48ogys",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmx4LVNvbjBwbU5j",
+      "snippet": {
+        "publishedAt": "2026-11-09T06:42:33Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Deepavali fireworks choke Delhi",
+        "description": "Toxic air in parts of New Delhi soared to over 58 times the WHO’s daily limit on Monday after Diwali fireworks.\n\nRead more at: https://www.nst.com.my/world/world/2026/11/1573835/indian-capital-chokes-pollution-after-diwali-fireworks\n----------------------------------\n#NST #NSTTV\n\nVisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lx-Son0pmNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lx-Son0pmNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lx-Son0pmNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lx-Son0pmNc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lx-Son0pmNc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/lx-Son0pmNc/sardefault.jpg",
+            "width": 759,
+            "height": 1350
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lx-Son0pmNc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VZbpPwOFtI-mb6W8ZrHrLPmloz8",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm0yeGNGbDN3cTBF",
+      "snippet": {
+        "publishedAt": "2026-11-09T06:02:58Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Melaka polls: Adly appeals to early voters to back PH's aspirations",
+        "description": "Melaka PH chairman Adly Zahari is appealing to early voters to support the coalition's policy direction, highlighting civil service salary increases, economic stability and a stronger ringgit. PH is also proposing greater use of technology to reduce bureaucracy and improve government services.\n\nhttps://www.nst.com.my/news/nation/2026/11/1573817/melaka-polls-adly-appeals-early-voters-back-phs-aspirations\n----------------------------------\n#NST #NSTTV#Melaka #PakatanHarapan #PH #Vote #Voters #Election  #PRNMelaka #PRNMelaka26 #NST #News #MalaysiaNews           \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m2xcFl3wq0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m2xcFl3wq0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m2xcFl3wq0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m2xcFl3wq0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m2xcFl3wq0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/m2xcFl3wq0E/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m2xcFl3wq0E"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8ZQOaA1EHIaSJoxbHGKR1n3sO9w",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmdjV2lBWFgxMlBF",
+      "snippet": {
+        "publishedAt": "2026-11-09T05:43:43Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Ex-DAP man 'Superman' Hew floored after online feud spills into kickboxing ring",
+        "description": "Social and political commentator Ang Woei Shang defeated former DAP member Hew Kuan Yau in a kickboxing match at AEON Wangsa Maju. The bout ended early after Hew struggled to defend himself. Hew later attributed his defeat to his age and lack of professional experience.\n\nhttps://www.nst.com.my/news/nation/2026/11/1573840/online-feud-spills-ring-political-commentator-wins-kickboxing-bout\n----------------------------------\n#NST #NSTTV#AngWoeiShang #DAP #HewKuanYau #Kickboxing #SupermanHew #StrikezoneShowdown #MCA #NST #News #MalaysiaNews           \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gcWiAXX12PE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gcWiAXX12PE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gcWiAXX12PE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gcWiAXX12PE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gcWiAXX12PE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/gcWiAXX12PE/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gcWiAXX12PE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fBvcwsPIwDRnsMhQFjy4_Nuxaew",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjBhUWRVZnVZeFRB",
+      "snippet": {
+        "publishedAt": "2026-11-09T05:03:04Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Johari: Reliance on foreign workers must be reduced",
+        "description": "Malaysia must gradually reduce its reliance on foreign workers by adopting automation, robotics and artificial intelligence, particularly in manufacturing. Datuk Seri Johari Abdul Ghani said the country has 2.6 million foreign workers, with controlling the number among the goals of the 13th Malaysia Plan.\n\nhttps://www.nst.com.my/news/nation/2026/11/1573754/johari-reliance-foreign-workers-must-be-reduced\n----------------------------------\n#NST #NSTTV#JohariGhani #MITI #ForeignWorkers #Foreigners #Manufacturing #Automation #Robotics #AI #NST #News #MalaysiaNews      \n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0aQdUfuYxTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0aQdUfuYxTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0aQdUfuYxTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0aQdUfuYxTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0aQdUfuYxTA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/0aQdUfuYxTA/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0aQdUfuYxTA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AKoICPbUDwy7ZAxDHpxjU6QTGQw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmxBTHlPU0JzM2FZ",
+      "snippet": {
+        "publishedAt": "2026-11-09T03:26:39Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Nvidia probes CEO Huang amid reports of Chinese spy links to Singapore based firm",
+        "description": "Nvidia's board has launched an independent probe into CEO Jensen Huang following reports of a possible Chinese intelligence operation linked to a woman with whom he acknowledged having an affair.\n\nhttps://www.nst.com.my/business/corporate/2026/11/1573680/nvidia-probes-ceo-huang-amid-reports-chinese-spy-links-singapore\n----------------------------------\n#NST #NSTTV#Nvidia #Chip #JensenHuang #Megaspeed #China #US #Spy #Espionage #AliceHuang #HuangLe #DonaldTrump #AI #Affair #NST #News #BusinessNews      \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lALyOSBs3aY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lALyOSBs3aY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lALyOSBs3aY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lALyOSBs3aY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lALyOSBs3aY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/lALyOSBs3aY/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lALyOSBs3aY"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "--KvZ4Es7FWam37CLlYSQ6c5ITE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnU4VkJIbnU0WFFR",
+      "snippet": {
+        "publishedAt": "2026-11-09T02:00:11Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Sungai Udang agenda: What are Datuk Rais Yasin’s eight manifesto pledges?",
+        "description": "For the 16th Melaka state election, Barisan Nasional (BN) candidate for the Sungai Udang state seat has outlined eight pledges in his manifesto aimed at improving the well-being of local residents.\n\nIn this episode of Bicara PRN, Datuk Rais Yasin, who is also Tangga Batu Umno division chief, details his plans to address flooding, healthcare, education, military welfare, religious affairs, quality of life, environmental sustainability and young entrepreneurs.\n\nWatch the Bicara PRN podcast, featuring Rais, exclusively on all NSTP and Buletin TV3 platforms on Nov 9 at 10am.\n\n#BicaraPRN #PRNMelaka2026 #NSTP #BuletinTV3\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u8VBHnu4XQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u8VBHnu4XQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u8VBHnu4XQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u8VBHnu4XQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u8VBHnu4XQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u8VBHnu4XQQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IfUlVOTKsCvnaQ3c8zQZ1OIPwWI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLldHLXlZUGFtOEg4",
+      "snippet": {
+        "publishedAt": "2026-11-09T01:35:52Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Mentakab's last newsdealer keeps print tradition alive",
+        "description": "K. Mutusamy, 70, Mentakab's last remaining newsdealer, remains committed to selling printed newspapers and magazines despite declining demand, preserving a nearly five-decade-old business driven by passion and loyal customers.\n\nhttps://www.nst.com.my/news/regional/2026/11/1573667/mentakabs-last-newsdealer-keeps-print-tradition-alive\n----------------------------------\n#NST #NSTTV#Metakab #Pahang #Temerloh #Newspaper #Newsdealer #Magazine  #Digital #NST #News #MalaysiaNews      \n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WG-yYPam8H8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WG-yYPam8H8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WG-yYPam8H8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WG-yYPam8H8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WG-yYPam8H8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/WG-yYPam8H8/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WG-yYPam8H8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "umwQ7smU3iLNHf2n69jQ6tmfln4",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnRDZmFWZnZpR1Nj",
+      "snippet": {
+        "publishedAt": "2026-11-08T23:00:08Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Legal experts differ on A-GC's decision to defer Najib's house arrest",
+        "description": "The decision by the Attorney-General’s Chambers (A-GC) to defer the implementation of Datuk Seri Najib Ra z a k ’s house arrest has drawn criticism over its timing. \n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tCfaVfviGSc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tCfaVfviGSc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tCfaVfviGSc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tCfaVfviGSc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tCfaVfviGSc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tCfaVfviGSc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9cJSp5MyjwcYy_h96YF41n2gEGY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmx4dDkzbWZkbXQ4",
+      "snippet": {
+        "publishedAt": "2026-11-06T04:08:53Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Mega Fortris sheds RM1.75bil in seven-day rout",
+        "description": "Mega Fortris Bhd has lost about RM1.75 billion in market value in seven trading days, with its shares plunging 60 per cent from a record high of RM3.45 on Oct 28.\n\nThe stock fell another 24.59 per cent to RM1.38 on Friday, triggering its third consecutive intraday short-selling suspension.\n\nIts market capitalisation dropped to RM1.17 billion from RM2.92 billion, although the shares remain 57.71 per cent above their starting price of 87.5 sen this year.\n\nThe turmoil has also engulfed GIIB Holdings and Ni Hsin Group, with sharp share-price swings prompting Bursa Malaysia to issue unusual market activity queries to all three companies earlier in the week.\n\nSeparately, Mega Fortris disclosed that its chairman Ng and substantial shareholder Mega Fortris Global had obtained a court order seeking documents on transactions involving 17.74 million shares. \n\nThe company said it could not determine whether the proceedings were linked to the recent price decline.\n\nRead more: https://www.nst.com.my/business/corporate/2026/11/1571972/mega-fortris-sheds-rm175bil-seven-day-rout \n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lxt93mfdmt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lxt93mfdmt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lxt93mfdmt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lxt93mfdmt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lxt93mfdmt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/lxt93mfdmt8/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 56,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lxt93mfdmt8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sRRwzE5dGX73G6pXWAF2YA6oYNE",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmZWaG5pMDdVbnNR",
+      "snippet": {
+        "publishedAt": "2026-11-06T03:27:02Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Fire destroys mosque in Setiu",
+        "description": "Masjid At-Taqwa in Kampung Beris Tok Ku, Jalan Permaisuri, was destroyed in a blaze early today.\n\nRead more: https://www.nst.com.my/news/regional/2026/11/1571873/fire-destroys-mosque-setiu\n----------------------------------\n#NST #NSTTV #Fire #Setiu #Mosque #MasjidAtTaqwa #Bomba #Firefighters #MalaysiaNews #NSTNews\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fVhni07UnsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fVhni07UnsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fVhni07UnsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fVhni07UnsQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fVhni07UnsQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/fVhni07UnsQ/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 57,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fVhni07UnsQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NYDnV_i4tpJccXgkGX_6AEM_7TU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlRsei1uZlhKMGpR",
+      "snippet": {
+        "publishedAt": "2026-11-06T03:12:43Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "200 families affected as flash floods hit Saujana Utama",
+        "description": "About 200 families in Taman Seri Alam, Saujana Utama were affected by flash floods after a retention pond overflowed following prolonged rain yesterday afternoon.\n\nSaujana Utama Residents Representative Council and community development chairman Wan Ismail Hashim said water from the pond spilled over into houses after it could no longer hold the volume.\n\nHe said the retention pond did not burst, unlike in previous incidents.\n\nWan Ismail said Saujana Perdana also saw spillage, though floodwaters only reached car porches in the SU4 area as of yesterday afternoon.\n\nContinuous heavy rain also caused a drainage bund to burst near the Eco Grandeur boundary, while several surrounding retention ponds reached maximum capacity.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/11/1571875/200-families-affected-flash-floods-hit-saujana-utama\n\n----------------------------------\n#NST #NSTTV#FlashFlood #Flood #RetentionPond #SaujanaUtama #SaujanaPerdana #EcoGrandeur #HeavyRain #MalaysiaNews #NSTNews\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tlz-nfXJ0jQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tlz-nfXJ0jQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tlz-nfXJ0jQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tlz-nfXJ0jQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tlz-nfXJ0jQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/Tlz-nfXJ0jQ/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 58,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tlz-nfXJ0jQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AndaZmKhbyhqof5ikR85EtF0Yk8",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmoyUVE5bGlDcElJ",
+      "snippet": {
+        "publishedAt": "2026-11-06T03:07:11Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Sabah targets premium coffee market with Ranau plantation",
+        "description": "Sabah aims to develop a premium coffee industry around the country's highest-altitude coffee plantation in Ranau, creating new income opportunities for local farmers.\n\nLocated 1,300m above sea level, the Kampung Toboh Lama plantation has been recognised by the Malaysia Book of Records as the country's highest-altitude coffee plantation.\n\nDeputy Chief Minister Datuk Seri Masidi Manjun said the focus was to help farmers move up the value chain, with Ranau specialty coffee fetching RM50 to RM65 per 250g pack.\n\nHe outlined priorities including boosting production, improving processing and marketing, and attracting young agropreneurs, alongside better facilities, training and certification.\n\nSabah aims to build a nationally recognised highland coffee brand or cafe chain, tapping into a domestic coffee market worth about RM4.4 billion.\n\nRead more: https://www.nst.com.my/business/corporate/2026/11/1571408/sabah-targets-premium-coffee-market-ranau-plantation \n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j2QQ9liCpII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j2QQ9liCpII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j2QQ9liCpII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j2QQ9liCpII/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j2QQ9liCpII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/j2QQ9liCpII/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 59,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j2QQ9liCpII"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q_ZC15J3PcJnI19xjbDhGeVFQxk",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmVXanhzWENFcVM0",
+      "snippet": {
+        "publishedAt": "2026-11-06T03:00:34Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM Nov 6, 2026",
+        "description": "Bursa Malaysia’s 30-stock index opened lower on Friday trailing Wall Street’s sharp decline as the AI-stocks rout re-emerged.\n\n The key index dropped 15 points to open at 1,620.\n\n It is expected to hover between the 1,630 and 1,640 range today.\n\n In the crypto exchange, Bitcoin slumped to RM308,223.\n\n Ethereum slipped to RM9,060 while Solana rose to RM365.\n\n That’s it for Market Pulse.\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eWjxsXCEqS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eWjxsXCEqS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eWjxsXCEqS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eWjxsXCEqS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eWjxsXCEqS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/eWjxsXCEqS4/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 60,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eWjxsXCEqS4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pRx-VZCx6nGX0IBwCM-Ux85z9ro",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLi1nb0RieGdpLVpF",
+      "snippet": {
+        "publishedAt": "2026-11-06T02:50:06Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "RM2.69bil Penang LRT contract awarded to China-Malaysia consortium",
+        "description": "MRT Corp has awarded a RM2.69 billion contract to build a 5.5km extension of the Penang LRT Mutiara Line, including a 3.05km sea-crossing bridge linking the island to the mainland.\n\nThe Macallum-Penang Sentral extension will connect the rail network to KTM services, ferries and buses.\n\nThe journey between Komtar and Penang Sentral is expected to take about eight minutes.\n\nThe contract was awarded to a joint venture comprising China Communications Construction Company, TRC Construction and Ufuk Semarak.\n\nThe broader Mutiara Line is 16 per cent complete and remains on schedule.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-goDbxgi-ZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-goDbxgi-ZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-goDbxgi-ZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-goDbxgi-ZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-goDbxgi-ZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/-goDbxgi-ZE/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 61,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-goDbxgi-ZE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CDlW6g-EjqVZJbrI1YO8xGdvLfU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLl9OaTBPZkk1eUVR",
+      "snippet": {
+        "publishedAt": "2026-11-06T02:42:36Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "(LIVE) 2026 Sarawak Election: Election Commission PC",
+        "description": "(LIVE) 2026 Sarawak Election: Election Commission PC\n\n#NSTTV\n#BHTV\n#METROTV\n\nVisit us at www.nst.com.my\nOur Facebook www.facebook.com/nstonline\nMore news at www.twitter.com/NST_Online\nAnd also www.instagram.com/nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Ni0OfI5yEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Ni0OfI5yEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Ni0OfI5yEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Ni0OfI5yEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_Ni0OfI5yEQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 62,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_Ni0OfI5yEQ"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4au1idQ3jawA4b1VxRRUo6HS6Jg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjBmYUpNZDJVNGhn",
+      "snippet": {
+        "publishedAt": "2026-11-06T01:13:26Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Melaka Polls: ‘Defeating BN PN no easy feat’ —Loke",
+        "description": "DAP secretary-general Anthony Loke warns that overcoming BN and PN in Melaka will be no easy feat, urging voters to avoid vote fragmentation in multi-cornered contests and unite behind Pakatan Harapan to ensure effective governance and check-and-balance.\n\nStorylink: https://www.nst.com.my/news/regional/2026/11/1571734/loke-defeating-bn-pn-melaka-polls-no-easy-feat\n\n----------------------------------\n#NST #NSTTV#AnthonyLoke #DAP #PakatanHarapan #Melaka #PolitikMalaysia #BarisanNasional #PerikatanNasional #PRNMelaka #KerajaanMadani\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0faJMd2U4hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0faJMd2U4hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0faJMd2U4hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0faJMd2U4hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0faJMd2U4hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/0faJMd2U4hg/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 63,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0faJMd2U4hg"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a87qj6tfFQW0iWWUhxwq927XzxQ",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmRWTjdtckVsQTJz",
+      "snippet": {
+        "publishedAt": "2026-11-05T06:00:43Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "[LIVE] Dewan Rakyat Sitting | Third Meeting of the Fifth Term | Morning Session | Nov 5, 2026",
+        "description": "[LIVE] Dewan Rakyat Sitting | Third Meeting of the Fifth Term | Morning Session | Nov 5, 2026\n\n#NSTTV\n#BHTV\n#METROTV\n\nVisit us at www.nst.com.my\nOur Facebook www.facebook.com/nstonline\nMore news at www.twitter.com/NST_Online\nAnd also www.instagram.com/nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dVN7mrElA2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dVN7mrElA2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dVN7mrElA2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dVN7mrElA2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dVN7mrElA2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 79,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dVN7mrElA2s"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZpGAnjv4JPr5JpgIZ_vCKdrrpvw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlYybUM4Ymx3VDVv",
+      "snippet": {
+        "publishedAt": "2026-11-05T04:40:28Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Google to pour US$15bil into Malaysia's digital future",
+        "description": "Google will invest US$15 billion (about RM63 billion) in Malaysia between 2027 and 2028 to expand its data centre infrastructure, clean energy capacity and water security initiatives.\n\nThe investment is expected to contribute an average US$1.1 billion annually to Malaysia's GDP and support more than 37,000 local jobs a year during construction.\n\nGoogle also aims to upskill 800,000 Malaysians by 2031 through programmes targeting educators, youth, microentrepreneurs, civil servants and vocational jobseekers.\n\nThe company plans to add more than 1GW of clean energy capacity to the national grid and introduce water replenishment projects in Selangor and Negri Sembilan.\n\nOnce operational, its data centre facilities are expected to sustain more than 9,000 local jobs annually, with wages averaging 45 per cent above the national median.\n\nRead more: https://www.nst.com.my/business/economy/2026/11/1570742/google-pour-us15bil-malaysias-digital-future \n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V2mC8blwT5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V2mC8blwT5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V2mC8blwT5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V2mC8blwT5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V2mC8blwT5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/V2mC8blwT5o/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 80,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V2mC8blwT5o"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "coYTy2BgQSu1N2BCCm6hq7qh28s",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnI5X254YVBsU0Vz",
+      "snippet": {
+        "publishedAt": "2026-11-05T03:00:31Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM Nov 5, 2026",
+        "description": "Bursa Malaysia’s benchmark index opened higher on Thursday, tracking sharp gains on Wall Street after investors reacted positively to the Democrats’ significant victory in the US midterm elections.\n\nThe 30-stock index opened 0.48 of a point higher at 1,623.28.\n\nThe market is expected to trend within the 1,651 to 1,630 range today supported by strong buying interest and a sharp decline in crude oil prices.\n\nIn the cryptocurrency market, Bitcoin stood at RM325,455 while Ethereum rose to RM9,795 and Solana gained to RM386.\n\n That's it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r9_nxaPlSEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r9_nxaPlSEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r9_nxaPlSEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r9_nxaPlSEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r9_nxaPlSEs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/r9_nxaPlSEs/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 81,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r9_nxaPlSEs"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iH7meciONv4i7i1QxyK3zErvi2U",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlJ2MUMxcDdyRXB3",
+      "snippet": {
+        "publishedAt": "2026-11-05T02:44:38Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Zahid arrives in Turkiye for 4 day working visit",
+        "description": "Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi has arrived in Turkiye for a four-day working visit ahead of the 2026 TRT World Forum, which opens at the Istanbul Congress Centre tomorrow.\n\nZahid, his wife Datin Seri Hamidah Khamis and their delegation landed at Istanbul International Airport about 3.30am local time.\n\nThey were received by Malaysian Ambassador to Turkiye Adlan Mohd Shaffieq.\n\nZahid will first chair a pre-council meeting with officials of the mission and Malaysia delegations to finalise preparations for the visit.\n\nTomorrow morning, he will receive a courtesy call from Turkish Higher Education Council President Prof Dr Erol Ozvar, before attending the forum's opening ceremony, which will be officiated by Turkish President Recep Tayyip Erdogan.\n\nhttps://www.nst.com.my/news/nation/2026/11/1571140/zahid-arrives-turkiye-4-day-working-visit\n----------------------------------\n#NST #NSTTV#NSTOnline #AhmadZahidHamidi #Turkiye #TRTWorldForum #Diplomacy #InternationalRelations #MalaysiaNews #NSTNews\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rv1C1p7rEpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rv1C1p7rEpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rv1C1p7rEpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rv1C1p7rEpw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rv1C1p7rEpw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/Rv1C1p7rEpw/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 82,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rv1C1p7rEpw"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0ENP0copff3_Il1fkLVPcq15PiU",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjlNaFZWcjFIMi1r",
+      "snippet": {
+        "publishedAt": "2026-11-04T07:24:27Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Quiet at Najib's home amid reports RM50mil fine will be paid today",
+        "description": "The atmosphere outside former prime minister Datuk Seri Najib Razak's residence remained quiet amid reports that a RM50 million fine imposed on him would be paid today. Attention remains on whether the payment will be made as reported.\n\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/11/1570444/quiet-najibs-home-amid-reports-rm50mil-fine-will-be-paid-today\n\n----------------------------------\n#NST #NSTTV #NSTOnline #NajibRazak #RM50MillionFine #NajibResidence #CourtNews #MalaysianPolitics\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9MhVVr1H2-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9MhVVr1H2-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9MhVVr1H2-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9MhVVr1H2-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9MhVVr1H2-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 98,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9MhVVr1H2-k"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XkKsluSEMsjhAvL7RadwZTWxua0",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnRDYmx6ZmlmMGFF",
+      "snippet": {
+        "publishedAt": "2026-11-04T07:22:43Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "PM: Urban development must not neglect humanitarian values, people's welfare",
+        "description": "Prime Minister Datuk Seri Anwar Ibrahim has stressed that urban development must not come at the expense of humanitarian values and the well-being of the people. He said development should prioritise the needs of communities while balancing economic progress with social responsibility.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/11/1570514/pm-urban-development-must-not-neglect-humanitarian-values-peoples\n\n----------------------------------\n#NST #NSTTV #NSTOnline #AnwarIbrahim #UrbanDevelopment #HumanitarianValues #SustainableDevelopment #UrbanPlanning #PeopleFirst #MADANI\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tCblzfif0aE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tCblzfif0aE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tCblzfif0aE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tCblzfif0aE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tCblzfif0aE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 99,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tCblzfif0aE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CQoR__Txng7ww069p-hLiWRsByg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnZuenRBRV83Sl9F",
+      "snippet": {
+        "publishedAt": "2026-11-04T05:59:50Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Melaka polls: Adam Adli proposes smarter traffic systems to ease congestion",
+        "description": "DESCRIPTION\nPakatan Harapan's Adam Adli Abd Halim has proposed introducing smarter traffic management systems to ease congestion in Melaka. The proposal aims to improve traffic flow and address road users' concerns as campaigning for the Melaka state election continues.\n\nRead more at:\nhttps://www.nst.com.my/news/regional/2026/11/1570500/melaka-polls-adam-adli-proposes-smarter-traffic-systems-ease\n\n\n---------------------------------\n#NST #NSTTV #NSTOnline #MelakaPolls #AdamAdli #TrafficCongestion #SmartTrafficSystem #Melaka #PakatanHarapan #MalaysianPolitics\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vnztAE_7J_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vnztAE_7J_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vnztAE_7J_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vnztAE_7J_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vnztAE_7J_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 100,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vnztAE_7J_E"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ij2Evht07MCn5xbI141N3139eRs",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjMwQlZmZW1PR1Rj",
+      "snippet": {
+        "publishedAt": "2026-11-04T04:43:47Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Preacher Da'i Syed walks free after Court of Appeal overturns rape conviction",
+        "description": "Hamid dissented.\nCelebrity preacher Da'i Syed, whose real name is Syed Shah Iqmal Syed Mohd Shaiful, was acquitted and discharged by the Court of Appeal today of a rape charge dating back seven years. The decision was reached by a 2-1 majority.\n\n\nhttps://www.nst.com.my/news/regional/2026/11/1570375/preacher-dai-syed-walks-free-after-court-appeal-overturns-rape\n\n----------------------------------\n#NST #NSTTV #Court #Preacher #DaiSyed #Acquittal #Appeal #Rape charge #NST #News #MalaysiaNews   \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/30BVfemOGTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/30BVfemOGTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/30BVfemOGTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/30BVfemOGTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/30BVfemOGTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/30BVfemOGTc/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 101,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "30BVfemOGTc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N6O2GKKBc0Y0IoYIo4fXrJgPhgw",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk5FRVlvRzhUNlVz",
+      "snippet": {
+        "publishedAt": "2026-11-04T04:42:54Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "No instructions from Najib to settle RM50mil fine, says lawyer",
+        "description": "Datuk Seri Najib Razak’s lawyer Muhammad Farhan Muhammad Shafee said he had received no instructions to pay the RM50 million fine linked to the former prime minister’s house arrest arrangement, adding that he had no information on the payment’s status.\n\nRead more:\nhttps://www.nst.com.my/news/nation/2026/11/1570337/no-instructions-najib-settle-rm50mil-fine-says-lawyer\n\n----------------------------------\n#NST #NSTTV #NajibRazak #HouseArrest #PardonsBoard #Pardon #Agong #ShafeeAbdullah #SRCInternational #NST #News #MalaysiaNews   \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NEEYoG8T6Us/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NEEYoG8T6Us/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NEEYoG8T6Us/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NEEYoG8T6Us/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NEEYoG8T6Us/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/NEEYoG8T6Us/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 102,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NEEYoG8T6Us"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tv7p_bcEpJ2yemaKttJkAfT_Yug",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnRNOE5lZlgwcV9Z",
+      "snippet": {
+        "publishedAt": "2026-11-04T04:36:20Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "MACC remands three, including Datuk, over RM1mil cigarette smuggling bribes",
+        "description": "The Malaysian Anti-Corruption Commission (MACC) has remanded three individuals, including a Datuk, to assist investigations into an alleged cigarette smuggling case involving RM1 million.\n\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/11/1570362/updated-macc-remands-three-including-datuk-over-rm1mil-cigarette\n\n----------------------------------\n#NST #NSTTV#NSTOnline #MACC #SPRM #CigaretteSmuggling #CorruptionInvestigation #Remand #Datuk #CrimeNews\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tM8NefX0q_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tM8NefX0q_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tM8NefX0q_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tM8NefX0q_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tM8NefX0q_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/tM8NefX0q_Y/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 103,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tM8NefX0q_Y"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qOB-iN__xbUxlzpRRL-y543eDiQ",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLng5OVRRX3hkV0w0",
+      "snippet": {
+        "publishedAt": "2026-11-04T04:00:47Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Najib to pay RM50mil fine today for house arrest release",
+        "description": "Datuk Seri Najib Razak is reportedly set to pay his RM50 million fine today, with a representative expected to make the payment at the Kuala Lumpur Court Complex. The payment would enable him to serve the remainder of his prison sentence under house arrest.\n\nhttps://www.nst.com.my/news/nation/2026/11/1570303/najib-pay-rm50mil-fine-today-house-arrest-release\n\n----------------------------------\n#NST #NSTTV#NajibRazak #HouseArrest #PardonsBoard #Pardon #Agong #SRCInternational #NST #News #MalaysiaNews   \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x99TQ_xdWL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x99TQ_xdWL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x99TQ_xdWL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x99TQ_xdWL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x99TQ_xdWL4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/x99TQ_xdWL4/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 104,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x99TQ_xdWL4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4An9cp1D3dUHxYOwgMz_BCgGgQo",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkZCU0ZkXy00eGk0",
+      "snippet": {
+        "publishedAt": "2026-11-04T03:17:44Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Man dies after parang attack in Teluk Intan",
+        "description": "A man died after being attacked with parangs by three men outside a shop in Taman Banjar Jaya, Teluk Intan, yesterday. Police said the victim died while receiving treatment at hospital, while a 27-year-old woman was arrested to assist investigations.\n\nhttps://www.nst.com.my/news/regional/2026/11/1570281/man-dies-after-parang-attack-teluk-intan\n\n----------------------------------\n#NST #NSTTV#Crime #Perak #TelukIntan #Murder #Parang #NST #News #MalaysiaNews   \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FBSFd_-4xi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FBSFd_-4xi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FBSFd_-4xi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FBSFd_-4xi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FBSFd_-4xi4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/FBSFd_-4xi4/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 105,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FBSFd_-4xi4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5vf8_Nso7_gO1AZBKpr62xq5i3Q",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkFleDJLMTVNOGxz",
+      "snippet": {
+        "publishedAt": "2026-11-04T03:16:24Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Melaka polls: BN PN cooperation could deliver 25 seats, says Jalaluddin",
+        "description": "Umno Supreme Council member Datuk Seri Jalaluddin Alias said cooperation between Barisan Nasional and Perikatan Nasional could secure at least 25 of the 28 seats in the Melaka election, claiming the alliance would meet public expectations for political and administrative stability.\n\nhttps://www.nst.com.my/news/regional/2026/11/1570266/melaka-polls-bn-pn-cooperation-could-deliver-25-seats-says-jalaluddin\n\n----------------------------------\n#NST #NSTTV#JalaluddinAlias #Melaka #PRNMelaka #PRNMelaka26 #PerikatanNasional #PN #BarisanNasional #Umno #NST #News #MalaysiaNews   \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aex2K15M8ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aex2K15M8ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aex2K15M8ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aex2K15M8ls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aex2K15M8ls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/Aex2K15M8ls/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 106,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Aex2K15M8ls"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K6x-8xa5hbjh7rTRaGtvAFbWdbY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnI4dzM4MXptY1NV",
+      "snippet": {
+        "publishedAt": "2026-11-04T03:00:22Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM Nov 4, 2026",
+        "description": "Bursa Malaysia opened higher but retreated thereafter, tracking mixed performances across regional markets following overnight cues from Wall Street.\n\nThe benchmark index opened 1.46 points higher at 1,623.31 before giving up its gains.\n\nNevertheless, recent foreign fund inflows remain encouraging, with the index expected to trade within a narrow range of 1,615 and 1,625 today.\n\nIn the crypto market, Bitcoin fell to RM313,518 due to broader market pressures.\n\nEthereum fell to RM9,229 while Solana was down at RM374.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r8w381zmcSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r8w381zmcSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r8w381zmcSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r8w381zmcSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r8w381zmcSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/r8w381zmcSU/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 107,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r8w381zmcSU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U8-t9e432CPpGq_GEDbb6zrG034",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmgzandSa0JqY2ZB",
+      "snippet": {
+        "publishedAt": "2026-11-04T02:48:49Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Flash floods shut NKVE, Elite, GCE stretches around Shah Alam",
+        "description": "Heavy overnight rain caused flash floods along major highways around Shah Alam, forcing closures on the NKVE, Elite and Guthrie expressways, with traffic diversions implemented after all lanes at Km9.1 of the NKVE were blocked.\n\nhttps://www.nst.com.my/news/nation/2026/11/1570284/flash-floods-shut-nkve-elite-gce-stretches-around-shah-alam\n----------------------------------\n#NST #NSTTV#Floods #Rain #Flood #NKVE #ShahAlam #EliteHighway #GuthrieHighway #PlusMalaysia #SetiaAlam #NST #News #MalaysiaNews  \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h3jwRkBjcfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h3jwRkBjcfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h3jwRkBjcfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h3jwRkBjcfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h3jwRkBjcfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/h3jwRkBjcfA/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 108,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h3jwRkBjcfA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3RgXBS8WwwSz7iyBx7R_1Q-5bMI",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmVkRGozeHdvRUtj",
+      "snippet": {
+        "publishedAt": "2026-11-04T00:00:02Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Strong growth revives case for OPR hike",
+        "description": "Economists are divided on whether Bank Negara Malaysia will raise the overnight policy rate (OPR) by 25 basis points to 3.0 per cent or maintain it at 2.75 per cent at its final policy meeting of 2026 on Thursday.\n\nBank Muamalat chief economist Dr Mohd Afzanizam Abdul Rashid expects a hike, citing stronger economic growth and the need to normalise monetary policy, while others favour holding rates amid manageable inflation and softening consumer sentiment.\n\nMalaysia's GDP grew 5.3 per cent in the third quarter of 2026, while headline inflation stood at 1.8 per cent in September.\n\nA 25-basis-point hike could add about RM14 to monthly repayments for every RM100,000 borrowed on a 30-year housing loan, while potentially moderating household spending and business investment.\n\nSome economists expect the OPR to remain unchanged this week, with a possible hike in the first quarter of 2027.\n\nRead more: https://www.nst.com.my/business/corporate/2026/11/1569795/ioi-properties-eyes-sgx-listing-early-2027 \n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/edDj3xwoEKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/edDj3xwoEKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/edDj3xwoEKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/edDj3xwoEKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/edDj3xwoEKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/edDj3xwoEKc/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 109,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "edDj3xwoEKc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sbusTGtxxGdLblmsZXk9-pbXWwM",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLktJSWMtbEZBdzNv",
+      "snippet": {
+        "publishedAt": "2026-11-03T23:00:28Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Malaysia could be vulnerable to hybrid cyberattacks, say experts",
+        "description": "Malaysia may be able to withstand individual cyberattacks, but its ability to cope with a sustained, multi-sector assault remains uncertain, warned security experts.\n\n----------------------------------\n#NST #NSTTV #cyberattacks #readiness #datacentre #LED #digitaleconomy #protection #MalaysiaNews #NSTNews\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KIIc-lFAw3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KIIc-lFAw3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KIIc-lFAw3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KIIc-lFAw3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KIIc-lFAw3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 110,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KIIc-lFAw3o"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mcptplAhwwMYr5SeV6-_CBcAzNs",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmp6X3hOVDFBU3pj",
+      "snippet": {
+        "publishedAt": "2026-11-03T08:39:26Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Man charged with murdering Felda settler in Lok Heng Selatan",
+        "description": "A 41-year-old man has been charged with the murder of a 68-year-old Felda settler in Lok Heng Selatan, Kota Tinggi, Johor. The accused was brought before the court following investigations into the fatal attack last month.\n\n\nRead more at:\nhttps://www.nst.com.my/news/regional/2026/11/1569682/man-charged-murdering-felda-settler-lok-heng-selatan\n----------------------------------\n#NST #NSTTV #NSTOnline #Felda #LokHengSelatan #KotaTinggi #Johor #MurderCase #CourtNews #CrimeNews\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jz_xNT1ASzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jz_xNT1ASzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jz_xNT1ASzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jz_xNT1ASzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jz_xNT1ASzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 126,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jz_xNT1ASzc"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "23Y7plubTRzQfitjxiOXSsIR1gg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkdoZmVIYmF5X1A0",
+      "snippet": {
+        "publishedAt": "2026-11-03T08:36:50Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Binance’s US$6.3bil hack and its Malaysia return plans",
+        "description": "Binance wants to make a comeback in Malaysia, but the world’s largest cryptocurrency exchange has a rather big problem.\n\nRead more:\nhttps://www.nst.com.my/business/corporate/2026/11/1569471/binances-malaysia-comeback-bid-faces-fresh-scrutiny-after\n\n----------------------------------\n#NST #NSTTV NST, NSTOnline, Business Times, BT, Malaysia, News, Business, Binance, Bitcoin, Cryptocurrency, Investment\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GhfeHbay_P4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GhfeHbay_P4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GhfeHbay_P4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GhfeHbay_P4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GhfeHbay_P4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 127,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GhfeHbay_P4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D7oWp5W0twTRQ9n-sD9ZFYMZEn0",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjN4VU4wVGJ0Z3Y4",
+      "snippet": {
+        "publishedAt": "2026-11-03T07:52:00Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Melaka polls: Azman focuses on cost of living, education and jobs in Paya Rumput",
+        "description": "Pakatan Harapan's Paya Rumput candidate Datuk Azman Abidin is highlighting the need to bring federal initiatives closer to residents, with cost of living, school facilities and youth employment among the key issues raised during his campaign walkabouts.\n\nRead more: https://www.nst.com.my/news/regional/2026/11/1569563/azman-pledges-bring-federal-initiatives-paya-rumput\n\n---------------------------------\n#NST #NSTTV #MelakaPolls #PRNMelaka #PayaRumput #AzmanAbidin #PakatanHarapan #CostOfLiving #Education #TVET #SmallBusinesses #MelakaElection2026\n\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3xUN0Tbtgv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3xUN0Tbtgv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3xUN0Tbtgv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3xUN0Tbtgv8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3xUN0Tbtgv8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/3xUN0Tbtgv8/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 128,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3xUN0Tbtgv8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2HYosgoKfwFOMFQMg7Vv30c0Ysg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLlR2aWtoaUFibkI0",
+      "snippet": {
+        "publishedAt": "2026-11-03T06:54:05Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "[LIVE] Dewan Rakyat Sitting | Third Meeting of the Fifth Term | Morning Session | Nov 3, 2026",
+        "description": "[LIVE] Dewan Rakyat Sitting | Third Meeting of the Fifth Term | Morning Session | Nov 3, 2026\n\n#NSTTV\n#BHTV\n#METROTV\n\nVisit us at www.nst.com.my\nOur Facebook www.facebook.com/nstonline\nMore news at www.twitter.com/NST_Online\nAnd also www.instagram.com/nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TvikhiAbnB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TvikhiAbnB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TvikhiAbnB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TvikhiAbnB4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TvikhiAbnB4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 129,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TvikhiAbnB4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yiUu2aDQ8S7xk9o_RN_3uCpAJPk",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjJyU2p3N0J4RmhN",
+      "snippet": {
+        "publishedAt": "2026-11-03T06:35:55Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Rafizi spends 2 hours at Bukit Aman, questioned over two police reports",
+        "description": "Former economy minister Datuk Seri Rafizi Ramli spent about two hours at Bukit Aman being questioned by police in connection with two reports lodged against him. The questioning forms part of ongoing police investigations into the reports.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/11/1569737/rafizi-spends-2-hours-bukit-aman-questioned-over-two-police-reports\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2rSjw7BxFhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2rSjw7BxFhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2rSjw7BxFhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2rSjw7BxFhM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2rSjw7BxFhM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 130,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2rSjw7BxFhM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V3xjClQQUJit_wjA7FRm1oebZfk",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLk8xOFExRm5xYUs4",
+      "snippet": {
+        "publishedAt": "2026-11-03T06:15:23Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Singapore national serviceman among first charged under amended anti racing law",
+        "description": "A Singaporean national serviceman and two Malaysians were each fined RM3,500 for illegal racing and dangerous motorcycle riding in one of the first prosecutions under amendments to the Road Transport Act 1987, which took effect on Oct 16.\n\nhttps://www.nst.com.my/news/regional/2026/11/1569660/singapore-national-serviceman-among-first-charged-under-amended-anti\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O18Q1FnqaK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O18Q1FnqaK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O18Q1FnqaK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O18Q1FnqaK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O18Q1FnqaK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/O18Q1FnqaK8/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 131,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O18Q1FnqaK8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5lEtIy26MPNpTdFMQ8GxpdMmlHg",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLi1qc3ZOM2djU1lF",
+      "snippet": {
+        "publishedAt": "2026-11-03T05:48:35Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Anwar: RM9.4bil Sabah pipeline deals had elements of 'sakau'",
+        "description": "Prime Minister Datuk Seri Anwar Ibrahim has alleged that RM9.4 billion worth of pipeline projects in Sabah involved elements of sakau, a colloquial term for the misappropriation of funds. He stressed the need for accountability and transparency in the management of major public projects.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/11/1569702/anwar-rm94bil-sabah-pipeline-deals-had-elements-sakau\n----------------------------------\n#NST #NSTTV #NSTOnline #AnwarIbrahim #Sabah #PipelineProjects #RM9Point4Billion #Corruption #Governance #Accountability\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-jsvN3gcSYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-jsvN3gcSYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-jsvN3gcSYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-jsvN3gcSYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-jsvN3gcSYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 132,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-jsvN3gcSYE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jOgXJn_Ypz7AJXcxc_eRXwoHWGo",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLkVSZU0zTm5udXc0",
+      "snippet": {
+        "publishedAt": "2026-11-03T05:07:19Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Good service doesn't exempt public officers from the law, says Anwar",
+        "description": "Prime Minister Datuk Seri Anwar Ibrahim has stressed that a public officer's good service record does not exempt them from legal action if wrongdoing is established. He emphasised that accountability and the rule of law must apply to all, regardless of their position or past contributions.\n\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/11/1569634/good-service-doesnt-exempt-public-officers-law-says-anwar\n\n----------------------------------\n#NST #NSTTV #NSTOnline #AnwarIbrahim #PublicOfficers #CivilService #RuleOfLaw #Accountability #Integrity #goodgovernance \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EReM3Nnnuw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EReM3Nnnuw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EReM3Nnnuw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EReM3Nnnuw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EReM3Nnnuw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/EReM3Nnnuw4/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 133,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EReM3Nnnuw4"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7FMR_mEExl0SGVyp_CUIgCGfTTY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnpSR3IyTEt3Ql9B",
+      "snippet": {
+        "publishedAt": "2026-11-03T04:36:45Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Anwar visits flash flood victims at Sungai Buloh relief centre",
+        "description": "Prime Minister Datuk Seri Anwar Ibrahim visited a temporary relief centre in Sungai Buloh, Selangor, to meet residents affected by recent flash floods. The visit was aimed at checking on the victims' welfare and the assistance being provided to displaced families.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/11/1569656/anwar-visits-flash-flood-victims-sungai-buloh-relief-centre\n----------------------------------\n#NST #NSTTV #NSTOnline #AnwarIbrahim #FlashFloods #SungaiBuloh #FloodVictims #FloodRelief #Selangor\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zRGr2LKwB_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zRGr2LKwB_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zRGr2LKwB_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zRGr2LKwB_A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zRGr2LKwB_A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 134,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zRGr2LKwB_A"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4V8knZe6WSG9oEDgaJioWD5Tlpo",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmtsbjRQRUcxMVE4",
+      "snippet": {
+        "publishedAt": "2026-11-03T04:21:15Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Anwar warns Malaysia a cyberattack target, orders top level briefings",
+        "description": "Prime Minister Datuk Seri Anwar Ibrahim has warned that Malaysia must remain vigilant against potential cyberattacks and global security threats. He has directed top government and financial authorities to strengthen national preparedness, following cyberattacks affecting digital infrastructure overseas.\n\nRead more at:\nhttps://www.nst.com.my/news/nation/2026/11/1569581/updated-anwar-warns-malaysia-cyberattack-target-orders-top-level#google_vignette----------------------------------\n\n#NST #NSTTV #NSTOnline #AnwarIbrahim #Cyberattack #Cybersecurity #NationalSecurity #CyberThreats #Malaysia #NationalSecurityCouncil\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kln4PEG11Q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kln4PEG11Q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kln4PEG11Q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kln4PEG11Q8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kln4PEG11Q8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/kln4PEG11Q8/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 135,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kln4PEG11Q8"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DGxZy8e8wPEggwSKbKOf-fX7O5c",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLml3OElzdXVlRkNV",
+      "snippet": {
+        "publishedAt": "2026-11-03T04:00:12Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Melaka Polls: Adly admits Bukit Katil seat at risk",
+        "description": "Pakatan Harapan (PH) Melaka chairman Adly Zahari has acknowledged that his position in defending the Bukit Katil state seat, which he has held for the past two terms, is at risk in the 16th Melaka State Election.\n\nAdly, who is also AMANAH vice-president, said the contest would be challenging where he considers it as stiff competition following the combined strength of Barisan Nasional (BN) and Perikatan Nasional (PN).\n\nHe shared his views with hosts Fareez Azman and Suzalina Halid in this special podcast.\n\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iw8IsuueFCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iw8IsuueFCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iw8IsuueFCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iw8IsuueFCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iw8IsuueFCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 136,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iw8IsuueFCU"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BrxfORLWwSDRhS_yhT4TU8dmWsA",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLm5ZNjdrRGN1SEZB",
+      "snippet": {
+        "publishedAt": "2026-11-03T03:54:16Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Melaka polls: Kuala Linggi PH candidate wants politics driven by service",
+        "description": "Pakatan Harapan (PH) candidate Muhammad Mukhlisul Mubin Julasapiyah says his campaign for the Kuala Linggi state seat is driven by a desire to serve the people rather than political revenge.\n\nRead more at:\nhttps://www.nst.com.my/news/regional/2026/11/1569519/melaka-polls-kuala-linggi-ph-candidate-wants-politics-driven-service\n\n----------------------------------\n#NST #NSTTV #NSTOnline #MelakaPolls #PRNMelaka #KualaLinggi #PakatanHarapan #MukhlisMubin #Amanah #MalaysianPolitics\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nY67kDcuHFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nY67kDcuHFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nY67kDcuHFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nY67kDcuHFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nY67kDcuHFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/nY67kDcuHFA/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 137,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nY67kDcuHFA"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-QMzu4B6fK4TwZjxNTrX1e9EQHs",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjZMOVZXZHROM0lj",
+      "snippet": {
+        "publishedAt": "2026-11-03T03:32:10Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "The case of Maxis – U Mobile merger",
+        "description": "A potential merger between Maxis Bhd and U Mobile Sdn Bhd could reshape Malaysia’s telco sector, creating an operator capable of overtaking CelcomDigi Bhd in subscriber numbers.\n\nHowever, the deal faces hurdles, including U Mobile’s valuation, high 5G development costs and Maxis’ need to exit Digital Nasional Bhd (DNB).\n\nU Mobile’s 100MHz spectrum block makes it strategically valuable, but its RM6.3 billion accumulated losses as at end-2025 highlights its financial challenges.\n\nA merger would also require Maxis to dispose of its 33.3 per cent stake in DNB, potentially to CelcomDigi or YTL Power International Bhd, raising questions over who would shoulder the network’s costs.\n\nHong Leong Investment Bank said the deal could pressure earnings, capex and dividends in the near term, but eventually improve market pricing discipline by creating a more balanced two-player market.\n\nRead more: https://www.nst.com.my/business/corporate/2026/11/1568709/case-maxis-%E2%80%93-u-mobile-merger \n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6L9VWdtN3Ic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6L9VWdtN3Ic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6L9VWdtN3Ic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6L9VWdtN3Ic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6L9VWdtN3Ic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/6L9VWdtN3Ic/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 138,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6L9VWdtN3Ic"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cUjm2r6EbfbB1I29qF7G-8-FFWQ",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLmxMTjBoSWs1MmhF",
+      "snippet": {
+        "publishedAt": "2026-11-03T03:00:26Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Market Pulse AM Nov 3, 2026",
+        "description": "Bursa Malaysia opened on a choppy note today, fluctuating between positive and negative territory before edging higher, in line with the mixed performance on Wall Street overnight.\n\nThe benchmark index opened 1.25 points higher at 1,620.76.\n\nTrading is expected to remain muted ahead of the US midterm elections later today, with the index likely to trend between 1,615 and 1,625.\n\nIn the crypto market, Bitcoin climbed back to RM314,319 as concerns over the sector’s biggest hack eased.\n\nEthereum rose to RM9,197, while Solana was up at RM376.\n\nThat’s it for Market Pulse.\n----------------------------------\n#NST #NSTTV\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lLN0hIk52hE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lLN0hIk52hE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lLN0hIk52hE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lLN0hIk52hE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lLN0hIk52hE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/lLN0hIk52hE/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 139,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lLN0hIk52hE"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HN6eMgGDft9326FGdGCYBRg3AFY",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLjI0RnZiQmROdFpN",
+      "snippet": {
+        "publishedAt": "2026-11-03T02:33:30Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Amanah confident of winning all seven seats in Melaka",
+        "description": "Amanah president Datuk Seri Mohamad Sabu expressed confidence that the party would win all seven seats it is contesting in the Melaka election, in line with Pakatan Harapan's target of securing 18 of the 24 seats it is contesting.\n\nRead more:\nhttps://www.nst.com.my/news/regional/2026/11/1569515/amanah-confident-winning-all-seven-seats-melaka\n\n----------------------------------\n#NST #NSTTV #MohamadSabu #MatSabu #Amanah #Melaka #PRNMelaka #PRNMelaka26 #PakatanHarapan #PH #BarisanNasional #NST #News #MalaysiaNews\n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/24FvbBdNtZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/24FvbBdNtZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/24FvbBdNtZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/24FvbBdNtZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/24FvbBdNtZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/24FvbBdNtZM/sardefault.jpg",
+            "width": 720,
+            "height": 1280
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 140,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "24FvbBdNtZM"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vLtOOyjP_ZGOz3aEjM8UliwvC0A",
+      "id": "VVVzV3A3VTU4VFpNOHVPWXRSckFxV2hnLnNYWWRxeDJpdGVv",
+      "snippet": {
+        "publishedAt": "2026-11-03T02:21:29Z",
+        "channelId": "UCsWp7U58TZM8uOYtRrAqWhg",
+        "title": "Ab Rauf vows to restore Melaka's former glory",
+        "description": "Caretaker Melaka Chief Minister Datuk Seri Dr Ab Rauf Yusoh has pledged to restore the state's former glory as a leading global trading hub, citing its historical achievements in port management, shipbuilding and the spice trade.\n\nRead more:\nhttps://www.nst.com.my/news/nation/2026/11/1569474/ab-rauf-vows-restore-melakas-former-glory\n\n----------------------------------\n#NST #NSTTV #AbRauf #Melaka #PRNMelaka #PRNMelaka26 #Umno #BN #BarisanNasional #NST #News #MalaysiaNews \n\nvisit us at http://www.nst.com.my \nour Facebook http://www.facebook.com/nstonline\nmore news at  http://www.twitter.com/NST_Online \nInstagram http://www.instagram.com/nstonline\nand also Tiktok https://www.tiktok.com/@nstonline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXYdqx2iteo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXYdqx2iteo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXYdqx2iteo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sXYdqx2iteo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sXYdqx2iteo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "shortsAspectRatio": {
+            "url": "https://i.ytimg.com/vi/sXYdqx2iteo/sardefault.jpg",
+            "width": 1080,
+            "height": 1920
+          }
+        },
+        "channelTitle": "NST Online",
+        "playlistId": "UUsWp7U58TZM8uOYtRrAqWhg",
+        "position": 141,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sXYdqx2iteo"
+        },
+        "videoOwnerChannelTitle": "NST Online",
+        "videoOwnerChannelId": "UCsWp7U58TZM8uOYtRrAqWhg"
+      }
+    },
     {
       "id": "RXzOcV6JtZ4",
       "title": "Zahid concludes Türkiye visit with focus on trade, defence cooperation",
@@ -80308,6 +83178,348 @@
       "title": "Medan Selera 223 traders pin hopes on RM40.5m flood plan",
       "thumbnail": "https://i.ytimg.com/vi/euJVaHTbG0c/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=euJVaHTbG0c"
+    },
+    {
+      "id": "phLR-x5GKKk",
+      "title": "Najib's lawyers: Why is A-G 'moving goalposts' over house arrest issue?",
+      "thumbnail": "https://i.ytimg.com/vi/phLR-x5GKKk/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=phLR-x5GKKk"
+    },
+    {
+      "id": "MKanVlbXHB8",
+      "title": "Academic freedom, workload on higher education reform agenda",
+      "thumbnail": "https://i.ytimg.com/vi/MKanVlbXHB8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MKanVlbXHB8"
+    },
+    {
+      "id": "L6oDOSgM6Ug",
+      "title": "News@9 – Monday, November 9, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/L6oDOSgM6Ug/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=L6oDOSgM6Ug"
+    },
+    {
+      "id": "OSHd1uz9wKY",
+      "title": "Three believed killed by lightning strike in Sepang",
+      "thumbnail": "https://i.ytimg.com/vi/OSHd1uz9wKY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OSHd1uz9wKY"
+    },
+    {
+      "id": "JEjHwI4qoGU",
+      "title": "Who is Alice Huang, the woman linked to Nvdia 's Ceo Jensen Huang in alleged China spy plot?",
+      "thumbnail": "https://i.ytimg.com/vi/JEjHwI4qoGU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JEjHwI4qoGU"
+    },
+    {
+      "id": "AwQRMBfce88",
+      "title": "Good call to play on, Razif tells Wei Chong Kai Wun",
+      "thumbnail": "https://i.ytimg.com/vi/AwQRMBfce88/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AwQRMBfce88"
+    },
+    {
+      "id": "oo0dS2jhAdw",
+      "title": "One title could lift Zii Jia ahead of Olympic qualifying",
+      "thumbnail": "https://i.ytimg.com/vi/oo0dS2jhAdw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oo0dS2jhAdw"
+    },
+    {
+      "id": "y_zmTmPwtt4",
+      "title": "K9 hero 'Lexi' dies day after completing final SAR mission on Kinabalu",
+      "thumbnail": "https://i.ytimg.com/vi/y_zmTmPwtt4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=y_zmTmPwtt4"
+    },
+    {
+      "id": "lx-Son0pmNc",
+      "title": "Deepavali fireworks choke Delhi",
+      "thumbnail": "https://i.ytimg.com/vi/lx-Son0pmNc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lx-Son0pmNc"
+    },
+    {
+      "id": "m2xcFl3wq0E",
+      "title": "Melaka polls: Adly appeals to early voters to back PH's aspirations",
+      "thumbnail": "https://i.ytimg.com/vi/m2xcFl3wq0E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m2xcFl3wq0E"
+    },
+    {
+      "id": "gcWiAXX12PE",
+      "title": "Ex-DAP man 'Superman' Hew floored after online feud spills into kickboxing ring",
+      "thumbnail": "https://i.ytimg.com/vi/gcWiAXX12PE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gcWiAXX12PE"
+    },
+    {
+      "id": "0aQdUfuYxTA",
+      "title": "Johari: Reliance on foreign workers must be reduced",
+      "thumbnail": "https://i.ytimg.com/vi/0aQdUfuYxTA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0aQdUfuYxTA"
+    },
+    {
+      "id": "lALyOSBs3aY",
+      "title": "Nvidia probes CEO Huang amid reports of Chinese spy links to Singapore based firm",
+      "thumbnail": "https://i.ytimg.com/vi/lALyOSBs3aY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lALyOSBs3aY"
+    },
+    {
+      "id": "u8VBHnu4XQQ",
+      "title": "Sungai Udang agenda: What are Datuk Rais Yasin’s eight manifesto pledges?",
+      "thumbnail": "https://i.ytimg.com/vi/u8VBHnu4XQQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=u8VBHnu4XQQ"
+    },
+    {
+      "id": "WG-yYPam8H8",
+      "title": "Mentakab's last newsdealer keeps print tradition alive",
+      "thumbnail": "https://i.ytimg.com/vi/WG-yYPam8H8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WG-yYPam8H8"
+    },
+    {
+      "id": "tCfaVfviGSc",
+      "title": "Legal experts differ on A-GC's decision to defer Najib's house arrest",
+      "thumbnail": "https://i.ytimg.com/vi/tCfaVfviGSc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tCfaVfviGSc"
+    },
+    {
+      "id": "lxt93mfdmt8",
+      "title": "Mega Fortris sheds RM1.75bil in seven-day rout",
+      "thumbnail": "https://i.ytimg.com/vi/lxt93mfdmt8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lxt93mfdmt8"
+    },
+    {
+      "id": "fVhni07UnsQ",
+      "title": "Fire destroys mosque in Setiu",
+      "thumbnail": "https://i.ytimg.com/vi/fVhni07UnsQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fVhni07UnsQ"
+    },
+    {
+      "id": "Tlz-nfXJ0jQ",
+      "title": "200 families affected as flash floods hit Saujana Utama",
+      "thumbnail": "https://i.ytimg.com/vi/Tlz-nfXJ0jQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Tlz-nfXJ0jQ"
+    },
+    {
+      "id": "j2QQ9liCpII",
+      "title": "Sabah targets premium coffee market with Ranau plantation",
+      "thumbnail": "https://i.ytimg.com/vi/j2QQ9liCpII/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=j2QQ9liCpII"
+    },
+    {
+      "id": "eWjxsXCEqS4",
+      "title": "Market Pulse AM Nov 6, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/eWjxsXCEqS4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eWjxsXCEqS4"
+    },
+    {
+      "id": "-goDbxgi-ZE",
+      "title": "RM2.69bil Penang LRT contract awarded to China-Malaysia consortium",
+      "thumbnail": "https://i.ytimg.com/vi/-goDbxgi-ZE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-goDbxgi-ZE"
+    },
+    {
+      "id": "_Ni0OfI5yEQ",
+      "title": "(LIVE) 2026 Sarawak Election: Election Commission PC",
+      "thumbnail": "https://i.ytimg.com/vi/_Ni0OfI5yEQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_Ni0OfI5yEQ"
+    },
+    {
+      "id": "0faJMd2U4hg",
+      "title": "Melaka Polls: ‘Defeating BN PN no easy feat’ —Loke",
+      "thumbnail": "https://i.ytimg.com/vi/0faJMd2U4hg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0faJMd2U4hg"
+    },
+    {
+      "id": "dVN7mrElA2s",
+      "title": "[LIVE] Dewan Rakyat Sitting | Third Meeting of the Fifth Term | Morning Session | Nov 5, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/dVN7mrElA2s/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dVN7mrElA2s"
+    },
+    {
+      "id": "V2mC8blwT5o",
+      "title": "Google to pour US$15bil into Malaysia's digital future",
+      "thumbnail": "https://i.ytimg.com/vi/V2mC8blwT5o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=V2mC8blwT5o"
+    },
+    {
+      "id": "r9_nxaPlSEs",
+      "title": "Market Pulse AM Nov 5, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/r9_nxaPlSEs/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=r9_nxaPlSEs"
+    },
+    {
+      "id": "Rv1C1p7rEpw",
+      "title": "Zahid arrives in Turkiye for 4 day working visit",
+      "thumbnail": "https://i.ytimg.com/vi/Rv1C1p7rEpw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Rv1C1p7rEpw"
+    },
+    {
+      "id": "9MhVVr1H2-k",
+      "title": "Quiet at Najib's home amid reports RM50mil fine will be paid today",
+      "thumbnail": "https://i.ytimg.com/vi/9MhVVr1H2-k/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9MhVVr1H2-k"
+    },
+    {
+      "id": "tCblzfif0aE",
+      "title": "PM: Urban development must not neglect humanitarian values, people's welfare",
+      "thumbnail": "https://i.ytimg.com/vi/tCblzfif0aE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tCblzfif0aE"
+    },
+    {
+      "id": "vnztAE_7J_E",
+      "title": "Melaka polls: Adam Adli proposes smarter traffic systems to ease congestion",
+      "thumbnail": "https://i.ytimg.com/vi/vnztAE_7J_E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vnztAE_7J_E"
+    },
+    {
+      "id": "30BVfemOGTc",
+      "title": "Preacher Da'i Syed walks free after Court of Appeal overturns rape conviction",
+      "thumbnail": "https://i.ytimg.com/vi/30BVfemOGTc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=30BVfemOGTc"
+    },
+    {
+      "id": "NEEYoG8T6Us",
+      "title": "No instructions from Najib to settle RM50mil fine, says lawyer",
+      "thumbnail": "https://i.ytimg.com/vi/NEEYoG8T6Us/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NEEYoG8T6Us"
+    },
+    {
+      "id": "tM8NefX0q_Y",
+      "title": "MACC remands three, including Datuk, over RM1mil cigarette smuggling bribes",
+      "thumbnail": "https://i.ytimg.com/vi/tM8NefX0q_Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tM8NefX0q_Y"
+    },
+    {
+      "id": "x99TQ_xdWL4",
+      "title": "Najib to pay RM50mil fine today for house arrest release",
+      "thumbnail": "https://i.ytimg.com/vi/x99TQ_xdWL4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x99TQ_xdWL4"
+    },
+    {
+      "id": "FBSFd_-4xi4",
+      "title": "Man dies after parang attack in Teluk Intan",
+      "thumbnail": "https://i.ytimg.com/vi/FBSFd_-4xi4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FBSFd_-4xi4"
+    },
+    {
+      "id": "Aex2K15M8ls",
+      "title": "Melaka polls: BN PN cooperation could deliver 25 seats, says Jalaluddin",
+      "thumbnail": "https://i.ytimg.com/vi/Aex2K15M8ls/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Aex2K15M8ls"
+    },
+    {
+      "id": "r8w381zmcSU",
+      "title": "Market Pulse AM Nov 4, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/r8w381zmcSU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=r8w381zmcSU"
+    },
+    {
+      "id": "h3jwRkBjcfA",
+      "title": "Flash floods shut NKVE, Elite, GCE stretches around Shah Alam",
+      "thumbnail": "https://i.ytimg.com/vi/h3jwRkBjcfA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=h3jwRkBjcfA"
+    },
+    {
+      "id": "edDj3xwoEKc",
+      "title": "Strong growth revives case for OPR hike",
+      "thumbnail": "https://i.ytimg.com/vi/edDj3xwoEKc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=edDj3xwoEKc"
+    },
+    {
+      "id": "KIIc-lFAw3o",
+      "title": "Malaysia could be vulnerable to hybrid cyberattacks, say experts",
+      "thumbnail": "https://i.ytimg.com/vi/KIIc-lFAw3o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KIIc-lFAw3o"
+    },
+    {
+      "id": "jz_xNT1ASzc",
+      "title": "Man charged with murdering Felda settler in Lok Heng Selatan",
+      "thumbnail": "https://i.ytimg.com/vi/jz_xNT1ASzc/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jz_xNT1ASzc"
+    },
+    {
+      "id": "GhfeHbay_P4",
+      "title": "Binance’s US$6.3bil hack and its Malaysia return plans",
+      "thumbnail": "https://i.ytimg.com/vi/GhfeHbay_P4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GhfeHbay_P4"
+    },
+    {
+      "id": "3xUN0Tbtgv8",
+      "title": "Melaka polls: Azman focuses on cost of living, education and jobs in Paya Rumput",
+      "thumbnail": "https://i.ytimg.com/vi/3xUN0Tbtgv8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3xUN0Tbtgv8"
+    },
+    {
+      "id": "TvikhiAbnB4",
+      "title": "[LIVE] Dewan Rakyat Sitting | Third Meeting of the Fifth Term | Morning Session | Nov 3, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/TvikhiAbnB4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TvikhiAbnB4"
+    },
+    {
+      "id": "2rSjw7BxFhM",
+      "title": "Rafizi spends 2 hours at Bukit Aman, questioned over two police reports",
+      "thumbnail": "https://i.ytimg.com/vi/2rSjw7BxFhM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2rSjw7BxFhM"
+    },
+    {
+      "id": "O18Q1FnqaK8",
+      "title": "Singapore national serviceman among first charged under amended anti racing law",
+      "thumbnail": "https://i.ytimg.com/vi/O18Q1FnqaK8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=O18Q1FnqaK8"
+    },
+    {
+      "id": "-jsvN3gcSYE",
+      "title": "Anwar: RM9.4bil Sabah pipeline deals had elements of 'sakau'",
+      "thumbnail": "https://i.ytimg.com/vi/-jsvN3gcSYE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-jsvN3gcSYE"
+    },
+    {
+      "id": "EReM3Nnnuw4",
+      "title": "Good service doesn't exempt public officers from the law, says Anwar",
+      "thumbnail": "https://i.ytimg.com/vi/EReM3Nnnuw4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EReM3Nnnuw4"
+    },
+    {
+      "id": "zRGr2LKwB_A",
+      "title": "Anwar visits flash flood victims at Sungai Buloh relief centre",
+      "thumbnail": "https://i.ytimg.com/vi/zRGr2LKwB_A/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zRGr2LKwB_A"
+    },
+    {
+      "id": "kln4PEG11Q8",
+      "title": "Anwar warns Malaysia a cyberattack target, orders top level briefings",
+      "thumbnail": "https://i.ytimg.com/vi/kln4PEG11Q8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kln4PEG11Q8"
+    },
+    {
+      "id": "iw8IsuueFCU",
+      "title": "Melaka Polls: Adly admits Bukit Katil seat at risk",
+      "thumbnail": "https://i.ytimg.com/vi/iw8IsuueFCU/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iw8IsuueFCU"
+    },
+    {
+      "id": "nY67kDcuHFA",
+      "title": "Melaka polls: Kuala Linggi PH candidate wants politics driven by service",
+      "thumbnail": "https://i.ytimg.com/vi/nY67kDcuHFA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nY67kDcuHFA"
+    },
+    {
+      "id": "6L9VWdtN3Ic",
+      "title": "The case of Maxis – U Mobile merger",
+      "thumbnail": "https://i.ytimg.com/vi/6L9VWdtN3Ic/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6L9VWdtN3Ic"
+    },
+    {
+      "id": "lLN0hIk52hE",
+      "title": "Market Pulse AM Nov 3, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/lLN0hIk52hE/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lLN0hIk52hE"
+    },
+    {
+      "id": "24FvbBdNtZM",
+      "title": "Amanah confident of winning all seven seats in Melaka",
+      "thumbnail": "https://i.ytimg.com/vi/24FvbBdNtZM/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=24FvbBdNtZM"
+    },
+    {
+      "id": "sXYdqx2iteo",
+      "title": "Ab Rauf vows to restore Melaka's former glory",
+      "thumbnail": "https://i.ytimg.com/vi/sXYdqx2iteo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sXYdqx2iteo"
     }
   ]
 }

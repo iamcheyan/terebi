@@ -1,8 +1,281 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
   "channel_name": "yab山口ニュース",
-  "updated_at": "2026-11-08T19:23:30.970900",
+  "original_name": "yab山口ニュース",
+  "updated_at": "2026-11-10T00:33:08.576166",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QDykTyPQyO_UoYZQCdSxCfGbEOM",
+      "id": "VVVLSWdsSUg5X3hJSzBmZWFodUtoSkVRLkNZSldRUmRiUEhZ",
+      "snippet": {
+        "publishedAt": "2026-11-09T10:36:55Z",
+        "channelId": "UCKIglIH9_xIK0feahuKhJEQ",
+        "title": "できたてです！　最高級すり身！長州揚げ",
+        "description": "山陽小野田市の「できたて工房　浜のてんぷら屋」で作られる長州揚げ。最高級スケソウダラのすり身などを練り上げ、あげたてがお店に並びます！晋作巻や貝汁のてんぷらなどユニークな商品も目を引きます。あつあつのできたてを召し上がれ！\n\n＃できたて工房浜のてんぷら屋＃長州揚げ＃山陽小野田市＃ググッと。瀬戸内＃山口",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CYJWQRdbPHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CYJWQRdbPHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CYJWQRdbPHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CYJWQRdbPHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CYJWQRdbPHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/CYJWQRdbPHY/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "yab山口ニュース",
+        "playlistId": "UUKIglIH9_xIK0feahuKhJEQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CYJWQRdbPHY"
+        },
+        "videoOwnerChannelTitle": "yab山口ニュース",
+        "videoOwnerChannelId": "UCKIglIH9_xIK0feahuKhJEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EEwc0TfYHTCGWfNgd7gJVHFE53A",
+      "id": "VVVLSWdsSUg5X3hJSzBmZWFodUtoSkVRLmJhWUxFMUdEblpn",
+      "snippet": {
+        "publishedAt": "2026-11-09T10:26:57Z",
+        "channelId": "UCKIglIH9_xIK0feahuKhJEQ",
+        "title": "わが町が一番！　ＳＡのおみくじロード！？",
+        "description": "中国自動車道、鹿野サービスエリアにあるおみくじロード。実は鹿野はおみくじ生産量が日本一、知る人ぞ知るおみくじの聖地なんです。前に進むきっかけにもなるおみくじで運試しはいかがでしょうか。\n\n＃鹿野サービスエリア＃おみくじロード＃運試し＃周南市＃ググッと。瀬戸内＃山口",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/baYLE1GDnZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/baYLE1GDnZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/baYLE1GDnZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/baYLE1GDnZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/baYLE1GDnZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/baYLE1GDnZg/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "yab山口ニュース",
+        "playlistId": "UUKIglIH9_xIK0feahuKhJEQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "baYLE1GDnZg"
+        },
+        "videoOwnerChannelTitle": "yab山口ニュース",
+        "videoOwnerChannelId": "UCKIglIH9_xIK0feahuKhJEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "adsa_Aa3XKKB0KZ8JXgBzAiCryc",
+      "id": "VVVLSWdsSUg5X3hJSzBmZWFodUtoSkVRLjZXWEhaQkhxdktJ",
+      "snippet": {
+        "publishedAt": "2026-11-09T10:26:04Z",
+        "channelId": "UCKIglIH9_xIK0feahuKhJEQ",
+        "title": "あすは天気回復！１１月９日（月）お天気情報",
+        "description": "１１月９日（月）放送　Ｊチャンやまぐちのお天気コーナーです。\n#uraten\n#浦天",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6WXHZBHqvKI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6WXHZBHqvKI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6WXHZBHqvKI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6WXHZBHqvKI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "yab山口ニュース",
+        "playlistId": "UUKIglIH9_xIK0feahuKhJEQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6WXHZBHqvKI"
+        },
+        "videoOwnerChannelTitle": "yab山口ニュース",
+        "videoOwnerChannelId": "UCKIglIH9_xIK0feahuKhJEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kKeutKqr_pA19dr5gH4xfqQI2b8",
+      "id": "VVVLSWdsSUg5X3hJSzBmZWFodUtoSkVRLkU5VFNVVlpUSnY0",
+      "snippet": {
+        "publishedAt": "2026-11-09T10:18:53Z",
+        "channelId": "UCKIglIH9_xIK0feahuKhJEQ",
+        "title": "【山口】高齢者の交通事故防止県民運動　出発式",
+        "description": "高齢者の交通事故防止県民運動が始まりました。\r\n県民総出で意識の向上を図ります。\r\n\r\n県民一人ひとりに交通ルールの順守を呼びかけ、高齢者が関係する交通事故を防ごうと１週間行われる県民運動。\r\n日の入りが日に日に速くなる時期を迎えたことから、「反射材の着用とハイビームの活用」など４つの重点を掲げています。\r\n出発式には地元住民も参加し、園児たちが高齢者に反射材を使用したタスキを手渡しました。\r\n\r\n【山口警察署　木谷浩平　交通課長】\r\n「交通死亡事故は増えているところであり、高齢者の方が多く関与されている。\r\n年末の事故の多い時期に対して、事故防止にそれぞれ意識付けしてほしい」\r\n\r\n県内では今年に入って８日までに、交通事故で３７人が亡くなっていて、そのうち１９人が６５歳以上の高齢者です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E9TSUVZTJv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E9TSUVZTJv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E9TSUVZTJv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E9TSUVZTJv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "yab山口ニュース",
+        "playlistId": "UUKIglIH9_xIK0feahuKhJEQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E9TSUVZTJv4"
+        },
+        "videoOwnerChannelTitle": "yab山口ニュース",
+        "videoOwnerChannelId": "UCKIglIH9_xIK0feahuKhJEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "76Tdh6pywiYfvvwcXKn4ATCyY6o",
+      "id": "VVVLSWdsSUg5X3hJSzBmZWFodUtoSkVRLlNibzNFTzRkLXBF",
+      "snippet": {
+        "publishedAt": "2026-11-09T10:15:46Z",
+        "channelId": "UCKIglIH9_xIK0feahuKhJEQ",
+        "title": "【山口】人間魚雷「回天」の訓練基地があった大津島で野外劇を初上演",
+        "description": "戦時中に人間魚雷と呼ばれた、特攻兵器「回天」。\r\nその訓練基地があった周南市大津島で、回天をテーマにした演劇が、初めて上演されました。\r\n\r\n【演劇の様子】\r\n「この戦争は勝たなければなりません。負ければすべてを失います。私は何よりこの家族の平和を守りたいんです」\r\n\r\n大津島小学校の校庭で上演された、「碧き海サイドストーリー」。\r\n回天の搭乗員に志願せざるを得なかった若者たちの心情や、残された家族・恋人の葛藤の日々を描いています。\r\n搭乗員たちは、死の恐怖に苦しみながら回天に乗り込み、海に散っていきました。\r\n\r\n【観客】\r\n「迫力をすごく感じた。演じている人たちの気持ちがすごく伝わった」\r\n「自分の信念や平和が大事なんだなと。人とのつながりとか、つくづく思いました。いい経験をした。勉強になった」\r\n\r\n劇には、県出身の俳優３人も出演しました。\r\n\r\n【村瀬楓さん（和木町出身）】\r\n「たくさん勉強させていただくうちに、やっぱり『伝えていかなくちゃいけない』『忘れてはいけない』というのを強く強く心に思いました」\r\n\r\n劇は２日間上演され、およそ３００人が鑑賞したということです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sbo3EO4d-pE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sbo3EO4d-pE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sbo3EO4d-pE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sbo3EO4d-pE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "yab山口ニュース",
+        "playlistId": "UUKIglIH9_xIK0feahuKhJEQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Sbo3EO4d-pE"
+        },
+        "videoOwnerChannelTitle": "yab山口ニュース",
+        "videoOwnerChannelId": "UCKIglIH9_xIK0feahuKhJEQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Sx4OiCjOLpEBhEJ66ian9mZ01zo",
+      "id": "VVVLSWdsSUg5X3hJSzBmZWFodUtoSkVRLjVDbjV4OGpLTFVF",
+      "snippet": {
+        "publishedAt": "2026-11-09T10:15:35Z",
+        "channelId": "UCKIglIH9_xIK0feahuKhJEQ",
+        "title": "【山口】防府市で地震に備えた「７２時間訓練」",
+        "description": "行政や住民などが災害対応を確認し、死者ゼロを目指します。\r\n被災者の生存率を大きく左右する地震発生後の７２時間。その間の活動を時系列に沿って行う訓練が防府市で実施されました。\r\n\r\nおよそ２４０団体、２万２０００人が参加した訓練は、南海トラフ地震で震度５強を観測し、防府市に３メートルの津波が押し寄せた想定で行われました。\r\n発生後７２時間の活動を確認するため、７日の正午から３日連続で実施。\r\n訓練開始直後には、イオンタウン防府で、店舗スタッフによる避難誘導やけが人の治療の優先順位を決めるトリアージなどが実施されました。\r\nまた３日目には、ボランティアを受け入れる窓口が設置されました。\r\nスマホで二次元コードを読み取り、参加者の健康状態や名前などを登録したあと、被災した住宅の片付けの手順などを確認していました。\r\nこちらは、避難所に支援物資を輸送する訓練です。\r\n市の職員たちが、水や食料などの数を確認しながらトラックに積み込んでいきました。\r\n防府市で初めてとなる訓練を終えた市役所では、避難所の寒さ対策など、見出された課題が共有され、専門家が改善点を指摘していました。\r\n\r\n【防府市　池田豊　市長】\r\n「３日間終わって、かなり今は疲れています。防災都市・防府ということで、市民の皆さまの命を守ることに、これからも力を尽くしていきたい」\r\n\r\n市は今後、課題を検証して、災害対応力の向上につなげたいとしています。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Cn5x8jKLUE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Cn5x8jKLUE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Cn5x8jKLUE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Cn5x8jKLUE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "yab山口ニュース",
+        "playlistId": "UUKIglIH9_xIK0feahuKhJEQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5Cn5x8jKLUE"
+        },
+        "videoOwnerChannelTitle": "yab山口ニュース",
+        "videoOwnerChannelId": "UCKIglIH9_xIK0feahuKhJEQ"
+      }
+    },
     {
       "id": "jAFVU_h-uj0",
       "title": "【山口】周南市鹿野　ジョギング中の男性がクマに襲われケガ",
@@ -22598,6 +22871,42 @@
       "title": "【山口】下松スポーツ公園コスモス見ごろ",
       "thumbnail": "https://i.ytimg.com/vi/QmKe9nv_S8Q/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=QmKe9nv_S8Q"
+    },
+    {
+      "id": "CYJWQRdbPHY",
+      "title": "できたてです！　最高級すり身！長州揚げ",
+      "thumbnail": "https://i.ytimg.com/vi/CYJWQRdbPHY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CYJWQRdbPHY"
+    },
+    {
+      "id": "baYLE1GDnZg",
+      "title": "わが町が一番！　ＳＡのおみくじロード！？",
+      "thumbnail": "https://i.ytimg.com/vi/baYLE1GDnZg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=baYLE1GDnZg"
+    },
+    {
+      "id": "6WXHZBHqvKI",
+      "title": "あすは天気回復！１１月９日（月）お天気情報",
+      "thumbnail": "https://i.ytimg.com/vi/6WXHZBHqvKI/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6WXHZBHqvKI"
+    },
+    {
+      "id": "E9TSUVZTJv4",
+      "title": "【山口】高齢者の交通事故防止県民運動　出発式",
+      "thumbnail": "https://i.ytimg.com/vi/E9TSUVZTJv4/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E9TSUVZTJv4"
+    },
+    {
+      "id": "Sbo3EO4d-pE",
+      "title": "【山口】人間魚雷「回天」の訓練基地があった大津島で野外劇を初上演",
+      "thumbnail": "https://i.ytimg.com/vi/Sbo3EO4d-pE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Sbo3EO4d-pE"
+    },
+    {
+      "id": "5Cn5x8jKLUE",
+      "title": "【山口】防府市で地震に備えた「７２時間訓練」",
+      "thumbnail": "https://i.ytimg.com/vi/5Cn5x8jKLUE/sddefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5Cn5x8jKLUE"
     }
   ]
 }

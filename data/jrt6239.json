@@ -1,8 +1,61 @@
 {
   "channel_id": "UCuhA-fogYs0MwglwZbnL_8A",
-  "channel_name": "四国放送（JRT）",
-  "updated_at": "2026-11-06T20:44:05.529898",
+  "channel_name": "JRT四国放送公式チャンネル",
+  "original_name": "四国放送（JRT）",
+  "updated_at": "2026-11-10T00:02:48.104888",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lP1HmHDT7se2D1rsNIw86FmDrmQ",
+      "id": "VVV1aEEtZm9nWXMwTXdnbHdaYm5MXzhBLnE0MG9obmJPSWE4",
+      "snippet": {
+        "publishedAt": "2026-11-09T10:29:42Z",
+        "channelId": "UCuhA-fogYs0MwglwZbnL_8A",
+        "title": "【歴史ロマン】幕末の「阿波沖海戦」無人島での遺物調査に同行",
+        "description": "1868年に徳川幕府の軍艦と新政府・薩摩藩の軍艦が、県南・由岐沖で砲撃を交わした「阿波沖海戦」。その戦いで海に沈んだとされる船の遺物を探す調査が、11月7日に行われました。「金属探知機に反応が！」歴史的な発見はあったのか？＃徳島 ＃海中考古学 ＃幕末 ＃無人島 ＃箆野島 ＃神戸大学 ＃海洋文化遺産プロジェクト ＃帝京大学 ＃佐々木蘭貞 ＃西川千尋 ＃川端彩織 ＃森洋貴 ＃平本尚寛 ＃阿波沖海戦 ＃蒸気機関 ＃四国放送",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q40ohnbOIa8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q40ohnbOIa8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q40ohnbOIa8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q40ohnbOIa8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q40ohnbOIa8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/q40ohnbOIa8/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "JRT四国放送公式チャンネル",
+        "playlistId": "UUuhA-fogYs0MwglwZbnL_8A",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q40ohnbOIa8"
+        },
+        "videoOwnerChannelTitle": "JRT四国放送公式チャンネル",
+        "videoOwnerChannelId": "UCuhA-fogYs0MwglwZbnL_8A"
+      }
+    },
     {
       "id": "Urli3BUf_BY",
       "title": "【37万点】膨大な資料と向き合う 県立文書館の知られざる仕事",
@@ -11888,6 +11941,12 @@
       "title": "【困惑】吉野川の「漁業権」取り消し！？釣り人への影響は？",
       "thumbnail": "https://i.ytimg.com/vi/hDAtgcUBXBs/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hDAtgcUBXBs"
+    },
+    {
+      "id": "q40ohnbOIa8",
+      "title": "【歴史ロマン】幕末の「阿波沖海戦」無人島での遺物調査に同行",
+      "thumbnail": "https://i.ytimg.com/vi/q40ohnbOIa8/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q40ohnbOIa8"
     }
   ]
 }

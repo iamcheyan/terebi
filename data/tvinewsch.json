@@ -1,8 +1,61 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-06T20:44:16.584120",
+  "original_name": "テレビ岩手TVIニュースチャンネル",
+  "updated_at": "2026-11-10T00:13:50.259862",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x5hG-FddkppE5C9eGi6v9jtOrvY",
+      "id": "VVU3cVFKaV9XRTl5TmhBNDhrUDZUVDBRLm9zTGNfbFVwcGhB",
+      "snippet": {
+        "publishedAt": "2026-11-09T04:45:01Z",
+        "channelId": "UC7qQJi_WE9yNhA48kP6TT0Q",
+        "title": "【新米・小学校で出前授業】岩手県のオリジナルブランド米「白銀のひかり」。軽米町の小学校で魅力を紹介。",
+        "description": "岩手県のオリジナルブランド米「白銀のひかり」の特徴を学んでもらおうと、軽米町の小学校で出前授業がおこなわれました。給食では子どもたちが新米を味わって、実りの秋を感じていました。（ニュースプラス1いわて 2026/11/6放送）\n\n#軽米\n#小学校\n#白銀のひかり\n\n▼チャンネル登録はこちらから\nhttps://www.youtube.com/channel/UC7qQJi_WE9yNhA48kP6TT0Q?sub_confirmation=1\n\n▼記事はこちら「ニュースプラス1いわて」\nhttps://news.tvi.jp/\n\n▼情報提供はこちらから「ケンミンリポーター」\nhttps://www.tvi.jp/kenmin/\n\n▼テレビ岩手公式サイト\nhttps://www.tvi.jp/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/osLc_lUpphA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/osLc_lUpphA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/osLc_lUpphA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/osLc_lUpphA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/osLc_lUpphA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/osLc_lUpphA/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "テレビ岩手TVIニュースチャンネル",
+        "playlistId": "UU7qQJi_WE9yNhA48kP6TT0Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "osLc_lUpphA"
+        },
+        "videoOwnerChannelTitle": "テレビ岩手TVIニュースチャンネル",
+        "videoOwnerChannelId": "UC7qQJi_WE9yNhA48kP6TT0Q"
+      }
+    },
     {
       "id": "N6Ulw3FzR-4",
       "title": "【わんカメＬＩＶＥ】盛岡にかつてあった生姜町にちなんだ【盛岡しょうが市】を紹介",
@@ -5696,6 +5749,12 @@
       "title": "元気○（マル）らいふ　【胃がん】（2025/10/15放送　ニュースプラス１いわて）",
       "thumbnail": "https://i.ytimg.com/vi/ukEHQbG-NAU/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ukEHQbG-NAU"
+    },
+    {
+      "id": "osLc_lUpphA",
+      "title": "【新米・小学校で出前授業】岩手県のオリジナルブランド米「白銀のひかり」。軽米町の小学校で魅力を紹介。",
+      "thumbnail": "https://i.ytimg.com/vi/osLc_lUpphA/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=osLc_lUpphA"
     }
   ]
 }
