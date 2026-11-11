@@ -1,8 +1,20 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-11-10T21:14:28.874001",
+  "updated_at": "2026-11-11T21:48:06.894932",
   "videos": [
+    {
+      "id": "bneDLr5dVvQ",
+      "title": "【111時間限定配信】「長浜111」SPYAIR編",
+      "description": "",
+      "publishedAt": "2026-11-09T08:37:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bneDLr5dVvQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bneDLr5dVvQ"
+    },
     {
       "id": "kcs7vMG3Wn0",
       "title": "KBCのクリスマス2026「笑おう、祝おう、いっしょに。」",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-10T21:14:52.666435",
+  "updated_at": "2026-11-11T21:48:28.726846",
   "videos": [
+    {
+      "id": "q8gPcX48HXM",
+      "title": "今日の５きげんテレビ（11月12日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-11T15:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q8gPcX48HXM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q8gPcX48HXM"
+    },
+    {
+      "id": "_ozLHPH3m_o",
+      "title": "エビワンタン粥 | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-11T10:01:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_ozLHPH3m_o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_ozLHPH3m_o"
+    },
+    {
+      "id": "NCabjlTYUt4",
+      "title": "レトロな盛岡を散策 鉈屋町さんぽ｜岩手・盛岡市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-11-11T09:08:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NCabjlTYUt4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NCabjlTYUt4"
+    },
     {
       "id": "tRH5ObdiyHo",
       "title": "今日の５きげんテレビ（11月11日）｜テレビ岩手",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-11-10T21:14:24.770870",
+  "updated_at": "2026-11-11T21:47:51.483508",
   "videos": [
+    {
+      "id": "rMnxBaU5pkM",
+      "title": "「news おかえり」11月13日(金)午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-11-11T08:16:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rMnxBaU5pkM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rMnxBaU5pkM"
+    },
+    {
+      "id": "whnU2oS8RFc",
+      "title": "「news おかえり」11月12日(木)午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-11-11T08:14:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/whnU2oS8RFc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=whnU2oS8RFc"
+    },
+    {
+      "id": "b0EO_tILE-8",
+      "title": "【キラスマ】フライパンひとつで出来る！目からうろこのパン作り #325",
+      "description": "",
+      "publishedAt": "2026-11-11T00:59:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/b0EO_tILE-8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=b0EO_tILE-8"
+    },
     {
       "id": "xPUlq6d1tXQ",
       "title": "「探偵！ナイトスクープ」11月13日（金）深夜放送！",

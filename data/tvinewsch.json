@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-10T21:14:02.820195",
+  "updated_at": "2026-11-11T21:47:53.656948",
   "videos": [
+    {
+      "id": "ZosGRPJPlG4",
+      "title": "【わんカメＬＩＶＥ】７つの資格を持つ料理人が作る、健康にこだわったたった一つのメニュー【ひっつみ定食】",
+      "description": "",
+      "publishedAt": "2026-11-11T04:58:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZosGRPJPlG4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZosGRPJPlG4"
+    },
     {
       "id": "VdTl9iNGE9c",
       "title": "【高校サッカー・岩手県大会決勝】専大北上が３年連続５回目の全国大会出場。",

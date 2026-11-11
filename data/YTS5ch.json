@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-11-10T21:14:05.899340",
+  "updated_at": "2026-11-11T21:48:12.285041",
   "videos": [
+    {
+      "id": "UQn4yVT_1-o",
+      "title": "みるcafe～昼得 ひるとく 海道ランチ～",
+      "description": "",
+      "publishedAt": "2026-11-11T08:23:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UQn4yVT_1-o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UQn4yVT_1-o"
+    },
     {
       "id": "cL2wtCHt0mY",
       "title": "秋の小品盆栽 魅力を深堀り",

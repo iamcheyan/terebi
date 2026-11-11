@@ -1,8 +1,32 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-11-10T21:14:04.152748",
+  "updated_at": "2026-11-11T21:47:55.796632",
   "videos": [
+    {
+      "id": "HQKhpZLJjSs",
+      "title": "全国高校ラグビー奈良県大会 準決勝【スポドキ】",
+      "description": "",
+      "publishedAt": "2026-11-11T04:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HQKhpZLJjSs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HQKhpZLJjSs"
+    },
+    {
+      "id": "IYoaUKFE1SI",
+      "title": "11月6日（金）放送｜奈良テレビ「ゆうドキッ！」内「いきいきまちだより」",
+      "description": "",
+      "publishedAt": "2026-11-11T03:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IYoaUKFE1SI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IYoaUKFE1SI"
+    },
     {
       "id": "XfOExVgNpN0",
       "title": "ヘッドスパとタイ古式専門店 be healed【ドキドキリポート】",

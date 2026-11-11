@@ -1,8 +1,44 @@
 {
   "channel_id": "UCbmPPH1lE7T6AwCQw0ZV8RA",
   "channel_name": "びわ湖放送（BBC）",
-  "updated_at": "2026-11-10T21:14:04.565679",
+  "updated_at": "2026-11-11T21:47:58.136189",
   "videos": [
+    {
+      "id": "U4cL4BEvxVo",
+      "title": "びわ湖の風景に和菓子を添えて　外輪汽船で自然体験ツアー",
+      "description": "",
+      "publishedAt": "2026-11-11T10:17:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/U4cL4BEvxVo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=U4cL4BEvxVo"
+    },
+    {
+      "id": "UrYxpAFbWhc",
+      "title": "【記者解説】滋賀県の自転車ヘルメット着用率が全国ワースト２　大津市の大学で啓発活動",
+      "description": "",
+      "publishedAt": "2026-11-11T09:46:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UrYxpAFbWhc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UrYxpAFbWhc"
+    },
+    {
+      "id": "B-2uxbsI8MA",
+      "title": "まち中をアートに！誰でも参加できる「石ころ芸術祭」",
+      "description": "",
+      "publishedAt": "2026-11-11T09:41:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B-2uxbsI8MA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B-2uxbsI8MA"
+    },
     {
       "id": "W4kXMDymK_A",
       "title": "報道特集「近江の道の駅探訪」～第１回　あいの土山～",

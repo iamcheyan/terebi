@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-11-10T21:14:52.127983",
+  "updated_at": "2026-11-11T21:48:28.270248",
   "videos": [
+    {
+      "id": "SCTcRqQbWDc",
+      "title": "【映像】紅葉進む夏井川渓谷　福島・いわき市【カメラめせん56】",
+      "description": "",
+      "publishedAt": "2026-11-11T05:32:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SCTcRqQbWDc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SCTcRqQbWDc"
+    },
+    {
+      "id": "VKOYjp2hTAY",
+      "title": "【LIVE】第38回ふくしま駅伝 中継所をメインにスタートからゴール最終ランナーまで！全16中継所の映像を生配信！",
+      "description": "",
+      "publishedAt": "2026-11-11T00:52:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VKOYjp2hTAY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VKOYjp2hTAY"
+    },
     {
       "id": "Ic4pHUFdOJk",
       "title": "【橘高校 華道部】花の魅力を最大限に引き出す！生け花に打ち込む学生たち【みんなの推しTIME】",

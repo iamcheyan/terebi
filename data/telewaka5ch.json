@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-11-10T21:14:09.984482",
+  "updated_at": "2026-11-11T21:48:02.108481",
   "videos": [
+    {
+      "id": "prV8U1NFcUE",
+      "title": "暮らしのカルチャータイム　ガーデニング入門　　第28回",
+      "description": "",
+      "publishedAt": "2026-11-11T05:15:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/prV8U1NFcUE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=prV8U1NFcUE"
+    },
     {
       "id": "KTVu9iWm1p4",
       "title": "和歌山県新宮市出身 俳優の淵上泰史さんがナレーション 世界遺産などスマホを片手に音声ガイドツアー",
