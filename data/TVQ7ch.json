@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtByHAMKJuA_zjJ7m3nE1_w",
   "channel_name": "TVQ九州放送",
-  "updated_at": "2026-11-11T21:48:29.000298",
+  "updated_at": "2026-11-12T21:47:53.456447",
   "videos": [
+    {
+      "id": "vTgUjW2r8Y4",
+      "title": "【夢クルーズ】633  魚見公園(2026年11月12日放送)",
+      "description": "",
+      "publishedAt": "2026-11-12T12:59:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vTgUjW2r8Y4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vTgUjW2r8Y4"
+    },
+    {
+      "id": "QE6LIVZTNSw",
+      "title": "【12/1までTVer配信中】さらばのAIサマの言うとおり",
+      "description": "",
+      "publishedAt": "2026-11-12T10:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QE6LIVZTNSw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QE6LIVZTNSw"
+    },
     {
       "id": "c6wLi9u5GNk",
       "title": "【12/1までTVer配信中】さらばのAIサマの言うとおり",

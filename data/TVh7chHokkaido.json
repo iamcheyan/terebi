@@ -1,8 +1,20 @@
 {
   "channel_id": "UCKFJS8Mrik1Uhzu_Hfnt91w",
   "channel_name": "TVhテレビ北海道",
-  "updated_at": "2026-11-10T21:14:53.063321",
+  "updated_at": "2026-11-12T21:47:53.744264",
   "videos": [
+    {
+      "id": "gjqG3WDZXOs",
+      "title": "ライブカメラ",
+      "description": "",
+      "publishedAt": "2026-11-12T05:01:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gjqG3WDZXOs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gjqG3WDZXOs"
+    },
     {
       "id": "LBFn0KfSdOI",
       "title": "7年ぶりの出演！表彰台の常連が明かした苦悩と覚悟とは？ スキージャンプ竹花大松選手〈前編〉",

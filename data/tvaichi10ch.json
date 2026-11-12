@@ -1,8 +1,32 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-11-11T21:47:51.787152",
+  "updated_at": "2026-11-12T21:47:03.658085",
   "videos": [
+    {
+      "id": "1xHteMaq388",
+      "title": "【クルマとミライ】トヨタ博物館に旧車集結！",
+      "description": "",
+      "publishedAt": "2026-11-12T14:06:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1xHteMaq388/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1xHteMaq388"
+    },
+    {
+      "id": "Mqh1zgR24NU",
+      "title": "スペシャルドラマ 日の丸ブラザーズ～日米貿易を切り拓いた兄弟～",
+      "description": "",
+      "publishedAt": "2026-11-12T05:21:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Mqh1zgR24NU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Mqh1zgR24NU"
+    },
     {
       "id": "6vnsvbJZttQ",
       "title": "日の丸ブラザーズ～日米貿易を切り拓いた兄弟～ 特報3回目「アメリカを魅了したノリタケ陶磁器」",

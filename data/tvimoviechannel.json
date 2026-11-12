@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-11T21:48:28.726846",
+  "updated_at": "2026-11-12T21:47:53.125489",
   "videos": [
+    {
+      "id": "9Vos1JTkwOo",
+      "title": "今日の５きげんテレビ（11月13日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-12T15:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9Vos1JTkwOo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9Vos1JTkwOo"
+    },
+    {
+      "id": "UCmWOM-NYm0",
+      "title": "【ポケモンファン集合！】ポケふたスタンプラリーで秋の岩手旅行｜岩手｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-11-12T10:02:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UCmWOM-NYm0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UCmWOM-NYm0"
+    },
+    {
+      "id": "zISHcqvh-BY",
+      "title": "納豆みそチゲ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-12T08:43:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zISHcqvh-BY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zISHcqvh-BY"
+    },
     {
       "id": "q8gPcX48HXM",
       "title": "今日の５きげんテレビ（11月12日）｜テレビ岩手",

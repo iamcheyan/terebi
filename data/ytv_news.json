@@ -1,8 +1,188 @@
 {
   "channel_id": "UCv7_krlrre3GQi79d4guxHQ",
   "channel_name": "読売テレビ（ytv）",
-  "updated_at": "2026-11-11T21:48:02.922966",
+  "updated_at": "2026-11-12T21:47:14.003350",
   "videos": [
+    {
+      "id": "fWLcIlkotWQ",
+      "title": "【LIVE】11月12日 兵庫県・斎藤元彦知事　定例記者会見",
+      "description": "",
+      "publishedAt": "2026-11-12T21:03:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fWLcIlkotWQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fWLcIlkotWQ"
+    },
+    {
+      "id": "J6_4pwcVRL8",
+      "title": "【イブスキ解説】再開発進む神戸…「らしさ」を武器にできるのか？モザイク閉館・三宮の変貌・インバウンドの勝算【かんさい情報ネットten.】",
+      "description": "",
+      "publishedAt": "2026-11-12T11:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J6_4pwcVRL8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J6_4pwcVRL8"
+    },
+    {
+      "id": "AOD6-KTGmnc",
+      "title": "【解説まとめ】米・中間選挙が日本にもたらすもの 専門家「トランプ大統領を見くびるな」",
+      "description": "",
+      "publishedAt": "2026-11-12T11:15:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AOD6-KTGmnc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AOD6-KTGmnc"
+    },
+    {
+      "id": "O4dP_LcAhuI",
+      "title": "【市長の産休に密着】京都・八幡市長が“全国初”の産休取得　４か月間の密着取材で見えてきた課題とは　【かんさい情報ネット ten.特集】",
+      "description": "",
+      "publishedAt": "2026-11-12T11:00:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O4dP_LcAhuI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O4dP_LcAhuI"
+    },
+    {
+      "id": "rgB6-kLMj74",
+      "title": "終わりなきサイバー攻撃との攻防　企業を守る専門家たちの日常　ホワイトハッカーへの密着取材【かんさい情報ネット ten.／ゲキ追X】",
+      "description": "",
+      "publishedAt": "2026-11-12T10:30:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rgB6-kLMj74/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rgB6-kLMj74"
+    },
+    {
+      "id": "KQ0UuRFjfso",
+      "title": "【蓬莱さんの天気】あす13日は寒さ和らぐも…来週後半は12月並みの寒さに！",
+      "description": "",
+      "publishedAt": "2026-11-12T10:19:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KQ0UuRFjfso/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KQ0UuRFjfso"
+    },
+    {
+      "id": "WQAJdARstiE",
+      "title": "【特集】野菜の世界で地味な存在「サツマイモ」に自分の人生を重ねる男の挑戦とは…11月13日のかんさい情報ネットten.で！#shorts #読売テレビニュース",
+      "description": "",
+      "publishedAt": "2026-11-12T10:12:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WQAJdARstiE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WQAJdARstiE"
+    },
+    {
+      "id": "4jnqg85pBWM",
+      "title": "すりおろせば強い粘りと濃い味　江戸時代から続く特産の秋の味覚「山の芋」出荷最盛期　兵庫・丹波市 #shorts #読売テレビニュース",
+      "description": "",
+      "publishedAt": "2026-11-12T10:06:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/4jnqg85pBWM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=4jnqg85pBWM"
+    },
+    {
+      "id": "8MAlhJaT9rU",
+      "title": "今年もあと1か月あまり…おせち料理に欠かせない「数の子」の加工ピーク　物流経費高騰で去年より高値に #shorts #読売テレビニュース",
+      "description": "",
+      "publishedAt": "2026-11-12T09:54:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8MAlhJaT9rU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8MAlhJaT9rU"
+    },
+    {
+      "id": "c_on6c0mtRQ",
+      "title": "すりおろせば強い粘りと濃い味　江戸時代から続く特産の秋の味覚「山の芋」出荷最盛期　兵庫・丹波市",
+      "description": "",
+      "publishedAt": "2026-11-12T09:47:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c_on6c0mtRQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c_on6c0mtRQ"
+    },
+    {
+      "id": "UFg4Zh3aDSc",
+      "title": "今年もあと1月あまり…おせち料理に欠かせない「数の子」の加工ピーク　物流経費高騰で去年より高値に",
+      "description": "",
+      "publishedAt": "2026-11-12T09:47:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UFg4Zh3aDSc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UFg4Zh3aDSc"
+    },
+    {
+      "id": "gMnLGGexT7c",
+      "title": "「ちょっとくらいなら」車道中央で危険撮影し住民に逆ギレも…紅葉名所でマナー違反横行　京都・西京区",
+      "description": "",
+      "publishedAt": "2026-11-12T09:23:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gMnLGGexT7c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gMnLGGexT7c"
+    },
+    {
+      "id": "Wi1ZMu3ejmo",
+      "title": "「金を出せ、刺すぞ」運転手の顔にスプレー噴射し羽交い締め　タクシー強盗で男3人逃走中　大阪・茨木市 #shorts #読売テレビニュース",
+      "description": "",
+      "publishedAt": "2026-11-12T09:21:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Wi1ZMu3ejmo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Wi1ZMu3ejmo"
+    },
+    {
+      "id": "9VYjHHGLE90",
+      "title": "車を気にせず歩きやすく…神戸・三宮の再開発で駅前激変　通過車両を半減させ「人中心の街」へ動線改革",
+      "description": "",
+      "publishedAt": "2026-11-12T09:20:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9VYjHHGLE90/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9VYjHHGLE90"
+    },
+    {
+      "id": "Eppfh4RH0eA",
+      "title": "【解説】卵が過去最高値312円に鶏肉も過去最高値　エッグショック超えるダブル高騰の背景と対策",
+      "description": "",
+      "publishedAt": "2026-11-12T09:10:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Eppfh4RH0eA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Eppfh4RH0eA"
+    },
     {
       "id": "QzsWmT9zZgE",
       "title": "【タカハシ解説】災害とデマ　最新研究と歴史でわかること【かんさい情報ネットten.】",

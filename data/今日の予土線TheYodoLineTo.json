@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-11-11T21:48:36.964833",
+  "updated_at": "2026-11-12T21:48:04.517655",
   "videos": [
+    {
+      "id": "_vUJ2LE4sdU",
+      "title": "261112 135942 兼近第３踏切",
+      "description": "",
+      "publishedAt": "2026-11-12T10:15:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_vUJ2LE4sdU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_vUJ2LE4sdU"
+    },
+    {
+      "id": "7pSEi0cdZPQ",
+      "title": "261112 135458 兼近第３踏切（鬼列車通過）",
+      "description": "",
+      "publishedAt": "2026-11-12T10:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7pSEi0cdZPQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7pSEi0cdZPQ"
+    },
     {
       "id": "hFvOAPglF6g",
       "title": "261111 155006 小井手踏切",
