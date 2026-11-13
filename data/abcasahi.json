@@ -1,8 +1,80 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-11-12T21:47:05.402422",
+  "updated_at": "2026-11-13T21:15:52.197851",
   "videos": [
+    {
+      "id": "JXTGaj-Rm9o",
+      "title": "「news おかえり」11月16日(月)午後3時40分～放送",
+      "description": "",
+      "publishedAt": "2026-11-13T06:15:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JXTGaj-Rm9o/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JXTGaj-Rm9o"
+    },
+    {
+      "id": "1eRlPFgUir4",
+      "title": "「相席食堂」11月17日（火）よる放送！",
+      "description": "",
+      "publishedAt": "2026-11-13T05:19:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1eRlPFgUir4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1eRlPFgUir4"
+    },
+    {
+      "id": "NJ0lfrQg_Dg",
+      "title": "「みなさんの見たいを番組に！」〜在阪民放テレビ局による視聴データの収集および利活用について〜",
+      "description": "",
+      "publishedAt": "2026-11-13T04:30:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NJ0lfrQg_Dg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NJ0lfrQg_Dg"
+    },
+    {
+      "id": "8NjF5BX_y6k",
+      "title": "「みなさんの見たいを番組に！」〜在阪民放テレビ局による視聴データの収集および利活用について〜",
+      "description": "",
+      "publishedAt": "2026-11-13T04:25:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8NjF5BX_y6k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8NjF5BX_y6k"
+    },
+    {
+      "id": "TsORj8krubo",
+      "title": "海外の旅はベトナム！ゲストの旅は丘みどり！「旅サラダ」11月14日（土）放送",
+      "description": "",
+      "publishedAt": "2026-11-13T01:14:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TsORj8krubo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TsORj8krubo"
+    },
+    {
+      "id": "BivASgV_P-g",
+      "title": "「やすとものいたって真剣です」11月19日（木）よる11時17分放送！",
+      "description": "",
+      "publishedAt": "2026-11-13T00:59:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BivASgV_P-g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BivASgV_P-g"
+    },
     {
       "id": "RdKj7WigLDs",
       "title": "｢華丸丼と大吉麺｣11月15日(日)午後1時25分放送！",

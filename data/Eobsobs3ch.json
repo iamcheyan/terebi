@@ -1,8 +1,20 @@
 {
   "channel_id": "UCcw6Wg2yTv-J81hpzRzVkQw",
   "channel_name": "OBS大分放送",
-  "updated_at": "2026-11-12T21:47:45.390434",
+  "updated_at": "2026-11-13T21:16:44.242880",
   "videos": [
+    {
+      "id": "ptnrQlWGMU0",
+      "title": "【OBSラジオ】【加藤秀樹が語る「日本の未来構想」】【2026年10月26日放送分】",
+      "description": "",
+      "publishedAt": "2026-11-13T02:30:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/ptnrQlWGMU0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ptnrQlWGMU0"
+    },
     {
       "id": "A-gJ6IGSaBE",
       "title": "【大分市】おやつや僥倖堂（2026年10月28日放送分）",

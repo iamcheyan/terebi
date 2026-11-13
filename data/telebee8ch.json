@@ -1,8 +1,44 @@
 {
   "channel_id": "UC4BhxIzw9yqZ5UDc8AxrYxA",
   "channel_name": "TNCテレビ西日本",
-  "updated_at": "2026-11-12T21:47:51.801261",
+  "updated_at": "2026-11-13T21:16:50.233240",
   "videos": [
+    {
+      "id": "FeLskN19yfY",
+      "title": "【公式】2026年11月20日(金)放送予告「華丸・大吉のなんしようと？」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-11-13T11:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FeLskN19yfY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FeLskN19yfY"
+    },
+    {
+      "id": "7j1H0nGUJCc",
+      "title": "【公式】「はじめての筋トレ」（11月13日放送）F CO-OP presents はじマル ～はじめての〇〇～｜テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-11-13T03:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7j1H0nGUJCc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7j1H0nGUJCc"
+    },
+    {
+      "id": "GWY0ZObWsUE",
+      "title": "【公式】2026年11月14日(土)9:55～放送予告「福岡NEWSファイル CUBE」 | テレビ西日本",
+      "description": "",
+      "publishedAt": "2026-11-13T01:03:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GWY0ZObWsUE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GWY0ZObWsUE"
+    },
     {
       "id": "eMiK9lpQvoU",
       "title": "【お弁当、もった？】#20 糸島市　左官職人さん（日本人＆外国人）のお弁当",

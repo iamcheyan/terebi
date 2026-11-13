@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-11-11T21:48:12.285041",
+  "updated_at": "2026-11-13T21:16:02.524147",
   "videos": [
+    {
+      "id": "xtoKa3wOJJk",
+      "title": "【見逃し】秋の工房市2026・山辺町から生中継　和田孝太郎アナウンサー",
+      "description": "",
+      "publishedAt": "2026-11-13T11:26:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xtoKa3wOJJk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xtoKa3wOJJk"
+    },
     {
       "id": "UQn4yVT_1-o",
       "title": "みるcafe～昼得 ひるとく 海道ランチ～",
