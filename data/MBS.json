@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXSQ8x4kEjeWNExg0tRABwQ",
   "channel_name": "毎日放送（MBS）",
-  "updated_at": "2026-11-13T21:15:46.755233",
+  "updated_at": "2026-11-14T19:47:55.620030",
   "videos": [
+    {
+      "id": "HJaNu7EILuo",
+      "title": "痛快！明石家電視台 スタジオ観覧者大募集！",
+      "description": "",
+      "publishedAt": "2026-11-14T04:00:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HJaNu7EILuo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HJaNu7EILuo"
+    },
+    {
+      "id": "39UIwoJJSqU",
+      "title": "『あさから脳トレ！しらべるちゃん』【土曜のあさはほめるちゃん】2026/11/14放送",
+      "description": "",
+      "publishedAt": "2026-11-14T01:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/39UIwoJJSqU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=39UIwoJJSqU"
+    },
     {
       "id": "E10RP-8rVI0",
       "title": "ドラマフィル「おかえり、初恋。」7話予告映像【樋口幸平×林芽亜里 W主演】",

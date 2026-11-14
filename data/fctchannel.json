@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2026-11-12T21:47:33.407105",
+  "updated_at": "2026-11-14T19:48:10.127707",
   "videos": [
+    {
+      "id": "SfxlyCF8L4I",
+      "title": "おゆらじ #81【本編】ブルペンエース",
+      "description": "",
+      "publishedAt": "2026-11-14T08:00:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SfxlyCF8L4I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SfxlyCF8L4I"
+    },
     {
       "id": "ojZsWOSzJiA",
       "title": "おゆらじ #80.5【番外編】あいつ、元気にしてるかなぁ？",

@@ -1,8 +1,56 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-11-13T21:16:14.196462",
+  "updated_at": "2026-11-14T19:47:59.885545",
   "videos": [
+    {
+      "id": "5u1dwbAI9DE",
+      "title": "ハマナビ　2026年11月14日放送　知って安心　横浜のがん対策",
+      "description": "",
+      "publishedAt": "2026-11-14T09:30:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5u1dwbAI9DE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5u1dwbAI9DE"
+    },
+    {
+      "id": "pa-4CE_s-u4",
+      "title": "ハマナビ　次回予告（11月21日放送）",
+      "description": "",
+      "publishedAt": "2026-11-14T09:30:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pa-4CE_s-u4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pa-4CE_s-u4"
+    },
+    {
+      "id": "z7UE1LR7WKQ",
+      "title": "LOVEかわさき　11月14日放送：ひとりじゃない。地域でつながる川崎",
+      "description": "",
+      "publishedAt": "2026-11-14T00:30:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/z7UE1LR7WKQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=z7UE1LR7WKQ"
+    },
+    {
+      "id": "egMEa5kIuQM",
+      "title": "【ずいぶん大柄に...？】BMW 325i tvk「新車情報」公式　1991年放送",
+      "description": "",
+      "publishedAt": "2026-11-14T00:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/egMEa5kIuQM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=egMEa5kIuQM"
+    },
     {
       "id": "SiHu8wCf3CQ",
       "title": "「野菜が繋ぐこだわりの味 ～よこはま～」かながわ旬菜ナビ 2026/11/8放送",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-11-11T21:48:20.468796",
+  "updated_at": "2026-11-14T19:48:15.438076",
   "videos": [
+    {
+      "id": "pm5EhmWqMis",
+      "title": "【わんにゃんプラスかごしま】「ワタシのお役目♪」",
+      "description": "",
+      "publishedAt": "2026-11-14T08:45:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pm5EhmWqMis/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pm5EhmWqMis"
+    },
     {
       "id": "rizvUQFuOGs",
       "title": "河内あづきの鹿児島あっちこっち　シーズン2 　11月11日(水)",

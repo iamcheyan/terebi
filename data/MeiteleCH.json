@@ -1,8 +1,32 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-11-13T21:16:04.268065",
+  "updated_at": "2026-11-14T19:47:43.478209",
   "videos": [
+    {
+      "id": "BweCPOGdsLo",
+      "title": "【まるまる◎あいち】2026年11月14日放送 「愛環ぶらっとウォーキング」",
+      "description": "",
+      "publishedAt": "2026-11-14T09:00:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BweCPOGdsLo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BweCPOGdsLo"
+    },
+    {
+      "id": "QPJwjjxuje0",
+      "title": "【予告】おぎやはぎのハピキャン ～1Day Trip～【シーズン2-1】",
+      "description": "",
+      "publishedAt": "2026-11-14T02:30:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QPJwjjxuje0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QPJwjjxuje0"
+    },
     {
       "id": "ICK8IYbJHVo",
       "title": "尾形アナ・石神アナ｜～秋を満喫！とっておき紅葉スポット～（メ～テレアナch）【一部特別公開】",
