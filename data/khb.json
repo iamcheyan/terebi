@@ -1,8 +1,32 @@
 {
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "KHB東日本放送",
-  "updated_at": "2026-11-14T19:48:13.199054",
+  "updated_at": "2026-11-15T20:13:20.867330",
   "videos": [
+    {
+      "id": "JX2ezE95oJg",
+      "title": "仙台市若林区荒井で住宅１棟全焼",
+      "description": "",
+      "publishedAt": "2026-11-15T09:20:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JX2ezE95oJg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JX2ezE95oJg"
+    },
+    {
+      "id": "k_miVy4umvQ",
+      "title": "石巻市で藤井総務大臣が大規模災害の訓練視察　宮城",
+      "description": "",
+      "publishedAt": "2026-11-15T09:17:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k_miVy4umvQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k_miVy4umvQ"
+    },
     {
       "id": "ud2K8Bud4xA",
       "title": "大規模災害に備え連携を強化　緊急消防援助隊約２３００人が宮城県へ　全国合同訓練を東北で初めて開催",

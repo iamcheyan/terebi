@@ -1,8 +1,188 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-11-13T21:16:51.098490",
+  "updated_at": "2026-11-15T20:13:31.982845",
   "videos": [
+    {
+      "id": "Ug1Ow7SYzh0",
+      "title": "【第13中継所】ふくしま駅伝2026 (二本松市/安達支所)",
+      "description": "",
+      "publishedAt": "2026-11-15T08:21:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Ug1Ow7SYzh0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Ug1Ow7SYzh0"
+    },
+    {
+      "id": "ncCoSgVjt5I",
+      "title": "【ゴール】ふくしま駅伝2026(福島市/福島県庁前)",
+      "description": "",
+      "publishedAt": "2026-11-15T07:59:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ncCoSgVjt5I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ncCoSgVjt5I"
+    },
+    {
+      "id": "QgO_86vnqwk",
+      "title": "【第10中継所】ふくしま駅伝2026 (本宮市/白岩屋商店)",
+      "description": "",
+      "publishedAt": "2026-11-15T07:34:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QgO_86vnqwk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QgO_86vnqwk"
+    },
+    {
+      "id": "N9uxdtPIqBQ",
+      "title": "【第11中継所】ふくしま駅伝2026 (大玉村/イイジマ)",
+      "description": "",
+      "publishedAt": "2026-11-15T07:31:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/N9uxdtPIqBQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=N9uxdtPIqBQ"
+    },
+    {
+      "id": "6c5CPVALgAc",
+      "title": "【第5中継所】ふくしま駅伝2026 (須賀川市役所)",
+      "description": "",
+      "publishedAt": "2026-11-15T07:29:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6c5CPVALgAc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6c5CPVALgAc"
+    },
+    {
+      "id": "-wcXZjg3SGA",
+      "title": "【第14中継所】ふくしま駅伝2026 (福島市/松陵義務教育学校前)",
+      "description": "",
+      "publishedAt": "2026-11-15T07:14:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-wcXZjg3SGA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-wcXZjg3SGA"
+    },
+    {
+      "id": "5y3Ix-QVBkY",
+      "title": "【第7中継所】ふくしま駅伝2026 (郡山ヒロセ開成山陸上競技場)",
+      "description": "",
+      "publishedAt": "2026-11-15T07:11:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5y3Ix-QVBkY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5y3Ix-QVBkY"
+    },
+    {
+      "id": "7cWL1legrgY",
+      "title": "【第12中継所】ふくしま駅伝2026 (二本松市役所)",
+      "description": "",
+      "publishedAt": "2026-11-15T07:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7cWL1legrgY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7cWL1legrgY"
+    },
+    {
+      "id": "9yG6x846GR8",
+      "title": "【第15中継所】ふくしま駅伝2026 (福島市/福島大学)",
+      "description": "",
+      "publishedAt": "2026-11-15T06:49:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9yG6x846GR8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9yG6x846GR8"
+    },
+    {
+      "id": "exT3bYExwQg",
+      "title": "【第6中継所】ふくしま駅伝2026 (郡山市/ゼノアック日本全薬工業)",
+      "description": "",
+      "publishedAt": "2026-11-15T06:31:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/exT3bYExwQg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=exT3bYExwQg"
+    },
+    {
+      "id": "VrO870O23kU",
+      "title": "【第9中継所】ふくしま駅伝2026 (郡山市/こどものもり公園)",
+      "description": "",
+      "publishedAt": "2026-11-15T06:29:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VrO870O23kU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VrO870O23kU"
+    },
+    {
+      "id": "WNeR80oTq7U",
+      "title": "【第8中継所】ふくしま駅伝2026 (郡山北工業高校)",
+      "description": "",
+      "publishedAt": "2026-11-15T06:01:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WNeR80oTq7U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WNeR80oTq7U"
+    },
+    {
+      "id": "QpAppd_PAQE",
+      "title": "【第4中継所】ふくしま駅伝2026 (鏡石町/鳥見山陸上競技場)",
+      "description": "",
+      "publishedAt": "2026-11-15T05:58:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QpAppd_PAQE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QpAppd_PAQE"
+    },
+    {
+      "id": "r5qMkEfYWiE",
+      "title": "【第2中継所】ふくしま駅伝2026 (泉崎さつき公園)",
+      "description": "",
+      "publishedAt": "2026-11-15T04:48:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/r5qMkEfYWiE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=r5qMkEfYWiE"
+    },
+    {
+      "id": "yfniITvJUXU",
+      "title": "【第3中継所】ふくしま駅伝2026(矢吹町役場)",
+      "description": "",
+      "publishedAt": "2026-11-15T04:46:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yfniITvJUXU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yfniITvJUXU"
+    },
     {
       "id": "2034EKYNfmA",
       "title": "【密着】800年の伝統を絶やさない！福島県古殿町「流鏑馬」に人生を捧げる人々【日本の祭り】",

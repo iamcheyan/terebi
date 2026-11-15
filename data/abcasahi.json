@@ -1,8 +1,32 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-11-13T21:15:52.197851",
+  "updated_at": "2026-11-15T20:12:52.266023",
   "videos": [
+    {
+      "id": "6SdWj74TdJg",
+      "title": "「LIFE ～夢のカタチ～」2026年11月21日（土）放送",
+      "description": "",
+      "publishedAt": "2026-11-15T01:23:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6SdWj74TdJg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6SdWj74TdJg"
+    },
+    {
+      "id": "OEenBhIUJy8",
+      "title": "【あっちこっちAぇ!】11月21日（土）深夜放送",
+      "description": "",
+      "publishedAt": "2026-11-15T00:02:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OEenBhIUJy8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OEenBhIUJy8"
+    },
     {
       "id": "JXTGaj-Rm9o",
       "title": "「news おかえり」11月16日(月)午後3時40分～放送",

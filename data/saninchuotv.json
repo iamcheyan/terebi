@@ -1,8 +1,44 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-11-12T21:47:02.756010",
+  "updated_at": "2026-11-15T20:12:51.836119",
   "videos": [
+    {
+      "id": "5EVZgQkuquE",
+      "title": "11/22(日)ごご4時「飯島直子の今夜一杯いっちゃう？（鳥取県・米子市）」",
+      "description": "",
+      "publishedAt": "2026-11-15T15:00:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5EVZgQkuquE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5EVZgQkuquE"
+    },
+    {
+      "id": "qep74KEf8F4",
+      "title": "11/29(日)「飯島直子の今夜一杯いっちゃう？（鳥取県・鳥取市）」",
+      "description": "",
+      "publishedAt": "2026-11-15T15:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qep74KEf8F4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qep74KEf8F4"
+    },
+    {
+      "id": "mmdNCaw6li8",
+      "title": "予告『ゴルフ☆パラダイス - THE GAME CHANGER -』11月22日（日）6：30～放送",
+      "description": "",
+      "publishedAt": "2026-11-14T22:00:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mmdNCaw6li8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mmdNCaw6li8"
+    },
     {
       "id": "j94kxZkflzQ",
       "title": "【ソノタネ2.0】#26～サクセスＴＲＩＢＥ～",
