@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-11-15T20:13:28.122654",
+  "updated_at": "2026-11-16T23:41:36.439410",
   "videos": [
+    {
+      "id": "5OIZfcO_CSA",
+      "title": "【番宣】１１月１８日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-11-16T08:24:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5OIZfcO_CSA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5OIZfcO_CSA"
+    },
+    {
+      "id": "iEFT4z0sjZ8",
+      "title": "【番宣】１１月１７日（火）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-11-16T01:31:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iEFT4z0sjZ8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iEFT4z0sjZ8"
+    },
     {
       "id": "MryPFsFwIbI",
       "title": "第127回 めざせ！くまもとの若き匠たち【鹿本商工高校 機械科】",

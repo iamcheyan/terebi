@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-11-14T19:47:43.478209",
+  "updated_at": "2026-11-16T23:41:05.999440",
   "videos": [
+    {
+      "id": "_nlwSj6aoCs",
+      "title": "超町人！チョコレートサムネット 11/22(日) 愛知・長久手市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-11-16T03:21:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/_nlwSj6aoCs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=_nlwSj6aoCs"
+    },
     {
       "id": "BweCPOGdsLo",
       "title": "【まるまる◎あいち】2026年11月14日放送 「愛環ぶらっとウォーキング」",

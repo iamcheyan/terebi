@@ -1,8 +1,20 @@
 {
   "channel_id": "UCG8ze26AvirHm4XpBVz7rdA",
   "channel_name": "KTS鹿児島テレビ",
-  "updated_at": "2026-11-14T19:48:15.438076",
+  "updated_at": "2026-11-16T23:41:32.285071",
   "videos": [
+    {
+      "id": "xNCVraoncvs",
+      "title": "鹿児島わが町自慢　11月17日(火)夜7時放送！",
+      "description": "",
+      "publishedAt": "2026-11-16T15:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xNCVraoncvs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xNCVraoncvs"
+    },
     {
       "id": "pm5EhmWqMis",
       "title": "【わんにゃんプラスかごしま】「ワタシのお役目♪」",

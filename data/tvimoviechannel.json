@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-15T20:13:32.251049",
+  "updated_at": "2026-11-16T23:41:41.253283",
   "videos": [
+    {
+      "id": "oJ0czgwyNKs",
+      "title": "今日の５きげんテレビ（11月17日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-16T15:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/oJ0czgwyNKs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=oJ0czgwyNKs"
+    },
+    {
+      "id": "u1nCIl4jpk4",
+      "title": "カルボチキン | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-16T10:16:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u1nCIl4jpk4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u1nCIl4jpk4"
+    },
+    {
+      "id": "ChuM8WqGIYE",
+      "title": "５きげん知恵袋 ～寒くなったら「せり」～",
+      "description": "",
+      "publishedAt": "2026-11-16T09:14:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ChuM8WqGIYE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ChuM8WqGIYE"
+    },
     {
       "id": "zrRmx9xZkNc",
       "title": "今日の５きげんテレビ（11月16日）｜テレビ岩手",

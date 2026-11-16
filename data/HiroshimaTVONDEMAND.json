@@ -1,8 +1,32 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-11-15T20:13:09.711815",
+  "updated_at": "2026-11-16T23:41:16.584698",
   "videos": [
+    {
+      "id": "aLzsBlnv38Y",
+      "title": "【こだわりのおみそ汁とおむすびのお店】",
+      "description": "",
+      "publishedAt": "2026-11-16T09:30:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aLzsBlnv38Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aLzsBlnv38Y"
+    },
+    {
+      "id": "LgyZfXYmDVI",
+      "title": "【キッズチャレンジスタジアム】みおちゃん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-11-16T09:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LgyZfXYmDVI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LgyZfXYmDVI"
+    },
     {
       "id": "WQ_SEb_kCbU",
       "title": "【馬場のぶえのひろしま脳トレ】26年度第33回「行政キオスク端末の設置について」",

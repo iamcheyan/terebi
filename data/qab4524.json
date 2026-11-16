@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWzx-v_6kdTKi3oXhWOK1FA",
   "channel_name": "QAB琉球朝日放送",
-  "updated_at": "2026-11-12T21:47:45.732911",
+  "updated_at": "2026-11-16T23:41:35.986261",
   "videos": [
+    {
+      "id": "zLwM5bMduZw",
+      "title": "Listen210  浜川結琳さん",
+      "description": "",
+      "publishedAt": "2026-11-16T08:06:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zLwM5bMduZw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zLwM5bMduZw"
+    },
     {
       "id": "H2SdUNeH2Mc",
       "title": "QABドライバーさんと二人旅～！「気になる北中城村へ」",

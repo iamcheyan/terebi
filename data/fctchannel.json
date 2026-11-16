@@ -1,8 +1,20 @@
 {
   "channel_id": "UCxsSozXv1bCV1I05GUsGDSQ",
   "channel_name": "FCT福島中央テレビ",
-  "updated_at": "2026-11-14T19:48:10.127707",
+  "updated_at": "2026-11-16T23:41:27.915462",
   "videos": [
+    {
+      "id": "2nMBOx7RAcs",
+      "title": "【中テレ祭り2026】We want Chu!配信",
+      "description": "",
+      "publishedAt": "2026-11-16T09:57:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2nMBOx7RAcs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2nMBOx7RAcs"
+    },
     {
       "id": "SfxlyCF8L4I",
       "title": "おゆらじ #81【本編】ブルペンエース",

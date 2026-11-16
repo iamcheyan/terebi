@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-13T21:16:05.205541",
+  "updated_at": "2026-11-16T23:41:11.795578",
   "videos": [
+    {
+      "id": "ew0rhEwHkdE",
+      "title": "【認知症希望大使】自分らしく、前向きに過ごす８６歳の女性。自らの経験を発信",
+      "description": "",
+      "publishedAt": "2026-11-16T04:35:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ew0rhEwHkdE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ew0rhEwHkdE"
+    },
     {
       "id": "J-BMvhEcBRc",
       "title": "【気象予報士穴澤さんのあな天】「小春日和」から一転、寒さが戻る見込みです",

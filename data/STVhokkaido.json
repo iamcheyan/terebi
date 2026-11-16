@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-11-11T21:48:25.887336",
+  "updated_at": "2026-11-16T23:41:38.304412",
   "videos": [
+    {
+      "id": "k4M_fmPptxQ",
+      "title": "ライブカメラ 北海道(ＳＴＶ札幌テレビ放送)/LiveCamera Hokkaido Japan",
+      "description": "",
+      "publishedAt": "2026-11-16T00:33:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k4M_fmPptxQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k4M_fmPptxQ"
+    },
     {
       "id": "JiLWf-fdG2E",
       "title": "【高校サッカー準決勝②】道大谷室蘭×札幌大谷 第105回 全国高校サッカー選手権 北海道大会　11月7日13:30キックオフ（アーカイブ）",

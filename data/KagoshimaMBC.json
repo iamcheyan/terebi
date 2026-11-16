@@ -1,8 +1,128 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-11-15T20:13:23.862989",
+  "updated_at": "2026-11-16T23:41:32.933589",
   "videos": [
+    {
+      "id": "eZp16Ue1BiE",
+      "title": "ふくしのラジオ!　EP#188　『就労移行支援事業所　ｄ-career（ディーキャリア） について』",
+      "description": "",
+      "publishedAt": "2026-11-16T13:02:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eZp16Ue1BiE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eZp16Ue1BiE"
+    },
+    {
+      "id": "lp06i5kENr8",
+      "title": "11/22(日)午前10時35分放送『かごしまシティ・パレット』",
+      "description": "",
+      "publishedAt": "2026-11-16T09:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lp06i5kENr8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lp06i5kENr8"
+    },
+    {
+      "id": "jyLRlNkH5LE",
+      "title": "鹿児島の防衛担い71年　陸自国分駐屯地で記念行事　一般開放も(MBCニュース 2026年11月15日放送）",
+      "description": "",
+      "publishedAt": "2026-11-16T04:12:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jyLRlNkH5LE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jyLRlNkH5LE"
+    },
+    {
+      "id": "J3ZX_89rsC0",
+      "title": "霧島市の秋彩る「紅葉まつり」(MBCニュース 2026年11月15日放送）",
+      "description": "",
+      "publishedAt": "2026-11-16T04:11:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J3ZX_89rsC0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J3ZX_89rsC0"
+    },
+    {
+      "id": "KTe2xdiPGuM",
+      "title": "#44 大崎町立大崎小学校（11/9放送）",
+      "description": "",
+      "publishedAt": "2026-11-16T03:09:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KTe2xdiPGuM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KTe2xdiPGuM"
+    },
+    {
+      "id": "gkU1o-PE9Uw",
+      "title": "ツル羽数調査　30シーズン連続「万羽ヅル」に(MBCニュース 2026年11月14日放送）",
+      "description": "",
+      "publishedAt": "2026-11-16T02:47:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/gkU1o-PE9Uw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=gkU1o-PE9Uw"
+    },
+    {
+      "id": "3Yqp2IfjMRk",
+      "title": "“イヤホン難聴”に注意「なってしまうと治るのは難しい」【専門医に聞く予防のポイント】　(MBCニューズナウ 2026年11月13日放送）",
+      "description": "",
+      "publishedAt": "2026-11-16T02:45:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3Yqp2IfjMRk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3Yqp2IfjMRk"
+    },
+    {
+      "id": "j2mwsBBhoCM",
+      "title": "甲突川の景観いかして「川床」オープン　バーベキューやイベント続々　(MBCニューズナウ 2026年11月13日放送）",
+      "description": "",
+      "publishedAt": "2026-11-16T02:39:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/j2mwsBBhoCM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=j2mwsBBhoCM"
+    },
+    {
+      "id": "rYgRF-44h4c",
+      "title": "南国ムードのクリスマスツリー　鹿児島空港で点灯式　(MBCニューズナウ 2026年11月13日放送）",
+      "description": "",
+      "publishedAt": "2026-11-16T02:33:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rYgRF-44h4c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rYgRF-44h4c"
+    },
+    {
+      "id": "BssruKYUTLg",
+      "title": "「生きてきた証」早産児や家族への理解を　世界早産児デー写真展　(MBCニューズナウ 2026年11月13日放送）",
+      "description": "",
+      "publishedAt": "2026-11-16T02:28:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/BssruKYUTLg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=BssruKYUTLg"
+    },
     {
       "id": "aPhIBKLSBqM",
       "title": "志布志市・志布志港【かごしまドローンTRIP】",
