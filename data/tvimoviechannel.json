@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-16T23:41:41.253283",
+  "updated_at": "2026-11-17T22:49:34.008203",
   "videos": [
+    {
+      "id": "CUnpDRtGwnM",
+      "title": "今日の５きげんテレビ（11月18日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-17T15:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/CUnpDRtGwnM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=CUnpDRtGwnM"
+    },
+    {
+      "id": "yKwe-qtR7_U",
+      "title": "雫石で！いい湯いい旅 | 大自然に抱かれて幸せ時間を",
+      "description": "",
+      "publishedAt": "2026-11-17T10:16:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yKwe-qtR7_U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yKwe-qtR7_U"
+    },
+    {
+      "id": "AJELYyaiUVc",
+      "title": "スパイシーチーズサブレ | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-17T08:32:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AJELYyaiUVc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AJELYyaiUVc"
+    },
     {
       "id": "oJ0czgwyNKs",
       "title": "今日の５きげんテレビ（11月17日）｜テレビ岩手",

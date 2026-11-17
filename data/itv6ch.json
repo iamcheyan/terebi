@@ -1,8 +1,20 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-11-16T23:41:44.713755",
+  "updated_at": "2026-11-17T22:49:37.357613",
   "videos": [
+    {
+      "id": "Rm5CbzxEoSw",
+      "title": "愛媛のニュース(11月17日)",
+      "description": "",
+      "publishedAt": "2026-11-17T11:38:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rm5CbzxEoSw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rm5CbzxEoSw"
+    },
     {
       "id": "TcU3s-h_1JI",
       "title": "フォロワー3万人「現役早大生農家」 大手企業への道を捨てて選んだ「家族の絆」と「自給自足の村」の夢",

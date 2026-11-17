@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-11-12T21:47:39.115014",
+  "updated_at": "2026-11-17T22:49:22.868377",
   "videos": [
+    {
+      "id": "u-Tdqd9MdYQ",
+      "title": "【旬景とやま】立山 冬へ",
+      "description": "",
+      "publishedAt": "2026-11-17T11:03:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/u-Tdqd9MdYQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=u-Tdqd9MdYQ"
+    },
     {
       "id": "WcVnRp2-CbE",
       "title": "【北陸３県イイトコどり～】ご当地どんぶり",

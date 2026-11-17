@@ -1,8 +1,20 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-16T23:41:11.795578",
+  "updated_at": "2026-11-17T22:48:45.741125",
   "videos": [
+    {
+      "id": "rXlbdcOC7wU",
+      "title": "【夢はジョッキー】競馬の騎手「ジョッキー」を目指す紫波町の男子中学生が、夢に向かって駆け抜けます",
+      "description": "",
+      "publishedAt": "2026-11-17T05:26:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rXlbdcOC7wU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rXlbdcOC7wU"
+    },
     {
       "id": "ew0rhEwHkdE",
       "title": "【認知症希望大使】自分らしく、前向きに過ごす８６歳の女性。自らの経験を発信",
