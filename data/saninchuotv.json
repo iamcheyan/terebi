@@ -1,8 +1,32 @@
 {
   "channel_id": "UCIQEfxF2j364cyvR0f3Tmzg",
   "channel_name": "山陰中央テレビ（TSK）",
-  "updated_at": "2026-11-17T22:48:50.701017",
+  "updated_at": "2026-11-18T22:30:56.554628",
   "videos": [
+    {
+      "id": "YnU-cCj1zgg",
+      "title": "予告【しまねっこの宅配便X】11/25（水）放送「知っててよかった緩和ケア」",
+      "description": "",
+      "publishedAt": "2026-11-18T12:00:38+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YnU-cCj1zgg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YnU-cCj1zgg"
+    },
+    {
+      "id": "DC7Ar0X8ejg",
+      "title": "【ソノタネ2.0】#27～日本コンコードシステム～",
+      "description": "",
+      "publishedAt": "2026-11-18T02:57:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DC7Ar0X8ejg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DC7Ar0X8ejg"
+    },
     {
       "id": "zvwVgA06Bh4",
       "title": "【しまねっこの宅配便X】#26「プロを目指し全力投球！～県立高等技術校～」",

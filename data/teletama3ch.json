@@ -1,8 +1,20 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-11-17T22:48:46.129841",
+  "updated_at": "2026-11-18T22:30:35.427516",
   "videos": [
+    {
+      "id": "PIWpDZjSoio",
+      "title": "Episode6　婚活必勝メイクしまっせ",
+      "description": "",
+      "publishedAt": "2026-11-18T12:45:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PIWpDZjSoio/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PIWpDZjSoio"
+    },
     {
       "id": "jA9mzgWx1K8",
       "title": "【いろはに千鳥】ななまがりのボケを当てろ！QUIZななまがりPart6　後半戦【11/24予告】",

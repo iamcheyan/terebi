@@ -1,8 +1,56 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-17T22:49:34.008203",
+  "updated_at": "2026-11-18T22:31:24.663191",
   "videos": [
+    {
+      "id": "QfjU6AwOZ0A",
+      "title": "今日の５きげんテレビ（11月19日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-18T15:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QfjU6AwOZ0A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QfjU6AwOZ0A"
+    },
+    {
+      "id": "HXHmH0NSdMQ",
+      "title": "豆腐のみそチーズ焼き | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-18T10:00:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HXHmH0NSdMQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HXHmH0NSdMQ"
+    },
+    {
+      "id": "HATiSDl5KKA",
+      "title": "全国ぐるっと味めぐりin岩手｜食べ比べが楽しいクランブルアップルパイ",
+      "description": "",
+      "publishedAt": "2026-11-18T07:57:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HATiSDl5KKA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HATiSDl5KKA"
+    },
+    {
+      "id": "hOSStCNNtiQ",
+      "title": "花工房らら倶楽部で癒しのひとときを｜岩手・雫石｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-11-17T23:54:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/hOSStCNNtiQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=hOSStCNNtiQ"
+    },
     {
       "id": "CUnpDRtGwnM",
       "title": "今日の５きげんテレビ（11月18日）｜テレビ岩手",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoAQNKxgfE32ai4mOXNXvug",
   "channel_name": "BSN新潟放送",
-  "updated_at": "2026-11-17T22:49:17.538165",
+  "updated_at": "2026-11-18T22:31:04.135270",
   "videos": [
+    {
+      "id": "e8zoXNX0NkU",
+      "title": "【放送まであと３日！】BSNラジオ特番『いちねんめらじお』11月22日（日）午前11時 放送！",
+      "description": "",
+      "publishedAt": "2026-11-18T15:00:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/e8zoXNX0NkU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=e8zoXNX0NkU"
+    },
+    {
+      "id": "9FZi8zHrumc",
+      "title": "「そらなび」魚沼スカイライン 秋景色（南魚沼市） 2026年11月14日放送回",
+      "description": "",
+      "publishedAt": "2026-11-18T04:04:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9FZi8zHrumc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9FZi8zHrumc"
+    },
     {
       "id": "AnVF08Kw9ns",
       "title": "【放送まであと４日！】BSNラジオ特番『いちねんめらじお』11月22日（日）午前11時 放送！",

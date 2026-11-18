@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-11-17T22:49:37.357613",
+  "updated_at": "2026-11-18T22:31:29.804123",
   "videos": [
+    {
+      "id": "xzV6i8QN-SY",
+      "title": "愛媛のニュース(11月18日)",
+      "description": "",
+      "publishedAt": "2026-11-18T11:41:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xzV6i8QN-SY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xzV6i8QN-SY"
+    },
+    {
+      "id": "5ZD80TbF5yM",
+      "title": "STU48と愛媛をEVドライブ！【第38回】ブルークエスト with STU48（宇和島市 宇和島城）",
+      "description": "",
+      "publishedAt": "2026-11-18T03:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5ZD80TbF5yM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5ZD80TbF5yM"
+    },
     {
       "id": "Rm5CbzxEoSw",
       "title": "愛媛のニュース(11月17日)",
