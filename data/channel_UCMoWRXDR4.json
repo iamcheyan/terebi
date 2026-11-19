@@ -1,8 +1,32 @@
 {
   "channel_id": "UCMoWRXDR4-S_R8479Ru0HjQ",
   "channel_name": "チバテレ（千葉テレビ放送）",
-  "updated_at": "2026-11-17T22:49:02.086350",
+  "updated_at": "2026-11-19T22:36:29.896937",
   "videos": [
+    {
+      "id": "GhA827VJpps",
+      "title": "学生たちの挑戦と、その思い【学生、現場へ！土木っておもしろい】第八回（チバテレ55周年特別番組）",
+      "description": "",
+      "publishedAt": "2026-11-19T12:30:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GhA827VJpps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GhA827VJpps"
+    },
+    {
+      "id": "xjeyMmDrBao",
+      "title": "【ダイジェスト】第105回全国高校サッカー選手権大会千葉県大会決勝 市立船橋×流経大柏（チバテレ公式）",
+      "description": "",
+      "publishedAt": "2026-11-19T01:16:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xjeyMmDrBao/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xjeyMmDrBao"
+    },
     {
       "id": "D6Ys0aEGyUk",
       "title": "【決勝フルマッチ】千葉県大会　市立船橋 vs 流通経済大柏｜第105回全国高校サッカー選手権大会【チバテレ公式】（2026/11/14）",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-11-18T22:31:29.804123",
+  "updated_at": "2026-11-19T22:37:21.088945",
   "videos": [
+    {
+      "id": "LCLoRtdffiw",
+      "title": "愛媛のニュース(11月19日)",
+      "description": "",
+      "publishedAt": "2026-11-19T11:33:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LCLoRtdffiw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LCLoRtdffiw"
+    },
+    {
+      "id": "qsxrZqKYC9s",
+      "title": "【SDGs】工場廃水を微生物で浄化！愛媛大学が挑むカーボンニュートラルな新技術",
+      "description": "",
+      "publishedAt": "2026-11-19T10:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qsxrZqKYC9s/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qsxrZqKYC9s"
+    },
+    {
+      "id": "TkvRrJWKBY4",
+      "title": "水樹奈々さん・オーイシマサヨシさんも参加!!愛顔(えがお)えひめの文化祭2028とは",
+      "description": "",
+      "publishedAt": "2026-11-19T06:08:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TkvRrJWKBY4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TkvRrJWKBY4"
+    },
     {
       "id": "xzV6i8QN-SY",
       "title": "愛媛のニュース(11月18日)",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-11-18T22:31:36.422063",
+  "updated_at": "2026-11-19T22:37:25.164315",
   "videos": [
+    {
+      "id": "mSFq7_7BWP8",
+      "title": "261119 173530 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-11-19T10:43:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/mSFq7_7BWP8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=mSFq7_7BWP8"
+    },
+    {
+      "id": "l5TqvUTZBq8",
+      "title": "261119 172821 兼近第１踏切",
+      "description": "",
+      "publishedAt": "2026-11-19T10:29:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/l5TqvUTZBq8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=l5TqvUTZBq8"
+    },
     {
       "id": "cX7Vlc-Sjsg",
       "title": "261118 160522 深田駅（端から端まで）",

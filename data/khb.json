@@ -1,8 +1,116 @@
 {
   "channel_id": "UCkW_baVbq6aGPWeYY4hOPCA",
   "channel_name": "KHB東日本放送",
-  "updated_at": "2026-11-18T22:31:10.563881",
+  "updated_at": "2026-11-19T22:37:06.157834",
   "videos": [
+    {
+      "id": "B0l2utwQljI",
+      "title": "冬タイヤ装着率の調査が始まる　仙台・青葉区作並では約７割が装着",
+      "description": "",
+      "publishedAt": "2026-11-19T10:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/B0l2utwQljI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=B0l2utwQljI"
+    },
+    {
+      "id": "xomQBQ3z2aA",
+      "title": "フィンランド発祥のスポーツ　モルックが人気　楽天イーグルス伊藤樹投手もハマる",
+      "description": "",
+      "publishedAt": "2026-11-19T09:59:31+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xomQBQ3z2aA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xomQBQ3z2aA"
+    },
+    {
+      "id": "1m0EOX30H2g",
+      "title": "インターネット上の誹謗中傷を防ぐ条例案が固まる　１１月議会に提案へ　宮城県議会",
+      "description": "",
+      "publishedAt": "2026-11-19T09:34:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1m0EOX30H2g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1m0EOX30H2g"
+    },
+    {
+      "id": "VyBAm3lk8Lc",
+      "title": "「楽しそうだったし金が欲しかった」仙台市の少年　愛知・小牧市強盗殺人未遂事件",
+      "description": "",
+      "publishedAt": "2026-11-19T09:32:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VyBAm3lk8Lc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VyBAm3lk8Lc"
+    },
+    {
+      "id": "ZjMaBh8KTdk",
+      "title": "野菜たっぷり健康メニューを学生が考案し商品化　宮城県",
+      "description": "",
+      "publishedAt": "2026-11-19T09:30:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZjMaBh8KTdk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZjMaBh8KTdk"
+    },
+    {
+      "id": "q4NysOoL43w",
+      "title": "ボージョレ・ヌーヴォー解禁　円安や輸入コスト上昇で値上がり",
+      "description": "",
+      "publishedAt": "2026-11-19T09:23:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q4NysOoL43w/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q4NysOoL43w"
+    },
+    {
+      "id": "GMVn4Kme31E",
+      "title": "仙台セリのセリ鍋ゆうパック　発送が始まる　宮城・名取市",
+      "description": "",
+      "publishedAt": "2026-11-19T07:48:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GMVn4Kme31E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GMVn4Kme31E"
+    },
+    {
+      "id": "in20J1PmJRI",
+      "title": "宮城県の海洋総合実習船　宮城丸が気仙沼港に帰港　水産高生２０人が航海実習を終える",
+      "description": "",
+      "publishedAt": "2026-11-19T07:46:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/in20J1PmJRI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=in20J1PmJRI"
+    },
+    {
+      "id": "J78qmVOiVqY",
+      "title": "宮城県のインフルエンザ患者数　４週連続で注意報レベル超え",
+      "description": "",
+      "publishedAt": "2026-11-19T02:52:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J78qmVOiVqY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J78qmVOiVqY"
+    },
     {
       "id": "ch6QJiKOQJs",
       "title": "東日本大震災の記憶と教訓の継承　セミナー開催　２９日せんだいメディアテーク",

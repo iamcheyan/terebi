@@ -1,8 +1,20 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-11-17T22:48:47.650134",
+  "updated_at": "2026-11-19T22:36:33.450577",
   "videos": [
+    {
+      "id": "tEd38arlCwo",
+      "title": "7年ぶりの神楽をふるさとで",
+      "description": "",
+      "publishedAt": "2026-11-19T01:51:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tEd38arlCwo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tEd38arlCwo"
+    },
     {
       "id": "Q0Ra2bqoZxI",
       "title": "【ベジ得】収穫編・紅まどんな",
