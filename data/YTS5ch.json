@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-11-17T22:49:06.763028",
+  "updated_at": "2026-11-20T22:09:31.021474",
   "videos": [
+    {
+      "id": "dJH92I4mgjg",
+      "title": "【見逃し】光のプロムナード・山形市から生中継　和田孝太郎アナウンサー",
+      "description": "",
+      "publishedAt": "2026-11-20T12:08:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dJH92I4mgjg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dJH92I4mgjg"
+    },
     {
       "id": "cNrVfbXYIp8",
       "title": "ラ・フランスツアーを体験！王将果樹園の絶品パフェも",

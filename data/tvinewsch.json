@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-19T22:36:41.544474",
+  "updated_at": "2026-11-20T22:09:23.095514",
   "videos": [
+    {
+      "id": "KGDnvs4kGjQ",
+      "title": "【ブドウ灰のガラス】ブドウの品種や灰の混ぜ方などによって、様々に色を変える大迫ならではのガラス",
+      "description": "",
+      "publishedAt": "2026-11-20T09:51:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KGDnvs4kGjQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KGDnvs4kGjQ"
+    },
+    {
+      "id": "iX8Pyi7KCBI",
+      "title": "【わんカメＬＩＶＥ】ワインの新酒ボジョレ・ヌーボーの販売が解禁",
+      "description": "",
+      "publishedAt": "2026-11-20T09:23:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iX8Pyi7KCBI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iX8Pyi7KCBI"
+    },
     {
       "id": "R2Ix51QUiOM",
       "title": "【人情にほっこり カナダ人リンゴ農家】紫波町でリンゴ園を営むカナダ人男性の初めて収穫",

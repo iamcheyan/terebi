@@ -1,8 +1,152 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
   "channel_name": "yab山口ニュース",
-  "updated_at": "2026-11-19T22:36:42.812965",
+  "original_name": "yab山口ニュース",
+  "updated_at": "2026-11-20T22:10:27.192216",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O_qm_oDmbXHjFjOThX-9p1R7VIQ",
+      "id": "VVVLSWdsSUg5X3hJSzBmZWFodUtoSkVRLjdpR3lWSzRHSlY0",
+      "snippet": {
+        "publishedAt": "2026-11-20T22:00:36Z",
+        "channelId": "UCKIglIH9_xIK0feahuKhJEQ",
+        "title": "23日のＪチャンやまぐちは　元警官消防士になる　消防学校の日々に密着",
+        "description": "「人の命を救いたい」\n\n警官を辞めて\n消防の世界に\n飛び込んだ男性。\n\n一人前を目指して\n奮闘する姿を追いました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7iGyVK4GJV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7iGyVK4GJV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7iGyVK4GJV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7iGyVK4GJV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7iGyVK4GJV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yab山口ニュース",
+        "playlistId": "UUKIglIH9_xIK0feahuKhJEQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7iGyVK4GJV4"
+        },
+        "videoOwnerChannelTitle": "yab山口ニュース",
+        "videoOwnerChannelId": "UCKIglIH9_xIK0feahuKhJEQ"
+      }
+    },
+    {
+      "id": "J9NvlvgYk6Y",
+      "title": "あちこちグルメ　周南・さば料理専門店 SABAR+徳山銀座店",
+      "description": "",
+      "publishedAt": "2026-11-20T11:41:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/J9NvlvgYk6Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=J9NvlvgYk6Y"
+    },
+    {
+      "id": "9wWaDq4Do30",
+      "title": "あちこちグルメ　宇部・ResortCafe&Bar POLE POLE",
+      "description": "",
+      "publishedAt": "2026-11-20T11:11:16+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9wWaDq4Do30/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9wWaDq4Do30"
+    },
+    {
+      "id": "InjnfLGm1OI",
+      "title": "寒波で冬の寒さが続く３連休に…１１月２０日（金）お天気情報",
+      "description": "",
+      "publishedAt": "2026-11-20T10:15:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/InjnfLGm1OI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=InjnfLGm1OI"
+    },
+    {
+      "id": "P_Kn0g6yDrs",
+      "title": "【山口】くだまつ健康パークのスケートリンク　オープンを前に地元の園児たちが初すべり",
+      "description": "",
+      "publishedAt": "2026-11-20T10:02:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/P_Kn0g6yDrs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=P_Kn0g6yDrs"
+    },
+    {
+      "id": "kP-OAYfJINw",
+      "title": "【山口】巌流島を舞台に釣り好きのタレントが本気のバトル！つるの剛士さんらが“タレントフィッシング”",
+      "description": "",
+      "publishedAt": "2026-11-20T10:02:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kP-OAYfJINw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kP-OAYfJINw"
+    },
+    {
+      "id": "0ic_g0LhW1c",
+      "title": "【山口】イギリス・ＢＢＣが運営する旅行メディアの特集で長門湯本温泉が「世界で行くべき２０カ所」に選ばれる",
+      "description": "",
+      "publishedAt": "2026-11-20T10:02:28+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0ic_g0LhW1c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0ic_g0LhW1c"
+    },
+    {
+      "id": "qDFa4LB1riw",
+      "title": "【山口】山口市の住宅で火災　住民は避難",
+      "description": "",
+      "publishedAt": "2026-11-20T02:55:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qDFa4LB1riw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qDFa4LB1riw"
+    },
+    {
+      "id": "FhU27jG2xMc",
+      "title": "きょうのＪチャンやまぐちはみんなのレノファ",
+      "description": "",
+      "publishedAt": "2026-11-20T02:45:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FhU27jG2xMc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FhU27jG2xMc"
+    },
     {
       "id": "BCIc4PX2lp0",
       "title": "浦天 11月19日（木）「寒波到来 冬の寒さが続く」",
@@ -23554,6 +23698,12 @@
       "title": "【山口】防府市で地震に備えた「７２時間訓練」",
       "thumbnail": "https://i.ytimg.com/vi/5Cn5x8jKLUE/sddefault.jpg",
       "url": "https://www.youtube.com/watch?v=5Cn5x8jKLUE"
+    },
+    {
+      "id": "7iGyVK4GJV4",
+      "title": "23日のＪチャンやまぐちは　元警官消防士になる　消防学校の日々に密着",
+      "thumbnail": "https://i.ytimg.com/vi/7iGyVK4GJV4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7iGyVK4GJV4"
     }
   ]
 }

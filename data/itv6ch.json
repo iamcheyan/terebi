@@ -1,8 +1,32 @@
 {
   "channel_id": "UCXwz4wdczQnOfL8RAUC8Ibg",
   "channel_name": "itvあいテレビ",
-  "updated_at": "2026-11-19T22:37:21.088945",
+  "updated_at": "2026-11-20T22:09:55.948196",
   "videos": [
+    {
+      "id": "LjEhouSb68E",
+      "title": "愛媛のニュース(11月20日)",
+      "description": "",
+      "publishedAt": "2026-11-20T11:38:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LjEhouSb68E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LjEhouSb68E"
+    },
+    {
+      "id": "WfTogrzogUg",
+      "title": "【密着】難病の妹に寄り添ってきた”きょうだい児” 感情を閉じ込めていた少女がプロのパフォーマーを目指し葛藤",
+      "description": "",
+      "publishedAt": "2026-11-20T10:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/WfTogrzogUg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=WfTogrzogUg"
+    },
     {
       "id": "LCLoRtdffiw",
       "title": "愛媛のニュース(11月19日)",

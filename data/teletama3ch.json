@@ -1,8 +1,32 @@
 {
   "channel_id": "UCePu9zCrsJ7fRx1b2l07nMA",
   "channel_name": "テレ玉（テレビ埼玉）",
-  "updated_at": "2026-11-19T22:36:30.368716",
+  "updated_at": "2026-11-20T22:09:27.423501",
   "videos": [
+    {
+      "id": "xLwJQCIKaoQ",
+      "title": "教えて！歯医者さん～意外と知らない！正しい歯の磨き方～",
+      "description": "",
+      "publishedAt": "2026-11-20T02:59:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xLwJQCIKaoQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xLwJQCIKaoQ"
+    },
+    {
+      "id": "tyFmfYx1qcE",
+      "title": "【いろはに千鳥】ななまがりのボケを当てろ！QUIZななまがりPart6　後半戦【11/24予告】",
+      "description": "",
+      "publishedAt": "2026-11-20T01:22:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/tyFmfYx1qcE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=tyFmfYx1qcE"
+    },
     {
       "id": "CPsE08MozEc",
       "title": "【セレブ研究室 #3】りーまる夫婦と番組スタッフの“金銭感覚”の違いを徹底比較！",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-11-16T23:41:04.775284",
+  "updated_at": "2026-11-20T22:09:30.606872",
   "videos": [
+    {
+      "id": "c7xVWIBomFU",
+      "title": "No370みち子生姜糖【CM】",
+      "description": "",
+      "publishedAt": "2026-11-20T05:12:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c7xVWIBomFU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c7xVWIBomFU"
+    },
+    {
+      "id": "nrJaq3hjXEc",
+      "title": "倉敷天文台100周年 日本初の市民に開かれた天文台の歩み",
+      "description": "",
+      "publishedAt": "2026-11-20T01:38:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nrJaq3hjXEc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nrJaq3hjXEc"
+    },
     {
       "id": "rZ_R4lU-brE",
       "title": "岡山県信用保証協会「第3回　おかやま味と技の祭典」～販路開拓・テストマーケティング支援事業～（2026年11月16日放送）",
