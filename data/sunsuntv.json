@@ -1,8 +1,32 @@
 {
   "channel_id": "UCpgGl1uKYpx5eN-gvSnbCSQ",
   "channel_name": "高知さんさんテレビ（KSS）",
-  "updated_at": "2026-11-20T22:09:35.643588",
+  "updated_at": "2026-11-21T20:48:43.932485",
   "videos": [
+    {
+      "id": "aZoSE3r4ke4",
+      "title": "初開催！高知城でダンスコンテスト (26/11/21 18:00)",
+      "description": "",
+      "publishedAt": "2026-11-21T09:19:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aZoSE3r4ke4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aZoSE3r4ke4"
+    },
+    {
+      "id": "msvmBfUrYu0",
+      "title": "【高知】今季一番の冷え込みの中で新酒の瓶詰め体験 (26/11/21 18:00)",
+      "description": "",
+      "publishedAt": "2026-11-21T09:17:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/msvmBfUrYu0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=msvmBfUrYu0"
+    },
     {
       "id": "r-S7C_RdUhQ",
       "title": "“コメ余り”解消へ県庁で新プロジェクト　地元産のおかずと炊きたて白米で消費拡大へ【高知】 (26/11/18 19:09)",

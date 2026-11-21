@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-11-20T22:09:49.086883",
+  "updated_at": "2026-11-21T20:49:27.179298",
   "videos": [
+    {
+      "id": "dNxT1qBdvbo",
+      "title": "【番宣】１１月２８日（土）からふる",
+      "description": "",
+      "publishedAt": "2026-11-21T08:30:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dNxT1qBdvbo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dNxT1qBdvbo"
+    },
+    {
+      "id": "dbxPk-_FbLg",
+      "title": "くまもと、バド熱！　第８回「麻生専門学校グループpresents　1day熊本ハイスクールマスターズ」",
+      "description": "",
+      "publishedAt": "2026-11-21T00:30:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/dbxPk-_FbLg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=dbxPk-_FbLg"
+    },
     {
       "id": "klpx3Mryh_0",
       "title": "【第7回】おしゃべり！クッキンキッズ【ふわふわスクランブルエッグ】",

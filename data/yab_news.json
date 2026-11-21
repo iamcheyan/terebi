@@ -1,9 +1,44 @@
 {
   "channel_id": "UCKIglIH9_xIK0feahuKhJEQ",
   "channel_name": "yab山口ニュース",
-  "original_name": "yab山口ニュース",
-  "updated_at": "2026-11-20T22:10:27.192216",
+  "updated_at": "2026-11-21T20:49:05.682814",
   "videos": [
+    {
+      "id": "TjqS8jZDeWM",
+      "title": "【山口】野球やろうぜ！福岡ソフトバンクホークス 周南市で子どもたちと交流",
+      "description": "",
+      "publishedAt": "2026-11-21T09:16:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TjqS8jZDeWM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TjqS8jZDeWM"
+    },
+    {
+      "id": "RQEa7nLKa3A",
+      "title": "【山口】日向坂４６の元メンバー　下関出身の河田陽菜さんが一日警察署長",
+      "description": "",
+      "publishedAt": "2026-11-21T09:16:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/RQEa7nLKa3A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=RQEa7nLKa3A"
+    },
+    {
+      "id": "61c5Y-ZYQU8",
+      "title": "【山口】ＪＲ新山口駅で「駅弁まつり」 全国の選りすぐり！５０種類が一堂に",
+      "description": "",
+      "publishedAt": "2026-11-21T08:35:55+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/61c5Y-ZYQU8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=61c5Y-ZYQU8"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "O_qm_oDmbXHjFjOThX-9p1R7VIQ",

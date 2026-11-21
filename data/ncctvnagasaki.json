@@ -1,8 +1,20 @@
 {
   "channel_id": "UCWkqxFZQSdkR_q8kGz6p9mw",
   "channel_name": "NCC長崎文化放送",
-  "updated_at": "2026-11-20T22:09:47.037289",
+  "updated_at": "2026-11-21T20:49:25.020233",
   "videos": [
+    {
+      "id": "X-8lMEGO_Hk",
+      "title": "【期間限定配信】アナログ戦隊オガタマン",
+      "description": "",
+      "publishedAt": "2026-11-21T02:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X-8lMEGO_Hk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X-8lMEGO_Hk"
+    },
     {
       "id": "rlb03Lwr-WA",
       "title": "旧長崎市役所跡地へのNHK長崎放送局移転に向け市とNHKが検討進める基本合意",

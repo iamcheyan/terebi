@@ -1,8 +1,20 @@
 {
   "channel_id": "UC_kjSas3pQUlk1sKCn-h5Kw",
   "channel_name": "MRT宮崎放送",
-  "updated_at": "2026-11-19T22:37:09.852480",
+  "updated_at": "2026-11-21T20:49:24.398259",
   "videos": [
+    {
+      "id": "NcBzlr7oxGI",
+      "title": "アバンなドッキング",
+      "description": "",
+      "publishedAt": "2026-11-21T03:37:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/NcBzlr7oxGI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=NcBzlr7oxGI"
+    },
     {
       "id": "yIYJ02YVZPM",
       "title": "【第148回】だいちゃんと行く‼︎よりみちさんぽ〈自分時間どのくらいある？〉",
