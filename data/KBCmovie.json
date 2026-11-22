@@ -1,8 +1,32 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-11-21T20:48:57.041447",
+  "updated_at": "2026-11-22T20:57:41.945614",
   "videos": [
+    {
+      "id": "0U0lTPG6Y6Y",
+      "title": "つつみ屋｜故郷の味、いまもなお",
+      "description": "",
+      "publishedAt": "2026-11-22T09:00:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0U0lTPG6Y6Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0U0lTPG6Y6Y"
+    },
+    {
+      "id": "5kTckQdMJi0",
+      "title": "【はみだせKBC】ぎこちない二人のフルーツ狩り！賞味期限3分のジュースも登場！",
+      "description": "",
+      "publishedAt": "2026-11-22T03:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/5kTckQdMJi0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=5kTckQdMJi0"
+    },
     {
       "id": "dQdJilgmKhQ",
       "title": "のびしろ応援団 #110「30人で板割りを成功させたい！」清流道場 空手キッズたちの挑戦！",
