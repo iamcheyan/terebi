@@ -1,8 +1,32 @@
 {
   "channel_id": "UCrrsHarrLoiLTqu1LHxDJpw",
   "channel_name": "めざましテレビチャンネル（フジテレビ）",
-  "updated_at": "2026-11-20T22:09:38.438502",
+  "updated_at": "2026-11-24T02:02:41.400497",
   "videos": [
+    {
+      "id": "FUq89rm6FeM",
+      "title": "【公式】『ちいかわ』第107話「勉強会／再試験」※1週間限定配信＜12/1 (火)AM7:59まで＞",
+      "description": "",
+      "publishedAt": "2026-11-23T23:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FUq89rm6FeM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FUq89rm6FeM"
+    },
+    {
+      "id": "Eagvy6OPVYA",
+      "title": "『ガチャピン・ムック ねぇねぇきいて』第33話「鼻に舌をつけられる！」",
+      "description": "",
+      "publishedAt": "2026-11-23T03:00:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Eagvy6OPVYA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Eagvy6OPVYA"
+    },
     {
       "id": "Oa9qgTN06is",
       "title": "【リポーターやってください！映画「ワンダンス」】&TEAM JO 超特急 髙松アロハ「デートですね」銀座で東京初上陸グルメを大満喫！幻の黒豚とんかつ・ざくざく食感のブリュレシューも",

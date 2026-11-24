@@ -1,8 +1,44 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-11-20T22:09:48.884905",
+  "updated_at": "2026-11-24T02:03:09.529925",
   "videos": [
+    {
+      "id": "zQth2BB3tpU",
+      "title": "「戸田恵子さんが読み聞かせ　OURｷﾞｬﾗﾘｰ展受賞発表」2026/11/23放送",
+      "description": "",
+      "publishedAt": "2026-11-23T10:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zQth2BB3tpU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zQth2BB3tpU"
+    },
+    {
+      "id": "532JKX7BClo",
+      "title": "「《大学生が主体》防災の知識や心構えを楽しく学ぶ防災ｲﾍﾞﾝﾄ」2026/11/23放送",
+      "description": "",
+      "publishedAt": "2026-11-23T10:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/532JKX7BClo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=532JKX7BClo"
+    },
+    {
+      "id": "ZTpZ6aWpeoo",
+      "title": "「《紅葉の名所》高知市五台山の竹林寺で紅葉の見ごろ始まる」2026/11/23放送",
+      "description": "",
+      "publishedAt": "2026-11-23T03:09:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/ZTpZ6aWpeoo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ZTpZ6aWpeoo"
+    },
     {
       "id": "SMQQvIcrx1A",
       "title": "「《涙のロッカールーム》33大会ぶりの全国を目指した高知小津高校。「心のサッカー」で戦った80分」2026/11/20放送",

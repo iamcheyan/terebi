@@ -1,8 +1,151 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "updated_at": "2026-11-22T20:57:39.955088",
+  "original_name": "フジテレビ公式",
+  "updated_at": "2026-11-24T02:04:45.669357",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FSiqK3S_c3tX1qI22IKMSaoPwVg",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLlJjYnNTNjZFNTNF",
+      "snippet": {
+        "publishedAt": "2026-11-24T02:00:00Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "「≠ME 名無しのシンデレラ」第八話　ぶちかませ！（ダイジェスト版）",
+        "description": "『≠ME 名無しのシンデレラ』は、≠ME 新メンバーオーディションに完全密着するドキュメンタリー番組。\n全国から集まった少女たちが夢に挑む姿を、審査の舞台裏とともに描きます。\n\n≠MEの現役メンバーと候補生が3チームに分かれ、オーディションのテーマソング「名無しのシンデレラ」のパフォーマンスを完成させる5次審査。3日間の合宿で10名の候補生が何を感じどのような成長を遂げたのか。いよいよパフォーマンス披露の時を迎える。\n\n【番組HP】https://www.fujitv.co.jp/nem_audition/index.html\n【公式HP】https://not-equal-me.jp/feature/specialsite_nanashinocinderella\n【公式X】https://x.com/nem_audition\n【公式Instagram】https://www.instagram.com/nem_audition/?hl=ja\n【公式TikTok】https://www.tiktok.com/@nem_audition\n\n#ノイミー #名無しのシンデレラ #新メンバーオーディション#尾木波菜 #落合希来里 #蟹沢萌子 #河口夏音  #川中子奈月心   \n#櫻井もも #鈴木瞳美 #谷崎早耶 #冨田菜々風 #永田詩央里  #本田珠由記　#指原莉乃　#フジテレビ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RcbsS66E53E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RcbsS66E53E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RcbsS66E53E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RcbsS66E53E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RcbsS66E53E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RcbsS66E53E"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_mFllSrziTTDz2EXnlZrWTnBbLM",
+      "id": "VVU3X21Gem1qODl0cUFxZ3BsNTY5NVFRLlJEZ2lIcjNWTzkw",
+      "snippet": {
+        "publishedAt": "2026-11-24T01:55:26Z",
+        "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
+        "title": "#ネプリーグ 11月30日よる7時放送",
+        "description": "＜キャプション＞\n11/30(月)よる7時『#ネプリーグ』\n#林修 が現地調査！年末年始に行きたい国内旅行SP\n\nスタジオでは\n#ROIROM #浜川路己 と #大久保佳代子 が禁断の恋…!? 👀\n2人の恋の行方は !?\n\n【番組HP】\nhttps://www.fujitv.co.jp/nepleague/\n\n#ネプリーグ #ROIROM #浜川路己 #大久保佳代子",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RDgiHr3VO90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RDgiHr3VO90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RDgiHr3VO90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RDgiHr3VO90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RDgiHr3VO90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "フジテレビ公式",
+        "playlistId": "UU7_mFzmj89tqAqgpl5695QQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RDgiHr3VO90"
+        },
+        "videoOwnerChannelTitle": "フジテレビ公式",
+        "videoOwnerChannelId": "UC7_mFzmj89tqAqgpl5695QQ"
+      }
+    },
+    {
+      "id": "vhEIuuA-35E",
+      "title": "「kiDnap GAME」第8話直前！完全攻略ガイド",
+      "description": "",
+      "publishedAt": "2026-11-24T01:41:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/vhEIuuA-35E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=vhEIuuA-35E"
+    },
+    {
+      "id": "Y-1c6QkXhxg",
+      "title": "『救命病棟24時』×「新型日産キックス」サブストーリー",
+      "description": "",
+      "publishedAt": "2026-11-23T12:55:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Y-1c6QkXhxg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Y-1c6QkXhxg"
+    },
+    {
+      "id": "HkF2vc56kHo",
+      "title": "『救命病棟24時』8話予告【11月30日(月)よる9時】",
+      "description": "",
+      "publishedAt": "2026-11-23T12:54:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HkF2vc56kHo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HkF2vc56kHo"
+    },
+    {
+      "id": "nVEks6ND76I",
+      "title": "『救命病棟24時』×「新型日産キックス」サブストーリー 本編映像",
+      "description": "",
+      "publishedAt": "2026-11-23T12:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nVEks6ND76I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nVEks6ND76I"
+    },
     {
       "id": "r2a1V-YxcS4",
       "title": "【公式】ファントムシータの違和館 #6",
@@ -15411,6 +15554,18 @@
       "title": "月9『絶対零度～情報犯罪緊急捜査～』 5話予告 ‐フジテレビ系 11月3日(月)よる9時",
       "thumbnail": "https://i.ytimg.com/vi/BHq5iL-yUVE/maxresdefault.jpg",
       "url": "https://www.youtube.com/watch?v=BHq5iL-yUVE"
+    },
+    {
+      "id": "RcbsS66E53E",
+      "title": "「≠ME 名無しのシンデレラ」第八話　ぶちかませ！（ダイジェスト版）",
+      "thumbnail": "https://i.ytimg.com/vi/RcbsS66E53E/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RcbsS66E53E"
+    },
+    {
+      "id": "RDgiHr3VO90",
+      "title": "#ネプリーグ 11月30日よる7時放送",
+      "thumbnail": "https://i.ytimg.com/vi/RDgiHr3VO90/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RDgiHr3VO90"
     }
   ]
 }

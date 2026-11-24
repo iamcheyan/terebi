@@ -1,8 +1,32 @@
 {
   "channel_id": "UCoslznRuvXIAriI5z51-DPg",
   "channel_name": "サテレビ",
-  "updated_at": "2026-11-22T20:58:09.179671",
+  "updated_at": "2026-11-24T02:03:20.223265",
   "videos": [
+    {
+      "id": "ufCQmNL-JK4",
+      "title": "【あんてなサン】おとなりサン「みどり豊かなふるさと大賞（泉地区）」",
+      "description": "",
+      "publishedAt": "2026-11-23T00:00:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ufCQmNL-JK4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ufCQmNL-JK4"
+    },
+    {
+      "id": "6d2tpOuNHSE",
+      "title": "【あんてなサン】ふぉーかすサン「株式会社千代の一番」",
+      "description": "",
+      "publishedAt": "2026-11-23T00:00:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6d2tpOuNHSE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6d2tpOuNHSE"
+    },
     {
       "id": "2vfb7NL6GC0",
       "title": "【HR後のパフォーマンス秘話「来年は立石とできたら」】ホームラン40本宣言！教えて森下選手 #熱血タイガース党",

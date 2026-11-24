@@ -1,8 +1,20 @@
 {
   "channel_id": "UCi0G7DKWKF84acD3jKDCquQ",
   "channel_name": "メ～テレ（名古屋テレビ放送）",
-  "updated_at": "2026-11-21T20:49:13.875119",
+  "updated_at": "2026-11-24T02:02:25.226939",
   "videos": [
+    {
+      "id": "wv3grnobiRo",
+      "title": "超町人！チョコレートサムネット 11/29(日) 愛知・刈谷市編【メ～テレ】",
+      "description": "",
+      "publishedAt": "2026-11-23T06:08:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wv3grnobiRo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wv3grnobiRo"
+    },
     {
       "id": "AvBUYEgaEnI",
       "title": "【まるまる◎あいち】2026年11月21日放送 「サムライ・ニンジャ　フェスティバル　2026」",

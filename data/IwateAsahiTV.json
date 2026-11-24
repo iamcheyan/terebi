@@ -1,8 +1,44 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-11-21T20:48:59.972805",
+  "updated_at": "2026-11-24T02:02:30.228380",
   "videos": [
+    {
+      "id": "QMDsbbG3RTE",
+      "title": "【ライブ配信】久慈情報カメラ",
+      "description": "",
+      "publishedAt": "2026-11-24T01:01:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/QMDsbbG3RTE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=QMDsbbG3RTE"
+    },
+    {
+      "id": "GWK_vKdKHmI",
+      "title": "【ライブ配信】盛岡情報カメラ",
+      "description": "",
+      "publishedAt": "2026-11-24T00:50:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GWK_vKdKHmI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GWK_vKdKHmI"
+    },
+    {
+      "id": "A_C0eGeTFNE",
+      "title": "【Go！Go！いわて】2026年11月14日（土）＜室根大祭に参戦＞",
+      "description": "",
+      "publishedAt": "2026-11-23T09:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A_C0eGeTFNE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A_C0eGeTFNE"
+    },
     {
       "id": "1zHqqy4L3yQ",
       "title": "【ライブ配信】久慈情報カメラ",

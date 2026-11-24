@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-11-21T20:48:44.682709",
+  "updated_at": "2026-11-24T02:02:35.978301",
   "videos": [
+    {
+      "id": "0pe_gnxOssc",
+      "title": "【愛しの媛さんぽ】南予の鬼北町へおさんぽ♪",
+      "description": "",
+      "publishedAt": "2026-11-24T00:57:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0pe_gnxOssc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0pe_gnxOssc"
+    },
+    {
+      "id": "KEd109qCu04",
+      "title": "【ベジ得】春菊",
+      "description": "",
+      "publishedAt": "2026-11-24T00:57:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/KEd109qCu04/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=KEd109qCu04"
+    },
     {
       "id": "aa-ROdyndeI",
       "title": "【ゆ～ばら！】秋冬アイテムでトータルコーディネート！「三井アウトレットパーク 倉敷」からお届け！",

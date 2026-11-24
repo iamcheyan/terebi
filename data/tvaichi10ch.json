@@ -1,8 +1,44 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-11-21T20:49:10.209658",
+  "updated_at": "2026-11-24T02:02:33.453127",
   "videos": [
+    {
+      "id": "Tq67V56HfiM",
+      "title": "サイバークライシス～備えよ能動的サイバー防御～　第四話",
+      "description": "",
+      "publishedAt": "2026-11-23T14:06:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Tq67V56HfiM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Tq67V56HfiM"
+    },
+    {
+      "id": "wIaAJHjD2ss",
+      "title": "【LBS】群馬発 サブスク洗車 月980円で洗い放題",
+      "description": "",
+      "publishedAt": "2026-11-23T12:00:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wIaAJHjD2ss/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wIaAJHjD2ss"
+    },
+    {
+      "id": "yRcnxbo2BBY",
+      "title": "LBSクラブ中部スペシャル「食の未来を切り拓け！スタートアップ最前線」",
+      "description": "",
+      "publishedAt": "2026-11-23T02:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yRcnxbo2BBY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yRcnxbo2BBY"
+    },
     {
       "id": "OAQhoD5EvD0",
       "title": "【新エリア】狩猟体験ができる！野外民族博物館リトルワールド（愛知県犬山市）【あまドラ～天野っちのドライブしよう！！～】",

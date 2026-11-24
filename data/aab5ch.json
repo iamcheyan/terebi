@@ -1,8 +1,116 @@
 {
   "channel_id": "UCEobbi8fWt_DibQzOImnKqQ",
   "channel_name": "AAB秋田朝日放送",
-  "updated_at": "2026-11-22T20:57:55.150778",
+  "updated_at": "2026-11-24T02:02:56.620352",
   "videos": [
+    {
+      "id": "Zd2XZWr79ss",
+      "title": "【サタナビっ！】2026年11月28日(土)放送",
+      "description": "",
+      "publishedAt": "2026-11-24T01:15:50+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Zd2XZWr79ss/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Zd2XZWr79ss"
+    },
+    {
+      "id": "q5GDaAD5dbs",
+      "title": "今年の収穫が落ち着いてすぐにやってきた寒波　急に積もった雪からリンゴの枝を守る　秋田・鹿角市 (2026/11/23 19:16)",
+      "description": "",
+      "publishedAt": "2026-11-23T10:19:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/q5GDaAD5dbs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=q5GDaAD5dbs"
+    },
+    {
+      "id": "ayBWwZJuoEo",
+      "title": "「いい夫婦の日」に合わせ秋田市の大森山動物園で特別ツアー (2026/11/23 19:15)",
+      "description": "",
+      "publishedAt": "2026-11-23T10:16:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ayBWwZJuoEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ayBWwZJuoEo"
+    },
+    {
+      "id": "1T5ucR5cryQ",
+      "title": "企業が抱える課題に１０代の若者が挑む　斬新なアイデアで解決策を提案するビジネスプランコンテスト　秋田 (2026/11/23 18:58)",
+      "description": "",
+      "publishedAt": "2026-11-23T09:59:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/1T5ucR5cryQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=1T5ucR5cryQ"
+    },
+    {
+      "id": "pX6xvNAcurM",
+      "title": "３連休最終日秋田県内の様子は　“秋田犬スポット”がにぎわった一方で農作業に追われる人も (2026/11/23 18:53)",
+      "description": "",
+      "publishedAt": "2026-11-23T09:55:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/pX6xvNAcurM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=pX6xvNAcurM"
+    },
+    {
+      "id": "O-W0bslHL8c",
+      "title": "図書館や県内最大規模の遊び場も　湯沢駅近くに複合公共施設「Ｙｕｉｎａｓ（ゆいなす）」がオープン　秋田 (2026/11/23 18:51)",
+      "description": "",
+      "publishedAt": "2026-11-23T09:53:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O-W0bslHL8c/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O-W0bslHL8c"
+    },
+    {
+      "id": "cejl-GlSGkQ",
+      "title": "秋田市で７０代男性が海に転落しけが　所有する船の様子を見に来ていて足を滑らせたか (2026/11/23 19:23)",
+      "description": "",
+      "publishedAt": "2026-11-23T09:51:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/cejl-GlSGkQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=cejl-GlSGkQ"
+    },
+    {
+      "id": "fMF0eaIpr20",
+      "title": "「容疑者として捜査されている」　２０代男性が約６６０万円相当の暗号資産をだまし取られる　秋田 (2026/11/23 12:03)",
+      "description": "",
+      "publishedAt": "2026-11-23T03:05:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fMF0eaIpr20/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fMF0eaIpr20"
+    },
+    {
+      "id": "T_F5MMCjVHU",
+      "title": "最大１６万冊が所蔵できる図書館などが入る湯沢市の新施設「Ｙｕｉｎａｓ（ゆいなす）」がオープン (2026/11/23 12:03)",
+      "description": "",
+      "publishedAt": "2026-11-23T03:04:27+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/T_F5MMCjVHU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=T_F5MMCjVHU"
+    },
     {
       "id": "icdx4IC_aw4",
       "title": "「副業で…」「１０００万円を…」秋田県内で詐欺被害が相次ぐ (2026/11/22 19:30)",

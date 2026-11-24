@@ -1,8 +1,32 @@
 {
   "channel_id": "UCtDEkfJlNHq_ONjQnsX5YeA",
   "channel_name": "tvkテレビ神奈川",
-  "updated_at": "2026-11-21T20:49:05.365490",
+  "updated_at": "2026-11-24T02:02:49.179452",
   "videos": [
+    {
+      "id": "nqITt42T2R8",
+      "title": "Yokohama Live Cam 横浜定点ライブカメラ テレビ神奈川屋上",
+      "description": "",
+      "publishedAt": "2026-11-24T01:56:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nqITt42T2R8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nqITt42T2R8"
+    },
+    {
+      "id": "M6bW_hlG-6I",
+      "title": "カナフルTV　次回予告（11月29日放送）",
+      "description": "",
+      "publishedAt": "2026-11-23T04:00:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/M6bW_hlG-6I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=M6bW_hlG-6I"
+    },
     {
       "id": "q9bUpcY1Itg",
       "title": "ハマナビ　2026年11月21日放送　放送700回記念！横浜中華街絶品グルメ2026",

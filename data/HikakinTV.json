@@ -1,8 +1,32 @@
 {
   "channel_id": "UCX1xppLvuj03ubLio8jslyA",
   "channel_name": "HikakinTV",
-  "updated_at": "2026-11-21T20:49:19.664182",
+  "updated_at": "2026-11-24T02:03:01.928014",
   "videos": [
+    {
+      "id": "GJVg7Jht1WU",
+      "title": "あれから12年。また悪いことしに来ました。【GTA6】",
+      "description": "",
+      "publishedAt": "2026-11-23T10:47:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GJVg7Jht1WU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GJVg7Jht1WU"
+    },
+    {
+      "id": "ca7owXr6FeA",
+      "title": "【GTA6】ヒカキン、悪いことしてきます。【グラセフ6 生配信】",
+      "description": "",
+      "publishedAt": "2026-11-23T10:30:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ca7owXr6FeA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ca7owXr6FeA"
+    },
     {
       "id": "WSC17rEbb7Q",
       "title": "【マインクラフト】桜の村を丸ごと紅葉させてみた。【ヒカクラ2 Part179】",

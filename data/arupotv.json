@@ -1,8 +1,44 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-11-22T20:58:02.367483",
+  "updated_at": "2026-11-24T02:03:09.197944",
   "videos": [
+    {
+      "id": "aRT_l3EJji0",
+      "title": "【番宣】１１月２６日（木）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-11-24T00:19:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aRT_l3EJji0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aRT_l3EJji0"
+    },
+    {
+      "id": "ItGaEN3jHoY",
+      "title": "【番宣】１１月２５日（水）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-11-24T00:17:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ItGaEN3jHoY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ItGaEN3jHoY"
+    },
+    {
+      "id": "9yxzjKC9cuo",
+      "title": "【第7回】おしゃべり！クッキンキッズ【ふわふわスクランブルエッグ】",
+      "description": "",
+      "publishedAt": "2026-11-23T23:51:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9yxzjKC9cuo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9yxzjKC9cuo"
+    },
     {
       "id": "DxYeBgzIjmI",
       "title": "第128回 めざせ！くまもとの若き匠たち【球磨工業高校 建築科】",

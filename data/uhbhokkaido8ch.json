@@ -1,8 +1,20 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-11-22T20:58:06.375162",
+  "updated_at": "2026-11-24T02:03:16.561732",
   "videos": [
+    {
+      "id": "Nqf2HP7aviU",
+      "title": "みんテレ　11月24日（火）放送",
+      "description": "",
+      "publishedAt": "2026-11-23T10:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Nqf2HP7aviU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Nqf2HP7aviU"
+    },
     {
       "id": "T8BPvKtXQ5I",
       "title": "松本裕子の病を知るー11月22日　光がひらく命の選択⑦　血液の病に挑む　骨髄・臍帯血移植がひらく未来",

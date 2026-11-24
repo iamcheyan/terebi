@@ -1,8 +1,56 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "updated_at": "2026-11-20T22:09:40.548165",
+  "original_name": "ABS秋田放送",
+  "updated_at": "2026-11-24T02:04:53.041966",
   "videos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zMMF09BlO1PC9YS2KMH8EZnVvfQ",
+      "id": "VVVWUnM4ZFltOU9ILV9nNFY4NEJmYlF3LnAtSnVSWWRLWXZv",
+      "snippet": {
+        "publishedAt": "2026-11-24T02:03:28Z",
+        "channelId": "UCVRs8dYm9OH-_g4V84BfbQw",
+        "title": "【プロ直伝！簡単レシピ】蟹とさつま芋のホワイトソース  カラフルな野菜仕立て     by 岸 紀雄",
+        "description": "誰でも簡単においしく出来るレシピを紹介！\n今回は ホテルメトロポリタン秋田 総料理長の岸 紀雄さんが「蟹とさつま芋のホワイトソース  カラフルな野菜仕立て」をつくります。\n\n【えび☆ステ　シェフズレシピ】\n詳しいレシピは番組HPから\nhttps://www.akita-abs.co.jp/blog/abst/archives/category/recipe\n\n#えびステ #レシピ #蟹 #さつま芋 #ホワイトソース #おしゃれ #簡単 #岸紀雄 #カニ #さつまいも",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p-JuRYdKYvo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p-JuRYdKYvo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p-JuRYdKYvo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p-JuRYdKYvo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p-JuRYdKYvo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABS秋田放送",
+        "playlistId": "UUVRs8dYm9OH-_g4V84BfbQw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p-JuRYdKYvo"
+        },
+        "videoOwnerChannelTitle": "ABS秋田放送",
+        "videoOwnerChannelId": "UCVRs8dYm9OH-_g4V84BfbQw"
+      }
+    },
     {
       "id": "rFEw5MmsPko",
       "title": "楽天ルーキー生出演！伊藤樹＆藤原聡大 ドキドキの初登板は⁉",
@@ -20712,6 +20760,12 @@
         "videoOwnerChannelTitle": "ABS秋田放送",
         "videoOwnerChannelId": "UCVRs8dYm9OH-_g4V84BfbQw"
       }
+    },
+    {
+      "id": "p-JuRYdKYvo",
+      "title": "【プロ直伝！簡単レシピ】蟹とさつま芋のホワイトソース  カラフルな野菜仕立て     by 岸 紀雄",
+      "thumbnail": "https://i.ytimg.com/vi/p-JuRYdKYvo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p-JuRYdKYvo"
     }
   ]
 }
