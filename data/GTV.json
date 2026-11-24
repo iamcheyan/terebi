@@ -1,8 +1,104 @@
 {
   "channel_id": "UCYwPpbi6PqfY1KJbg4H6xwA",
   "channel_name": "群馬テレビ",
-  "updated_at": "2026-11-24T02:03:23.693874",
+  "updated_at": "2026-11-24T23:47:58.235936",
   "videos": [
+    {
+      "id": "iiGQrrtoLEo",
+      "title": "【つながる３５市町村】紅葉スポットや歴史名所をめぐる「甘楽もみじウォーク」開催＝甘楽町＝(26/11/24)",
+      "description": "",
+      "publishedAt": "2026-11-24T11:19:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iiGQrrtoLEo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iiGQrrtoLEo"
+    },
+    {
+      "id": "6Ng0_l_Q_DE",
+      "title": "【１１／２４】群馬のニュースをまとめてお伝えします▽クマ目撃から一週間　警戒続くなか小中学校などが再開　群馬・前橋市　ほか",
+      "description": "",
+      "publishedAt": "2026-11-24T10:27:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/6Ng0_l_Q_DE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=6Ng0_l_Q_DE"
+    },
+    {
+      "id": "AdKKshy4CG4",
+      "title": "【Deli-J 12月号より】Road to 湯けむり国スポ・全スポ群馬　群馬のアスリートたち(26/11/24)",
+      "description": "",
+      "publishedAt": "2026-11-24T10:19:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AdKKshy4CG4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AdKKshy4CG4"
+    },
+    {
+      "id": "rpTU7ywu32E",
+      "title": "クマ目撃から一週間　警戒続くなか小中学校などが再開　群馬・前橋市(26/11/24)",
+      "description": "",
+      "publishedAt": "2026-11-24T10:16:25+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rpTU7ywu32E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rpTU7ywu32E"
+    },
+    {
+      "id": "Edx7j3waapI",
+      "title": "地元企業が子ども支援に１００万円寄付　群馬・藤岡市(26/11/24)",
+      "description": "",
+      "publishedAt": "2026-11-24T10:13:47+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/Edx7j3waapI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Edx7j3waapI"
+    },
+    {
+      "id": "k4WyOLfzELI",
+      "title": "開発途上国の行政官が日本の観光振興や農業を学ぶ　群馬・富岡市(26/11/24)",
+      "description": "",
+      "publishedAt": "2026-11-24T10:12:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/k4WyOLfzELI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=k4WyOLfzELI"
+    },
+    {
+      "id": "7Wa7Rv220nk",
+      "title": "群馬・昭和村議会議員選挙告示　定数１２に１３人が立候補(26/11/24)",
+      "description": "",
+      "publishedAt": "2026-11-24T10:11:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/7Wa7Rv220nk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=7Wa7Rv220nk"
+    },
+    {
+      "id": "Rv0GVxL_6iE",
+      "title": "看護師４００人が研究・実践の成果を発表　群馬・前橋市(26/11/24)",
+      "description": "",
+      "publishedAt": "2026-11-24T10:10:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Rv0GVxL_6iE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Rv0GVxL_6iE"
+    },
     {
       "id": "kXC5kXzyYDc",
       "title": "車と衝突し新聞配達中の男性が死亡　群馬・太田市(26/11/23)",

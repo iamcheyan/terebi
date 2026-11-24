@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-20T22:09:23.095514",
+  "updated_at": "2026-11-24T23:47:37.991057",
   "videos": [
+    {
+      "id": "HHblTdOXe0Y",
+      "title": "【満蒙開拓団】開拓団の記憶と教訓を未来にどう残していくのか",
+      "description": "",
+      "publishedAt": "2026-11-24T05:03:05+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/HHblTdOXe0Y/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=HHblTdOXe0Y"
+    },
+    {
+      "id": "V21yMPxRdSc",
+      "title": "-【準大賞・ふるさと納税ごちそうアワード】２度の大きな災害を乗り越えて。大船渡市の北日本水産が準大賞を受賞",
+      "description": "",
+      "publishedAt": "2026-11-24T05:02:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/V21yMPxRdSc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=V21yMPxRdSc"
+    },
     {
       "id": "KGDnvs4kGjQ",
       "title": "【ブドウ灰のガラス】ブドウの品種や灰の混ぜ方などによって、様々に色を変える大迫ならではのガラス",

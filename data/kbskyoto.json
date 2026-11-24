@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-11-20T22:09:26.156937",
+  "updated_at": "2026-11-24T23:47:38.828086",
   "videos": [
+    {
+      "id": "kA9kjmt5YWI",
+      "title": "【特集】「断らない医療」で地域医療を支える病院／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-11-24T09:00:21+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kA9kjmt5YWI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kA9kjmt5YWI"
+    },
     {
       "id": "Sula52itpgg",
       "title": "【インタビュー】石井玄さん『自分でやらないほうがうまくいく』／きょうと経済テラス キュンと！",

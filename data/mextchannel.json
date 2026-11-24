@@ -1,8 +1,32 @@
 {
   "channel_id": "UCL2DLwqqYxa0Q5DcGoQGbrw",
   "channel_name": "文部科学省（MEXT）",
-  "updated_at": "2026-11-20T22:09:37.758579",
+  "updated_at": "2026-11-24T23:47:34.027202",
   "videos": [
+    {
+      "id": "nXTbTvSUbIk",
+      "title": "令和８年度学校魅力化フォーラム",
+      "description": "",
+      "publishedAt": "2026-11-24T06:00:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nXTbTvSUbIk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nXTbTvSUbIk"
+    },
+    {
+      "id": "jj91kzkBjvk",
+      "title": "関文部科学大臣記者会見（令和8年11月24日）：文部科学省",
+      "description": "",
+      "publishedAt": "2026-11-24T04:40:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/jj91kzkBjvk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=jj91kzkBjvk"
+    },
     {
       "id": "__miTMCiuWA",
       "title": "大学による『リ・スキリング』の現在地と展望│淵上孝氏（文部科学省総合教育政策局長）×丹羽恵久氏（ボストンコンサルティンググループ）",

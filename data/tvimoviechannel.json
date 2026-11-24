@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-24T02:03:14.516925",
+  "updated_at": "2026-11-24T23:47:51.853663",
   "videos": [
+    {
+      "id": "Z5oY9htL2QU",
+      "title": "今日の５きげんテレビ（11月25日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-24T15:00:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Z5oY9htL2QU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Z5oY9htL2QU"
+    },
+    {
+      "id": "boOMcVJTdbg",
+      "title": "今から使える！洋食のテーブルマナー in 盛岡グランドホテル",
+      "description": "",
+      "publishedAt": "2026-11-24T10:46:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/boOMcVJTdbg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=boOMcVJTdbg"
+    },
+    {
+      "id": "yn5Jy49wglM",
+      "title": "チキンとキノコのホットサンド| ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-24T08:45:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/yn5Jy49wglM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=yn5Jy49wglM"
+    },
     {
       "id": "ZY2WaZoZQY8",
       "title": "今日の５きげんテレビ（11月24日）｜テレビ岩手",

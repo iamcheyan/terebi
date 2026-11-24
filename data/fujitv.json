@@ -1,9 +1,56 @@
 {
   "channel_id": "UC7_mFzmj89tqAqgpl5695QQ",
   "channel_name": "フジテレビ公式",
-  "original_name": "フジテレビ公式",
-  "updated_at": "2026-11-24T02:04:45.669357",
+  "updated_at": "2026-11-24T23:47:38.112377",
   "videos": [
+    {
+      "id": "61RVCF1vXFs",
+      "title": "【2分で追いつける！】第8話11/25水曜22時「ポリティカルパン」",
+      "description": "",
+      "publishedAt": "2026-11-24T12:59:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/61RVCF1vXFs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=61RVCF1vXFs"
+    },
+    {
+      "id": "m27i5inWgjw",
+      "title": "「kiDnap GAME」第9話予告30秒【12月1日（火）放送】",
+      "description": "",
+      "publishedAt": "2026-11-24T12:54:00+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m27i5inWgjw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m27i5inWgjw"
+    },
+    {
+      "id": "kfhXoZWKA74",
+      "title": "【ウワサのお客さま】ロイヤルホストに30年以上通うウワサの芸能人だ〜れだ？［11月27日よる8時はウワサのお客さま］",
+      "description": "",
+      "publishedAt": "2026-11-24T05:09:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/kfhXoZWKA74/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=kfhXoZWKA74"
+    },
+    {
+      "id": "Kef0j_TDGoc",
+      "title": "2027年1月12日放送！ジェシー主演・火9ドラマ『ハボウの轍』▶︎▶︎▶︎【ジェシー×長濱ねる】特別コメント動画到着！",
+      "description": "",
+      "publishedAt": "2026-11-24T03:06:09+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kef0j_TDGoc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kef0j_TDGoc"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "FSiqK3S_c3tX1qI22IKMSaoPwVg",

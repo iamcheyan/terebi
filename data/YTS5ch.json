@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-11-21T20:48:50.065571",
+  "updated_at": "2026-11-24T23:47:34.393979",
   "videos": [
+    {
+      "id": "ghZxrSrnm7A",
+      "title": "麩山の麩めぐり第２弾 YTSゴジダス水曜情報局",
+      "description": "",
+      "publishedAt": "2026-11-24T05:41:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/ghZxrSrnm7A/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ghZxrSrnm7A"
+    },
     {
       "id": "vpE5wxb3TJ8",
       "title": "第2856回 やまがた景観賞決定「提言の広場」",

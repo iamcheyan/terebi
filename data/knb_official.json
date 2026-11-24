@@ -1,8 +1,20 @@
 {
   "channel_id": "UCTM81fmkj8bn0ILNdrKkTBA",
   "channel_name": "KNB北日本放送",
-  "updated_at": "2026-11-17T22:49:22.868377",
+  "updated_at": "2026-11-24T23:47:45.831682",
   "videos": [
+    {
+      "id": "xZOLFkdFptw",
+      "title": "【旬景とやま】富山湾 冬の表情",
+      "description": "",
+      "publishedAt": "2026-11-24T10:43:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xZOLFkdFptw/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xZOLFkdFptw"
+    },
     {
       "id": "u-Tdqd9MdYQ",
       "title": "【旬景とやま】立山 冬へ",

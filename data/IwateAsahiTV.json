@@ -1,8 +1,32 @@
 {
   "channel_id": "UCPPyaDqgxNlbiyOkq2FzMOQ",
   "channel_name": "IAT岩手朝日テレビ",
-  "updated_at": "2026-11-24T02:02:30.228380",
+  "updated_at": "2026-11-24T23:47:35.336257",
   "videos": [
+    {
+      "id": "m42FeuBhZjc",
+      "title": "脳性まひ者サッカー「CPサッカー」 Ｗ杯出場　26歳の思い【Jチャンいわて動画】",
+      "description": "",
+      "publishedAt": "2026-11-24T11:44:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/m42FeuBhZjc/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=m42FeuBhZjc"
+    },
+    {
+      "id": "exWF7bG8wM8",
+      "title": "【Go！Go！いわて】11月28日（土）予告",
+      "description": "",
+      "publishedAt": "2026-11-24T09:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/exWF7bG8wM8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=exWF7bG8wM8"
+    },
     {
       "id": "QMDsbbG3RTE",
       "title": "【ライブ配信】久慈情報カメラ",
