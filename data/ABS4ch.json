@@ -1,9 +1,20 @@
 {
   "channel_id": "UCVRs8dYm9OH-_g4V84BfbQw",
   "channel_name": "ABS秋田放送",
-  "original_name": "ABS秋田放送",
-  "updated_at": "2026-11-24T02:04:53.041966",
+  "updated_at": "2026-11-25T23:31:09.794800",
   "videos": [
+    {
+      "id": "nT4gRSkwFYM",
+      "title": "【スタジアム問題】ふるさと納税 県知事と市長の発言ノーカット",
+      "description": "",
+      "publishedAt": "2026-11-25T01:17:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nT4gRSkwFYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nT4gRSkwFYM"
+    },
     {
       "kind": "youtube#playlistItem",
       "etag": "zMMF09BlO1PC9YS2KMH8EZnVvfQ",

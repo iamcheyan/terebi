@@ -1,8 +1,44 @@
 {
   "channel_id": "UC7f4czw8TuG69HuVt_uXRtQ",
   "channel_name": "MBC南日本放送",
-  "updated_at": "2026-11-24T23:47:46.911336",
+  "updated_at": "2026-11-25T23:31:21.781177",
   "videos": [
+    {
+      "id": "VU4O0Mv8onY",
+      "title": "【12月2日(水) 夜8時～】どーんと鹿児島「愛され続ける町中華」",
+      "description": "",
+      "publishedAt": "2026-11-25T11:54:19+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VU4O0Mv8onY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VU4O0Mv8onY"
+    },
+    {
+      "id": "nmaHzNIiMis",
+      "title": "【かごしま南北600キロ】県内では珍しい「コハクチョウ」　下甑島に飛来（2026年11月24日放送）",
+      "description": "",
+      "publishedAt": "2026-11-25T08:33:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nmaHzNIiMis/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nmaHzNIiMis"
+    },
+    {
+      "id": "IUEeLO01Fwo",
+      "title": "ロイヤルホスト鹿児島店「閉店せず」　ロイヤルホールディングスが発表を訂正　(MBCニューズナウ 2026年11月24日放送）",
+      "description": "",
+      "publishedAt": "2026-11-25T02:43:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/IUEeLO01Fwo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=IUEeLO01Fwo"
+    },
     {
       "id": "yRLoqaS4ekI",
       "title": "#29「我が家の子供のちょっと笑える武勇伝！」",

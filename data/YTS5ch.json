@@ -1,8 +1,20 @@
 {
   "channel_id": "UCayCFjTKn1SsljcNvzYlDRQ",
   "channel_name": "YTS山形テレビ",
-  "updated_at": "2026-11-24T23:47:34.393979",
+  "updated_at": "2026-11-25T23:30:25.623003",
   "videos": [
+    {
+      "id": "wbFr1N8r0O0",
+      "title": "【あさは５ちゃん！】2026年11月28日放送",
+      "description": "",
+      "publishedAt": "2026-11-25T01:29:43+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/wbFr1N8r0O0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=wbFr1N8r0O0"
+    },
     {
       "id": "ghZxrSrnm7A",
       "title": "麩山の麩めぐり第２弾 YTSゴジダス水曜情報局",

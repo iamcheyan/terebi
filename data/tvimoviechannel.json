@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-24T23:47:51.853663",
+  "updated_at": "2026-11-25T23:31:33.122003",
   "videos": [
+    {
+      "id": "F_Eezo5S7mk",
+      "title": "今日の５きげんテレビ（11月26日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-25T15:00:37+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/F_Eezo5S7mk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=F_Eezo5S7mk"
+    },
+    {
+      "id": "UCmFQhUbEg0",
+      "title": "コーンクリームホットサンド| ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-25T08:38:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/UCmFQhUbEg0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=UCmFQhUbEg0"
+    },
     {
       "id": "Z5oY9htL2QU",
       "title": "今日の５きげんテレビ（11月25日）｜テレビ岩手",

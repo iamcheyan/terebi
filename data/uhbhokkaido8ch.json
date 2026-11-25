@@ -1,8 +1,32 @@
 {
   "channel_id": "UCBJbV6hW2sfcA2ugwKFBmxw",
   "channel_name": "UHB北海道文化放送",
-  "updated_at": "2026-11-24T23:47:53.299011",
+  "updated_at": "2026-11-25T23:31:36.673422",
   "videos": [
+    {
+      "id": "85I467iYE-I",
+      "title": "みんテレ　11月26日（木）放送",
+      "description": "",
+      "publishedAt": "2026-11-25T10:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/85I467iYE-I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=85I467iYE-I"
+    },
+    {
+      "id": "luc8Zo0ReDk",
+      "title": "藤森湯【2026年11月29日(日)ごご4時～5時】",
+      "description": "",
+      "publishedAt": "2026-11-25T06:33:53+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/luc8Zo0ReDk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=luc8Zo0ReDk"
+    },
     {
       "id": "KZTUZwBwhfE",
       "title": "みんテレ　11月25日（水）放送",

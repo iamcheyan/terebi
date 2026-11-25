@@ -1,8 +1,20 @@
 {
   "channel_id": "UCRIIrdFTB6jdToXF8KkJQFQ",
   "channel_name": "テレビ和歌山（WTV）",
-  "updated_at": "2026-11-24T23:47:34.567921",
+  "updated_at": "2026-11-25T23:30:35.584643",
   "videos": [
+    {
+      "id": "O7J5cpmpua8",
+      "title": "【WAKAYAMA SDGs】#064- 株式会社紀陽銀行②",
+      "description": "",
+      "publishedAt": "2026-11-25T09:19:40+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/O7J5cpmpua8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=O7J5cpmpua8"
+    },
     {
       "id": "CI0dnLnikMM",
       "title": "小型ロケット「カイロス」4号機打上げ 来年1/22(金)午後3時 スペースワン発表 和歌山県",

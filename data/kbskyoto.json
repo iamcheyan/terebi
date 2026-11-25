@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-11-24T23:47:38.828086",
+  "updated_at": "2026-11-25T23:30:27.818760",
   "videos": [
+    {
+      "id": "LljaX0D8srY",
+      "title": "京大キャンパスにある本格フレンチレストラン／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-11-25T09:00:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LljaX0D8srY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LljaX0D8srY"
+    },
+    {
+      "id": "LW1DB25J198",
+      "title": "【生配信】「中村静香の京都海釣り日和」LIVE配信特別企画 ～海の京都・宮津沖からマダイ釣りに挑戦！～",
+      "description": "",
+      "publishedAt": "2026-11-25T00:36:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LW1DB25J198/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LW1DB25J198"
+    },
     {
       "id": "kA9kjmt5YWI",
       "title": "【特集】「断らない医療」で地域医療を支える病院／きょうと経済テラス キュンと！",

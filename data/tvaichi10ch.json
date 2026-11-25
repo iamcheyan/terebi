@@ -1,8 +1,20 @@
 {
   "channel_id": "UCaMuCIUszPKEx8966ZCVfGw",
   "channel_name": "テレビ愛知",
-  "updated_at": "2026-11-24T23:47:28.944808",
+  "updated_at": "2026-11-25T23:31:03.811097",
   "videos": [
+    {
+      "id": "JhoKHScUqkY",
+      "title": "【LBS】NASAも使った「風を読む」装置",
+      "description": "",
+      "publishedAt": "2026-11-25T12:00:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JhoKHScUqkY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JhoKHScUqkY"
+    },
     {
       "id": "2Z3-f0PpswA",
       "title": "【カイインダストリーズ株式会社】貝印で知られる世界的な総合刃物メーカー【開発現場へ行こう #90】",

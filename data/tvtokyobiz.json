@@ -1,8 +1,188 @@
 {
   "channel_id": "UCkKVQ_GNjd8FbAuT6xDcWgg",
   "channel_name": "テレ東BIZ",
-  "updated_at": "2026-11-24T23:47:41.895059",
+  "updated_at": "2026-11-25T23:31:07.132059",
   "videos": [
+    {
+      "id": "xqbaJpQ9fTE",
+      "title": "米司法省 フアンCEO巡り 「安保リスクなし」捜査せず判断か【モーサテ】",
+      "description": "",
+      "publishedAt": "2026-11-25T22:54:48+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/xqbaJpQ9fTE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=xqbaJpQ9fTE"
+    },
+    {
+      "id": "fh08grpxHYM",
+      "title": "米ベージュブック 経済活動「緩やか」に拡大【モーサテ】",
+      "description": "",
+      "publishedAt": "2026-11-25T22:54:45+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/fh08grpxHYM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=fh08grpxHYM"
+    },
+    {
+      "id": "YX5HikoihwE",
+      "title": "米GDP改定値 大幅上方修正 2023年以来の高い伸び【モーサテ】",
+      "description": "",
+      "publishedAt": "2026-11-25T22:54:42+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/YX5HikoihwE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=YX5HikoihwE"
+    },
+    {
+      "id": "c3-Z6BkTlLo",
+      "title": "米PCE物価指数↑3.8% 3カ月連続加速 利上げ確実か【モーサテ】",
+      "description": "",
+      "publishedAt": "2026-11-25T22:54:39+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c3-Z6BkTlLo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c3-Z6BkTlLo"
+    },
+    {
+      "id": "GBVtrdLT5ps",
+      "title": "米トランプ政権が新関税案 日本など14カ国･地域に【モーサテ】",
+      "description": "",
+      "publishedAt": "2026-11-25T22:54:35+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GBVtrdLT5ps/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GBVtrdLT5ps"
+    },
+    {
+      "id": "8uRMqixigFY",
+      "title": "節約志向で格安おせち拡充 ローソンストア100【WBS】",
+      "description": "",
+      "publishedAt": "2026-11-25T15:01:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/8uRMqixigFY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=8uRMqixigFY"
+    },
+    {
+      "id": "X2uYb6Ty1mg",
+      "title": "冷凍総菜を本格展開へ シャトレーゼ カレーやピザ【WBS】",
+      "description": "",
+      "publishedAt": "2026-11-25T15:01:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/X2uYb6Ty1mg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=X2uYb6Ty1mg"
+    },
+    {
+      "id": "c36lu-PPHPk",
+      "title": "非上場株の評価変更見送り 税制改正大綱に盛り込まず【WBS】",
+      "description": "",
+      "publishedAt": "2026-11-25T15:00:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/c36lu-PPHPk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=c36lu-PPHPk"
+    },
+    {
+      "id": "VKSNWi47zC8",
+      "title": "タイムズ 見舞金12月から 免許画像漏えいで3000円【WBS】",
+      "description": "",
+      "publishedAt": "2026-11-25T15:00:54+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VKSNWi47zC8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VKSNWi47zC8"
+    },
+    {
+      "id": "DhgzUoGokzk",
+      "title": "“逆輸入”カムリの受注開始 トヨタ 米の工場で生産【WBS】",
+      "description": "",
+      "publishedAt": "2026-11-25T15:00:51+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/DhgzUoGokzk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=DhgzUoGokzk"
+    },
+    {
+      "id": "i_KJmxNA49g",
+      "title": "機内食は基本なし ZIPAIR Tokyoの秘密 #カンブリア宮殿 #ジップエア #機内食 #ギャレー #航空 #飛行機",
+      "description": "",
+      "publishedAt": "2026-11-25T12:00:32+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/i_KJmxNA49g/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=i_KJmxNA49g"
+    },
+    {
+      "id": "qc0wWzMnt98",
+      "title": "年収300万円から脱サラ実現！「増配株」投資家・Rickyの投資術　インタビュー完全版【WBS】",
+      "description": "",
+      "publishedAt": "2026-11-25T12:00:26+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/qc0wWzMnt98/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=qc0wWzMnt98"
+    },
+    {
+      "id": "s-YMjc7zGrE",
+      "title": "三井化学橋本修会長インタビュー　半導体材料大手JSRの巨額買収の舞台裏",
+      "description": "",
+      "publishedAt": "2026-11-25T11:30:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s-YMjc7zGrE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s-YMjc7zGrE"
+    },
+    {
+      "id": "s-92RGfA8wE",
+      "title": "創業460年超「治具」の老舗！車1台を掴む驚異の固定技術で世界のモノづくりを支える ナベヤ【知られざるガリバー】",
+      "description": "",
+      "publishedAt": "2026-11-25T11:00:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/s-92RGfA8wE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=s-92RGfA8wE"
+    },
+    {
+      "id": "2EcHFtwpjjU",
+      "title": "不正アクセス急増！今すぐできる資産防衛術【マネーのまなび】",
+      "description": "",
+      "publishedAt": "2026-11-25T10:00:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/2EcHFtwpjjU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=2EcHFtwpjjU"
+    },
     {
       "id": "O_zBe3Irfs4",
       "title": "露ミサイル落下で NATOが警戒管制機を配備【WBS】",

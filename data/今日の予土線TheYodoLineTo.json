@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-11-24T23:47:57.540841",
+  "updated_at": "2026-11-25T23:31:45.815000",
   "videos": [
+    {
+      "id": "iXmyy0ydrsQ",
+      "title": "261125 140012 ちいさな鉄橋",
+      "description": "",
+      "publishedAt": "2026-11-25T12:49:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/iXmyy0ydrsQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=iXmyy0ydrsQ"
+    },
+    {
+      "id": "aidp3pTSitQ",
+      "title": "261125 135427 大内第２踏切（かっぱ列車通過、警笛付き）",
+      "description": "",
+      "publishedAt": "2026-11-25T12:35:52+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/aidp3pTSitQ/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=aidp3pTSitQ"
+    },
+    {
+      "id": "Bok4_dchBak",
+      "title": "261125 135114 大内第２踏切",
+      "description": "",
+      "publishedAt": "2026-11-25T12:30:02+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Bok4_dchBak/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Bok4_dchBak"
+    },
     {
       "id": "K8ruhBLT73A",
       "title": "261124 180754 夜の近永駅 Part 2",

@@ -1,8 +1,44 @@
 {
   "channel_id": "UCiG4XTTT2_mvfTPAtXGT4vQ",
   "channel_name": "広島ホームテレビ（HOME）",
-  "updated_at": "2026-11-24T23:47:33.311117",
+  "updated_at": "2026-11-25T23:30:37.657173",
   "videos": [
+    {
+      "id": "srte18TyoTg",
+      "title": "【Podcast動画】ポッとｄｅ！#35「いよいよ年末モード！西名＆那津美　嫁2人のポンコツお掃除エピソード」",
+      "description": "",
+      "publishedAt": "2026-11-25T10:00:07+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/srte18TyoTg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=srte18TyoTg"
+    },
+    {
+      "id": "zZiAn2bX2KA",
+      "title": "【大切な瞬間を彩る結納用品を扱うお店】",
+      "description": "",
+      "publishedAt": "2026-11-25T09:30:01+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/zZiAn2bX2KA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=zZiAn2bX2KA"
+    },
+    {
+      "id": "GOyPOrJ_PI4",
+      "title": "【キッズチャレンジスタジアム】しょうまくん＿広テレ",
+      "description": "",
+      "publishedAt": "2026-11-25T09:00:04+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/GOyPOrJ_PI4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=GOyPOrJ_PI4"
+    },
     {
       "id": "PSwW7tZmnIs",
       "title": "【月刊ドラゴンフライズ11月号】Bプレミア日本人選手の生きる道(2026年)",

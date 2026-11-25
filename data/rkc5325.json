@@ -1,8 +1,20 @@
 {
   "channel_id": "UCI8NjCAztJIipObtK1sYueQ",
   "channel_name": "RKC高知放送",
-  "updated_at": "2026-11-24T23:47:49.315752",
+  "updated_at": "2026-11-25T23:31:26.811220",
   "videos": [
+    {
+      "id": "ikwqQLVsfPM",
+      "title": "11/27(金)放送「きいてMIHOちゃんねる」",
+      "description": "",
+      "publishedAt": "2026-11-25T03:06:46+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/ikwqQLVsfPM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=ikwqQLVsfPM"
+    },
     {
       "id": "4xbUX6DI3bA",
       "title": "「《ドローンで楽しむ紅葉》香美市のべふ峡＆轟の滝」2026/11/24放送",
