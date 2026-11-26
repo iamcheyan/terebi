@@ -1,8 +1,32 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-25T23:31:33.122003",
+  "updated_at": "2026-11-26T23:33:19.408347",
   "videos": [
+    {
+      "id": "TAW-UiszrBg",
+      "title": "今日の５きげんテレビ（11月27日）｜テレビ岩手",
+      "description": "",
+      "publishedAt": "2026-11-26T15:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TAW-UiszrBg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TAW-UiszrBg"
+    },
+    {
+      "id": "SytgEPG4mGk",
+      "title": "リンゴとバナナとプルーンのフラン | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-26T08:46:36+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/SytgEPG4mGk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=SytgEPG4mGk"
+    },
     {
       "id": "F_Eezo5S7mk",
       "title": "今日の５きげんテレビ（11月26日）｜テレビ岩手",

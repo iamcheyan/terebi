@@ -1,8 +1,20 @@
 {
   "channel_id": "UCGrZAL2OKyKHj5flMIVU72A",
   "channel_name": "STV札幌テレビ放送",
-  "updated_at": "2026-11-16T23:41:38.304412",
+  "updated_at": "2026-11-26T23:33:16.282166",
   "videos": [
+    {
+      "id": "eruB0Zi4j9I",
+      "title": "11月28日(土)ごご３時放送 | 恐竜発掘アドベンチャー2～北海道は＂恐竜王国＂！？～",
+      "description": "",
+      "publishedAt": "2026-11-26T09:00:33+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/eruB0Zi4j9I/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=eruB0Zi4j9I"
+    },
     {
       "id": "k4M_fmPptxQ",
       "title": "ライブカメラ 北海道(ＳＴＶ札幌テレビ放送)/LiveCamera Hokkaido Japan",

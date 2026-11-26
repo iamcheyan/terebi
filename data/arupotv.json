@@ -1,8 +1,32 @@
 {
   "channel_id": "UCwQ7n1SvtocHAaOlCKnM32A",
   "channel_name": "RKK熊本放送",
-  "updated_at": "2026-11-24T02:03:09.197944",
+  "updated_at": "2026-11-26T23:33:14.936297",
   "videos": [
+    {
+      "id": "Bra-sFWCQb0",
+      "title": "【番宣】１１月３０日（月）NEWSゲツキン",
+      "description": "",
+      "publishedAt": "2026-11-26T07:55:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/Bra-sFWCQb0/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Bra-sFWCQb0"
+    },
+    {
+      "id": "I5aADmyK9x8",
+      "title": "【番宣】１２月５日（土）くまもと、バド熱！",
+      "description": "",
+      "publishedAt": "2026-11-25T23:34:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/I5aADmyK9x8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=I5aADmyK9x8"
+    },
     {
       "id": "aRT_l3EJji0",
       "title": "【番宣】１１月２６日（木）NEWSゲツキン",

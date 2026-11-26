@@ -1,8 +1,68 @@
 {
   "channel_id": "UCEyOUNa0wNyx57MN-vMf_rg",
   "channel_name": "朝日放送テレビ（ABC）",
-  "updated_at": "2026-11-25T23:31:02.092815",
+  "updated_at": "2026-11-26T23:32:57.103151",
   "videos": [
+    {
+      "id": "3tF6oBa0KU4",
+      "title": "「なるみ・岡村の過ぎるTV」11月30日（月）放送",
+      "description": "",
+      "publishedAt": "2026-11-26T08:55:08+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/3tF6oBa0KU4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=3tF6oBa0KU4"
+    },
+    {
+      "id": "48u2oC3O2jI",
+      "title": "「相席食堂」12月1日（火）よる放送！",
+      "description": "",
+      "publishedAt": "2026-11-26T07:45:30+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/48u2oC3O2jI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=48u2oC3O2jI"
+    },
+    {
+      "id": "LL6mlQW8bnM",
+      "title": "「Travis JapanノJUST！シン日本遺産」12月2日（水）深夜1時39分放送",
+      "description": "",
+      "publishedAt": "2026-11-26T00:55:57+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/LL6mlQW8bnM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=LL6mlQW8bnM"
+    },
+    {
+      "id": "udBsXoa1rx4",
+      "title": "【キラスマ】和太鼓のチカラで　みんなを笑顔に #330",
+      "description": "",
+      "publishedAt": "2026-11-26T00:55:12+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/udBsXoa1rx4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=udBsXoa1rx4"
+    },
+    {
+      "id": "rU9J6yXQ-G8",
+      "title": "「これ余談なんですけど・・・」12月2日（水）よる放送！",
+      "description": "",
+      "publishedAt": "2026-11-26T00:54:22+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/rU9J6yXQ-G8/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=rU9J6yXQ-G8"
+    },
     {
       "id": "TdMvK33HN0M",
       "title": "「news おかえり」11月27日(金)午後3時40分～放送",

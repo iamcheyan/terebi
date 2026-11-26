@@ -1,8 +1,32 @@
 {
   "channel_id": "UC7qQJi_WE9yNhA48kP6TT0Q",
   "channel_name": "テレビ岩手TVIニュースチャンネル",
-  "updated_at": "2026-11-25T23:30:43.284995",
+  "updated_at": "2026-11-26T23:32:54.518195",
   "videos": [
+    {
+      "id": "-ih1DvZYkFU",
+      "title": "【わんカメＬＩＶＥ】ビーチバレー冬も楽しんで！",
+      "description": "",
+      "publishedAt": "2026-11-26T10:42:58+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/-ih1DvZYkFU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=-ih1DvZYkFU"
+    },
+    {
+      "id": "bXtksqyDfRU",
+      "title": "元気○（マル）らいふ　【「ヒートショック」注意点と対策】（2026/11/25放送　ニュースプラス１いわて）",
+      "description": "",
+      "publishedAt": "2026-11-26T07:45:15+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bXtksqyDfRU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bXtksqyDfRU"
+    },
     {
       "id": "mrnoVlfz5aE",
       "title": "【わんカメＬＩＶＥ】無農薬で店主自ら栽培したさつまいもでこだわりの焼き芋を販売",

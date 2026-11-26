@@ -1,8 +1,32 @@
 {
   "channel_id": "UCGqbhE5MbFdwPjS4goqymrw",
   "channel_name": "KBS京都",
-  "updated_at": "2026-11-25T23:30:27.818760",
+  "updated_at": "2026-11-26T23:32:28.216315",
   "videos": [
+    {
+      "id": "Drw27DTEjCI",
+      "title": "【京の風】刑務所で起業家育成プログラム／きょうと経済テラス キュンと！",
+      "description": "",
+      "publishedAt": "2026-11-26T09:00:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/Drw27DTEjCI/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Drw27DTEjCI"
+    },
+    {
+      "id": "lPgn6eaa78k",
+      "title": "KBS京都開局75周年　シリーズ「引き揚げのまち舞鶴」【特集】",
+      "description": "",
+      "publishedAt": "2026-11-26T08:55:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/lPgn6eaa78k/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=lPgn6eaa78k"
+    },
     {
       "id": "LljaX0D8srY",
       "title": "京大キャンパスにある本格フレンチレストラン／きょうと経済テラス キュンと！",

@@ -1,8 +1,32 @@
 {
   "channel_id": "UCk_jA9Y8pb50Ab2EzV_KhLw",
   "channel_name": "RAB青森放送",
-  "updated_at": "2026-11-24T23:47:29.801694",
+  "updated_at": "2026-11-26T23:32:42.012030",
   "videos": [
+    {
+      "id": "FYM5hFhpFLk",
+      "title": "栗原心平の青森いただきまーす！11月9日テーマ「長いものふわふわお好み焼き」",
+      "description": "",
+      "publishedAt": "2026-11-26T00:59:17+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/FYM5hFhpFLk/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=FYM5hFhpFLk"
+    },
+    {
+      "id": "A-16w-5319U",
+      "title": "季節のいけばな11月２４日テーマ「朝陽をあびてコーヒー」",
+      "description": "",
+      "publishedAt": "2026-11-26T00:36:18+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/A-16w-5319U/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=A-16w-5319U"
+    },
     {
       "id": "cQbxVwyvOi4",
       "title": "新山千春の「暮らしプラス」11月20日「コノハト茶葉店」",
