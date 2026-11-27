@@ -1,8 +1,20 @@
 {
   "channel_id": "UC32pF1BZLteNqIaXUVs7Slg",
   "channel_name": "KFB福島放送",
-  "updated_at": "2026-11-24T02:03:02.748771",
+  "updated_at": "2026-11-27T23:16:58.262912",
   "videos": [
+    {
+      "id": "TfMi8MzaNYo",
+      "title": "ときまるキャラバン㉒エムポリアムこども園",
+      "description": "",
+      "publishedAt": "2026-11-27T09:19:03+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/TfMi8MzaNYo/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=TfMi8MzaNYo"
+    },
     {
       "id": "g3BFvfXGpQI",
       "title": "福島美少女図鑑のイマコレ　LINEヤフー「Agent i」新機能",

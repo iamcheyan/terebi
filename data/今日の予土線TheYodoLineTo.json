@@ -1,8 +1,44 @@
 {
   "channel_id": "UCVES687qeOdXqJdRsHALwYw",
   "channel_name": "今日の予土線",
-  "updated_at": "2026-11-26T23:33:33.019778",
+  "updated_at": "2026-11-27T23:17:16.537602",
   "videos": [
+    {
+      "id": "PKEQdkIth_4",
+      "title": "261127 134847 増田踏切（かっぱ列車通過）",
+      "description": "",
+      "publishedAt": "2026-11-27T09:49:56+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/PKEQdkIth_4/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=PKEQdkIth_4"
+    },
+    {
+      "id": "JzG1oN24WiU",
+      "title": "261127 134451 増田踏切（みきゃん列車通過）",
+      "description": "",
+      "publishedAt": "2026-11-27T09:45:44+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/JzG1oN24WiU/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=JzG1oN24WiU"
+    },
+    {
+      "id": "OZ_-l5k54us",
+      "title": "261127 134135 増田踏切",
+      "description": "",
+      "publishedAt": "2026-11-27T09:38:29+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/OZ_-l5k54us/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=OZ_-l5k54us"
+    },
     {
       "id": "T8BGc_3bvow",
       "title": "261126 155347 宮野下第２踏切",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UCAzaZfwgfjYVRGn4S60xM6Q",
   "channel_name": "テレビせとうち（TSC）",
-  "updated_at": "2026-11-25T23:30:23.418025",
+  "updated_at": "2026-11-27T23:16:27.150918",
   "videos": [
+    {
+      "id": "AvybYGYtnIA",
+      "title": "【ピリサタ】沖縄特集　2026年11月14日放送",
+      "description": "",
+      "publishedAt": "2026-11-27T05:21:49+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/AvybYGYtnIA/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=AvybYGYtnIA"
+    },
     {
       "id": "sI8w38jeITY",
       "title": "【百戦錬磨 コーチングの流儀】⑰岡山トランポリン石坂代表「数字で勝利を逆算」",

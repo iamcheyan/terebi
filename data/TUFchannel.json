@@ -1,8 +1,20 @@
 {
   "channel_id": "UCsci9tL9g8QPOvUwjJeDAgA",
   "channel_name": "TUFテレビユー福島",
-  "updated_at": "2026-11-26T23:33:18.858899",
+  "updated_at": "2026-11-27T23:17:08.576317",
   "videos": [
+    {
+      "id": "j4FYHd2dlZE",
+      "title": "【明日への一歩】相馬農業高校　郷土芸能部",
+      "description": "",
+      "publishedAt": "2026-11-27T01:48:34+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/j4FYHd2dlZE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=j4FYHd2dlZE"
+    },
     {
       "id": "oH9KXFKVg5I",
       "title": "【ふくしまSHOW】『楢葉町・広野町』大特集！",

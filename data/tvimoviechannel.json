@@ -1,8 +1,44 @@
 {
   "channel_id": "UCsMldMn5mMamhvvyETnYHsg",
   "channel_name": "TVIテレビ岩手",
-  "updated_at": "2026-11-26T23:33:19.408347",
+  "updated_at": "2026-11-27T23:17:08.916876",
   "videos": [
+    {
+      "id": "VXVLElm29IM",
+      "title": "タラのピルピル（スペイン料理） | ５きげんクッキング",
+      "description": "",
+      "publishedAt": "2026-11-27T09:06:20+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/VXVLElm29IM/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=VXVLElm29IM"
+    },
+    {
+      "id": "0R5-_P9IcYg",
+      "title": "5きげん知恵袋 ～岩手県産りんご～",
+      "description": "",
+      "publishedAt": "2026-11-27T08:28:24+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/0R5-_P9IcYg/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=0R5-_P9IcYg"
+    },
+    {
+      "id": "bhvp_zhJPPY",
+      "title": "岩瀬・きぬ・天津木村が行く！無人駅ごはん｜JR大船渡線 真滝駅｜岩手・一関市｜５きげんテレビ",
+      "description": "",
+      "publishedAt": "2026-11-27T07:19:41+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/bhvp_zhJPPY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=bhvp_zhJPPY"
+    },
     {
       "id": "TAW-UiszrBg",
       "title": "今日の５きげんテレビ（11月27日）｜テレビ岩手",

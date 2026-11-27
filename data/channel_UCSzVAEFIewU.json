@@ -1,8 +1,32 @@
 {
   "channel_id": "UCSzVAEFIewUsDHFEkcdyw1w",
   "channel_name": "EBCテレビ愛媛",
-  "updated_at": "2026-11-26T23:32:49.148771",
+  "updated_at": "2026-11-27T23:16:30.007377",
   "videos": [
+    {
+      "id": "p-vV3fWjNvE",
+      "title": "【宇和島ウィーク】中山明音が宇和島を媛さんぽ♪",
+      "description": "",
+      "publishedAt": "2026-11-27T10:11:06+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i1.ytimg.com/vi/p-vV3fWjNvE/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=p-vV3fWjNvE"
+    },
+    {
+      "id": "nLkKbQCMpIs",
+      "title": "【宇和島ウィーク】市内中心部の商店街を巡り、南予ならでは、お店自慢の逸品をご紹介。",
+      "description": "",
+      "publishedAt": "2026-11-27T03:00:11+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i3.ytimg.com/vi/nLkKbQCMpIs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=nLkKbQCMpIs"
+    },
     {
       "id": "1x3oY60Hd5E",
       "title": "【宇和島市ウィーク】秋祭り彩る「八ツ鹿踊り」受け継がれた歌声の“条件” とは… 南予の“鹿の面”は写実的？踊りに込められた意味を専門家が分析！",

@@ -1,8 +1,20 @@
 {
   "channel_id": "UC9FTt8SigjBd2bzzH3QCCVQ",
   "channel_name": "奈良テレビ放送（TVN）",
-  "updated_at": "2026-11-25T23:30:58.498685",
+  "updated_at": "2026-11-27T23:16:44.609441",
   "videos": [
+    {
+      "id": "efncaAFRwbs",
+      "title": "大和ハウス工業奈良支店のチーム力にせまる！",
+      "description": "",
+      "publishedAt": "2026-11-27T13:36:10+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/efncaAFRwbs/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=efncaAFRwbs"
+    },
     {
       "id": "IfSSne6TfGM",
       "title": "「いきいきまちだより」11月20日（金）放送｜奈良テレビ「ゆうドキッ！」内",

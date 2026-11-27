@@ -1,8 +1,32 @@
 {
   "channel_id": "UCv7j3OVeGN6ZLvr8NtgMicg",
   "channel_name": "KBC九州朝日放送",
-  "updated_at": "2026-11-26T23:32:51.740072",
+  "updated_at": "2026-11-27T23:16:21.027666",
   "videos": [
+    {
+      "id": "Kf6IwxBoU1E",
+      "title": "島田洋七の朝から言わせろ～岡山で気分が乱高下～",
+      "description": "",
+      "publishedAt": "2026-11-27T10:08:23+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i4.ytimg.com/vi/Kf6IwxBoU1E/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=Kf6IwxBoU1E"
+    },
+    {
+      "id": "9xeFWH05ESY",
+      "title": "ユーチューニャーのおしごとずかん｜新米のおしごと 編",
+      "description": "",
+      "publishedAt": "2026-11-27T03:00:13+00:00",
+      "thumbnails": {
+        "default": {
+          "url": "https://i2.ytimg.com/vi/9xeFWH05ESY/hqdefault.jpg"
+        }
+      },
+      "url": "https://www.youtube.com/watch?v=9xeFWH05ESY"
+    },
     {
       "id": "UzxroaK9TR8",
       "title": "不登校からイベント運営へ──フリースクールで見つけた居場所｜因幡正敏さん 中学2年【十人十色 】",
